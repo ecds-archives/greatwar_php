@@ -609,7 +609,7 @@ German Chancellor to the British Ambassador in Berlin</p>
 <docAuthor n="L., L.">L. L</docAuthor>
 <head rend="center">THE GRAVES OF GALLIPOLI</head>
 <byline rend="center">L. L. (A. N. Z. A. C.)<lb/>From, 'The Anzac Book," Cassell &#x0026; Co., Ltd.. Publishers, London. Special permission to reproduce in this book.</byline>
-<note>This poem is one of many that were written to commemorate the stubborn bravery of the Anzacs, the British soldiers from Australia and New Zealand. These indomitables came half way round the globe at Britain's first call. Their first appearance was in Egypt, where they drove the German--led Turks back into the desert and saved the Suez canal. They were and are officially designated the "Australian and New Zealand Army Corps," a title too long for common use. They have won fame and the world's admiration as the "Anzacs." a word made by running together the first letters of their official title. Australia's own name for her soldier is Bill--Jim. 'The Graves of Gallipoli" is one of the most noble and tender poems that have come to us out of the war</note>
+<note place="inline">This poem is one of many that were written to commemorate the stubborn bravery of the Anzacs, the British soldiers from Australia and New Zealand. These indomitables came half way round the globe at Britain's first call. Their first appearance was in Egypt, where they drove the German--led Turks back into the desert and saved the Suez canal. They were and are officially designated the "Australian and New Zealand Army Corps," a title too long for common use. They have won fame and the world's admiration as the "Anzacs." a word made by running together the first letters of their official title. Australia's own name for her soldier is Bill--Jim. 'The Graves of Gallipoli" is one of the most noble and tender poems that have come to us out of the war</note>
 <lg>
 <l n="1">THE herdman wandering by the lonely rills</l>
 <l>Marks where they lie on the scarred mountain's flanks,</l>
@@ -658,7 +658,7 @@ German Chancellor to the British Ambassador in Berlin</p>
 <docAuthor n="Guest, Edgar A.">Edgar A. Guest</docAuthor>
 <head rend="center">Battle Of Belleau Wood</head>
 <byline rend="center"><docAuthor>EDGAR A. GUEST</docAuthor></byline>
-<note>This poem was chosen by Major General John A. Lejeune, Commandant of the United States Marine Corps, as his favorite of all the Marine Corps verse written during the war.  It is republished here by permission of the author and of the publishers, Reilly and Lee, who hold the copyright</note>
+<note place="inline">This poem was chosen by Major General John A. Lejeune, Commandant of the United States Marine Corps, as his favorite of all the Marine Corps verse written during the war.  It is republished here by permission of the author and of the publishers, Reilly and Lee, who hold the copyright</note>
 <lg>
 <l n="1">IT was thick with Prussian troopers, it was foul with German guns;</l>
 <l>Every tree that cast a shadow was a sheltering place for Huns.</l>
@@ -954,7 +954,7 @@ they went</l>
 <byline rend="center"><docAuthor>BERTON BRALEY</docAuthor></byline>
 
 <bibl>From Mr. Braley's  book. 'In Camp and Trench; published and copyright, 1918, by George H. Doran Company, New York. Special permission to reproduce in this book.</bibl>
-<note>"Shavetail" is a name applied by enlisted men in the regular army to lieutenants fresh from West Point.</note>
+<note place="inline">"Shavetail" is a name applied by enlisted men in the regular army to lieutenants fresh from West Point.</note>
 <lg>
 <l n="1">TWENTY years of the army, of drawing a sergeant's pay</l>
 <l rend="indent2">And helping the West Point shavetails, fresh from
@@ -1104,7 +1104,7 @@ The richest harvests grow, </l>
 <head rend="center">A LITTLE GRIMY--FINGERED GIRL</head>
 <byline rend="center"><docAuthor>LEE WILSON DODD</docAuthor><lb/> 
 <hi rend="smallcap">IN The Outlook</hi><lb/>Permission to reproduce in this book</byline>
-<note>In sending his permission to use this sharp flash of the spirit of France, Mr. Dodd wrote: "It may interest you to know that the little grimy-fingered girl is real, and that I bought L'Intrans' from her every evening for many months during the dark days of last springin Paris." The spring referred to being that of 1918, when the Germans were only a few miles from the city.</note>
+<note place="inline">In sending his permission to use this sharp flash of the spirit of France, Mr. Dodd wrote: "It may interest you to know that the little grimy-fingered girl is real, and that I bought L'Intrans' from her every evening for many months during the dark days of last springin Paris." The spring referred to being that of 1918, when the Germans were only a few miles from the city.</note>
 <lg>
 <l n="1">A LITTLE grimy--fingered girl</l>
 <l>In stringy black and broken shoes </l>
@@ -1220,7 +1220,7 @@ Company, Cincinnati, Publishers of "With the Colors," by Everard Jack Appleton. 
 <docAuthor n="Henderson, Daniel M.">Daniel M. Henderson</docAuthor>
 <head rend="center">THE ROAD TO FRANCE</head>
 <byline rend="center"><docAuthor>DANIEL M. HENDERSON</docAuthor><lb/>Permission to reproduce in this book</byline>
-<note>The 1917 prize of the National Arts Club of New York was awarded to Mr. Henderson's poem. It was chosen out of more than four thousand that were submitted.</note>
+<note place="inline">The 1917 prize of the National Arts Club of New York was awarded to Mr. Henderson's poem. It was chosen out of more than four thousand that were submitted.</note>
 <lg>
 <l>THANK God, our liberating lance</l>
 <l>Goes flaming on the way to France! </l>
@@ -1273,7 +1273,7 @@ Company, Cincinnati, Publishers of "With the Colors," by Everard Jack Appleton. 
 <byline rend="center"> "L"<lb/>
 IN THE CHICAGO TRIBUNE</byline>
 
-<note>On the capture of the city by the British under General Allenby September 21, 1918.</note>
+<note place="inline">On the capture of the city by the British under General Allenby September 21, 1918.</note>
 <lg>
 <l n="1">ACROSS the sands by Mary's well</l>
 <l rend="indent2">Along the shores of Galilee, </l>
@@ -1373,7 +1373,7 @@ IN THE CHICAGO TRIBUNE</byline>
 <docAuthor n="Stanimirovic, V.">V. Stanimirovic</docAuthor>
 <head rend="center">A SERBIAN EPITAPH</head>
 <byline rend="center"><docAuthor>V. STANIMIROVIC</docAuthor></byline>
-<note>After the retreat of the Serbian Army across the mountains of Albania in 1915, the survivors who reached the coast were shipped to Corfu. Here, and in the neighboring island of Vido, many of them lied--to begin with, at the rate of hundreds a day. Some of them were buried at sea. Others lie in common graves. In the midst of he mounds which mark their resting--place, and which vary in size, here stands a cross. On it is a Serbian inscription, written by the poet, V. Stanimirovic, and translated for the London Westminster Gazette by Mr. L. F. Waring:</note>
+<note place="inline">After the retreat of the Serbian Army across the mountains of Albania in 1915, the survivors who reached the coast were shipped to Corfu. Here, and in the neighboring island of Vido, many of them lied--to begin with, at the rate of hundreds a day. Some of them were buried at sea. Others lie in common graves. In the midst of he mounds which mark their resting--place, and which vary in size, here stands a cross. On it is a Serbian inscription, written by the poet, V. Stanimirovic, and translated for the London Westminster Gazette by Mr. L. F. Waring:</note>
 <lg>
 <l n="1">NEVER a Serbian flower shall bloom </l>
 <l>In exile on our far-off tomb.</l>
@@ -1472,7 +1472,7 @@ New York.  Special permission to reproduce in this book.</bibl>
 <docAuthor n="Roche, John Pierre">Lieut. John Pierre Roche</docAuthor>
 <head rend="center">TRAINS</head>
 <byline rend="cneter"><docAuthor>LIEUT. JOHN PIERRE ROCHE</docAuthor><lb/>From Lieutenant Roche s book of poems, "Rimes in Olive Drab."Robert M. McBride &#x0026; Company, Publishers, New York. Copyright, 1918, Special permission to insert in this book.</byline>
-<note>Lieutenant Roche has deftly caught and preserved in words the strange vision of unannounced trains that flashed now and then post towns and villages bearing American troops from unknown camps to unknown ports of embarkation--the flash of faces of men about whom it was known only that they came from the shops and fields of home and were going across the seas to fight somewhere, for those who stood and gazed as they whirled by. The mystery, the roar of wheels, the eddying dust and the silence that followed infuse these lines with picture and sound that will stay in the minds of any who saw such trains go hurrying away.</note>
+<note place="inline">Lieutenant Roche has deftly caught and preserved in words the strange vision of unannounced trains that flashed now and then post towns and villages bearing American troops from unknown camps to unknown ports of embarkation--the flash of faces of men about whom it was known only that they came from the shops and fields of home and were going across the seas to fight somewhere, for those who stood and gazed as they whirled by. The mystery, the roar of wheels, the eddying dust and the silence that followed infuse these lines with picture and sound that will stay in the minds of any who saw such trains go hurrying away.</note>
 <lg>
 <l n="1">OVER thousands of miles </l>
 <l>Of shining steel rails, </l>
@@ -1769,7 +1769,7 @@ New York.  Special permission to reproduce in this book.</bibl>
 <bibl>From Lieutenant Roche's hook of poems, 'times in Olive Drab,"
 Robert M. McBride &#x0026; Company, Publishers, New York. Copyright,
 1515.  Special permission to insert in this book.</bibl>
-<note>"Doughboy" is an old nickname for a United States infantryman. When our army went into what is now New Mexico, Arizona and California to quiet the Mexicans hostilities that preceded the war of 1846, the infantry fell into a way of camping in houses built by the natives with sun--dried bricks of adobe mud. The cavalry, having to lie in the open with the horses, were joked thereat and came back by calling the infantry dobie boys. The name stuck and by an easy slide arrived at the present form.</note>
+<note place="inline">"Doughboy" is an old nickname for a United States infantryman. When our army went into what is now New Mexico, Arizona and California to quiet the Mexicans hostilities that preceded the war of 1846, the infantry fell into a way of camping in houses built by the natives with sun--dried bricks of adobe mud. The cavalry, having to lie in the open with the horses, were joked thereat and came back by calling the infantry dobie boys. The name stuck and by an easy slide arrived at the present form.</note>
 <lg>
 <l n="1">MIKE DILLON was a doughboy </l>
 <l rend="indent">And wore the issue stuff; </l>
@@ -2716,7 +2716,7 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 
 <div2 id="Eaton069" type="poem" n="To My Son">
 <head rend="center">TO MY SON</head>
-<note>A poem, anonymous, sent to the Chicago Evening Post by one whose son's regiment was leaving for France.</note>
+<note place="inline">A poem, anonymous, sent to the Chicago Evening Post by one whose son's regiment was leaving for France.</note>
 
 <lg>
 <l n="1">MY son, at last the fateful day has come</l>
@@ -2787,7 +2787,7 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 <docAuthor n="Kauffman, Reginald Wright">Reginald Wright Kauffman</docAuthor>
 <head rend="center">EASTER-EGGS</head>
 <byline rend="center"><docAuthor>REGINALD WRIGHT KAUFFMAN</docAuthor></byline>
-<note> From this author's 'Our Navy at Work," Published by the Bobbs-Merrill co. In 1917, our Government took over a large number of pleasure-yachts, fitted them with a few light guns and depth-charge and sent them into French waters to hunt submarines. They were variously known as "The Suicide Fleet" and "Easter-Eggs." Mr. Kauffman spent some time at sea with them. Permission to reproduce in this book.</note>
+<note place="inline" From this author's 'Our Navy at Work," Published by the Bobbs-Merrill co. In 1917, our Government took over a large number of pleasure-yachts, fitted them with a few light guns and depth-charge and sent them into French waters to hunt submarines. They were variously known as "The Suicide Fleet" and "Easter-Eggs." Mr. Kauffman spent some time at sea with them. Permission to reproduce in this book.</note>
 
 <lg>
 <l n="1">NOW, Mr. Wall of Wall St., he built himself a yacht,</l>
@@ -3003,7 +3003,7 @@ then unknown to me, "Te Deumn" came from the throats of thousands of thousands.<
 <head rend="center">POILU</head>
 <byline rend="center"><docAuthor>STEUART M. EMERY, A. E. F.</docAuthor><lb/>
 <hi rend="smallcap">IN The Stars And Stripes</hi></byline>
-<note>The traditional friendship between the United States and France was recemented under the fire of German guns. In France they celebrated our Fourth of July; in this country, we celebrated the fourteenth of July, the anniversary of the fall of the Bastile. Yank and Poilu, are brothers in war, don't mind the languages. The inextinguishable humor of France never showed more quaintly than inthat word, "Poilu." It means "unshaven." More freely, "a man who needs a shave." A whimsical comment upon the French soldier's way of letting his beard grow while he is in the field. Those boys were like the English and our own. They smiled at misery. They were good old sports, bless 'em!</note>
+<note place="inline">The traditional friendship between the United States and France was recemented under the fire of German guns. In France they celebrated our Fourth of July; in this country, we celebrated the fourteenth of July, the anniversary of the fall of the Bastile. Yank and Poilu, are brothers in war, don't mind the languages. The inextinguishable humor of France never showed more quaintly than inthat word, "Poilu." It means "unshaven." More freely, "a man who needs a shave." A whimsical comment upon the French soldier's way of letting his beard grow while he is in the field. Those boys were like the English and our own. They smiled at misery. They were good old sports, bless 'em!</note>
 
 <lg>
 <l n="1">YOU'RE a funny fellow, poilu, in your dinky little cap </l>
@@ -4143,7 +4143,7 @@ Permission to reproduce in this book</byline>
 
 <div2 id="Eaton109" type="poem" n="Knitting Socks">
 <head rend="center">KNITTING SOCKS</head>
-<note>The Boston Transcript reprinted the following poem in 1917, just as it appeared in that paper November 27, 1861.</note>
+<note place="inline">The Boston Transcript reprinted the following poem in 1917, just as it appeared in that paper November 27, 1861.</note>
 
 <lg>
 <l n="1">CLICK, click! how the needles go </l>
@@ -4840,7 +4840,7 @@ Prussian Major dead!</hi></l></lg><pb n="151"/></div2>
 <head rend="center">SUDDENLY ONE DAY</head>
 <byline rend="center">AUTHOR UNKNOWN<lb/>
 <hi rend="smallcap">From The Westminster Gazette</hi></byline>
-<note>Found in the pocket of Capt. T. P. C. Wilson, a British officer,killed in action.</note>
+<note place="inline">Found in the pocket of Capt. T. P. C. Wilson, a British officer,killed in action.</note>
 <lg>
 <l n="1">SUDDENLY one day</l>
 <l>The last ill shall fall away. </l>
@@ -5007,7 +5007,7 @@ Prussian Major dead!</hi></l></lg><pb n="151"/></div2>
 <head rend="center">A SMALL TOWN SPORT</head>
 <byline rend="center"><docAuthor>DAMON RUNYON</docAuthor><lb/>
 <hi rend="smallcap">IN The Herald And Examiner, Chicago</hi></byline>
-<note>In this piece of work Mr. Runyon presents a good specimen of a large class, a young fellow who was going the trifling way to the Everlasting Bonfire when the war caught him up and made a man of him, Thousands of such cases, before the war little better than waste human material, went out to fight, and found themselves, and made good, and came home sobered, serious men, worthy to stand among those to whom the nation's destinies were confided.</note>
+<note place="inline">In this piece of work Mr. Runyon presents a good specimen of a large class, a young fellow who was going the trifling way to the Everlasting Bonfire when the war caught him up and made a man of him, Thousands of such cases, before the war little better than waste human material, went out to fight, and found themselves, and made good, and came home sobered, serious men, worthy to stand among those to whom the nation's destinies were confided.</note>
 <lg>
 <l n="1">SON o' ol' Miz McAuliffe, the widder o' Box-Car Jack,</l>
 <l>An' ol' time shack on the Santa Fe, who run to Dodge and back.</l>
@@ -5129,7 +5129,7 @@ Prussian Major dead!</hi></l></lg><pb n="151"/></div2>
 
 <div2 id="Eaton130" type="poem" n="'Hearts Are Touching'">
 <head rend="center">"'HEARTS ARE TOUCHING'"</head>
-<note>POEMS need not be rhymed, nor wrought in verses.  This brave and touching one occurred in a letter written by a French schoolgirl:</note>
+<note place="inline">POEMS need not be rhymed, nor wrought in verses.  This brave and touching one occurred in a letter written by a French schoolgirl:</note>
 <lg>
 <l n="1">"It was only a little river; almost a brook; it was called the Yser. One could talk from one side to the other without raising one's voice, and the birds could fly over it with one sweep of their wings. And on the two banks there were millions of men, the one toward the other, eye to eye. But the distance which separated them was greater than the stars in the sky; it was the distance which separates right from injustice.</l></lg>
 <lg><l>"The ocean is so vast that the sea gulls do not dare to cross
@@ -5179,7 +5179,7 @@ hearts are touching."</l></lg></div2><pb n="160"/>
 <byline rend="center"><docAuthor>J. H. M. ABBOTT</docAuthor><lb/>
 <hi rend="smallcap">IN The London Outlook</hi></byline>
 
-<note>Large numbers of Australian and New Zealand volunteers are already on the water bound for Vancouver, en route for Europe.--Paragraph of War News, 1915.</note>
+<note place="inline">Large numbers of Australian and New Zealand volunteers are already on the water bound for Vancouver, en route for Europe.--Paragraph of War News, 1915.</note>
 <lg>
 <l n="1">OH Land of Ours, hear the song we make for you</l>
 <l>Land of yellow wattle bloom, land of smiling Spring-</l>
@@ -5437,7 +5437,7 @@ to the long, thin lines on either side. Here will we prove our right to life and
 <head rend="center">THE ANXIOUS ANTHEMIST</head>
 <byline rend="center"><docAuthor>GUY FORRESTER LEE</docAuthor><lb/>
 <hi rend="smallcap">IN The Chicago Sunday Tribune</hi></byline>
-<note>Written when the Allied armies were chasing the Germans across the fields of France and Flanders, in the summer of 1918.</note>
+<note place="inline">Written when the Allied armies were chasing the Germans across the fields of France and Flanders, in the summer of 1918.</note>
 <lg>
 <l n="1">I SIT down to write a poem of our fighting men's renown,</l>
 <l>And I scarce get fairly started when they take another town.</l>
@@ -5620,7 +5620,7 @@ to the long, thin lines on either side. Here will we prove our right to life and
 <docAuthor n="Fleming, L.">Lieut. L. Fleming</docAuthor>
 <head rend="center">THE WAR HORSE</head>
 <byline rend="center"><docAuthor>LIEUT. L FLEMING, B. E. F., FRANCE</docAuthor></byline>
-<note>Shortly after the verses here following were received from France by the American Red Star Animal Relief, Lieutenant Fleming fell in action. His voice, coming to us as from a plane of life where dumb creatures do not suffer, is a call to civilization to do its duty by the animals whose kind were silent heroes of the war.</note>
+<note place="inline">Shortly after the verses here following were received from France by the American Red Star Animal Relief, Lieutenant Fleming fell in action. His voice, coming to us as from a plane of life where dumb creatures do not suffer, is a call to civilization to do its duty by the animals whose kind were silent heroes of the war.</note>
 <lg>
 <l n="1">WHEN the shells are bursting round, </l>
 <l>Making craters in the ground,</l>
@@ -5703,7 +5703,7 @@ to the long, thin lines on either side. Here will we prove our right to life and
 <div2 id="Eaton144" type="poem" n="Parenthetically Speaking">
 <head rend="center">PARENTHETICALLY SPEAKING</head>
 <byline rend="center"><hi rend="smallcap">From The Chicago Tribune</hi></byline>
-<note>This delightful whimsy will serve to keep in mind the positively
+<note place="inline">This delightful whimsy will serve to keep in mind the positively
 affectionate exchange of greetings between the late President Carranza
 and his friend Wilhelm, when Wilhelm was celebrating what he did not know was the last glorious birthday in his life.</note>
 <lg>
@@ -5833,7 +5833,7 @@ Devil!</l></lg><pb n="178"/>
 <docAuthor n="Evans, Essex">Essex Evans</docAuthor>
 <head rend="center">"TO THE IRISH DEAD"</head>
 <byline rend="center">BY<docAuthor>ESSEX EVANS</docAuthor></byline>
-<note>The author of these heart--touching lines is a Queenslander of Welsh derivation. Sir Herbert Warren, K. C. V. O., of the University of Oxford, had this to say of him and of the Toast: "They say that no one but an Irishman understands Ireland, that she will listen to no one but Irishman. Wales is near to her in geography and in race. I have thought she perhaps might listen to a Welsh voice, She has one today, now whispering, now ringing, across St. George's Channel. Will she heed it? Who knows?"</note>
+<note place="inline">The author of these heart--touching lines is a Queenslander of Welsh derivation. Sir Herbert Warren, K. C. V. O., of the University of Oxford, had this to say of him and of the Toast: "They say that no one but an Irishman understands Ireland, that she will listen to no one but Irishman. Wales is near to her in geography and in race. I have thought she perhaps might listen to a Welsh voice, She has one today, now whispering, now ringing, across St. George's Channel. Will she heed it? Who knows?"</note>
 <lg>
 <l n="1">TIS a green isle set in a silver water,</l>
 <l rend="indent">A fairy isle where the shamrock grows, </l>
@@ -5908,7 +5908,7 @@ Devil!</l></lg><pb n="178"/>
 <docAuthor n="Wickersham, J. H.">Lieut. J. H. Wickersham</docAuthor>
 <head rend="center">RAIN ON YOUR OLD TIN HAT</head>
 <byline rend="center"><docAuthor>LIEUT. J. H. WICKERSHAM</docAuthor></byline>
-<note>Written at the battle front in France and sent to his mother, Mrs. W. E. Damon. Lieutenant Wickersham was killed in action September 14, 1918.</note>
+<note place="inline">Written at the battle front in France and sent to his mother, Mrs. W. E. Damon. Lieutenant Wickersham was killed in action September 14, 1918.</note>
 <lg>
 <l n="1">THE mist hangs low and quiet on a ragged line of hills,</l>
 <l rend="indent">There's a whispering of wind across the flat;</l>
@@ -6267,7 +6267,7 @@ mule.</l></lg><pb n="189"/></div2>
 <docAuthor n="Folge, Leroy">Leroy Folge</docAuthor>
 <head rend="center">THE HOMECOMING</head>
 <byline rend="center"><docAuthor>LEROY FOLGE</docAuthor></byline>
-<note>Grief for a brother, an American who was killed in France, brought about the suicide of the author of this poem.  The manuscript was found beside his body.  The lines were published in THE CHICAGE TRIBUNE</note>
+<note place="inline">Grief for a brother, an American who was killed in France, brought about the suicide of the author of this poem.  The manuscript was found beside his body.  The lines were published in THE CHICAGE TRIBUNE</note>
 <lg>
 <l n="1">HIS regiment came home today,</l>
 <l>But Jim, old Jim, he's still away. </l>

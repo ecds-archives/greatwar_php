@@ -845,7 +845,7 @@ Fortnightly Review.</byline>
 <div2 id="elliott022" type="poem" n="The Avengers">
 <docAuthor n="Seaman, Owen">Owen Seaman</docAuthor>
 <head rend="center">THE AVENGERS</head>
-<note rend="center">To our Soldiers in the Field.</note>
+<note place="inline" rend="center">To our Soldiers in the Field.</note>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">Not</hi> only that your cause is just and right --</l>
@@ -1454,7 +1454,7 @@ Fortnightly Review.</byline>
 <div2 id="elliott039" type="poem" n="Mediation in War-Time">
 <docAuthor n="Tynan, Katharine">Katherine Tynan</docAuthor>
 <head rend="center">MEDIATION IN WAR-TIME</head>
-<note rend="center">(After St. Anselm.)</note>
+<note place="inline" rend="center">(After St. Anselm.)</note>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">If</hi> Thou, Lord God, willest to judge</l>
@@ -1500,7 +1500,7 @@ Fortnightly Review.</byline>
 <head rend="center">of</head>
 <head rend="center">FIELD-MARSHAL EARL ROBERTS</head>
 <head rend="center">of Kandahar and Pretoria.</head>
-<note rend="center">[Born, 1832. Died on service at the Front, November 141h, 1914.]</note>
+<note place="inline" rend="center">[Born, 1832. Died on service at the Front, November 141h, 1914.]</note>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">He</hi> died, as soldiers die, amid the strife,</l>
@@ -1835,7 +1835,7 @@ Fortnightly Review.</byline>
 <div2 id="elliott052" type="poem" n="The Bulwarks">
 <docAuthor n="Bustridge, A. W.">A. W. Bustridge</docAuthor>
 <head rend="center">THE BULWARKS.</head>
-<note>[The splendid spirt of gallantry and devotion which animates the officers and men of his Majesty's forces. -- Sir John French.]</note>
+<note place="inline">[The splendid spirt of gallantry and devotion which animates the officers and men of his Majesty's forces. -- Sir John French.]</note>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">What</hi> though, with sullen roar,</l>
@@ -1943,7 +1943,7 @@ Fortnightly Review.</byline>
 <div2 id="elliott057" type="poem" n="All's Well">
 <docAuthor n="Bourdillon, F. W.">F. W. Bourdillon</docAuthor>
 <head rend="center">"ALL'S WELL"</head>
-<note>[Reprinted from "Christmas Roses" by permission of the author.]</note>
+<note place="inline">[Reprinted from "Christmas Roses" by permission of the author.]</note>
 
 <lg type="stanza">
 <l n="1" rend="italic">Watchman, watchman, what of the night,</l>

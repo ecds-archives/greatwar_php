@@ -587,7 +587,7 @@ When last heard from, the author, who is a British officer, was on service at Kh
 <head rend="center">A BALLAD OF DEATHLESS DONS</head>
 <head rend="center">OR:</head>
 <head rend="center">"WHEN THE ASSAULT WAS INTENDED TO THE CITY"</head>
-<note><p>(In honor of an Oxford Corps composed of those concerning whom it may be said most truly, in Mr. Belloc's words, that they are
+<note place="inline"><p>(In honor of an Oxford Corps composed of those concerning whom it may be said most truly, in Mr. Belloc's words, that they are
 <q rend="center"><l>"Dons admirable! Dons of Might!...</l><l>Dons English, worthy of the land.")</l></q></p></note>
 
 <lg type="stanza">
@@ -1588,7 +1588,7 @@ message, see!</l>
 <docAuthor n="Driscoll, Louise">Louise Driscoll</docAuthor>
 <head rend="center">THE METAL CHECKS</head>
 
-<note anchored="yes">(The scene is a bare room, with two shaded windows at the back, and a fireplace between them with a fire burning low. The room is furnished scantily with a few plain chairs, and a rough wooden table on which are piled a great many small wooden trays. The Counter, who is Death, sits at the table. He wears a loose gray robe, and his face is partly concealed by a gray veil. He does not look at The Bearer, but works mechanically and speaks in a monotonous tone. The Bearer is the World, that bears the burden of War. He wears a soiled robe of brown and green and he carries on his back a gunny-bag with the little metal disks that have been used for the identification of the slain common soldiers.)</note>
+<note anchored="yes" place="inline">(The scene is a bare room, with two shaded windows at the back, and a fireplace between them with a fire burning low. The room is furnished scantily with a few plain chairs, and a rough wooden table on which are piled a great many small wooden trays. The Counter, who is Death, sits at the table. He wears a loose gray robe, and his face is partly concealed by a gray veil. He does not look at The Bearer, but works mechanically and speaks in a monotonous tone. The Bearer is the World, that bears the burden of War. He wears a soiled robe of brown and green and he carries on his back a gunny-bag with the little metal disks that have been used for the identification of the slain common soldiers.)</note>
 
 <lg type="stanza">
 <head><hi rend="smallcap">The Bearer</hi></head>
@@ -1610,7 +1610,7 @@ message, see!</l>
 <l>Who shall render us again</l>
 <l rend="indent">The worth of all the slain?</l></lg>
 
-<note anchored="yes">(As the Counter speaks, the Bearer pours out the disks on the table. The Bearer obeys the Counter.)</note>
+<note anchored="yes" place="inline">(As the Counter speaks, the Bearer pours out the disks on the table. The Bearer obeys the Counter.)</note>
 
 <lg>
 <head><hi rend="smallcap">The Counter</hi></head>
@@ -1638,7 +1638,7 @@ message, see!</l>
 <l>That I could carry on my back</l>
 <l rend="indent">So great an army -- and all dead?</l></lg>
 <pb n="80"/>
-<note anchored="yes">(As the Counter speaks the Bearer lays the sack over his arm and helps count.)</note>
+<note anchored="yes" place="inline">(As the Counter speaks the Bearer lays the sack over his arm and helps count.)</note>
 
 <lg>
 <head><hi rend="smallcap">The Counter</hi></head>
@@ -1649,7 +1649,7 @@ message, see!</l>
 <l>There's another fallen -- there --</l>
 <l>Under that chair.</l></lg>
 
-<note anchored="yes">(The Bearer finds it and restores it.)</note>
+<note anchored="yes" place="inline">(The Bearer finds it and restores it.)</note>
 
 <lg>
 <l>That was a man a month ago;</l>
@@ -1661,7 +1661,7 @@ message, see!</l>
 <l>Nothing was left but this metal check --</l>
 <l>And a wife and child, perhaps.</l></lg>
 
-<note anchored="yes">(The Bearer finds the bag on his arm troublesome. He holds it up, inspecting it.)</note>
+<note anchored="yes" place="inline">(The Bearer finds the bag on his arm troublesome. He holds it up, inspecting it.)</note>
 
 <lg>
 <head><hi rend="smallcap">The Bearer</hi></head>
@@ -1679,7 +1679,7 @@ message, see!</l>
 <l>It's been shroud for too many men.</l>
 <l>I'll burn it and let the dead bless.</l></lg>
 
-<note anchored="yes">(He crosses himself and throws it into the fire. He watches it burn. The Counter continues to pile up the metal checks, and drop them by hundreds into the trays, which he piles one upon another. The Bearer turns from the fire and speaks more slowly than he has before. He indicates the metal checks.</note>
+<note anchored="yes" place="inline">(He crosses himself and throws it into the fire. He watches it burn. The Counter continues to pile up the metal checks, and drop them by hundreds into the trays, which he piles one upon another. The Bearer turns from the fire and speaks more slowly than he has before. He indicates the metal checks.</note>
 
 <lg>
 <l>Would not the blood of these make a great sea</l>
@@ -1768,7 +1768,7 @@ message, see!</l>
 <docAuthor n="Faber, Geoffrey">Geoffrey Faber</docAuthor>
 <head rend="center">"FOR THOSE AT SEA"</head>
 
-<note anchored="yes">(H.M.S. "Aboukir," "Cressy," "Hogue," September 22, 1914.)</note>
+<note anchored="yes" place="inline">(H.M.S. "Aboukir," "Cressy," "Hogue," September 22, 1914.)</note>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">Now</hi> all our English woodland sighs "October."</l>
@@ -1892,7 +1892,7 @@ message, see!</l>
 <docAuthor n="Frank, Florence Kiper">Florence Kiper Frank</docAuthor>
 <head rend="center">THE JEWISH CONSCRIPT</head>
 
-<note anchored="yes">(There are nearly a quarter of a million Jews in the Czar's army alone. -- <hi rend="italic">Newspaper clipping</hi>.)</note>
+<note anchored="yes" place="inline">(There are nearly a quarter of a million Jews in the Czar's army alone. -- <hi rend="italic">Newspaper clipping</hi>.)</note>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">They</hi> have dressed me up in a soldier's dress,</l>
@@ -2911,7 +2911,7 @@ message, see!</l>
 <docAuthor n="John, Edmund">Edmund John</docAuthor>
 <head rend="center">IN MEMORIAM</head>
 
-<note anchored="yes">(To Field-Marshal Lord Roberts of Kandahar, died November, 1914)</note>
+<note anchored="yes" place="inline">(To Field-Marshal Lord Roberts of Kandahar, died November, 1914)</note>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">Rest</hi>, though the clamorous surge of war</l>
@@ -3522,8 +3522,8 @@ message, see!</l>
 <div2 id="cunliffe080" type="poem" n="In Flanders Fields">
 <docAuthor n="McRae, John">John McRae</docAuthor>
 <head rend="center">IN FLANDERS FIELDS</head>
-<note anchored="yes">
-(Reprinted by the special permission of the proprietors of Punch.)</note>
+<note anchored="yes" place="inline">
+(Reprinted by the special permission of the proprietors of <hi rend="italic">Punch</hi>.)</note>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">In</hi> Flanders fields the poppies blow</l>
@@ -5455,7 +5455,7 @@ in glory everlasting.")</l></epigraph><ab><ptr target="cunliffe123.note" targOrd
 <l rend="indent">There go the dead that died for England, there.</l></lg>
 <byline>-- Frank Taylor.</byline></div2>
 <div2 id="cunliffe123.note" type="notes"><ab><ptr target="cunliffe123" targOrder="U"/></ab>
-<note anchored="yes">(This poem was written about 1902, and was published in the Spectator of June 12, 1915, having been found among the author's papers by his executor, by whose consent it is here reprinted.)</note>
+<note anchored="yes" place="inline">(This poem was written about 1902, and was published in the Spectator of June 12, 1915, having been found among the author's papers by his executor, by whose consent it is here reprinted.)</note>
 </div2>
 
 
@@ -5513,7 +5513,7 @@ in glory everlasting.")</l></epigraph><ab><ptr target="cunliffe123.note" targOrd
 <div2 id="cunliffe126" type="poem" n="The Unconquered Hope">
 <docAuthor n="Thomas, Gilbert">Gilbert Thomas</docAuthor>
 <head rend="center">THE UNCONQUERED HOPE</head>
-<note anchored="yes">(A ship recently arrived in England from America, laden with toys, the gift of the American people, for the children both of the Allies and the Enemy.)</note>
+<note anchored="yes" place="inline">(A ship recently arrived in England from America, laden with toys, the gift of the American people, for the children both of the Allies and the Enemy.)</note>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">From</hi> sea to sea, from shore to shore,</l>
@@ -5579,7 +5579,7 @@ in glory everlasting.")</l></epigraph><ab><ptr target="cunliffe123.note" targOrd
 <div2 id="cunliffe127" type="poem" n="Sonnet">
 <docAuthor n="Tollemache, Grace E.">Grace E. Tollemache</docAuthor>
 <head rend="center">SONNET</head>
-<note rend="center" anchored="yes"><hi rend="italic">October 1st, 1914</hi></note>
+<note rend="center" anchored="yes" place="inline"><hi rend="italic">October 1st, 1914</hi></note>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">England</hi>! that thou wast faint of heart we said,</l>

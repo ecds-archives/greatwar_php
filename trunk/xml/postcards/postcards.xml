@@ -178,7 +178,8 @@ short man, and a faceless figure, a skeleton, in a bed. The tall gentleman has a
 <figDesc>This postcard is a black and white photo of cathedral ruins. Text centered at bottom: "Senlis", "Campagne 1914-1917" and "La Galerie des Tours de l'Eglise de la Cath&eacute;drale apr&egrave;s le bombardement par les Allemands." Text at bottom left: "Vis&eacute; Paris". Text at bottom right: "ND. Phot." On reverse: "Imp. Prot. &AElig;urdein Et Cie, 52, Av. De Breteuil. - Paris."</figDesc>
 </figure>
 
- <figure entity="cannon_blast3" ana="nat-us mil-na con-el im-ph t-wwi">
+<figure entity="cannon_blast3" ana="nat-us mil-na con-el im-ph t-wwi">
+<head>Ship Cannons</head>
 <figDesc>This postcard is a black and white photo of cannons shooting from a ship. On reverse: blank.</figDesc>
 </figure>
 
@@ -348,6 +349,7 @@ his adherents will do such a thing.</p>
 </figure>
 
 <figure entity="eagle_flag" ana="nat-us con-f hf-p con-v">
+<head>Your Flag and My Flag</head>
 <figDesc>This postcard is a color picture of an eagle holding the American flag above the earth. The sun shines light on the United States from behind the eagle. Text at bottom center: "Your Flag and my flag,/The Flag that flies above;/The nation where we work and live,/The country that we love." Text beneath picture: "Copyright E.N." On reverse: "Flag series No.4"; "Made in U.S.A."</figDesc>
 </figure>
 
@@ -368,12 +370,12 @@ his adherents will do such a thing.</p>
 
 <figure entity="embroidered_flags" ana="nat-fr im-s con-f nat-it
 	nat-rus nat-brit nat-bel">
-<head></head>
+<head>Five flags</head>
 <figDesc>This postcard has five embroidered flags and embroidered flowers, framed with embossed holly. The front of the postcard functions as an envelope with a removable card inside. Text on card: "My best kisses". On reverse: "Fabrication Fran&ccedil;aise".</figDesc>
 </figure>
 
 <figure entity="embroidered_screen" ana="nat-bel im-s">
-<head></head>
+<head>April 1st Fish</head>
 <figDesc>This postcard has a fish and flower embroidered on a screened
 cutout. A gold bird is embossed above the embroidered picture, and
 gold flowers are embossed around it. Text at bottom center: French
@@ -541,6 +543,7 @@ misfortune to become victims of Hun 'Kultur'"</p><p rend="right">From a press cu
 </figure>
 
 <figure entity="gloria" ana="nat-fr hf-w hf-ro mil-a">
+<head>Gloria</head>
 <figDesc>This postcard is a color-tinted, sepia-toned picture of a soldier with a bouquet looking up at a woman holding a bouquet. Text in middle left: "Vous avez pris ma fleur d'amour!/Gardez-l&agrave; jusqu'&agrave; mon retour!" In bottom left: "380". Text in bottom right: "Gloria". On reverse: "Fabrication Fran&ccedil;aise". </figDesc>
 </figure>
 
@@ -645,6 +648,7 @@ misfortune to become victims of Hun 'Kultur'"</p><p rend="right">From a press cu
 </figure>
 
 <figure entity="harbor" ana="nat-us mil-na con-el im-ph t-post">
+<head>Ship in harbor</head>
 <figDesc>This postcard is a black and white photo of a ship harbor. On reverse: blank.</figDesc>
 </figure>
 
@@ -680,6 +684,7 @@ now assembled as God's happy warriors on the Plains of Peace.</p>
 </figure>
 
 <figure entity="inferno_xii" ana="nat-it con-v im-ca t-wwi">
+<head>Inferno</head>
 <figDesc>This postcard is a black and white drawing of Dante and Virgil as they stand in front of a river with two men submerged up to their necks in the water. One of the men is German. On one side of Dante stands a centaur. Text at top center: "Io vidi gente sotto infino al ciglio;/E il Centauro disse: Ei son tiranni,/Che dier nel sangue e nell'aver di piglio. (Inferno canto XII)." On reverse: blank.</figDesc>
 </figure>
 
@@ -774,6 +779,7 @@ now assembled as God's happy warriors on the Plains of Peace.</p>
 </figure>
 
 <figure entity="liege_soldiers" ana="nat-fr mil-a hf-p con-h im-ca t-wwi">
+<head></head>
 <figDesc>This postcard is a black and white cartoon of two soldiers walking with their chests stuck out. Text at bottom right of picture: "Pierre". Text at bottom center: "--Ils cherchent leur &eacute;tendard qu'ils ont &eacute;gar&eacute;/dans les environs de Li&egrave;ge./--They are looking for their flag and they have/mislaid somewhere about Liege." On reverse: blank.</figDesc>
 </figure>
 

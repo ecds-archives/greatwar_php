@@ -18,15 +18,12 @@ declare namespace xf="http://www.w3.org/2002/08/xquery-functions"
 for $a in input()/TEI.2
 let $docname := tf:getDocname(xf:root($a))
 let $titlestmt := $a/teiHeader/fileDesc/titleStmt
+let $fileDesc := $a/teiHeader/fileDesc
 let $bibl := $a/teiHeader/fileDesc/sourceDesc/bibl
 where $docname = ' . "'$id'" . '
 return <div>
 <teiHeader>
-<fileDesc> {$titlestmt}
-<sourceDesc>
-  {$bibl}
-</sourceDesc>
-</fileDesc>
+{$fileDesc}
 </teiHeader>
 { for $fdiv in $a/:text/front/div1
 return <front><div1> {$fdiv/@id} {$fdiv/@n} {$fdiv/@type} {$fdiv/head} </div1></front> }
@@ -49,12 +46,26 @@ $t = explode(":", $title, 2);
 $title = $t[0];
 $subtitle = $t[1];
 
+// metadata information for cataloging
+$header_xsl1 = "teiheader-dc.xsl";
+$header_xsl2 = "dc-htmldc.xsl";
+// copy xsl_result to xml object for a second xsl transform
+
 print "<html>
   <head>
     $csslink
     <title>The Great War : Poetry : Contents - $title</title>
-    <meta http-equiv='Content-Type' content='text/html; charset=iso-8859-1'>
-    <base href='$base_url'> 
+    <meta http-equiv='Content-Type' content='text/html; charset=iso-8859-1'>"; 
+$tamino->xslTransform($header_xsl1);
+// backup xml from tamino
+$realxml = $tamino->xmlContent;
+//copy xsl_result to xml object for next xsl transform
+$tamino->xmlContent = $tamino->xsl_result;
+$tamino->xslTransform($header_xsl2);
+$tamino->printResult();
+//restore tamino xml
+$tamino->xmlContent = $realxml;
+print "<base href='$base_url'> 
   </head> 
 <body>
 ";

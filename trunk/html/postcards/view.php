@@ -1,5 +1,5 @@
 <?php
-include("../config.php");	
+include("../config.php");
 
 include_once("lib/taminoConnection.class.php");
 include_once("lib/mybreadcrumb.php");
@@ -62,6 +62,22 @@ print '<div class="content">';
 
 $tamino->xslTransform($xsl_file, $xsl_params); 
 $tamino->printResult();
+
+// if logged in / have permissions
+if ($_SESSION['authlevel']) { 	
+  print "<p class='admin'>\n";
+  print "Admin<br>\n";
+  print "<a href='admin/postcards/modify.php?id=$id'>Modify description</a><br>\n";
+  // are admin comments completely functional?
+  print "<a href='admin/postcards/comment.php?id=$id'>Add a Comment</a><br>\n";
+  // modify/delete comments -- only display if there are comments ?
+  //print "<a href='admin/postcards/comment.php?id=$id'>Modify Comments</a><br>\n";
+  print "</p>\n";
+} else {
+  // user comments not yet completely functional
+  //  print "<a class='comment' href='postcards/comment.php?id=$id'>Add a Comment</a><br>\n";
+}
+
 
 print '</div>';
 

@@ -298,8 +298,8 @@ class linkRecord {
       print "<$readonlyinput name='date' value='$this->date'>\n";
     } else {
       /* If unset, initialize date value to today.  
-         Format is: 2004-04-09 4:13 PM */
-      print "<$textinput name='date' value='" . date("Y-m-d g:i A") . "'>\n";
+         Format is: 2004-04-09 4:13:00 PM */
+      print "<$textinput name='date' value='" . date("Y-m-d g:i:s A") . "'>\n";
     }
     print "</td></tr>";
     if (isset($this->id)) {

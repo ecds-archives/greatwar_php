@@ -22,7 +22,7 @@ $kw = $_GET['keyword'];
 
 $args = array('host' => $tamino_server,
 	      'db' => $tamino_db,
-	      'coll' => 'links',
+	      'coll' => $tamino_coll['links'],
       	      'limit_subject' => $subject[0],
 	      'keyword' => $kw,
 	      'sort' => $sort,

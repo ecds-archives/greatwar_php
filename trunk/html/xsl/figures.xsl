@@ -187,7 +187,6 @@ select="@entity"/>&amp;zoom=2</xsl:attribute>
 	    <xsl:value-of select="key('interp-name', $id)"/></li>
      </xsl:if>
 
-
 </xsl:template>
 
 </xsl:stylesheet>

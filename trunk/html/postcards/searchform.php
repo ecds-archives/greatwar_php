@@ -16,7 +16,7 @@ include_once("lib/taminoConnection.class.php");
 
 $args = array('host' => $tamino_server,
 	      'db' => $tamino_db,
-      	      'coll' => 'postcards',
+      	      'coll' => $tamino_coll['postcards'],
 	      'basedir' => $basedir,
 	      'debug' => false,
 	      );

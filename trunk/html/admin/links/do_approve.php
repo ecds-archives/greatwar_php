@@ -15,7 +15,7 @@ include_once("lib/mybreadcrumb.php");
 
 $myargs = array('host' => $tamino_server,
 		'db' => $tamino_db,
-		'coll' => 'links',
+		'coll' => $tamino_coll['links'],
 		'debug' => false);
 
 include("header.php");

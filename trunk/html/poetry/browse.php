@@ -19,7 +19,7 @@ print "<p class='breadcrumbs'>" . $breadcrumb->show_breadcrumb() . "</p>";
 
 $args = array('host' => $tamino_server,
 	      'db' => $tamino_db,
-	      'coll' => 'poetry',
+	      'coll' => $tamino_coll['poetry'],
       	      'basedir' => $basedir,
      	      'debug' => false,
 	       );

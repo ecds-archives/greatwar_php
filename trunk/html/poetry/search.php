@@ -16,7 +16,7 @@ include_once("lib/taminoConnection.class.php");
 include_once("lib/mybreadcrumb.php");
 $args = array('host' => $tamino_server,
 	      'db' => $tamino_db,
-	      'coll' => 'poetry',
+	      'coll' => $tamino_coll['poetry'],
       	      'basedir' => $basedir,
 	      'debug' => false,
 	     );

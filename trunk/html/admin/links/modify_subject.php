@@ -18,7 +18,7 @@ print "<p class='breadcrumbs'>" . $breadcrumb->show_breadcrumb() . "</p>";
 
 $myargs = array('host' => $tamino_server,
 		'db' => $tamino_db,
-		'coll' => 'links');
+		'coll' => $tamino_coll['links']);
 $subject_list = new subjectList($myargs);
 
 print '<div class="content">

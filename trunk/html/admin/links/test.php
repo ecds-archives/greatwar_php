@@ -20,7 +20,7 @@ $id = $_GET["id"]; // test only one link
 
 $args = array('host' => $tamino_server,
 	      'db' => $tamino_db,
-	      'coll' => 'links',
+	      'coll' => $tamino_coll['links'],
 	      'sort' => $sort);
 
 $linkset = new aLinkCollection($args);

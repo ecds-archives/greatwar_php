@@ -20,5 +20,8 @@ $csslink = "<link rel='stylesheet' type='text/css' href='$base_url/$cssfile'>";
  */
 $tamino_server = "vip.library.emory.edu";
 $tamino_db = "WW1";
-
+/* define all these in one place so it is easy to change for testing */
+$tamino_coll["poetry"] = "poetry";
+$tamino_coll["links"] = "links";
+$tamino_coll["postcards"] = "postcards";
 ?>

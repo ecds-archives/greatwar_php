@@ -14,7 +14,7 @@ include_once("lib/mybreadcrumb.php");
 include_once ("lib/alinkCollection.class.php");
 $args = array('host' => $tamino_server,
 	      'db' => $tamino_db,
-	      'coll' => 'links',
+	      'coll' => $tamino_coll['links'],
 	      'debug' => false);
 $linkset = new aLinkCollection($args);
 

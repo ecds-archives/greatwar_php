@@ -38,7 +38,7 @@ $random_pcard = "for \$a in input()/TEI.2/:text/body/p/figure[$rand_index] retur
 $pcard_xsl = "figures.xsl";
 $pcard_params = array("mode" => "thumbnail");
 
-include("header.html");
+include("header.php");
 print "<p class='breadcrumbs'>" . $breadcrumb->show_breadcrumb() . "</p>";
 
 print '<div class="content">';
@@ -50,7 +50,7 @@ $tamino->xslTransform($pcard_xsl, $pcard_params);
 $tamino->printResult();
 print '</div>';
 
-print 'For more information about the postcards, read <a href="">about the project</a>.</p> 
+print 'For more information about the postcards, read <i>about the project</i> <font size="-1">[essay not yet available]</font>.</p> 
 <p> 
 There are several different ways to view the postcards: 
 <ul> 
@@ -66,7 +66,7 @@ $tamino->xslTransform($cat_xsl, $cat_params);
 $tamino->printResult();
 print '</div>
 </li>
-<li><a href="postcards/searchform.php">Search</a> the postcards by title, description, and category
+<li><a href="postcards/searchform.php">Search</a> the postcards by keyword, title, description, and category
 </li>
 </ul>
 </p>

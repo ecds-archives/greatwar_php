@@ -85,13 +85,15 @@ class linkCollection {
 
   // print full details of all linkRecords in a nice table
   function printRecords ($show_edits = 1) {
-    print "<table border='1' width='90%'>";
+    print "<table class='linkCollection'>";
     foreach ($this->ids as $i) {
       print "<tr><td>";
       $this->link[$i]->printHTML($show_edits);
       print "</td>";
-      print "<td><p><a href='delete.php?id=$i'>Delete</a></p>";
-      print "<p><a href='modify.php?id=$i'>Modify</a></p></td></tr>";
+      print "<td class='delmod'><p><a href='delete.php?id=$i'>Delete</a></p>";
+      print "<p><a href='modify.php?id=$i'>Modify</a></p>";
+      print "<p><a href='test.php?id=$i'>Test</a></p>";
+      print "</td></tr>"; 
     }
     print "</table>";
   }
@@ -133,5 +135,20 @@ class linkCollection {
     print "</form>\n";
   }
 
+
+  // print url status for all linkrecords
+  function printUrlStatus ($id = NULL) {
+    //if an id is specified, only display the status of the requested url
+    print "<table class='linkStatus'>";
+    if (isset($id)) {
+      $this->link[$id]->printUrlStatus(false);
+    } else {
+      foreach ($this->ids  as $i) {
+	 // display each link as a table row, not a full table
+         $this->link[$i]->printUrlStatus(false);		
+      }
+    print "</table>";
+    }
+  }
 
 }

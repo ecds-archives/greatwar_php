@@ -4162,4 +4162,518 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <byline>-- Josephine Preston Peabody.</byline>
 </div2>
 
-070 p.211
+<pb n="212"/>
+<div2 id="cunliffe071" type="poem" n="Revenge for Rheims">
+<head rend="center">REVENGE FOR RHEIMS</head>
+
+<lg type="stanza">
+<l n="1">T<hi rend="smallcaps">hou</hi> Permanence amid all things that pass!</l>
+<l>Unchanging Thought amid the drift of change;</l>
+<l>Thou Rally of the Soul in days of dross;</l>
+<l rend="indent">How art Thou fallen!</l></lg>
+
+<lg>
+<l>Thou Prayer, that ever-rising, yet remained,</l>
+<l>That for seven hundred years didst sing and soar,</l>
+<l>Spirit with wings outspread tip-toe on Earth,</l>
+<l rend="indent">How art Thou fallen!</l></lg>
+
+<lg>
+<l>Thou Vision frozen, and Thou Sigh transfixed;</l>
+<l>Thou Camp of dreams, Thou Fort of faith unstormed,</l>
+<l>Time-worn, yet wearying t'ward Eternity,</l>
+<l rend="indent">How art Thou fallen!</l></lg>
+
+<lg>
+<l>Thou wast to France her Inspiration old,</l>
+<l>Thou hadst for ivy earliest memories;</l>
+<l>From Thee her Knights, her Angels long looked down;</l>
+<l rend="indent">How art Thou fallen!</l></lg>
+
+<lg>
+<l>What vengeance for Thy ruin shall She hurl?</l>
+<l>O, be that vengeance, that the ruin stand,</l>
+<l>Only those Choirs for ever unrestored!</l>
+<l rend="indent">Ever unfallen!</l></lg>
+<byline>-- Stephen Phillips.</byline>
+</div2>
+
+<pb n="213"/>
+<xptr doc="Clarke.xml" from="clarke045"/>
+
+
+<pb n="214"/>
+<div2 id="cunliffe072" type="poem" n="Socks">
+<head rend="center">SOCKS</head>
+
+<lg type="stanza">
+<l n="1">S<hi rend="smallcaps">hining</hi> pins that dart and click</l>
+<l rend="indent">In the fireside's sheltered peace</l>
+<l>Check the thoughts that cluster thick --</l>
+<l rend="indent"><hi rend="italic">20 plain and then decrease.</hi></l></lg>
+
+<lg>
+<l>He was brave -- well, so was I --</l>
+<l rend="indent">Keen and merry, but his lip</l>
+<l>Quivered when he said good-bye --</l>
+<l rend="indent"><hi rend="italic">Purl the seam-stitch, purl and slip.</hi></l></lg>
+
+<lg>
+<l>Never used to living rough,</l>
+<l rend="indent">Lots of things he'd got to learn;</l>
+<l>Wonder if he's warm enough --</l>
+<l rend="indent"><hi rend="italic">Knit 2, catch 2, knit 1, turn.</hi></l></lg>
+
+<lg>
+<l>Hark! The paper-boys again!</l>
+<l rend="indent">Wish that shout could be suppressed;</l>
+<l>Keeps one always on the strain --</l>
+<l rend="indent"><hi rend="italic">Knit off 9, and slip the rest.</hi></l></lg>
+
+<lg>
+<l>Wonder if he's fighting now,</l>
+<l rend="indent">What he's done an' where he's been;</l>
+<l>He'll come out on top, somehow --</l>
+<l rend="indent"><hi rend="italic">Slip 1, knit 2, purl 14.</hi></l></lg>
+<byline>-- Jessie Pope.</byline>
+</div2>
+
+<pb n="215"/>
+<div2 id="cunliffe073" type="poem" n="To Shakespeare, 1916">
+<head rend="center">TO SHAKESPEARE, 1916</head>
+
+<lg type="stanza">
+<l n="1">W<hi rend="smallcaps">ith</hi> what white wrath must turn thy bones,</l>
+<l rend="indent">What stern amazement flame thy dust,</l>
+<l>To feel so near this England's heart</l>
+<l rend="indent">The outrage of the assassin's thrust.</l></lg>
+
+<lg>
+<l>But surely, too, thou art consoled, --</l>
+<l rend="indent">Who knewest thy stalwart breed so well, --</l>
+<l>To see us rise from sloth and go,</l>
+<l rend="indent">Plain and unbragging, through this hell.</l></lg>
+
+<lg>
+<l>And surely, too, thou art assured!</l>
+<l rend="indent">Hark how that grim and gathering beat</l>
+<l>Draws upwards from the ends of earth --</l>
+<l rend="indent">The tramp, tramp of thy kindred's feet!</l></lg>
+<byline>-- Charles G. D. Roberts.</byline>
+</div2>
+
+<pb n="216"/>
+<div2 id="cunliffe074" type="poem" n="Belgium the Bar-Lass">
+<head rend="center">BELGIUM THE BAR-LASS</head>
+
+<lg type="stanza">
+<l n="1">T<hi rend="smallcaps">he</hi> night was still. The King sat with the Queen.</l>
+<l>She sang. Her maidens spun. A peaceful scene.</l></lg>
+
+<lg>
+<l>Sudden, wild echoes shake the castle wall.</l>
+<l>Their foes come crashing through the outer hall.</l></lg>
+
+<lg>
+<l>They rush like thunder down the gallery floor...</l>
+<l>...Someone has stolen the bolt that bars the door!</l></lg>
+
+<lg>
+<l>No pin to hold the loops, no stick, no stave,</l>
+<l>Nothing! An open door, an open grave!</l></lg>
+
+<lg>
+<l>Then Catherine Bar-lass thrust her naked arm</l>
+<l>(A girl's arm, white as milk, alive and warm)</l></lg>
+
+<lg>
+<l>Right through the loops from which the bolt was gone:</l>
+<l>"'Twill hold (she said) until they break the bone --</l></lg>
+
+<lg>
+<l>My King, you have one instant to prepare!"</l>
+<l>She said no more, because the thrust was there.</l></lg>
+
+<milestone type="break" rend="line"/><hi rend="center">--------</hi>
+
+<lg>
+<l>Oft have I heard that tale of Scotland's King</l>
+<l>The Poet, and Kate the Bar-lass. (Men will sing</l></lg>
+
+<lg>
+<pb n="217"/>
+<l>For aye the deed one moment brings to birth --</l>
+<l>Such moments are the ransom of our Earth.)</l></lg>
+
+<lg>
+<l>Brave Belgium, Bar-lass of our western world,</l>
+<l>Who, when the treacherous Prussian tyrant hurled</l></lg>
+
+<lg>
+<l>His hordes against our peace, thrust a slight hand,</l>
+<l>So firm, to bolt our portals and withstand,</l></lg>
+
+<lg>
+<l>Whatever prove the glory of our affray,</l>
+<l>Thine arm, thy heart, thine act have won the day!</l></lg>
+<byline>-- A. Mary F. Robinson.</byline>
+<note rend="right">(Madame Duclaux.)</note>
+
+
+<pb n="218"/>
+<div2 id="cunliffe075" type="poem" n="Cassandra">
+<head rend="center">CASSANDRA</head>
+
+<lg type="stanza">
+<l n="1">I <hi rend="smallcaps">h</hi><hi rend="smallcaps">eard</hi> one who said: "Verily,</l>
+<l rend="indent">What word have I for children here?</l>
+<l>Your Dollar is your only Word,</l>
+<l rend="indent">The wrath of It your only fear.</l></lg>
+
+<lg>
+<l>"You build it altars tall enough</l>
+<l rend="indent">To make you see, but you are blind;</l>
+<l>You cannot leave it long enough</l>
+<l rend="indent">To look before you or behind.</l></lg>
+
+<lg>
+<l>"When Reason beckons you to pause,</l>
+<l rend="indent">You laugh and say that you know best;</l>
+<l>But what it is you know, you keep</l>
+<l rend="indent">As dark as ingots in a chest.</l></lg>
+
+<lg>
+<l>"You laugh and answer, 'We are young;</l>
+<l rend="indent">O leave us now, and let us grow.' --</l>
+<l>Not asking how much more of this</l>
+<l rend="indent">Will Time endure or Fate bestow.</l></lg>
+
+<lg>
+<l>"Because a few complacent years</l>
+<l rend="indent">Have made your peril of your pride,</l>
+<l>Think you that you are to go on</l>
+<l rend="indent">Forever pampered and untried?</l></lg>
+
+<lg>
+<pb n="219"/>
+<l>"What lost eclipse of history,</l>
+<l rend="indent">What bivouac of the marching stars,</l>
+<l>Has given the sign for you to see</l>
+<l rend="indent">Millenniums and last great wars?</l></lg>
+
+<lg>
+<l>"What unrecorded overthrow</l>
+<l rend="indent">Of all the world has ever known,</l>
+<l>Or even been, has made itself</l>
+<l rend="indent">So plain to you, and you alone?</l></lg>
+
+<lg>
+<l>"Your Dollar, Dove and Eagle make</l>
+<l rend="indent">A Trinity that even you</l>
+<l>Rate higher than you rate yourselves;</l>
+<l rend="indent">It pays, it flatters, and it's new.</l></lg>
+
+<lg>
+<l>"And though your very flesh and blood</l>
+<l rend="indent">Be what your Eagle eats and drinks,</l>
+<l>You'll praise him for the best of birds,</l>
+<l rend="indent">Not knowing what the Eagle thinks.</l></lg>
+
+<lg>
+<l>"The power is yours, but not the sight;</l>
+<l rend="indent">You see not upon what you tread;</l>
+<l>You have the ages for your guide,</l>
+<l rend="indent">But not the wisdom to be led.</l></lg>
+
+<lg>
+<l>"Think you to tread forever down</l>
+<l rend="indent">The merciless old verities?</l>
+<l>And are you never to have eyes</l>
+<l rend="indent">To see the world for what it is?</l></lg>
+
+<lg>
+<pb n="220"/>
+<l>"Are you to pay for what you have</l>
+<l rend="indent">With all you are?" -- No other word</l>
+<l>We caught, but with a laughing crowd</l>
+<l rend="indent">Moved on. None heeded, and few heard.</l></lg>
+<byline>-- Edwin Arlington Robinson.</byline>
+</div2>
+
+<pb n="221"/>
+<div2 id="cunliffe076" type="poem" n="Shakespeare, 1916">
+<head rend="center">SHAKESPEARE, 1916</head>
+
+<lg type="stanza">
+<l n="1">N<hi rend="smallcaps">ow</hi> when the sinking Sun reeketh with blood,</l>
+<l>And the gore-gushing vapors rent by him</l>
+<l>Rend him and bury him: now the World is dim</l>
+<l>As when great thunders gather for the flood,</l>
+<l>And in the darkness men die where they stood,</l>
+<l>And dying slay, or scatter'd limb from limb</l>
+<l>Cease in a flash where mad-eyed cherubim</l>
+<l>Of Death destroy them in the night and mud:</l>
+<l>When landmarks vanish -- murder is become</l>
+<l>A glory -- cowardice, conscience -- and to lie,</l>
+<l>A law -- to govern, but to serve a time: --</l>
+<l>We dying, lifting bloodied eyes and dumb,</l>
+<l>Behold the silver star serene on high,</l>
+<l>That is thy spirit there, O Master Mind sublime.</l></lg>
+<byline>-- Ronald Ross.</byline>
+</div2>
+
+
+<pb n="222"/>
+<div2 id="cunliffe077" type="poem" n="Statistics">
+<head rend="center">STATISTICS</head>
+
+<lg type="stanza">
+<l n="1">N<hi rend="smallcaps">apoleon</hi> shifted</l>
+<l>Restless in the old sarcophagus</l>
+<l>And murmured to a watchguard:</l>
+<l>"Who goes there?"</l>
+<l>"Twenty-one million men,</l>
+<l>Soldiers, armies, guns,</l>
+<l>Twenty-one million</l>
+<l>Afoot, horseback,</l>
+<l>In the air,</l>
+<l>Under the sea."</l>
+<l>And Napoleon turned to his sleep:</l>
+<l>"It is not my world answering;</l>
+<l>It is some dreamer who knows not</l>
+<l>The world I marched in</l>
+<l>From Calais to Moscow."</l>
+<l>And he slept on</l>
+<l>In the old sarcophagus</l>
+<l>While the a&euml;roplanes</l>
+<l>Droned their motors</l>
+<l>Between Napoleon's mausoleum</l>
+<l>And the cool night stars.</l></lg>
+<byline>-- Carl Sandburg.</byline>
+</div2>
+
+
+<pb n="223"/>
+<div2 id="cunliffe078" type="poem" n="Australians to the Front!">
+<head rend="center">AUSTRALIANS TO THE FRONT!</head>
+<head rend="center">(Captain Cook hears the Drums)</head>
+
+<lg type="stanza">
+<l n="1">F<hi rend="smallcaps">rom</hi> the Scheldt to the Niemen,</l>
+<l rend="indent">Hark, the music of the drums!</l>
+<l>Not unthrilled the souls of freemen</l>
+<l rend="indent">When that instant message comes.</l>
+<l>Rolling east the wild fantasia</l>
+<l rend="indent">Stirs the Orient blood to flame;</l>
+<l>And the drums call Austral-asia</l>
+<l rend="indent">And she answers to her name.</l></lg>
+
+<lg>
+<l>Far away from hosts in battle,</l>
+<l rend="indent">Yet in time with marching feet</l>
+<l>Here and now the war-drums rattle</l>
+<l rend="indent">In the sunbright city street.</l>
+<l>Horse and foot in martial manner,</l>
+<l rend="indent">Swift commands, and glances high,</l>
+<l>Naked steel and silken banner;</l>
+<l rend="indent">Thus the ranks go proudly by.</l></lg>
+
+<lg>
+<l>But within the gardens spacious,</l>
+<l rend="indent">Not a stone's throw from the crowd</l>
+<l>One who fronts the landscape gracious</l>
+<l rend="indent">Listens to the war-drums loud.</l>
+<pb n="224"/>
+<l>Beats the eager drummer harder,</l>
+<l rend="indent">And methinks the bronze can hear,</l>
+<l>In those eyes a flash of ardor!</l>
+<l rend="indent">On that cheek a noble tear!</l></lg>
+
+<lg>
+<l>Dauntless Captain, did'st thou ever,</l>
+<l rend="indent">With thy sailor-eyes of gray</l>
+<l>Searching out from thy endeavor</l>
+<l rend="indent">That sequestered flower-starred bay,</l>
+<l>Dream that some day those who love thee</l>
+<l rend="indent">Here would stake their all of worth,</l>
+<l>For the flag that waved above thee</l>
+<l rend="indent">And the land that gave thee birth?</l></lg>
+
+<lg>
+<l>And the dauntless Captain listens:</l>
+<l rend="indent">Ah, if only he could speak!</l>
+<l>But a vagrant raindrop glistens</l>
+<l rend="indent">On that scorched and blistered cheek,</l>
+<l>And the faith that does not falter</l>
+<l rend="indent">Still may hear his whisper low:</l>
+<l rend="italic">"Son, this new land doth not alter</l>
+<l rend="indent"><hi rend="italic">Britain's breed of long ago."</hi></l></lg>
+<byline>-- John Sandes.</byline>
+</div2>
+
+
+<pb n="225"/>
+<div2 id="cunliffe079" type="poem" n="Her Prayer -- For Him">
+<head rend="center">HER PRAYER -- FOR HIM</head>
+
+<lg type="stanza">
+<l n="1">I <hi rend="smallcaps">do</hi> not ask that he may never yield</l>
+<l>When fighting on the foam or on the field,</l>
+<l>Since this I know: --</l>
+<l>Where'er his country calls my man will go.</l></lg>
+
+<lg>
+<l>I only pray</l>
+<l>That while he is away</l>
+<l>You guard and guide him day by day!</l>
+<l>And give me strength to tend his little ones</l>
+<l>Until he comes.</l></lg>
+
+<lg>
+<l>On land or sea, --</l>
+<l>Wherever he may be,</l>
+<l>God, kiss my man for me!</l></lg>
+<byline>-- Egbert Sandford.</byline>
+</div2>
+
+
+<pb n="226"/>
+<div2 id="cunliffe080" type="poem" n="The Vale of Shadows">
+<head rend="center">THE VALE OF SHADOWS</head>
+
+<lg type="stanza">
+<l n="1">T<hi rend="smallcaps">here</hi> is a vale in the Flemish land,</l>
+<l rend="indent">A vale once fair to see,</l>
+<l>Where under the sweep of the sky's wide arch,</l>
+<l>Though winter freeze or summer parch,</l>
+<l>The stately poplars march and march,</l>
+<l rend="indent">Remembering Lombardy.</l></lg>
+
+<lg>
+<l>Here are men of the Saxon eyes,</l>
+<l rend="indent">Men of the Saxon heart,</l>
+<l>Men of the fens and men of the Peak,</l>
+<l>Men of the Kentish meadows sleek,</l>
+<l>Men of the Cornwall cove and creek,</l>
+<l rend="indent">Men of the Dove and Dart.</l></lg>
+
+<lg>
+<l>Here are men of the kilted clans</l>
+<l rend="indent">From the heathery slopes that lie</l>
+<l>Where the mists hang gray and the mists hang white,</l>
+<l>And the deep lochs brood 'neath the craggy height,</l>
+<l>And the curlews scream in the moonless night</l>
+<l rend="indent">Over the hills of the Skye.</l></lg>
+
+<lg>
+<l>Here are men of the Celtic breed,</l>
+<l rend="indent">Lads of the smile and tear,</l>
+<pb n="227"/>
+<l>From where the loops of the Shannon flow,</l>
+<l>And the crosses gleam in the even-glow,</l>
+<l>And the halls of Tara now are low,</l>
+<l rend="indent">And Donegal cliffs are sheer.</l></lg>
+
+<lg>
+<l>And never a word does one man speak,</l>
+<l rend="indent">Each in his narrow bed,</l>
+<l>For this is the Vale of Long Release,</l>
+<l>This is the Vale of the Lasting Peace,</l>
+<l>Where wars, and the rumors of wars, shall cease,</l>
+<l rend="indent">The valley of the dead.</l></lg>
+
+<lg>
+<l>No more are they than the scattered scud,</l>
+<l rend="indent">No more than broken reeds,</l>
+<l>No more than shards or shattered glass,</l>
+<l>Than dust blown down the winds that pass,</l>
+<l>Than trampled wefts of pampas-grass</l>
+<l rend="indent">When the wild herd stampedes.</l></lg>
+
+<lg>
+<l>In the dusk of death they laid them down</l>
+<l rend="indent">With naught of murmuring,</l>
+<l>And laughter rings through the House of Mirth</l>
+<l>To hear the vaunt of the high of birth,</l>
+<l>For what are all the kings of earth</l>
+<l rend="indent">Before the one great King!</l></lg>
+
+<lg>
+<l>And what shall these proud war-lords say</l>
+<l rend="indent">At foot of His mighty throne?</l>
+<pb n="228"/>
+<l>For there shall dawn a reckoning day,</l>
+<l>Or soon or late, come as it may,</l>
+<l>When those who gave the sign to slay</l>
+<l rend="indent">Shall meet His face alone.</l></lg>
+
+<lg>
+<l>What, think ye, will their penance be</l>
+<l rend="indent">Who have wrought this monstrous crime?</l>
+<l>What shall whiten their blood-red hands</l>
+<l>Of the stains of riven and ravished lands?</l>
+<l>How shall they answer God's stern commands</l>
+<l rend="indent">At the last assize of Time?</l></lg>
+
+<lg>
+<l>For though we worship no vengeance-god</l>
+<l rend="indent">Of madness and of ire,</l>
+<l>No Presence grim, with a heart of stone,</l>
+<l>Shall they not somehow yet atone?</l>
+<l>Shall they not reap as they have sown</l>
+<l rend="indent">Of fury and of fire?</l></lg>
+
+<lg>
+<l>There is a vale in the Flemish land</l>
+<l rend="indent">Where the lengthening shadows spread</l>
+<l>When day, with crimson sandals shod,</l>
+<l>Goes home athwart the mounds of sod</l>
+<l>That cry in silence up to God</l>
+<l rend="indent">From the valley of the dead!</l></lg>
+<byline>-- Clinton Scollard.</byline>
+</div2>
+
+
+<pb n="229"/>
+<xptr doc="Clarke.xml" from="clarke149"/>
+<note>(Major, 3rd Brigade, Canadian Division, British Expeditionary Force.)</note>
+
+
+<pb n="230"/>
+<div2 id="cunliffe081" type="poem" n="The Wayside Calvary">
+<head rend="center">THE WAYSIDE CALVARY</head>
+<note>(Lines written on the anniversary of the outbreak of the war.)</note>
+
+<lg type="stanza">
+<l n="1">N<hi rend="smallcaps">ow</hi> with the full year Memory holds her tryst</l>
+<l>Heavy with such a tale of bitter loss</l>
+<l>As never Earth has suffered since the Christ</l>
+<l rend="indent4">Hung for us on the Cross.</l></lg>
+
+<lg>
+<l>If God, O Kaiser, makes the vision plain:</l>
+<l>Gives you on some lone Calvary to see</l>
+<l>The Man of Sorrows Who endured the pain</l>
+<l rend="indent4">And died to set us free --</l></lg>
+
+<lg>
+<l>How will you face beneath its Crown of thorn</l>
+<l>That Figure stark against the smoking skies,</l>
+<l>The Arms outstretched, the Sacred Head forlorn</l>
+<l rend="indent4">And those reproachful Eyes?</l></lg>
+
+<lg>
+<l>How dare confront the false quest with the true</l>
+<l>Or think what gulfs between the ideals lie</l>
+<l>Of Him Who died that men might live -- and you</l>
+<l rend="indent4">Who live that men may die.</l></lg>
+
+<lg>
+<l>Ah, turn your eyes away: He reads your heart;</l>
+<l>Pass on and, having done your work abhorred,</l>
+<l>Join hands with Judas in his place apart,</l>
+<l rend="indent4">You who betrayed your Lord.</l></lg>
+<byline>-- Owen Seaman.</byline>
+</div2>
+
+081 p. 231

@@ -28,7 +28,7 @@ $query = 'declare namespace tf="http://namespaces.softwareag.com/tamino/TaminoFu
 declare namespace xf="http://www.w3.org/2002/08/xquery-functions"
 for $a in input()/TEI.2/teiHeader/fileDesc/titleStmt
 let $docname := tf:getDocname(xf:root($a))
-return <div id="{$docname}"> {$a} </div> sort by (author)'; 
+return <div id="{$docname}"> {$a} </div> sort by (titleStmt/title)'; 
 
 $xsl_file = "poetry.xsl";
 $xsl_params = array("mode" => "browse");

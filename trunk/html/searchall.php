@@ -20,6 +20,8 @@ $dosearch["poetry"] = $_GET["poetry"];		// which searches to do
 $dosearch["postcards"] = $_GET["postcards"];
 $dosearch["links"] = $_GET["links"];
 
+$position = 1; $maxdisplay = 10;	// don't display too many results on search all page
+
 // clean up input so explode will work properly
 $kw = preg_replace("/\s+/", " ", $kw);  // multiple white spaces become one space
 $kw = preg_replace("/\s$/", "", $kw);	// ending white space is removed
@@ -60,16 +62,17 @@ if ($terms[0]) {
 
 $return["postcards"] = "return <div> {\$a} <total> {count(" . $for["postcards"] . " $where return \$a)}</total> </div>";
 $return["poetry"] = ' return <div><div2> {$a/@type} {$a/@id} {$a/@n} {$a/byline} {$a/../docAuthor} ';
-if ($terms[0]) {
-   $return["poetry"] .= " {for \$l in \$a//l where ";
-   foreach ($terms as $t) {
-     if ($t != $terms[0]) { $return["poetry"] .= " or "; }
-     $return["poetry"] .= " tf:containsText(\$l, '$t') ";
-   }
-   $return["poetry"] .= " return \$l }  ";
-}
+/* if ($terms[0]) {
+   $return["poetry"] .= " {for \$l in \$a//l where "; 
+   foreach ($terms as $t) { 
+     if ($t != $terms[0]) { $return["poetry"] .= " or "; } 
+     $return["poetry"] .= " tf:containsText(\$l, '$t') "; 
+   } 
+   $return["poetry"] .= " return \$l }  "; 
+} */
 // {for $l in $a//l where tf:containsText($l, ' . "'$kw'" . ') return $l }
 $return["poetry"] .= '<linecount> { count($a//l) } </linecount> </div2><total> {count(' . $for["poetry"] . " $where return \$a)}</total></div> sort by (@n) ";  
+
 
 foreach ($search as $s) {
   if ($s == "links") next;
@@ -91,7 +94,7 @@ print "<p align='center'>Results for keyword <span class='term1'>$kw</span><ul c
 $first = true;
 foreach ($search as $s) {
   if ($dosearch[$s] == "on") {
-    if ($s != "links" ) { $db[$s]->xquery($query[$s]); }
+    if ($s != "links" ) { $db[$s]->xquery($query[$s], $position, $maxdisplay); }
     $li = "<li class='horiz'";
     if ($first) { $li .= " id='first' "; $first = false; }
     $li .= ">";
@@ -108,6 +111,10 @@ foreach ($search as $s) {
     if ($s == "links") {
       $db[$s]->printSummary();
     } else {
+      if ($db[$s]->count > 10) {
+	print "<p>Displaying results 1-10 of " . $db[$s]->count . ". ";
+	print "See <a href='" . $s . "/search.php?keyword=$kw'>more results</a>.</p>";
+      }
       $db[$s]->xslTransform($xsl_file[$s], $xsl_params[$s]); 
       //      $db[$s]->printResult(array($kw));
       $db[$s]->printResult($terms);

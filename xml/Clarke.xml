@@ -47,10 +47,8 @@
 	War) has been digitized by OCR or rekeying. The work has been
 	done in conjunction with Dr. Harry Rusche of the English
 	Department, Emory University</p></projectDesc>
-	<editorialDecl>
-	<correction><p></p></correction>
-	<normalization><p></p></normalization>
-	<quotation><p>Block quotes are marked with q or quote
+	<editorialDecl><quotation><p>
+	Block quotes are marked with q or quote
 	elements</p></quotation>
 	</editorialDecl>
 	<tagsDecl>
@@ -107,7 +105,6 @@
 
 <pb n="vii"/>
 <div1 id="clarke002" type="epigraph">
-
 <epigraph>
 
 <q>
@@ -128,6 +125,7 @@
 <bibl rend="right">-- <hi rend="italic">Alan Seeger</hi>.</bibl>
 
 </epigraph>
+<p></p>
 </div1>
 
 <pb n="xxv"/>
@@ -138,13 +136,13 @@
 
 <p>For the most part, the poetry of war, undertaken in this spirit, has touched and exalted such special qualities as patriotism, courage, self-sacrifice, enterprise, and endurance. Where it has tended to glorify war in itself, it is chiefly because war has released those qualities, so to speak, in stirring and spectacular ways; and where it has chosen to round upon war and to upbraid it, it is because war has slain ardent and lovable youths and has brought misery and despair to women and old people. But the war poet has left the mere arguments to others. For himself, he has seen and felt. Envisaging war from various angles, now romantically, now realistically, now as the celebrating chronicler, now as the contemplative interpreter, but always in a spirit of catholic curiosity, he has sung the 
 <pb n="xxvi"/>
-fall of Troy, the Roman adventures, the medi&aelig;val battles and crusades, the fields of Agincourt and Waterloo, and the more modern revolutions. Since Homer, he has spoken with martial eloquence through the voices of Drayton, Spenser, Marlowe, Webster, Shakespeare, Milton, Byron, Scott, Burns, Campbell, Tennyson, Browning, the New England group, and Walt Whitman, -- to mention only a few of the British and American names, -- and he speaks sincerely and powerfully to-day in the writings of Kipling, Hardy, Masefield, Binyon, Newbolt, Watson, Rupert Brooke, and the two young soldiers -- the one English, the other American -- who have lately lost their lives while on active service: Captain Charles Hamilton Sorley, who was killed at Hulluch, October 18, 1915; and Alan Seeger, who fell, mortally wounded, during the charge on Belloy-en-Santerre, July 4, 1916.</p>
+fall of Troy, the Roman adventures, the medi&#x00E6;val battles and crusades, the fields of Agincourt and Waterloo, and the more modern revolutions. Since Homer, he has spoken with martial eloquence through the voices of Drayton, Spenser, Marlowe, Webster, Shakespeare, Milton, Byron, Scott, Burns, Campbell, Tennyson, Browning, the New England group, and Walt Whitman, -- to mention only a few of the British and American names, -- and he speaks sincerely and powerfully to-day in the writings of Kipling, Hardy, Masefield, Binyon, Newbolt, Watson, Rupert Brooke, and the two young soldiers -- the one English, the other American -- who have lately lost their lives while on active service: Captain Charles Hamilton Sorley, who was killed at Hulluch, October 18, 1915; and Alan Seeger, who fell, mortally wounded, during the charge on Belloy-en-Santerre, July 4, 1916.</p>
 
 <p>There can be little doubt that these several minds and spirits, stirred by the passion and energy of war, and reacting sensitively both to its cruelties and to its pities, have experienced the kinship of quickened insight and finer unselfishness in the face of wide-ranging death. They have silently compared, perhaps, the normal materialistic conventions in business, politics, education, and religion, with the relief from those conventions that nearly all soldiers and many civilians experience in time of war; for although war has its too gross and ugly side, it has not dared to learn that inflexibility of custom and conduct that deadens the spirit into a tame submission. This strange rebound and exaltation would seem to be due less to the physical reality of war -- which must in many ways cramp and constrain the individual -- than to the relative spirit
 <pb n="xxvii"/>
-ual freedom engendered by the needs of war, if they are to be successfully met. The man of war has an altogether unusual opportunity to realize himself, to cleanse and heal himself through the mastering of his physical fears; through the facing of his moral doubts; through the re&euml;xamination of whatever thoughts he may have possessed, theretofore, about life and death and the universe; and through the quietly unselfish devotion he owes to the welfare of his fellows and to the cause of his native land.</p>
+ual freedom engendered by the needs of war, if they are to be successfully met. The man of war has an altogether unusual opportunity to realize himself, to cleanse and heal himself through the mastering of his physical fears; through the facing of his moral doubts; through the re&#x00EB;xamination of whatever thoughts he may have possessed, theretofore, about life and death and the universe; and through the quietly unselfish devotion he owes to the welfare of his fellows and to the cause of his native land.</p>
 
-<p>Into the stuff of his thought and utterance, whether he be on active service or not, the poet-interpreter of war weaves these intentions, and co&ouml;perates with his fellows in building up a little higher and better, from time to time, that edifice of truth for whose completion can be spared no human experience, no human hope.</p>
+<p>Into the stuff of his thought and utterance, whether he be on active service or not, the poet-interpreter of war weaves these intentions, and co&#x00F6;perates with his fellows in building up a little higher and better, from time to time, that edifice of truth for whose completion can be spared no human experience, no human hope.</p>
 
 <p>As already suggested, English and American literatures have both received genuine accessions, even thus early, arising out of the present great conflict, and we may be sure that other equally notable contributions will be made. The present Anthology contains a number of representative poems produced by English-speaking men and women. The editorial policy has been humanly hospitable, rather than academically critical, especially in the case of some of the verses written by soldiers at the Front, which, however slight in certain instances their technical merit may be, are yet psychologically interesting as sincere transcripts of personal experience, and will, it is thought, for that very reason, peculiarly attract and interest the reader. It goes without saying that there are several poems in this group which conspicuously suc
 <pb n="xxviii"/>
@@ -154,9 +152,9 @@ ceed also as works of art. For the rest, the attempt has been made, within such 
 <pb n="xxix"/>
 rifices that may be required to win success for this most righteous cause, is an event at once so happy and so momentous that only the historian of the future will be able, as I believe, to measure its true proportions."</p>
 
-<p>The words of these eminent men ratify in the field of international politics the hopeful anticipation which Tennyson expressed in his poem, <hi rend="italic">Hands all Round</hi>, which first appeared in the London <hi rend="italic">Examiner</hi>, February 7, 1852: --</p>
+<p>The words of these eminent men ratify in the field of international politics the hopeful anticipation which Tennyson expressed in his poem, <hi rend="italic">Hands all Round</hi>, which first appeared in the London <hi rend="italic">Examiner</hi>, February 7, 1852: --
 
-<div2 id="clarke004" type="poem" n="Hands all Round">
+<q>
 
 <lg type="stanza">
 <l n="1">"Gigantic daughter of the West,</l>
@@ -185,9 +183,9 @@ rifices that may be required to win success for this most righteous cause, is an
 <l rend="indent">God the tyrant's cause confound!</l>
 <l>To our dear kinsmen of the West, my friends,</l>
 <l rend="indent">And the great cause of Freedom, round and round."</l></lg>
-</div2>
+</q>
 
-<p>They ratify also the spirit of those poems in the present volume which seek to interpret to Britons and Americans their deepening friendship. "Poets," said Shelley, "are the unacknowledged legislators of the world," and he meant by legislation the guidance and determination of the verdicts of the human soul.</p>
+They ratify also the spirit of those poems in the present volume which seek to interpret to Britons and Americans their deepening friendship. "Poets," said Shelley, "are the unacknowledged legislators of the world," and he meant by legislation the guidance and determination of the verdicts of the human soul.</p>
 <byline>G. H. C.</byline>
 <dateline><date>August, 1917</date></dateline>
 </div1>
@@ -1363,7 +1361,7 @@ mourning by the French people.]
 <l>Each in his breast the message heard,</l>
 <l>Writ for him by Despair,</l>
 <l>That evermore in moving phrase</l>
-<l>Breathes from the Invalides and P&egrave;re Lachaise --</l>
+<l>Breathes from the Invalides and P&#x00E8;re Lachaise --</l>
 <l>Vainly it seemed, alas!</l>
 <l>But now, France looking on the image there,</l>
 <l>Hope gave her back the lost Alsace.</l></lg>
@@ -1499,7 +1497,7 @@ mourning by the French people.]
 <head rend="center">TO THE BELGIANS</head>
 
 <lg type="stanza">
-<l n="1">O <hi rend="smallcaps">race</hi> that C&aelig;sar knew,</l>
+<l n="1">O <hi rend="smallcaps">race</hi> that C&#x00E6;sar knew,</l>
 <l>That won stern Roman praise,</l>
 <l>What land not envies you</l>
 <l>The laurel of these days?</l></lg>
@@ -1564,7 +1562,7 @@ mourning by the French people.]
 
 <div2 id="clarke036" type="poem" n="Belgium">
 <head rend="center">BELGIUM</head>
-<epigraph rend="center"><hi rend="italic">La Belgique ne regrette rien</hi></epigraph>
+<epigraph rend="center"><l rend="italic">La Belgique ne regrette rien</l></epigraph>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcaps">Not</hi> with her ruined silver spires,</l>
@@ -1719,8 +1717,7 @@ pany</l>
 <l>Decked out with dreadful sceptre, steel, and stole,</l>
 <l>But walk the earth -- a man, in Charity.</l></lg>
 
-<milestone type="break" rend="dots"/><hi rend="center">.  .  .  .  .
-.  .  .  .  .  .</hi> 
+<milestone unit="stanza" rend="dots"/> 
 
 <lg>
 <l>A wind in the world! And doubts are blown</l>
@@ -1867,7 +1864,7 @@ pany</l>
 <l>Fair Capri with her cliffs and caves;</l>
 <l rend="indent4">Salerno drowsing 'mid her vines</l>
 <l rend="indent4">And olives, and the shattered shrines</l>
-<l rend="indent9">Of P&aelig;stum where the gray ghosts tread,</l>
+<l rend="indent9">Of P&#x00E6;stum where the gray ghosts tread,</l>
 <l>And where the wilding rose still waves</l>
 <l rend="indent9">As when by Greek girls garlanded.</l></lg>
 
@@ -2191,7 +2188,7 @@ pany</l>
 
 <lg>
 <l>He looked for silence, but a thunder came</l>
-<l rend="indent">Upon him, from Li&egrave;ge a leaden hail.</l>
+<l rend="indent">Upon him, from Li&#x00E8;ge a leaden hail.</l>
 <l>All Belgium flew up at his throat in flame</l>
 <l rend="indent">Till at her gates amazed his legions quail.</l></lg>
 
@@ -2208,8 +2205,8 @@ pany</l>
 </div2>
 
 
-<div2 id="clarke054" type="poem" n="The Battle of Li&egrave;ge">
-<head rend="center">THE BATTLE OF LI&Egrave;GE</head>
+<div2 id="clarke054" type="poem" n="The Battle of Li&#x00E8;ge">
+<head rend="center">THE BATTLE OF LI&#x00C8;GE</head>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcaps">Now</hi> spake the Emperor to all his shining battle forces,</l>
@@ -2762,7 +2759,7 @@ teams are serving the King.]
 <lg>
 <l>And never through the wide world yet there rang</l>
 <l rend="indent">A mightier summons! O Thou who from the side</l>
-<l>Of Athens and the loins of C&aelig;sar sprang,</l>
+<l>Of Athens and the loins of C&#x00E6;sar sprang,</l>
 <l rend="indent">Strike, Europe, with half the coming world allied</l>
 <l>For those ideals for which, since Homer sang,</l>
 <l rend="indent">The hosts of thirty centuries have died.</l></lg>
@@ -2968,7 +2965,7 @@ Bernhardi</hi>.]
 <l>Builders there are who name you overlord,</l>
 <l>Building with us the citadels of light,</l>
 <l>Who hold as we this chartered sin abhorred,</l>
-<l>And cry you risen C&aelig;sar of the Night.</l></lg>
+<l>And cry you risen C&#x00E6;sar of the Night.</l></lg>
 
 <lg>
 <l>Beethoven speaks with Milton on this day,</l>
@@ -3021,7 +3018,7 @@ Bernhardi</hi>.]
 <l>The songless stockdove preens her ruddied breast;</l>
 <l>The blue smoke windeth like a prayer to heaven.</l></lg>
 
-<milestone type="break" rend="asterisk"/><hi rend="center">*</hi>
+<milestone unit="stanza" rend="asterisk(1)"/>
 
 <lg>
 <l>O old, old England, land of golden peace,</l>
@@ -3042,7 +3039,7 @@ Bernhardi</hi>.]
 <l>So sleep thou well -- like his thy labour done;</l>
 <l>Rest in thy glory as he rests in fire.</l></lg>
 
-<milestone type="break" rend="asterisk"/><hi rend="center">*</hi>
+<milestone unit="stanza" rend="asterisk(1)"/>
 
 <lg>
 <l>But even in this hour of soft repose</l>
@@ -3058,11 +3055,11 @@ Bernhardi</hi>.]
 
 <lg>
 <l>And as the Sun sinks, sudden in heav'n new born</l>
-<l>There shines an arm&egrave;d Angel like a Star,</l>
+<l>There shines an arm&#x00E8;d Angel like a Star,</l>
 <l>Who cries above the darkling world in scorn,</l>
 <l>"God comes to Judgment. Learn ye what ye are."</l></lg>
 
-<milestone type="break" rend="asterisk"/><hi rend="center">*  *</hi>
+<milestone unit="stanza" rend="asterisk(2)"/>
 
 <lg>
 <l>From fire to umber fades the sunset-gold,</l>
@@ -3102,7 +3099,7 @@ Bernhardi</hi>.]
 <l>Who crownest Life with plenty, Death with flow'rs;</l>
 <l>Peace, Queen of Kindness -- but of earth, no more.</l></lg>
 
-<milestone type="break" rend="asterisk"/><hi rend="center">*</hi>
+<milestone unit="stanza" rend="asterisk(1)"/>
 
 <lg>
 <l>Not thine but ours the fault, thy care was vain;</l>
@@ -3123,7 +3120,7 @@ Bernhardi</hi>.]
 <l>Fate rends the chaplets from our feeble brows;</l>
 <l>The spires of Heaven fade in fogs of hell.</l></lg>
 
-<milestone type="break" rend="asterisk"/><hi rend="center">*  *</hi>
+<milestone unit="stanza" rend="asterisk(2)"/>
 
 <lg>
 <l>She faints, she falls; her dying eyes are dim;</l>
@@ -3135,7 +3132,7 @@ Bernhardi</hi>.]
 
 <lg>
 <l>The gentle Beings of the hearth and home;</l>
-<l>The lovely Dryads of her aisl&egrave;d woods;</l>
+<l>The lovely Dryads of her aisl&#x00E8;d woods;</l>
 <l>The Angels that do dwell in solitudes</l>
 <l>Where she dwelleth; and joyous Spirits that roam</l>
 <l>To bless her bleating flocks and fruitful lands;</l>
@@ -3143,13 +3140,13 @@ Bernhardi</hi>.]
 
 <lg>
 <l>"Look, look," they cry, "she is not dead, she breathes!</l>
-<l>And we have staunched the damn&egrave;d wound and deep,</l>
+<l>And we have staunched the damn&#x00E8;d wound and deep,</l>
 <l>The cavern-carven wound. She doth but sleep</l>
 <l>And will awake. Bring wine, and new-wound wreaths</l>
 <l>Wherewith to crown awaking her dear head,</l>
 <l>And make her Queen again." -- But no, for Peace was dead.</l></lg>
 
-<milestone type="break" rend="asterisk"/><hi rend="center">*</hi>
+<milestone unit="stanza" rend="asterisk(1)"/>
 
 <pb n="108"/>
 <lg>
@@ -3160,7 +3157,7 @@ Bernhardi</hi>.]
 <l>And flashed their evil eyes and weeping cried,</l>
 <l>"We ruled the world for Peace. By her own hand she died."</l></lg>
 
-<milestone type="break" rend="asterisk"/><hi rend="center">*</hi>
+<milestone unit="stanza" rend="asterisk(1)"/>
 
 <lg>
 <l>In secret he made sharp the bitter blade,</l>
@@ -3168,7 +3165,7 @@ Bernhardi</hi>.]
 <l>And stabb'd -- O God! the Cruel Cripple slew;</l>
 <l>And cowards fled or lent him trembling aid.</l>
 <l>She fell and died -- in all the tale of time</l>
-<l>The direst deed e'er done, the most accurs&egrave;d crime.</l></lg>
+<l>The direst deed e'er done, the most accurs&#x00E8;d crime.</l></lg>
 <byline>Ronald Ross</byline>
 </div2>
 
@@ -3343,19 +3340,19 @@ England and Germany), from a town near Amiens, in France, to Dieppe, a distance 
 <l>Appear as if a shining countenance</l>
 <l>Had looked on it. Strange was this radiant Youth,</l>
 <l>As I, to these fair, fertile parts of France,</l>
-<l>Where C&aelig;sar with his legions once had passed,</l>
+<l>Where C&#x00E6;sar with his legions once had passed,</l>
 <l>And where the Kaiser's Uhlans yet would pass</l>
 <l>Or e'er another moon should cope with clouds</l>
 <l>For mastery of these same fields. -- To-night</l>
 <l>(And but a month has gone since I walked there)</l>
 <pb n="113"/>
-<l>Well might the Kaiser write, as C&aelig;sar wrote,</l>
+<l>Well might the Kaiser write, as C&#x00E6;sar wrote,</l>
 <l>In his new Commentaries on a Gallic war,</l>
-<l>"<hi rend="italic">Fortissimi Belg&aelig;</hi>." -- A moon ago!</l>
+<l>"<hi rend="italic">Fortissimi Belg&#x00E6;</hi>." -- A moon ago!</l>
 <l>Who would have then divined that dead would lie</l>
 <l>Like swaths of grain beneath the harvest moon</l>
-<l>Upon these lands the ancient Belg&aelig; held,</l>
-<l>From Normandy beyond renowned Li&egrave;ge! --</l></lg>
+<l>Upon these lands the ancient Belg&#x00E6; held,</l>
+<l>From Normandy beyond renowned Li&#x00E8;ge! --</l></lg>
 
 <lg>
 <l>But it was out of that dread August night</l>
@@ -3398,8 +3395,8 @@ England and Germany), from a town near Amiens, in France, to Dieppe, a distance 
 <l>Made me forget the night as we strode on.</l>
 <l>Where'er he looked a miracle was wrought:</l>
 <l>A tree grew from the darkness at a glance;</l>
-<l>A hut was thatched; a new ch&acirc;teau was reared</l>
-<l>Of stone, as weathered as the church at C&aelig;n;</l>
+<l>A hut was thatched; a new ch&#x00E2;teau was reared</l>
+<l>Of stone, as weathered as the church at C&#x00E6;n;</l>
 <l>Gray blooms were coloured suddenly in red;</l>
 <l>A flag was flung across the eastern sky. --</l>
 <l>Nearer at hand, he made me then aware</l>
@@ -3461,7 +3458,7 @@ England and Germany), from a town near Amiens, in France, to Dieppe, a distance 
 <pb n="116"/>
 <lg>
 <l>The tides of war had ebb'd away</l>
-<l>From Trachis and Thermopyl&aelig;,</l>
+<l>From Trachis and Thermopyl&#x00E6;,</l>
 <l>Long centuries had come and gone</l>
 <l>Since that fierce day at Marathon;</l></lg>
 
@@ -3851,7 +3848,7 @@ Crown Princess</hi>.]
 
 <lg>
 <l>Except for something in the air,</l>
-<l>Except for the weeping of the ruddy old women of Finist&egrave;re.</l>
+<l>Except for the weeping of the ruddy old women of Finist&#x00E8;re.</l>
 <l>The younger women do not weep. They dream and stare.</l></lg>
 
 <lg>
@@ -3872,7 +3869,7 @@ Crown Princess</hi>.]
 <pb n="130"/>
 <lg>
 <l>Except for something, something in the air</l>
-<l>Except for the weeping of the wild old women of Finist&egrave;re.</l>
+<l>Except for the weeping of the wild old women of Finist&#x00E8;re.</l>
 <l>How long will the others dream and stare?</l></lg>
 
 <lg>
@@ -4269,7 +4266,7 @@ rend="smallcaps">hosts of the</hi> <hi rend="smallcaps">Lusitania</hi>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcaps">My</hi> name is Darino, the poet. You
-have heard? <hi rend="italic">Oui, Com&eacute;die Fran&ccedil;aise</hi>.</l>
+have heard? <hi rend="italic">Oui, Com&#x00E9;die Fran&#x00E7;aise</hi>.</l>
 <l>Perchance it has happened, <hi rend="italic">mon ami</hi>, you know of my unworthy lays.</l>
 <l>Ah, then you must guess how my fingers are itching to talk to a pen;</l>
 <l>For I was at Soissons, and saw it, the death of twelve Englishmen.</l></lg>
@@ -4306,7 +4303,7 @@ have heard? <hi rend="italic">Oui, Com&eacute;die Fran&ccedil;aise</hi>.</l>
 <l>A ball rips his visor -- his khaki shows red where another has torn.</l></lg>
 
 <lg>
-<l>Will he live -- will he last -- will he make it? <hi rend="italic">H&eacute;las!</hi> And so near to the goal!</l>
+<l>Will he live -- will he last -- will he make it? <hi rend="italic">H&#x00E9;las!</hi> And so near to the goal!</l>
 <l>A second, he dies! then a third one! A fourth! Still the Germans take toll!</l>
 <l>A fifth, <hi rend="italic">magnifique!</hi> It is magic! How does he escape them? He may...</l>
 <l>Yes, he <hi rend="italic">does!</hi> See, the match flares! A rifle rings out from the woods and says "Nay!"</l></lg>
@@ -4315,7 +4312,7 @@ have heard? <hi rend="italic">Oui, Com&eacute;die Fran&ccedil;aise</hi>.</l>
 <lg>
 <l>Six, seven, eight, nine take their places, six, seven, eight, nine brave their hail;</l>
 <l>Six, seven, eight, nine -- how we count them! But the sixth, seventh, eighth and ninth fail!</l>
-<l>A tenth! <hi rend="italic">Sacr&eacute; nom!</hi> But these English are soldiers -- they know how to try;</l>
+<l>A tenth! <hi rend="italic">Sacr&#x00E9; nom!</hi> But these English are soldiers -- they know how to try;</l>
 <l>(He fumbles the place where his jaw was) -- they show, too, how heroes can die.</l></lg>
 
 <lg>
@@ -4348,7 +4345,7 @@ have heard? <hi rend="italic">Oui, Com&eacute;die Fran&ccedil;aise</hi>.</l>
 
 <div2 id="clarke092" type="poem" n="The Virgin of Albert">
 <head rend="center">THE VIRGIN OF ALBERT</head>
-<head>(<hi rend="smallcaps">Notre</hi> <hi rend="smallcaps">Dame de </hi><hi rend="smallcaps">Brebi&egrave;res</hi>)</head>
+<head>(<hi rend="smallcaps">Notre</hi> <hi rend="smallcaps">Dame de </hi><hi rend="smallcaps">Brebi&#x00E8;res</hi>)</head>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcaps">Shyly</hi> expectant, gazing up at Her,</l>
@@ -4439,7 +4436,7 @@ have heard? <hi rend="italic">Oui, Com&eacute;die Fran&ccedil;aise</hi>.</l>
 <head rend="center">RHEIMS CATHETRAL -- 1914</head>
 
 <lg type="stanza">
-<l n="1">A <hi rend="smallcaps">wing&egrave;d</hi> death has smitten dumb thy bells,</l>
+<l n="1">A <hi rend="smallcaps">wing&#x00E8;d</hi> death has smitten dumb thy bells,</l>
 <l rend="indent4">And poured them molten from thy tragic towers:</l>
 <l rend="indent4">Now are the windows dust that were thy flowers</l>
 <l>Patterned like frost, petalled like asphodels.</l>
@@ -4840,7 +4837,7 @@ have heard? <hi rend="italic">Oui, Com&eacute;die Fran&ccedil;aise</hi>.</l>
 <head rend="center">CHAMPAGNE, 1914-15</head>
 
 <lg type="stanza">
-<l n="1"><hi rend="smallcaps">In</hi> the glad revels, in the happy f&ecirc;tes,</l>
+<l n="1"><hi rend="smallcaps">In</hi> the glad revels, in the happy f&#x00EA;tes,</l>
 <l rend="indent">When cheeks are flushed, and glasses gilt and pearled</l>
 <l>With the sweet wine of France that concentrates</l>
 <l rend="indent">The sunshine and the beauty of the world,</l></lg>
@@ -4916,7 +4913,7 @@ have heard? <hi rend="italic">Oui, Com&eacute;die Fran&ccedil;aise</hi>.</l>
 <l>And that strong need that strove unsatisfied</l>
 <l rend="indent">Toward earthly beauty in all forms it wore,</l>
 <l>Not death itself shall utterly divide</l>
-<l rend="indent">From the belov&egrave;d shapes it thirsted for.</l></lg>
+<l rend="indent">From the belov&#x00E8;d shapes it thirsted for.</l></lg>
 
 <lg>
 <pb n="162"/>
@@ -5078,7 +5075,7 @@ have heard? <hi rend="italic">Oui, Com&eacute;die Fran&ccedil;aise</hi>.</l>
 <l rend="indent">Universed in arms, a dreamer such as I,</l>
 <l>May in thy ranks be deemed not unworthy,</l>
 <l rend="indent">England, for thee to die.</l></lg>
-<byline>Robert Ernest Vern&egrave;de</byline>
+<byline>Robert Ernest Vern&#x00E8;de</byline>
 </div2>
 
 
@@ -5101,7 +5098,7 @@ have heard? <hi rend="italic">Oui, Com&eacute;die Fran&ccedil;aise</hi>.</l>
 <pb n="167"/>
 <l>And any moment may descend hot death</l>
 <l>To shatter limbs! Pulp, tear, blast</l>
-<l>Belov&egrave;d soldiers who love rough life and breath</l>
+<l>Belov&#x00E8;d soldiers who love rough life and breath</l>
 <l>Not less for dying faithful to the last.</l></lg>
 
 <lg>
@@ -5178,8 +5175,7 @@ have heard? <hi rend="italic">Oui, Com&eacute;die Fran&ccedil;aise</hi>.</l>
 <l>And along the wind of death</l>
 <l>Throws a clean flame.</l></lg>
 
-<milestone type="break" rend="dots"/><hi rend="center">.  .  .  .  .
-.  .</hi>
+<milestone unit="stanza" rend="dots"/>
 
 <lg>
 <l>The battery grides and jingles,</l>
@@ -5350,7 +5346,7 @@ have heard? <hi rend="italic">Oui, Com&eacute;die Fran&ccedil;aise</hi>.</l>
 <l>Choked with wild weeds, and overgrown</l>
 <l rend="indent4">With rank grass, all torn and rent</l>
 <l>By war's opposing engines, strewn</l>
-<l rend="indent4">With d&eacute;bris from each day's event!</l></lg>
+<l rend="indent4">With d&#x00E9;bris from each day's event!</l></lg>
 
 <lg>
 <l>And in the dark the broken trees,</l>
@@ -6161,7 +6157,7 @@ French, in the Nueve Chapelle dispatch</hi>.]
 <l rend="indent">In clustered company,</l>
 <l>And seem as they are yet fast bound by sleep,</l>
 <l>Although the day has long begun to peep,</l>
-<l rend="indent">With red-inflam&egrave;d eye,</l>
+<l rend="indent">With red-inflam&#x00E8;d eye,</l>
 <l>Along the still, deserted ocean ways.</l></lg>
 
 <lg>
@@ -6254,8 +6250,7 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l>And what or where I don't much care, I'll take what it may be,</l>
 <l>For a tight place is the right place when it's foul weather at sea!"</l></lg>
 
-<milestone type="break" rend="dots"/><hi rend="center">.  .  .  .  .
-.  .  .  .  .  .</hi>
+<milestone unit="stanza" rend="dots"/>
 
 <lg>
 <l>There's not a port he does n't know from Melbourne to New York;</l>
@@ -6507,7 +6502,7 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l>He stared about him, wondering. Then he fell</l>
 <l>Into deep dreamless slumber.</l></lg>
 
-<milestone type="break" rend="dots"/><hi rend="center">.  .  .  .  .  .  .  .  .  .</hi>
+<milestone unit="stanza" rend="dots"/>
 
 <lg>
 <l rend="right">He could see</l>
@@ -6712,7 +6707,7 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l>Clear as a silver bell,</l>
 <l>Fresh as the morning dews:</l>
 <l rend="italic">"C'est toi, cest toi, Marcel!</l>
-<l rend="italic">Mon fr&egrave;re, comme je suis heureuse!"</l></lg>
+<l rend="italic">Mon fr&#x00E8;re, comme je suis heureuse!"</l></lg>
 
 <lg>
 <l>So over the blanket's rim</l>
@@ -7036,7 +7031,7 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <lg>
 <l>Ever they watched it hovering near</l>
 <l rend="indent">That mystery 'yond thought to plumb,</l>
-<l>Perchance sometimes in loath&egrave;d fear</l>
+<l>Perchance sometimes in loath&#x00E8;d fear</l>
 <l rend="indent">They heard cold Danger whisper, Come! --</l></lg>
 
 <pb n="228"/>
@@ -7189,7 +7184,7 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l>Mercy and Truth and Honour --</l>
 <l>Is this the thing you died for?</l>
 <l rend="indent">Oh, Brothers, sleep in peace!</l></lg>
-<byline>Robert Ernest Vern&egrave;de</byline>
+<byline>Robert Ernest Vern&#x00E8;de</byline>
 </div2>
 
 
@@ -7438,7 +7433,7 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l n="1"><hi rend="smallcaps">Not</hi> long did we lie on the torn, red field of pain.</l>
 <l>We fell, we lay, we slumbered, we took rest,</l>
 <l>With the wild nerves quiet at last, and the vexed brain</l>
-<l>Cleared of the wing&egrave;d nightmares, and the breast</l>
+<l>Cleared of the wing&#x00E8;d nightmares, and the breast</l>
 <l>Freed of the heavy dreams of hearts afar.</l>
 <l>We rose at last under the morning star.</l>
 <l>We rose, and greeted our brothers, and welcomed our foes.</l>
@@ -7785,7 +7780,7 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l>Nor led upon the field</l></lg>
 
 <lg>
-<l>Sons who lie dead at Li&egrave;ge,</l>
+<l>Sons who lie dead at Li&#x00E8;ge,</l>
 <l>Dead by the Russian lance,</l>
 <l>Dead in southern mountains,</l>
 <l>Dead through the farms of France.</l></lg>
@@ -7942,7 +7937,7 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <hi rend="smallcaps">Bridges</hi>, <hi rend="smallcaps">Robert</hi>. He has been Poet-Laureate of England since 1913.</p>
 
 <p>
-<hi rend="smallcaps">Brooke</hi>, <hi rend="smallcaps">Rupert</hi>. He was born at Rugby on August 3, 1887, and became a Fellow of King's College, Cambridge, in 1913. He was made a Sub-Lieutenant in the Royal Naval Volunteer Reserve in September, 1914; accompanied the Antwerp expedition in October of the same year; and sailed with the British Mediterranean Expeditionary Force on February 28, 1915. He died in the &Aelig;gean, on April 23, and lied buries in the island of Skyros. See memorial poems in this volume, <hi rend="italic">The Island of Skyros</hi>, by John Masefield; and <hi rend="italic">Rupert Brooke</hi>, by Moray Dalton. His war poetry appears in the volume entitled <hi rend="italic">1914 and Other Poems</hi>, and in his <hi rend="italic">Collected Poems</hi>.</p>
+<hi rend="smallcaps">Brooke</hi>, <hi rend="smallcaps">Rupert</hi>. He was born at Rugby on August 3, 1887, and became a Fellow of King's College, Cambridge, in 1913. He was made a Sub-Lieutenant in the Royal Naval Volunteer Reserve in September, 1914; accompanied the Antwerp expedition in October of the same year; and sailed with the British Mediterranean Expeditionary Force on February 28, 1915. He died in the &#x00C6;gean, on April 23, and lied buries in the island of Skyros. See memorial poems in this volume, <hi rend="italic">The Island of Skyros</hi>, by John Masefield; and <hi rend="italic">Rupert Brooke</hi>, by Moray Dalton. His war poetry appears in the volume entitled <hi rend="italic">1914 and Other Poems</hi>, and in his <hi rend="italic">Collected Poems</hi>.</p>
 
 <p>
 <hi rend="smallcaps">Campbell</hi>, <hi rend="smallcaps">Wilfred</hi>. This well-known Canadian poet has lately published <hi rend="italic">Sagas of a Vaster Britain</hi>, <hi rend="italic">War Lyrics</hi>, and <hi rend="italic">Canada's Responsibility to the Empire</hi>. His son, Captain Basil Campbell, joined the Second Pioneers.</p>
@@ -8097,7 +8092,7 @@ a scholarship at <pb n="260"/>University College, Oxford. After completing his e
 <hi rend="smallcaps">Van</hi> <hi rend="smallcaps">Dyke</hi>, <hi rend="smallcaps">Henry</hi>. He has been Professor of English Literature in Princeton University since 1900, and was United States Minister to the Netherlands and Luxembourg from June, 1913, to December, 1916. He has published several war poems. He is the first American to receive an honorary degree at Oxford since the United States entered the war. The degree of Doctor of Civil Law was conferred upon him on May 8, 1917.</p>
 
 <p>
-<hi rend="smallcaps">Vern&egrave;de</hi>, R<hi
+<hi rend="smallcaps">Vern&#x00E8;de</hi>, R<hi
 rend="smallcaps">obert</hi> <hi rend="smallcaps">Ernest</hi>. He was
 educated at St. Paul's School and at St. John's College, Oxford. On
 leaving college he became a professional writer, producing several

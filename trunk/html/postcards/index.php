@@ -1,5 +1,5 @@
 <?php
-include("../config.php");	
+include("../config.php");
 
 print " 
 <!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 4.01 Transitional//EN'>
@@ -40,7 +40,6 @@ $pcard_params = array("mode" => "thumbnail");
 
 include("header.php");
 print "<p class='breadcrumbs'>" . $breadcrumb->show_breadcrumb() . "</p>";
-
 print '<div class="content">';
 print '<p>';
 // display a random postcard  
@@ -50,7 +49,7 @@ $tamino->xslTransform($pcard_xsl, $pcard_params);
 $tamino->printResult();
 print '</div>';
 
-print 'For more information about the postcards, read <i>about the project</i> <font size="-1">[essay not yet available]</font>.</p> 
+print '<p>For more information about the postcards, read <i>about the project</i> <font size="-1">[essay not yet available]</font>.</p> 
 <p> 
 There are several different ways to view the postcards: 
 <ul> 
@@ -69,9 +68,8 @@ print '</div>
 <li><a href="postcards/searchform.php">Search</a> the postcards by keyword, title, description, and category
 </li>
 </ul>
-</p>
 
-<p>Images of the postcards are available in three sizes:
+<p>Images of the postcards are available in three sizes:</p>
 <ul>
 <li>Thumbnail - browse pages & search results<br>
 (may be viewed with titles only, or with brief descriptions)
@@ -79,7 +77,6 @@ print '</div>
 <li>roughly realsize - view an individual postcard with full details</li>
 <li>roughly doublesize - linked from individual postcard view</li>
 </ul>
-</p>
 </div>';
 
 print '<div class="sidebar">';

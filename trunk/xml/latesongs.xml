@@ -1,3 +1,4 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "teixlite.dtd">
 <TEI.2>
    <teiHeader>
       <fileDesc>
@@ -442,7 +443,7 @@ lost,</l>
 <l n="1"><hi rend="smallcap">She</hi> drew the grey shawl round her head;</l>
 <l>"Sure it is bitter cold," she said;</l>
 <l>"An' is there news of <hi rend="italic">him</hi>, asthore?"</l>
-<l rend="indent"><hi rend="italic">God help the mothers o/ the world!</hi></l></lg>
+<l rend="indent"><hi rend="italic">God help the mothers of the world!</hi></l></lg>
 <lg>
 <l>"I do be prayin' to mesel'</l>
 <l>The Lord may keep him safe and well</l>
@@ -884,7 +885,7 @@ lost,</l>
 <l>They come to me in my dreams, not cold and lone.</l>
 <l rend="indent">Oh, never sad ghosts they come to fret my sleep,</l>
 <l>But just as I knew them in the days long gone.</l>
-<l rend="indent">When I wake from my ns I wake to weep.</l></lg></div2>
+<l rend="indent">When I wake from my dreams I wake to weep.</l></lg></div2>
 <pb n="61"/>
 <div2 type="poem" id="latesongs_025" n="After Years">
 <head>AFTER YEARS</head>

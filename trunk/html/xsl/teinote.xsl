@@ -16,7 +16,14 @@
   </a>
 </xsl:template>
 
+<!-- handle inline note  -->
+<xsl:template match="note[@place='inline']">
+  <p class="inline-note">
+   <xsl:apply-templates/>
+  </p>
+</xsl:template>
 
+<!-- in normal mode, do nothing : only process at end -->
 <xsl:template match="note"/>
 
 <!-- generate text of actual notes -->
@@ -33,8 +40,10 @@
 </xsl:template>
 
 <!-- note, endnote mode : display number and content of note; 
-     link back to ref in the text -->
-<xsl:template match="note" mode="end">
+     link back to ref in the text 
+     (do not handle inline notes here)
+-->
+<xsl:template match="note[@place!='inline']" mode="end">
   <xsl:element name="p">
     <xsl:attribute name="class">footnote</xsl:attribute>
     <xsl:element name="a">

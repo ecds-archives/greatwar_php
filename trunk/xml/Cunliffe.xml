@@ -100,8 +100,8 @@
 <head rend="center">POEMS OF THE GREAT WAR</head>
 
 <div2 id="cunliffe002" type="poem" n="Writen on Service in Egypt">
-<head rend="center">WRITTEN ON SERVICE IN EGYPT</head>
-<ref target="cunliffe002n1">1</ref>
+<head rend="center">WRITTEN ON SERVICE IN EGYPT
+<ref target="cunliffe002n1">1</ref></head>
 <note id="cunliffe002n1" place="foot" n="1">
 When last heard from, the author, who is a British officer, was on service at Khartoum.</note>
 
@@ -254,8 +254,8 @@ When last heard from, the author, who is a British officer, was on service at Kh
 <l>Always the war of the crowds,</l>
 <l>Always the great peace of the arts.</l></lg>
 <dateline><date>1914.</date></dateline>
-<byline>-- Richard Aldington.</byline>
-<note align="right">(No. 24,965, "E" Company, 11th Devons.)</note>
+<byline>-- Richard Aldington.<lb/>
+(No. 24,965, "E" Company, 11th Devons.)</byline>
 </div2>
 
 
@@ -331,7 +331,7 @@ When last heard from, the author, who is a British officer, was on service at Kh
 
 <pb n="10"/>
 <div2 id="cunliffe006" type="poem" n="The Fallen Subaltern">
-<xptr doc="Clarke.xml" from="clarke158"/>
+<ab><xptr doc="Clarke.xml" from="clarke158"/></ab>
 </div2>
 
 
@@ -579,13 +579,13 @@ When last heard from, the author, who is a British officer, was on service at Kh
 <l>Or seed for the people in strong democracy?</l>
 <l>What do you see</l>
 <l>With your secret eyes, and sow for us, that we must reap again?</l></lg>
-<byline>-- William Rose Ben&eacute;t.</byline>
+<byline>-- William Rose Ben&#x00E9;t.</byline>
 </div2>
 
 
 <pb n="21"/>
 <div2 id="cunliffe010" type="poem" n="For the Fallen">
-<xptr doc="Clarke.xml" from="clarke149"/>
+<ab><xptr doc="Clarke.xml" from="clarke149"/></ab>
 <pb n="22"/>
 </div2>
 
@@ -610,7 +610,7 @@ When last heard from, the author, who is a British officer, was on service at Kh
 Obsolete word signifying a mere voluntary fighter unfit even for adequate defence purposes.</note>
 sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 <l>K's keen recruit is learning to shoot, the Boy Scout scouteth still, --</l>
-<l>And after them all, the dons, the dons! -the ag&egrave;d dons do drill!</l></lg>
+<l>And after them all, the dons, the dons! -the ag&#x00E8;d dons do drill!</l></lg>
 
 <lg>
 <pb n="24"/>
@@ -640,7 +640,7 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 <l>Is torn from the depth of complaining tums,</l>
 <l>Down the weak line the whisper comes:</l>
 <pb n="25"/>
-<l>"<hi rend="italic">Memento</hi> Louvain!" -- or "Rheims, &mu;&#x03AD;&mu;&nu;&eta;&sigma;&theta;&epsilon;!"</l>
+<l>"<hi rend="italic">Memento</hi> Louvain!" -- or "Rheims, &#x03BC;&#x03AD;&#x03BC;&#x03BD;&#x03B7;&#x03C3;&#x03B8;&#x03B5;!"</l>
 <l>"Oxford!" they cry, "shall beer-swillers fleece thee?"</l>
 <l>And still -- though their breath comes yet more short --</l>
 <l>They drill like mad to preserve her port.</l></lg>
@@ -658,15 +658,15 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 <l>Damneth the eyes</l>
 <l>Of Private Prof. Eng. Lit. <hi rend="smallcaps">Sir</hi> <hi rend="smallcaps">Walter</hi> <hi rend="smallcaps">Raleigh</hi>! --</l>
 <l>See yet again</l>
-<l>With uncontroll&egrave;d pleasure</l>
+<l>With uncontroll&#x00E8;d pleasure</l>
 <l>There, marking time amain</l>
 <l>As with such feet as make a lyric measure,</l>
-<l>Like &Aelig;schylus upon the Marathon day, --</l>
+<l>Like &#x00C6;schylus upon the Marathon day, --</l>
 <l>Next to that nice ex-proctor, --</l>
 <l>Private and Poet Laureate <hi rend="smallcaps">Dr</hi>.</l>
 <l><hi rend="smallcaps">Bridges</hi>, M.A.! --</l>
 <l>And see -- but let your eyes with pride be dim! --</l>
-<l>Him who professes Art and Arch&aelig;ology</l>
+<l>Him who professes Art and Arch&#x00E6;ology</l>
 <l>Standing as rear-rank man to him</l>
 <l>Of Anthropology.</l>
 <pb n="26"/>
@@ -683,7 +683,7 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 <l>And there be others:</l>
 <l>A publisher and sundry heads of houses,</l>
 <l>Spurred by North Oxford spouses,</l>
-<l>Bidden go forth by yet more ag&egrave;d mothers;</l>
+<l>Bidden go forth by yet more ag&#x00E8;d mothers;</l>
 <l>And, standing desperately at attention</l>
 <l>(But looking forward to their tea and scones),</l>
 <l>Innumerable dons</l>
@@ -777,13 +777,13 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 
 <pb n="31"/>
 <div2 id="cunliffe015" type="poem" n="Lord Kitchener">
-<xptr doc="Clarke.xml" from="clarke156"/>
+<ab><xptr doc="Clarke.xml" from="clarke156"/></ab>
 </div2>
 
 
 <pb n="32"/>
 <div2 id="cunliffe016" type="poem" n="Kartushkiya-Beroza">
-<head rend="center">KART&Uacute;SHKIYA-BER&Oacute;ZA</head>
+<head rend="center">KART&#x00DA;SHKIYA-BER&#x00D3;ZA</head>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcaps">It</hi> is twelve years since I have been there --</l>
@@ -791,12 +791,12 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 <l>In the little town, by the river --</l>
 <l>It all comes back to me now</l>
 <l>Reading in the newspaper:</l>
-<l rend="italic">"The Germans have seized the bridge-head at Kart&uacute;shkiya-Ber&oacute;za;</l>
+<l rend="italic">"The Germans have seized the bridge-head at Kart&#x00FA;shkiya-Ber&#x00F3;;za;</l>
 <l rend="italic">The Russians are retreating in good order across the marshes;</l>
 <l rend="italic">The town is in flames."</l></lg>
 
 <lg>
-<l>Kart&uacute;shkiya-Ber&oacute;za!</l>
+<l>Kart&#x00FA;shkiya-Ber&#x00F3;;za!</l>
 <l>Sweet-sounding, time-scented name --</l>
 <l>Smelling of wide-extending marshes of hay;</l>
 <l>Smelling of cornfields;</l>
@@ -806,7 +806,7 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 <l>Smelling of Grandmother's kitchen,</l>
 <l>Grandmother's freshly-baked dainties,</l>
 <l>Grandmother's plum-pudding --</l>
-<l>Kart&uacute;shkiya-Ber&oacute;za!</l></lg>
+<l>Kart&#x00FA;shkiya-Ber&#x00F3;;za!</l></lg>
 
 <lg>
 <pb n="33"/>
@@ -816,7 +816,7 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 <l>But I remember it was broad and unpaven and shaded with wide-branching chestnuts --</l>
 <l>And enters the market-place</l>
 <l>Just a few houses after my Grandfather's --</l>
-<l>Kart&uacute;shkiya-Ber&oacute;za!</l></lg>
+<l>Kart&#x00FA;shkiya-Ber&#x00F3;;za!</l></lg>
 
 <lg>
 <l>I can see it even now</l>
@@ -833,7 +833,7 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 <l>And the old well in the corner of the garden;</l>
 <l>With the bucket-lift</l>
 <l>Rising over the fence --</l>
-<l>Kart&uacute;shkiya-Ber&oacute;za!</l></lg>
+<l>Kart&#x00FA;shkiya-Ber&#x00F3;;za!</l></lg>
 
 <lg>
 <pb n="34"/>
@@ -865,7 +865,7 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 <l>And Baruch and Gershen and Mendel</l>
 <l>And long-legged, sandy-haired Emanuel who fell into the pond with me that time,</l>
 <l>While we were skating on the ice --</l>
-<l>Kart&uacute;shkiya-Ber&oacute;za!</l></lg>
+<l>Kart&#x00FA;shkiya-Ber&#x00F3;;za!</l></lg>
 
 <lg>
 <l>I can see myself even now</l>
@@ -879,7 +879,7 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 <l>I watch them eager-eyed --</l>
 <l>And run after them until they reach the Gentile Quarter --</l>
 <l>And then I turn back --</l>
-<l>Kart&uacute;shkiya-Ber&oacute;za!</l></lg>
+<l>Kart&#x00FA;shkiya-Ber&#x00F3;;za!</l></lg>
 
 <lg>
 <pb n="36"/>
@@ -898,13 +898,13 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 <l>Playing with my black-eyed little cousin --</l></lg>
 
 <lg>
-<l>Kart&uacute;shkiya-Ber&oacute;za!</l>
-<l>Kart&uacute;shkiya-Ber&oacute;za!</l>
+<l>Kart&#x00FA;shkiya-Ber&#x00F3;;za!</l>
+<l>Kart&#x00FA;shkiya-Ber&#x00F3;;za!</l>
 <l>It comes back to me suddenly --</l>
 <pb n="37"/>
 <l>That I am sitting here, with a newspaper in my hand,</l>
 <l>Reading:</l>
-<l rend="italic">"The Germans have seized the bridge-head at Kart&uacute;shkiya-Ber&oacute;za;</l>
+<l rend="italic">"The Germans have seized the bridge-head at Kart&#x00FA;shkiya-Ber&#x00F3;;za;</l>
 <l rend="italic">The Russians are retreating in good order across the marshes;</l>
 <l rend="italic">The town is in flames!"</l></lg>
 <byline>-- Alter Brody.</byline>
@@ -913,7 +913,7 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 
 <pb n="38"/>
 <div2 id="cunliffe017" type="poem" n="The Soldier">
-<xptr doc="Clarke.xml" from="clarke098"/>
+<ab><xptr doc="Clarke.xml" from="clarke098"/></ab>
 <note>
 (A sublieutenant in the volunteer Naval Reserve, Rupert Brooke died from sunstroke on his way to the Dardanelles on April 23, 1915, and was buried in the Greek island of Skyros.)
 </note>
@@ -1088,7 +1088,7 @@ message, see!</l>
 
 <pb n="46"/>
 <div2 id="cunliffe021" type="poem" n="Langemarck at Ypres">
-<xptr doc="Clarke.xml" from="clarke050"/>
+<ab><xptr doc="Clarke.xml" from="clarke050"/></ab>
 <pb n="47"/>
 <pb n="48"/>
 <pb n="49"/>
@@ -1101,7 +1101,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 <pb n="51"/>
 <div2 id="cunliffe022" type="poem" n="Guns of Verdun">
-<xptr doc="Clarke.xml" from="clarke058"/>
+<ab><xptr doc="Clarke.xml" from="clarke058"/></ab>
 <note>
 (Reprinted by the special permission of the proprietors of <hi rend="italic">Punch</hi>.)</note>
 </div2>
@@ -1135,7 +1135,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l>The nations thou hast saved exalt thy name --</l>
 <l>Albert the Great!</l></lg>
 
-<milestone type="break" rend="asterisk"/><hi rend="center">* * * * * * *</hi>
+<milestone unit="stanza" rend="asterisk"/>
 
 <lg>
 <pb n="53"/>
@@ -1165,7 +1165,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 <pb n="54"/>
 <div2 id="cunliffe024" type="poem" n="The Wife of Flanders">
-<xptr doc="Clarke.xml" from="clarke039"/>
+<ab><xptr doc="Clarke.xml" from="clarke039"/></ab>
 <pb n="55"/>
 </div2>
 
@@ -1486,7 +1486,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l>Rising at dawn to greet the storm of petals</l>
 <l>Shaken from apple-boughs; he heard them cry,</l>
 <l>And turned again to find the breast of her,</l>
-<l>And sank confus&egrave;d with a little sigh...</l>
+<l>And sank confus&#x00E8;d with a little sigh...</l>
 <l>Thereafter water running, and a voice</l>
 <l>That seemed to stir and flutter through the trenches</l>
 <l>And set dead lips to talking...</l></lg>
@@ -1540,7 +1540,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 <pb n="72"/>
 <div2 id="cunliffe029" type="poem" n="Vive La France!">
-<xptr doc="Clarke.xml" from="clarke027"/>
+<ab><xptr doc="Clarke.xml" from="clarke027"/></ab>
 <pb n="73"/>
 </div2>
 
@@ -1595,7 +1595,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 <pb n="76"/>
 <div2 id="cunliffe032" type="poem" n="How Sleep the Brave">
-<xptr doc="Clarke.xml" from="clarke151"/>
+<ab><xptr doc="Clarke.xml" from="clarke151"/></ab>
 </div2>
 
 
@@ -1815,7 +1815,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l>Doth bless a countryside as sweet and sober</l>
 <l rend="indent">As ever put on brown and red to please;</l>
 <l>The brooks run blood, but 'tis such blood as Heav'n,</l>
-<l rend="indent">Pierc&egrave;d with light, lets fall on field and village;</l>
+<l rend="indent">Pierc&#x00E8;d with light, lets fall on field and village;</l>
 <l>England's dear breasts are still unbruised, unriv'n</l>
 <l rend="indent">The autumn peace on pastureland and tillage.</l>
 <l>Dear mother of us all, hast thou not heard?</l>
@@ -1958,14 +1958,14 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 <pb n="90"/>
 <div2 id="cunliffe040" type="poem" n="Headquarters">
-<xptr doc="Clarke.xml" from="clarke106"/>
+<ab><xptr doc="Clarke.xml" from="clarke106"/></ab>
 <pb n="91"/>
 </div2>
 
 
 <pb n="92"/>
 <div2 id="cunliffe041" type="poem" n="The Return">
-<xptr doc="Clarke.xml" from="clarke083"/>
+<ab><xptr doc="Clarke.xml" from="clarke083"/></ab>
 </div2>
 
 
@@ -2001,8 +2001,8 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l>And so he goes unshrinking, from those dearest paths of home,</l>
 <l>For he knows, great-hearted England, let whatever fate may come</l>
 <l>You will <hi rend="italic">never</hi> let him die!</l></lg>
-<byline>-- H. Rex Freston.</byline>
-<note>(Killed in action in France, Jan. 24, 1916.)</note>
+<byline>-- H. Rex Freston.<lb/>
+(Killed in action in France, Jan. 24, 1916.)</byline>
 </div2>
 
 
@@ -2137,7 +2137,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 <pb n="100"/>
 <div2 id="cunliffe046" type="poem" n="Between the Lines">
-<xptr doc="Clarke.xml" from="clarke142"/>
+<ab><xptr doc="Clarke.xml" from="clarke142"/></ab>
 <pb n="101"/>
 <pb n="102"/>
 <pb n="103"/>
@@ -2263,7 +2263,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <pb n="111"/>
 <div2 id="cunliffe049" type="poem" n="The Dead">
 <head rend="center">THE DEAD</head>
-<head rend="center"><hi ref="smallcaps">TO ONE KILLED IN ACTION</hi></head>
+<head rend="center"><hi rend="smallcaps">To One Killed in Action</hi></head>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcaps">Dear</hi> love, they say thou art at rest.</l>
@@ -2296,8 +2296,8 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <div2 id="cunliffe050" type="poem" n="Sure, It's Fun!">
 <head rend="center">SURE, IT'S FUN!</head>
 
-<note rend="center">What fun to be a soldier!
-<byline>-- Everykid.</byline></note>
+<epigraph rend="center"><l>What fun to be a soldier!</l>
+<bibl>-- Everykid.</bibl></epigraph>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcaps">Sure</hi>, it's fun to be a soldier! Oh, it's fun, fun, fun,</l>
@@ -2379,7 +2379,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l rend="indent">Under screaming showers of shot and shell,</l>
 <l>Into open town, defenceless village,</l>
 <l rend="indent">He let loose his shameless hounds of Hell;</l>
-<l>When Li&egrave;ge, henceforth a name immortal!</l>
+<l>When Li&#x00E8;ge, henceforth a name immortal!</l>
 <l rend="indent">Perished fighting at his cannons' mouth,</l>
 <l>When he seized Namur, and through her portal,</l>
 <l rend="indent">Drunk with fury, still went surging south;</l>
@@ -2449,7 +2449,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 <pb n="118"/>
 <div2 id="cunliffe053" type="poem" n="Into Battle">
-<xptr doc="Clarke.xml" from="clarke101"/>
+<ab><xptr doc="Clarke.xml" from="clarke101"/></ab>
 <pb n="119"/>
 <pb n="120"/>
 <note>Captain the Hon. Julian Henry Francis Grenfell, D.S.O, of the 1st (Royal) Dragoons, was wounded in the trenches in front of Ypres on May 13, and died in hospital at Boulogne on May 26, 1915. He was the eldest son of Lord Desborough, by whose consent the poem is here reprinted. Lord Desborough writes: "Not many men would have knocked out two professional boxers and written those verses in one week."</note>
@@ -2533,7 +2533,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l>Moaning and shrieking hell's</l>
 <l rend="indent">Bacchanalian song!</l>
 <l>Last night he helped me bear</l>
-<l rend="indent">Men to hell's f&ecirc;ting.</l>
+<l rend="indent">Men to hell's f&#x00EA;ting.</l>
 <l>To-morrow, maybe, somewhere,</l>
 <l rend="indent">We, too, shall lie waiting.</l></lg>
 
@@ -2610,7 +2610,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 <pb n="126"/>
 <div2 id="cunliffe057" type="poem" n="Men Who March Away">
-<xptr doc="Clarke.xml" from="clarke068"/>
+<ab><xptr doc="Clarke.xml" from="clarke068"/></ab>
 <pb n="127"/>
 </div2>
 
@@ -2832,8 +2832,8 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l rend="indent">That knew your laughter, and past numbering</l>
 <l>These blades of grass that bent beneath your tread:</l>
 <l rend="indent">Because they once were yours, I love all these.</l></lg>
-<byline>-- Dyneley Hussey.</byline>
-<note rend="center">(Lieut., 13th Bn. Lancashire Fusiliers.)</note>
+<byline>-- Dyneley Hussey.<lb/>
+(Lieut., 13th Bn. Lancashire Fusiliers.)</byline>
 </div2>
 
 
@@ -2842,7 +2842,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">JOAN OF FRANCE TO AN ENGLISH SISTER</head>
 <head rend="center">I. M. EDITH CAVELL, NURSE</head>
 
-<epigraph rend="center"><hi rend="italic">Piti&eacute; que estoit au royaume de France."</hi></epigraph>
+<epigraph rend="center"><l rend="italic">Piti&#x00E9; que estoit au royaume de France."</l></epigraph>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcaps">Pity</hi> had I for my France my land</l>
@@ -2940,8 +2940,8 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l>Where no host was. On comrades unforgot</l>
 <l rend="indent">We thought, and knew that all those valiant dead</l>
 <l>Forwent their rest to save us at our need.</l></lg>
-<byline>-- Elinor Jenkins.</byline>
-<note>(See note on "The First Battle of Ypres," by Mrs. Margaret L. Woods, p. 290 of this volume.)</note>
+<byline>-- Elinor Jenkins.<lb/>
+(See note on "The First Battle of Ypres," by Mrs. Margaret L. Woods, p. 290 of this volume.)</byline>
 </div2> 
 
 <pb n="139"/>
@@ -2977,7 +2977,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <pb n="140"/>
 <div2 id="cunliffe066" type="poem" n="India to England">
 <head rend="center">INDIA TO ENGLAND</head>
-
+<ab><ptr target="cunliffe066note"/></ab>
 <lg type="stanza">
 <l n="1">O <hi rend="smallcaps">England</hi>! in thine hour of need,</l>
 <l>When Faith's reward and valor's meed</l>
@@ -3019,7 +3019,8 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l>They are, they ever will be, thine</l>
 <l rend="indent4">In life -- in death.</l></lg>
 <byline>-- Nizamat Jung.</byline>
-<note rend="center">(Native Judge of the High Court of Hyderabad.)</note>
+</div2>
+<div2 type="notes" id="cunliffe066note"><ab><ptr target="cunliffe006"/></ab><note rend="center">(Native Judge of the High Court of Hyderabad.)</note>
 </div2>
 
 
@@ -3041,7 +3042,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 <lg>
 <l>And then, unwarning, arrogant, the cut-throat liar of Berlin</l>
-<l>Tore into shreds his covenant: his arm&egrave;d hosts were swarming in</l>
+<l>Tore into shreds his covenant: his arm&#x00E8;d hosts were swarming in</l>
 <pb n="143"/>
 <l>From Prussian beer-halls, Rhinish hills, from Aurich east to Gumbinnen,</l>
 <l>From Rostock down to stolen Silz, sounded the tramp of Krupp-made men.</l></lg>
@@ -3053,7 +3054,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l>You called your sons, and they arose: "Come forth to die! Come forth to die!"</l></lg>
 
 <lg>
-<l>Your weaver stopped his whirring loom; as C&aelig;sar met him, even so now</l>
+<l>Your weaver stopped his whirring loom; as C&#x00E6;sar met him, even so now</l>
 <l>Your farmer hurried to his doom, and in its furrow left the plough;</l>
 <l>And Flanders, Hainault, Brabant came, Antwerp and Limburg -- all the land:</l>
 <l>The nameless and the proud of name, shoulder to shoulder, hand in hand.</l></lg>
@@ -3068,7 +3069,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <lg>
 <l>Their part it was to hold the gate, the narrow gate, against a foe</l>
 <l>Outnumbering scores to one -- to wait till Death alone should bid them go.</l>
-<l>And how they held it! Man and child; about Li&egrave;ge where Leman fed</l>
+<l>And how they held it! Man and child; about Li&#x00E8;ge where Leman fed</l>
 <l>Blood-hungry Prussians blood and piled the meadows with heroic dead;</l></lg>
 
 <lg>
@@ -3095,7 +3096,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 <pb n="146"/>
 <div2 id="cunliffe068" type="poem" n="The Hell-Gate of Soissons">
-<xptr doc="Clarke.xml" from="clarke091"/>
+<ab><xptr doc="Clarke.xml" from="clarke091"/></ab>
 <pb n="147"/>
 <pb n="148"/>
 <pb n="149"/>
@@ -3268,14 +3269,14 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 <pb n="157"/>
 <div2 id="cunliffe071" type="poem" n="The Spires of Oxford">
-<xptr doc="Clarke.xml" from="clarke060"/>
+<ab><xptr doc="Clarke.xml" from="clarke060"/></ab>
 <pb n="158"/>
 </div2>
 
 
 <pb n="159"/>
 <div2 id="cunliffe072" type="poem" n="Abraham Lincoln Walks at Midnight">
-<xptr doc="Clarke.xml" from="clarke009"/>
+<ab><xptr doc="Clarke.xml" from="clarke009"/></ab>
 <pb n="160"/>
 </div2>
 
@@ -3412,7 +3413,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 <pb n="166"/>
 <div2 id="cunliffe074" type="poem" n="The Debt">
-<xptr doc="Clarke.xml" from="clarke152"/>
+<ab><xptr doc="Clarke.xml" from="clarke152"/></ab>
 <pb n="167"/>
 <pb n="168"/>
 </div2>
@@ -3494,7 +3495,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 <pb n="171"/>
 <div2 id="cunliffe076" type="poem" n="Christmas, 1915">
-<xptr doc="Clarke.xml" from="clarke067"/>
+<ab><xptr doc="Clarke.xml" from="clarke067"/></ab>
 </div2>
 
 
@@ -3554,7 +3555,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l>For the sake of our dream of you, Mother,</l>
 <l rend="indent">Whose love we have longed for at home!</l></lg>
 
-<milestone type="break" rend="asterisk"/><hi rend="center">* * * * * * *</hi>
+<milestone unit="stanza" rend="asterisk"/>
 
 <lg>
 <l>Oh, Lord of our fathers before us,</l>
@@ -3572,14 +3573,14 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 <pb n="175"/>
 <div2 id="cunliffe078" type="poem" n="The Island of Skyros">
-<xptr doc="Clarke.xml" from="clarke148"/>
+<ab><xptr doc="Clarke.xml" from="clarke148"/></ab>
 <pb n="176"/>
 </div2>
 
 
 <pb n="177"/>
 <div2 id="cunliffe079" type="poem" n="O Glorious France">
-<xptr doc="Clarke.xml" from="clarke029"/>
+<ab><xptr doc="Clarke.xml" from="clarke029"/></ab>
 <pb n="178"/>
 <pb n="179"/>
 </div2>
@@ -4034,7 +4035,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 <pb n="197"/>
 <div2 id="cunliffe089" type="poem" n="The Searchlights">
-<xptr doc="Clarke.xml" from="clarke066"/>
+<ab><xptr doc="Clarke.xml" from="clarke066"/></ab>
 <pb n="198"/>
 </div2>
 
@@ -4145,7 +4146,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l rend="indent">Creep forth to a new day,</l>
 <l rend="indent">And one by one,</l>
 <l rend="indent">As morning gilds the dome,</l>
-<l rend="indent">Leave the grey a&euml;rodrome --</l>
+<l rend="indent">Leave the grey a&#x00EB;rodrome --</l>
 <l rend="indent">-- The day's begun.</l></lg>
 
 <lg>
@@ -4168,7 +4169,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 <pb n="203"/>
 <div2 id="cunliffe092" type="poem" n="Canadians">
-<xptr doc="Clarke.xml" from="clarke051"/>
+<ab><xptr doc="Clarke.xml" from="clarke051"/></ab>
 </div2>
 
 
@@ -4199,14 +4200,14 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l rend="indent">Thy peerless form nor hear thy voice again,</l>
 <l>The memory lives of what thou wast to me,</l>
 <l rend="indent">We knew great love.... We have not lived in vain.</l></lg>
-<byline>-- Sydney Oswald.</byline>
-<note rend="center">(Major, King's Royal Rifle Corps.)</note>
+<byline>-- Sydney Oswald.<lb/>
+(Major, King's Royal Rifle Corps.)</byline>
 </div2>
 
 
 <pb n="205"/>
 <div2 id="cunliffe094" type="poem" n="The Kaiser and God">
-<xptr doc="Clarke.xml" from="clarke079"/>
+<ab><xptr doc="Clarke.xml" from="clarke079"/></ab>
 <pb n="206"/>
 </div2>
 
@@ -4251,7 +4252,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l>I watched too.... And it smote!</l></lg>
 
 <lg>
-<l>"Not a threat of thunder, -- not an arm&egrave;d man,</l>
+<l>"Not a threat of thunder, -- not an arm&#x00E8;d man,</l>
 <l>Where the fury struck, and the fleet fire ran. --</l>
 <l>But girl-child, man-child, mothers and their young,</l>
 <l>Newborn of woman, with milk upon its tongue;</l>
@@ -4282,7 +4283,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l>But girl-child, man-child, creature yet unborn,</l>
 <l>Doe and fawn together so, weltering and torn,</l>
 <l>Newborn of woman where the flag-stones bled;</l>
-<l>(Better can the vultures do, for the sham&egrave;d dead.)</l>
+<l>(Better can the vultures do, for the sham&#x00E8;d dead.)</l>
 <l>Road-dust sobbing where the lightning burst --</l>
 <l rend="indent10">It was not for hunger;</l>
 <l rend="indent10">It was not for thirst."</l></lg>
@@ -4388,7 +4389,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 <pb n="213"/>
 <div2 id="cunliffe097" type="poem" n="Canada to England">
-<xptr doc="Clarke.xml" from="clarke049"/>
+<ab><xptr doc="Clarke.xml" from="clarke049"/></ab>
 </div2>
 
 
@@ -4486,7 +4487,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l>My King, you have one instant to prepare!"</l>
 <l>She said no more, because the thrust was there.</l></lg>
 
-<milestone type="break" rend="line"/><hi rend="center">--------</hi>
+<milestone unit="stanza" rend="line"/>
 
 <lg>
 <l>Oft have I heard that tale of Scotland's King</l>
@@ -4508,8 +4509,8 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <lg>
 <l>Whatever prove the glory of our affray,</l>
 <l>Thine arm, thy heart, thine act have won the day!</l></lg>
-<byline>-- A. Mary F. Robinson.</byline>
-<note rend="right">(Madame Duclaux.)</note>
+<byline>-- A. Mary F. Robinson.<lb/>
+(Madame Duclaux.)</byline>
 </div2>
 
 
@@ -4639,7 +4640,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l>From Calais to Moscow."</l>
 <l>And he slept on</l>
 <l>In the old sarcophagus</l>
-<l>While the a&euml;roplanes</l>
+<l>While the a&#x00EB;roplanes</l>
 <l>Droned their motors</l>
 <l>Between Napoleon's mausoleum</l>
 <l>And the cool night stars.</l></lg>
@@ -4830,12 +4831,12 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 <pb n="229"/>
 <div2 id="cunliffe107" type="poem" n="Requiescant">
-<xptr doc="Clarke.xml" from="clarke153"/>
+<ab><xptr doc="Clarke.xml" from="clarke153"/></ab>
 <dateline>
 <name type="place">Near Ypres, </name><date>May, 1915.</date>
 </dateline>
-<note>
-(Major, 3rd Brigade, Canadian Division, British Expeditionary Force.)</note>
+<byline>
+(Major, 3rd Brigade, Canadian Division, British Expeditionary Force.)</byline>
 </div2>
 
 
@@ -4880,7 +4881,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 <pb n="232"/>
 <div2 id="cunliffe109" type="poem" n="I Have a Rendezvous with Death">
-<xptr doc="Clarke.xml" from="clarke097"/>
+<ab><xptr doc="Clarke.xml" from="clarke097"/></ab>
 <pb n="233"/>
 <note>(Killed in battle at Belloy-en-Santerre, July, 1916.)</note>
 </div2>
@@ -5113,7 +5114,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 <pb n="243"/>
 <div2 id="cunliffe116" type="poem" n="All the Hills and Vales Along">
-<xptr doc="Clarke.xml" from="clarke103"/>
+<ab><xptr doc="Clarke.xml" from="clarke103"/></ab>
 <pb n="244"/>
 <note>(Captain, Seventh (Service) Battalion of the Suffolk Regiment, killed in action in France on Oct. 13, 1915.)</note>
 </div2>
@@ -5181,7 +5182,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l>Who have slim fingers and are pitiful,</l>
 <l>Brimming your lap with bloom that you may cull,</l>
 <l>Will sit apart, and weave for every head</l>
-<l>A garland of the fiow'rs you gather&eacute;d.</l></lg>
+<l>A garland of the fiow'rs you gather&#x00E9;d.</l></lg>
 
 <lg>
 <pb n="247"/>
@@ -5189,7 +5190,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l>Be green upon their graves, O happy Spring,</l>
 <l>For they were young and eager who are dead;</l>
 <l>Of all things that are young and quivering</l>
-<l>With eager life be they remember&eacute;d:</l>
+<l>With eager life be they remember&#x00E9;d:</l>
 <l>They move not here, they have gone to the clay,</l>
 <l>They cannot die again for liberty;</l>
 <l>Be they remembered of their land for aye;</l>
@@ -5223,7 +5224,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l>And no sun shone again for many days:</l>
 <l>And day by day they told that one was dead,</l>
 <l>And day by day the season mourned for you,</l>
-<l>Until that count of woe was finish&eacute;d,</l>
+<l>Until that count of woe was finish&#x00E9;d,</l>
 <l>And Spring remembered all was yet to do.</l></lg>
 
 <lg>
@@ -5285,7 +5286,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 <pb n="250"/>
 <div2 id="cunliffe119" type="poem" n="Australia to England">
-<xptr doc="Clarke.xml" from="clarke047"/>
+<ab><xptr doc="Clarke.xml" from="clarke047"/></ab>
 </div2>
 
 
@@ -5316,8 +5317,8 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l rend="indent">Now is the hour at last to pay,</l>
 <l>Now in the stricken field to show you</l>
 <l rend="indent">What is the spirit you guard to-day.</l></lg>
-<byline>-- Andrew John Stuart.</byline>
-<note>(Eldest son of the Earl of Castlestewart, Lieut. 6th Royal Scots Fusiliers, killed in action in France between Sept. 25 and 27, 1915.)</note>
+<byline>-- Andrew John Stuart.<lb/>
+(Eldest son of the Earl of Castlestewart, Lieut. 6th Royal Scots Fusiliers, killed in action in France between Sept. 25 and 27, 1915.)</byline>
 </div2>
 
 
@@ -5395,8 +5396,10 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 <pb n="255"/>
 <div2 id="cunliffe123" type="poem" n="England's Dead">
+
 <head rend="center">ENGLAND'S DEAD</head>
-<epigraph rend="center">("Make them to be numbered with thy Saints: in glory everlasting.")</epigraph>
+<epigraph rend="center"><l>("Make them to be numbered with thy Saints:
+in glory everlasting.")</l></epigraph><ab><ptr target="cunliffe123.note"/></ab>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcaps">Homeward</hi> the long ships leap; swift-shod with joy,</l>
@@ -5430,7 +5433,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l rend="indent">Before them all the fair Saint George rides on.</l></lg>
 
 <lg>
-<l>There goes the boy of Cr&eacute;&ccedil;y whispering low</l>
+<l>There goes the boy of Cr&#x00E9;&#x00E7;y whispering low</l>
 <l rend="indent">To him of Agincourt, a kingly pair,</l>
 <l>With many mighty men which bent the bow, --</l>
 <l rend="indent">There go the dead that died for England, there;</l></lg>
@@ -5526,14 +5529,15 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l rend="indent">Of his great blade nor hear his trumpets blare,</l>
 <l>Yet thick as brown leaves round about thy ways,</l>
 <l rend="indent">There go the dead that died for England, there.</l></lg>
-<byline>-- Frank Taylor.</byline>
+<byline>-- Frank Taylor.</byline></div2>
+<div2 id="cunliffe123.note" type="notes"><ab><ptr target="cunliffe123"/></ab>
 <note>(This poem was written about 1902, and was published in the Spectator of June 12, 1915, having been found among the author's papers by his executor, by whose consent it is here reprinted.)</note>
 </div2>
 
 
 <pb n="259"/>
 <div2 id="cunliffe124" type="poem" n="Spring in War Time">
-<xptr doc="Clarke.xml" from="clarke175"/>
+<ab><xptr doc="Clarke.xml" from="clarke175"/></ab>
 </div2>
 
 
@@ -5633,7 +5637,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 <lg>
 <l>It comes once more as it oft has come,</l>
-<l rend="indent">With its fa&euml;ry wings outspread --</l>
+<l rend="indent">With its fa&#x00EB;ry wings outspread --</l>
 <l rend="indent4">Can ye not see them, eyes that grope,</l>
 <l rend="indent4">Nor read its name, <hi rend="italic">The Unconquered Hope</hi>,</l>
 <l>Nor yet discern the halo</l>
@@ -5724,8 +5728,8 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l>Wake not the dead, lest they</l>
 <l>Have other words to say</l>
 <l>Of the same story!</l></lg>
-<byline>-- D. Howard Tripp.</byline>
-<note>(Lance-Corporal, London Irish Rifles, British Expeditionary Force.)</note>
+<byline>-- D. Howard Tripp.<lb/>
+(Lance-Corporal, London Irish Rifles, British Expeditionary Force.)</byline>
 </div2>
 
 
@@ -5758,7 +5762,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l rend="indent">For here my dear Love lies asleep.</l></lg>
 
 <lg>
-<l>The earth is on his seal&egrave;d eyes,</l>
+<l>The earth is on his seal&#x00E8;d eyes,</l>
 <l rend="indent">The beauty marred that was my pride;</l>
 <l>Would I were lying where he lies,</l>
 <l rend="indent">And sleeping sweetly by his side!</l></lg>
@@ -6175,17 +6179,19 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l>We who have looked on the Reapers</l>
 <l rend="indent">Go quietly, all our days.</l></lg>
 <byline>-- Lauchlan Maclean Watt.</byline>
+<closer>
 <dateline>
 <name type="place">France, </name>
 <date>1916.</date>
 </dateline>
-<note rend="right">(Chaplain of the Force.)</note>
+<hi rend="right">(Chaplain of the Force.)</hi>
+</closer>
 </div2>
 
 
 <pb n="285"/>
 <div2 id="cunliffe139" type="poem" n="Belgium">
-<xptr doc="Clarke.xml" from="clarke036"/>
+<ab><xptr doc="Clarke.xml" from="clarke036"/></ab>
 </div2>
 
 
@@ -6388,7 +6394,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 <lg>
 <l>Marlborough's men and Wellington's, the burghers of Courtrai,</l>
-<l>The warriors of Plantagenet, King Louis' <hi rend="italic">Gants glac&eacute;s</hi> --</l>
+<l>The warriors of Plantagenet, King Louis' <hi rend="italic">Gants glac&#x00E9;s</hi> --</l>
 <l>And the young, young dead from Mons and the Marne river.</l></lg>
 
 <lg>
@@ -6421,7 +6427,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l>The immitigable blow?"</l>
 <l>Thou hadst answered, "Let it be</l>
 <l>Where the battalions shake</l>
-<l>And break the entrench&eacute;d foe."</l></lg>
+<l>And break the entrench&#x00E9;d foe."</l></lg>
 
 <lg>
 <l>Yet wert thou nobly starred</l>
@@ -6463,8 +6469,8 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l>In that I count these sufferings my gain</l>
 <l>And her acknowledgment. Nay, more, would fain</l>
 <l>Suffer as many more for her sweet sake.</l></lg>
-<byline>-- Francis Brett Young.</byline>
-<note>With the British Expeditionary Force, Marago-Opuni, German East Africa. June, 1916.</note>
+<byline>-- Francis Brett Young.<lb/>
+With the British Expeditionary Force, Marago-Opuni, German East Africa. June, 1916.</byline>
 </div2>
 
 </div1>

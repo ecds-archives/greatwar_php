@@ -5,7 +5,7 @@
 print "<div class='search'>
 <h3>Search</h3> 
 
-<form action='$base_url/searchall.php'>
+<form action='${base_url}searchall.php'>
 <input type='text' name='keyword' size='15'>
 <input type='submit' value='Go'>
 <font size='-1'>

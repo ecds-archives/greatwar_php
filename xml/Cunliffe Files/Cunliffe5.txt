@@ -1,257 +1,368 @@
-THE BROKEN ROSE
 
-TO KING ALBERT
 
-SHY, youthful, silent - and misunderstood In the white glare of Kinghood thou didst stand. The sceptre in thy hand Seemed but a flower the Fates had tossed to thee, And thou wert called, perchance half-scornfully, Albert the Good.
+<pb n="52"/>
+<div2 id="cunliffe017" type="poem" n="The Broken Rose">
+<head rend="center">THE BROKEN ROSE</l>
+<l><hi rend="smallcaps">TO KING ALBERT</hi></head>
+
+<lg type="stanza">
+<l n="1">S<hi rend="smallcaps">hy</hi>, youthful, silent -- and misunderstood</l>
+<l>In the white glare of Kinghood thou didst stand.</l>
+<l>The sceptre in thy hand</l>
+<l>Seemed but a flower the Fates had tossed to thee,</l>
+<l>And thou wert called, perchance half-scornfully,</l>
+<l>Albert the Good.</l></lg>
+
+<lg>
+<l>To-day thou standest on a blackened grave,</l>
+<l>Thy broken sword still lifted to the skies.</l>
+<l>Thy pure and fearless eyes</l>
+<l>Gaze into Death's grim visage unappalled</l>
+<l>And by the storm-swept nations thou art called Albert the Brave.</l></lg>
+
+<lg>
+<l>Tossed on a blood-red sea of rage and hate</l>
+<l>The frenzied world rolls forward to its doom.</l>
+<l>But high above the gloom</l>
+<l>Flashes the fulgent beacon of thy fame,</l>
+<l>The nations thou hast saved exalt thy name --</l>
+<l>Albert the Great!</l></lg>
+
+<milestone type="break" rend="asterisk"/><hi rend="center">* * * * * * *</hi>
+
+<lg>
+<pb n="53"/>
+<l>Albert the good, the brave, the great, thy land</l>
+<l>Lies at thy feet, a crushed and morient rose</l>
+<l>Trampled and desecrated by thy foes.</l>
+<l>One day a greater Belgium will be born,</l>
+<l>But what of this dead Belgium wracked and torn?</l>
+<l>What of this rose flung out upon the sand?...</l></lg>
+
+<lg>
+<l>Behold! Afar where sky and waters meet</l>
+<l>A white-robed Figure walketh on the sea.</l>
+<l>(Peace goes before Him and her face is sweet.)</l>
+<l>As once He trod the waves of Galilee</l>
+<l>He comes again the tumult sinks to rest,</l>
+<l>The stormy waters shine beneath His feet.</l>
+<l>He sees the dead rose lying in the sand,</l>
+<l>He lifts the dead rose in His holy hand</l>
+<l>And lays it at His breast.</l></lg>
+
+<lg>
+<l>O broken rose of Belgium, thou art blest!</l></lg>
+<byline>--Annie Vivanti Chartres.</byline>
+</div2>
+
+<pb n="54"/>
+<xptr file="clarke.xml" from="clarke035"/>
+<pb n="55"/>
+
+
+<pb n="56"/>
+<div2 id="cunliffe018" type="poem" n="They Held Their Ground">
+<head rend="center">THEY HELD THEIR GROUND</head>
+
+<lg type="stanza">
+<l n="1">G<hi rend="smallcaps">rey</hi> broke the light of that Sabbath dawn</l>
+<l rend="indent">On the English pickets,</l>
+<l>Gold rose the sun o'er the unreaped corn</l>
+<l rend="indent">And the Hainault thickets.</l>
+<l>Through the park at home, where the young rooks caw'd,</l>
+<l>And the dew lay deep on the churchyard sward,</l>
+<l>Went Mary, arisen to meet her Lord --</l>
+<l>While Mons must be held for England.</l></lg>
+
+<lg>
+<l>Clear broke the day as the bugles blew, --</l>
+<l rend="indent">Who shall hear them to-morrow?</l>
+<l>Sternly the thunder of Edom grew,</l>
+<l rend="indent">And the tally of sorrow.</l>
+<l>Right wing, left wing, centre attacked,</l>
+<l>Legions launched like a cataract,</l>
+<l>But the English stood to their plighted pact, --</l>
+<l>Yes, Mons must be held for England!</l></lg>
+
+<lg>
+<l>Pitiless noon, when the screaming shard</l>
+<l rend="indent">Left the air acrid.</l>
+<l>But they looked on Malplaquet and Oudenarde,</l>
+<l rend="indent">So the soil was sacred.</l>
+<pb n="57"/>
+<l>And they thought (who knows?) on some Surrey lane,</l>
+<l>On some mother's kiss, or some school refrain,</l>
+<l>And they tightened the girths of their saddles again,</l>
+<l>Since Mons must be held for England.</l></lg>
+
+<lg>
+<l>Red set the sun in the angry skies</l>
+<l rend="indent">Ere the fight was over.</l>
+<l>Fierce were the beams of the cruisers' eyes</l>
+<l rend="indent">By the cliffs of Dover.</l>
+<l>News -- ill news -- for Namur is lost!</l>
+<l>No need for the Eagle to count the cost.</l>
+<l>But Mons was the merest hill at the most,</l>
+<l>Yet Mons had been held for England.</l></lg>
+
+<lg>
+<l>Lord, Who hast known what a slain Son is,</l>
+<l rend="indent">Judge Thou their labor!</l>
+<l>Lifted they eyes to the vanities?</l>
+<l rend="indent">Deceived their neighbor?</l>
+<l>Sift Thou the souls that are utterly Thine,</l>
+<l>Clean are those cold hands of covert design;</l>
+<l>Silent they lie in their last long line,</l>
+<l>Who died to hold Mons for England!</l></lg>
+<byline>-- Philip Byard Clayton.</byline>
+</div2>
+
+<pb n="58"/>
+<div2 id="cunliffe019" type="poem" n="Vision of War">
+<head rend="center">VISION OF WAR</head>
+
+<lg type="stanza">
+<head rend="center">1.</head>
+<l n="1">I <hi rend="smallcaps">went</hi> out into the night of quiet stars;</l>
+<l>I looked up at the wheeling heavens, at the mysterious firmament;</l>
+<l>I thought of the awful distances out there, of the incredible magnitudes, of space and silence and eternity;</l>
+<l>I thought of man, his life, his love, his dream;</l>
+<l>I thought of his body, how it is born and grows, and of his spirit that cannot be explained.</l></lg>
+
+<lg>
+<l>All about me slept the land in peace, and nature slept in deep serenity;</l>
+<l>An off-shore wind had died at sunset, the bay was calm and golden as twilight fell;</l>
+<l>Not a cloud broke the clear and tender blue of the evening sky.</l>
+<l>Then the quiet stars came out, the air grew cool with the breath of night;</l>
+<l>A land-breeze flurried, wafting the odor of damp woods and late hay-fields;</l>
+<l>A gentle breeze, that scarcely turned the sleeping leaves.</l>
+<pb n="59"/>
+<l>I walked on through the village, I saw the lights go out in houses as men and women prepared for bed;</l>
+<l>Safe and secure, the homes of my neighbors rested in the shadow of tall trees, that had been growing there peacefully a long time;</l>
+<l>I passed on into the country, crickets were singing in the fields, fireflies were glimmering in the pastures among low growths of spruce and pine;</l>
+<l>I mounted a hill, high overhead brooded the majestic and silent heavens;</l>
+<l>On the eastern horizon a great bright star arose, casting a track across the bay.</l></lg>
+
+<lg>
+<l>I have never seen the world so calm, the air so clear and still;</l>
+<l>I have never known an hour so full of quietness.</l></lg>
+
+<lg>
+<head rend="center">2.</head>
+<l rend="italic">Hour of the War!</l>
+<l rend="italic">Now, now -- and here -- on this same earth, and under this same sky!</l>
+<l rend="italic">Now! -- Now! -- The War! -- The War! -- The War!</l></lg>
+
+<lg>
+<l>Night, and a sodden field, and starlight over all,</l>
+<l>And on the ground the bodies of dead men lying;</l>
+<pb n="60"/>
+<l>Tumbled, broken, grotesque, in attitudes unhuman, in lumpish, swollen heaps, they lie,</l>
+<l>Where death suddenly snatched them up and flung them down.</l></lg>
+
+<lg>
+<l>A strange, dark, silent scene;</l>
+<l>Here passed the awful charge three days ago;</l>
+<l>Here met the choking volley, shattered out and fell.</l></lg>
+
+<lg>
+<l>Three days and nights they have been lying here;</l>
+<l>No help could reach them, cast between the battle lines;</l>
+<l>No help is needed now.</l></lg>
+
+<lg>
+<l>Slowly above their heads the conflict wore itself away;</l>
+<l>Calm settled on the shaking, riven air;</l>
+<l>The sharp cries of the wounded stopped one by one, their groans grew fainter;</l>
+<l>A few crawled off -- the others lay as they had fallen, under the sun and stars;</l>
+<l>Then the third night, and peace at last, the quietness restored.</l></lg>
+
+<lg>
+<head rend="center">3.</head>
+<l>Listen! -- could one be living? -- come this way;</l>
+<l>Here where a score of bodies are drawn mysteriously together,</l>
+<l>A turning face catches a gleam of starlight,</l>
+<l>A hand moves, winnowing the air.</l>
+<pb n="61"/>
+<l><hi rend="italic">"Water!"</hi> -- No use, no use -- too late;</l>
+<l>His breast is shot away -- don't move him -- God, how he bled!</l>
+<l>What is it, comrade? A letter -- make a light:</l>
+<l rend="italic">"We have not heard since you left home.... I cannot bear it...."</l>
+<l>Turn the sheet over: -- <hi rend="italic">"Oh, my dear, be careful!"</hi></l>
+<l>Here is the signature -- the address -- a distant village;</l>
+<l>I have been there -- an ancient, quiet village of the north,</l>
+<l>Fronting the open sea.</l>
+<l>Yes, comrade, I will write -- he smiles:</l>
+<l>To lie here, thinking, suffering, remembering;</l>
+<l>To be left to die alone!</l></lg>
+
+<lg>
+<head rend="center">4.</head>
+<l>But not alone:</l>
+<l>Passing brother, you have yet a grim companion;</l>
+<l>Along the edge of the thicket just now, as I went to the brook down there for water,</l>
+<l>I stumbled over something that must have been left from the charge a week ago:</l>
+<l>A body that held the remnants of a man.</l>
+<l>He had dragged himself to the brook, he lay imbedded in tall waving grass;</l>
+<l>His stomach had been ripped open by shrapnel, maggots were heaving in the wound</l>
+<pb n="62"/>
+<l>(Did you know that a man could live while maggots formed in his flesh?)</l>
+<l>His muscles twitched convulsively, he was barely conscious;</l>
+<l>He did not notice the match I struck, his eyes were filmed over, he would not drink;</l>
+<l>The region that he inhabited was an unknown, unimaginable land.</l></lg>
+
+<lg>
+<l>(At home, a woman waits for news of him:</l>
+<l>It is well that she can never hear.)</l></lg>
+
+<lg>
+<head rend="center">5.</head>
+<l>Pass on, pass on! Behold the mobilization of armies;</l>
+<l>The men leaving their work at the counter and factory, dropping the plow where it stands in the field,</l>
+<l>Flocking together, filling the towns, saying good-by to wife and children, taking a last look around;</l>
+<l rend="italic">(Our country calls! Our country, and our King!)</l></lg>
+
+<lg>
+<l>Behold the flinging forward of nations in the wake of armies;</l>
+<l>The marvellous, massive engines, the enormous paraphernalia;</l>
+<l>The powerful mechanical conveyances, the long lines of them carrying supplies;</l>
+<pb n="63"/>
+<l>The immense stores of provisions at the depot, the stacks of clothing and other necessities, the huge piles of fodder and grain for the horses;</l>
+<l>The flaring illuminations, the sweating gangs working beneath them, ceaselessly receiving, sorting, distributing;</l>
+<l>The field guns, the heavy artillery, their ponderous steady movements through the villages;</l>
+<l>The stout-wheeled wagons full of dangerous, costly ammunition;</l>
+<l>The roaring trains, arriving and departing, some laden with supplies, some packed with humanity, alive or dead;</l>
+<l>The vast and systematic commissariat, the grist of war.</l></lg>
+
+<lg>
+<head rend="center">6.</head>
+<l>Behold the columns, advancing, advancing, advancing;</l>
+<l>Tramping steadily onward, seen behind on the hills, and seen ahead to the distant turn of the road;</l>
+<l>Streaming along the valleys, gaining and crossing the passes, flanking the mountain ranges, netting the land with a lethal web;</l>
+<l>Accoutrements flashing and jangling, thunder of tread, regular motion swaying and undulating the lines;</l>
+<pb n="64"/>
+<l>Countless miles of indomitable marching men;</l>
+<l rend="italic">(Our country calls! Our country, and our King!)</l></lg>
+
+<lg>
+<l>Behold the front, the million-manned intrenchments, continent-spanning;</l>
+<l>The infinite detail of day-works and night-works;</l>
+<l>The burrowing, roofing, screening, the placing of barbed-wire entanglements;</l>
+<l>The stealthy advance in the darkness, the hasty and desperate digging-in under fire;</l>
+<l>The shifting and rushing forward of artillery, the lashing of horses, the running of wires for communication;</l>
+<l>The searchlights feeling afar through the night, like cold white fingers;</l>
+<l>The life of the trenches, after all is completed;</l>
+<l>The hidden underground chambers, the well-concealed passages, the bomb-proof quarters;</l>
+<l>The men laughing and singing, some of them making music on simple instruments, some playing cards, some smoking and talking;</l>
+<l>Passing backwards and forwards, eating, sleeping, fighting, or taking their leisure, all out of sight, in tunnels and cavities below the surface:</l>
+<l>A serious new game for earnest, grown-up children.</l></lg>
+
+<lg>
+<l>(Hark, hark! Aloft -- look up;</l>
+<l>A great bird sails across the sky, with loud and strident whirr of wings;</l>
+<pb n="65"/>
+<l>Terribly swift -- a moment -- it is gone.</l>
+<l>Can men be passing there on high, so swiftly through the air?)</l></lg>
+
+<lg>
+<head rend="center">7.</head>
+<l>Pass on! Behold the charge;</l>
+<l rend="italic">(Ready! Run low! Run wide!</l>
+<l rend="italic">Our country calls! Our country, and our King!)</l>
+<l>Over the open fields, trampling the crops, dropping to fire, rising to run;</l>
+<l>(Some never rising, never again to rise;)</l>
+<l>Straggling, thinning, wavering, (God, it is hopeless! -- it is too much!)</l>
+<l>Onward, onward pressing, rushing and driving onward;</l>
+<l>(I did not know that men could be so reckless and brave!)</l>
+<l>Mounting the opposite slope, cutting their way through entanglements;</l>
+<l>Gaining the outer trenches, (deadly work for the bayonets!)</l>
+<l>Shouting, cursing, groaning, stabbing, wrestling, clubbing with butts, fighting at last with bare fists;</l>
+<l>Annihilating the enemy, capturing the position!</l>
+<l rend="italic">(Victory! Victory! Victory!</l>
+<l rend="italic">Our country calls! Our country, and our King!)</l>
+<pb n="66"/>
+<l>(On the open field lie many huddled shapes;</l>
+<l>The wounded are stirring feebly out there, like men awaking from a violent dream;</l>
+<l>They lift their heads, they stretch their arms, they struggle to rise on their elbows;</l>
+<l>They sit up, staring around -- they crawl like snails among the crops;</l>
+<l>A screaming horse dashes athwart the line, dragging his entrails on the ground.)</l></lg>
+
+<lg>
+<head rend="center">8.</head>
+<l>Behold the ships at sea;</l>
+<l>A long and weary time they had been waiting, constantly on the alert, nerves strained to breaking;</l>
+<l>In smothering, foggy weather, in gloomy days, in pitch-black nights, in wild and desperate gales;</l>
+<l>Anxious for battle, longing to sight the enemy, every one on the lookout, chafing and growling;</l>
+<l>Anything, anything, boys, to end this tedious monotony!</l>
+<l>(Maybe an unseen deliverer is at hand.)</l></lg>
+
+<lg>
+<l>The captain was walking the bridge that morning, the crew were at breakfast, the navigating officer was winding his chronometers;</l>
+<l>Suddenly, from forward, a frantic cry! A man runs aft, pointing to windward;</l>
+<l>The captain whips out his glasses, scans the horizon;</l>
+<pb n="67"/>
+<l>For a while, he does not pick up a little white streak on the water, not very far away, drawing rapidly nearer;</l>
+<l>A streak like the wake of a shark's fin, cutting along on the weather bow.</l>
+<l>He sees it! Quick, to the signal! <hi rend="italic">Stop! Full speed astern!</hi></l>
+<l rend="italic">Over, there, with the helm!</l></lg>
+
+<lg>
+<l>Too late, too late, captain of ship and lives;</l>
+<l>Away from the little wake springs a broader wake;</l>
+<l>A murderous fish drives straight towards you, churning the water as he goes.</l>
+<l><hi rend="italic">Close compartment doors!</hi> -- the last command;</l>
+<l>Then to the end of the bridge, and stand there waiting;</l>
+<l>Press tight the lips, fold the arms on the breast, throw back the head:</l>
+<l>Below, along the weather rail, a line of men stands silently, watching death come;</l>
+<l rend="italic">(Our country calls! Our country, and our King!)</l></lg>
+
+<lg>
+<l>A whitish object skims on the surface of the blue sea;</l>
+<l>The torpedo strikes below the magazine;</l>
+<l>The ship is instantly blown in two -- she sinks like lead;</l>
+<l>A faint cheer finds no listener but God.</l>
+<pb n="68"/>
+<l>A few men struggle on the water, where she went down;</l>
+<l>They cling for a while to fragments of wreckage;</l>
+<l>There is no help in sight -- they cannot be saved.</l></lg>
+
+<lg>
+<l>(Down in the close, tight shell -- in the unseen, mysterious vessel,</l>
+<l>Crouching in a dim chamber, in utter silence, wrapped in impenetrable privacy, apart from life, cut off from world of land and sea,</l>
+<l>A man sits, breathing hard, clenching his hands;</l>
+<l>Far above him, where sunlight strikes on breaking wave, a secret eye looks out,</l>
+<l>A secret mirror throws down to him the story there;</l>
+<l>One long, intense, absorbing glance -- then to the signal stretches out his hand;</l>
+<l>Turning away, as darkly as she came, the submarine speeds homeward,</l>
+<l>Leaving the sea to seal her work and bury her dead.)</l></lg>
+
+<lg>
+<head rend="center">9.</head>
+<l>Behold! Hour of the War!</l>
+<l>Life everywhere flowing in strange new channels!</l>
+<l>The world aroused, awakened! The silence rent! Peace shattered and overthrown!</l>
+<l>The well-ordered conventions rudely broken up! The illusions dissipated! The motives suddenly disclosed!</l>
+<pb n="69"/>
+<l>Men face to face with nature, death, and pain! The elemental shown! And dim and far, the truth appearing!</l>
+<l>The hovering dream I The distant and divine conception!</l>
+<l>(I sing no battles lost, retreating armies:</l>
+<l>O, I tell you, in this campaign there are no defeats!</l>
+<l>O, I tell you, the retreating and advancing armies are equally triumphant!</l>
+<l>O, I tell you, the lost battles contribute as much as the battles won, to the sure result of this campaign!</l>
+<l rend="italic">Victory! Victory! Victory!</l>
+<l rend="italic">Our country calls! Our country, and our King!)</l></lg>
+
+<lg>
+<head rend="center">10.</head>
+<l>While about me sleeps the land in peace, while men and women prepare for bed;</l>
+<l>While the land-breeze flurries, wafting a scent of autumn woods and fallen leaves;</l>
+<l>While the crickets sing in the fields, and fireflies glimmer among low spruce and pine;</l>
+<l>While the bright star rises, casting a track across the bay;</l>
+<l>While the majestic heavens wheel onward, overlooking space and time;</l>
+<l>While the still air drops down its quietness like love.</l></lg>
+<byline>-- Lincoln Colcord.</l></byline><l>
+
+
+019 last, p. 53
 
-To-day thou standest on a blackened grave, Thy broken sword still lifted to the skies. Thy pure and fearless eyes Gaze into Death's grim visage unappalled And by the storm-swept nations thou art called Albert the Brave.
 
-Tossed on a blood-red sea of rage and hate The frenzied world rolls forward to its doom. But high above the gloom Flashes the fulgent beacon of thy fame, The nations thou bast saved exalt thy name Albert the Great!
-
-* * * * * * *
-
-Albert the good, the brave, the great, thy land Lies at thy feet, a crushed and morient rose Trampled and desecrated by thy foes. One day a greater Belgium will be born, But what of this dead Belgium wracked and torn? What of this rose flung out upon the sand? .
-
-Behold! Afar where sky and waters meet A white-robed Figure walketh on the sea. (Peace goes before Him and her face is sweet.) As once He trod the waves of Galilee He comes again the tumult sinks to rest, The stormy waters shine beneath His feet. He sees the dead rose lying in the sand, He lifts the dead rose in His holy hand And lays it at His breast.
-
-O broken rose of Belgium, thou art blest!
-
-Annie Vivanti Chartres.
-THE WIFE OF FLANDERS
-
-Low and brown barns thatched and repatched and tattered
-
-Where I had seven sons until to-day,
-
-A little hill of hay your spur has scattered
-
-This is not Paris. You have lost the way.
-
-You, staring at your sword to find it brittle,
-
-Surprised at the surprise that was your plan,
-
-Who, shaking and breaking barriers not a little,
-
-Find never more the death-door of Sedan.
-
-Must I for more than carnage call you claimant,
-
-Paying you a penny for each son you slay?
-
-Man, the whole globe in gold were no repayment
-
-For what you have lost. And how shall I repay?
-
-What is the price of that red spark that caught me
-
-From a kind farm that never had a name?
-
-What is the price of that dead man they brought me?
-
-For other dead men do not look the same.
-
-How should I pay for one poor graven steeple
-
-Whereon you shattered what you shall not know,
-
-How should I pay you, miserable people?
-
-How should I pay you everything you owe?
-
-Unhappy, can I give you back your honor ?
-
-Though I forgave would any man forget?
-
-While all the great green land has trampled on her
-
-The treason and terror of the night we met.
-
-Not any more in vengeance or in pardon
-
-An old wife bargains for a bean that's hers.
-
-You have no word to break; no heart to harden.
-
-Ride on and prosper. You have lost your spurs.
-
-- Gilbert K. Chesterton.
-THEY HELD THEIR GROUND
-
-GREY broke the light of that Sabbath dawn On the English pickets,
-
-Gold rose the sun o'er the unreaped corn And the Hainault thickets.
-
-Through the park at home, where the young rooks caw'd, And the dew lay deep on the churchyard sward, Went Mary, arisen to meet her Lord -
-
-While Mons must be held for England.
-
-Clear broke the day as the bugles blew, Who shall hear them to-morrow?
-
-Sternly the thunder of Edom grew, And the tally of sorrow.
-
-Right wing, left wing, centre attacked, Legions launched like a cataract, But the English stood to their plighted pact, -
-
-Yes, Mons must be held for England!
-
-Pitiless noon, when the screaming shard Left the air acrid.
-
-But they looked on Malplaquet and Oudenarde, So the soil was sacred.
-
-And they thought (who knows?) on some Surrey lane,
-
-On some mother's kiss, or some school refrain,
-
-And they tightened the girths of their saddles again,
-
-Since Mons must be held for England.
-
-Red set the sun in the angry skies Ere the fight was over.
-
-Fierce were the beams of the cruisers' eyes By the cliffs of Dover.
-
-News - ill news - for Namur is lost!
-
-No need for the Eagle to count the cost.
-
-But Mons was the merest hill at the most,
-
-Yet Mons had been held for England.
-
-Lord, Who hast known what a slain Son is, Judge Thou their labor!
-
-Lifted they eyes to the vanities? Deceived their neighbor?
-
-Sift Thou the souls that are utterly Thine,
-
-Clean are those cold hands of covert design;
-
-Silent they lie in their last long line,
-
-Who died to hold Mons for England!
-
-- Philip B yard Clayton.
-VISION OF WAR
-
-1.
-
-I WENT out into the night of quiet stars;
-
-I looked up at the wheeling heavens, at the mysterious firmament;
-
-I thought of the awful ("stances out there, of the incredible magnitudes, of space and silence arid eternity;
-
-I thought of man, his life, his love, his dream;
-
-I thought of his body, how it is born and grows, and of his spirit that cannot be explained.
-
-All about me slept the land in peace, and nature slept in deep serenity;
-
-An off-shore wind had died at sunset, the bay was calm and golden as twilight fell;
-
-Not a cloud broke the clear and tender blue of the evening sky.
-
-Then the quiet stars came out, the air grew cool with the breath of night;
-
-A land-breeze flurried, wafting the odor of damp woods and late hay-fields;
-
-A gentle breeze, that scarcely turned the sleeping leaves.
-
-I walked on through the village, I saw the lights go out in houses as men and women prepared for bed;
-
-Safe and secure, the homes of my neighbors rested in the shadow of tall trees, that had been growing there peacefully a long time;
-
-I passed on into the country, crickets were singing in the fields, fireflies were glimmering in the pastures among low growths of spruce and pine;
-
-I mounted a hill, high overhead brooded the majestic and silent heavens;
-
-On the eastern horizon a great bright star arose, casting a track across the bay.
-
-I have never seen the world so calm, the air so clear and still;
-
-I have never known an hour so full of quietness.
-
-2.
-
-IImr of the Jar / now - and here - on this same earth, and under this same sky !
-
-oo'!-Now!- The War!- The War!- The War!
-
-Night, and a sodden field, and starlight over all,
-
-And on the ground the bodies of dead men lying;
-Tumbled, broken, grotesque, in attitudes unhuman, in lumpish, swollen heaps, they lie,
-
-Where death suddenly snatched them up and flung them down.
-
-A strange, dark, silent scene;
-
-Here passed the awful charge three days ago;
-
-Here met the choking volley, shattered out and fell.
-
-Three days and nights they have been lying here;
-
-No help could reach them, cast between the battle lines;
-
-No help is needed now.
-
-Slowly above their heads the conflict wore itself away;
-
-Calm settled on the shaking, riven air;
-
-The sharp cries of the wounded stopped one by one, their groans grew fainter;
-
-A few crawled off -the others lay as they had fallen, under the sun and stars;
-
-Then the third night, and peace at last, the quietness restored.
-
-3.
-
-Listen! - could one be living? - come this way;
-
-Here where a score of bodies are drawn mysteriously together,
-
-A turning face catches a gleam of starlight,
-
-A hand moves, winnowing the air.
-
-Water !" - No use, no use - too late;
-
-His breast is shot away - don't move him - God, how he bled!
-
-What is it, comrade? A letter - make a light:
-
-We have not heard since you left home . . . . I cannot bear it .........
-
-Turn the, sheet over: - "Oh, my dear, be careful I"
-
-Here is the signature - the address - a distant village;
-
-I have been there - an ancient, quiet village of the north,
-
-Fronting the open sea.
-
-Yes, comrade, I will write - he smiles:
-
-To lie here, thinking, suffering, remembering;
-
-To be left to die alone!
-
-4.
-
-But not alone:
-
-Passing brother, you have yet a grim companion;
-
-Along the edge of the thicket just now, as I went to the brook down there for water,
-
-I stumbled over something that nnit have hetii left. from the charge a week ago:
-
-A body that held the remnants of a man.
-
-He had dragged himself to the brook, he lay 1111
-
-bedded in tall waving grass;
-
-His stomach had been ripped open by shrapnel, maggots were heaving in the wound

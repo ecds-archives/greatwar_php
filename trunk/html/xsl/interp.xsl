@@ -5,6 +5,9 @@
 	xmlns:ino="http://namespaces.softwareag.com/tamino/response2" 
 	xmlns:xql="http://metalab.unc.edu/xql/">
 
+
+<xsl:param name="desc"/>
+
 <xsl:output method="html"/>  
 
 <xsl:template match="/"> 
@@ -48,7 +51,8 @@ select="@type"/>')</xsl:attribute>
 <xsl:template match="interp">
   <li>
    <xsl:element name="a">
-     <xsl:attribute name="href">postcards/browse.php?cat=<xsl:value-of select="@id"/></xsl:attribute>
+     <xsl:attribute name="href">postcards/browse.php?cat=<xsl:value-of
+select="@id"/>&amp;desc=<xsl:value-of select="$desc"/></xsl:attribute>
      <xsl:value-of select="@value"/>
    </xsl:element>
   </li>

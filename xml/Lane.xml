@@ -393,13 +393,7 @@
 
 
 <pb n="7"/>
-<div2 id="lane014" type="poem" n="The Vigil">
-<xptr doc="Clarke.xml" from="clarke019"/>
 <pb n="8"/>
-<closer><hi rend="italic">Times, August 5, 1914</closer> 
-</div2>
-
-
 <pb n="9"/>
 <div2 id="lane015" type="poem" n="War">
 <head rend="center">WAR</head>
@@ -597,19 +591,7 @@
 
 
 <pb n="18"/>
-<div2 id="lane019" type="poem" n="The Kaiser and Belgium">
-<xptr doc="Clarke.xml" from="clarke053"/>
-<closer><hi rend="italic">Daily Chronicle, August 8, 1914</closer>
-</div2>
-
-
 <pb n="19"/>
-<div2 id="lane020" type="poem" n="Canada to England">
-<xptr doc="Clarke.xml" from="clarke049"/>
-<closer><hi rend="italic">Times, August 10, 1914</closer>
-</div2>
-
-
 <pb n="20"/>
 <div2 id="lane021" type="poem" n="To 'Little' Belgium">
 <head rend="center">TO "LITTLE" BELGIUM</head>
@@ -740,11 +722,8 @@
 
 
 <pb n="26"/>
-<div2 id="lane024" type="poem" n="Pro Patria">
-<xptr doc="Clarke.xml" from="clarke022"/>
 <pb n="27"/>
-<closer><hi rend="italic">Punch, August 12, 1914</closer>
-</div2>
+
 
 
 <pb n="28"/>
@@ -808,19 +787,10 @@
 
 
 <pb n="31"/>
-<div2 id="lane026" type="poem" n="France">
-<xptr doc="Clarke.xml" from="clarke025"/>
 <pb n="32"/>
-<closer><hi rend="italic">New Witness, August</hi> 13, 1914</closer>
-</div2>
-
-
 <pb n="33"/>
-<div2 id="lane027" type="poem" n="To France">
-<xptr doc="Clarke.xml" from="clarke030"/>
 <pb n="34"/>
-<closer><hi rend="italic">Westminster Gazette, August</hi> 13, 1914</closer>
-</div2>
+
 
 
 <pb n="35"/>
@@ -1422,7 +1392,7 @@
 <l>Save their souls, reclaim their genius</l>
 <l rend="indent4">For the service of mankind."</l></lg>
 
-<milestone type="break" rend="asterisk"/><hi rend="center">* * * *</hi>
+<milestone unit="stanza" rend="asterisk"/>
 
 <lg>
 <pb n="58"/>
@@ -1991,14 +1961,8 @@
 
 
 <pb n="83"/>
-<div2 id="lane050" type="poem" n="The Kaiser and God">
-<xptr doc="Clarke.xml" from="clarke079"/>
 <pb n="84"/>
 <pb n="85"/>
-<closer><hi rend="italic">Times, August</hi> 28, 1914</closer>
-</div2>
-
-
 <pb n="86"/>
 <div2 id="lane051" type="poem" n="The Shirker">
 <head rend="center">THE SHIRKER</head>
@@ -2144,12 +2108,9 @@
 
 
 <pb n="92"/>
-<div2 id="lane056" type="poem" n="For All We Have and Are">
-<xptr doc="Clarke.xml" from="clarke020"/>
 <pb n="93"/>
 <pb n="94"/>
-<closer><hi rend="italic">Times, September</hi> 2, 1914</closer>
-</div2>
+
 
 
 <pb n="95"/>

@@ -7,21 +7,20 @@
 
 <!-- handle footnotes -->
 
-
-<!-- note, default mode : calculate note number & link to actual note -->
-<xsl:template match="note"> 
-  <xsl:variable name="pos"><xsl:value-of select="count(preceding::note|ancestor-or-self::note)"/></xsl:variable>
-   <xsl:element name="a">
-    <xsl:attribute name="name"><xsl:value-of select="concat('notelink',$pos)"/></xsl:attribute>
-    <xsl:attribute name="href"><xsl:value-of select="concat('#note',$pos)"/></xsl:attribute>
-    <xsl:attribute name="class">footnote</xsl:attribute>
-      <xsl:value-of select="$pos"/>
-   </xsl:element>
+<xsl:template match="ref">
+  <a> 
+  <xsl:attribute name="name"><xsl:value-of select="concat(@target, '-link')"/></xsl:attribute>
+  <xsl:attribute name="href"><xsl:value-of select="concat($selflink, '#', @target)"/></xsl:attribute>
+  <xsl:attribute name="class">footnote</xsl:attribute>
+  <xsl:apply-templates/>
+  </a>
 </xsl:template>
 
 
+<xsl:template match="note"/>
+
 <!-- generate text of actual notes -->
-<!-- Note: this template MUST be explicitly called, after the text is
+<!-- Note: this template MUST be explicitly called, after the main text is
      processed -->
 <xsl:template name="endnotes">
 <!-- only display endnote div if there actually are notes -->
@@ -33,18 +32,16 @@
  </xsl:if>    
 </xsl:template>
 
-<!-- note, endnote mode : calculate number and display content of
-     note; link back to note in the text -->
+<!-- note, endnote mode : display number and content of note; 
+     link back to ref in the text -->
 <xsl:template match="note" mode="end">
-  <xsl:variable name="pos"><xsl:value-of select="position()"/></xsl:variable>
-
   <xsl:element name="p">
     <xsl:attribute name="class">footnote</xsl:attribute>
     <xsl:element name="a">
-      <xsl:attribute name="name"><xsl:value-of select="concat('note',$pos)"/></xsl:attribute>
-      <xsl:attribute name="href"><xsl:value-of select="concat('#notelink',$pos)"/></xsl:attribute>
+      <xsl:attribute name="name"><xsl:value-of select="@id"/></xsl:attribute>
+      <xsl:attribute name="href"><xsl:value-of select="concat($selflink, '#',@id,'-link')"/></xsl:attribute>
       <xsl:attribute name="title">Return to text</xsl:attribute>
-        <xsl:value-of select="$pos"/> 
+        <xsl:value-of select="@n"/> 
     </xsl:element>. <!-- a -->
  
   <xsl:apply-templates mode="endnote"/>

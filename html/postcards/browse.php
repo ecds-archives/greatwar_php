@@ -43,7 +43,7 @@ else if ($desc == "yes") { $maxdisplay = 25; }
 else { $maxdisplay = 50; }
 
 ($desc == "yes") ? $mode = "thumbdesc" : $mode = "thumbnail";
-$xsl_params = array("mode" => $mode);
+$xsl_params = array("mode" => $mode, "authlevel" => $_SESSION['authlevel']);
 $cat_params = array("desc" => $desc, "max" => $maxdisplay);
 
 /*

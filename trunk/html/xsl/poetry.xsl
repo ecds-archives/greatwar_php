@@ -336,10 +336,10 @@
    <!-- search results mode: display line count and lines matching
 	search term -->
     <xsl:apply-templates select="linecount" mode="search"/>
+   </p>
     <p class="linematch">
       <xsl:apply-templates select="l" mode="search"/>
     </p>
-  </p>
 </xsl:template>
 
 <xsl:template match="linecount" mode="search">

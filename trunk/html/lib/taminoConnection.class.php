@@ -76,7 +76,7 @@ class taminoConnection {
       // phpDOM can only handle xmlContent within certain size limits
       $this->xml = new XML($this->xmlContent);
       if (!($this->xml)) {        ## call failed
-	print "TaminoConnection xquery Error: unable to retrieve xml content.<br>";
+	print "TaminoConnection::xquery Error: unable to retrieve xml content, or result size is too large.<br>";
       }
       $error = $this->xml->getTagAttribute("ino:returnvalue", 
 					   "ino:response/ino:message");
@@ -85,7 +85,21 @@ class taminoConnection {
       $this->xml = 0;
       $error = 0;
     }
-   return $error;
+
+    if (!($error)) {    // tamino Error code (0 = success)
+      $this->getXQueryCursor();
+    } else if ($error == "8306") {	    // invalid cursor position (also returned when there are no matches)
+      $this->count = $this->position = $this->quantity = 0;
+      if ($debug) {
+	print "DEBUG: Tamino error 8306 = invalid cursor position<br>\n";
+      }
+    } else if ($error) {
+       $this->count = $this->position = $this->quantity = 0;
+       print "<p>Error: failed to retrieve contents.<br>";
+       print "(Tamino error code $error)</p>";
+    }
+
+    return $error;	// return tamino error code, in case user wants to check it
   }
 
 

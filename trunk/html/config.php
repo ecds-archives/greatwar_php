@@ -6,7 +6,7 @@
 $basedir = "/home/httpd/html/rebecca/wwiweb";
 $server = "reagan.library.emory.edu";
 $base_path = "/rebecca/wwiweb";
-$base_url = "http://$server/$base_path/";
+$base_url = "http://$server$base_path/";
 
 // add basedir to the php include path (for header/footer files and lib directory)
 set_include_path(get_include_path() . ":" . $basedir . ":" . "$basedir/lib");

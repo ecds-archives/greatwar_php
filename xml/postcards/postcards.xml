@@ -50,7 +50,7 @@ Services, Woodruff Library, Emory University</publisher>
 </teiHeader>
 <text>
 <body>
-
+<p>
 <figure entity="wwi_3_friends" ana="im-s con-f t-wwi">
 <head>Three Friends</head>
 <figDesc>The phrase "Three Friends" is embroidered alongside a three-leaf clover.  Each leaf has an embroidered image:  a red cross on white, an American flag, and a white cross on red. On reverse: blank. </figDesc>
@@ -3325,7 +3325,7 @@ Pl&#x00E9;nipotentiaires Allemandes</head>
 <figDesc>This postcard is the tenth in a set of ten miniature postcards from Paris labeled "Souvenir De L'Armistice". It is a black and white photo of railroad tracks with a large stone marker in between them. In the bottom right corner of the picture is a "10". On the outside of the enclosing envelope is "10. -- Emplacement du Wagon des Pl&eacute;nipotentiaires Allemands." On reverse: blank.</figDesc>
 </figure>
 
-
+</p>
 </body>
 <back>
 <div>

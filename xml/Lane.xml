@@ -101,7 +101,7 @@
 <pb n="ii"/>
 
 <div1 id="lane001" type="dedication">
-The entire profits from the sale of this volume will be given to the Prince of Wales's National Relief Fund
+<p>The entire profits from the sale of this volume will be given to the Prince of Wales's National Relief Fund</p>
 </div1>
 
 
@@ -139,7 +139,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 <l>Song passes not away.</l>
 <l>Captains and conquerors leave a little dust,</l>
 <l>And kings a dubious legend of their reign;</l>
-<l>The swords of C&aelig;sars, they are less than rust:</l>
+<l>The swords of C&#x00E6;sars, they are less than rust:</l>
 <l>The poet doth remain."</l></q>
 </div1>
 
@@ -156,7 +156,8 @@ The entire profits from the sale of this volume will be given to the Prince of W
 <p>Viscount Dillon sends me the following, taken from <hi rend="italic">La France du Nord</hi> of August 23. These lines, by a poetic ally, who remains anonymous, are as correct in feeling as they are ingenious in adapting themselves to the rhythm of our own National Anthem.</p>
 
 <pb n="ix"/>
-<div2 id="lane006" type="poem" n="Welcome to You, Gallant Britons">
+<q><text><body>
+<div id="lane006" type="poem" n="Welcome to You, Gallant Britons">
 <head rend="center">WELCOME TO YOU, GALLANT BRITONS</head>
 
 <lg type="stanza">
@@ -174,7 +175,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 <l rend="indent5">And the Russians;</l>
 <l>The Belgians so gallant,</l>
 <l>Who have checked the tyrant</l>
-<l>From Li&egrave;ge to Dinant;</l>
+<l>From Li&#x00E8;ge to Dinant;</l>
 <l rend="indent5">Hail to them all!</l></lg>
 
 <lg>
@@ -186,12 +187,17 @@ The entire profits from the sale of this volume will be given to the Prince of W
 <l>And reap final glory;</l>
 <l rend="indent5">Hail to them all!</l></lg>
 <byline>G. C.</byline>
-</div2>
+</div>
+</body>
+</text>
+</q>
 
 <pb n="x"/>
 <p>I have also been favoured with another poem which has an added interest from the fact that the writer has for many years been well acquainted with German politics and German statesmen.</p>
-
-<div2 id="lane007" type="poem" n="A Partnership">
+<q>
+<text>
+<body>
+<div id="lane007" type="poem" n="A Partnership">
 <head rend="center">A PARTNERSHIP</head>
 
 <lg type="stanza">
@@ -230,21 +236,24 @@ The entire profits from the sale of this volume will be given to the Prince of W
 <l>Bidding the whole wide world defiance --</l>
 <l>Wait! and perhaps his Partner may send </l>
 <l>The blasphemous Kaiser a fitting end.</l></lg>
-</div2>
+</div>
+</body>
+</text>
+</q>
 
 <p>My thanks are due for the great generosity displayed by all the authors whose poems appear in this volume, and whose names will be found on following pages; and also to the Editors of the <hi rend="italic">Times</hi>, <hi rend="italic">Daily Chronicle</hi>, <hi rend="italic">Westminster Gazette</hi>, <hi rend="italic">Daily News and Leader</hi>, <hi rend="italic">Morning Post</hi>, <hi rend="italic">Daily Telegraph</hi>, <hi rend="italic">Evening Standard</hi>, <hi rend="italic">Daily Express</hi>, <hi rend="italic">Pall Mall Gazette</hi>, <hi rend="italic">Punch</hi>, <hi rend="italic">New Weekly</hi>, <hi rend="italic">New Witness</hi>, <hi rend="italic">Truth</hi>, <hi rend="italic">Saturday Review</hi>, <hi rend="italic">T.P.'s Weekly</hi>, <hi rend="italic">Yorkshire Post</hi>, <hi rend="italic">Glasgow Evening News</hi>, for full permission to reprint the poems that have appeared in their columns.</p>
 
 <p>Mr. Vernon Hill has drawn and presented the cover design.</p>
 
 <byline>JOHN LANE</byline>
-<note rend="left">T<hi rend="smallcaps">he</hi> B<hi rend="smallcaps">odley</hi> H<hi rend="smallcaps">ead</hi>.</note>
+<dateline rend="smallcaps">The Bodley Head.</dateline>
 </div1>
 
 </front>
 
 <body>
 
-<div1 id="lane008" type="anthology" n="Songs &amp; Sonnets For England in War Time">
+<div1 id="lane008" type="anthology" n="Songs &#x0026; Sonnets For England in War Time">
 
 <pb n="1"/>
 <div2 id="lane009" type="poem" n="To the Troubler of the World">
@@ -266,9 +275,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 <l rend="indent">And not by Earth shall he be soon forgiven</l>
 <l>Who lit the fire accurst that flames to-day.</l></lg>
 <byline>WILLIAM WATSON</byline>
-<bibl>
-<publisher>Times</publisher>, <date value="">August 6, 1914</date>
-</bibl>
+<closer><hi rend="italic">Times, August</hi> 6, 1914</closer>
 </div2>
 
 
@@ -311,12 +318,9 @@ The entire profits from the sale of this volume will be given to the Prince of W
 <l>Who break an age in pieces for your play:</l>
 <l>Please God your trampling vanities will jar</l>
 <l>A sleeping giant, and such petty things</l>
-<l>As crowns and C&aelig;sars shall at last make way</l>
-<l>Before mankind's Republic, ending war.</l></lg>
-<byline>JUSTIN HUNTLY McCARTHY</byline>
-<bibl>
-<publisher>Daily Chronicle</publisher>, <date value="">August 3 ,1914</date>
-</bibl> 
+<l>As crowns and C&#x00E6;sars shall at last make way</l>
+<l>Before mankind's Republic, ending war.</l></lg><byline>JUSTIN HUNTLY McCARTHY</byline>
+<closer><hi rend="italic">Daily Chronicle, August</hi> 3 ,1914</closer> 
 </div2>
 
 

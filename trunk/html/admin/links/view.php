@@ -1,13 +1,14 @@
-<html>
+<?php
+include("../../config.php");	
+
+print "<html>
   <head>
-<!--    <link rel="stylesheet" type="text/css" href="../wwi.css"> -->
-    <title>The Great War : Links : Admin : View Links</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<!--    <base href="http://reagan.library.emory.edu/rebecca/wwiweb/"> -->
+    $csslink
+    <title>The Great War : Admin : Links : View Links</title>
+    <meta http-equiv='Content-Type' content='text/html; charset=iso-8859-1'> 
   </head>
 <body>
-
-<?php
+";
 
 // name of the current file (for links that display same content with different options)
 $self = "view.php";

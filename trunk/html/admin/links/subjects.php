@@ -1,15 +1,15 @@
-<html>
+<?php
+include("../../config.php");	
+
+print "<html>
   <head>
-<!--    <link rel="stylesheet" type="text/css" href="../wwi.css"> -->
-    <title>The Great War : Links : Admin : Manage Subjects</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<!--    <base href="http://reagan.library.emory.edu/rebecca/wwiweb/"> -->
+    $csslink
+    <title>The Great War : Admin : Links : Manage Subjects</title>
+    <meta http-equiv='Content-Type' content='text/html; charset=iso-8859-1'> 
   </head>
 <body>
+";
 
-<?php
-// run everything as if two directories up
-include("../../config.php");
 include_once ("lib/subjectList.class.php");
 include_once("lib/mybreadcrumb.php");
 

@@ -89,7 +89,7 @@
    </teiHeader>
 <text>
 <body>
-<div1 id="asquith01"> type="anthology" n ="The Volunteer And Other Poems">
+<div1 id="asquith01" type="anthology" n ="The Volunteer And Other Poems">
 <div2 id="asquith02" type="poem" n="The Volunteer">
 <head rend="center">THE VOLUNTEER</head>
 
@@ -755,7 +755,9 @@ A YOUNG MAN TO A MERCHANT.</head>
 <l>My boat it is a fairy boat, </l>
 <l rend="indent">Above the ripple silver-green, </l>
 <l>Upon the wavelet violet-crowned,</l>
-<l>My boat and I are outward bound!</l></lg></div2></div1>
+<l>My boat and I are outward bound!</l></lg>
+</div2>
+</div1>
 </body>
 </text>
 </TEI.2>

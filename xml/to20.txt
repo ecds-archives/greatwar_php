@@ -352,7 +352,7 @@
 <l rend="indent">God thinks the same of such,</l>
 <l>As of the proudest hero killed in war :--</l>
 <l rend="indent">Who says it is not much?</l></lg>
-<dateline><name type="place"><hi rend="smallcaps">France</hi>,
+<dateline><name type="place"><hi rend="smallcaps">France</hi>, 
 </name><date><hi rend="italic">July</hi>, 1917.</date></dateline>
 </div2>
 
@@ -486,7 +486,7 @@
 <l rend="indent">How the earth's face is scarred, her life ebbing fast?</l>
 <l>And only the shorn stump of Sentinel Tree</l>
 <l rend="indent">Prays in silence, "How long will her agony last?"</l></lg>
-<dateline><name type="place"><hi rend="smallcaps">Trenches</hi>,
+<dateline><name type="place"><hi rend="smallcaps">Trenches</hi>, 
 </name><date><hi rend="italic">December</hi>, 1916.</date></dateline>
 </div2>
 
@@ -512,7 +512,7 @@
 <l>Are closing, and I cannot thrust apart</l>
 <l>Their tightening grip. ... No ray of sun appears,</l>
 <l rend="indent16">Only the rolling mist.</l></lg>
-<dateline><name type="place"><hi rend="smallcaps">Huts, France</hi>,
+<dateline><name type="place"><hi rend="smallcaps">Huts, France</hi>, 
 </name><date><hi rend="italic">December</hi>, 1916.</date></dateline>
 </div2>
 
@@ -537,7 +537,7 @@
 <l rend="indent">Its life but newly lit to Thee I bring</l>
 <l>In thanks that I can see Thy guiding hand</l>
 <l>In every flower that decorates the land.</l></lg>
-<dateline><name type="place"><hi rend="smallcaps">Billets, France</hi>,
+<dateline><name type="place"><hi rend="smallcaps">Billets, France</hi>, 
 </name><date><hi rend="italic">March</hi>, 1917.</date></dateline>
 </div2>
 
@@ -562,5 +562,6 @@
 <l>Giving to drink each waking blade and flower, </l>
 <l>I saw the new world take Communion then --</l>
 <l>And now 'tis night and we return to strife.</l></lg>
-<dateline><name type="place"><hi rend="smallcaps">Huts, France</hi>,
+<dateline><name type="place"><hi rend="smallcaps">Huts, France</hi>, 
 </name><date><hi rend="italic">April</hi>, 1917.</date></dateline>
+

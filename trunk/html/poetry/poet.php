@@ -17,6 +17,12 @@ include_once("lib/mybreadcrumb.php");
 include("header.php");
 print "<p class='breadcrumbs'>" . $breadcrumb->show_breadcrumb() . "</p>";
 
+$self = "poetry/poet.php";
+$pos = $_GET["position"];
+$maxdisplay = $_GET["max"];
+if (isset($pos)) {} else {$pos = 1;}
+if (isset($maxdisplay)) {} else { $maxdisplay = 75; }
+
 $args = array('host' => $tamino_server,
 	      'db' => $tamino_db,
 	      'coll' => $tamino_coll['poetry'],
@@ -29,6 +35,7 @@ declare namespace tf="http://namespaces.softwareag.com/tamino/TaminoFunction"
 for $a in input()/TEI.2/:text/body//docAuthor
 let $div := $a/..
 let $docname := tf:getDocname(xf:root($a))
+where $div/docAuthor/@n
 return <div docname="{$docname}">
 {$div/@n}
 {$div/@id}
@@ -40,7 +47,7 @@ return <div docname="{$docname}">
 
 
 $xsl_file = "poetry.xsl";
-$xsl_params = array("mode" => "poetbrowse");
+$xsl_params = array("mode" => "poetbrowse", "selflink" => $self, "max" => $maxdisplay, "position" => $pos);
 
 $tamino->xquery($query, $pos, $maxdisplay); 
 

@@ -41,7 +41,7 @@ if ($terms[0]) {
 }
 if ($title) { $where .= " and tf:containsText(\$a/head, '$title') "; }
 // note: for now, must look for author field in two different places
-if ($author) { $where .= " and (tf:containsText(\$a/byline, '$author') or tf:containsText(\$a/../docAuthor, '$author')) " ; }
+if ($author) { $where .= " and (tf:containsText(\$a//docAuthor, '$author') or tf:containsText(\$a/../docAuthor, '$author')) " ; }
 if ($date) { $where .= " and \$a/../docDate = '$date' "; }
 $return = ' return <div2> {$a/@type} {$a/@id} {$a/@n} {$a/docAuthor} {$a/../docAuthor} ';
 // if using keyword search, retrieve matching lines also

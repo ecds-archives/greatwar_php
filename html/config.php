@@ -3,9 +3,9 @@
 /* Configuration settings for entire site */
 
 // root directory and url where the website resides
-$basedir = "/home/httpd/html/rebecca/wwiweb";
-$server = "reagan.library.emory.edu";
-$base_path = "/rebecca/wwiweb";
+$basedir = "/home/httpd/html/cti/greatwar";
+$server = "cti.library.emory.edu";
+$base_path = "/greatwar";
 $base_url = "http://$server$base_path/";
 
 // add basedir to the php include path (for header/footer files and lib directory)

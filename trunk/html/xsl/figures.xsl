@@ -164,10 +164,20 @@ select="@entity"/>&amp;zoom=2</xsl:attribute>
  	<xsl:call-template name="interp-names">
  	   <xsl:with-param name="list" select="substring-after($list, ' ')"/>
 	</xsl:call-template>
-      </xsl:if>
-  
-     <xsl:variable name="id"><xsl:value-of 
-		select="substring-before($list, ' ')"/></xsl:variable>
+      </xsl:if> 
+
+<!-- get the current id: either string before the first space, or the
+     whole string (in the deepest recursion) -->
+    <xsl:variable name="id">
+     <xsl:choose>
+       <xsl:when test="contains($list, ' ')">
+	  <xsl:value-of select="substring-before($list, ' ')"/>
+       </xsl:when>
+       <xsl:otherwise>
+         <xsl:value-of select="$list"/>
+       </xsl:otherwise>
+     </xsl:choose>
+    </xsl:variable>
 
      <xsl:if test="$id != ''">
         <li><xsl:value-of select="key('interp-cat', $id)"/>: 

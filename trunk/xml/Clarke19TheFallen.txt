@@ -1,0 +1,709 @@
+
+<pb n="221"/>
+<div1 id="clarke142" type="Chapter" n="The Fallen">
+<head rend="center">THE FALLEN</head>
+
+
+<pb n="223"/>
+<div2 id="clarke143" type="poem" n="The Dead">
+<head rend="center">THE DEAD</head>
+
+<lg type="stanza">
+<head rend="center">I</head>
+<l n="1">B<hi rend="smallcaps">low</hi> out, you bugles, over the rich Dead!</l>
+<l>There's none of these so lonely and poor of old,</l>
+<l>But, dying, has made us rarer gifts than gold.</l>
+<l>These laid the world away; poured out the red</l>
+<l>Sweet wine of youth; gave up the years to be</l>
+<l>Of work and joy, and that unhoped serene</l>
+<l>That men call age; and those who would have been,</l>
+<l>Their sons, they gave, their immortality.</l></lg>
+
+<lg>
+<l>Blow, bugles, blow! They brought us, for our dearth,</l>
+<l>Holiness, lacked so long, and Love, and Pain.</l>
+<l>Honour has come back, as a king, to earth,</l>
+<l>And paid his subjects with a royal wage;</l>
+<l>And Nobleness walks in our ways again;</l>
+<l>And we have come into our heritage.</l></lg>
+
+<lg>
+<head rend="center">II</head>
+<l>These hearts were woven of human joys and cares</l>
+<l>Washed marvellously with sorrow, swift to mirth.</l>
+<l>The years had given them kindness. Dawn was theirs,</l>
+<l>And sunset, and the colours of the earth.</l>
+<l>These had seen movement and heard music; known</l>
+<l>Slumber and waking; loved; gone proudly friended;</l>
+<l>Felt the quick stir of wonder; sat alone;</l>
+<l>Touched flowers and furs and cheeks. All this is ended.</l></lg>
+
+<lg>
+<pb n="224"/>
+<l>There are waters blown by changing winds to laughter</l>
+<l>And lit by the rich skies, all day. And after,</l>
+<l>Frost with a gesture, stays the waves that dance</l>
+<l>And wandering loveliness. He leaves a white</l>
+<l>Unbroken glory, a gathered radiance,</l>
+<l>A width, a shining peace, under the night.</l></lg>
+
+<lb/><byline>Rupert Brooke</byline>
+</div2>
+
+<div2 id="clarke144" type="poem" n="The Island of Skyros">
+<head rend="center">THE ISLAND OF SKYROS</head>
+
+<lg type="stanza">
+<l n="1">H<hi rend="smallcaps">ere</hi>, where we stood together, we three men,</l>
+<l>Before the war had swept us to the East</l>
+<l>Three thousand miles away, I stand again</l>
+<l>And hear the bells, and breathe, and go to feast.</l>
+<l>We trod the same path, to the selfsame place,</l>
+<l>Yet here I stand, having beheld their graves,</l>
+<l>Skyros whose shadows the great seas erase,</l>
+<l>And Seddul Bahr that ever more blood craves.</l>
+<l>So, since we communed here, our bones have been</l>
+<l>Nearer, perhaps, than they again will be,</l>
+<l>Earth and the worldwide battle lie between,</l>
+<l>Death lies between, and friend-destroying sea.</l>
+<l>Yet here, a year ago, we talked and stood</l>
+<l>As I stand now, with pulses beating blood.</l></lg>
+
+<lg>
+<l>I saw her like a shadow on the sky</l>
+<l>In the last light, a blur upon the sea,</l>
+<l>Then the gale's darkness put the shadow by,</l>
+<l>But from one grave that island talked to me;</l>
+<l>And, in the midnight, in the breaking storm,</l>
+<l>I saw its blackness and a blinking light,</l>
+<pb n="225"/>
+<l>And thought, "So death obscures your gentle form,</l>
+<l>So memory strives to make the darkness bright;</l>
+<l>And, in that heap of rocks, your body lies,</l>
+<l>Part of the island till the planet ends,</l>
+<l>My gentle comrade, beautiful and wise,</l>
+<l>Part of this crag this bitter surge offends,</l>
+<l>While I, who pass, a little obscure thing,</l>
+<l>War with this force, and breathe, and am its king."</l></lg>
+
+<lb/><byline>John Masefield</byline>
+</div2>
+
+<div2 id="clarke145" type="poem" n="For the Fallen">
+<head rend="center">FOR THE FALLEN</head>
+
+<lg type="stanza">
+<l n="1">W<hi rend="smallcaps">ith</hi> proud thanksgiving, a mother for her children,</l>
+<l>England mourns for her dead across the sea.</l>
+<l>Flesh of her flesh they were, spirit of her spirit,</l>
+<l>Fallen in the cause of the free.</l></lg>
+
+<lg>
+<l>Solemn the drums thrill; Death august and royal</l>
+<l>Sings sorrow up into immortal spheres,</l>
+<l>There is music in the midst of desolation</l>
+<l>And a glory that shines upon our tears.</l></lg>
+
+<lg>
+<l>They went with songs to the battle, they were young,</l>
+<l>Straight of limb, true of eye, steady and aglow.</l>
+<l>They were staunch to the end against odds uncounted;</l>
+<l>They fell with their faces to the foe.</l></lg>
+
+<lg>
+<l>They shall not grow old, as we that are left grow old:</l>
+<l>Age shall not weary them, nor the years condemn.</l>
+<l>At the going down of the sun and in the morning</l>
+<l>We will remember them.</l></lg>
+
+<lg>
+<pb n="226"/>
+<l>They mingle not with their laughing comrades again;</l>
+<l>They sit no more at familiar tables of home;</l>
+<l>They have no lot in our labour of the day-time;</l>
+<l>They sleep beyond England's foam.</l></lg>
+
+<lg>
+<l>But where our desires are and our hopes profound,</l>
+<l>Felt as a well-spring that is hidden from sight,</l>
+<l>To the innermost heart of their own land they are known</l>
+<l>As the stars are known to the Night;</l></lg>
+
+<lg>
+<l>As the stars that shall be bright when we are dust,</l>
+<l>Moving in marches upon the heavenly plain;</l>
+<l>As the stars that are starry in the time of our darkness,</l>
+<l>To the end, to the end, they remain.</l></lg>
+
+<lb/><byline>Laurence Binyon</byline>
+</div2>
+
+<div2 id="clarke146" type="poem" n="Two Sonnets">
+<head rend="center">TWO SONNETS</head>
+
+<lg>
+<head rend="center">I</head>
+<l n="1">S<hi rend="smallcaps">aints</hi> have adored the lofty soul of you.</l>
+<l>Poets have whitened at your high renown.</l>
+<l>We stand among the many millions who</l>
+<l>Do hourly wait to pass your pathway down.</l>
+<l>You, so familiar, once were strange: we tried</l>
+<l>To live as of your presence unaware.</l>
+<l>But now in every road on every side</l>
+<l>We see your straight and steadfast signpost there.</l></lg>
+
+<lg>
+<l>I think it like that signpost in my land</l>
+<l>Hoary and tall, which pointed me to go</l>
+<l>Upward, into the hills, on the right hand,</l>
+<l>Where the mists swim and the winds shriek and blow,</l>
+<pb n="227"/>
+<l>A homeless land and friendless, but a land</l>
+<l>I did not know and that I wished to know.</l></lg>
+
+<lg>
+<head rend="center">II</head>
+<l>Such, such is Death: no triumph: no defeat:</l>
+<l>Only an empty pail, a slate rubbed clean,</l>
+<l>A merciful putting away of what has been.</l></lg>
+
+<lg>
+<l>And this we know: Death is not Life effete,</l>
+<l>Life crushed, the broken pail. We who have seen</l>
+<l>So marvellous things know well the end not yet.</l></lg>
+
+<lg>
+<l>Victor and vanquished are a-one in death:</l>
+<l>Coward and brave: friend, foe. Ghosts do not say,</l>
+<l>"Come, what was your record when you drew breath?"</l>
+<l>But a big blot has hid each yesterday</l>
+<l>So poor, so manifestly incomplete.</l>
+<l>And your bright Promise, withered long and sped,</l>
+<l>Is touched, stirs, rises, opens and grows sweet</l>
+<l>And blossoms and is you, when you are dead.</l></lg>
+
+<lb/><byline>Charles Hamilton Sorley</byline>
+<dateline><date>June 12, 1915</date></dateline>
+</div2>
+
+<div2 id="clarke147" type="poem" n=""How Sleep the Brave"">
+<head rend="center">"HOW SLEEP THE BRAVE"</head>
+
+<lg type="stanza">
+<l n="1">N<hi rend="smallcaps">ay</hi>, nay, sweet England, do not grieve!</l>
+<l>Not one of these poor men who died</l>
+<l>But did within his soul believe</l>
+<l>That death for thee was glorified.</l></lg>
+
+<lg>
+<l>Ever they watched it hovering near</l>
+<l>That mystery 'yond thought to plumb,</l>
+<l>Perchance sometimes in loath&egrave;d fear</l>
+<l>They heard cold Danger whisper, Come! --</l></lg>
+
+<lg>
+<pb n="228"/>
+<l>Heard and obeyed. O, if thou weep</l>
+<l>Such courage and honour, beauty, care,</l>
+<l>Be it for joy that those who sleep</l>
+<l>Only thy joy could share.</l></lg>
+
+<lb/><byline>Walter de la Mare</byline>
+</div2>
+
+<div2 id="clarke148" type="poem" n="The Debt">
+<head rend="center">THE DEBT</head>
+
+<lg type="stanza">
+<l n="1">N<hi rend="smallcaps">o</hi> more old England will they see --</l>
+<l>Those men who've died for you and me.</l></lg>
+
+<lg>
+<l>So lone and cold they lie; but we,</l>
+<l>We still have life; we still may greet</l>
+<l>Our pleasant friends in home and street;</l>
+<l>We still have life, are able still</l>
+<l>To climb the turf of Bignor Hill,</l>
+<l>To see the placid sheep go by,</l>
+<l>To hear the sheep-dog's eager cry,</l>
+<l>To feel the sun, to taste the rain,</l>
+<l>To smell the Autumn's scents again</l>
+<l>Beneath the brown and gold and red</l>
+<l>Which old October's brush has spread,</l>
+<l>To hear the robin in the lane,</l>
+<l>To look upon the English sky.</l></lg>
+
+<lg>
+<l>So young they were, so strong and well,</l>
+<l>Until the bitter summons fell --</l>
+<l>Too young to die.</l>
+<l>Yet there on foreign soil they lie,</l>
+<l>So pitiful, with glassy eye</l>
+<l>And limbs all rumbled anyhow:</l>
+<l>Quite finished, now.</l>
+<pb n="229"/>
+<l>On every heart -- lest we forget --</l>
+<l>Secure at home -- engrave this debt!</l></lg>
+
+<lg>
+<l>Too delicate is flesh to be</l>
+<l>The shield that nations interpose</l>
+<l>'Twixt red Ambition and his foes --</l>
+<l>The bastion of Liberty.</l>
+<l>So beautiful their bodies were,</l>
+<l>Built with so exquisite a care:</l>
+<l>So young and fit and lithe and fair.</l>
+<l>The very flower of us were they,</l>
+<l>The very flower, but yesterday!</l>
+<l>Yet now so pitiful they lie,</l>
+<l>Where love of country bade them hie</l>
+<l>To fight this fierce Caprice -- and die.</l>
+<l>All mangled now, where shells have burst,</l>
+<l>And lead and steel have done their worst;</l>
+<l>The tender tissues ploughed away,</l>
+<l>The years' slow processes effaced:</l>
+<l>The Mother of us all -- disgraced.</l></lg>
+
+<lg>
+<l>And some leave wives behind, young wives;</l>
+<l>Already some have launched new lives:</l>
+<l>A little daughter, little son --</l>
+<l>For thus this blundering world goes on.</l>
+<l>But never more will any see</l>
+<l>The old secure felicity,</l>
+<l>The kindnesses that made us glad</l>
+<l>Before the world went mad.</l>
+<l>They'll never hear another bird,</l>
+<l>Another gay or loving word --</l>
+<l>Those men who lie so cold and lone,</l>
+<l>Far in a country not their own;</l>
+<pb n="230"/>
+<l>Those men who died for you and me,</l>
+<l>That England still might sheltered be</l>
+<l>And all our lives go on the same</l>
+<l>(Although to live is almost shame).</l></lg>
+
+<lb/><byline>E. V. Lucas</byline>
+</div2>
+
+<div2 id="clarke149" type="poem" n="Requiescant">
+<head rend="center"><hi rend="italic">REQUIESCANT</hi></head>
+
+<lg type="stanza">
+<l n="1">I<hi rend="smallcaps">n</hi> lonely watches night by night</l>
+<l>Great visions burst upon my sight,</l>
+<l>For down the stretches of the sky</l>
+<l>The hosts of dead go marching by.</l></lg>
+
+<lg>
+<l>Strange ghostly banners o'er them float,</l>
+<l>Strange bugles sound an awful note,</l>
+<l>And all their faces and their eyes</l>
+<l>Are lit with starlight from the skies.</l></lg>
+
+<lg>
+<l>The anguish and the pain have passed</l>
+<l>And peace hath come to them at last,</l>
+<l>But in the stern looks linger still</l>
+<l>The iron purpose and the will.</l></lg>
+
+<lg>
+<l>Dear Christ, who reign'st above the flood</l>
+<l>Of human tears and human blood,</l>
+<l>A weary road these men have trod,</l>
+<l>O house them in the home of God!</l></lg>
+
+<lb/><byline>Frederick George Scott</byline>
+<dateline><name type="place">In a Field near Ypres</name>
+<date>April, 1915</date></dateline>
+</div2>
+
+<pb n="231"/>
+<div2 id="clarke150" type="poem" n="To Our Fallen">
+<head rend="center">TO OUR FALLEN</head>
+
+<lg type="stanza">
+<l n="1">Y<hi rend="smallcaps">e</hi> sleepers, who will sing you?</l>
+<l>We can but give our tears --</l>
+<l>Ye dead men, who shall bring you</l>
+<l>Fame in the coming years?</l>
+<l>Brave souls... but who remembers</l>
+<l>The flame that fired your embers? ...</l>
+<l>Deep, deep the sleep that holds you</l>
+<l>Who one time had no peers.</l></lg>
+
+<lg>
+<l>Yet maybe Fame's but seeming</l>
+<l>And praise you'd set aside,</l>
+<l>Content to go on dreaming,</l>
+<l>Yea, happy to have died</l>
+<l>If of all things you prayed for --</l>
+<l>All things your valour paid for --</l>
+<l>One prayer is not forgotten,</l>
+<l>One purchase not denied.</l></lg>
+
+<lg>
+<l>But God grants your dear England</l>
+<l>A strength that shall not cease</l>
+<l>Till she have won for all the Earth</l>
+<l>From ruthless men release,</l>
+<l>And made supreme upon her</l>
+<l>Mercy and Truth and Honour --</l>
+<l>Is this the thing you died for?</l>
+<l>Oh, Brothers, sleep in peace!</l></lg>
+
+<lb/><byline>Robert Ernest Vern&egrave;de</byline>
+</div2>
+
+<pb n="232"/>
+<div2 id="clarke151" type="poem" n="The Old Soldier">
+<head rend="center">THE OLD SOLDIER</head>
+
+<lg type="stanza">
+<l n="1">L<hi rend="smallcaps">est</hi> the young soldiers be strange in heaven,</l>
+<l>God bids the old soldier they all adored</l>
+<l>Come to Him and wait for them, clean, new-shriven,</l>
+<l>A happy doorkeeper in the House of the Lord.</l></lg>
+
+<lg>
+<l>Lest it abash them, the strange new splendour,</l>
+<l>Lest it affright them, the new robes clean;</l>
+<l>Here's an old face, now, long-tried, and tender,</l>
+<l>A word and a hand-clasp as they troop in.</l></lg>
+
+<lg>
+<l>"My boys," he greets them: and heaven is homely,</l>
+<l>He their great captain in days gone o'er;</l>
+<l>Dear is the friend's face, honest and comely,</l>
+<l>Waiting to welcome them by the strange door.</l></lg>
+
+<lb/><byline>Katharine Tynan</byline>
+</div2>
+
+<div2 id="clarke152" type="poem" n="Lord Kitchener">
+<head rend="center">LORD KITCHENER</head>
+
+<lg type="stanza">
+<l n="1">U<hi rend="smallcaps">nflinching</hi> hero, watchful to foresee</l>
+<l>And face thy country's peril wheresoe'er,</l>
+<l>Directing war and peace with equal care,</l>
+<l>Till by long toil ennobled thou wert he</l>
+<l>Whom England call'd and bade "Set my arm free</l>
+<l>To obey my will and save my honour fair," --</l>
+<l>What day the foe presumed on her despair</l>
+<l>And she herself had trust in none but thee:</l></lg>
+
+<lg>
+<l>Among Herculean deeds the miracle</l>
+<l>That mass'd the labour of ten years in one</l>
+<l>Shall be thy monument. Thy work was done</l>
+<pb n="233"/>
+<l>Ere we could thank thee; and the high sea swell</l>
+<l>Surgeth unheeding where thy proud ship fell</l>
+<l>By the lone Orkneys, at the set of sun.</l></lg>
+
+<lb/><byline>Robert Bridges</byline>
+<dateline><date>June 8, 1916</date></dateline>
+</div2>
+
+<div2 id="clarke153" type="poem" n="Kitchener">
+<head rend="center">KITCHENER</head>
+
+<lg type="stanza">
+<l n="1">T<hi rend="smallcaps">here</hi> is wild water from the north;</l>
+<l>The headlands darken in their foam</l>
+<l>As with a threat of challenge stubborn earth</l>
+<l>Booms at that far wild sea-line charging home.</l></lg>
+
+<lg>
+<l>The night shall stand upon the shifting sea</l>
+<l>As yesternight stood there,</l>
+<l>And hear the cry of waters through the air,</l>
+<l>The iron voice of headlands start and rise --</l>
+<l>The noise of winds for mastery</l>
+<l>That screams to hear the thunder in those cries.</l>
+<l>But now henceforth there shall be heard</l>
+<l>From Brough of Bursay , Marwick Head,</l>
+<l>And shadows of the distant coast,</l>
+<l>Another voice bestirred --</l>
+<l>Telling of something greatly lost</l>
+<l>Somewhere below the tidal glooms, and dead.</l>
+<l>Beyond the uttermost</l>
+<l>Of aught the night may hear on any seas</l>
+<l>From tempest-known wild water's cry, and roar</l>
+<l>Of iron shadows looming from the shore,</l>
+<l>It shall be heard, and when the Orcades</l>
+<l>Sleep in a hushed Atlantic's starry folds</l>
+<l>As smoothly as, far down below the tides,</l>
+<pb n="234"/>
+<l>Sleep on the windless broad sea-wolds</l>
+<l>Where this night's shipwreck hides.</l></lg>
+
+<lg>
+<l>By many a sea-holm where the shock</l>
+<l>Of ocean's battle falls, and into spray</l>
+<l>Gives up its ghosts of strife; by reef and rock</l>
+<l>Ravaged by their eternal brute affray</l>
+<l>With monstrous frenzies of their shore's green foe;</l>
+<l>Where overstream and overfall and undertow</l>
+<l>Strive, snatch away;</l>
+<l>A wistful voice, without a sound,</l>
+<l>Shall dwell beside Pomona, on the sea,</l>
+<l>And speak the homeward- and the outward-bound,</l>
+<l>And touch the helm of passing minds</l>
+<l>And bid them steer as wistfully --</l>
+<l>Saying: "He did great work, until the winds</l>
+<l>And waters hereabout that night betrayed</l>
+<l>Him to the drifting death! His work went on --</l>
+<l>He would not be gainsaid. ...</l>
+<l>Though where his bones are, no man knows, not one!"</l></lg>
+
+<lb/><byline>John Helston</byline>
+</div2>
+
+<div2 id="clarke154" type="poem" n="The Fallen Subaltern">
+<head rend="center">THE FALLEN SUBALTERN</head>
+
+<lg type="stanza">
+<l n="1">T<hi rend="smallcaps">he</hi> starshells float above, the bayonets glisten;</l>
+<l>We bear our fallen friend without a sound;</l>
+<l>Below the waiting legions lie and listen</l>
+<l>To us, who march upon their burial-ground.</l></lg>
+
+<lg>
+<l>Wound in the flag of England, here we lay him;</l>
+<l>The guns will flash and thunder o'er the grave;</l>
+<l>What other winding sheet should now array him,</l>
+<l>What other music should salute the brave?</l></lg>
+
+<lg>
+<pb n="235"/>
+<l>As goes the Sun-god in his chariot glorious,</l>
+<l>When all his golden banners are unfurled,</l>
+<l>So goes the soldier, fallen but victorious,</l>
+<l>And leaves behind a twilight in the world.</l></lg>
+
+<lg>
+<l>And those who come this way, in days hereafter,</l>
+<l>Will know that here a boy for England fell,</l>
+<l>Who looked at danger with the eyes of laughter,</l>
+<l>And on the charge his days were ended well.</l></lg>
+
+<lg>
+<l>One last salute; the bayonets clash and glisten;</l>
+<l>With arms reversed we go without a sound:</l>
+<l>One more has joined the men who lie and listen</l>
+<l>To us, who march upon their burial-ground.</l></lg>
+
+<lb/><byline>Herbert Asquith</byline>
+<dateline><date>1915</date></dateline>
+</div2>
+
+<div2 id="clarke155" type="poem" n="The Debt Unpayable">
+<head rend="center">THE DEBT UNPAYABLE</head>
+
+<lg type="stanza">
+<l n="1">W<hi rend="smallcaps">hat</hi> have I given,</l>
+<l>Bold sailor on the sea?</l>
+<l>In earth or heaven,</l>
+<l>That you should die for me?</l></lg>
+
+<lg>
+<l>What can I give,</l>
+<l>O soldier, leal and brave,</l>
+<l>Long as I live,</l>
+<l>To pay the life you gave?</l></lg>
+
+<lg>
+<l>What tithe or part</l>
+<l>Can I return to thee,</l>
+<l>O stricken heart,</l>
+<l>That thou shouldst break for me?</l></lg>
+
+<lg>
+<pb n="236"/>
+<l>The wind of Death</l>
+<l>For you has slain life's flowers,</l>
+<l>It withereth</l>
+<l>(God grant) all weeds in ours.</l></lg>
+
+<lb/><byline>F. W. Bourdillon</byline>
+</div2>
+
+<div2 id="clarke156" type="poem" n="The Messages">
+<head rend="center">THE MESSAGES</head>
+
+<lg type="stanza">
+<l n="1">"I cannot quite remember. ... There were five</l>
+<l>Dropt dead beside me in the trench -- and three</l>
+<l>Whispered their dying messages to me. ..."</l></lg>
+
+<lg>
+<l>Back from the trenches, more dead than alive,</l>
+<l>Stone-deaf and dazed, and with a broken knee,</l>
+<l>He hobbled slowly, muttering vacantly:</l></lg>
+
+<lg>
+<l>"I cannot quite remember. ... There were five</l>
+<l>Dropt dead beside me in the trench, and three</l>
+<l>Whispered their dying messages to me. ...</l></lg>
+
+<lg>
+<l>"Their friends are waiting, wondering how they thrive --</l>
+<l>Waiting a word in silence patiently. ...</l>
+<l>But what they said, or who their friends may be</l></lg>
+
+<lg>
+<l>"I cannot quite remember. ... There where five</l>
+<l>Dropt dead beside me in the trench -- and three</l>
+<l>Whispered their dying messages to me. ..."</l></lg>
+
+<lb/><byline>Wilfrid Wilson Gibson</byline>
+</div2>
+
+<div2 id="clarke157" type="poem" n="A Cross in Flanders">
+<head rend="center">A CROSS IN FLANDERS</head>
+
+<lg type="stanza">
+<l n="1">I<hi rend="smallcaps">n</hi> the face of death, they say, he joked -- he had no fear:</l>
+<l>His comrades, when they laid him in a Flanders grave,</l>
+<l>Wrote on a rough-hewn cross -- a Calvary stood near --</l>
+<l>"Without fear he gave</l></lg>
+
+<lg>
+<l>His life, cheering his men, with laughter on his lips."</l>
+<l>So wrote they, mourning him. Yet was there only one</l>
+<l>Who fully understood his laughter, his gay quips,</l>
+<l>One only, she alone --</l></lg>
+
+<lg>
+<l>She who, not so long since, when love was new-confest,</l>
+<l>Herself toyed with light laughter while her eyes were dim,</l>
+<l>And jested, while with reverence despite her jest</l>
+<l>She worshipped God and him.</l></lg>
+
+<lg>
+<l>She knew -- O Love, O Death! -- his soul had been at grips</l>
+<l>With the most solemn things. For <hi rend="italic">she</hi>, was <hi rend="italic">she</hi> not dear?</l>
+<l>Yes, he was brave, most brave, with laughter on his lips</l>
+<l>The braver for his fear!</l></lg>
+
+<lb/><byline>G. Rostrevor Hamilton</byline>
+</div2>
+
+<pb n="238"/>
+<div2 id="clarke158" type="poem" n="Resurrection">
+<head rend="center">RESURRECTION</head>
+
+<lg type="stanza">
+<l n="1">N<hi rend="smallcaps">ot</hi> long did we lie on the torn, red field of pain.</l>
+<l>We fell, we lay, we slumbered, we took rest,</l>
+<l>With the wild nerves quiet at last, and the vexed brain</l>
+<l>Cleared of the wing&egrave;d nightmares, and the breast</l>
+<l>Freed of the heavy dreams of hearts afar.</l>
+<l>We rose at last under the morning star.</l>
+<l>We rose, and greeted our brothers, and welcomed our foes.</l>
+<l>We rose; like the wheat when the wind is over, we rose.</l>
+<l>With shouts we rose, with gasps and incredulous cries,</l>
+<l>With bursts of singing, and silence, and awestruck eyes,</l>
+<l>With broken laughter, half tears, we rose from the sod,</l>
+<l>With welling tears and with glad lips, whispering, "God."</l>
+<l>Like babes, refreshed from sleep, like children, we rose,</l>
+<l>Brimming with deep content, from our dreamless repose.</l>
+<l>And, "What do you call it?" asked one. "I thought I was dead."</l>
+<l>"You are," cried another. "We're all of us dead and flat."</l>
+<l>"I'm alive as a cricket. There's something wrong with your head."</l>
+<l>They stretched their limbs and argued it out where they sat.</l>
+<pb n="239"/>
+<l>And over the wide field friend and foe</l>
+<l>Spoke of small things, remembering not old woe</l>
+<l>Of war and hunger, hatred and fierce words.</l>
+<l>They sat and listened to the brooks and birds,</l>
+<l>And watched the starlight perish in pale flame</l>
+<l>Wondering what God would look like when He came.</l></lg>
+
+<lb/><byline>Hermann Hagedorn</byline>
+</div2>
+
+<div2 id="clarke159" type="poem" n="To a Hero">
+<head rend="center">TO A HERO</head>
+
+<lg type="stanza">
+<l n="1">W<hi rend="smallcaps">e</hi> may not know how fared your soul before</l>
+<l>Occasion came to try it by this test.</l>
+<l>Perchance, it used on lofty wings to soar;</l>
+<l>Again, it may have dwelt in lowly nest.</l></lg>
+
+<lg>
+<l>We do not know if bygone knightly strain</l>
+<l>Impelled you then, or blood of humble clod</l>
+<l>Defied the dread adventure to attain</l>
+<l>The cross of honor or the peace of God.</l></lg>
+
+<lg>
+<l>We see but this, that when the moment came</l>
+<l>You raised on high, then drained, the solemn cup --</l>
+<l>The grail of death; that, touched by valor's flame,</l>
+<l>The kindled spirit burned the body up.</l></lg>
+
+<lb/><byline>Oscar C. A. Child</byline>
+</div2>
+
+<div2 id="clarke160" type="poem" n="Rupert Brooke">
+<head rend="center">RUPERT BROOKE</head>
+<head rend="center">(I<hi rend="smallcaps">n</hi> M<hi rend="smallcaps">emoriam</hi>)</head>
+
+<lg type="stanza">
+<l n="1">I <hi rend="smallcaps">never</hi> knew you save as all men know</l>
+<l>Twitter of mating birds, flutter of wings</l>
+<l>In April coverts, and the streams that flow --</l>
+<l>One of the happy voices of our Springs.</l></lg>
+
+<lg>
+<pb n="240"/>
+<l>A voice for ever stilled, a memory,</l>
+<l>Since you went eastward with the fighting ships,</l>
+<l>A hero of the great new Odyssey,</l>
+<l>And God has laid His finger on your lips.</l></lg>
+
+<lb/><byline>Moray Dalton</byline>
+</div2>
+
+<div2 id="clarke161" type="poem" n="The Players">
+<head rend="center">THE PLAYERS</head>
+
+<lg type="stanza">
+<l n="1">W<hi rend="smallcaps">e</hi> challenged Death. He threw with weighted dice.</l>
+<l>We laughed and paid the forfeit, glad to pay --</l>
+<l>Being recompensed beyond our sacrifice</l>
+<l>With that nor Death nor Time can take away.</l></lg>
+
+<lb/><byline>Francis Bickley</byline>
+</div2>
+
+<div2 id="clarke162" type="poem" n="A Song">
+<head rend="center">A SONG</head>
+
+<lg type="stanza">
+<l n="1">O<hi rend="smallcaps">h</hi>, red is the English rose,</l>
+<l>And the lilies of France are pale,</l>
+<l>And the poppies grow in the golden wheat,</l>
+<l>For the men whose eyes are heavy with sleep,</l>
+<l>Where the ground is red as the English rose,</l>
+<l>And the lips as the lilies of France are pale,</l>
+<l>And the ebbing pulses beat fainter and fainter and fail.</l></lg>
+
+<lg>
+<l>Oh, red is the English rose,</l>
+<l>And the lilies of France are pale.</l>
+<l>And the poppies lie in the level corn</l>
+<l>For the men who sleep and never return.</l>
+<l>But wherever they lie an English rose</l>
+<l>So red, and a lily of France so pale,</l>
+<l>Will grow for a love that never and never can fail.</l></lg>
+
+<lb/><byline>Charles Alexander Richmond</byline>
+</div2>
+
+</div1>
+</text>

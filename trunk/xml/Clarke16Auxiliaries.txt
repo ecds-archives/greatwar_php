@@ -1,0 +1,237 @@
+
+<pb n="185"/>
+<div1 id="clarke123" type="Chapter" n="Auxiliaries">
+<head rend="center">AUXILIARIES</head>
+
+<pb n="186"/>
+<pb n="187"/>
+<div2 id="clarke124" type="poem" n="The Red Cross Spirit Speaks">
+<head rend="center">THE RED CROSS SPIRIT SPEAKS</head>
+
+<lg type="stanza">
+<l n="1">W<hi rend="smallcaps">herever</hi> war, with its red woes,</l>
+<l>Or flood, or fire, or famine goes,</l>
+<l>There, too, go I;</l>
+<l>If earth in any quarter quakes</l>
+<l>Or pestilence its ravage makes,</l>
+<l>Thither I fly.</l></lg>
+
+<lg>
+<l>I kneel behind the soldier's trench,</l>
+<l>I walk 'mid shambles' smear and stench,</l>
+<l>The dead I mourn;</l>
+<l>I bear the stretcher and I bend</l>
+<l>O'er Fritz and Pierre and Jack to mend</l>
+<l>What shells have torn.</l></lg>
+
+<lg>
+<l>I go wherever men may dare,</l>
+<l>I go wherever woman's care</l>
+<l>And love can live,</l>
+<l>Wherever strength and skill can bring</l>
+<l>Surcease to human suffering,</l>
+<l>Or solace give.</l></lg>
+
+<lg>
+<l>I helped upon Haldora's shore;</l>
+<l>With Hospitaller Knights I bore</l>
+<l>The first red cross;</l>
+<l>I was the Lady of the Lamp;</l>
+<l>I saw in Solferino's camp</l>
+<l>The crimson loss.</l></lg>
+
+<lg>
+<pb n="188"/>
+<l>I am your pennies and your pounds;</l>
+<l>I am your bodies on their rounds</l>
+<l>Of pain afar;</l>
+<l>I am <hi rend="italic">you</hi>, doing what you would</l>
+<l>If you were only where you could --</l>
+<l>Your avatar.</l></lg>
+
+<lg>
+<l>The cross which on my arm I wear,</l>
+<l>The flag which o'er my breast I bear,</l>
+<l>Is but the sign</l>
+<l>Of what you'd sacrifice for him</l>
+<l>Who suffers on the hellish rim</l>
+<l>Of war's red line.</l></lg>
+
+<lb/><byline>John Finley</byline>
+</div2>
+
+<div2 id="clarke125" type="poem" n="Chaplain to the Forces">
+<head rend="center">CHAPLAIN TO THE FORCES</head>
+<head rend="center">["I have once more to remark upon the devotion to duty, courage, and contempt of danger which has characterized the work of the Chaplains of the Army throughout this campaign." -- <hi rend="italic">Sir John French, in the Nueve Chapelle dispatch</hi>.]</head>
+
+<lg type="stanza">
+<l n="1">A<hi rend="smallcaps">mbassador</hi> of Christ you go</l>
+<l>Up to the very gates of Hell,</l>
+<l>Through fog of powder, storm of shell,</l>
+<l>To speak your Master's message: "Lo,</l>
+<l>The Prince of Peace is with you still,</l>
+<l>His peace be with you, His good-will."</l></lg>
+
+<lg>
+<l>It is not small, your priesthood's price,</l>
+<l>To be a man and yet stand by,</l>
+<l>To hold your life while others die,</l>
+<l>To bless, not share the sacrifice,</l>
+<l>To watch the strife and take no part --</l>
+<l>You with the fire at your heart.</l></lg>
+
+<lg>
+<pb n="189"/>
+<l>But yours, for our great Captain Christ,</l>
+<l>To know the sweat of agony,</l>
+<l>The darkness of Gethsemane,</l>
+<l>In anguish for these souls unpriced.</l>
+<l>Vicegerent of God's pity you,</l>
+<l>A sword must pierce your own soul through.</l></lg>
+
+<lg>
+<l>In the pale gleam of new-born day,</l>
+<l>Apart in some tree-shadowed place,</l>
+<l>Your altar but a packing-case,</l>
+<l>Rude as the shed where Mary lay,</l>
+<l>Your sanctuary the rain-drenched sod,</l>
+<l>You bring the kneeling soldier God.</l></lg>
+
+<lg>
+<l>As sentinel you guard the gate</l>
+<l>'Twixt life and death, and unto death</l>
+<l>Speed the brave soul whose failing breath</l>
+<l>Shudders not at the grip of Fate,</l>
+<l>But answers, gallant to the end,</l>
+<l>"Christ is the Word -- and I his friend."</l></lg>
+
+<lg>
+<l>Then God go with you, priest of God,</l>
+<l>For all is well and shall be well.</l>
+<l>What though you tread the roads of Hell,</l>
+<l>Your Captain these same ways has trod.</l>
+<l>Above the anguish and the loss</l>
+<l>Still floats the ensign of His Cross.</l></lg>
+
+<lb/><byline>Winifred M. Letts</byline>
+</div2>
+
+<div2 id="clarke126" type="poem" n="Song of the Red Cross">
+<head rend="center">SONG OF THE RED CROSS</head>
+
+<lg type="stanza">
+<l n="1">O <hi rend="smallcaps">gracious</hi> ones, we bless your name</l>
+<l>Upon our bended knee;</l>
+<l>The voice of love with tongue of flame</l>
+<l>Records your charity.</l>
+<pb n="190"/></l>
+<l>Your hearts, your lives right willingly ye gave,</l>
+<l>That sacred ruth might shine;</l>
+<l>Ye fell, bright spirits, brave amongst the brave,</l>
+<l>Compassionate, divine.</l></lg>
+
+<lg>
+<l>Example from you lustrous deeds</l>
+<l>The conqueror shall take,</l>
+<l>Sowing sublime and fruitful seeds</l>
+<l>Of <hi rend="italic">aidos</hi> in this ache.</l>
+<l>And when our griefs have passed on gloomy wing,</l>
+<l>When friend and foe are sped,</l>
+<l>Sons of a morning to be born shall sing</l>
+<l>The radiant Cross of Red;</l>
+<l>Sons of a morning to be born shall sing</l>
+<l>The radiant Cross of Red.</l></lg>
+
+<lb/><byline>Eden Phillpotts</byline>
+</div2>
+
+<div2 id="clarke127" type="poem" n="The Healers">
+<head rend="center">THE HEALERS</head>
+
+<lg type="stanza">
+<l n="1">I<hi rend="smallcaps">n</hi> a vision of the night I saw them,</l>
+<l>In the battles of the night.</l>
+<l>'Mid the roar and the reeling shadows of blood</l>
+<l>They were moving like light,</l></lg>
+
+<lg>
+<l>Light of the reason, guarded</l>
+<l>Tense within the will,</l>
+<l>As a lantern under a tossing of boughs</l>
+<l>Burns steady and still.</l></lg>
+
+<lg>
+<l>With scrutiny calm, and with fingers</l>
+<l>Patient as swift</l>
+<l>They bind up the hurts and the pain-writhen</l>
+<l>Bodies uplift,</l></lg>
+
+<lg>
+<pb n="191"/>
+<l>Untired and defenceless; around them</l>
+<l>With shrieks in its breath</l>
+<l>Bursts stark from the terrible horizon</l>
+<l>Impersonal death;</l></lg>
+
+<lg>
+<l>But they take not their courage from anger</l>
+<l>That blinds the hot being;</l>
+<l>They take not their pity from weakness;</l>
+<l>Tender, yet seeing;</l></lg>
+
+<lg>
+<l>Feeling, yet nerved to the uttermost;</l>
+<l>Keen, like steel;</l>
+<l>Yet the wounds of the mind they are stricken with,</l>
+<l>Who shall heal?</l></lg>
+
+<lg>
+<l>They endure to have eyes of the watcher</l>
+<l>In hell, and not swerve</l>
+<l>For an hour from the faith that they follow,</l>
+<l>The light that they serve.</l></lg>
+
+<lg>
+<l>Man true to man, to his kindness</l>
+<l>That overflows all,</l>
+<l>To his spirit erect in the thunder</l>
+<l>When all his forts fall, --</l></lg>
+
+<lg>
+<l>This light, in the tiger-mad welter,</l>
+<l>They serve and they save.</l>
+<l>What song shall be worthy to sing of them --</l>
+<l>Braver than the brave?</l></lg>
+
+<lb/><byline>Laurence Binyon</byline>
+</div2>
+
+<pb n="192"/>
+<div2 id="clarke128" type="poem" n="The Red Cross Nurses">
+<head rend="center">THE RED CROSS NURSES</head>
+
+<lg type="stanza">
+<l n="1">O<hi rend="smallcaps">ut</hi> where the line of battle cleaves</l>
+<l>The horizon of woe</l>
+<l>And sightless warriors clutch the leaves</l>
+<l>The Red Cross nurses go.</l>
+<l>In where the cots of agony</l>
+<l>Mark death's unmeasured tide --</l>
+<l>Bear up the battle's harvestry --</l>
+<l>The Red Cross nurses glide.</l></lg>
+
+<lg>
+<l>Look! Where the hell of steel has torn</l>
+<l>Its way through slumbering earth</l>
+<l>The orphaned urchins kneel forlorn</l>
+<l>And wonder at their birth.</l>
+<l>Until, above them, calm and wise</l>
+<l>With smile and guiding hand,</l>
+<l>God looking through their gentle eyes,</l>
+<l>The Red Cross nurses stand.</l></lg>
+
+<lb/><byline>Thomas L. Masson</byline>
+</div2>
+
+</div1>
+</text>

@@ -2,6 +2,10 @@
 
 /* Configuration settings for entire site */
 
+// set level of php error reporting --  ONLY display errors
+// (will hide ugly warnings if databse goes offline/is unreachable)
+error_reporting(E_ERROR);
+
 // root directory and url where the website resides
 $basedir = "/home/httpd/html/cti/greatwar";
 $server = "cti.library.emory.edu";

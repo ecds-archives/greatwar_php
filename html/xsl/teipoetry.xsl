@@ -106,6 +106,20 @@
   <xsl:element name="br"/>
 </xsl:template>
 
+<xsl:template match="q">
+  <p>
+   <xsl:choose>
+     <xsl:when test="@rend='indent'">
+      <blockquote><xsl:apply-templates/></blockquote>
+     </xsl:when>
+     <xsl:otherwise>
+	<xsl:apply-templates/>
+     </xsl:otherwise>
+   </xsl:choose>
+  </p>
+</xsl:template>
+
+
 
 <!-- convert rend tags to their html equivalents 
      so far, converts: center, italic, bold, smallcaps   -->
@@ -129,7 +143,7 @@
         <xsl:apply-templates/>
       </xsl:element>
     </xsl:when>
-    <xsl:when test="@rend='smallcaps'">
+    <xsl:when test="@rend='smallcaps' or @rend='smallcap'">
       <xsl:element name="span">
         <xsl:attribute name="class">smallcaps</xsl:attribute>
         <xsl:apply-templates/>

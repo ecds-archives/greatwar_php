@@ -1,31 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "teixlite.dtd">
+<TEI.2>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Lest We Forget: Electronic Edition</title>
+            <editor>H. B. Elliot</editor>
+         </titleStmt>
+	 <publicationStmt>
+	   <publisher>Lewis H. Beck Center for Electronic Collections
+	   and Services, Emory University</publisher>
+	   <pubPlace>Atlanta, GA</pubPlace>
+	   <address>
+	     <addrLine>540 Asbury Circle</addrLine>
+	     <addrLine>Woodruff Library</addrLine>
+	     <addrLine>Atlanta, GA 30322</addrLine>
+	   </address>
+	   <availability><p>&#x00A9;Emory University. Permission is
+	   granted to download, transmit, or otherwise reproduce,
+	   distribute or display the contributions to the work claimed
+	   by Emory University for non-profit educational purposes,
+	   provided this header is included in its entirety.  For
+	   inquiries about commercial uses, contact either: Institute
+	   for Jewish Studies, Emory University, Atlanta GA 30322 or
+	   the Lewis H. Beck Center for Electronic Collections and
+	   Services, Woodruff Library, Emory University, Atlanta,
+	   Georgia 30322 </p></availability> 
+	   <date>2004</date>
+	 </publicationStmt>
+	 <seriesStmt>
+	   <title>The Great War</title>
+	 </seriesStmt>
+	 <notesStmt><note/></notesStmt>
+         <sourceDesc><!-- put the actual publication data for the book
+	   in this section --> 
+            <bibl>
+	     <title>Lest We Forget</title>
+	     <editor>H. B. Elliot</editor>
+	     <pubPlace>London</pubPlace>
+	     <publisher>Jarrold &#x0026; Sons</publisher>
+	     <date>1915</date>
+	   </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+	<projectDesc><p>Poetry contemporary to World War I (the Great
+	War) has been digitized by OCR or rekeying. The work has been
+	done in conjunction with Dr. Harry Rusche of the English
+	Department, Emory University</p></projectDesc>
+	<editorialDecl>
+	<p>Block quotes are marked with q or quote
+	elements</p>
+	</editorialDecl>
+	<tagsDecl>
+	  <rendition id="quote">Paragraphs including q or quote
+	  elements indicate material that is in a block
+	  quote.</rendition>
+	  <rendition id="title">Where the title of a work is
+	  italicized, it is marked with a title element, both in the
+	  text and in footnotes.</rendition>
+	  <rendition id="byline">Bylines in this text are aligned
+	  right after the last line of text</rendition>
+	  <rendition id="note">Notes (<note/>) are always
+	  italic.</rendition>
+	  <rendition id="indent">The "indent" value is two spaces,
+	  unless otherwise noted.</rendition>
+	  <tagUsage gi="q" render="quote">blockquote</tagUsage>
+	  <tagUsage gi="quote" render="quote">blockquote</tagUsage>
+	  <tagUsage gi="title" render="title">italic</tagUsage>
+	  <tagUsage gi="byline" render="byline">right</tagUsage>
+	  <tagUsage gi="note" render="note">italic</tagUsage>
+	  <tagUsage gi="l" render="indent">indent 2</tagUsage>
+	</tagsDecl>
+	<refsDecl><p>The page numbers of the volumes are indicated by
+	page break elements</p>
+	<p/>
+	</refsDecl>
+	<classDecl>
+	  <taxonomy>
+	  <category><catDesc/></category>
+	  </taxonomy>
+	</classDecl>
+      </encodingDesc>
+      <profileDesc/>
+      <revisionDesc>
+	<change>
+	  <date>2004</date>
+	  <respStmt>
+	    <name>Alden Mahler</name>
+	    <resp>Beck Center Staff</resp>
+	  </respStmt>
+	    <item>Scanning, proofreading and encoding</item>
+	</change>
+	<change>
+	  <date>September 2004</date>
+	  <respStmt>
+	    <name>Alice Hickcox</name>
+	    <resp>Beck Center Staff</resp>
+	  </respStmt>
+	    <item>Header added; encoding checked</item>
+	</change>
+      </revisionDesc>
+   </teiHeader>
+
 <text>
-
-***Notes: 
-***Bylines in this text are aligned right after the last line of text 
-***Dates and bibliographic notes are aligned left and italic.
-***The "indent" value is two spaces, unless otherwise noted.
-***Notes (<note></note>) are always italic.
-
 <front>
-
 <pb n="1"/>
 <div1 id="elliott001" type="epigraph">
-<quote>
+<epigraph><q direct="unspecified">
 <l rend="indent7">"O God to-day</l>
-<milestone type="break" rend="dots"/><hi rend="center">. . . . .</hi>
+<milestone unit="line" rend="dots"/>
 <l>Shield with Thy wings the many, far away;</l>
 <l rend="indent">Soothe those who watch and wait and do each task</l>
-<l>With brave hands working, while their brave lips pray."</l></quote>
+<l>With brave hands working, while their brave lips pray."</l></q></epigraph>
 <byline>LILLIAN GARD.</byline>
+<p> </p>
+<pb n="5"/>
 </div1>
 
 
-<pb n="5"/>
+
 <div1 id="elliott002" type="note">
 <head rend="center">NOTE.</head>
 
 <p>
-T<hi rend="smallcaps">he</hi> purpose for which this Anthology has been compiled is to aid the Queen Mary Needlework Guild, and it is earnestly hoped that so worthy an object, may secure for the book such a measure of success as will ensure a considerable addition being made to the Fund.</p>
+<hi rend="smallcap">The</hi> purpose for which this Anthology has been compiled is to aid the Queen Mary Needlework Guild, and it is earnestly hoped that so worthy an object, may secure for the book such a measure of success as will ensure a considerable addition being made to the Fund.</p>
 
 <p>
 Among so many volumes of a similar nature it is inevitable that one or perhaps two poems should be duplicated, but in these cases their very excellence will doubtless save them from becoming hackneyed thereby.</p>
@@ -41,7 +140,7 @@ I am under a heavy obligation to the various authors who have so generously plac
 <head rend="center">FOREWORD.</head>
 
 <p>
-T<hi rend="smallcaps">his</hi> book is inscribed to every individual woman and girl of Great Britain who to-day is bearing so heroically -- so uncomplainingly -- her own share of Britain's burden in this Great War. She is asked to give of her dearest and her best, to see the man she loves -- husband, son, sweetheart or friend -- go to fight his country's battles, to fight in the cause of justice and humanity and honour whilst she -- mother, wife or sweetheart -- must perforce stay at home and strive with all her might to hide her tears, to keep back the one little word which perhaps would shake the loved one's resolution, the one little word which might unnerve him and cause him to stay by her side. Indeed, the burden laid upon all the women and girls of Great Britain is no light one! and they are bearing it with all the heroism of their race. Their sorrow is great -- and in that sorrow but one solace is left to them -- that of thinking and planning and working for <pb n="8"/>those who have so bravely gone. It is their skill, their industry, their devotion which makes our gallant soldiers' and sailors' lives at the post of duty a little more happy and a little more comfortable. The warm clothing, which loving fingers at home fashion for the magnificent man who fights on land or at sea, is a comfort not only to his body, but also for his heart, for it reminds him of home, of brave hands that work while brave lips are praying for him.</p>
+<hi rend="smallcap">This</hi> book is inscribed to every individual woman and girl of Great Britain who to-day is bearing so heroically -- so uncomplainingly -- her own share of Britain's burden in this Great War. She is asked to give of her dearest and her best, to see the man she loves -- husband, son, sweetheart or friend -- go to fight his country's battles, to fight in the cause of justice and humanity and honour whilst she -- mother, wife or sweetheart -- must perforce stay at home and strive with all her might to hide her tears, to keep back the one little word which perhaps would shake the loved one's resolution, the one little word which might unnerve him and cause him to stay by her side. Indeed, the burden laid upon all the women and girls of Great Britain is no light one! and they are bearing it with all the heroism of their race. Their sorrow is great -- and in that sorrow but one solace is left to them -- that of thinking and planning and working for <pb n="8"/>those who have so bravely gone. It is their skill, their industry, their devotion which makes our gallant soldiers' and sailors' lives at the post of duty a little more happy and a little more comfortable. The warm clothing, which loving fingers at home fashion for the magnificent man who fights on land or at sea, is a comfort not only to his body, but also for his heart, for it reminds him of home, of brave hands that work while brave lips are praying for him.</p>
 
 <p>
 It is to aid this work that this book has been compiled; it is to the workers that it is dedicated. Cheered by the patronage of a gracious Queen they will continue their labour of love so long as their fingers have the strength to wield needles and pins, and in the years to come, when the history of the twentieth century comes to be written, not its least heroic page will be the account of how the women and girls of Great Britain bore their part in the Great War by working for the material comfort of Britain's fighting men.</p>
@@ -60,11 +159,12 @@ Kent.</name></dateline>
 
 <pb n="11"/>
 <div2 id="elliott005" type="poem" n="Ode">
+<docAuthor n="Binyon, Laurence">Laurence Binyon</docAuthor>
 <head rend="center">"ODE."</head>
 
 <lg type="stanza">
 <head rend="center">I.</head>
-<l n="1">O<hi rend="smallcaps">n</hi> that long day when England held her breath,</l>
+<l n="1"><hi rend="smallcap">On</hi> that long day when England held her breath,</l>
 <l>Suddenly gripped at heart</l>
 <l>And called to choose her part</l>
 <l>Between her loyal soul and luring sophistries,</l>
@@ -192,18 +292,18 @@ Kent.</name></dateline>
 <l>The will to kindness lives beyond their lust;</l>
 <l>Their grandeurs are undone:</l>
 <l>Deep, deep within man's soul are all his victories won.</l></lg>
-<byline>LAURENCE BINYON.</byline>
-<bibl>
-<publisher>Fortnightly Review.</publisher></bibl>
+<byline>LAURENCE BINYON.<lb/>
+Fortnightly Review.</byline>
 </div2>
 
 
 <pb n="17"/>
 <div2 id="elliott006" type="poem" n="The Roll of Honour">
+<docAuthor n="Peterson, Margaret">Margaret Peterson</docAuthor>
 <head rend="center">THE ROLL OF HONOUR.</head>
 
 <lg type="stanza">
-<l n="1">Y<hi rend="smallcaps">our</hi> faces haunt me from the printed pages,</l>
+<l n="1"><hi rend="smallcap">Your</hi> faces haunt me from the printed pages,</l>
 <l>The roll call of our valiant English dead;</l>
 <l>What woman's hands, I wonder, clung in parting?</l>
 <l>What woman's heart breaks now the shot is sped?</l>
@@ -222,19 +322,19 @@ Kent.</name></dateline>
 <l rend="indent">These cannot pass away with mortal breath,</l>
 <l>God guards them safe, and in His mighty keeping</l>
 <l rend="indent">Are also those who nobly looked on Death!</l></lg>
-<byline>MARGARET PETERSON,</byline>
-<note rend="right">Author of "The Lure of the Little Drum," "Blind Eyes," "Tony Bellew," etc.</note>
-<bibl>
-<publisher>Daily Chronicle.</publisher></bibl>
+<byline>MARGARET PETERSON,<lb/>
+<hi rend="italic">Author of "The Lure of the Little Drum,"<lb/>"Blind Eyes," "Tony Bellew," etc.</hi>
+<title rend="left">Daily Chronicle.</title></byline>
 </div2>
 
 
 <pb n="19"/>
 <div2 id="elliott007" type="poem" n="Litany in War-Time">
+<docAuthor n="Allen, J. W.">J. W. Allen</docAuthor>
 <head rend="center">LITANY IN WAR-TIME.</head>
 
 <lg type="stanza">
-<l n="1">N<hi rend="smallcaps">ow</hi> that the heavens are opened,</l>
+<l n="1"><hi rend="smallcap">Now</hi> that the heavens are opened,</l>
 <l rend="indent">Now that the call has come,</l>
 <l>Now that Hell's driven legions</l>
 <l rend="indent">Strike the old voices dumb;</l>
@@ -263,7 +363,7 @@ Kent.</name></dateline>
 <l>If for our sins we must perish, --</l>
 <l rend="indent">Yet for this cause to die!</l></lg>
 
-<milestone type="break" rend="asterisk"/><hi rend="center">* * * * * *</hi>
+<milestone unit="stanza" rend="asterisk"/>
 
 <lg>
 <pb n="20"/>
@@ -295,26 +395,22 @@ Kent.</name></dateline>
 <l rend="indent">The banner of England streams:</l>
 <l>England! our city of heart's desire,</l>
 <l rend="indent">The England of our dreams!</l></lg>
-<byline>J. W. ALLEN.</byline>
-<bibl>
-<publisher>New Witness.</publisher></bibl>
+<byline>J. W. ALLEN.<lb/>
+<title rend="left">New Witness.</title></byline>
 </div2>
 
 
 <pb n="21"/>
-<div2 id="elliott008" type="poem" n="Soldier, Soldier">
-<xptr doc="Cunliffe.xml" from="cunliffe059"/>
 <pb n="22"/>
 <pb n="23"/>
-</div2>
-
 
 <pb n="24"/>
 <div2 id="elliott009" type="poem" n="The Women of Belgium to the Women of England">
+<docAuthor n="Booth, Mary">Mary Booth</docAuthor>
 <head rend="center">THE WOMEN OF BELGIUM TO THE WOMEN OF ENGLAND.</head>
 
 <lg type="stanza">
-<l n="1">O<hi rend="smallcaps">h</hi>, English women! see, our country's dying;</l>
+<l n="1"><hi rend="smallcap">Oh</hi>, English women! see, our country's dying;</l>
 <l>Her life-blood from her gaping wounds is sighing,</l>
 <l>Her bitter wrongs to God for vengeance crying!</l></lg>
 
@@ -333,18 +429,18 @@ Kent.</name></dateline>
 <l>Oh, fathers! to the patriot's duty, sleeping,</l>
 <l>Oh, lovers! at the thought of parting, weeping,</l>
 <l>Awake, and give us Men to do our Reaping!</l></lg>
-<byline>MARY BOOTH.</byline>
-<bibl>
-<publisher>The Queen.</publisher></bibl>
+<byline>MARY BOOTH.<lb/>
+<title rend="left">The Queen.</title></byline>
 </div2>
 
 
 <pb n="25"/>
 <div2 id="elliott010" type="poem" n="Le Jour Des Morts">
+<docAuthor n="Chesterton, Frances">Frances Chesterton</docAuthor>
 <head rend="center">LE JOUR DES MORTS.</head>
 
 <lg type="stanza">
-<l n="1">T<hi rend="smallcaps">he</hi> day of the dead, the day of the dead,</l>
+<l n="1"><hi rend="smallcap">The</hi> day of the dead, the day of the dead,</l>
 <l rend="indent">Down on your knees and pray,</l>
 <l>For the souls of the living, the souls of the dying,</l>
 <l rend="indent">The souls that have passed away.</l></lg>
@@ -400,10 +496,11 @@ Kent.</name></dateline>
 
 <pb n="27"/>
 <div2 id="elliott011" type="poem" n="The Men Who Man">
+<docAuthor n="Watson, William">William Watson</docAuthor>
 <head rend="center">THE MEN WHO MAN.</head>
 
 <lg type="stanza">
-<l n="1">T<hi rend="smallcaps">he</hi> men who man our batteries,</l>
+<l n="1"><hi rend="smallcap">The</hi> men who man our batteries,</l>
 <l rend="indent">The men who serve our guns,</l>
 <l>They need not honeyed flatteries,</l>
 <l rend="indent">For they are Britain's sons!</l>
@@ -483,18 +580,18 @@ Kent.</name></dateline>
 <l rend="indent">This streamer have unfurled,</l>
 <l>The men whose joy is manning,</l>
 <l rend="indent">The men who man the world!</l></lg>
-<byline>WILLIAM WATSON.</byline>
-<bibl>
-<publisher>Saturday Review.</publisher></bibl>
+<byline>WILLIAM WATSON.<lb/>
+<title rend="left">Saturday Review.</title></byline>
 </div2>
 
 
 <pb n="30"/>
 <div2 id="elliott012" type="poem" n="Suspense">
+<docAuthor n="Gard, Lillian">Lillian Gard</docAuthor>
 <head rend="center">SUSPENSE.</head>
 
 <lg type="stanza">
-<l n="1">O<hi rend="smallcaps">'er</hi> oceans, lands, bend down, O God to-day,</l>
+<l n="1"><hi rend="smallcap">O'er</hi> oceans, lands, bend down, O God to-day,</l>
 <l rend="indent">And as we ask,</l>
 <l>Shield with Thy wings the many, far away;</l>
 <l>Soothe those who watch and wait and do each task</l>
@@ -507,29 +604,23 @@ Kent.</name></dateline>
 <l rend="indent8">The dusk-times fall.</l>
 <l>Across each hour, perchance -- we dare not face</l>
 <l>Such shades alone -- unstrengthened! Send us Grace.</l></lg>
-<byline>LILLIAN GARD.</byline>
-<bibl>
-<publisher>The Queen.</publisher></bibl>
+<byline>LILLIAN GARD.<lb/>
+<title rend="left">The Queen.</title></byline>
 </div2>
 
 
 <pb n="31"/>
-<div2 id="elliott013" type="poem" n="The Nation's David">
-<xptr doc="Cunliffe.xml" from="cunliffe067"/>
-<note>
-[Mr. Reginald Wright Kauffman is a distinguished American novelist and journalist. Many of his works have been translated into French, Russian, Belgian, Italian, and other European languages.]</note>
 <pb n="32"/>
 <pb n="33"/>
 <pb n="34"/>
-</div2>
-
 
 <pb n="35"/>
 <div2 id="elliott014" type="poem" n="Honour's Utmost Task">
+<docAuthor n="Danby, Frank">Frank Danby</docAuthor>
 <head rend="center">HONOUR'S UTMOST TASK.</head>
 
 <lg type="stanza">
-<l n="1">C<hi rend="smallcaps">lean-stripped</hi> for action -- neither overbold,</l>
+<l n="1"><hi rend="smallcap">Clean-stripped</hi> for action -- neither overbold,</l>
 <l rend="indent">Nor fearing overmuch what chance may bring --</l>
 <l>We join the lists. Let none hereafter hold</l>
 <l rend="indent">We grasped this sword for gain's sake, caste, nor king</l>
@@ -570,18 +661,18 @@ Kent.</name></dateline>
 <l>Till, bright across the devastated world,</l>
 <l rend="indent">New-risen and blood-cleansed, Freedom's sun</l>
 <l rend="indent">Dawns for God's vengeance on the shattered Hun!</l></lg>
-<byline>FRANK DANBY.</byline>
-<bibl>
-<publisher>Nash's Magazine.</publisher></bibl>
+<byline>FRANK DANBY.<lb/>
+<title rend="left">Nash's Magazine.</title></byline>
 </div2>
 
 
 <pb n="37"/>
 <div2 id="elliott015" type="poem" n="Called Up!">
+<docAuthor n="Gard, Lillian">Lillian Gard</docAuthor>
 <head rend="center">CALLED UP!</head>
 
 <lg type="stanza">
-<l n="1">G<hi rend="smallcaps">ive</hi> them a cheer as they march along!</l>
+<l n="1"><hi rend="smallcap">Give</hi> them a cheer as they march along!</l>
 <l>A life is a life, so don't mistake</l>
 <l>There's death to meet or a name to make.</l>
 <l rend="indent10">Give them a cheer!</l></lg>
@@ -599,18 +690,18 @@ Kent.</name></dateline>
 <l>For right upheld to the end of the way,</l>
 <l>For goal of peace at the set of the day,</l>
 <l rend="indent10">Give them a prayer!</l></lg>
-<byline>LILLIAN GARD.</byline>
-<bibl>
-<publisher>The Queen.</publisher></bibl>
+<byline>LILLIAN GARD.<lb/>
+<title rend="left">The Queen.</title></byline>
 </div2>
 
 
 <pb n="38"/>
 <div2 id="elliott016" type="poem" n="A Singsong of England">
+<docAuthor n="Hewlett, Maurice">Maurice Hewlett</docAuthor>
 <head rend="center">A SINGSONG OF ENGLAND.</head>
 
 <lg type="stanza">
-<l n="1">O <hi rend="smallcaps">England</hi> is an island,</l>
+<l n="1">O <hi rend="smallcap">England</hi> is an island,</l>
 <l rend="indent">The fairest ever seen;</l>
 <l>They say men come to England</l>
 <l rend="indent">To learn that grass is green.</l>
@@ -680,35 +771,26 @@ Kent.</name></dateline>
 <l rend="indent">And keep the colours flying,</l>
 <l>And we'll not grudge your blessed blood</l>
 <l rend="indent">If Tyranny's a-dying.</l></lg>
-<byline>MAURICE HEWLETT.</byline>
-<bibl>
-<publisher>Daily Chronicle.</publisher></bibl>
+<byline>MAURICE HEWLETT.<lb/>
+<title rend="left">Daily Chronicle.</title></byline>
 </div2>
 
 
 <pb n="41"/>
-<div2 id="elliott017" type="poem" n="The Wife of Flanders">
-<xptr doc="Clarke.xml" from="clarke039"/>
 <pb n="42"/>
-</div2>
-
-
 <pb n="43"/>
-<div2 id="elliott018" type="poem" n="A Song of Peace and Honour">
-<xptr doc="Cunliffe.xml" from="cunliffe087"/>
 <pb n="44"/>
 <pb n="45"/>
 <pb n="46"/>
-</div2>
-
 
 <pb n="47"/>
 <div2 id="elliott019" type="poem" n="The Call">
+<docAuthor n="Gomme, Laurence">Laurence Gomme</docAuthor>
 <head rend="center">THE CALL.</head>
 
 <lg type="stanza">
 <head rend="center">I.</head>
-<l n="1">T<hi rend="smallcaps">here</hi> was hush of the human voice, halt of the human tread,</l>
+<l n="1"><hi rend="smallcap">There</hi> was hush of the human voice, halt of the human tread,</l>
 <l>When an emperor's word proclaimed that the God of Love was dead;</l>
 <l>Dead in the homes of millions, dead in the temple shrine,</l>
 <l>Dead in the soul of nations, dead in yours and mine.</l>
@@ -749,34 +831,24 @@ Kent.</name></dateline>
 <l>Scotland, send your warriors, Ireland never fails,</l>
 <l>Britons all beyond the seas, answer to the call</l>
 <l>To fight for freedom, to conquer for us all.</l></lg>
-<byline>LAURENCE GOMME.</byline>
-<bibl>
-<publisher>Daily Chronicle.</publisher></bibl>
+<byline>LAURENCE GOMME.<lb/>
+<title rend="left">Daily Chronicle.</title></byline>
 </div2>
 
 
 <pb n="50"/>
-<div2 id="elliott020" type="poem" n="France">
-<xptr doc="Clarke.xml" from="clarke025"/>
 <pb n="51"/>
-</div2>
-
-
 <pb n="52"/>
-<div2 id="elliott021" type="poem" n="Dies Irae">
-<xptr doc="Lane.xml" from="lane041"/>
 <pb n="53"/>
 <pb n="54"/>
-</div2>
-
-
 <pb n="55"/>
 <div2 id="elliott022" type="poem" n="The Avengers">
+<docAuthor n="Seaman, Owen">Owen Seaman</docAuthor>
 <head rend="center">THE AVENGERS</head>
-<note rend="center">To our Soldiers in the Field.</note>
+<note place="inline" rend="center">To our Soldiers in the Field.</note>
 
 <lg type="stanza">
-<l n="1">N<hi rend="smallcaps">ot</hi> only that your cause is just and right --</l>
+<l n="1"><hi rend="smallcap">Not</hi> only that your cause is just and right --</l>
 <l rend="indent">This much was never doubted; war or play,</l>
 <l>We go with clean hands into any fight;</l>
 <l rend="indent8">That is our English way; --</l></lg>
@@ -824,18 +896,18 @@ Kent.</name></dateline>
 <l rend="indent">Over the final field the victor's strain: --</l>
 <l>"They struck at infamy with all their strength,</l>
 <l rend="indent8">And earth is clean again!"</l></lg>
-<byline>OWEN SEAMAN.</byline>
-<bibl>
-<publisher>Punch.</publisher></bibl>
+<byline>OWEN SEAMAN.<lb/>
+<title rend="left">Punch.</title></byline>
 </div2>
 
 
 <pb n="58"/>
 <div2 id="elliott023" type="poem" n="Dirae Faces">
+<docAuthor n="Gales, R. L.">R. L. Gales</docAuthor>
 <head rend="center">DIRAE FACES.</head>
 
 <lg type="stanza">
-<l n="1">T<hi rend="smallcaps">he</hi> Flemish Carillon towers are cracked and scorched</l>
+<l n="1"><hi rend="smallcap">The</hi> Flemish Carillon towers are cracked and scorched</l>
 <l rend="indent">As Hell's red fury round them flames and hails;</l>
 <l>Into Ancona the drowned fisher lads</l>
 <l rend="indent">From the Adriatic wrapped in sheets and sails</l>
@@ -849,18 +921,18 @@ Kent.</name></dateline>
 <l rend="indent">As the divine and popular will prevails;</l>
 <l>And loaded with the curses of mankind</l>
 <l rend="indent">They sink into the Bloody sea, and all help fails.</l></lg>
-<byline>R. L. GALES.</byline>
-<bibl>
-<publisher>Daily News.</publisher></bibl>
+<byline>R. L. GALES.<lb/>
+<title rend="left">Daily News.</title></byline>
 </div2>
 
 
 <pb n="59"/>
 <div2 id="elliott024" type="poem" n="To Wilhelm II">
+<docAuthor n="Gales, R. L.">R. L. Gales</docAuthor>
 <head rend="center">TO WILHELM II.</head>
 
 <lg type="stanza">
-<l n="1">Y<hi rend="smallcaps">ou</hi> sowed the seas with death and filled the world with weeping,</l>
+<l n="1"><hi rend="smallcap">You</hi> sowed the seas with death and filled the world with weeping,</l>
 <l rend="indent">You whose pride was glutted with an unmeasured pain,</l>
 <l>You who fired on drowning lads, threw bombs on children sleeping,</l>
 <l rend="indent">You who wrecked the Rose of Rheims, you who sacked Louvain;</l>
@@ -868,18 +940,18 @@ Kent.</name></dateline>
 <l rend="indent">Springing from the blood of those unnumbered slain</l>
 <l>Europe's one Republic rise serene and splendid,</l>
 <l rend="indent">Happy lands and holy seas from Russia unto Spain</l></lg>
-<byline>R. L. GALES.</byline>
-<bibl>
-<publisher>Daily News.</publisher></bibl>
+<byline>R. L. GALES.<lb/>
+<title rend="left">Daily News.</title></byline>
 </div2>
 
 
 <pb n="60"/>
 <div2 id="elliott025" type="poem" n="Four Things I Ask">
+<docAuthor n="Leonard, G. H.">G. H. Leonard</docAuthor>
 <head rend="center">FOUR THINGS I ASK.</head>
 
 <lg type="stanza">
-<l n="1">F<hi rend="smallcaps">our</hi> things, Almighty God, I ask</l>
+<l n="1"><hi rend="smallcap">Four</hi> things, Almighty God, I ask</l>
 <l>For England in her awful task.</l></lg>
 
 <lg>
@@ -909,18 +981,18 @@ Kent.</name></dateline>
 <lg>
 <l>So view her from Thy seat above,</l>
 <l>God! full of noble wrath -- and love.</l></lg>
-<byline>G. H. LEONARD.</byline>
-<bibl>
-<publisher>British Weekly.</publisher></bibl>
+<byline>G. H. LEONARD.<lb/>
+<title rend="left">British Weekly.</title></byline>
 </div2>
 
 
 <pb n="61"/>
 <div2 id="elliott026" type="poem" n="The People's Gift">
+<docAuthor n="Sidgwick, Frank">Frank Sidgwick</docAuthor>
 <head rend="center">THE PEOPLE'S GIFT.</head>
 
 <lg type="stanza">
-<l n="1">I<hi rend="smallcaps">n</hi> days of old a tale was told of a people noted for thrift,</l>
+<l n="1"><hi rend="smallcap">In</hi> days of old a tale was told of a people noted for thrift,</l>
 <l>Who on an occasion of jubilation would give their King a gift:</l>
 <l>Said they, "For his share let each prepare to contribute a flask of wine</l>
 <l>Which he will pour in a common store -- a barrel of vast design."</l></lg>
@@ -949,27 +1021,21 @@ Kent.</name></dateline>
 <l rend="italic">Let no man shift his burden of gift on to the next man's back,</l>
 <l rend="italic">Answer to-day what part you will play, when your country gives the sign --</l>
 <l rend="italic">What gift you will bring to your country and King -- is your blood water or wine?</l></lg>
-<byline>FRANK SIDGWICK.</byline>
-<bibl>
-<publisher>Saturday Review.</publisher></bibl>
+<byline>FRANK SIDGWICK.<lb/>
+<title rend="left">Saturday Review.</title></byline>
 </div2>
 
 
 <pb n="63"/>
-<div2 id="elliott027" type="poem" n="India to England">
-<xptr doc="Cunliffe.xml" from="cunliffe066"/>
 <pb n="64"/>
-<note>(Native Judge of the High Court of Hyderabad).</note>
-</div2>
-
-
 <pb n="65"/>
 <div2 id="elliott028" type="poem" n="Verse">
+<docAuthor n="Jung, Nizamat">Nizamat Jung</docAuthor>
 <head rend="center">VERSE.</head>
 <head rend="center">TO OUR INDIAN TROOPS GOING TO THE WAR.</head>
 
 <lg type="stanza">
-<l n="1">F<hi rend="smallcaps">orward</hi>! Forward, gallant band!</l>
+<l n="1"><hi rend="smallcap">Forward</hi>! Forward, gallant band!</l>
 <l>Forward, over sea and land.</l>
 <l>Where, upon a foreign strand,</l>
 <l rend="indent4">Beckons Death or Victory!</l></lg>
@@ -1016,11 +1082,12 @@ Kent.</name></dateline>
 
 <pb n="67"/>
 <div2 id="elliott029" type="poem" n="War and Peace">
+<docAuthor n="Jung, Nizamat">Nizamat Jung</docAuthor>
 <head rend="center">WAR AND PEACE.</head>
-<note>[We specially commend to the British Nation, no less renowned for the victories of peace than for those of war, the following poem by Nawab Nizamat Jung, of Hyderabad, whose loyal tribute of verse to Great Britain will, we feel sure, be no less welcome to her than other offerings from India's dutiful sons. -- E<hi rend="smallcaps">ditor</hi>.]</note>
+<note>[We specially commend to the British Nation, no less renowned for the victories of peace than for those of war, the following poem by Nawab Nizamat Jung, of Hyderabad, whose loyal tribute of verse to Great Britain will, we feel sure, be no less welcome to her than other offerings from India's dutiful sons. -- <hi rend="smallcap">Editor</hi>.]</note>
 
 <lg type="stanza">
-<l n="1">A <hi rend="smallcaps">hundred</hi> toilsome years have rolled in vain</l>
+<l n="1">A <hi rend="smallcap">hundred</hi> toilsome years have rolled in vain</l>
 <l>Since one proud eagle drooped his shattered wings:</l></lg>
 
 <lg>
@@ -1047,18 +1114,18 @@ Kent.</name></dateline>
 <lg>
 <l>Be thine, O England! thine the nobler pride</l>
 <l>To win true Glory with the arts of Peace!</l></lg>
-<byline>NIZAMAT JUNG.</byline>
-<bibl>
-<publisher>The Comrade (Delhi).</publisher></bibl>
+<byline>NIZAMAT JUNG.<lb/>
+<title rend="left">The Comrade (Delhi).</title></byline>
 </div2>
 
 
 <pb n="69"/>
 <div2 id="elliott030" type="poem" n="Louvain">
+<docAuthor n="Archer, William">William Archer</docAuthor>
 <head rend="center">LOUVAIN.</head>
 
 <lg type="stanza">
-<l n="1">H<hi rend="smallcaps">as</hi> History a direr deed to show</l>
+<l n="1"><hi rend="smallcap">Has</hi> History a direr deed to show</l>
 <l>Than this? Rests any darker, deadlier stain</l>
 <l>On Attila's renown? Was Tamburlaine</l>
 <l>To anguish'd human kind a fiercer foe</l>
@@ -1072,25 +1139,20 @@ Kent.</name></dateline>
 <l>Ask "Are these Germans? Nay, then, we disown</l>
 <l rend="indent">Our kinship with a breed reversive-bred,</l>
 <l rend="indent4">Who war on arts and learning. We were Men."</l></lg>
-<byline>WILLIAM ARCHER.</byline>
-<bibl>
-<publisher>Observer</publisher>, <date value="August 30th, 1914.">August 30th, 1914.</date></bibl>
+<byline>WILLIAM ARCHER.
+<title>Observer</title>, <date value="1914-08-30">August 30th, 1914.</date></byline>
 </div2>
 
 
 <pb n="70"/>
-<div2 id="elliott031" type="poem" n="The Searchlights">
-<xptr doc="Clarke.xml" from="clarke066"/>
 <pb n="71"/>
-</div2>
-
-
 <pb n="72"/>
 <div2 id="elliott032" type="poem" n="A Call to the Four Nations">
+<docAuthor n="McCarthy, Justin Huntly">Justin Huntly McCarthy</docAuthor>
 <head rend="center">A CALL TO THE FOUR NATIONS.</head>
 
 <lg type="stanza">
-<l n="1">M<hi rend="smallcaps">en</hi> of the English nation, men of the English race,</l>
+<l n="1"><hi rend="smallcap">Men</hi> of the English nation, men of the English race,</l>
 <l>Your kinsmen battle in Flanders; you must back them in their place.</l>
 <l>They have done the deeds of heroes; try to do better than they;</l>
 <l>For if ever the Devil triumph there is ever the Devil to pay.</l>
@@ -1153,10 +1215,11 @@ Kent.</name></dateline>
 
 <pb n="76"/>
 <div2 id="elliott033" type="poem" n="Winter Night">
+<docAuthor n="Phillpotts, Eden">Eden Phillpotts</docAuthor>
 <head rend="center">WINTER NIGHT.</head>
 
 <lg type="stanza">
-<l n="1">R<hi rend="smallcaps">oams</hi> the East wind across a midnight sky,</l>
+<l n="1"><hi rend="smallcap">Roams</hi> the East wind across a midnight sky,</l>
 <l>And shapes of cloud, transparent, curdled, white,</l>
 <l>Like homing spirits take their lowly flight</l>
 <l>Before his breath; but glittering on high</l>
@@ -1190,28 +1253,23 @@ Kent.</name></dateline>
 <l>Chill Eurus droops at dawn's approaching darts;</l>
 <l>For clouds and stars and winds shall pass with night;</l>
 <l>The ever living dead shine on within our hearts.</l></lg>
-<byline>EDEN PHILLPOTTS.</byline>
-<bibl>
-<publisher>British Review.</publisher></bibl>
+<byline>EDEN PHILLPOTTS.<lb/>
+<title rend="left">British Review.</title></byline>
 </div2>
 
 
 <pb n="78"/>
-<div2 id="elliott034" type="poem" n="Iconoclastes">
-<xptr doc="Lane.xml" from="lane036"/>
 <pb n="79"/>
 <pb n="80"/>
 <pb n="81"/>
 <pb n="82"/>
-</div2>
-
-
 <pb n="83"/>
 <div2 id="elliott035" type="poem" n="To Great Britain">
+<docAuthor n="Rawnsley, H. D. (Hardwicke Drummond)">H. D. Rawnsley</docAuthor>
 <head rend="center">TO GREAT BRITAIN.</head>
 
 <lg type="stanza">
-<l n="1">B<hi rend="smallcaps">ritain</hi>! you with a heart of flame</l>
+<l n="1"><hi rend="smallcap">Britain</hi>! you with a heart of flame</l>
 <l rend="indent4">One as in days gone by,</l>
 <l>You who honour your Nelson's name,</l>
 <l>How could you hear the word of shame</l>
@@ -1237,18 +1295,18 @@ Kent.</name></dateline>
 <l>For the peoples rise in wrath to demand</l>
 <l>Henceforth no war shall trouble the land</l>
 <l rend="indent4">Except at a people's voice.</l></lg>
-<byline>H. D. RAWNSLEY.</byline>
-<bibl>
-<publisher>English Review.</publisher></bibl>
+<byline>H. D. RAWNSLEY.<lb/>
+<title rend="left">English Review.</title></byline>
 </div2>
 
 
 <pb n="84"/>
 <div2 id="elliott036" type="poem" n="Reason and Honour">
+<docAuthor n="Phillpotts, Eden">Eden Phillpotts</docAuthor>
 <head rend="center">REASON AND HONOUR.</head>
 
 <lg type="stanza">
-<l n="1">W<hi rend="smallcaps">as</hi> not the bounty of the grape and corn,</l>
+<l n="1"><hi rend="smallcap">Was</hi> not the bounty of the grape and corn,</l>
 <l rend="indent">Burned into ripeness by a summer sped,</l>
 <l>Harvest enough without all they have borne</l>
 <l rend="indent">In their own aching flesh and from their bosoms fed?</l></lg>
@@ -1327,18 +1385,18 @@ Kent.</name></dateline>
 <l rend="indent">Bend to the Mother from her starry place,</l>
 <l>And, in humanity's almighty name,</l>
 <l rend="indent">For ever dry the tears upon that sacred face.</l></lg>
-<byline>EDEN PHILLPOTTS.</byline>
-<bibl>
-<publisher>English Review.</publisher></bibl>
+<byline>EDEN PHILLPOTTS.<lb/>
+<title rend="left">English Review.</title></byline>
 </div2>
 
 
 <pb n="88"/>
 <div2 id="elliott037" type="poem" n="The New Spirit">
+<docAuthor n="Melbourne, Edward">Edward Melbourne</docAuthor>
 <head rend="center">THE NEW SPIRIT.</head>
 
 <lg type="stanza">
-<l n="1">W<hi rend="smallcaps">hen</hi> England of the quiet heart</l>
+<l n="1"><hi rend="smallcap">When</hi> England of the quiet heart</l>
 <l rend="indent">Flung back the covenant of shame,</l>
 <l>A dignity of high resolve</l>
 <l rend="indent">Upon her councils came.</l></lg>
@@ -1360,18 +1418,18 @@ Kent.</name></dateline>
 <l rend="indent">Thrones fall and dominations cease;</l>
 <l>The silent face of England wears</l>
 <l rend="indent">The dignity of peace.</l></lg>
-<byline>EDWARD MELBOURNE.</byline>
-<bibl>
-<publisher>Saturday Review.</publisher></bibl>
+<byline>EDWARD MELBOURNE.<lb/>
+<title rend="left">Saturday Review.</title></byline>
 </div2>
 
 
 <pb n="89"/>
 <div2 id="elliott038" type="poem" n="To Our Dead">
+<docAuthor n="Courtney, W. L.">W. L. Courtney</docAuthor>
 <head rend="center">TO OUR DEAD.</head>
 
 <lg type="stanza">
-<l n="1">S<hi rend="smallcaps">leep</hi> well, heroic souls, in silence sleep,</l>
+<l n="1"><hi rend="smallcap">Sleep</hi> well, heroic souls, in silence sleep,</l>
 <l>Lapped in the circling arms of kindly death!</l>
 <l>No ill can vex your slumbers, no foul breath</l>
 <l>Of slander, hate, derision mar the deep</l>
@@ -1387,19 +1445,19 @@ Kent.</name></dateline>
 <l>Therefore your death, engirt with loveliness</l>
 <l>Of simple service done for England's name,</l>
 <l>Shall shine like beacon-stars of sacrifice.</l></lg>
-<byline>W. L. COURTNEY.</byline>
-<bibl>
-<publisher>Fortnightly Review.</publisher></bibl>
+<byline>W. L. COURTNEY.<lb/>
+<title rend="left">Fortnightly Review.</title></byline>
 </div2>
 
 
 <pb n="90"/>
 <div2 id="elliott039" type="poem" n="Mediation in War-Time">
+<docAuthor n="Tynan, Katharine">Katherine Tynan</docAuthor>
 <head rend="center">MEDIATION IN WAR-TIME</head>
-<note rend="center">(After St. Anselm.)</note>
+<note place="inline" rend="center">(After St. Anselm.)</note>
 
 <lg type="stanza">
-<l n="1">I<hi rend="smallcaps">f</hi> Thou, Lord God, willest to judge</l>
+<l n="1"><hi rend="smallcap">If</hi> Thou, Lord God, willest to judge</l>
 <l rend="indent">This Thy most piteous clay,</l>
 <l>Which to save, Christ did not grudge</l>
 <l rend="indent">His red dying I should say:</l>
@@ -1430,22 +1488,22 @@ Kent.</name></dateline>
 <l rend="indent">Harried all and overthrown.</l>
 <l>See, I lay Christ's Cross between</l>
 <l>Dear, Thy justice and their sin.</l></lg>
-<byline>KATHERINE TYNAN.</byline>
-<bibl>
-<publisher>New Witness.</publisher></bibl>
+<byline>KATHERINE TYNAN.<lb/>
+<title rend="left">New Witness.</title></byline>
 </div2>
 
 
 <pb n="92"/>
 <div2 id="elliott040" type="poem" n="To the Memory of Field-Marshal Earl Roberts">
+<docAuthor n="Seaman, Owen">Owen Seaman</docAuthor>
 <head rend="center">TO THE MEMORY</head>
 <head rend="center">of</head>
 <head rend="center">FIELD-MARSHAL EARL ROBERTS</head>
 <head rend="center">of Kandahar and Pretoria.</head>
-<note rend="center">[Born, 1832. Died on service at the Front, November 141h, 1914.]</note>
+<note place="inline" rend="center">[Born, 1832. Died on service at the Front, November 141h, 1914.]</note>
 
 <lg type="stanza">
-<l n="1">H<hi rend="smallcaps">e</hi> died, as soldiers die, amid the strife,</l>
+<l n="1"><hi rend="smallcap">He</hi> died, as soldiers die, amid the strife,</l>
 <l rend="indent">Mindful of England in his latest prayer;</l>
 <l>God, of His love, would have so fair a life</l>
 <l rend="indent12">Crowned with a death as fair.</l></lg>
@@ -1486,19 +1544,19 @@ Kent.</name></dateline>
 <l rend="indent">His requiem, and the men-at-arms stand mute,</l>
 <l>And through the mist the guns he loved so well</l>
 <l rend="indent12">Thunder a last salute!</l></lg>
-<byline>OWEN SEAMAN.</byline>
-<bibl>
-<publisher>Punch.</publisher></bibl>
+<byline>OWEN SEAMAN.<lb/>
+<title rend="left">Punch.</title></byline>
 </div2>
 
 
 <pb n="94"/>
 <div2 id="elliott041" type="poem" n="The War-Shadow">
+<docAuthor n="Hardy, Thomas">Thomas Hardy</docAuthor>
 <head rend="center">THE WAR-SHADOW.</head>
 
 <lg type="stanza">
 <head rend="center">I.</head>
-<l n="1">L<hi rend="smallcaps">ast</hi> year I called this world of gaingivings</l>
+<l n="1"><hi rend="smallcap">Last</hi> year I called this world of gaingivings</l>
 <l>The darkest thinkable, and questioned sadly</l>
 <l>If my own land could heave its pulse less gladly,</l>
 <l>So charged it seemed with circumstance that brings</l>
@@ -1511,14 +1569,14 @@ Kent.</name></dateline>
 <l>By hourly blazoned sheets of listed slaughter;</l>
 <l>Death waited Nature's wont; Peace smiled unshent</l>
 <l rend="indent8">From Ind to Occident.</l></lg>
-<byline>THOMAS HARDY.</byline>
-<bibl>
-<publisher>War Poems.</publisher></bibl>
+<byline>THOMAS HARDY.<lb/>
+<title rend="left">War Poems.</title></byline>
 </div2>
 
 
 <pb n="95"/>
 <div2 id="elliott042" type="poem" n="Mater Dolorosa">
+<docAuthor n="Stuart, Dorothy Margaret">Dorothy Margaret Stuart</docAuthor>
 <head rend="center">MATER DOLOROSA.</head>
 
 <lg type="stanza">
@@ -1553,18 +1611,18 @@ Kent.</name></dateline>
 <l>Be but thy glory great as our pain.</l>
 <l>We are glad to have given -- would give again</l>
 <l rend="indent4">The light of our days for thine!</l></lg>
-<byline>DOROTHY MARGARET STUART.</byline>
-<bibl>
-<publisher>British Review.</publisher></bibl>
+<byline>DOROTHY MARGARET STUART.<lb/>
+<title rend="left">British Review.</title></byline>
 </div2>
 
 
 <pb n="97"/>
 <div2 id="elliott043" type="poem" n="Abi, Viator --">
+<docAuthor n="Stuart, Dorothy Margaret">Dorothy Margaret Stuart</docAuthor>
 <head rend="center">ABI, VIATOR --.</head>
 
 <lg type="stanza">
-<l n="1">I<hi rend="smallcaps">f</hi> thou hast seen the standard dim</l>
+<l n="1"><hi rend="smallcap">If</hi> thou hast seen the standard dim</l>
 <l rend="indent">Droop in its mesh of dust and grime</l>
 <l>Above the carven hands of him</l>
 <l rend="indent">Who bore it in some ancient time;</l>
@@ -1602,19 +1660,19 @@ Kent.</name></dateline>
 <l>Pass on -- she stands, although we fall,</l>
 <l rend="indent">Pass on unshaken though stars shake --</l>
 <l rend="indent">Thyself canst tell what road to take!</l></lg>
-<byline>DOROTHY MARGARET STUART</byline>
-<bibl>
-<publisher>British Review.</publisher></bibl>
+<byline>DOROTHY MARGARET STUART<lb/>
+<title rend="left">British Review.</title></byline>
 </div2>
 
 
 <pb n="99"/>
 <div2 id="elliott044" type="poem" n="A Re Alberto">
+<docAuthor n="Chartres, Annie Vivanti">Annie Vivanti Chartres</docAuthor>
 <head rend="center">A RE ALBERTO.</head>
 <head rend="center">Saluto Italico.</head>
 
 <lg type="stanza">
-<l n="1">O <hi rend="smallcaps">Alberto</hi>, biondo e leggendario re,</l>
+<l n="1">O <hi rend="smallcap">Alberto</hi>, biondo e leggendario re,</l>
 <l>Che ne lusinga menzognera ammalia</l>
 <l>N&egrave; ferreo pugno piega -- noi vorremmo</l>
 <l>Mietere tutti i flori dell'Italia</l>
@@ -1631,20 +1689,20 @@ Kent.</name></dateline>
 <l>Questa -- che pur fremente di stupenda</l>
 <l>Ferocia e di magnanimo fervore</l>
 <l>Il popolo d'Italia, o eroico re,</l>
-<l>Nell'ora tua più sacra e più tremenda</l>
+<l>Nell'ora tua pi&#x00F9; sacra e pi&#x00F9; tremenda</l>
 <l>Non fu con te.</l></lg>
-<byline>ANNIE VIVANTI CHARTRES.</byline>
-<bibl>
-<publisher>Times.</publisher></bibl>
+<byline>ANNIE VIVANTI CHARTRES.<lb/>
+<title rend="left">Times.</title></byline>
 </div2>
 
 
 <pb n="100"/>
 <div2 id="elliott045" type="poem" n="A Tribute from Italy">
+<docAuthor n="Chartres, Annie Vivanti">Annie Vivanti Chartres</docAuthor>
 <head rend="center">A TRIBUTE FROM ITALY.</head>
 
 <lg type="stanza">
-<l n="1">A<hi rend="smallcaps">lbert</hi>, thou standest where the storm-cloud lowers</l>
+<l n="1"><hi rend="smallcap">Albert</hi>, thou standest where the storm-cloud lowers</l>
 <l>Unvanquished in thy glorious defeat.</l>
 <l>Oh! to strip Italy of all her flowers</l>
 <l>And bring them to thy feet!</l></lg>
@@ -1654,18 +1712,18 @@ Kent.</name></dateline>
 <l>Whose sons for freedom's sake have fought and died,</l>
 <l>Than this -- that in thine hour of darkest woe</l>
 <l>She was not by thy side.</l></lg>
-<byline>A.V.C.</byline>
-<bibl>
-<publisher>Times.</publisher></bibl>
+<byline>A.V.C.<lb/>
+<title rend="left">Times.</title></byline>
 </div2>
 
 
 <pb n="101"/>
 <div2 id="elliott046" type="poem" n="The Yser">
+<docAuthor n="Clayton, Philip Byard">Philip Byard Clayton</docAuthor>
 <head rend="center">THE YSER.</head>
 
 <lg type="stanza">
-<l n="1">S<hi rend="smallcaps">weet</hi> and soft was thy stream, Yser,</l>
+<l n="1"><hi rend="smallcap">Sweet</hi> and soft was thy stream, Yser,</l>
 <l>As it first sang the song of the Spirit that wrought thee;</l>
 <l>When down to thy brim came the dry-tongued hare,</l>
 <l>And the little low hills their moist tribute brought thee.</l>
@@ -1709,31 +1767,21 @@ Kent.</name></dateline>
 <l>And set on our walls that old watchman, the sea --</l>
 <l>He shall not forget, When the thrones are set,</l>
 <l>How thou gavest thy soul to the stand of the free.</l></lg>
-<byline>PHILIP BYARD CLAYTON.</byline>
-<bibl>
-<publisher>British Review.</publisher></bibl>
+<byline>PHILIP BYARD CLAYTON.<lb/>
+<title rend="left">British Review.</title></byline>
 </div2>
 
 
 <pb n="104"/>
-<div2 id="elliott047" type="poem" n="At St. Paul's">
-<xptr doc="Clarke.xml" from="clarke015"/>
-</div2>
-
-
 <pb n="105"/>
-<div2 id="elliott048" type="poem" n="They Held Their Ground">
-<xptr doc="Cunliffe.xml" from="cunlife025"/>
 <pb n="106"/>
-</div2>
-
-
 <pb n="107"/>
 <div2 id="elliott049" type="poem" n="The Army of the Dead">
+<docAuthor n="Pain, Barry">Barry Pain</docAuthor>
 <head rend="center">THE ARMY OF THE DEAD.</head>
 
 <lg type="stanza">
-<l n="1">I <hi rend="smallcaps">dreamed</hi> that overhead</l>
+<l n="1">I <hi rend="smallcap">dreamed</hi> that overhead</l>
 <l rend="indent">I saw in twilight grey</l>
 <l>The Army of the Dead</l>
 <l rend="indent">Marching upon its way,</l>
@@ -1774,33 +1822,23 @@ Kent.</name></dateline>
 <l rend="indent">Goes by, and still goes by --</l>
 <l>Look upward, standing mute;</l>
 <l rend="indent4">Salute!</l></lg>
-<byline>BARRY PAIN.</byline>
-<bibl>
-<publisher>Westminster Gazette.</publisher></bibl>
+<byline>BARRY PAIN.<lb/>
+<title rend="left">Westminster Gazette.</title></byline>
 </div2>
 
 
 <pb n="109"/>
-<div2 id="elliott050" type="poem" n="The Return">
-<xptr doc="Clarke.xml" from="clarke083"/>
-</div2>
-
-
 <pb n="110"/>
-<div2 id="elliott051" type="poem" n="Brothers in Arms">
-<xptr doc="Cunliffe.xml" from="cunliffe052"/>
 <pb n="111"/>
 <pb n="112"/>
-</div2>
-
-
 <pb n="113"/>
 <div2 id="elliott052" type="poem" n="The Bulwarks">
+<docAuthor n="Bustridge, A. W.">A. W. Bustridge</docAuthor>
 <head rend="center">THE BULWARKS.</head>
-<note>[The splendid spirt of gallantry and devotion which animates the officers and men of his Majesty's forces. -- Sir John French.]</note>
+<note place="inline">[The splendid spirt of gallantry and devotion which animates the officers and men of his Majesty's forces. -- Sir John French.]</note>
 
 <lg type="stanza">
-<l n="1">W<hi rend="smallcaps">hat</hi> though, with sullen roar,</l>
+<l n="1"><hi rend="smallcap">What</hi> though, with sullen roar,</l>
 <l rend="indent">The raging billows beat,</l>
 <l>Against the everlasting shore,</l>
 <l rend="indent">Where strength and patience meet?</l>
@@ -1815,19 +1853,19 @@ Kent.</name></dateline>
 <l>While disappointed despots rave</l>
 <l>To see her living bulwarks save</l>
 <l rend="indent6">The threatened Motherland.</l></lg>
-<byline>A. W. BUSTRIDGE.</byline>
-<bibl>
-<publisher>Daily Chronicle.</publisher></bibl>
+<byline>A. W. BUSTRIDGE.<lb/>
+<title rend="left">Daily Chronicle.</title></byline>
 </div2>
 
 
 <pb n="114"/>
 <div2 id="elliott053" type="poem" n="In Lachrymarum Valle">
+<docAuthor n="Gales, R. L.">R. L. Gales</docAuthor>
 <head rend="center">IN LACHRYMARUM VALLE.</head>
 <head rend="center"><hi rend="italic">Christmas, 1914.</hi></head>
 
 <lg type="stanza">
-<l n="1">T<hi rend="smallcaps">he</hi> valley of the shadows tenebrous,</l>
+<l n="1"><hi rend="smallcap">The</hi> valley of the shadows tenebrous,</l>
 <l>The valley of tears, the valley desolate</l>
 <l>We tread where fiends of ravin and of hate</l>
 <l>Strike mortal cold to hearts most valorous;</l>
@@ -1841,18 +1879,18 @@ Kent.</name></dateline>
 <l>Into our wasted lands and devastate,</l>
 <l>That He Who is our Peace rule over us</l>
 <l>In Peace that wars no more may desecrate.</l></lg>
-<byline>R. L. GALES.</byline>
-<bibl>
-<publisher>British Review.</publisher></bibl>
+<byline>R. L. GALES.<lb/>
+<title rend="left">British Review.</title></byline>
 </div2>
 
 
 <pb n="115"/>
 <div2 id="elliott054" type="poem" n="In a Harvest Field">
+<docAuthor n="Rawnsley, H. D. (Hardwicke Drummond)">H. D. Rawnsley</docAuthor>
 <head rend="center">IN A HARVEST FIELD.</head>
 
 <lg type="stanza">
-<l n="1">H<hi rend="smallcaps">ow</hi> quietly beneath the quiet sky</l>
+<l n="1"><hi rend="smallcap">How</hi> quietly beneath the quiet sky</l>
 <l>These men are sleeping who shall never wake!</l>
 <l>But soon the plough, the harrow, and the rake</l>
 <l>Shall pass them as I pass unheeded by;</l>
@@ -1874,10 +1912,11 @@ Kent.</name></dateline>
 
 <pb n="116"/>
 <div2 id="elliott055" type="poem" n="A Contrast">
+<docAuthor n="Rawnsley, H. D. (Hardwicke Drummond)">H. D. Rawnsley</docAuthor>
 <head rend="center">A CONTRAST.</head>
 
 <lg type="stanza">
-<l n="1">I <hi rend="smallcaps">by</hi> the lapping of my household fire,</l>
+<l n="1">I <hi rend="smallcap">by</hi> the lapping of my household fire,</l>
 <l>You in the trenches, starved and stiff for cold,</l>
 <l>You by fatigue in few days grey and old,</l>
 <l>I with my strength no needs, no calls require:</l>
@@ -1893,23 +1932,18 @@ Kent.</name></dateline>
 <l rend="indent">While you, brave heroes, on that further shore</l>
 <l>Shall find all good has equalised all bad;</l>
 <l rend="indent">Death may be mine -- you win eternal life.</l></lg>
-<byline>H. D. RAWNSLEY.</byline>
-<bibl>
-<publisher>British Review.</publisher></bibl>
+<byline>H. D. RAWNSLEY.<lb/>
+<title rend="left">British Review.</title></byline>
 </div2>
 
 
 <pb n="117"/>
-<div2 id="elliott056" type="poem" n="Non-Combatant">
-<xptr doc="Cunliffe.xml" from="cunliffe056"/>
 <pb n="118"/>
-</div2>
-
-
 <pb n="119"/>
 <div2 id="elliott057" type="poem" n="All's Well">
+<docAuthor n="Bourdillon, F. W.">F. W. Bourdillon</docAuthor>
 <head rend="center">"ALL'S WELL"</head>
-<note>[Reprinted from "Christmas Roses" by permission of the author.]</note>
+<note place="inline">[Reprinted from "Christmas Roses" by permission of the author.]</note>
 
 <lg type="stanza">
 <l n="1" rend="italic">Watchman, watchman, what of the night,</l>
@@ -1958,18 +1992,14 @@ Kent.</name></dateline>
 
 
 <pb n="121"/>
-<div2 id="elliott058" type="poem" n="Revenge for Rheims">
-<xptr doc="Cunliffe.xml" from="cunliffe096"/>
 <pb n="122"/>
-</div2>
-
-
 <pb n="123"/>
 <div2 id="elliott059" type="poem" n="To the Prussianizers of Germany">
+<docAuthor n="Steuart, Douglas S. Spens">Douglas S. Spens Steuart</docAuthor>
 <head rend="center">TO THE PRUSSIANIZERS OF GERMANY.</head>
 
 <lg type="stanza">
-<l n="1">L<hi rend="smallcaps">o</hi>! would -- be War Lord of the Western World!</l>
+<l n="1"><hi rend="smallcap">Lo</hi>! would -- be War Lord of the Western World!</l>
 <l>How dost thou now? -- thou, who the die didst cast!</l>
 <l>Thou, who ten millions of mankind hast hurled</l>
 <l>Hosts against hosts, -- as foes, who, in the past</l>
@@ -2177,18 +2207,18 @@ Kent.</name></dateline>
 <l>Lo! You and yours shall pass, as fades a dream</l>
 <l>Of nightmare horror 'fore the bright'ning sky;</l>
 <l>Cursed ever of the World, and all which once -- was Germany!</l></lg>
-<byline>DOUGLAS S. SPENS STEUART.</byline>
-<bibl>
-<publisher>Poetry Review.</publisher></bibl>
+<byline>DOUGLAS S. SPENS STEUART.<lb/>
+<title rend="left">Poetry Review.</title></byline>
 </div2>
 
 
 <pb n="129"/>
 <div2 id="elliott060" type="poem" n="To a Friend -- Killed in Action">
+<docAuthor n="Simpson, Harold">Harold Simpson</docAuthor>
 <head rend="center">TO A FRIEND -- KILLED IN ACTION.</head>
 
 <lg type="stanza">
-<l n="1">I <hi rend="smallcaps">fain</hi> would weep, and yet my eyes are dry;</l>
+<l n="1">I <hi rend="smallcap">fain</hi> would weep, and yet my eyes are dry;</l>
 <l>My lips are dumb, for fear lest they should speak</l>
 <l>The hasty word, and in reproaches seek</l>
 <l>Revolt from God's decree that you should die.</l>
@@ -2202,18 +2232,18 @@ Kent.</name></dateline>
 <l>Draw cleansing grace to make my being whole</l>
 <l>Thus from your loss one friend at least shall gain</l>
 <l>New life, to prove you have not died in vain.</l></lg>
-<byline>HAROLD SIMPSON.</byline>
-<bibl>
-<publisher>Poetry Review.</publisher></bibl>
+<byline>HAROLD SIMPSON.<lb/>
+<title rend="left">Poetry Review.</title></byline>
 </div2>
 
 
 <pb n="130"/>
 <div2 id="elliott061" type="poem" n="War">
+<docAuthor n="Tollemache, Grace E.">Grace E. Tollemache</docAuthor>
 <head rend="center">WAR.</head>
 
 <lg type="stanza">
-<l n="1">O <hi rend="smallcaps">Hell</hi>-sped fury War, with wings raised high</l>
+<l n="1">O <hi rend="smallcap">Hell</hi>-sped fury War, with wings raised high</l>
 <l rend="indent">Hawk-like that hoverest to smite! --</l>
 <l>How many eager now, stark-dead shall lie,</l>
 <l rend="indent">Ere thou hast flown thy fatal flight!</l></lg>
@@ -2235,18 +2265,18 @@ Kent.</name></dateline>
 <l rend="indent">What dirges follow thee! what dearth</l>
 <l>And blackened ruin, where thou goest, mar</l>
 <l rend="indent">The goodly pleasantness of Earth!</l></lg>
-<byline>GRACE E. TOLLEMACHE.</byline>
-<bibl>
-<publisher></publisher>, <date value="August 1st.">August 1st.</date></bibl>
+<byline>GRACE E. TOLLEMACHE.<lb/>
+<date rend="left" value="1915-08-01"><hi rend="italic">August 1st.</hi></date></byline>
 </div2>
 
 
 <pb n="131"/>
 <div2 id="elliott062" type="poem" n="Sonnet">
+<docAuthor n="Tollemache, Grace E.">Grace E. Tollemache</docAuthor>
 <head rend="center">SONNET.</head>
 
 <lg type="stanza">
-<l n="1">O <hi rend="smallcaps">ye</hi> to whom dear life is still most dear,</l>
+<l n="1">O <hi rend="smallcap">ye</hi> to whom dear life is still most dear,</l>
 <l rend="indent">Heed not the sirens' soft perfidious song</l>
 <l>That bids you barter, for a brief term here,</l>
 <l rend="indent">Abiding honour! As the martyr-throng</l>
@@ -2260,24 +2290,19 @@ Kent.</name></dateline>
 <l rend="indent">Man's common doom! The brave can die but once,</l>
 <l>But in your death, thrice-gloriously ye'll die, --</l>
 <l>For England, for men's hearths, and Liberty!</l></lg>
-<byline>GRACE E. TOLLEMACHE.</byline>
-<bibl>
-<publisher></publisher>, <date value="September 1st.">September 1st.</date></bibl>
+<byline>GRACE E. TOLLEMACHE.<lb/>
+<date rend="left" value="1915-09-01"><hi rend="italic">September 1st.</hi></date></byline>
 </div2>
 
 
 <pb n="132"/>
-<div2 id="elliott063" type="poem" n="Sonnet">
-<xptr doc="Cunliffe.xml" from="cunliffe127"/>
-</div2>
-
-
 <pb n="133"/>
 <div2 id="elliott064" type="poem" n="One Night">
+<docAuthor n="Sutherland, Millicent">Millicent Sutherland</docAuthor>
 <head rend="center">ONE NIGHT.</head>
 
 <lg type="stanza">
-<l n="1">I <hi rend="smallcaps">walked</hi> into a moon of gold last night</l>
+<l n="1">I <hi rend="smallcap">walked</hi> into a moon of gold last night</l>
 <l>Across grey sands she seemed to shine so bright.</l></lg>
 
 <lg>
@@ -2346,26 +2371,26 @@ Kent.</name></dateline>
 <l>"And phantom shapes of patient warrior bands --</l>
 <l>Then more snow fell and shrouded all the lands."</l></lg>
 
-<milestone type="break" rend="asterisk"/><hi rend="center">* * * * *</hi>
+<milestone unit="stanza" rend="asterisk"/>
 
 <lg>
 <l>Now pondering from the moon I turned again,</l>
 <l>Over the sands, back to our House of Pain.</l></lg>
-<byline>MILLICENT SUTHERLAND.</byline>
-<dateline><name type="place">British Hospital,
-<lb/>Malo, Dunkirk, France.</name></dateline>
-<bibl>
-<publisher>English Review.</publisher></bibl>
+<byline>MILLICENT SUTHERLAND.
+<hi rend="left">British Hospital,<lb/>
+Malo, Dunkirk, France.<lb/>
+<title>English Review.</title></hi></byline>
 </div2>
 
 
 <pb n="136"/>
 <div2 id="elliott065" type="poem" n="Night Outposts">
+<docAuthor n="Whiting-Baker, A. E.">A. E. Whiting-Baker</docAuthor>
 <head rend="center">NIGHT OUTPOSTS.</head>
 <note>(British Expeditionary Force.)</note>
 
 <lg type="stanza">
-<l n="1">Z<hi rend="smallcaps">ip</hi>! --- Zing! ---</l>
+<l n="1"><hi rend="smallcap">Zip</hi>! --- Zing! ---</l>
 <l rend="indent">A bullet sped!</l>
 <l>The grim Hun chuckled;</l>
 <l rend="indent">A poor heart bled.</l></lg>
@@ -2393,11 +2418,12 @@ Kent.</name></dateline>
 
 <pb n="137"/>
 <div2 id="elliott066" type="poem" n="God Save the King">
+<docAuthor n="Flecker, James Elroy">James Elroy Flecker</docAuthor>
 <head rend="center">GOD SAVE THE KING.</head>
 <note>[Copyright. By permission of the late Mr. James Elroy Flecker's representatives.]</note>
 
 <lg type="stanza">
-<l n="1">G<hi rend="smallcaps">od</hi> save our gracious King,</l>
+<l n="1"><hi rend="smallcap">God</hi> save our gracious King,</l>
 <l>Nations and State and King,</l>
 <l rend="indent">God save the King!</l>
 <l>Grant him good Peace Divine,</l>
@@ -2447,5 +2473,4 @@ Kent.</name></dateline>
 </div1>
 </body>
 </text>
-
-
+</TEI.2>

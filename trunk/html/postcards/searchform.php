@@ -36,6 +36,7 @@ print "<p class='breadcrumbs'>" . $breadcrumb->show_breadcrumb();
 
 print '
 <div class="content">
+<h2>Postcard Search</h2>
 <form name="postcardquery" action="postcards/search.php" method="get">
 <table class="searchform" border="0">
 <tr><th>Title</th><td><input type="text" size="40" name="title"></td></tr>

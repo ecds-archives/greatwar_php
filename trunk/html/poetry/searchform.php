@@ -20,6 +20,7 @@ print "<p class='breadcrumbs'>" . $breadcrumb->show_breadcrumb();
 
 print '
 <div class="content">
+<h2>Poetry Search</h2>
 <form name="poetryquery" action="poetry/search.php" method="get">
 <table class="searchform" border="0">
 <tr><th>Keyword</th><td><input type="text" size="40" name="keyword"></td></tr>

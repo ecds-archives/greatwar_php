@@ -17,6 +17,14 @@ include_once("lib/taminoConnection.class.php");
 include_once("lib/interpGrp.class.php");
 include_once("lib/mybreadcrumb.php");
 
+include("header.php");
+
+print "<p class='breadcrumbs'>" . $breadcrumb->show_breadcrumb();
+print " (Thumbnails";
+if ($desc == "yes") { print " with descriptions"; }
+print ")</p>";
+
+
 $args = array('host' => $tamino_server,
 	      'db' => $tamino_db,
 	      'coll' => $tamino_coll['postcards'],
@@ -72,26 +80,21 @@ $cat_query = 'for $a in input()/TEI.2/:text/back/:div//interpGrp
 return $a'; 
 $cat_xsl = "interp.xsl"; 
 
-include("header.html");
-
-
-print "<p class='breadcrumbs'>" . $breadcrumb->show_breadcrumb();
-print " (Thumbnails";
-if ($desc == "yes") { print " with descriptions"; }
-print ")</p>";
 
 
 // display options : show/hide descriptions
 print "<p>";
-if ($desc == 'yes') {
-  print "<a href='postcards/browse.php?desc=no&cat=$cat&max=$maxdisplay'>Hide descriptions</a>";
-} else {
-  print "<a href='postcards/browse.php?desc=yes&cat=$cat&max=$maxdisplay'>Show descriptions</a>";
+if ($tamino->count) {		// only display navigation information if there are results (query succeeded)
+  if ($desc == 'yes') {
+    print "<a href='postcards/browse.php?desc=no&cat=$cat&max=$maxdisplay'>Hide descriptions</a>";
+  } else {
+    print "<a href='postcards/browse.php?desc=yes&cat=$cat&max=$maxdisplay'>Show descriptions</a>";
+  }
+  // if a category is selected, give option to revert to all
+  if ($cat) { print " | <a href='postcards/browse.php?desc=$desc&max=$maxdisplay'>View all</a>";
+  }
+  print "</p>";
 }
-// if a category is selected, give option to revert to all
-if ($cat) { print " | <a href='postcards/browse.php?desc=$desc&max=$maxdisplay'>View all</a>";
-}
-print "</p>";
 
 
 // FIXME: add a special case for count = 1 ?

@@ -27,7 +27,6 @@ div.content {	position: relative;
 		z-index: 1;
 		overflow: visible;
 		min-height: 60%;
-		border: 2px solid blue;
 	    }
 
 /* Hide this from IE-mac \*/
@@ -42,12 +41,12 @@ div.content {	position: relative;
 table.thumbnail { font-size: 70%; }
 td.title  { text-align: center; vertical-align: top; width: 25px;
 height: 20px; }
-td.description  { text-align: left; vertical-align: top; padding-top:
-5px; 
-		  padding-bottom: 10px; width: 25px;}
+td.description  { text-align: left; vertical-align: top; padding-top: 5px; padding-bottom: 10px;}
 table.thumbnail td.description  { border-bottom: double;  } 
 
-p.thumbnail { float: left; font-size: 70%; width: 150px; height: 175px; 
+/* note: the dimensions of this need to be large enough that the longest text will fit, 
+   so the floats will all clear in IE windows */
+p.thumbnail { float: left; font-size: 70%; width: 160px; height: 200px; 
 	      padding: 5px; text-align: center; }
 /* empty paragraph to clear floats - so footer will space properly */
 p.endfloats { clear: both; }

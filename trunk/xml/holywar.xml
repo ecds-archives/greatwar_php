@@ -1,9 +1,101 @@
 <?xml version="1.0" encoding="utf-8"?>
+<TEI.2>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Holy War: Electronic Edition</title>
+            <author>Katharine Tynan</author>
+         </titleStmt>
+	 <publicationStmt>
+	   <publisher>Lewis H. Beck Center for Electronic Collections
+	   and Services, Emory University</publisher>
+	   <pubPlace>Atlanta, GA</pubPlace>
+	   <address>
+	     <addrLine>540 Asbury Circle</addrLine>
+	     <addrLine>Woodruff Library</addrLine>
+	     <addrLine>Atlanta, GA 30322</addrLine>
+	   </address>
+	   <availability><p>&#x00A9;Emory University. Permission is
+	   granted to download, transmit, or otherwise reproduce,
+	   distribute or display the contributions to the work claimed
+	   by Emory University for non-profit educational purposes,
+	   provided this header is included in its entirety.  For
+	   inquiries about commercial uses, contact either: Institute
+	   for Jewish Studies, Emory University, Atlanta GA 30322 or
+	   the Lewis H. Beck Center for Electronic Collections and
+	   Services, Woodruff Library, Emory University, Atlanta,
+	   Georgia 30322 </p></availability> 
+	   <date>2004</date>
+	 </publicationStmt>
+	 <seriesStmt>
+	   <title>The Great War</title>
+	 </seriesStmt>
+	 <notesStmt><note></note></notesStmt>
+         <sourceDesc><!-- put the actual publication data for the book
+	   in this section --> 
+            <bibl>
+	     <title>The Holy War</title>
+	     <author>Katharine Tynan</author>
+	     <pubPlace>London</pubPlace>
+	     <publisher>Sidgwick &#x0026; Jackson, Ltd.</publisher>
+	     <date>1916</date>
+	   </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+	<projectDesc><p>Poetry contemporary to World War I (the Great
+	War) has been digitized by OCR or rekeying. The work has been
+	done in conjunction with Dr. Harry Rusche of the English
+	Department, Emory University</p></projectDesc>
+	<editorialDecl>
+	<p>Block quotes are marked with q or quote
+	elements</p>
+	</editorialDecl>
+	<tagsDecl>
+	  <rendition id="quote">Paragraphs including q or quote
+	  elements indicate material that is in a block
+	  quote.</rendition>
+	  <rendition id="title">Where the title of a work is
+	  italicized, it is marked with a title element, both in the
+	  text and in footnotes.</rendition>
+	  <tagUsage gi="q" render="quote">blockquote</tagUsage>
+	  <tagUsage gi="quote" render="quote">blockquote</tagUsage>
+	  <tagUsage gi="title" render="title">italic</tagUsage>
+	</tagsDecl>
+	<refsDecl><p>The page numbers of the volumes are indicated by
+	page break elements</p>
+	<p></p>
+	</refsDecl>
+	<classDecl>
+	  <taxonomy>
+	  <category><catDesc></catDesc></category>
+	  </taxonomy>
+	</classDecl>
+      </encodingDesc>
+      <profileDesc></profileDesc>
+      <revisionDesc>
+	<change>
+	  <date>2004</date>
+	  <respStmt>
+	    <name>Alden Mahler</name>
+	    <resp>Beck Center staff</resp>
+	  </respStmt>
+	    <item>scan, OCR, proof, encode</item>
+	</change>
+      </revisionDesc>
+      <revisionDesc>
+	<change>
+	  <date>2004</date>
+	  <respStmt>
+	    <name>Alice Hickcox</name>
+	    <resp>Beck Center staff</resp>
+	  </respStmt>
+	    <item>added header, validated</item>
+	</change>
+      </revisionDesc>
+   </teiHeader>
+
 <text>
-
-***Notes: 
-***The "indent" value is two spaces, unless otherwise noted.
-
 <front>
 
 <pb n="5"/>
@@ -661,7 +753,7 @@
 <head rend="center">THE TRUST</head>
 
 <lg type="stanza">
-<l n="1"><hi rend="smallcaps">To</hi> you, O S�ur Therse of Lisieux,</l>
+<l n="1"><hi rend="smallcaps">To</hi> you, O Sϵr Therse of Lisieux,</l>
 <l>Fresh as a morning rose in morning dew,</l>
 <l rend="indent5">We give our men in keeping:</l>
 <l rend="indent5">Watch them waking, watch them sleeping.</l>
@@ -1581,3 +1673,4 @@
 </div1>
 </body>
 </text>
+</TEI.2>

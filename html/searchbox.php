@@ -1,11 +1,11 @@
 <?php
 
-/* Note: the variable $basehref must be set before including this file */
+/* Note: the variable $base_url must be set (by config.php) before including this file */
 
 print "<div class='search'>
 <h3>Search</h3> 
 
-<form action='$basehref/searchall.php'>
+<form action='$base_url/searchall.php'>
 <input type='text' name='keyword' size='15'>
 <input type='submit' value='Go'>
 <font size='-1'>

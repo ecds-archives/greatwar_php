@@ -38,6 +38,11 @@ div.content {	position: relative;
 		overflow: visible;
 		min-height: 60%;
 	    }
+/* formatting for 'about the site' essay */
+div#about { margin-left: 1in; margin-right: 3in; }
+div.sig { margin-right: 1in; text-align: right; }
+/* credits */
+p.credits { margin-left: 0.5in; }
 
 /* Hide this from IE-mac \*/
 * html div.content {height: 1%;}

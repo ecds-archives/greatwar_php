@@ -11,9 +11,9 @@ print "<div class='search'>
 <font size='-1'>
 
 <h4>Search within:</h4>
-<input type='checkbox' name='poetry' checked='yes'>Poetry<br>
-<input type='checkbox' name='postcards' checked='yes'>Postcards<br>
-<input type='checkbox' name='links' checked='yes'>Links<br>
+<input type='checkbox' name='poetry' checked>Poetry<br>
+<input type='checkbox' name='postcards' checked>Postcards<br>
+<input type='checkbox' name='links' checked>Links<br>
 </font>
 </form>
 

@@ -11,7 +11,7 @@
 
   <xsl:element name="script">
     <xsl:attribute name="language">Javascript</xsl:attribute>
-    <xsl:attribute name="src">content-list.js</xsl:attribute>
+    <xsl:attribute name="src">toggle-list.js</xsl:attribute>
   </xsl:element> <!-- script -->
 
   <h3>Categories</h3>

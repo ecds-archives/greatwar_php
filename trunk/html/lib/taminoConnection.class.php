@@ -57,7 +57,7 @@ class taminoConnection {
   function xquery ($query, $position = NULL, $maxdisplay = NULL) {
     $myurl = $this->base_url . "_xquery=" . $this->encode_xquery($query);
     if (isset($position) && isset($maxdisplay)) {
-      $myurl .= "&_cursor=open&_position=$position&_quantity=$maxdisplay&_sensitive=vague";
+      $myurl .= "&_cursor=open&_position=$position&_quantity=$maxdisplay&_sensitive=vague&_encoding=utf-8";
     }
     if ($this->debug) {
       print "DEBUG: In function taminoConnection::xquery, url is $myurl.<p>";
@@ -153,6 +153,10 @@ class taminoConnection {
      $string = preg_replace("/\s+/", " ", $string);
      // convert spaces to their hex equivalent
      $string = str_replace(" ", "%20", $string);
+     // convert ampersand & # within xquery (e.g., for unicode entities) to hex
+     $string = str_replace("&", "%26", $string);
+     $string = str_replace("#", "%23", $string);
+
      return $string;
    }
 

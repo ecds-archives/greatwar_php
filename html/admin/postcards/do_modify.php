@@ -55,9 +55,21 @@ $desc = new figDesc($args);
 $desc->printDesc();
 $desc->taminoModify();
 
+print "<p class='admin'>\n";
+print "<a href='${base_url}postcards/view.php?id=$entity'>View postcard</a><br>\n";
+print "<a href='modify.php?id=$entity'>Modify description</a><br>\n";
+print "<a href='comment.php?id=$entity'>Add a Comment</a><br>\n";
+// modify/delete comments -- only display if there are comments ?
+//print "<a href='admin/postcards/comment.php?id=$id'>Modify Comments</a><br>\n";
+print "</p>\n";
 
-print "</div>
-</body>
+print "</div>";
+print '<div class="sidebar">';
+include("nav.html");
+include("searchbox.php");
+print "</div>";
+
+print "</body>
 </html>";
 
 ?>

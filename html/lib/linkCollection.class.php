@@ -51,15 +51,15 @@ class linkCollection {
     // xquery to retrieve all linkRecord identifiers from tamino
     $declare = "declare namespace $this->dcns 
 	declare namespace tf='http://namespaces.softwareag.com/tamino/TaminoFunction'"; 
-    $for =  'for $b in input()/linkCollection/linkRecord/@id';
+    $for =  'for $b in input()/linkCollection/linkRecord';
     $cond_i = 0;	// condition index/count
     if (isset($this->limit_subject) && ($this->limit_subject != '') 
 	&& ($this->limit_subject != 'all')) {
-      $cond[$cond_i] = " \$b/../dc:subject = '$this->limit_subject' ";
+      $cond[$cond_i] = " \$b/dc:subject = '$this->limit_subject' ";
       $cond_i++;
     }
     if (isset($this->search["keyword"]) && ($this->search["keyword"] != '')) {
-      $cond[$cond_i] = ' tf:containsText($b/.., "' . $this->search["keyword"] . '") ';
+      $cond[$cond_i] = ' tf:containsText($b//*, "' . $this->search["keyword"] . '") ';
       $cond_i++;
     }
     if ($cond_i > 0) {		// there is at least one condition set
@@ -68,8 +68,8 @@ class linkCollection {
         $where .= " and $cond[$i]";
       }
     } else { $where = ""; }
-    $return = 'return $b';
-    $sort = " sort by (../" . $this->sortfield[$this->sort] . ")";
+    $return = 'return $b/@id';
+    $sort = " sort by (" . $this->sortfield[$this->sort] . ")";
     $this->xquery = "$declare $for $where $return $sort";
 
     // initialize id list from Tamino  

@@ -8,6 +8,7 @@
 <xsl:param name="mode">full</xsl:param>  	
 	<!-- options: thumbnail, thumbdesc, full, zoom -->
 <xsl:param name="interp">0</xsl:param>  
+<xsl:param name="authlevel">0</xsl:param>  
 
 <!-- base url for linking to images -->
 <xsl:variable name="image_baseurl">http://chaucer.library.emory.edu/wwi/images/</xsl:variable>
@@ -43,6 +44,7 @@
       <xsl:attribute name="href">postcards/view.php?id=<xsl:value-of select="@entity"/></xsl:attribute>
     <xsl:element name="img">
 	<xsl:attribute name="class">thumbnail</xsl:attribute>
+	<xsl:attribute name="alt">postcard thumbnail</xsl:attribute>
 	<xsl:attribute name="src"><xsl:value-of select="concat($image_baseurl, 'thumbnail/', @entity, '.jpg')"/></xsl:attribute>
     </xsl:element>
     </a>
@@ -59,9 +61,25 @@
       <xsl:attribute name="href">postcards/view.php?id=<xsl:value-of select="@entity"/></xsl:attribute>
     <xsl:element name="img">
 	<xsl:attribute name="class">thumbnail</xsl:attribute>
+	<xsl:attribute name="alt">postcard thumbnail</xsl:attribute>
 	<xsl:attribute name="src"><xsl:value-of select="concat($image_baseurl, 'thumbnail/', @entity, '.jpg')"/></xsl:attribute>
     </xsl:element>
     </a>
+   <xsl:if test="$authlevel">
+     <p class='admin'>
+      Admin<br/>
+      <a>
+       <xsl:attribute
+		name="href">admin/postcards/modify.php?id=<xsl:value-of
+		select="@entity"/></xsl:attribute>
+	Modify description</a><br/>
+      <a>
+     <xsl:attribute
+		name="href">admin/postcards/comment.php?id=<xsl:value-of
+		select="@entity"/></xsl:attribute>
+      Add a Comment</a><br/>
+     </p>
+    </xsl:if>
    </td>
    <td class="description">
      <xsl:call-template name="figure-description"/>
@@ -72,7 +90,7 @@
 <xsl:template match="figure" mode="full">
    <p><a>
       <xsl:attribute name="href">postcards/view.php?id=<xsl:value-of
-select="@entity"/>&amp;zoom=2</xsl:attribute>
+	select="@entity"/>&amp;zoom=2</xsl:attribute>
 	View larger image
      </a>
    </p>
@@ -102,7 +120,7 @@ select="@entity"/>&amp;zoom=2</xsl:attribute>
 
   <!-- display any text, but only in full display mode -->
    <xsl:if test="$mode='full'">
-      <xsl:apply-templates select="p"/>
+      <xsl:apply-templates select="p[not(@n='comment')]"/>
    </xsl:if>
 
       <h5>Categories:</h5>
@@ -113,6 +131,11 @@ select="@entity"/>&amp;zoom=2</xsl:attribute>
 	 </xsl:call-template>
         </ul>
 
+  <!-- display any commentary text, but only in full display mode -->
+   <xsl:if test="$mode='full' and count(p[@n='comment']) > 0">
+     <hr/>
+      <xsl:apply-templates select="p[@n='comment']"/>
+   </xsl:if>
 </xsl:template>
 
 <!-- double-size image with title only -->
@@ -154,6 +177,16 @@ select="@entity"/>&amp;zoom=2</xsl:attribute>
   <br/>
 </xsl:template>
 
+<xsl:template match="p[@n='comment']">
+ <p class='comment'>
+    <xsl:apply-templates/>
+  <br/>
+  <span class='byline'>- <xsl:value-of select="name"/>, <xsl:value-of select="date"/></span>
+  </p>
+</xsl:template>
+
+<xsl:template match="p[@n='comment']/name|p[@n='comment']/date"/>
+
 <!-- keys to access human readable interp categories & values -->
 <xsl:key name="interp-name" match="//interp/@value" use="../@id"/>
 <xsl:key name="interp-cat" match="//interpGrp/@type" use="../interp/@id"/>
@@ -188,6 +221,25 @@ select="@entity"/>&amp;zoom=2</xsl:attribute>
 	    <xsl:value-of select="key('interp-name', $id)"/></li>
      </xsl:if>
 
+</xsl:template>
+
+
+<!-- testing using bold/formatting in comments -->
+<xsl:template match="hi">
+  <xsl:choose>
+    <xsl:when test="@rend='bold'">
+    <b><xsl:apply-templates/></b>
+    </xsl:when>
+    <xsl:when test="@rend='italic'">
+    <i><xsl:apply-templates/></i>
+    </xsl:when>
+    <xsl:when test="@rend='underline'">
+    <u><xsl:apply-templates/></u>
+    </xsl:when>
+    <xsl:when test="@rend='smallcaps'">
+    <span class="smallcaps"><xsl:apply-templates/></span>
+    </xsl:when>
+  </xsl:choose>
 </xsl:template>
 
 </xsl:stylesheet>

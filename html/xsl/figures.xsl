@@ -20,7 +20,7 @@
 	<xsl:attribute name="src">http://chaucer.library.emory.edu/wwi/images/thumbnail/<xsl:value-of select="@entity"/>.jpg</xsl:attribute>
     </xsl:element>
      <!-- <br/> -->
-   </td></tr><tr><td class="description">
+   </td></tr><tr><td class="title">
 	<xsl:value-of select="head"/>
    </td></tr></table>
 </xsl:template>

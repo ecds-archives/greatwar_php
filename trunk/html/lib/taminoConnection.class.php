@@ -72,7 +72,7 @@ class taminoConnection {
     }
 
     $length = strlen($this->xmlContent);
-    if ($length < 200000) {
+    if ($length < 500000) {
       // phpDOM can only handle xmlContent within certain size limits
       $this->xml = new XML($this->xmlContent);
       if (!($this->xml)) {        ## call failed
@@ -259,8 +259,8 @@ class taminoConnection {
      for ($i = 0; (isset($term[$i]) && ($term[$i] != '')); $i++) {
        // replace tamino wildcard (*) with regexp -- 1 or more word characters 
        $_term = str_replace("*", "\w+", $term[$i]);
-     // Note: regexp is constructed to avoid matching/highlighting the terms in a url 
-       $this->xsl_result = preg_replace("/([^=|']\b)($_term)(\b)/i",
+     // Note: regexp is constructed to avoid matching/highlighting the terms in a url or img tag
+       $this->xsl_result = preg_replace("/([^=|']\b)($_term)(\b)[^\.]/i",
 	      "$1" . $this->begin_hi[$i] . "$2$this->end_hi$3", $this->xsl_result);
      }
    }

@@ -18,7 +18,7 @@ Services, Woodruff Library, Emory University</publisher>
 <availability><p></p></availability>
 <date>2004</date>
 </publicationStmt>
-<seriesStmt><title></title>
+<seriesStmt><title>The Great War</title>
 </seriesStmt>
 <sourceDesc>
 <bibl>
@@ -178,7 +178,7 @@ short man, and a faceless figure, a skeleton, in a bed. The tall gentleman has a
 <figDesc>This postcard is a black and white photo of cathedral ruins. Text centered at bottom: "Senlis", "Campagne 1914-1917" and "La Galerie des Tours de l'Eglise de la Cath&eacute;drale apr&egrave;s le bombardement par les Allemands." Text at bottom left: "Vis&eacute; Paris". Text at bottom right: "ND. Phot." On reverse: "Imp. Prot. &Aelig;urdein Et Cie, 52, Av. De Breteuil. - Paris."</figDesc>
 </figure>
 
- <figure entity="cannon_blast3" ana="nat-us mil-na con-el im-ph t-wwi ">
+ <figure entity="cannon_blast3" ana="nat-us mil-na con-el im-ph t-wwi">
 <figDesc>This postcard is a black and white photo of cannons shooting from a ship. On reverse: blank.</figDesc>
 </figure>
 
@@ -492,7 +492,7 @@ misfortune to become victims of Hun 'Kultur'"</p><p rend="right">From a press cu
 <l>Wenn es sich nahte seinem Gl&#x00FC;cke,</l>
 <l>Durch Hader,Ha&#x00DF; und Leidenschaft.&#x2104;</l></lg>
 </body></text></p>
-<figDesc>This postcard is a black and white drawing of a battefield. In the top left corner is a large bird and in the bottom right corner is a warrior with his head in his hand. Beside him are snakes and other reptiles. In the middle of the postcard is a set of verses entitled "Germania Schicksal." Text at bottom of verses: "Dr. F. Mehns. Hauptmann d. L. und Bataillons-F&uuml;hrer. Frankreich." On reverse: "'Vita-Venus' von Dr. F. Mehns. Xenien-Verlag, Leipzig./Beste Sch&uuml;tzengraben-Lekt&uuml;re."; "Lithogr. Anst.-Druckerei G. Mechling u. Sohn, Metz, Coislinstra&bcirc;e 16."</figDesc>
+<figDesc>This postcard is a black and white drawing of a battefield. In the top left corner is a large bird and in the bottom right corner is a warrior with his head in his hand. Beside him are snakes and other reptiles. In the middle of the postcard is a set of verses entitled "Germania Schicksal." Text at bottom of verses: "Dr. F. Mehns. Hauptmann d. L. und Bataillons-F&uuml;hrer. Frankreich." On reverse: "'Vita-Venus' von Dr. F. Mehns. Xenien-Verlag, Leipzig./Beste Sch&uuml;tzengraben-Lekt&uuml;re."; "Lithogr. Anst.-Druckerei G. Mechling u. Sohn, Metz, Coislinstra&#x00DF;e 16."</figDesc>
 </figure>
 
 <figure entity="girl_boy2" ana="nat-br hf-p im-ph hf-c con-f t-wwi">
@@ -1411,7 +1411,7 @@ was commissioned a Major in the U. S. Army."</figDesc>
 <figDesc>This postcard is a sepia-toned photo of a fire-damaged pier by the shore. Text at top left: "No 17 Zeebrugge"; "Estacade incendi&eacute;e et le Th&eacute;tis./Pier and the 'Thetis'/Afgebrande Pier en de Thetis." On reverse: "Edition J. Revyn, Zeebrugge-M&ocirc;le."</figDesc>
 </figure>
 
-<figure entity="3_drunks" ana="im-ca con-h">
+<figure entity="wwi_3_drunks" ana="im-ca con-h">
 <figDesc>This postcard has a color cartoon drawing of three men in tuxedoes. Text at top right: "'Drunk last night/Drunk the night before/I'm going to get drunk again tonight/If I never get drunk any more'". Text at bottom: "Copyright 1907 P. Gordon". On reverse: blank.</figDesc>
 </figure>
 
@@ -2324,7 +2324,7 @@ speeds your boy a word of cheer." Handwritten message.</figDesc>
 
 <figure entity="his_sweetheart" ana="hf-p hf-w con-v">
 <head>His Sweetheart</head>
-<p><lg><l>A soldier boy in khaki</l>
+<p><text><body><lg><l>A soldier boy in khaki</l>
 <l>Come to bid his last farewell,</l>
 <l>He is going to the trenches,</l>
 <l>and history will tell,</l>
@@ -2356,7 +2356,7 @@ speeds your boy a word of cheer." Handwritten message.</figDesc>
 <l>When on battle front he's lined;</l>
 <l>He'll be fighting for Old Glory</l>
 <l>And the girl he left behind.</l></lg>
-<byline> CORP. R. H. LEACH</byline></p>
+<byline> CORP. R. H. LEACH</byline></body></text></p>
 <figDesc>This postcard has a poem entitled "His Sweetheart" by Corp. R. H. Leach. In the poem, the "sweetheart" is actually the soldier's mother, whom he has to leave behind. Text beneath poem: "(Copyright applied for.)" On reverse: "Searls Advertising Co., Waco, Texas".</figDesc>
 </figure>
 
@@ -2385,7 +2385,7 @@ at bottom right: "Translation: 'Imperialism is War!'" On reverse:
 1966."</figDesc>
 </figure>
 
-<figure entity="wwi_je pense">
+<figure entity="wwi_je_pense" ana="nat-fr im-s t-wwi">
 <head>Je Pense &agrave; toi</head>
 <figDesc>This postcard has embroidered flowers and "Je Pense &agrave; toi" embroidered across it diagonally. On reverse: "Marque d&eacute;posee Fabrication Fran&ccedil;aise"; handwritten message.</figDesc>
 </figure>
@@ -2525,7 +2525,7 @@ Georgia"</l>
 <figDesc>This postcard is pink with a sepia photo of a soldier and a woman holding daisies. Text at bottom center: "La Marguerite"; "La Marguerite, ami, ne peut plus rien m'apprendre / Je sais que vous m'aimez d'un c&oelig;ur fid&egrave;le et tendre". On reverse: "Imprim&eacute; en France".</figDesc>
 </figure>
 
-<figure entity="merry_xmas2" ana="im-s">
+<figure entity="merry_xmas2" ana="im-s t-wwi">
 <head>Merry Christmas</head>
 <figDesc>This postcard has holly, a log cabin and "Merry Christmas" embroidered on the front. On reverse: "Embroidery"; "PH. and A."</figDesc>
 </figure>

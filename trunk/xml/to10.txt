@@ -1,0 +1,409 @@
+<pb n="15"/>
+<div2 id="moresongs0" type="poem" n="The Gift">
+<byline><docAuthor n="De Banzie, Eric">ERIC DE BANZIE</docAuthor></lb>
+<hi rend="smallcaps">Sapper, R.E.</hi></byline>
+
+<head rend="center">The Gift</head>
+
+<lg type="stanza">
+<l n="1">"OH, I have known the dreams of youth... then what</l>
+<l rend="indent">The dead, long, useless years gave promise of;</l>
+<l>Remnants I'll humbly gift thee -- all I've got,</l>
+<l rend="indent">Which thy sweet thanks shall be the solace of."</l>
+<l>Thus spake a restless mind all out of tune</l>
+<l rend="indent">With souls and thoughts the world could offer him. ...</l>
+<l>Thou know'st he thanked Thee, God, for War's grand boon --</l>
+<l rend="indent">The end, the glory, England proffered him.</l>
+<l>The sorrow of his going matters not;</l>
+<l rend="indent">Only the fierce high glow that in his heart</l>
+<l>Lit up those remnants that a rifle shot</l>
+<l rend="indent">Filched from an England who was grieved to part.</l>
+<l>Alway, the nobleness that England gives</l>
+<l rend="indent">Rescinds her royal gift -- so England lives!</l></lg>
+<dateline><name type="place"><hi rend="smallcaps">France.</hi></name></dateline>
+</div2>
+
+
+<pb n="16"/>
+<div2 id="moresongs0" type="poem" n="The Dawn Patrol">
+<byline><docAuthor n="Bewsher, Paul">PAUL BEWSHER</docAuthor></lb>
+<hi rend="smallcaps">D.S.C., Sub-Lieut., R.N.A.S., France</hi></byline>
+
+<head rend="center">The Dawn Patrol</head>
+
+<lg type="stanza">
+<l n="1">SOMETIMES I fly at dawn above the sea,</l></l>
+<l>Where, underneath, the restless waters flow -</l>
+<l rend="indent">Silver, and cold, and slow.</l>
+<l>Dim in the east there burns a new-born sun,</l>
+<l>Whose rosy gleams along the ripples run,</l>
+<l rend="indent">Save where the mist droops low,</l>
+<l>Hiding the level loneliness from me.</l></lg>
+
+<lg>
+<l>And now appears beneath the milk-white haze</l>
+<l>A little fleet of anchored ships, which lie</l>
+<l rend="indent">In clustered company,</l>
+<l>And seem as they are yet fast bound by sleep,</l>
+<l>Although the day has long begun to peep,</l>
+<l rend="indent">With red-inflam&egrave;d eye,</l>
+<l>Along the still, deserted ocean ways.</l></lg>
+
+<lg>
+<l>The fresh, cold wind of dawn blows on my face</l>
+<l>As in the sun's raw heart I swiftly fly,</l>
+<l rend="indent">And watch the seas glide by.</l>
+<pb n="17"/>
+<l>Scarce human seem I, moving through the skies,</l>
+<l>And far removed from warlike enterprise --</l>
+<l rend="indent">Like some great gull on high</l>
+<l>Whose white and gleaming wings beat on through space.</l></lg>
+
+<lg>
+<l>Then do I feel with God quite, quite alone,</l>
+<l>High in the virgin morn, so white and still,</l>
+<l rend="indent">And free from human ill:</l>
+<l>My prayers transcend my feeble earth-bound plaints --</l>
+<l>As though I sang among the happy Saints</l>
+<l rend="indent">With many a holy thrill --</l>
+<l>As though the glowing sun were God's bright Throne.</l></lg>
+
+<lg>
+<l>My flight is done. I cross the line of foam</l>
+<l>That breaks around a town of grey and red,</l>
+<l rend="indent">Whose streets and squares lie dead</l>
+<l>Beneath the silent dawn -- then am I proud</l>
+<l>That England's peace to guard I am allowed;</l>
+<l rend="indent">Then bow my humble head,</l>
+<l>In thanks to Him Who brings me safely home.</l></lg>
+</div2>
+
+
+<pb n="18"/>
+<div2 id="moresongs0" type="poem" n="To Another Poor Poet">
+<byline><docAuthor n="Brooks, Collin">COLLIN BROOKS</docAuthor></lb>
+<hi rend="smallcaps">Sergeant, Machine Gun Corps</hi></byline>
+
+<head rend="center">To Another Poor Poet</head>
+
+<lg type="stanza">
+<l n="1">SHALL God forget these darkling years we spend</l>
+<l>In poverty and misery and toil</l>
+<l>Unlit save by a glint of fa&euml;ry spoil</l>
+<l>That gleams and leads us, steadfast, to His end,</l>
+<l>The darkling years when only Hope is friend</l>
+<l>To Courage who, from where our foes embroil,</l>
+<l>Still calls us onward -- onward tho' the soil</l>
+<l>Engulf both us and all that we defend?</l></lg>
+
+<lg>
+<l>The spoken word holds true: the swords we wield</l>
+<l>Upended show the Cross that, potent yet,</l>
+<l>Shall prove each wound we suffer on the field</l>
+<l>No sacrifice made vainly to abet</l>
+<l>A senseless purpose. Wait but for the yield</l>
+<l>Of all our toil and -- God shall not forget.</l></lg>
+</div2>
+
+
+<pb n="19"/>
+<div2 id="moresongs0" type="poem" n="Death in France">
+<byline><docAuthor n="Carstairs, Carroll">CARROLL CARSTAIRS</docAuthor></lb>
+<hi rend="smallcaps">Lieut., Grenadier Guards</hi></byline>
+
+<head rend="center">Death in France</head>
+
+<lg type="stanza">
+<l n="1">IF I should die while I am yet in France</l>
+<l>Before the battle clouds have rolled away,</l>
+<l>Give me to feel that death will but enhance</l>
+<l>Life's secret vision on its passing day.</l>
+<l>Grant then to me new, individual power</l>
+<l>In reverie, whilst whimsically I trace</l>
+<l>Thro' eager, breathless youth, each pulsing hour,</l>
+<l>The light and shadow on its fading face.</l>
+<l>And in death's soonest minute let me seek</l>
+<l><hi rend="italic">Life</hi> heightened by new splendour, poise, surprise,</l>
+<l>New colour flushing deep its paling cheek,</l>
+<l>New wonder looking from its tired eyes.</l>
+<l>Time's brought a rare patine to old Romance --</l>
+<l rend="italic">Death has an ancient dignity in France.</l></lg>
+<dateline><name type="place"><hi rend="smallcaps">France</hi>,</name> 
+<date><hi rend="italic">November, 1916.</hi></date></dateline>
+</div2>
+
+
+<pb n="20"/>
+<div2 id="moresongs0" type="poem" n="The Lover's Mood">
+<docAuthor n="Carstairs, Carroll"></docAuthor>
+<head rend="center">The Lover's Mood</head>
+
+<lg type="stanza">
+<l n="1">I SAID a careless word, then miserably</l>
+<l>Repented, asked forgiveness in sweet rhyme;</l>
+<l>Your face had clouded so, and suddenly</l>
+<l>The day had grown a-weary ere her time.</l></lg>
+</div2>
+
+
+<div2 id="moresongs0" type="poem" n="Life and Death">
+<docAuthor n="Carstairs, Carroll"></docAuthor>
+<head rend="center">Life and Death</head>
+
+<lg type="stanza">
+<l n="1">IF death should come with his cold, hasty kiss</l>
+<l>Along the trench or in the battle strife,</l>
+<l>I'll ask of death no greater boon than this:</l>
+<l>That it shall be as wonderful as life.</l></lg>
+</div2>
+
+
+<pb n="21"/>
+<div2 id="moresongs0" type="poem" n="The Harvest">
+<byline><docAuthor n="Challenger, Ernest K.">ERNEST K. CHALLENGER</docAuthor></lb>
+<hi rend="smallcaps">Corporal, R.E.</hi></byline>
+
+<head rend="center">The Harvest</head>
+
+<lg type="stanza">
+<l n="1">SHADOWLESS lies the land</l>
+<l>Under the sun,</l>
+<l>Only the poplars stand</l>
+<l>With moveless boughs in the heat</l>
+<l>That broods o'er the blackened wheat</l>
+<l>And the ground so hardly won.</l></lg>
+
+<lg>
+<l>No other tree in the waste.</l>
+<l>They only stand</l>
+<l>Where the straight white road is traced</l>
+<l>Athwart the land.</l>
+<l>And ever under the sky</l>
+<l>Do the slow-winged birds go by --</l>
+<l>The slow black birds of prey</l>
+<l>That wait but the close of day</l>
+<l>For the night to bring them food.</l></lg>
+
+<lg>
+<l>The curse of the heat is here,</l>
+<l>And the curse of blood.</l>
+<l>Cold-lipped, and with eyes of fear,</l>
+<l>'Neath the sun's flood</l>
+<pb n="22"/>
+<l>Wanders the spirit of death;</l>
+<l>And e'en in the burning noon is an icy breath</l>
+<l>And the red of the west is to me like the redness of blood.</l></lg>
+
+<lg>
+<l>The village is still as the heat,</l>
+<l>From the ruined houses start</l>
+<l>The rats across the street. --</l>
+<l>There is never another sound,</l>
+<l>For the guns are silent to-day,</l>
+<l>And the endless lines of men that are bound</l>
+<l>For the place of death and the nameless mound</l>
+<l>Have taken another way.</l></lg>
+
+<lg>
+<l>At the end of the ruined street</l>
+<l>Roodless the church yet stands</l>
+<l>To the God men praise with their lips</l>
+<l>While they mock Him with their hands;</l>
+<l>With hands that have scrawled for sport</l>
+<l>Their jests on the altar-stone,</l>
+<l>And their ribald words on the lips of Christ,</l>
+<l>The marred Christ hanging alone.</l></lg>
+
+<lg>
+<l>Who has measured pain,</l>
+<l>And who has a plumb for that sea</l>
+<l>Where the soul shall know again</l>
+<l>Its own immensity?</l>
+<pb n="23"/>
+<l>For the voice of the mind is dumb,</l>
+<l>But the voice of the soul is heard,</l>
+<l>Where the wild dark waters are come</l>
+<l>And the face of man's sky is blurred.</l></lg>
+
+<lg>
+<l>Who shall say "Lo here</l>
+<l>Shall the glory of war be found,</l>
+<l>That a nation arose without fear</l>
+<l>And smote her foe to the ground</l>
+<l>For the wrong that he dared to dream,</l>
+<l>And the hell that he wrought on earth;</l>
+<l>That she pressed after Honour's gleam</l>
+<l>Though it led to a land of dearth"?</l></lg>
+
+<lg>
+<l>Who has measured wrong,</l>
+<l>And who shall assign it a bond?</l>
+<l>Where the scornful might of the strong</l>
+<l>And the cry of the weak be found --</l>
+<l>Say, is the tale complete?</l>
+<l>Ah! myriad wrongs spring up</l>
+<l>Where one has set its feet,</l>
+<l>And the earth is a poisoned cup</l>
+<l>Where the goodly wine brings death,</l>
+<l>And one drop of venom there</l>
+<l>Shall poison the very breath</l>
+<l>Of the winds in the upper air.</l></lg>
+
+<pb n="24"/>
+<lg>
+<l>What of the men who died</l>
+<l>Stout-hearted and steadfast-eyed</l>
+<l>For the good they might not share</l>
+<l>And the goal to them denied?</l>
+<l>For the lamp they strove to bear</l>
+<l>Should light another's way,</l>
+<l>And the boon that they might not share</l>
+<l>Is the boon we hold to-day.</l></lg>
+
+<lg>
+<l>What of the god-like men</l>
+<l>Who lie in the dust to-day</l>
+<l>For the dreams that we hold so light</l>
+<l>And the hope that we fling away?</l>
+<l>Ah! shall we not vex their sleep,</l>
+<l>We men of the lesser mould,</l>
+<l>Who sully the name they bled to keep,</l>
+<l>And the honour they died to hold?</l></lg>
+
+<lg>
+<l>A thousand ages ago</l>
+<l>Man fought with the axe of stone</l>
+<l>That the many might seize the thing they loved</l>
+<l>From the few, and hold it alone.</l>
+<l>For the will of the strong was law</l>
+<l>And the right of the weak was death</l>
+<l>When man was one with the beasts of the earth</l>
+<l>And battled with them for breath.</l></lg>
+
+<pb n="25"/>
+<lg>
+<l>And to-day with their coward lips</l>
+<l>Men prate of love in their creeds,</l>
+<l>And a thousand times today</l>
+<l>Do they spurn her with their deeds.</l>
+<l>For we talk of the law of truth</l>
+<l>While our God is the law of might,</l>
+<l>And the will of the strongest there</l>
+<l>Is the thing we hold as right.</l></lg>
+
+<lg>
+<l>What have we gained with the years,</l>
+<l>But the greater power to lie?</l>
+<l>We, who speak of the truth,</l>
+<l>Smooth-voiced and with side-long eye;</l>
+<l>Better the axe of stone</l>
+<l>And the feet on the weakest throat</l>
+<l>Than the lying lips and the coward thrust</l>
+<l>And the stealthy eyes that gloat.</l></lg>
+
+<lg>
+<l>Now for the one's desire</l>
+<l>Shall the many be crucified</l>
+<l>On the cross of a lawless power</l>
+<l>With the nails of a soulless pride.</l>
+<l>And the wrong goes deeper yet,</l>
+<l>Aye, deep as the springs of life,</l>
+<l>And has blossomed out at the 'hest of pride</l>
+<l>In the deadly flower of strife.</l></lg>
+
+<pb n="26"/>
+<lg>
+<l>And nothing shall purge the land</l>
+<l>Where the curse of sin has stood</l>
+<l>But the purge of the whetted steel</l>
+<l>And the drench of blood.</l>
+<l>While perchance at the end shall Peace</l>
+<l>Her impotent pinions spread</l>
+<l>O'er the ruined home and the smoking land</l>
+<l>And the blank eyes of our dead.</l></lg>
+
+<lg>
+<l>Hark! -- through the lazy air</l>
+<l>Comes the sound of guns again.</l>
+<l>Once more man reaps with a sickle of fire</l>
+<l>The harvest of the slain.</l></lg>
+<dateline><name type="place"><hi rend="smallcaps">Pont d'Essars, France.</hi></name></dateline>
+</div2>
+
+
+<pb n="27"/>
+<div2 id="moresongs0" type="poem" n="After-days">
+<byline><docAuthor n="Chilman, Eric">ERIC CHILMAN</docAuthor></lb>
+<hi rend="smallcaps">Private, East Yorks</hi></byline>
+
+<head rend="center">After-days</head>
+
+<lg type="stanza">
+<l n="1">WHEN the last gun has long withheld</l>
+<l rend="indent">Its thunder, and its mouth is sealed,</l>
+<l>Strong men shall drive the furrow straight</l>
+<l rend="indent">On some remembered battlefield.</l></lg>
+
+<lg>
+<l>Untroubled they shall hear the loud</l>
+<l rend="indent">And gusty driving of the rains,</l>
+<l>And birds with immemorial voice</l>
+<l rend="indent">Sing as of old in leafy lanes.</l></lg>
+
+<lg>
+<l>The stricken, tainted soil shall be</l>
+<l rend="indent">Again a flowery paradise --</l>
+<l>Pure with the memory of the dead</l>
+<l rend="indent">And purer for their sacrifice.</l></lg>
+</div2>
+
+
+<pb n="28"/>
+<div2 id="moresongs0" type="poem" n="Supermen">
+<byline><docAuthor n="Choyce, A. Newberry">A. NEWBERRY CHOYCE</docAuthor></lb>
+<hi rend="smallcaps">Lieut., Leicestershire Regiment</hi></byline>
+
+<head rend="center">Supermen</head>
+
+<lg type="stanza">
+<l n="1">SOME souls there are</l>
+<l>Who in their trial hours</l>
+<l>Bathe in the very blood</l>
+<l>Which flows around the heart of Life</l>
+<l>And know its joy -- and know its agony.</l>
+<l>Daring to follow impulse</l>
+<l>That any God Himself would not resist.</l></lg>
+
+<lg>
+<l>Stand back!</l>
+<l>You weaklings of the world</l>
+<l>Boasting the name of men.</l>
+<l>Preening yourselves</l>
+<l>And judging with your "God this --" and "God that --"</l>
+<l>Dare not to come</l>
+<l>Near these.</l></lg>
+
+<lg>
+<l>Stay with your narrow Gods</l>
+<l>Who smugly sit</l>
+<l>Within four chapel walls</l>
+<l>On Sundays,</l>
+<pb n="29"/>
+<l>You in some stiff God's house</l>
+<l>Who kneel and shiver</l>
+<l>Towards a judgment day</l>
+<l>Of your own setting.</l></lg>
+
+<lg>
+<l>But if a Destiny too kind</l>
+<l>Bring you for one short second</l>
+<l>Closer to wisdom;</l>
+<l>To the breathing hills and spaces</l>
+<l>Where my God lives</l>
+<l>And makes His Throne in every leaf and flower</l>
+<l>And whispers in each wind,</l>
+<l>Then I will tell you this --</l>
+<l>That my God is so great</l>
+<l>I doubt if He will dare</l>
+<l>To judge these souls.</l></lg>
+</div2>

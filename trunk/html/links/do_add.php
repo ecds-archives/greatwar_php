@@ -1,15 +1,16 @@
+<?php
+include("../config.php");	
+
+print "
 <html>
   <head>
-<!--    <link rel="stylesheet" type="text/css" href="../wwi.css"> -->
+    $csslink
     <title>The Great War : Links : Process New Link</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<!--    <base href="http://reagan.library.emory.edu/rebecca/wwiweb/"> -->
+    <meta http-equiv='Content-Type' content='text/html; charset=iso-8859-1'>
   </head>
 <body>
+";
 
-<?php
-// run everything as if one directory up
-include("../config.php");	
 include_once ("lib/alinkRecord.class.php");
 include_once("lib/mybreadcrumb.php");
 
@@ -38,8 +39,8 @@ if (!(isset($url))||(!(isset($title)))||(!(isset($description)))
 }
 
 
-$myargs = array('host' => "vip.library.emory.edu",
-		'db' => "WW1",
+$myargs = array('host' => $tamino_server,
+		'db' => $tamino_db,
 		'coll' => 'links',
 		'url' => $url,
 		'title' => $title,
@@ -54,7 +55,8 @@ $newlink->printHTML();
 print "</div>";
 
 print '<div class="sidebar">';
-include("searchbox.html");
+include("nav.html");
+include("searchbox.php");
 print "</div>";
 
 include("footer.html");

@@ -191,13 +191,14 @@ p.subhead { font-weight: bold; font-size: 105%; }
 p.argument { width: 60%; }
 p.epigraph,p.trailer,p.byline,p.dedication { font-style: italic; font-size: 90%; }
 p.source { font-size: 85%; }
+p.next-prev { font-size: 85%; }
 /* poetry search results */
 p.linematch { margin: -10px; margin-left: 1cm; font-size: 80%;}
 font.extent { padding-left: 10px; font-size: 80%; vertical-align: middle;}
 
 /* footnotes & endnotes */
 a.footnote { font-size: 65%; vertical-align: text-top; text-decoration: none; padding-left: 3px;}
-div.endnote { font-size: 85%; border-top: 1px solid; margin-top: 1cm; } 
+div.endnote { font-size: 85%; border-top: 1px solid; margin-top: 1cm; background-color:  #e9e9e9; } 
 div.endnote table { font-size: inherit; margin-left: 1cm; }
 
 div.toggle ul { display: none; margin-top: -2px; padding-bottom: 0; }

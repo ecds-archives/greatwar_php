@@ -1,32 +1,37 @@
-<html>
-  <head>
-    <link rel="stylesheet" type="text/css" href="../wwi.css">
-    <title>The Great War : Postcards : Thumbnails</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-    <base href="http://reagan.library.emory.edu/rebecca/wwiweb/">
-  </head>
-<body>
-
 <?php
-// run everything as if one directory up
-chdir("..");
+include("../config.php");	
+
+print "<html>
+  <head> 
+    $csslink
+    <title>The Great War : Postcards : Thumbnails</title>
+    <meta http-equiv='Content-Type' content='text/html; charset=iso-8859-1'>
+    <base href='$base_url'>
+  </head> 
+<body> 
+"; 
+
 include_once("lib/taminoConnection.class.php");
 include_once("lib/mybreadcrumb.php");
-$args = array('host' => "vip.library.emory.edu",
-	      'db' => "WW1",
+
+$args = array('host' => $tamino_server,
+	      'db' => $tamino_db,
+	      'coll' => 'postcards',
+              'basedir' => $basedir,
 	      'debug' => false,
-	      'coll' => 'postcards');
+	      );
 $tamino = new taminoConnection($args);
 
 $cat = $_GET["cat"];		// optionally limit postcards by category
 $desc = $_GET["desc"];
 $pos = $_GET["position"];
+$maxdisplay = $_GET["max"];
 if (isset($pos)) {} else {$pos = 1;}
-$maxdisplay = 10;
+if (isset($maxdisplay)) {} else {$maxdisplay = 10;}
 
 ($desc == "yes") ? $mode = "thumbdesc" : $mode = "thumbnail";
 $xsl_params = array("mode" => $mode);
-$cat_params = array("desc" => $desc);
+$cat_params = array("desc" => $desc, "max" => $maxdisplay);
 
 /*
 $query ='declare namespace tf="http://namespaces.softwareag.com/tamino/TaminoFunction"
@@ -43,13 +48,13 @@ $query .= 'return  $a } ';
 $query .= '{ for $b in input()/TEI.2/:text/back/:div//interpGrp return $b }</div>';
 */ 
 
-$query ='declare namespace tf="http://namespaces.softwareag.com/tamino/TaminoFunction" ';
-$query .= 'for $a in input()/TEI.2/:text/body/p/figure ';
-$query .= 'let $b := input()/TEI.2/:text/back/:div//interpGrp ';
-if ($cat) { $query .= "where tf:containsText(\$a/@ana, '$cat') "; }    
-$query .= 'return <div> { $a } <total>{ count($a/../figure) }</total> {$b} </div>';
-// FIXME: this does not return a proper count when categories are used...
-
+$declare ='declare namespace tf="http://namespaces.softwareag.com/tamino/TaminoFunction" ';
+$for = 'for $a in input()/TEI.2/:text/body/p/figure ';
+$let = 'let $b := input()/TEI.2/:text/back/:div//interpGrp ';
+if ($cat) { $where = "where tf:containsText(\$a/@ana, '$cat') "; }
+else { $where = ""; }
+$return = "return <div> { \$a } <total>{ count($for $where return \$a) }</total> {\$b} </div>";
+$query = "$declare $for $let $where $return ";
 
 $xsl_file = "figures.xsl";
 
@@ -85,12 +90,29 @@ print '<p class="breadcrumbs">
 
 print "<p>";
 if ($desc == 'yes') {
-  print "<a href='postcards/browse.php?desc=no&cat=$cat'>Hide descriptions</a>";
+  print "<a href='postcards/browse.php?desc=no&cat=$cat&max=$maxdisplay'>Hide descriptions</a>";
 } else {
-  print "<a href='postcards/browse.php?desc=yes&cat=$cat'>Show descriptions</a>";
+  print "<a href='postcards/browse.php?desc=yes&cat=$cat&max=$maxdisplay'>Show descriptions</a>";
 }
-if ($cat) { print " | <a href='postcards/browse.php?desc=$desc'>View all</a>"; }
+if ($cat) { print " | <a href='postcards/browse.php?desc=$desc&max=$maxdisplay'>View all</a>"; }
 print "</p>";
+
+
+print "<table class='maxdisplay'><tr><td>Postcards per page:
+<form action='postcards/browse.php'>
+<select name='max'>";
+foreach (array(5,10,15,20,25) as $i) {
+  ($i == $maxdisplay) ? $status = " selected" : $status = "";
+  print "<option value='$i'$status>$i</option> ";
+}
+print "</select>
+<input type='hidden' name='desc' value='$desc'>
+<input type='hidden' name='cat' value='$cat'>
+<input type='submit' value='Go'>
+</form>";
+
+print "</td></tr></table>";
+
 
 print "<p>Displaying postcards " . $tamino->position . " - " . ($tamino->quantity + $tamino->position - 1) . " of " . $tamino->count . "</p>";
 
@@ -101,7 +123,7 @@ if ($tamino->count > $maxdisplay) {
     if ($i == $pos) { next; }	// skip current set of results
     else {
       // construct the url, maintaining all parameters
-      $url = "postcards/browse.php?";
+      $url = "postcards/browse.php?max=$maxdisplay";
       if ($desc) { $url .= "&desc=$desc"; }
       if ($cat) { $url .= "&cat=$cat"; }
       // now add the key piece: the new position
@@ -118,9 +140,7 @@ if ($tamino->count > $maxdisplay) {
 
 print $result_links;
 
-
 print '<div class="content">'; 
-
 
 $tamino->xslTransform($xsl_file, $xsl_params); 
 //$tamino->xslTransform($xsl_file);
@@ -147,6 +167,7 @@ print '</div>';
 print '</div>';
 
 include("footer.html");
+
 
 ?>
 

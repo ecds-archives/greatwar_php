@@ -1,21 +1,25 @@
-<html>
-  <head>
-    <link rel="stylesheet" type="text/css" href="../wwi.css">
-    <title>The Great War : Postcards : Detail</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-    <base href="http://reagan.library.emory.edu/rebecca/wwiweb/">
-  </head>
-<body>
-
 <?php
-// run everything as if one directory up
-chdir("..");
+include("../config.php");	
+
+print "<html>
+  <head> 
+    $csslink
+    <title>The Great War : Postcards : Detail</title>
+    <meta http-equiv='Content-Type' content='text/html; charset=iso-8859-1'>
+    <base href='$base_url'>
+  </head> 
+<body> 
+"; 
+
 include_once("lib/taminoConnection.class.php");
 include_once("lib/mybreadcrumb.php");
-$args = array('host' => "vip.library.emory.edu",
-	      'db' => "WW1",
+
+$args = array('host' => $tamino_server,
+	      'db' => $tamino_db,
+	      'coll' => 'postcards',
+	      'basedir' => $basedir,
 	      'debug' => false,
-	      'coll' => 'postcards');
+	      );
 $tamino = new taminoConnection($args);
 
 $id = $_GET["id"];

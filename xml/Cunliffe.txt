@@ -1,6 +1,6 @@
 <text>
-<body>
 
+<body>
 <pb n="1"/>
 <div1 id="cunliffe001" type="anthology" n="Poems of the Great War">
 <head rend="center">POEMS OF THE GREAT WAR</head>
@@ -236,11 +236,11 @@ When last heard from, the author, who is a British officer, was on service at Kh
 
 
 <pb n="10"/>
-<xptr doc="Clarke.xml" from="clarke154"/>
-
-
+<div2 id="cunliffe006" type="poem" n="The Fallen Subaltern">
+<xptr doc="Clarke.xml" from="clarke158"/>
+</div>
 <pb n="11"/>
-<div2 id="cunliffe006" type="poem" n="Unser Gott">
+<div2 id="cunliffe007" type="poem" n="Unser Gott">
 <head rend="center">UNSER GOTT</head>
 
 <lg type="stanza">
@@ -336,7 +336,7 @@ When last heard from, the author, who is a British officer, was on service at Kh
 
 
 <pb n="15"/>
-<div2 id="cunliffe007" type="poem" n="Neutral?">
+<div2 id="cunliffe008" type="poem" n="Neutral?">
 <head rend="center">NEUTRAL?</head>
 <head rend="center">T<hi rend="smallcaps">o the</hi> H<hi rend="smallcaps">umanity of</hi> A<hi rend="smallcaps">merica</hi></head>
 
@@ -395,7 +395,7 @@ When last heard from, the author, who is a British officer, was on service at Kh
 
 
 <pb n="17"/>
-<div2 id="cunliffe008" type="poem" n="The Red Country">
+<div2 id="cunliffe009" type="poem" n="The Red Country">
 <head rend="center">THE RED COUNTRY</head>
 
 <lg type="stanza">
@@ -488,12 +488,14 @@ When last heard from, the author, who is a British officer, was on service at Kh
 
 
 <pb n="21"/>
-<xptr doc="Clarke.xml" from="clarke145"/>
+<div2 id="cunliffe010" type="poem" n="For the Fallen">
+<xptr doc="Clarke.xml" from="clarke149"/>
 <pb n="22"/>
+</div2>
 
 
 <pb n="23"/>
-<div2 id="cunliffe009" type="poem" n="A Ballad of Deathless Dons">
+<div2 id="cunliffe011" type="poem" n="A Ballad of Deathless Dons">
 <head rend="center">A BALLAD OF DEATHLESS DONS</head>
 <head rend="center">OR:</head>
 <head rend="center">"WHEN THE ASSAULT WAS INTENDED TO THE CITY"</head>
@@ -508,7 +510,7 @@ When last heard from, the author, who is a British officer, was on service at Kh
 <lg type="stanza">
 <head rend="center">I</head>
 <l n="1">T<hi rend="smallcaps">he</hi> Regulars fight with all their might, the Navy keeps the seas,</l>
-<l>The Terrier<ref target="cunliffe009n1">1</ref> <note id="cunliffe009n1" place="foot" n="1">
+<l>The Terrier<ref target="cunliffe011n1">1</ref> <note id="cunliffe011n1" place="foot" n="1">
 Obsolete word signifying a mere voluntary fighter unfit even for adequate defence purposes.</note>
 sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 <l>K's keen recruit is learning to shoot, the Boy Scout scouteth still, --</l>
@@ -607,7 +609,7 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 
 
 <pb n="28"/>
-<div2 id="cunliffe010" type="poem" n="Any Friend to Any Friend">
+<div2 id="cunliffe012" type="poem" n="Any Friend to Any Friend">
 <head rend="center">"ANY FRIEND TO ANY FRIEND"</head>
 
 <lg type="stanza">
@@ -632,7 +634,7 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 
 
 <pb n="29"/>
-<div2 id="cunliffe011" type="poem" n="The Camp-Follower">
+<div2 id="cunliffe013" type="poem" n="The Camp-Follower">
 <head rend="center">THE CAMP-FOLLOWER</head>
 
 <lg type="stanza">
@@ -656,7 +658,7 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 
 
 <pb n="30"/>
-<div2 id="cunliffe012" type="poem" n="Here: And There">
+<div2 id="cunliffe014" type="poem" n="Here: And There">
 <head rend="center">HERE: AND THERE</head>
 <head rend="center"><hi rend="italic">September, 1914</hi></head>
 
@@ -678,11 +680,13 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 
 
 <pb n="31"/>
-<xptr doc="Clarke.xml" from="clarke152"/>
+<div2 id="cunliffe015" type="poem" n="Lord Kitchener">
+<xptr doc="Clarke.xml" from="clarke156"/>
+</div2>
 
 
 <pb n="32"/>
-<div2 id="cunliffe013" type="poem" n="Kartushkiya-Beroza">
+<div2 id="cunliffe016" type="poem" n="Kartushkiya-Beroza">
 <head rend="center">KART&Uacute;SHKIYA-BER&Oacute;ZA</head>
 
 <lg type="stanza">
@@ -812,14 +816,16 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 
 
 <pb n="38"/>
-<xptr doc="Clarke.xml" from="clarke094"/>
+<div2 id="cunliffe017" type="poem" n="The Soldier">
+<xptr doc="Clarke.xml" from="clarke098"/>
 <note>
 (A sublieutenant in the volunteer Naval Reserve, Rupert Brooke died from sunstroke on his way to the Dardanelles on April 23, 1915, and was buried in the Greek island of Skyros.)
 </note>
+</div2>
 
 
 <pb n="39"/>
-<div2 id="cunliffe014" type="poem" n="Aftermath">
+<div2 id="cunliffe018" type="poem" n="Aftermath">
 <head rend="center">AFTERMATH</head>
 
 <lg type="stanza">
@@ -865,7 +871,7 @@ message, see!</l>
 
 
 <pb n="41"/>
-<div2 id="cunliffe015" type="poem" n="The Return">
+<div2 id="cunliffe019" type="poem" n="The Return">
 <head rend="center">THE RETURN</head>
 
 <lg type="stanza">
@@ -937,7 +943,7 @@ message, see!</l>
 
 
 <pb n="44"/>
-<div2 id="cunliffe016" type="poem" n="Kitchener's March">
+<div2 id="cunliffe020" type="poem" n="Kitchener's March">
 <head rend="center">KITCHENER'S MARCH</head>
 
 <lg type="stanza">
@@ -985,7 +991,8 @@ message, see!</l>
 
 
 <pb n="46"/>
-<xptr doc="Clarke.xml" from="clarke046"/>
+<div2 id="cunliffe021" type="poem" n="Langemarck at Ypres">
+<xptr doc="Clarke.xml" from="clarke050"/>
 <pb n="47"/>
 <pb n="48"/>
 <pb n="49"/>
@@ -993,14 +1000,19 @@ message, see!</l>
 <note>
 Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. Eloi. He is Capt. Basil Campbell, of the Second Pioneers.
 </note>
+</div2>
 
 
 <pb n="51"/>
-<xptr doc="Clarke.xml" from="clarke054"/>
+<div2 id="cunliffe022" type="poem" n="Guns of Verdun">
+<xptr doc="Clarke.xml" from="clarke058"/>
+<note>
+(Reprinted by the special permission of the proprietors of <hi rend="italic">Punch</hi>.)</note>
+</div2>
 
 
 <pb n="52"/>
-<div2 id="cunliffe017" type="poem" n="The Broken Rose">
+<div2 id="cunliffe023" type="poem" n="The Broken Rose">
 <head rend="center">THE BROKEN ROSE</head>
 <head rend="center"><hi rend="smallcaps">TO KING ALBERT</hi></head>
 
@@ -1056,12 +1068,14 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="54"/>
-<xptr doc="Clarke.xml" from="clarke035"/>
+<div2 id="cunliffe024" type="poem" n="The Wife of Flanders">
+<xptr doc="Clarke.xml" from="clarke039"/>
 <pb n="55"/>
+</div2>
 
 
 <pb n="56"/>
-<div2 id="cunliffe018" type="poem" n="They Held Their Ground">
+<div2 id="cunliffe025" type="poem" n="They Held Their Ground">
 <head rend="center">THEY HELD THEIR GROUND</head>
 
 <lg type="stanza">
@@ -1119,7 +1133,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="58"/>
-<div2 id="cunliffe019" type="poem" n="Vision of War">
+<div2 id="cunliffe026" type="poem" n="Vision of War">
 <head rend="center">VISION OF WAR</head>
 
 <lg type="stanza">
@@ -1366,7 +1380,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="70"/>
-<div2 id="cunliffe020" type="poem" n="Fallen">
+<div2 id="cunliffe027" type="poem" n="Fallen">
 <head rend="center">FALLEN</head>
 
 <lg type="stanza">
@@ -1392,7 +1406,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="71"/>
-<div2 id="cunliffe021" type="poem" n="By the North Sea">
+<div2 id="cunliffe028" type="poem" n="By the North Sea">
 <head rend="center">BY THE NORTH SEA</head>
 
 <lg type="stanza">
@@ -1429,12 +1443,14 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="72"/>
-<xptr doc="Clarke.xml" from="clarke023"/>
+<div2 id="cunliffe029" type="poem" n="Vive La France!">
+<xptr doc="Clarke.xml" from="clarke027"/>
 <pb n="73"/>
+</div2>
 
 
 <pb n="74"/>
-<div2 id="cunliffe022" type="poem" n="A Harrow Grave in Flanders">
+<div2 id="cunliffe030" type="poem" n="A Harrow Grave in Flanders">
 <head rend="center">A HARROW GRAVE IN FLANDERS</head>
 
 <lg type="stanza">
@@ -1465,7 +1481,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="75"/>
-<div2 id="cunliffe023" type="poem" n="When They Have Made an End">
+<div2 id="cunliffe031" type="poem" n="When They Have Made an End">
 <head rend="center">WHEN THEY HAVE MADE AN END</head>
 
 <lg type="stanza">
@@ -1482,11 +1498,13 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="76"/>
-<xptr doc="Clarke.xml" from="clarke147"/>
+<div2 id="cunliffe032" type="poem" n="How Sleep the Brave">
+<xptr doc="Clarke.xml" from="clarke151"/>
+</div2>
 
 
 <pb n="77"/>
-<div2 id="cunliffe024" type="poem" n="The Defenders">
+<div2 id="cunliffe033" type="poem" n="The Defenders">
 <head rend="center">THE DEFENDERS</head>
 
 <lg type="stanza">
@@ -1511,7 +1529,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="78"/>
-<div2 id="cunliffe025" type="poem" n="The Metal Checks">
+<div2 id="cunliffe034" type="poem" n="The Metal Checks">
 <head rend="center">THE METAL CHECKS</head>
 
 <note>(The scene is a bare room, with two shaded windows at the back, and a fireplace between them with a fire burning low. The room is furnished scantily with a few plain chairs, and a rough wooden table on which are piled a great many small wooden trays. The Counter, who is Death, sits at the table. He wears a loose gray robe, and his face is partly concealed by a gray veil. He does not look at The Bearer, but works mechanically and speaks in a monotonous tone. The Bearer is the World, that bears the burden of War. He wears a soiled robe of brown and green and he carries on his back a gunny-bag with the little metal disks that have been used for the identification of the slain common soldiers.)</note>
@@ -1563,7 +1581,6 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l rend="indent">It is not large. Would you have said</l>
 <l>That I could carry on my back</l>
 <l rend="indent">So great an army -- and all dead?</l></lg>
-
 <pb n="80"/>
 <note>(As the Counter speaks the Bearer lays the sack over his arm and helps count.)</note>
 
@@ -1691,7 +1708,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="84"/>
-<div2 id="cunliffe026" type="poem" n="For Those at Sea">
+<div2 id="cunliffe035" type="poem" n="For Those at Sea">
 <head rend="center">"FOR THOSE AT SEA"</head>
 
 <note>(H.M.S. "Aboukir," "Cressy," "Hogue," September 22, 1914.)</note>
@@ -1716,7 +1733,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="85"/>
-<div2 id="cunliffe027" type="poem" n="The Man in the Trench">
+<div2 id="cunliffe036" type="poem" n="The Man in the Trench">
 <head rend="center">THE MAN IN THE TRENCH</head>
 
 <lg type="stanza">
@@ -1760,7 +1777,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="87"/>
-<div2 id="cunliffe028" type="poem" n="Territorials">
+<div2 id="cunliffe037" type="poem" n="Territorials">
 <head rend="center">TERRITORIALS</head>
 
 <lg type="stanza">
@@ -1788,7 +1805,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="88"/>
-<div2 id="cunliffe029" type="poem" n="Honor to France!">
+<div2 id="cunliffe038" type="poem" n="Honor to France!">
 <head rend="center">HONOR TO FRANCE!</head>
 
 <lg type="stanza">
@@ -1811,7 +1828,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="89"/>
-<div2 id="cunliffe030" type="poem" n="The Jewish Conscript">
+<div2 id="cunliffe039" type="poem" n="The Jewish Conscript">
 <head rend="center">THE JEWISH CONSCRIPT</head>
 
 <note>(There are nearly a quarter of a million Jews in the Czar's army alone. -- <hi rend="italic">Newspaper clipping</hi>.)</note>
@@ -1844,16 +1861,20 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="90"/>
-<xptr doc="Clarke.xml" from="clarke102"/>
+<div2 id="cunliffe040" type="poem" n="Headquarters">
+<xptr doc="Clarke.xml" from="clarke106"/>
 <pb n="91"/>
+</div2>
 
 
 <pb n="92"/>
-<xptr doc="Clarke.xml" from="clarke079"/>
+<div2 id="cunliffe041" type="poem" n="The Return">
+<xptr doc="Clarke.xml" from="clarke083"/>
+</div2>
 
 
 <pb n="93"/>
-<div2 id="cunliffe031" type="poem" n="The Gift">
+<div2 id="cunliffe042" type="poem" n="The Gift">
 <head rend="center">THE GIFT</head>
 
 <lg type="stanza">
@@ -1890,7 +1911,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="95"/>
-<div2 id="cunliffe032" type="poem" n="Passover">
+<div2 id="cunliffe043" type="poem" n="Passover">
 <head rend="center">PASSOVER</head>
 
 <lg type="stanza">
@@ -1934,7 +1955,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="97"/>
-<div2 id="cunliffe033" type="poem" n="Ireland">
+<div2 id="cunliffe044" type="poem" n="Ireland">
 <head rend="center">IRELAND</head>
 
 <lg type="stanza">
@@ -1986,7 +2007,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="99"/>
-<div2 id="cunliffe034" type="poem" n="Her Allowance!">
+<div2 id="cunliffe045" type="poem" n="Her Allowance!">
 <head rend="center">HER "ALLOWANCE!"</head>
 
 <lg type="stanza">
@@ -2019,17 +2040,19 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="100"/>
-<xptr doc="Clarke.xml" from="clarke138"/>
+<div2 id="cunliffe046" type="poem" n="Between the Lines">
+<xptr doc="Clarke.xml" from="clarke142"/>
 <pb n="101"/>
 <pb n="102"/>
 <pb n="103"/>
 <pb n="104"/>
 <pb n="105"/>
 <pb n="106"/>
+</div2>
 
 
 <pb n="107"/>
-<div2 id="cunliffe035" type="poem" n="Ultimate Hell">
+<div2 id="cunliffe047" type="poem" n="Ultimate Hell">
 <head rend="center">ULTIMATE HELL</head>
 
 <lg type="stanza">
@@ -2119,7 +2142,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="110"/>
-<div2 id="cunliffe036" type="poem" n="I Have No Ring">
+<div2 id="cunliffe048" type="poem" n="I Have No Ring">
 <head rend="center">"I HAVE NO RING"</head>
 
 <lg type="stanza">
@@ -2142,7 +2165,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="111"/>
-<div2 id="cunliffe037" type="poem" n="The Dead">
+<div2 id="cunliffe049" type="poem" n="The Dead">
 <head rend="center">THE DEAD</head>
 <head rend="center"><hi ref="smallcaps">TO ONE KILLED IN ACTION</hi></head>
 
@@ -2174,7 +2197,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="112"/>
-<div2 id="cunliffe038" type="poem" n="Sure, It's Fun!">
+<div2 id="cunliffe050" type="poem" n="Sure, It's Fun!">
 <head rend="center">SURE, IT'S FUN!</head>
 
 <note rend="center">What fun to be a soldier!
@@ -2217,7 +2240,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="114"/>
-<div2 id="cunliffe039" type="poem" n="The Airman">
+<div2 id="cunliffe051" type="poem" n="The Airman">
 <head rend="center">THE AIRMAN</head>
 
 <lg type="stanza">
@@ -2248,7 +2271,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="115"/>
-<div2 id="cunliffe040" type="poem" n="Brothers In Arms">
+<div2 id="cunliffe052" type="poem" n="Brothers In Arms">
 <head rend="center">BROTHERS IN ARMS</head>
 
 <lg type="stanza">
@@ -2329,14 +2352,16 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="118"/>
-<xptr doc="Clarke.xml" from="clarke097"/>
+<div2 id="cunliffe053" type="poem" n="Into Battle">
+<xptr doc="Clarke.xml" from="clarke101"/>
 <pb n="119"/>
 <pb n="120"/>
 <note>Captain the Hon. Julian Henry Francis Grenfell, D.S.O, of the 1st (Royal) Dragoons, was wounded in the trenches in front of Ypres on May 13, and died in hospital at Boulogne on May 26, 1915. He was the eldest son of Lord Desborough, by whose consent the poem is here reprinted. Lord Desborough writes: "Not many men would have knocked out two professional boxers and written those verses in one week."</note>
+</div2>
 
 
 <pb n="121"/>
-<div2 id="cunliffe041" type="poem" n="The Wykhamist">
+<div2 id="cunliffe054" type="poem" n="The Wykhamist">
 <head rend="center">THE WYKHAMIST</head>
 
 <lg type="stanza">
@@ -2361,7 +2386,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="122"/>
-<div2 id="cunliffe042" type="poem" n="The Pyres">
+<div2 id="cunliffe055" type="poem" n="The Pyres">
 <head rend="center">THE PYRES</head>
 
 <lg type="stanza">
@@ -2451,7 +2476,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="125"/>
-<div2 id="cunliffe043" type="poem" n="Non-Combatant">
+<div2 id="cunliffe056" type="poem" n="Non-Combatant">
 <head rend="center">NON-COMBATANT</head>
 
 <lg type="stanza">
@@ -2488,12 +2513,14 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="126"/>
-<xptr doc="Clarke.xml" from="clarke064"/>
+<div2 id="cunliffe057" type="poem" n="Men Who March Away">
+<xptr doc="Clarke.xml" from="clarke068"/>
 <pb n="127"/>
+</div2>
 
 
 <pb n="128"/>
-<div2 id="cunliffe044" type="poem" n="From the Youth of All Nations">
+<div2 id="cunliffe058" type="poem" n="From the Youth of All Nations">
 <head rend="center">FROM THE YOUTH OF ALL NATIONS</head>
 
 <lg type="stanza">
@@ -2592,7 +2619,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="131"/>
-<div2 id="cunliffe045" type="poem" n="Soldier, Soldier">
+<div2 id="cunliffe059" type="poem" n="Soldier, Soldier">
 <head rend="center">SOLDIER, SOLDIER</head>
 
 <lg type="stanza">
@@ -2656,7 +2683,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="133"/>
-<div2 id="cunliffe046" type="poem" n="April in England">
+<div2 id="cunliffe060" type="poem" n="April in England">
 <head rend="center">APRIL IN ENGLAND</head>
 
 <lg type="stanza">
@@ -2691,7 +2718,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="134"/>
-<div2 id="cunliffe047" type="poem" n="Things That Were Yours">
+<div2 id="cunliffe061" type="poem" n="Things That Were Yours">
 <head rend="center">THINGS THAT WERE YOURS</head>
 
 <lg type="stanza">
@@ -2715,7 +2742,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="135"/>
-<div2 id="cunliffe048" type="poem" n="Joan of France to an English Sister">
+<div2 id="cunliffe062" type="poem" n="Joan of France to an English Sister">
 <head rend="center">JOAN OF FRANCE TO AN ENGLISH SISTER</head>
 <head rend="center">I. M. EDITH CAVELL, NURSE</head>
 
@@ -2739,7 +2766,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="136"/>
-<div2 id="cunliffe049" type="poem" n="The Twa Weelums">
+<div2 id="cunliffe063" type="poem" n="The Twa Weelums">
 <head rend="center">THE TWA WEELUMS</head>
 
 <lg type="stanza">
@@ -2797,7 +2824,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="138"/>
-<div2 id="cunliffe050" type="poem" n="A Legend of Ypres">
+<div2 id="cunliffe064" type="poem" n="A Legend of Ypres">
 <head rend="center">A LEGEND OF YPRES</head>
 
 <lg type="stanza">
@@ -2821,9 +2848,8 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <note>(See note on "The First Battle of Ypres," by Mrs. Margaret L. Woods, p. 290 of this volume.)</note>
 </div2> 
 
-
 <pb n="139"/>
-<div2 id="cunliffe051" type="poem" n="In Memoriam">
+<div2 id="cunliffe065" type="poem" n="In Memoriam">
 <head rend="center">IN MEMORIAM</head>
 
 <note>(To Field-Marshal Lord Roberts of Kandahar, died November, 1914)</note>
@@ -2853,7 +2879,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="140"/>
-<div2 id="cunliffe052" type="poem" n="India to England">
+<div2 id="cunliffe066" type="poem" n="India to England">
 <head rend="center">INDIA TO ENGLAND</head>
 
 <lg type="stanza">
@@ -2900,8 +2926,9 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <note rend="center">(Native Judge of the High Court of Hyderabad.)</note>
 </div2>
 
+
 <pb n="142"/>
-<div2 id="cunliffe053" type="poem" n="The Nations' David">
+<div2 id="cunliffe067" type="poem" n="The Nations' David">
 <head rend="center">THE NATIONS' DAVID</head>
 
 <lg type="stanza">
@@ -2971,15 +2998,17 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="146"/>
-<xptr doc="Clarke.xml" from="clarke087"/>
+<div2 id="cunliffe068" type="poem" n="The Hell-Gate of Soissons">
+<xptr doc="Clarke.xml" from="clarke091"/>
 <pb n="147"/>
 <pb n="148"/>
 <pb n="149"/>
 <pb n="150"/>
+</div2>
 
 
 <pb n="151"/>
-<div2 id="cunliffe054" type="poem" n="The White Ships and the Red">
+<div2 id="cunliffe069" type="poem" n="The White Ships and the Red">
 <head rend="center">THE WHITE SHIPS AND THE RED</head>
 
 <lg type="stanza">
@@ -3099,7 +3128,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="155"/>
-<div2 id="cunliffe055" type="poem" n="Overheard in an Asylum">
+<div2 id="cunliffe070" type="poem" n="Overheard in an Asylum">
 <head rend="center">OVERHEARD IN AN ASYLUM</head>
 
 <lg type="stanza">
@@ -3142,17 +3171,21 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="157"/>
-<xptr doc="Clarke.xml" from="clarke056"/>
+<div2 id="cunliffe071" type="poem" n="The Spires of Oxford">
+<xptr doc="Clarke.xml" from="clarke060"/>
 <pb n="158"/>
+</div2>
 
 
 <pb n="159"/>
-<xptr doc="Clarke.xml" from="clarke005"/>
+<div2 id="cunliffe072" type="poem" n="Abraham Lincoln Walks at Midnight">
+<xptr doc="Clarke.xml" from="clarke009"/>
 <pb n="160"/>
+</div2>
 
 
 <pb n="161"/>
-<div2 id="cunliffe056" type="poem" n="Patterns">
+<div2 id="cunliffe073" type="poem" n="Patterns">
 <head rend="center">PATTERNS</head>
 
 <lg type="stanza">
@@ -3282,13 +3315,15 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="166"/>
-<xptr doc="Clarke.xml" from="clarke148"/>
+<div2 id="cunliffe074" type="poem" n="The Debt">
+<xptr doc="Clarke.xml" from="clarke152"/>
 <pb n="167"/>
 <pb n="168"/>
+</div2>
 
 
 <pb n="169"/>
-<div2 id="cunliffe057" type="poem" n="His Only Way">
+<div2 id="cunliffe075" type="poem" n="His Only Way">
 <head rend="center">HIS ONLY WAY</head>
 
 <lg type="stanza">
@@ -3362,11 +3397,13 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="171"/>
-<xptr doc="Clarke.xml" from="clarke063"/>
+<div2 id="cunliffe076" type="poem" n="Christmas, 1915">
+<xptr doc="Clarke.xml" from="clarke067"/>
+</div2>
 
 
 <pb n="172"/>
-<div2 id="cunliffe058" type="poem" n="To England, Our Mother">
+<div2 id="cunliffe077" type="poem" n="To England, Our Mother">
 <head rend="center">TO ENGLAND, OUR MOTHER</head>
 <head rend="center"><hi rend="smallcaps">A HYMN OF LOYALTY</hi></head>
 
@@ -3438,18 +3475,22 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="175"/>
-<xptr doc="Clarke.xml" from="clarke144"/>
+<div2 id="cunliffe078" type="poem" n="The Island of Skyros">
+<xptr doc="Clarke.xml" from="clarke148"/>
 <pb n="176"/>
+</div2>
 
 
 <pb n="177"/>
-<xptr doc="Clarke.xml" from="clarke025"/>
+<div2 id="cunliffe079" type="poem" n="O Glorious France">
+<xptr doc="Clarke.xml" from="clarke029"/>
 <pb n="178"/>
 <pb n="179"/>
+</div2>
 
 
 <pb n="180"/>
-<div2 id="cunliffe059" type="poem" n="In Flanders Fields">
+<div2 id="cunliffe080" type="poem" n="In Flanders Fields">
 <head rend="center">IN FLANDERS FIELDS</head>
 <note>
 (Reprinted by the special permission of the proprietors of Punch.)</note>
@@ -3479,7 +3520,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="181"/>
-<div2 id="cunliffe060" type="poem" n="The Fleets">
+<div2 id="cunliffe081" type="poem" n="The Fleets">
 <head rend="center">THE FLEETS</head>
 
 <lg type="stanza">
@@ -3523,7 +3564,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="183"/>
-<div2 id="cunliffe061" type="poem" n="Summer in England, 1914">
+<div2 id="cunliffe082" type="poem" n="Summer in England, 1914">
 <head rend="center">SUMMER IN ENGLAND, 1914</head>
 
 <lg type="stanza">
@@ -3572,7 +3613,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="185"/>
-<div2 id="cunliffe062" type="poem" n="Off Heligoland">
+<div2 id="cunliffe083" type="poem" n="Off Heligoland">
 <head rend="center">OFF HELIGOLAND</head>
 
 <lg type="stanza">
@@ -3620,7 +3661,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="187"/>
-<div2 id="cunliffe063" type="poem" n="He Went For a Soldier">
+<div2 id="cunliffe084" type="poem" n="He Went For a Soldier">
 <head rend="center">HE WENT FOR A SOLDIER</head>
 
 <lg type="stanza">
@@ -3689,7 +3730,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="190"/>
-<div2 id="cunliffe064" type="poem" n="On the Porch">
+<div2 id="cunliffe085" type="poem" n="On the Porch">
 <head rend="center">ON THE PORCH</head>
 
 <lg type="stanza">
@@ -3743,7 +3784,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="192"/>
-<div2 id="cunliffe065" type="poem" n="A. S. K.">
+<div2 id="cunliffe086" type="poem" n="A. S. K.">
 <head rend="center">A. S. K.</head>
 <head rend="center"><hi rend="italic">July 14, 1915</hi></head>
 
@@ -3772,7 +3813,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="193"/>
-<div2 id="cunliffe066" type="poem" n="A Song of Peace and Honor">
+<div2 id="cunliffe087" type="poem" n="A Song of Peace and Honor">
 <head rend="center">A SONG OF PEACE AND HONOR</head>
 
 <lg type="stanza">
@@ -3865,7 +3906,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="196"/>
-<div2 id="cunliffe067" type="poem" n="The Fisher-Lad">
+<div2 id="cunliffe088" type="poem" n="The Fisher-Lad">
 <head rend="center">THE FISHER-LAD</head>
 
 <lg type="stanza">
@@ -3896,12 +3937,14 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="197"/>
-<xptr doc="Clarke.xml" from="clarke062"/>
+<div2 id="cunliffe089" type="poem" n="The Searchlights">
+<xptr doc="Clarke.xml" from="clarke066"/>
 <pb n="198"/>
+</div2>
 
 
 <pb n="199"/>
-<div2 id="cunliffe068" type="poem" n="Master and Pupil">
+<div2 id="cunliffe090" type="poem" n="Master and Pupil">
 <head rend="center">MASTER AND PUPIL</head>
 <head rend="center">(To J. F. R.)</head>
 
@@ -3991,7 +4034,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="202"/>
-<div2 id="cunliffe069" type="poem" n="Two Pictures">
+<div2 id="cunliffe091" type="poem" n="Two Pictures">
 <head rend="center">TWO PICTURES</head>
 
 <lg type="stanza">
@@ -4028,11 +4071,13 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="203"/>
-<xptr doc="Clarke.xml" from="clarke047"/>
+<div2 id="cunliffe092" type="poem" n="Canadians">
+<xptr doc="Clarke.xml" from="clarke051"/>
+</div2>
 
 
 <pb n="204"/>
-<div2 id="cunliffe070" type="poem" n="The Dead Soldier">
+<div2 id="cunliffe093" type="poem" n="The Dead Soldier">
 <head rend="center">THE DEAD SOLDIER</head>
 
 <lg type="stanza">
@@ -4064,12 +4109,14 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="205"/>
-<xptr doc="Clarke.xml" from="clarke075"/>
+<div2 id="cunliffe094" type="poem" n="The Kaiser and God">
+<xptr doc="Clarke.xml" from="clarke079"/>
 <pb n="206"/>
+</div2>
 
 
 <pb n="207"/>
-<div2 id="cunliffe071" type="poem" n="Men Have Wings At Last">
+<div2 id="cunliffe095" type="poem" n="Men Have Wings At Last">
 <head rend="center">MEN HAVE WINGS AT LAST</head>
 <head rend="center">(Air-Craft and the War)</head>
 
@@ -4207,7 +4254,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="212"/>
-<div2 id="cunliffe072" type="poem" n="Revenge for Rheims">
+<div2 id="cunliffe096" type="poem" n="Revenge for Rheims">
 <head rend="center">REVENGE FOR RHEIMS</head>
 
 <lg type="stanza">
@@ -4244,11 +4291,13 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="213"/>
-<xptr doc="Clarke.xml" from="clarke045"/>
+<div2 id="cunliffe097" type="poem" n="Canada to England">
+<xptr doc="Clarke.xml" from="clarke049"/>
+</div2>
 
 
 <pb n="214"/>
-<div2 id="cunliffe073" type="poem" n="Socks">
+<div2 id="cunliffe098" type="poem" n="Socks">
 <head rend="center">SOCKS</head>
 
 <lg type="stanza">
@@ -4285,7 +4334,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="215"/>
-<div2 id="cunliffe074" type="poem" n="To Shakespeare, 1916">
+<div2 id="cunliffe099" type="poem" n="To Shakespeare, 1916">
 <head rend="center">TO SHAKESPEARE, 1916</head>
 
 <lg type="stanza">
@@ -4310,7 +4359,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="216"/>
-<div2 id="cunliffe075" type="poem" n="Belgium the Bar-Lass">
+<div2 id="cunliffe100" type="poem" n="Belgium the Bar-Lass">
 <head rend="center">BELGIUM THE BAR-LASS</head>
 
 <lg type="stanza">
@@ -4369,7 +4418,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="218"/>
-<div2 id="cunliffe076" type="poem" n="Cassandra">
+<div2 id="cunliffe101" type="poem" n="Cassandra">
 <head rend="center">CASSANDRA</head>
 
 <lg type="stanza">
@@ -4450,7 +4499,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="221"/>
-<div2 id="cunliffe077" type="poem" n="Shakespeare, 1916">
+<div2 id="cunliffe102" type="poem" n="Shakespeare, 1916">
 <head rend="center">SHAKESPEARE, 1916</head>
 
 <lg type="stanza">
@@ -4473,7 +4522,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="222"/>
-<div2 id="cunliffe078" type="poem" n="Statistics">
+<div2 id="cunliffe103" type="poem" n="Statistics">
 <head rend="center">STATISTICS</head>
 
 <lg type="stanza">
@@ -4503,7 +4552,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="223"/>
-<div2 id="cunliffe079" type="poem" n="Australians to the Front!">
+<div2 id="cunliffe104" type="poem" n="Australians to the Front!">
 <head rend="center">AUSTRALIANS TO THE FRONT!</head>
 <head rend="center">(Captain Cook hears the Drums)</head>
 
@@ -4562,7 +4611,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="225"/>
-<div2 id="cunliffe080" type="poem" n="Her Prayer -- For Him">
+<div2 id="cunliffe105" type="poem" n="Her Prayer -- For Him">
 <head rend="center">HER PRAYER -- FOR HIM</head>
 
 <lg type="stanza">
@@ -4587,7 +4636,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="226"/>
-<div2 id="cunliffe081" type="poem" n="The Vale of Shadows">
+<div2 id="cunliffe106" type="poem" n="The Vale of Shadows">
 <head rend="center">THE VALE OF SHADOWS</head>
 
 <lg type="stanza">
@@ -4684,12 +4733,18 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="229"/>
-<xptr doc="Clarke.xml" from="clarke149"/>
-<note>(Major, 3rd Brigade, Canadian Division, British Expeditionary Force.)</note>
+<div2 id="cunliffe107" type="poem" n="Requiescant">
+<xptr doc="Clarke.xml" from="clarke153"/>
+<dateline>
+<name type="place">Near Ypres, </name><date>May, 1915.</date>
+</dateline>
+<note>
+(Major, 3rd Brigade, Canadian Division, British Expeditionary Force.)</note>
+</div2>
 
 
 <pb n="230"/>
-<div2 id="cunliffe082" type="poem" n="The Wayside Calvary">
+<div2 id="cunliffe108" type="poem" n="The Wayside Calvary">
 <head rend="center">THE WAYSIDE CALVARY</head>
 <note>(Lines written on the anniversary of the outbreak of the war.)</note>
 
@@ -4728,13 +4783,15 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="232"/>
-<xptr doc="Clarke.xml" from="clarke093"/>
+<div2 id="cunliffe109" type="poem" n="I Have a Rendezvous with Death">
+<xptr doc="Clarke.xml" from="clarke097"/>
 <pb n="233"/>
 <note>(Killed in battle at Belloy-en-Santerre, July, 1916.)</note>
+</div2>
 
 
 <pb n="234"/>
-<div2 id="cunliffe083" type="poem" n="The Mother">
+<div2 id="cunliffe110" type="poem" n="The Mother">
 <head rend="center">THE MOTHER</head>
 
 <lg type="stanza">
@@ -4765,7 +4822,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="235"/>
-<div2 id="cunliffe084" type="poem" n="A Thanksgiving">
+<div2 id="cunliffe111" type="poem" n="A Thanksgiving">
 <head rend="center">A THANKSGIVING</head>
 
 <lg type="stanza">
@@ -4802,7 +4859,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="236"/>
-<div2 id="cunliffe085" type="poem" n="Form Fours">
+<div2 id="cunliffe112" type="poem" n="Form Fours">
 <head rend="center">"FORM FOURS"</head>
 <head rend="center"><hi rend="smallcaps">A VOLUNTEER'S NIGHTMARE</hi></head>
 
@@ -4841,7 +4898,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="238"/>
-<div2 id="cunliffe086" type="poem" n="Field Ambulance in Retreat">
+<div2 id="cunliffe113" type="poem" n="Field Ambulance in Retreat">
 <head rend="center">FIELD AMBULANCE IN RETREAT</head>
 <head rend="center"><hi rend="italic">Via Dolorosa, Via Sacra</hi></head>
 
@@ -4885,7 +4942,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="240"/>
-<div2 id="cunliffe087" type="poem" n="Close Your Ranks">
+<div2 id="cunliffe114" type="poem" n="Close Your Ranks">
 <head rend="center">CLOSE YOUR RANKS</head>
 
 <lg type="stanza">
@@ -4933,7 +4990,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="242"/>
-<div2 id="cunliffe088" type="poem" n="Heart of All the World">
+<div2 id="cunliffe115" type="poem" n="Heart of All the World">
 <head rend="center">HEART OF ALL THE WORLD</head>
 <head rend="center">(Belgium)</head>
 
@@ -4959,13 +5016,15 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="243"/>
-<xptr doc="Clarke.xml" from="clarke099"/>
+<div2 id="cunliffe116" type="poem" n="All the Hills and Vales Along">
+<xptr doc="Clarke.xml" from="clarke103"/>
 <pb n="244"/>
 <note>(Captain, Seventh (Service) Battalion of the Suffolk Regiment, killed in action in France on Oct. 13, 1915.)</note>
+</div2>
 
 
 <pb n="245"/>
-<div2 id="cunliffe089" type="poem" n="Kitchener of Khartoum">
+<div2 id="cunliffe117" type="poem" n="Kitchener of Khartoum">
 <head rend="center">KITCHENER OF KHARTOUM</head>
 
 <lg type="stanza">
@@ -5002,7 +5061,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="246"/>
-<div2 id="cunliffe090" type="poem" n="The Spring in Ireland: 1916">
+<div2 id="cunliffe118" type="poem" n="The Spring in Ireland: 1916">
 <head rend="center">THE SPRING IN IRELAND: 1916</head>
 
 <lg type="stanza">
@@ -5129,11 +5188,13 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="250"/>
-<xptr doc="Clarke.xml" from="clarke043"/>
+<div2 id="cunliffe119" type="poem" n="Australia to England">
+<xptr doc="Clarke.xml" from="clarke047"/>
+</div2>
 
 
 <pb n="251"/>
-<div2 id="cunliffe091" type="poem" n="Sailor, What of the Debt We Owe You?">
+<div2 id="cunliffe120" type="poem" n="Sailor, What of the Debt We Owe You?">
 <head rend="center">SAILOR, WHAT OF THE DEBT WE OWE YOU?</head>
 
 <lg type="stanza">
@@ -5165,7 +5226,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="252"/>
-<div2 id="cunliffe092" type="poem" n="From America">
+<div2 id="cunliffe121" type="poem" n="From America">
 <head rend="center">FROM AMERICA</head>
 
 <lg type="stanza">
@@ -5190,7 +5251,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="253"/>
-<div2 id="cunliffe093" type="poem" n="The Trumpet">
+<div2 id="cunliffe122" type="poem" n="The Trumpet">
 <head rend="center">THE TRUMPET</head>
 
 <lg type="stanza">
@@ -5237,7 +5298,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="255"/>
-<div2 id="cunliffe094" type="poem" n="England's Dead">
+<div2 id="cunliffe123" type="poem" n="England's Dead">
 <head rend="center">ENGLAND'S DEAD</head>
 <epigraph rend="center">("Make them to be numbered with thy Saints: in glory everlasting.")</epigraph>
 
@@ -5375,11 +5436,13 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="259"/>
-<xptr doc="Clarke.xml" from="clarke171"/>
+<div2 id="cunliffe124" type="poem" n="Spring in War Time">
+<xptr doc="Clarke.xml" from="clarke175"/>
+</div2>
 
 
 <pb n="260"/>
-<div2 id="cunliffe095" type="poem" n="Said Attila the Hun to --">
+<div2 id="cunliffe125" type="poem" n="Said Attila the Hun to --">
 <head rend="center">SAID ATTILA THE HUN TO --</head>
 
 <lg type="stanza">
@@ -5427,7 +5490,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="262"/>
-<div2 id="cunliffe096" type="poem" n="The Unconquered Hope">
+<div2 id="cunliffe126" type="poem" n="The Unconquered Hope">
 <head rend="center">THE UNCONQUERED HOPE</head>
 <note>(A ship recently arrived in England from America, laden with toys, the gift of the American people, for the children both of the Allies and the Enemy.)</note>
 
@@ -5492,7 +5555,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="264"/>
-<div2 id="cunliffe097" type="poem" n="Sonnet">
+<div2 id="cunliffe127" type="poem" n="Sonnet">
 <head rend="center">SONNET</head>
 <note rend="center"><hi rend="italic">October 1st, 1914</hi></note>
 
@@ -5518,7 +5581,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="265"/>
-<div2 id="cunliffe098" type="poem" n="To My Country">
+<div2 id="cunliffe128" type="poem" n="To My Country">
 <head rend="center">TO MY COUNTRY</head>
 
 <lg type="stanza">
@@ -5543,7 +5606,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="266"/>
-<div2 id="cunliffe099" type="poem" n="Aftermath">
+<div2 id="cunliffe129" type="poem" n="Aftermath">
 <head rend="center">AFTERMATH</head>
 
 <lg type="stanza">
@@ -5571,7 +5634,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="267"/>
-<div2 id="cunliffe100" type="poem" n="A Girl's Song">
+<div2 id="cunliffe130" type="poem" n="A Girl's Song">
 <head rend="center">A GIRL'S SONG</head>
 
 <lg type="stanza">
@@ -5615,7 +5678,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="269"/>
-<div2 id="cunliffe101" type="poem" n="The Laughers">
+<div2 id="cunliffe131" type="poem" n="The Laughers">
 <head rend="center">THE LAUGHERS</head>
 
 <lg type="stanza">
@@ -5712,7 +5775,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="273"/>
-<div2 id="cunliffe102" type="poem" n="The American Volunteers">
+<div2 id="cunliffe132" type="poem" n="The American Volunteers">
 <head rend="center">THE AMERICAN VOLUNTEERS</head>
 
 <lg type="stanza">
@@ -5743,7 +5806,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="274"/>
-<div2 id="cunliffe103" type="poem" n="The Conscript">
+<div2 id="cunliffe133" type="poem" n="The Conscript">
 <head rend="center">THE CONSCRIPT</head>
 
 <lg type="stanza">
@@ -5796,7 +5859,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="276"/>
-<div2 id="cunliffe104" type="poem" n="In a Slum">
+<div2 id="cunliffe134" type="poem" n="In a Slum">
 <head rend="center">IN A SLUM</head>
 
 <lg type="stanza">
@@ -5846,7 +5909,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="278"/>
-<div2 id="cunliffe105" type="poem" n="England to Denmark">
+<div2 id="cunliffe135" type="poem" n="England to Denmark">
 <head rend="center">ENGLAND TO DENMARK</head>
 <head rend="center"><hi rend="italic">August, 1915</hi></head>
 
@@ -5872,7 +5935,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="279"/>
-<div2 id="cunliffe106" type="poem" n="Mother of Nations">
+<div2 id="cunliffe136" type="poem" n="Mother of Nations">
 <head rend="center">MOTHER OF NATIONS</head>
 <head rend="center">WHY?</head>
 
@@ -5924,7 +5987,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="281"/>
-<div2 id="cunliffe107" type="poem" n="Our Men">
+<div2 id="cunliffe137" type="poem" n="Our Men">
 <head rend="center">OUR MEN</head>
 
 <lg type="stanza">
@@ -5982,7 +6045,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="283"/>
-<div2 id="cunliffe108" type="poem" n="The Reapers">
+<div2 id="cunliffe138" type="poem" n="The Reapers">
 <head rend="center">THE REAPERS</head>
 
 <lg type="stanza">
@@ -6025,11 +6088,13 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="285"/>
-<xptr doc="Clarke.xml" from="clarke032"/>
+<div2 id="cunliffe139" type="poem" n="Belgium">
+<xptr doc="Clarke.xml" from="clarke036"/>
+</div2>
 
 
 <pb n="286"/>
-<div2 id="cunliffe109" type="poem" n="The Wakened God">
+<div2 id="cunliffe140" type="poem" n="The Wakened God">
 <head rend="center">THE WAKENED GOD</head>
 
 <lg type="stanza">
@@ -6085,7 +6150,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="288"/>
-<div2 id="cunliffe110" type="poem" n="From a Flemish Graveyard">
+<div2 id="cunliffe141" type="poem" n="From a Flemish Graveyard">
 <head rend="center">FROM A FLEMISH GRAVEYARD</head>
 <head rend="center">(January, 1915)</head>
 
@@ -6122,9 +6187,9 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="290"/>
-<div2 id="cunliffe111" type="poem" n="The First Battle of Ypres">
-<head rend="center">THE FIRST BATTLE OF YPRES<ref target="cunliffen110n1">1</ref></head>
-<note id="cunliffe110n1" place="foot" n="1">
+<div2 id="cunliffe142" type="poem" n="The First Battle of Ypres">
+<head rend="center">THE FIRST BATTLE OF YPRES<ref target="cunliffe142n1">1</ref></head>
+<note id="cunliffe142n1" place="foot" n="1">
 A<hi rend="smallcaps">uthor's</hi> N<hi rend="smallcaps">ote</hi>. -- In the first Battle of Ypres, which was fought in October-November, 1914, a thin line of British, supported on each wing by small bodies of French, stopped the push of an immense German army on Calais. The allusion in the latter part of the poem is not to "the angels of Mons," but to a story received from a very competent witness. On three occasions the Germans broke through our line, then paused and retired, for no apparent reason. On each of these occasions prisoners, when asked the cause of their retirement, replied: "We saw your enormous Reserves." We had no Reserves. This story was incidentally confirmed by the remark of another officer on the curious conduct of the Germans in violently shelling certain empty fields behind our lines.</note>
 
 <lg type="stanza">
@@ -6251,7 +6316,7 @@ A<hi rend="smallcaps">uthor's</hi> N<hi rend="smallcaps">ote</hi>. -- In the fir
 
 
 <pb n="296"/>
-<div2 id="cunliffe112" type="poem" n="Kitchener">
+<div2 id="cunliffe143" type="poem" n="Kitchener">
 <head rend="center">KITCHENER</head>
 
 <lg type="stanza">
@@ -6282,7 +6347,7 @@ A<hi rend="smallcaps">uthor's</hi> N<hi rend="smallcaps">ote</hi>. -- In the fir
 
 
 <pb n="297"/>
-<div2 id="cunliffe113" type="poem" n="Marching on Tanga">
+<div2 id="cunliffe144" type="poem" n="Marching on Tanga">
 <head rend="center">MARCHING ON TANGA</head>
 
 <lg type="stanza">

@@ -1,0 +1,265 @@
+
+<pb n="193"/>
+<div1 id="clarke129" type="Chapter" n="Keeping the Seas">
+<head rend="center">KEEPING THE SEAS</head>
+<pb n="194"/>
+
+<pb n="195"/>
+<div2 id="clarke130" type="poem" n="Kilmeny">
+<head rend="center">KILMENY</head>
+<head rend="center">(A S<hi rend="smallcaps">ong of the</hi> T<hi rend="smallcaps">rawlers</hi>)</head>
+
+<lg type="stanza">
+<l n="1">D<hi rend="smallcaps">ark</hi>, dark, lay the drifters, against the red west,</l>
+<l>As they shot their long meshes of steel overside;</l>
+<l>And the oily green waters were rocking to rest</l>
+<l>When <hi rend="italic">Kilmeny</hi> went out, at the turn of the tide.</l>
+<l>And nobody knew where that lassie would roam,</l>
+<l>For the magic that called her was tapping unseen.</l>
+<l>It was well nigh a week ere <hi rend="italic">Kilmeny</hi> came home,</l>
+<l>And nobody knew where <hi rend="italic">Kilmeny</hi> had been.</l></lg>
+
+<lg>
+<l>She'd a gun at her bow that was Newcastle's best,</l>
+<l>And a gun at her stern that was fresh from the Clyde,</l>
+<l>And a secret her skipper had never confessed,</l>
+<l>Not even at dawn, to his newly wed bride;</l>
+<l>And a wireless that whispered above like a gnome,</l>
+<l>The laughter of London, the boasts of Berlin.</l>
+<l>O, it may have been mermaids that lured her from home,</l>
+<l>But nobody knew where <hi rend="italic">Kilmeny</hi> had been.</l></lg>
+
+<lg>
+<l>It was dark when <hi rend="italic">Kilmeny</hi> came home from her quest,</l>
+<l>With her bridge dabbled red where her skipper had died;</l>
+<l>But she moved like a bride with a rose at her breast;</l>
+<l>And "Well done, <hi rend="italic">Kilmeny!</hi>" the admiral cried.</l>
+<pb n="196"/>
+<l>Now at sixty-four fathom a conger may come,</l>
+<l>And nose at the bones of a drowned submarine;</l>
+<l>But late in the evening <hi rend="italic">Kilmeny</hi> came home,</l>
+<l>And nobody knew where <hi rend="italic">Kilmeny</hi> had been.</l></lg>
+
+<lg>
+<l>There's a wandering shadow that stares at the foam,</l>
+<l>Though they sing all night to old England, their queen,</l>
+<l>Late, late in the evening <hi rend="italic">Kilmeny</hi> came home,</l>
+<l>And nobody knew where <hi rend="italic">Kilmeny</hi> had been.</l></lg>
+
+<lb/><byline>Alfred Noyes</byline>
+</div2>
+
+<div2 id="clarke131" type="poem" n="The Mine-Sweepers">
+<head rend="center">THE MINE-SWEEPERS</head>
+
+<lg type="stanza">
+<l n="1">D<hi rend="smallcaps">awn</hi> off the Foreland -- the young flood making</l>
+<l>Jumbled and short and steep --</l>
+<l>Black in the hollows and bright where it's breaking --</l>
+<l>Awkward water to sweep.</l>
+<l>"Mines reported in the fairway,</l>
+<l>Warn all traffic and detain.</l>
+<l>Sent up <hi rend="italic">Unity</hi>, <hi rend="italic">Claribel</hi>, <hi rend="italic">Assyrian</hi>, <hi rend="italic">Stormcock</hi>, and <hi rend="italic">Golden Gain</hi>."</l></lg>
+
+<lg>
+<l>Noon off the Foreland -- the first ebb making</l>
+<l>Lumpy and strong in the bight.</l>
+<l>Boom after boom, and the golf-hut shaking</l>
+<l>And the jackdaws wild with fright.</l>
+<l>"Mines located in the fairway,</l>
+<l>Boats now working up the chain,</l>
+<l>Sweepers -- <hi rend="italic">Unity</hi>, <hi rend="italic">Claribel</hi>, <hi rend="italic">Assyrian</hi>, <hi rend="italic">Stormcock</hi>, and <hi rend="italic">Golden Gain</hi>."</l></lg>
+
+<lg>
+<l>Dusk off the Foreland -- the last light going</l>
+<l>And the traffic crowding through,</l>
+<pb n="197"/>
+<l>And five damned trawlers with their syreens blowing</l>
+<l>Heading the whole review!</l>
+<l>"Sweep completed in the fairway,</l>
+<l>No more mines remain.</l>
+<l>Sent back <hi rend="italic">Unity</hi>, <hi rend="italic">Claribel</hi>, <hi rend="italic">Assyrian</hi>, <hi rend="italic">Stormcock</hi>, and <hi rend="italic">Golden Gain</hi>."</l></lg>
+
+<lb/><byline>Rudyard Kipling</byline>
+</div2>
+
+<div2 id="clarke132" type="poem" n="Mare Liberum">
+<head rend="center"><hi rend="italic">MARE LIBERUM</hi></head>
+
+<lg type="stanza">
+<l n="1">Y<hi rend="smallcaps">ou</hi> dare to say with perjured lips,</l>
+<l>"We fight to make the ocean free"?</l>
+<l><hi rend="italic">You</hi>, whose black trail of butchered ships</l>
+<l>Bestrews the bed of every sea</l>
+<l>Where German submarines have wrought</l>
+<l>Their horrors! Have you never thought, --</l>
+<l>What you call freedom, men call piracy!</l></lg>
+
+<lg>
+<l>Unnumbered ghosts that haunt the wave</l>
+<l>Where you have murdered, cry you down;</l>
+<l>And seamen whom you would not save,</l>
+<l>Weave now in weed-grown depths a crown</l>
+<l>Of shame for your imperious head, --</l>
+<l>A dark memorial of the dead, --</l>
+<l>Women and children whom you left to drown.</l></lg>
+
+<lg>
+<l>Nay, not till thieves are set to guard</l>
+<l>The gold, and corsairs called to keep</l>
+<l>O'er peaceful commerce watch and ward,</l>
+<l>And wolves to herd the helpless sheep,</l>
+<l>Shall men and women look to thee --</l>
+<l>Thou ruthless Old Man of the Sea --</l>
+<l>To safeguard law and freedom on the deep!</l></lg>
+
+<lg>
+<pb n="198"/>
+<l>In nobler breeds we put our trust:</l>
+<l>The nations in whose sacred lore</l>
+<l>The "Ought" stands out above the "Must,"</l>
+<l>And Honor rules in peace and war.</l>
+<l>With these we hold in soul and heart,</l>
+<l>With these we choose our lot and part,</l>
+<l>Till Liberty is safe on sea and shore.</l></lg>
+
+<lb/><byline>Henry van Dyke</byline>
+<dateline><date>February 11, 1917</date></dateline>
+</div2>
+
+<div2 id="clarke133" type="poem" n="The Dawn Patrol">
+<head rend="center">THE DAWN PATROL</head>
+
+<lg type="stanza">
+<l n="1">S<hi rend="smallcaps">ometimes</hi> I fly at dawn above the sea,</l>
+<l>Where, underneath, the restless waters flow --</l>
+<l>Silver, and cold, and slow,</l>
+<l>Dim in the east there burns a new-born sun,</l>
+<l>Whose rosy gleams along the ripples run,</l>
+<l>Save where the mist droops low,</l>
+<l>Hiding the level loneliness from me.</l></lg>
+
+<lg>
+<l>And now appears beneath the milk-white haze</l>
+<l>A little fleet of anchored ships, which lie</l>
+<l>In clustered company,</l>
+<l>And seem as they are yet fast bound by sleep,</l>
+<l>Although the day has long begun to peep,</l>
+<l>With red-inflam&egrave;d eye,</l>
+<l>Along the still, deserted ocean ways.</l></lg>
+
+<lg>
+<l>The fresh, cold wind of dawn blows on my face</l>
+<l>As in the sun's raw heart I swiftly fly,</l>
+<l>And watch the seas glide by.</l>
+<pb n="199"/>
+<l>Scarce human seem I, moving through the skies</l>
+<l>And far removed from warlike enterprise --</l>
+<l>Like some great gull on high</l>
+<l>Whose white and gleaming wings beat on through space.</l></lg>
+
+<lg>
+<l>Then do I feel with God quite, quite alone,</l>
+<l>High in the virgin morn, so white and still,</l>
+<l>And free from human ill:</l>
+<l>My prayers transcend my feeble earth-bound plaints --</l>
+<l>As though I sang among the happy Saints</l>
+<l>With many a holy thrill --</l>
+<l>As though the glowing sun were God's bright Throne.</l></lg>
+
+<lg>
+<l>My flight is done. I cross the line of foam</l>
+<l>That break around a town of grey and red,</l>
+<l>Whose streets and squares lie dead</l>
+<l>Beneath the silent dawn -- then am I proud</l>
+<l>That England's peace to guard I am allowed;</l>
+<l>Then bow my humble head,</l>
+<l>In thanks to Him Who brings me safely home.</l></lg>
+
+<lb/><byline>Paul Bewsher</byline>
+</div2>
+
+<div2 id="clarke134" type="poem" n="Destroyers Off Jutland">
+<head rend="center">DESTROYERS OFF JUTLAND</head>
+<head rend="center">["If lost hounds could speak when they cast up next day after an unchecked night among the wild life of the dark they would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>.]</head>
+
+<lg type="stanza">
+<l n="1">T<hi rend="smallcaps">hey</hi> had hot scent across the spumy sea,</l>
+<l><hi rend="italic">Gehenna</hi> and her sister, swift <hi rend="italic">Shaitan</hi>,</l>
+<l>That in the pack, with <hi rend="italic">Goblin</hi>, <hi rend="italic">Eblis</hi> ran</l>
+<l>And many a couple more, full cry, foot-free;</l>
+<pb n="200"/></l>
+<l>The dog-fox and his brood were fain to flee,</l>
+<l>But bare of fang and dangerous to the van</l>
+<l>That pressed them close. So when the kill began</l>
+<l>Some hounds were lamed and some died splendidly.</l></lg>
+
+<lg>
+<l>But from the dusk along the Skagerack,</l>
+<l>Until dawn loomed upon the Reef of Horn</l>
+<l>And the last fox had slunk back to his earth,</l>
+<l>They kept the great traditions of the pack,</l>
+<l>Staunch-hearted through the hunt, as they were born,</l>
+<l>These hounds that England suckled at the birth.</l></lg>
+
+<lb/><byline>Reginald McIntosh Cleveland</byline>
+</div2>
+
+<div2 id="clarke135" type="poem" n="British Merchant Service">
+<head rend="center">BRITISH MERCHANT SERVICE</head>
+
+<lg type="stanza">
+<l n="1">O<hi rend="smallcaps">h</hi>, down by Millwall Basin as I went the other day,</l>
+<l>I met a skipper that I knew, and to him I did say:</l>
+<l>"Now what's the cargo, Captain, that brings you up this way?"</l></lg>
+
+<lg>
+<l>"Oh, I've been up and down (said he) and round about also...</l>
+<l>From Sydney to the Skagerack, and Kiel to Callao...</l>
+<l>With a leaking steam-pipe all the way to Californ-i-o...</l></lg>
+
+<lg>
+<l>"With pots and pans and ivory fans and every kind of thing,</l>
+<l>Rails and nails and cotton bales, and sewer pipes and string...</l>
+<l>But now I'm through with cargoes, and I'm here to serve the King!</l></lg>
+
+<lg>
+<pb n="201"/>
+<l>"And if it's sweeping mines (to which my fancy somewhat leans)</l>
+<l>Or hanging out with booby-traps for the skulking submarines,</l>
+<l>I'm here to do my blooming best and give the beggars beans!</l></lg>
+
+<lg>
+<l>"A rough job and a tough job is the best job for me,</l>
+<l>And what or where I don't much care, I'll take what it may be,</l>
+<l>For a tight place is the right place when it's foul weather at sea!"</l></lg>
+
+<lg>
+<l>. . . . . . . . . . .</l></lg>
+
+<lg>
+<l>There's not a port he does n't know from Melbourne to New York;</l>
+<l>He's as hard as a lump of harness beef, and as salt as pickled pork...</l>
+<l>And he'll stand by a wreck in a murdering gale and count it part of his work!</l></lg>
+
+<lg>
+<l>He's the terror of the fo'c's'le when he heals its various ills</l>
+<l>With turpentine and mustard leaves, and poultices and pills...</l>
+<l>But he knows the sea like the palm of his hand, as a shepherd knows the hills.</l></lg>
+
+<lg>
+<l>He'll spin you yarns from dawn to dark -- and half of 'em are true!</l>
+<l>He swears in a score of languages, and maybe talks in two!</l>
+<l>And... he'll lower a boat in a hurricane to save a drowning crew.</l></lg>
+
+<lg>
+<pb n="202"/>
+<l>A rough job or a tough job -- he's handled two or three --</l>
+<l>And what or where he won't much care, nor ask what the risk may be ...</l>
+<l>For a tight place is the right place when it's wild weather at sea!</l></lg>
+
+<lb/><byline>C. Fox Smith</byline>
+</div2>
+
+</div1>
+</text>

@@ -1,0 +1,1314 @@
+
+<pb n="149"/>
+<div1 id="clarke092" type="Chapter" n="Poets Militant">
+<head rend="center">POETS MILITANT</head>
+<head rend="center">(The authors of the poems included in this section are or were on active service.)</head>
+<pb n="150"/>
+
+<pb n="151"/>
+<div2 id="clarke093" type="poem" n="I Have a Rendezvous With Death">
+<head rend="center">I HAVE A RENDEZVOUS WITH DEATH...</head>
+
+<lg type="stanza">
+<l n="1">I <hi rend="smallcaps">have</hi> a rendezvous with Death</l>
+<l>At some disputed barricade,</l>
+<l>When Spring comes back with rustling shade</l>
+<l>And apple-blossoms fill the air --</l>
+<l>I have a rendezvous with Death</l>
+<l>When Spring brings back blue days and fair.</l></lg>
+
+<lg>
+<l>It may be he shall take my hand</l>
+<l>And lead me into his dark land</l>
+<l>And close my eyes and quench my breath --</l>
+<l>It may be I shall pass him still.</l>
+<l>I have a rendezvous with Death</l>
+<l>On some scarred slope of battered hill,</l>
+<l>When Spring comes round again this year</l>
+<l>And the first meadow-flowers appear.</l></lg>
+
+<lg>
+<l>God knows 't were better to be deep</l>
+<l>Pillowed in silk and scented down,</l>
+<l>Where love throbs out in blissful sleep,</l>
+<l>Pulse nigh to pulse, and breath to breath,</l>
+<l>Where hushed awakenings are dear...</l>
+<l>But I've a rendezvous with Death</l>
+<l>At midnight in some flaming town,</l>
+<l>When Spring trips north again this year,</l>
+<l>And I to my pledged word am true,</l>
+<l>I shall not fail that rendezvous.</l></lg>
+
+<lb/><byline>Alan Seeger</byline>
+</div2>
+
+<pb n="152"/>
+<div2 id="clarke094" type="poem" n="The Soldier">
+<head rend="center">THE SOLDIER</head>
+
+<lg type="stanza">
+<l n="1">I<hi rend="smallcaps">f</hi> I should die, think only this of me:</l>
+<l>That there's some corner of a foreign field</l>
+<l>That is for ever England. There shall be</l>
+<l>In that rich earth a richer dust concealed;</l>
+<l>A dust whom England bore, shaped, made aware,</l>
+<l>Gave once her flowers to love, her ways to roam,</l>
+<l>A body of England's, breathing English air,</l>
+<l>Washed by the rivers, blest by suns of home.</l></lg>
+
+<lg>
+<l>And think this heart, all evil shed away,</l>
+<l>A pulse in the eternal mind, no less</l>
+<l>Gives somewhere back the thoughts by England given;</l>
+<l>Her sights and sounds; dreams happy as her day;</l>
+<l>And laughter, learnt of friends; and gentleness,</l>
+<l>In hearts at peace, under an English heaven.</l></lg>
+
+<lb/><byline>Rupert Brooke</byline>
+</div2>
+
+<div2 id="clarke095" type="poem" n="Expectans Expectavi">
+<head rend="center"><hi rend="italic">EXPECTANS EXPECTAVI</hi></head>
+
+<lg type="stanza">
+<l n="1">F<hi rend="smallcaps">rom</hi> morn to midnight, all day through,</l>
+<l>I laugh and play as others do,</l>
+<l>I sin and chatter, just the same</l>
+<l>As others with a different name.</l></lg>
+
+<lg>
+<l>And all year long upon the stage,</l>
+<l>I dance and tumble and do rage</l>
+<l>So vehemently, I scarcely see</l>
+<l>The inner and eternal me.</l></lg>
+
+<lg>
+<l>I have a temple I do not</l>
+<l>Visit, a heart I have forgot,</l>
+<pb n="153"/>
+<l>A self that I have never met,</l>
+<l>A secret shrine -- and yet, and yet</l></lg>
+
+<lg>
+<l>This sanctuary of my soul</l>
+<l>Unwitting I keep white and whole,</l>
+<l>Unlatched and lit, if Thou should'st care</l>
+<l>To enter or to tarry there.</l></lg>
+
+<lg>
+<l>With parted lips and outstretched hands</l>
+<l>And listening ears Thy servant stands,</l>
+<l>Call Thou early, call Thou late,</l>
+<l>To Thy great service dedicate.</l></lg>
+
+<lb/><byline>Charles Hamilton Sorley</byline>
+<dateline><date>May, 1915</date></dateline>
+</div2>
+
+<div2 id="clarke096" type="poem" n="The Volunteer">
+<head rend="center">THE VOLUNTEER</head>
+
+<lg type="stanza">
+<l n="1">H<hi rend="smallcaps">ere</hi> lies a clerk who half his life had spent</l>
+<l>Toiling at ledgers in a city grey,</l>
+<l>Thinking that so his days would drift away</l>
+<l>With no lance broken in life's tournament:</l>
+<l>Yet ever 'twixt the books and his bright eyes</l>
+<l>The gleaming eagles of the legions came,</l>
+<l>And horsemen, charging under phantom skies,</l>
+<l>Went thundering past beneath the oriflamme.</l></lg>
+
+<lg>
+<l>And now those waiting dreams are satisfied;</l>
+<l>From twilight to the halls of dawn he went;</l>
+<l>His lance is broken; but he lies content</l>
+<l>With that high hour, in which he lived and died.</l>
+<l>And falling thus he wants no recompense,</l>
+<l>Who found his battle in the last resort;</l>
+<l>Nor needs he any hearse to bear him hence,</l>
+<l>Who goes to join the men of Agincourt.</l></lg>
+
+<lb/><byline>Herbert Asquith</byline>
+</div2>
+
+<pb n="154"/>
+<div2 id="clarke097" type="poem" n="Into Battle">
+<head rend="center">INTO BATTLE</head>
+
+<lg type="stanza">
+<l n="1">T<hi rend="smallcaps">he</hi> naked earth is warm with Spring,</l>
+<l>And with green grass and bursting trees</l>
+<l>Leans to the sun's gaze glorying,</l>
+<l>And quivers in the sunny breeze;</l>
+<l>And Life is Colour and Warmth and Light,</l>
+<l>And a striving evermore for these;</l>
+<l>And he is dead who will not fight;</l>
+<l>And who dies fighting has increase.</l></lg>
+
+<lg>
+<l>The fighting man shall from the sun</l>
+<l>Take warmth, and life from the glowing earth;</l>
+<l>Speed with the light-foot winds to run,</l>
+<l>And with the trees to newer birth;</l>
+<l>And find, when fighting shall be done,</l>
+<l>Great rest, and fullness after dearth.</l></lg>
+
+<lg>
+<l>All the bright company of Heaven</l>
+<l>Hold him in their high comradeship,</l>
+<l>The Dog-Star, and the Sisters Seven,</l>
+<l>Orion's Belt and sworded hip.</l></lg>
+
+<lg>
+<l>The woodland trees that stand together,</l>
+<l>They stand to him each one a friend;</l>
+<l>They gently speak in the windy weather;</l>
+<l>They guide to valley and ridges' end.</l></lg>
+
+<lg>
+<l>The kestrel hovering by day,</l>
+<l>And the little owls that call by night,</l>
+<l>Bid him be swift and keen as they,</l>
+<l>As keen of ear, as swift of sight.</l></lg>
+
+<lg>
+<pb n="155"/>
+<l>The blackbird sings to him, "Brother, brother,</l>
+<l>If this be the last song you shall sing,</l>
+<l>Sing well, for you may not sing another;</l>
+<l>Brother, sing."</l></lg>
+
+<lg>
+<l>In dreary, doubtful, waiting hours,</l>
+<l>Before the brazen frenzy starts,</l>
+<l>The horses show him nobler powers;</l>
+<l>O patient eyes, courageous hearts!</l></lg>
+
+<lg>
+<l>And when the burning moment breaks,</l>
+<l>And all things else are out of mind,</l>
+<l>And only Joy-Of-Battle takes</l>
+<l>Him by the throat, and makes him blind,</l></lg>
+
+<lg>
+<l>Through joy and blindness he shall know,</l>
+<l>Not caring much to know, that still</l>
+<l>Nor lead nor steel shall reach him, so</l>
+<l>That it be not the Destined Will.</l></lg>
+
+<lg>
+<l>The thundering line of battle stands,</l>
+<l>And in the air Death moans and sings:</l>
+<l>But Day shall clasp him with strong hands,</l>
+<l>And Night shall fold him in soft wings.</l></lg>
+
+<lb/><byline>Julian Grenfell</byline>
+<dateline><name type="place">Flanders,</name>
+<date>April, 1915</date></dateline>
+</div2>
+
+<div2 id="clarke098" type="poem" n="The Cricketers of Flanders">
+<head rend="center">THE CRICKETERS OF FLANDERS</head>
+
+<lg type="stanza">
+<l n="1">T<hi rend="smallcaps">he</hi> first to climb the parapet</l>
+<l>With cricket balls" in either hand;</l>
+<l>The first to vanish in the smoke</l>
+<l>Of God-forsaken No Man's Land;</l>
+<pb n="156"/>
+<l>First at the wire and soonest through,</l>
+<l>First at those red-mouthed hounds of hell,</l>
+<l>The Maxims, and the first to fall, --</l>
+<l>They do their bit and do it well.</l></lg>
+
+<lg>
+<l>Full sixty yards I've seen them throw</l>
+<l>With all that nicety of aim</l>
+<l>They learned on British cricket-fields.</l>
+<l>Ah, bombing is a Briton's game!</l>
+<l>Shell-hole to shell-hole, trench to trench,</l>
+<l>"Lobbing them over" with an eye</l>
+<l>As true as though it <hi rend="italic">were</hi> a game</l>
+<l>And friends were having tea close by.</l></lg>
+
+<lg>
+<l>Pull down some art-offending thing</l>
+<l>Of carven stone, and in its stead</l>
+<l>Let splendid bronze commemorate</l>
+<l>These men, the living and the dead.</l>
+<l>No figure of heroic size,</l>
+<l>Towering skyward like a god;</l>
+<l>But just a lad who might have stepped</l>
+<l>From any British bombing squad.</l></lg>
+
+<lg>
+<l>His shrapnel helmet set atilt,</l>
+<l>His bombing waistcoat sagging low,</l>
+<l>His rifle slung across his back:</l>
+<l>Poised in the very act to throw.</l>
+<l>And let some graven legend tell</l>
+<l>Of those weird battles in the West</l>
+<l>Wherein he put old skill to use,</l>
+<l>And played old games with sterner zest.</l></lg>
+
+<lg>
+<l>Thus should he stand, reminding those</l>
+<l>In less-believing days, perchance,</l>
+<pb n="157"/>
+<l>How Britain's fighting cricketers</l>
+<l>Helped bomb the Germans out of France.</l>
+<l>And other eyes than ours would see;</l>
+<l>And other hearts than ours would thrill;</l>
+<l>And others say, as we have said:</l>
+<l>"A sportsman and a soldier still!"</l></lg>
+
+<lb/><byline>James Norman Hall</byline>
+</div2>
+
+<div2 id="clarke099" type="poem" n="All the Hills and Vales Along">
+<head rend="center">"ALL THE HILLS AND VALES ALONG"</head>
+
+<lg type="stanza">
+<l n="1">A<hi rend="smallcaps">ll</hi> the hills and vales along</l>
+<l>Earth is  bursting into song,</l>
+<l>And the singers are the chaps</l>
+<l>Who are going to die perhaps.</l>
+<l>O sing, marching men,</l>
+<l>Till the valleys ring again,</l>
+<l>Give your gladness to earth's keeping,</l>
+<l>So be glad, when you are sleeping.</l></lg>
+
+<lg>
+<l>Cast away regret and rue,</l>
+<l>Think what you are marching to.</l>
+<l>Little live, great pass.</l>
+<l>Jesus Christ and Barabbas</l>
+<l>Were found the same day.</l>
+<l>This died, that went his way.</l>
+<l>So sing with joyful breath,</l>
+<l>For why, you are gong to death.</l>
+<l>Teeming earth will surely store</l>
+<l>All the gladness that you pour.</l></lg>
+
+<lg>
+<l>Earth that never doubts nor fears,</l>
+<l>Earth that knows of death, not tears,</l>
+<pb n="158"/>
+<l>Earth that bore with joyful ease</l>
+<l>Hemlock for Socrates,</l>
+<l>Earth that blossomed and was glad</l>
+<l>'Neath the cross that Christ had,</l>
+<l>Shall rejoice and blossom too</l>
+<l>When the bullet reaches you.</l>
+<l>Wherefore, men marching</l>
+<l>On the road to death, sing!</l>
+<l>Pour gladness on earth's head,</l>
+<l>So be merry, so be dead.</l></lg>
+
+<lg>
+<l>From the hills and valleys earth</l>
+<l>Shouts back the sound of mirth,</l>
+<l>Tramp of feet and lilt of song</l>
+<l>Ringing all the road along.</l>
+<l>All the music of their going,</l>
+<l>Ringing swinging glad song-throwing,</l>
+<l>Earth will echo still, when foot</l>
+<l>Lies numb and voice mute.</l>
+<l>On, marching men, on</l>
+<l>To the gates of death with song.</l>
+<l>Sow your gladness for earth's reaping,</l>
+<l>So you may be glad though sleeping.</l>
+<l>Strew your gladness on earth's bed,</l>
+<l>So be merry, so be dead.</l></lg>
+
+<lb/><byline>Charles Hamilton Sorley</byline>
+</div2>
+
+<div2 id="clarke100" type="poem" n="No Man's Land">
+<head rend="center">NO MAN'S LAND</head>
+
+<lg type="stanza">
+<l n="1">N<hi rend="smallcaps">o</hi> Man's Land is an eerie sight</l>
+<l>At early dawn in the pale gray light.</l>
+<l>Never a house and never a hedge</l>
+<l>In No Man's Land from edge to edge,</l>
+<pb n="159"/>
+<l>And never a living soul walks there</l>
+<l>To taste the fresh of the morning air; --</l>
+<l>Only some lumps of rotting clay,</l>
+<l>That were friends or foemen yesterday.</l></lg>
+
+<lg>
+<l>What are the bounds of No Man's Land?</l>
+<l>You can see them clearly on either hand,</l>
+<l>A mound of rag-bags gray in the sun,</l>
+<l>Or a furrow of brown where the earthworks run</l>
+<l>From the eastern hills to the western sea,</l>
+<l>Through field or forest o'er river and lea;</l>
+<l>No man may pass them, but aim you well</l>
+<l>And Death rides across on the bullet or shell.</l></lg>
+
+<lg>
+<l>But No Man's Land is a goblin sight</l>
+<l>When patrols crawl over at dead o' night;</l>
+<l><hi rend="italic">Boche</hi> or British, Belgian or French,</l>
+<l>You dice with death when you cross the trench.</l>
+<l>When the "rapid," like fireflies in the dark,</l>
+<l>Flits down the parapet spark by spark,</l>
+<l>And you drop for cover to keep your head</l>
+<l>With your face on the breast of the four months' dead.</l></lg>
+
+<lg>
+<l>The man who ranges in No Man's Land</l>
+<l>Is dogged by the shadows on either hand</l>
+<l>When the star-shell's flare, as it bursts o'erhead,</l>
+<l>Scares the gray rats that feed on the dead,</l>
+<l>And the bursting bomb or the bayonet-snatch</l>
+<l>May answer the click of your safety-catch,</l>
+<l>For the lone patrol, with his life in his hand,</l>
+<l>Is hunting for blood in No Man's Land.</l></lg>
+
+<lb/><byline>James H. Knight-Adkin</byline>
+</div2>
+
+<pb n="160"/>
+<div2 id="clarke101" type="poem" n="Champagne, 1914-15">
+<head rend="center">CHAMPAGNE, 1914-15</head>
+
+<lg type="stanza">
+<l n="1">I<hi rend="smallcaps">n</hi> the glad revels, in the happy f&ecirc;tes,</l>
+<l>When cheeks are flushed, and glasses gilt and pearled</l>
+<l>With the sweet wine of France that concentrates</l>
+<l>The sunshine and the beauty of the world,</l></lg>
+
+<lg>
+<l>Drink sometimes, you whose footsteps yet may tread</l>
+<l>The undisturbed, delightful paths of Earth,</l>
+<l>To those whose blood, in pious duty shed,</l>
+<l>Hallows the soil where that same wine had birth.</l></lg>
+
+<lg>
+<l>Here, by devoted comrades laid away,</l>
+<l>Along our lines they slumber where they fell,</l>
+<l>Beside the crater at the Ferme d'Alger</l>
+<l>And up the bloody slopes of La Pompelle,</l></lg>
+
+<lg>
+<l>And round the city whose cathedral towers</l>
+<l>The enemies of Beauty dared profane,</l>
+<l>And in the mat of multicolored flowers</l>
+<l>That clothe the sunny chalk-fields of Champagne.</l></lg>
+
+<lg>
+<l>Under the little crosses where they rise</l>
+<l>The soldier rests. Now round him undismayed</l>
+<l>The cannon thunders, and at night he lies</l>
+<l>At peace beneath the eternal fusillade...</l></lg>
+
+<lg>
+<l>That other generations might possess --</l>
+<l>From shame and menace free in years to come --</l>
+<l>A richer heritage of happiness,</l>
+<l>He marched to that heroic martyrdom.</l></lg>
+
+<lg>
+<l>Esteeming less the forfeit that he paid</l>
+<l>Than undishonored that his flag might float</l>
+<pb n="161"/>
+<l>Over the towers of liberty, he made</l>
+<l>His breast the bulwark and his blood the moat.</l></lg>
+
+<lg>
+<l>Obscurely sacrificed, his nameless tomb,</l>
+<l>Bare of the sculptor's art, the poet's lines,</l>
+<l>Summer shall flush with poppy-fields in bloom,</l>
+<l>And Autumn yellow with maturing vines.</l></lg>
+
+<lg>
+<l>There the grape-pickers at their harvesting</l>
+<l>Shall lightly tread and load their wicker trays,</l>
+<l>Blessing his memory as they toil and sing</l>
+<l>In the slant sunshine of October days...</l></lg>
+
+<lg>
+<l>I love to think that if my blood should be</l>
+<l>So privileged to sink where his has sunk,</l>
+<l>I shall not pass from Earth entirely,</l>
+<l>But when the banquet rings, when healths are drunk,</l></lg>
+
+<lg>
+<l>And faces that the joys of living fill</l>
+<l>Glow radiant with laughter and good cheer,</l>
+<l>In beaming cups some spark of me shall still</l>
+<l>Brim toward the lips that once I held so dear.</l></lg>
+
+<lg>
+<l>So shall one coveting no higher plane</l>
+<l>Than nature clothes in color and flesh and tone,</l>
+<l>Even from the grave put upward to attain</l>
+<l>The dreams youth cherished and missed and might have known;</l></lg>
+
+<lg>
+<l>And that strong need that strove unsatisfied</l>
+<l>Toward earthly beauty in all forms it wore,</l>
+<l>Not death itself shall utterly divide</l>
+<l>From the belov&egrave;d shapes it thirsted for.</l></lg>
+
+<lg>
+<pb n="162"/>
+<l>Alas, how many an adept for whose arms</l>
+<l>Life held delicious offerings perished here,</l>
+<l>How many in the prime of all that charms,</l>
+<l>Crowned with all gifts that conquer and endear!</l></lg>
+
+<lg>
+<l>Honor them not so much with tears and flowers,</l>
+<l>But you with whom the sweet fulfilment lies,</l>
+<l>Where in the anguish of atrocious hours</l>
+<l>Turned their last thoughts and closed their dying eyes,</l></lg>
+
+<lg>
+<l>Rather when music on bright gatherings lays</l>
+<l>Its tender spell, and joy is uppermost,</l>
+<l>Be mindful of the men they were, and raise</l>
+<l>Your glasses to them in one silent toast.</l></lg>
+
+<lg>
+<l>Drink to them -- - amorous of dear Earth as well,</l>
+<l>They asked no tribute lovelier than this -- -</l>
+<l>And in the wine that ripened where they fell,</l>
+<l>Oh, frame your lips as though it were a kiss.</l></lg>
+
+<lb/><byline>Alan Seeger</byline>
+<dateline><name type="place">Champagne, France</name>
+<date>July, 1915</date></dateline>
+</div2>
+
+<div2 id="clarke102" type="poem" n="Headquarters">
+<head rend="center">HEADQUARTERS</head>
+
+<lg type="stanza">
+<l n="1">A <hi rend="smallcaps">league</hi> and a league from the trenches -- from the traversed maze of the lines,</l>
+<l>Where daylong the sniper watches and daylong the bullet whines,</l>
+<l>And the cratered earth is in travail with mines and with countermines --</l></lg>
+
+<lg>
+<pb n="163"/>
+<l>Here, where haply some woman dreamed (are those her roses that bloom</l>
+<l>In the garden beyond the windows of my littered working room?)</l>
+<l>We have decked the map for our masters as a bride is decked for the groom.</l></lg>
+
+<lg>
+<l>Fair, on each lettered numbered square -- crossroad and mound and wire,</l>
+<l>Loophole, redoubt, and emplacement -- lie the targets their mouths desire;</l>
+<l>Gay with purples and browns and  blues, have we traced them their arcs of fire.</l></lg>
+
+<lg>
+<l>And ever the type-keys chatter; and ever our keen wires bring</l>
+<l>Word from the watchers a-crouch below, word from the watchers a-wing:</l>
+<l>And ever we hear the distant growl of our hid guns thundering.</l></lg>
+
+<lg>
+<l>Hear it hardly, and turn again to our maps, where the trench lines crawl,</l>
+<l>Red on the gray and each with a sign for the ranging shrapnel's fall --</l>
+<l>Snakes that our masters shall scotch at down, as is written here on the wall.</l></lg>
+
+<lg>
+<l>For the weeks of our waiting draw to a close. ... There is scarcely a leaf astir</l>
+<l>In the garden beyond my windows, where the twilight shadows blur</l>
+<l>The blaze of some woman's roses. ... "Bombardment orders, sir."</l></lg>
+
+<lb/><byline>Gilbert Frankau</byline>
+</div2>
+
+<pb n="164"/>
+<div2 id="clarke103" type="poem" n="Home Thoughts From Laventie">
+<head rend="center">HOME THOUGHTS FROM LAVENTIE</head>
+
+<lg type="stanza">
+<l n="1">G<hi rend="smallcaps">reen</hi> gardens in Laventie!</l>
+<l>Soldiers only know the street</l>
+<l>Where the mud is churned and splashed about</l>
+<l>By battle-wending feet;</l>
+<l>And yet beside one stricken house there is a glimpse of grass --</l>
+<l>Look for it when you pass.</l></lg>
+
+<lg>
+<l>Beyond the church whose pitted spire</l>
+<l>Seems balanced on a strand</l>
+<l>Of swaying stone and tottering brick,</l>
+<l>Two roofless ruins stand;</l>
+<l>And here, among the wreckage, where the back-wall should have been,</l>
+<l>We found a garden green.</l></lg>
+
+<lg>
+<l>The grass was never trodden on,</l>
+<l>The little path of gravel</l>
+<l>Was overgrown with celandine;</l>
+<l>No other folk did travel</l>
+<l>Along its weedy surface but the nimble-footed mouse,</l>
+<l>Running from house to house.</l></lg>
+
+<lg>
+<l>So all along the tender blades</l>
+<l>Of soft and vivid grass</l>
+<l>We lay, nor heard the limber wheels</l>
+<l>That pass and ever pass</l>
+<l>In noisy continuity until their stony rattle</l>
+<l>Seems in itself a battle.</l></lg>
+
+<pb n="165"/>
+<lg>
+<l>At length we rose up from this ease</l>
+<l>Of tranquil happy mind,</l>
+<l>And searched the garden's little length</l>
+<l>Some new pleasaunce to find;</l>
+<l>And there some yellow daffodils, and jasmine hanging high,</l>
+<l>Did rest the tired eye.</l></lg>
+
+<lg>
+<l>The fairest and most fragrant</l>
+<l>Of the many sweets we found</l>
+<l>Was a little bush of Daphne flower</l>
+<l>Upon a mossy mound,</l>
+<l>And so thick were the blossoms set and so divine the scent,</l>
+<l>That we were well content.</l></lg>
+
+<lg>
+<l>Hungry for Spring I bent my head,</l>
+<l>The perfume fanned my face,</l>
+<l>And all my soul was dancing</l>
+<l>In that lovely little place,</l>
+<l>Dancing with a measured step from wrecked and shattered towns</l>
+<l>Away... upon the Downs.</l></lg>
+
+<lg>
+<l>I saw green banks of daffodil,</l>
+<l>Slim poplars in the breeze,</l>
+<l>Great tan-brown hares in gusty March</l>
+<l>A-courting on the leas.</l>
+<l>And meadows, with their glittering streams -- and silver-scurrying dace --</l>
+<l>Home, what a perfect place!</l></lg>
+
+<lb/><byline>E. Wyndham Tennant</byline>
+</div2>
+
+<pb n="166"/>
+<div2 id="clarke104" type="poem" n="A Petition">
+<head rend="center">A PETITION</head>
+
+<lg type="stanza">
+<l n="1">A<hi rend="smallcaps">ll</hi> that a man might ask thou hast given me, England,</l>
+<l>Birthright and happy childhood's long heart's-ease,</l>
+<l>And love whose range is deep beyond all sounding</l>
+<l>And wider than all seas:</l>
+<l>A heart to front the world and find God in it,</l>
+<l>Eyes blind enow but not too blind to see</l>
+<l>The lovely things behind the dross and darkness,</l>
+<l>And lovelier things to be;</l>
+<l>And friends whose loyalty time nor death shall weaken</l>
+<l>And quenchless hope and laughter's golden store --</l>
+<l>All that a man might ask thou has given me, England,</l>
+<l>Yet grant thou one thing more:</l>
+<l>That now when envious foes would spoil thy splendour,</l>
+<l>Universed in arms, a dreamer such as I,</l>
+<l>May in thy ranks be deemed not unworthy,</l>
+<l>England, for thee to die.</l></lg>
+
+<lb/><byline>Robert Ernest Vern&egrave;de</byline>
+</div2>
+
+<div2 id="clarke105" type="poem" n="Fulfilment">
+<head rend="center">FULFILMENT</head>
+
+<lg type="stanza">
+<l n="1">W<hi rend="smallcaps">as</hi> there love once? I have forgotten her.</l>
+<l>Was there grief once? Grief yet is mine.</l>
+<l>Other loves I have, men rough, but men who stir</l>
+<l>More grief, more joy, than love of thee and thine.</l></lg>
+
+<lg>
+<l>Faces cheerful, full of whimsical mirth,</l>
+<l>Lined by the wind, burned by the sun;</l>
+<l>Bodies enraptured by the abounding earth,</l>
+<l>As whose children we are brethren: one.</l></lg>
+
+<lg>
+<pb n="167"/>
+<l>And any moment may descend hot death</l>
+<l>To shatter limbs! Pulp, tear, blast</l>
+<l>Belov&egrave;d soldiers who love rough life and breath</l>
+<l>Not less for dying faithful to the last.</l></lg>
+
+<lg>
+<l>O the fading eyes, the grimed face turned bony,</l>
+<l>Oped mouth gushing, fallen head,</l>
+<l>Lessening pressure of a hand, shrunk, clammed and stony!</l>
+<l>O sudden spasm, release of the dead!</l></lg>
+
+<lg>
+<l>Was there love once? I have forgotten her.</l>
+<l>Was there grief once? Grief yet is mine.</l>
+<l>O loved, living, dying, heroic soldier,</l>
+<l>All, all my joy, my grief, my love, are thine.</l></lg>
+
+<lb/><byline>Robert Nichols</byline>
+</div2>
+
+<div2 id="clarke106" type="poem" n="The Day's March">
+<head rend="center">THE DAY'S MARCH</head>
+
+<lg type="stanza">
+<l n="1">T<hi rend="smallcaps">he</hi> battery grides and jingles,</l>
+<l>Mile succeeds to mile;</l>
+<l>Shaking the noonday sunshine</l>
+<l>The guns lunge out awhile,</l>
+<l>And then are still awhile.</l></lg>
+
+<lg>
+<l>We amble along the highway;</l>
+<l>The reeking, powdery dust</l>
+<l>Ascends and cakes our faces</l>
+<l>With a striped, sweaty crust.</l></lg>
+
+<lg>
+<l>Under the still sky's violet</l>
+<l>The heat throbs on the air...</l>
+<l>The white road's dusty radiance</l>
+<l>Assumes a dark glare.</l></lg>
+
+<lg>
+<pb n="168"/>
+<l>With a head hot and heavy,</l>
+<l>And eyes that cannot rest,</l>
+<l>And a black heart burning</l>
+<l>In a stifled breast,</l></lg>
+
+<lg>
+<l>I sit in the saddle,</l>
+<l>I feel the road unroll,</l>
+<l>And keep my senses straightened</l>
+<l>Toward to-morrow's goal.</l></lg>
+
+<lg>
+<l>There, over unknown meadows</l>
+<l>Which we must reach at last,</l>
+<l>Day and night thunders</l>
+<l>A black and chilly blast.</l></lg>
+
+<lg>
+<l>Heads forget heaviness,</l>
+<l>Hearts forget spleen,</l>
+<l>For by that mighty winnowing</l>
+<l>Being is blown clean.</l></lg>
+
+<lg>
+<l>Light in the eyes again,</l>
+<l>Strength in the hand,</l>
+<l>A spirit dares, dies, forgives,</l>
+<l>And can understand!</l></lg>
+
+<lg>
+<l>And, best! Love comes back again</l>
+<l>After grief and shame,</l>
+<l>And along the wind of death</l>
+<l>Throws a clean flame.</l></lg>
+
+<lg>
+<l>. . . . . . .</l></lg>
+
+<lg>
+<l>The battery grides and jingles,</l>
+<l>Mile succeeds to mile;</l>
+<pb n="169"/>
+<l>Suddenly battering the silence</l>
+<l>The guns burst out awhile...</l></lg>
+
+<lg>
+<l>I lift my head and smile.</l></lg>
+
+<lb/><byline>Robert Nichols</byline>
+</div2>
+
+<div2 id="clarke107" type="poem" n="the Sign">
+<head rend="center">THE SIGN</head>
+
+<lg type="stanza">
+<l n="1">W<hi rend="smallcaps">e</hi> are here in a wood of little beeches:</l>
+<l>And the leaves are like black lace</l>
+<l>Against a sky of nacre.</l></lg>
+
+<lg>
+<l>One bough of clear promise</l>
+<l>Across the moon.</l></lg>
+
+<lg>
+<l>It is in this wise that God speaketh unto me.</l>
+<l>He layeth hands of healing upon my flesh,</l>
+<l>Stilling it in an eternal peace,</l>
+<l>Until my soul reaches out myriad and infinite hands</l>
+<l>Towards him,</l>
+<l>And is eased of its hunger.</l></lg>
+
+<lg>
+<l>And I know that this passes:</l>
+<l>This implacable fury and torment of men,</l>
+<l>As a thing insensate and vain:</l>
+<l>And the stillness hath said unto me,</l>
+<l>Over the tumult of sounds and shaken flame,</l>
+<l>Out of the terrible beauty of wrath,</l>
+<l rend="italic">I alone am eternal.</l></lg>
+
+<lg>
+<l>One bough of clear promise</l>
+<l>Across the moon.</l></lg>
+
+<lb/><byline>Frederic Manning</byline>
+</div2>
+
+<pb n="170"/>
+<div2 id="clarke108" type="poem" n="The Trenches">
+<head rend="center">THE TRENCHES</head>
+
+<lg type="stanza">
+<l n="1">E<hi rend="smallcaps">ndless</hi> lanes sunken in the clay,</l>
+<l>Bays, and traverses, fringed with wasted herbage,</l>
+<l>Seed-pods of blue scabious, and some lingering blooms;</l>
+<l>And the sky, seen as from a well,</l>
+<l>Brilliant with frosty stars.</l>
+<l>We stumble, cursing, on the slippery duck-boards.</l>
+<l>Goaded like the damned by some invisible wrath,</l>
+<l>A will stronger than weariness, stronger than animal fear,</l>
+<l>Implacable and monotonous.</l></lg>
+
+<lg>
+<l>Here a shaft, slanting, and below</l>
+<l>A dusty and flickering light from one feeble candle</l>
+<l>And prone figures sleeping uneasily,</l>
+<l>Murmuring,</l>
+<l>And men who cannot sleep,</l>
+<l>With faces impassive as masks,</l>
+<l>Bright, feverish eyes, and drawn lips,</l>
+<l>Sad, pitiless, terrible faces,</l>
+<l>Each an incarnate curse.</l></lg>
+
+<lg>
+<l>Here in a bay, a helmeted sentry</l>
+<l>Silent and motionless, watching while two sleep,</l>
+<l>And he sees before him</l>
+<l>With indifferent eyes the blasted and torn land</l>
+<l>Peopled with stiff prone forms, stupidly rigid,</l>
+<l>As tho' they had not been men.</l></lg>
+
+<lg>
+<l>Dead are the lips where love laughed or sang,</l>
+<l>The hands of youth eager to lay hold of life,</l>
+<l>Eyes that have laughed to eyes,</l>
+<pb n="171"/>
+<l>And these were begotten,</l>
+<l>O Love, and lived lightly, and burnt</l>
+<l>With the lust of a man's first strength: ere they were rent,</l>
+<l>Almost at unawares, savagely; and strewn</l>
+<l>In bloody fragments, to be the carrion</l>
+<l>Of rats and crows.</l></lg>
+
+<lg>
+<l>And the sentry moves not, searching</l>
+<l>Night for menace with weary eyes.</l></lg>
+
+<lb/><byline>Frederic Manning</byline>
+</div2>
+
+<div2 id="clarke109" type="poem" n="Sonnets">
+<head rend="center">SONNETS</head>
+
+<lg>
+<head rend="center">I</head>
+<l n="1">I <hi rend="smallcaps">see</hi> across the chasm of flying years</l>
+<l>The pyre of Dido on the vacant shore;</l>
+<l>I see Medea's fury and hear the roar</l>
+<l>Of rushing flames, the new bride's burning tears;</l>
+<l>And ever as still another vision peers</l>
+<l>Thro' memory's mist to stir me more and more,</l>
+<l>I say that surely I have lived before</l>
+<l>And known this joy and trembled with these fears.</l></lg>
+
+<lg>
+<l>The passion that they show me burns so high;</l>
+<l>Their love, in me who have not looked on love,</l>
+<l>So fiercely flames; so wildly comes the cry</l>
+<l>Of stricken women the warrior's call above,</l>
+<l>That I would gladly lay me down and die</l>
+<l>To wake again where Helen and Hector move.</l></lg>
+
+<lg>
+<pb n="172"/>
+<head rend="center">II</head>
+<l>The falling rain is music overhead,</l>
+<l>The dark night, lit by no intruding star,</l>
+<l>Fit covering yields to thoughts that roam afar</l>
+<l>And turn again familiar paths to tread,</l>
+<l>Where many a laden hour too quickly sped</l>
+<l>In happier times, before the dawn of war,</l>
+<l>Before the spoiler had whet his sword to mar</l>
+<l>The faithful living and the mighty dead.</l></lg>
+
+<lg>
+<l>It is not that my soul is weighed with woe,</l>
+<l>But rather wonder, seeing they do but sleep.</l>
+<l>As birds that in the sinking summer sweep</l>
+<l>Across the heaven to happier climes to go,</l>
+<l>So they are gone; and sometimes we must weep,</l>
+<l>And sometimes, smiling, murmur, "Be it so!"</l></lg>
+
+<lb/><byline>Henry William Hutchinson</byline>
+</div2>
+
+<div2 id="clarke110" type="poem" n="The Messines Road">
+<head rend="center">THE MESSINES ROAD</head>
+
+<lg>
+<head rend="center">I</head>
+<l n="1">T<hi rend="smallcaps">he</hi> road that runs up to Messines</l>
+<l>Is double-locked with gates of fire,</l>
+<l>Barred with high ramparts, and between</l>
+<l>The unbridged river, and the wire.</l></lg>
+
+<lg>
+<l>None ever goes up to Messines,</l>
+<l>For Death lurks all about the town,</l>
+<l>Death holds the vale as his demesne,</l>
+<l>And only Death moves up and down.</l></lg>
+
+<lg>
+<pb n="173"/>
+<head rend="center">II</head>
+<l>Choked with wild weeds, and overgrown</l>
+<l>With rank grass, all torn and rent</l>
+<l>By war's opposing engines, strewn</l>
+<l>With d&eacute;bris from each day's event!</l></lg>
+
+<lg>
+<l>And in the dark the broken trees,</l>
+<l>Whose arching boughs were once its shade,</l>
+<l>Grim and distorted, ghostly ease</l>
+<l>In groans their souls vexed and afraid.</l></lg>
+
+<lg>
+<l>Yet here the farmer drove his cart,</l>
+<l>Here friendly folk would meet and pass,</l>
+<l>Here bore the good wife eggs to mart</l>
+<l>And old and young walked up to Mass.</l></lg>
+
+<lg>
+<l>Here schoolboys lingered in the way,</l>
+<l>Here the bent packman laboured by,</l>
+<l>And lovers at the end o' the day</l>
+<l>Whispered their secret blushingly.</l></lg>
+
+<lg>
+<l>A goodly road for simple needs,</l>
+<l>An avenue to praise and paint,</l>
+<l>Kept by fair use from wreck and weeds,</l>
+<l>Blessed by the shrine of its own saint.</l></lg>
+
+<lg>
+<head rend="center">III</head>
+<l>The road that runs up to Messines!</l>
+<l>Ah, how we guard it day and night!</l>
+<l>And how they guard it, who o'erween</l>
+<l>A stricken people, with their might!</l></lg>
+
+<lg>
+<pb n="174"/>
+<l>But we shall go up to Messines</l>
+<l>Even thro' that fire-defended gate.</l>
+<l>Over and thro' all else between</l>
+<l>And give the highway back its state.</l></lg>
+
+<lb/><byline>J. E. Stewart</byline>
+</div2>
+
+<div2 id="clarke111" type="poem" n="The Challenge of the Guns">
+<head rend="center">THE CHALLENGE OF THE GUNS</head>
+
+<lg type="stanza">
+<l n="1">B<hi rend="smallcaps">y</hi> day, by night, along the lines their dull boom rings,</l>
+<l>And that reverberating roar its challenge flings.</l>
+<l>Not only unto thee across the narrow sea,</l>
+<l>But from the loneliest vale in the last land's heart</l>
+<l>The sad-eyed watching mother sees her sons depart.</l></lg>
+
+<lg>
+<l>And freighted full the tumbling waters of ocean are</l>
+<l>With aid for England from England's sons afar.</l>
+<l>The glass is dim; we see not wisely, far, nor well,</l>
+<l>But bred of English bone, and reared on Freedom's wine,</l>
+<l>All that we have and are we lay on England's shrine.</l></lg>
+
+<lb/><byline>A. N. Field</byline>
+</div2>
+
+<div2 id="clarke112" type="poem" n="">
+<head rend="center">THE BEACH ROAD BY THE WOOD</head>
+
+<lg type="stanza">
+<l n="1">I <hi rend="smallcaps">know</hi> a beach road,</l>
+<l>A road where I would go,</l>
+<l>It runs up northward</l>
+<l>From Cooden Bay to Hoe;</l>
+<l>And there, in the High Woods,</l>
+<l>Daffodils grow.</l></lg>
+
+<lg>
+<l>And whoever walks along there</l>
+<l>Stops short and sees</l>
+<pb n="175"/>
+<l>By the moist tree-roots</l>
+<l>In a clearing of the trees,</l>
+<l>Yellow great battalions of them,</l>
+<l>Blowing in the breeze.</l></lg>
+
+<lg>
+<l>While the spring sun brightens,</l>
+<l>And the dull sky clears,</l>
+<l>They blow their golden trumpets,</l>
+<l>Those golden trumpeteers!</l>
+<l>They blow their golden trumpets</l>
+<l>And they shake their glancing spears.</l></lg>
+
+<lg>
+<l>And all the rocking beech-trees</l>
+<l>Are bright with buds again,</l>
+<l>And the green and open spaces</l>
+<l>Are greener after rain,</l>
+<l>And far to southward one can hear</l>
+<l>The sullen, moaning rain.</l></lg>
+
+<lg>
+<l>Once before I die</l>
+<l>I will leave the town behind,</l>
+<l>The loud town, the dark town</l>
+<l>That cramps and chills the mind,</l>
+<l>And I'll stand again bareheaded there</l>
+<l>In the sunlight and the wind.</l></lg>
+
+<lg>
+<l>Yes, I shall stand</l>
+<l>Where as a boy I stood</l>
+<l>Above the dykes and levels</l>
+<l>In the beach road by the wood,</l>
+<l>And I'll smell again the sea breeze,</l>
+<l>Salt and harsh and good.</l></lg>
+
+<lg>
+<pb n="176"/>
+<l>And there shall rise to me</l>
+<l>From that consecrated ground</l>
+<l>The old dreams, the lost dreams</l>
+<l>That years and cares have drowned:</l>
+<l>Welling up within me</l>
+<l>And above me and around</l>
+<l>The song that I could never sing</l>
+<l>And the face I never found.</l></lg>
+
+<lb/><byline>Geoffrey Howard</byline>
+</div2>
+
+<div2 id="clarke113" type="poem" n="German Prisoners">
+<head rend="center">GERMAN PRISONERS</head>
+
+<lg type="stanza">
+<l n="1">W<hi rend="smallcaps">hen</hi> first I saw you in the curious street</l>
+<l>Like some platoon of soldier ghosts in grey,</l>
+<l>My mad impulse was all to smite and slay,</l>
+<l>To spit upon you -- tread you 'neath my feet.</l>
+<l>But when I saw how each sad soul did greet</l>
+<l>My gaze with no sign of defiant frown,</l>
+<l>How from tired eyes looked spirits broken down,</l>
+<l>How each face showed the pale flag of defeat,</l>
+<l>And doubt, despair, and disillusionment,</l>
+<l>And how were grievous wounds on many a head,</l>
+<l>And on your garb red-faced was other red;</l>
+<l>And how you stooped as men whose strength was spent,</l>
+<l>I knew that we had suffered each as other,</l>
+<l>And could have grasped your hand and cried, "My brother!"</l></lg>
+
+<lb/><byline>Joseph Lee</byline>
+</div2>
+
+<div2 id="clarke114" type="poem" n="'-- But a Short Time to Live'">
+<head rend="center">"-- BUT A SHORT TIME TO LIVE"</head>
+
+<lg type="stanza">
+<l n="1">O<hi rend="smallcaps">ur</hi> little hour, -- how swift it flies</l>
+<l>When poppies flare and lilies smile;</l>
+<l>How soon the fleeting minute dies,</l>
+<l>Leaving us but a little while</l>
+<pb n="177"/>
+<l>To dream our dream, to sing our song,</l>
+<l>To pick the fruit, to pluck the flower,</l>
+<l>The Gods -- They do not give us long, --</l>
+<l>One little hour.</l></lg>
+
+<lg>
+<l>Our little hour, -- how short it is</l>
+<l>When Love with dew-eyed loveliness</l>
+<l>Raises her lips for ours to kiss</l>
+<l>And dies within our first caress.</l>
+<l>Youth flickers out like wind-blown flame,</l>
+<l>Sweets of to-day to-morrow sour,</l>
+<l>For Time and Death, relentless, claim</l>
+<l>Our little hour.</l></lg>
+
+<lg>
+<l>Our little hour, -- how short a time</l>
+<l>To wage our wars, to fan our hates,</l>
+<l>To take our fill of armoured crime,</l>
+<l>To troop our banners, storm the gates.</l>
+<l>Blood on the sword, our eyes blood-red,</l>
+<l>Blind in our puny reign of power,</l>
+<l>Do we forget how soon is sped</l>
+<l>Our little hour?</l></lg>
+
+<lg>
+<l>Our little hour, -- how soon it dies:</l>
+<l>How short a time to tell our beads,</l>
+<l>To chant our feeble Litanies,</l>
+<l>To think sweet thoughts, to do good deeds.</l>
+<l>The altar lights grow pale and dim,</l>
+<l>The bells hang silent in the tower --</l>
+<l>So passes with the dying hymn</l>
+<l>Our little hour.</l></lg>
+
+<lb/><byline>Leslie Coulson</byline>
+</div2>
+
+<pb n="178"/>
+<div2 id="clarke115" type="poem" n="Before Action">
+<head rend="center">BEFORE ACTION</head>
+
+<lg type="stanza">
+<l n="1">B<hi rend="smallcaps">y</hi> all the glories of the day,</l>
+<l>And the cool evening's benison:</l>
+<l>By the last sunset touch that lay</l>
+<l>Upon the hills when day was done:</l>
+<l>By beauty lavishly outpoured,</l>
+<l>And blessings carelessly received,</l>
+<l>By all the days that I have lived,</l>
+<l>Make me a soldier, Lord.</l></lg>
+
+<lg>
+<l>By all of all men's hopes and fears,</l>
+<l>And all the wonders poets sing,</l>
+<l>The laughter of unclouded years,</l>
+<l>And every sad and lovely thing:</l>
+<l>By the romantic ages stored</l>
+<l>With high endeavour that was his,</l>
+<l>By all his mad catastrophes,</l>
+<l>Make me a man, O Lord.</l></lg>
+
+<lg>
+<l>I, that on my familiar hill</l>
+<l>Saw with uncomprehending eyes</l>
+<l>A hundred of Thy sunsets spill</l>
+<l>Their fresh and sanguine sacrifice,</l>
+<l>Ere the sun swings his noonday sword</l>
+<l>Must say good-bye to all of this: --</l>
+<l>By all delights that I shall miss,</l>
+<l>Help me to die, O Lord.</l></lg>
+
+<lb/><byline>W. N. Hodgson ("Edward Melbourne")</byline>
+</div2>
+
+<pb n="179"/>
+<div2 id="clarke116" type="poem" n="Courage">
+<head rend="center">COURAGE</head>
+
+<lg type="stanza">
+<l n="1">A<hi rend="smallcaps">lone</hi> amid the battle-din untouched</l>
+<l>Stands out one figure beautiful, serene;</l>
+<l>No grime of smoke nor reeking blood hath smutched</l>
+<l>The virgin brow of this unconquered queen.</l>
+<l>She is the Joy of Courage vanquishing</l>
+<l>The unstilled tremors of the fearful heart;</l>
+<l>And it is she that bids the poet sing,</l>
+<l>And gives to each the strength to bear his part.</l></lg>
+
+<lg>
+<l>Her eyes shall not be dimmed, but as a flame</l>
+<l>Shall light the distant ages with its fire,</l>
+<l>That men may know the glory of her name,</l>
+<l>That purified our souls of fear's desire.</l>
+<l>And she doth calm our sorrow, soothe our pain,</l>
+<l>And she shall lead us back to peace again.</l></lg>
+
+<lb/><byline>Dyneley Hussey</byline>
+</div2>
+
+<div2 id="clarke117" type="poem" n="Optimism">
+<head rend="center">OPTIMISM</head>
+
+<lg type="stanza">
+<l n="1">A<hi rend="smallcaps">t</hi> last there'll dawn the last of the long year,</l>
+<l>Of the long year that seemed to dream no end,</l>
+<l>Whose every dawn but turned the world more drear,</l>
+<l>And slew some hope, or led away some friend.</l>
+<l>Or be you dark, or buffeting, or blind,</l>
+<l>We care not, day, but leave not death behind.</l></lg>
+
+<lg>
+<l>The hours that feed on war go heavy-hearted,</l>
+<l>Death is no fare wherewith to make hearts fain.</l>
+<l>Oh, we are sick to find that they who started</l>
+<l>With glamour in their eyes came not again.</l>
+<pb n="180"/>
+<l>O day, be long and heavy if you will,</l>
+<l>But on our hopes set not a bitter heel.</l></lg>
+
+<lg>
+<l>For tiny hopes like tiny flowers of Spring</l>
+<l>Will come, though death and ruin hold the land,</l>
+<l>Though storms may roar they may not break the wing</l>
+<l>Of the earthed lark whose song is ever bland.</l>
+<l>Fell year unpitiful, slow days of scorn,</l>
+<l>Your kind shall die, and sweeter days be born.</l></lg>
+
+<lb/><byline>A. Victor Ratcliffe</byline>
+</div2>
+
+<div2 id="clarke118" type="poem" n="The Battlefield">
+<head rend="center">THE BATTLEFIELD</head>
+
+<lg type="stanza">
+<l n="1">A<hi rend="smallcaps">round</hi> no fire the soldiers sleep to-night,</l>
+<l>But lie a-wearied on the ice-bound field,</l>
+<l>With cloaks wrapt round their sleeping forms, to shield</l>
+<l>Them from the northern winds. Ere comes the light</l>
+<l>Of morn brave men must arm, stern foes to fight.</l>
+<l>The sentry stands, his limbs with cold congealed;</l>
+<l>His head a-nod with sleep; he cannot yield,</l>
+<l>Though sleep and snow in deadly force unite.</l></lg>
+
+<lg>
+<l>Amongst the sleepers lies the Boy awake,</l>
+<l>And wide-eyed plans brave glories that transcend</l>
+<l>The deeds of heroes dead; then dreams o'ertake</l>
+<l>His tired-out brain, and lofty fancies blend</l>
+<l>To one grand theme, and through all barriers break</l>
+<l>To guard from hurt his faithful sleeping friend.</l></lg>
+
+<lb/><byline>Sydney Oswald</byline>
+</div2>
+
+<pb n="181"/>
+<div2 id="clarke119" type="poem" n="'On Les Aura!'">
+<head rend="center">"ON LES AURA!"</head>
+
+<lg type="stanza">
+<l n="1">S<hi rend="smallcaps">oldat</hi> J<hi rend="smallcaps">acques</hi> B<hi rend="smallcaps">onhomme loquitur</hi>:</l>
+<l>See you that stretch of shell-torn mud spotted with pools of mire,</l>
+<l>Crossed by a burst abandoned trench and tortured strands of wire,</l>
+<l>Where splintered pickets reel and sag and leprous trench-rats play,</l>
+<l>That scour the Devil's hunting-ground to seek their carrion prey?</l>
+<l>That is the field my father loved, the field that once was mine,</l>
+<l>The land I nursed for my child's child as my fathers did long syne.</l></lg>
+
+<lg>
+<l>See there a mound of powdered stones, all flattened, smashed, and torn,</l>
+<l>Gone black with damp and green with slime? -- Ere you and I were born</l>
+<l>My father's father built a house, a little house and bare,</l>
+<l>And there I brought my woman home -- that heap of rubble there!</l>
+<l>The soil of France! Fat fields and green that bred my blood and bone!</l>
+<l>Each wound that scars my bosom's pride burns deeper than my own.</l></lg>
+
+<lg>
+<l>But yet there is one thing to say -- one thing that pays for all,</l>
+<l>Whatever lot our bodies know, whatever fate befall,</l>
+<pb n="182"/>
+<l>We hold the line! We hold it still! My fields are No Man's Land,</l>
+<l>But the good God is debonair and holds us by the hand.</l>
+<l><hi rend="italic">"On les aura!"</hi> See there! and there! soaked heaps of huddled grey!</l>
+<l>My fields shall laugh -- enriched by those who sought them for a prey.</l></lg>
+
+<lb/><byline>James H. Knight-Adkin</byline>
+</div2>
+
+<div2 id="clarke120" type="poem" n="To an Old Lady Seen at a Guesthouse for Soldiers">
+<head rend="center">TO AN OLD LADY SEEN AT A GUESTHOUSE FOR SOLDIERS</head>
+
+<lg type="stanza">
+<l n="1">Q<hi rend="smallcaps">uiet</hi> thou didst stand at thine appointed place,</l>
+<l>There was no press to purchase -- younger grace</l>
+<l>Attracts the youth of valour. Thou didst not know,</l>
+<l>Like the old, kindly Martha, to and fro</l>
+<l>To haste. Yet one could say, "In thine I prize</l>
+<l>The strength of calm that held in Mary's eyes."</l>
+<l>And when they came, thy  gracious smile so wrought</l>
+<l>They knew that they were given, not that they bought.</l>
+<l>Thou didst not tempt to vauntings, and pretence</l>
+<l>Was dumb before thy perfect woman's sense.</l>
+<l>Blest who have seen, for they shall ever see</l>
+<l>The radiance of thy benignity.</l></lg>
+
+<lb/><byline>Alexander Robertson</byline>
+</div2>
+
+<div2 id="clarke121" type="poem" n="The Casualty Clearing Station">
+<head rend="center">THE CASUALTY CLEARING STATION</head>
+
+<lg type="stanza">
+<l n="1">A <hi rend="smallcaps">bowl</hi> of daffodils,</l>
+<l>A crimson-quilted bed,</l>
+<l>Sheets and pillows white as snow --</l>
+<l>White and gold and red --</l>
+<pb n="183"/>
+<l>And sisters moving to and fro,</l>
+<l>With soft and silent tread.</l></lg>
+
+<lg>
+<l>So all my spirit fills</l>
+<l>With pleasure infinite,</l>
+<l>And all the feathered wings of rest</l>
+<l>Seem flocking from the radiant West</l>
+<l>To bear me thro' the night.</l></lg>
+
+<lg>
+<l>See, how they close me in,</l>
+<l>They, and the sisters' arms.</l>
+<l>One eye is closed, the other lid</l>
+<l>Is watching how my spirit slid</l>
+<l>Toward some red-roofed farms,</l>
+<l>And having crept beneath them slept</l>
+<l>Secure from war's alarms.</l></lg>
+
+<lb/><byline>Gilbert Waterhouse</byline>
+</div2>
+
+<div2 id="clarke122" type="poem" n="Hills of Home">
+<head rend="center">HILLS OF HOME</head>
+
+<lg type="stanza">
+<l n="1">O<hi rend="smallcaps">h</hi>! yon hills are filled with sunlight, and the green leaves paled to gold,</l>
+<l>And the smoking mists of Autumn hanging faintly o'er the wold;</l>
+<l>I dream of hills of other days whose sides I loved to roam</l>
+<l>When Spring was dancing through the lanes of those distant hills of home.</l></lg>
+
+<lg>
+<l>The winds of heaven gathered there as pure and cold as dew;</l>
+<l>Wood-sorrel and wild violets along the hedgerows grew,</l>
+<pb n="184"/>
+<l>The blossom on the pear-trees was as white as flakes of foam</l>
+<l>In the orchard 'neath the shadow of those distant hills of home.</l></lg>
+
+<lg>
+<l>The first white frost in the meadow will be shining there to-day</l>
+<l>And the furrowed upland glinting warm beside the woodland way;</l>
+<l>There, a bright face and a clear hearth will be waiting when I come,</l>
+<l>And my heart is throbbing wildly for those distant hills of home.</l></lg>
+
+<lb/><byline>Malcolm Hemphrey</l></byline>
+</div2>
+
+</div1>
+</text>

@@ -1,0 +1,373 @@
+
+<pb n="241"/>
+<div1 id="clarke163" type="Chapter" n="Women and the War">
+<head rend="center">WOMEN AND THE WAR</head>
+<pb n="242"/>
+
+<pb n="243"/>
+<div2 id="clarke164" type="poem" n="Harvest Moon">
+<head rend="center">HARVEST MOON</head>
+
+<lg type="stanza">
+<l n="1">O<hi rend="smallcaps">ver</hi> the twilight field,</l>
+<l>Over the glimmering field</l>
+<l>And bleeding furrows, with their sodden yield</l>
+<l>Of sheaves that still did writhe,</l>
+<l>After the scythe;</l>
+<l>The teeming field, and darkly overstrewn</l>
+<l>With all the garnered fullness of that noon --</l>
+<l>Two looked upon each other.</l>
+<l>One was a Woman, men had called their mother:</l>
+<l>And one the Harvest Moon.</l></lg>
+
+<lg>
+<l>And one the Harvest Moon</l>
+<l>Who stood, who gazed</l>
+<l>On those unquiet gleanings, where they bled;</l>
+<l>Till the lone Woman said:</l></lg>
+
+<lg>
+<l>"But we were crazed...</l>
+<l>We should laugh now together, I and you;</l>
+<l>We two.</l>
+<l>You, for your ever dreaming it was worth</l>
+<l>A star's while to look on, and light the earth;</l>
+<l>And I, for ever telling to my mind</l>
+<l>Glory it was and gladness, to give birth</l>
+<l>To human kind.</l>
+<l>I gave the breath, -- and thought it not amiss,</l>
+<l>I gave the breath to men,</l>
+<l>For men to slay again;</l>
+<l>Lording it over anguish, all to give</l>
+<l>My life, that men might live,</l>
+<l>For this.</l></lg>
+
+<lg>
+<pb n="244"/>
+<l>"You will be laughing now, remembering</l>
+<l>We called you once Dead World, and barren thing.</l>
+<l>Yes, so we called you then,</l>
+<l>You, far more wise</l>
+<l>Than to give life to men."</l></lg>
+
+<lg>
+<l>Over the field that there</l>
+<l>Gave back the skies</l>
+<l>A scattered upward stare</l>
+<l>From sightless eyes,</l>
+<l>The furrowed field that lay</l>
+<l>Striving awhile, through many a bleeding dune</l>
+<l>Of throbbing clay, -- but dumb and quiet soon,</l>
+<l>She looked; and went her way,</l>
+<l>The Harvest Moon.</l></lg>
+
+<lb/><byline>Josephine Preston Peabody</byline>
+</div2>
+
+<div2 id="clarke165" type="poem" n="Harvest Moon: 1916">
+<head rend="center">HARVEST MOON: 1916</head>
+
+<lg type="stanza">
+<l n="1">M<hi rend="smallcaps">oon</hi>, slow rising, over the trembling sea-rim,</l>
+<l>Moon of the lifted tides and their folded burden,</l>
+<l>Look, look down. And gather the blinded oceans.</l>
+<l>Moon of compassion.</l></lg>
+
+<lg>
+<l>Come, white Silence, over the one sea pathway:</l>
+<l>Pour with hallowing hands on the surge and outcry,</l>
+<l>Silver flame; and over the famished blackness,</l>
+<l>Petals of moonlight.</l></lg>
+
+<lg>
+<l>Once again, the formless void of a world-wreck</l>
+<l>Gropes its way through the echoing dark of chaos:</l>
+<l>Tide on tide, to the calling, lost horizons, --</l>
+<l>One in the darkness.</l></lg>
+
+<lg>
+<pb n="245"/>
+<l>You that veil the light of the all-beholding,</l>
+<l>Shed white tidings down to the dooms of longing,</l>
+<l>Down to the timeless dark; and the sunken treasures,</l>
+<l>One in the darkness.</l></lg>
+
+<lg>
+<l>Touch, and harken, -- under that shrouding silver,</l>
+<l>Rise and fall, the heart of the sea and its legions,</l>
+<l>All and one; one with the breath of the deathless,</l>
+<l>Rising and falling.</l></lg>
+
+<lg>
+<l>Touch and waken so, to a far hereafter,</l>
+<l>Ebb and flow, the deep, and the dead in their longing:</l>
+<l>Till at last, on the hungering face of the waters,</l>
+<l>There shall be Light.</l></lg>
+
+<lg>
+<l rend="italic">Light of Light, give us to see, for their sake.</l>
+<l rend="italic">Light of Light, grant them eternal peace;</l>
+<l rend="italic">And let light perpetual shine upon them;</l>
+<l rend="italic">Light, everlasting.</l></lg>
+
+<lb/><byline>Josephine Preston Peabody</byline>
+</div2>
+
+<div2 id="clarke166" type="poem" n="My Son">
+<head rend="center">MY SON</head>
+
+<lg type="stanza">
+<l n="1">H<hi rend="smallcaps">ere</hi> is his little cambric frock</l>
+<l>That I laid by in lavender so sweet,</l>
+<l>And here his tiny shoe and sock</l>
+<l>I made with loving care for his dear feet.</l></lg>
+
+<lg>
+<l>I fold the frock across my breast,</l>
+<l>And in imagination, ah, my sweet,</l>
+<l>Once more I hush my babe to rest,</l>
+<l>And once again I warm those little feet.</l></lg>
+
+<lg>
+<pb n="246"/>
+<l>Where do those strong young feet now stand?</l>
+<l>In flooded trench, half numb to cold or pain,</l>
+<l>Or marching through the desert sand</l>
+<l>To some dread place that they may never gain.</l></lg>
+
+<lg>
+<l>God guide him and his men to-day!</l>
+<l>Though death may lurk in any tree or hill,</l>
+<l>His brave young spirit is their stay,</l>
+<l>Trusting in that they'll follow where he will.</l></lg>
+
+<lg>
+<l>They love him for his tender heart</l>
+<l>When poverty or sorrow asks his aid,</l>
+<l>But he must see each do his part --</l>
+<l>Of cowardice alone he is afraid.</l></lg>
+
+<lg>
+<l>I ask no honours on the field,</l>
+<l>That other men have won as brave as he --</l>
+<l>I only pray that God may shield</l>
+<l>My son, and bring him safely back to me!</l></lg>
+
+<lb/><byline>Ada Tyrrell</byline>
+</div2>
+
+<div2 id="clarke167" type="poem" n="To the Others">
+<head rend="center">TO THE OTHERS</head>
+
+<lg type="stanza">
+<l n="1">T<hi rend="smallcaps">his</hi> was the gleam then that lured from far</l>
+<l>Your son and my son to the Holy War:</l>
+<l>Your son and my son for the accolade</l>
+<l>With the banner of Christ over them, in steel arrayed.</l></lg>
+
+<lg>
+<l>All quiet roads of life ran on to this;</l>
+<l>When they were little for their mother's kiss.</l>
+<l>Little feet hastening, so soft, unworn,</l>
+<l>To the vows and the vigil and the road of thorn.</l></lg>
+
+<lg>
+<pb n="247"/>
+<l>Your son and my son, the downy things,</l>
+<l>Sheltered in mother's breast, by mother's wings,</l>
+<l>Should they be broken in the Lord's wars -- Peace!</l>
+<l>He Who has given them -- are they not His?</l></lg>
+
+<lg>
+<l>Dream of knight's armour and the battle-shout,</l>
+<l>Fighting and falling at the last redoubt,</l>
+<l>Dream of long dying on the field of slain;</l>
+<l>This was the dream that lured, nor lured in vain.</l></lg>
+
+<lg>
+<l>These were the Voices they heard from far;</l>
+<l>Bugles and trumpets of the Holy War.</l>
+<l>Your son and my son have heard the call,</l>
+<l>Your son and my son have stormed the wall.</l></lg>
+
+<lg>
+<l>Your son and my son, clean as new swords;</l>
+<l>Your man and my man and now the Lord's!</l>
+<l>Your son and my son for the Great Crusade,</l>
+<l>With the banner of Christ over them -- our knights new-made.</l></lg>
+
+<lb/><byline>Katharine Tynan</byline>
+</div2>
+
+<div2 id="clarke168" type="poem" n="The Journey">
+<head rend="center">THE JOURNEY</head>
+
+<lg type="stanza">
+<l n="1">I <hi rend="smallcaps">went</hi> upon a journey</l>
+<l>To countries far away,</l>
+<l>From province unto province</l>
+<l>To pass my holiday.</l></lg>
+
+<lg>
+<l>And when I came to Serbia,</l>
+<l>In a quiet little town</l>
+<l>At an inn with a flower-filled garden</l>
+<l>With a soldier I sat down.</l></lg>
+
+<lg>
+<pb n="248"/>
+<l>Now he lies dead at Belgrade.</l>
+<l>You heard the cannon roar!</l>
+<l>It boomed from Rome to Stockholm,</l>
+<l>It pealed to the far west shore.</l></lg>
+
+<lg>
+<l>And when I came to Russia,</l>
+<l>A man with flowing hair</l>
+<l>Called me his friend and showed me</l>
+<l>A flowing river there.</l></lg>
+
+<lg>
+<l>Now he lies dead at Lemberg,</l>
+<l>Beside another stream,</l>
+<l>In his dark eyes extinguished</l>
+<l>The friendship of his dream.</l></lg>
+
+<lg>
+<l>And then I crossed two countries</l>
+<l>Whose names on my lips are sealed...</l>
+<l>Not yet had they flung their challenge</l>
+<l>Nor led upon the field</l></lg>
+
+<lg>
+<l>Sons who lie dead at Li&egrave;ge,</l>
+<l>Dead by the Russian lance,</l>
+<l>Dead in southern mountains,</l>
+<l>Dead through the farms of France.</l></lg>
+
+<lg>
+<l>I stopped in the land of Louvain,</l>
+<l>So tranquil, happy, then.</l>
+<l>I lived with a good old woman,</l>
+<l>With her sons and her grandchildren.</l></lg>
+
+<lg>
+<l>Now they lie dead at Louvain,</l>
+<l>Those simple kindly folk.</l>
+<l>Some heard, some fled. It must be</l>
+<l>Some slept, for they never woke.</l></lg>
+
+<lg>
+<pb n="249"/>
+<l>I came to France. I was thirsty.</l>
+<l>I sat me down to dine.</l>
+<l>The host and his young wife served me</l>
+<l>With bread and fruit and wine.</l></lg>
+
+<lg>
+<l>Now he lies dead at Cambrai --</l>
+<l>He was sent among the first.</l>
+<l>In dreams she sees him dying</l>
+<l>Of wounds, of heat, of thirst.</l></lg>
+
+<lg>
+<l>At last I passed to Dover</l>
+<l>And saw upon the shore</l>
+<l>A tall young English captain</l>
+<l>And soldiers, many more.</l></lg>
+
+<lg>
+<l>Now they lie dead at Dixmude,</l>
+<l>The brave, the strong, the young!</l>
+<l>I turn unto my homeland,</l>
+<l>All my journey sung!</l></lg>
+
+<lb/><byline>Grace Fallow Norton</byline>
+</div2>
+
+<div2 id="clarke169" type="poem" n="A Mother's Dedication">
+<head rend="center">A MOTHER'S DEDICATION</head>
+
+<lg type="stanza">
+<l n="1">D<hi rend="smallcaps">ear</hi> son of mine, the baby days are over,</l>
+<l>I can no longer shield you from the earth;</l>
+<l>Yet in my heart always I must remember</l>
+<l>How through the dark I fought to give you birth.</l></lg>
+
+<lg>
+<l>Dear son of mine, by all the lives behind you;</l>
+<l>By all our fathers fought for in the past;</l>
+<l>In this great war to which your birth has brought you,</l>
+<l>Acquit you well, hold you our honour fast!</l></lg>
+
+<lg>
+<pb n="250"/>
+<l>God guard you, son of mine, where'er you wander;</l>
+<l>God lead the banners under which you fight;</l>
+<l>You are my all, I give you to the Nation,</l>
+<l>God shall uphold you that you fight aright.</l></lg>
+
+<lb/><byline>Margaret Peterson</byline>
+</div2>
+
+<div2 id="clarke170" type="poem" n="To a Mother">
+<head rend="center">TO A MOTHER</head>
+
+<lg type="stanza">
+<l n="1">R<hi rend="smallcaps">obbed</hi> mother of the stricken Motherland --</l>
+<l>Two hearts in one and one among the dead,</l>
+<l>Before your grave with an uncovered head</l>
+<l>I, that am man, disquiet and silent stand</l>
+<l>In reverence. It is your blood they shed;</l>
+<l>It is your sacred self that they demand,</l>
+<l>For one you bore in joy and hope, and planned</l>
+<l>Would make yourself eternal, now has fled.</l></lg>
+
+<lg>
+<l>But though you yielded him unto the knife</l>
+<l>And altar with a royal sacrifice</l>
+<l>Of your most precious self and dearer life --</l>
+<l>Your master gem and pearl above all price --</l>
+<l>Content you; for the dawn this night restores</l>
+<l>Shall be the dayspring of his soul and yours.</l></lg>
+
+<lb/><byline>Eden Phillpotts</byline>
+</div2>
+
+<div2 id="clarke171" type="poem" n="Spring in War-Time">
+<head rend="center">SPRING IN WAR-TIME</head>
+
+<lg type="stanza">
+<l n="1">I <hi rend="smallcaps">feel</hi> the spring far off, far off,</l>
+<l>The faint, far scent of bud and leaf --</l>
+<l>Oh, how can spring take heart to come</l>
+<l>To a world in grief,</l>
+<l>Deep grief?</l></lg>
+
+<lg>
+<pb n="251"/>
+<l>The sun turns north, the days grow long,</l>
+<l>Later the evening star grows bright --</l>
+<l>How can the daylight linger on</l>
+<l>For men to fight,</l>
+<l>Still fight?</l></lg>
+
+<lg>
+<l>The grass is waking in the ground,</l>
+<l>Soon it will rise and blow in waves --</l>
+<l>How can it have the heart to sway</l>
+<l>Over the graves,</l>
+<l>New graves?</l></lg>
+
+<lg>
+<l>Under the boughs where lovers walked</l>
+<l>The apple-blooms will shed their breath --</l>
+<l>But what of all the lovers now</l>
+<l>Parted by Death,</l>
+<l>Grey Death?</l></lg>
+
+<lb/><byline>Sara Teasdale</byline>
+</div2>
+<pb n="252"/>
+
+</div1>

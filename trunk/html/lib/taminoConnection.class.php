@@ -11,6 +11,9 @@ class taminoConnection {
   var $coll;
   // whether or not to display debugging information
   var $debug;
+
+  // basedir (xsl files should be in xsl directory under this)
+  var $basedir;
   
   // these variables used internally
   var $base_url;
@@ -37,12 +40,15 @@ class taminoConnection {
     $this->coll = $argArray['coll'];
     $this->debug = $argArray['debug'];
 
+    // if basedir is passed in, use that; otherwise, use current directory
+    $this->basedir = $argArray['basedir'] ?  $argArray['basedir'] : getcwd ();
+
     $this->base_url = "http://$this->host/tamino/$this->db/$this->coll?";
 
-    // variables for highlighting search terms
-    $this->begin_hi[0]  = "<span class='term1'><b>";
-    $this->begin_hi[1] = "<span class='term2'><b>";
-    $this->begin_hi[2] = "<span class='term3'><b>";
+    // strings for highlighting search terms 
+    for ($i = 0; $i < 4; $i++) {
+      $this->begin_hi[$i]  = "<span class='term" . ($i + 1) . "'><b>";
+    }
     $this->end_hi = "</b></span>";
   }
 
@@ -66,7 +72,7 @@ class taminoConnection {
     }
 
     $length = strlen($this->xmlContent);
-    if ($length < 50000) {
+    if ($length < 200000) {
       // phpDOM can only handle xmlContent within certain size limits
       $this->xml = new XML($this->xmlContent);
       if (!($this->xml)) {        ## call failed
@@ -111,7 +117,7 @@ class taminoConnection {
     }
 
     $length = strlen($this->xmlContent);
-    if ($length < 150000) {
+    if ($length < 200000) {
       // phpDOM can only handle xmlContent within certain size limits
       $this->xml = new XML($this->xmlContent);
       if (!($this->xml)) {        ## call failed
@@ -201,7 +207,7 @@ class taminoConnection {
      $xh = xslt_create();
      // specify file base so that xsl includes will work
      // Note: last / on end of fileBase is important!
-     $fileBase = 'file://' . getcwd () . "/xsl/";
+     $fileBase = "file://$this->basedir/xsl/";
      //  print "file base is $fileBase<br>";
      xslt_set_base($xh, $fileBase);
 

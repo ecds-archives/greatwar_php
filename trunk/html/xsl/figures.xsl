@@ -9,6 +9,9 @@
 	<!-- options: thumbnail, thumbdesc, full, zoom -->
 <xsl:param name="interp">0</xsl:param>  
 
+<!-- base url for linking to images -->
+<xsl:variable name="image_baseurl">http://chaucer.library.emory.edu/wwi/images/</xsl:variable>
+
 <xsl:output method="html"/>  
 
 <xsl:template match="/"> 
@@ -35,22 +38,18 @@
 
 <!-- thumbnail and title only -->
 <xsl:template match="figure" mode="thumbnail">
-<!--  <table class="thumbnail">
-   <tr><td> -->
   <p class="thumbnail">
     <a class="img">
       <xsl:attribute name="href">postcards/view.php?id=<xsl:value-of select="@entity"/></xsl:attribute>
     <xsl:element name="img">
 	<xsl:attribute name="class">thumbnail</xsl:attribute>
-	<xsl:attribute name="src">http://chaucer.library.emory.edu/wwi/images/thumbnail/<xsl:value-of select="@entity"/>.jpg</xsl:attribute>
+	<xsl:attribute name="src"><xsl:value-of select="concat($image_baseurl, 'thumbnail/', @entity, '.jpg')"/></xsl:attribute>
     </xsl:element>
     </a>
-<!--   </td></tr>
-   <tr><td class="title"> -->
   <br/>
 	<xsl:value-of select="head"/>
   </p>
-<!--   </td></tr></table> -->
+
 </xsl:template>
 
 <!-- thumbnail and full text description, side by side -->
@@ -60,7 +59,7 @@
       <xsl:attribute name="href">postcards/view.php?id=<xsl:value-of select="@entity"/></xsl:attribute>
     <xsl:element name="img">
 	<xsl:attribute name="class">thumbnail</xsl:attribute>
-	<xsl:attribute name="src"><xsl:value-of select="concat('http://chaucer.library.emory.edu/wwi/images/thumbnail/', @entity, '.jpg')"/></xsl:attribute>
+	<xsl:attribute name="src"><xsl:value-of select="concat($image_baseurl, 'thumbnail/', @entity, '.jpg')"/></xsl:attribute>
     </xsl:element>
     </a>
    </td>
@@ -76,7 +75,7 @@
     <a class="img">
      <xsl:attribute name="href">postcards/view.php?id=<xsl:value-of select="@entity"/>&amp;zoom=2</xsl:attribute>
     <xsl:element name="img">
-	<xsl:attribute name="src"><xsl:value-of select="concat('http://chaucer.library.emory.edu/wwi/images/realsize/', @entity, '.jpg')"/></xsl:attribute>
+	<xsl:attribute name="src"><xsl:value-of select="concat($image_baseurl, 'realsize/', @entity, '.jpg')"/></xsl:attribute>
     </xsl:element>
     </a>
    </td>
@@ -121,7 +120,7 @@ select="@entity"/>&amp;zoom=2</xsl:attribute>
    <xsl:apply-templates select="head"/>
 
     <xsl:element name="img">
-	<xsl:attribute name="src"><xsl:value-of select="concat('http://chaucer.library.emory.edu/wwi/images/doublesize/', @entity, '.jpg')"/></xsl:attribute>
+	<xsl:attribute name="src"><xsl:value-of select="concat($image_baseurl, 'doublesize/', @entity, '.jpg')"/></xsl:attribute>
     </xsl:element>
 
    <p><a>

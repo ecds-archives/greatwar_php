@@ -31,7 +31,12 @@ return <div id="{$docname}">
 </sourceDesc>
 </fileDesc>
 </teiHeader>
-{$a}</div>';
+{$a}
+<siblings>
+{ for $s in $root/TEI.2/:text/body/div1/div2
+return <div2> {$s/@id} {$s/@n} {$s/docAuthor} </div2> }
+</siblings>
+</div>';
 
 $xsl_file = "poetry.xsl";
 $xsl_params = array("mode" => "poem", "selflink" => $selflink);

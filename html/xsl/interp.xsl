@@ -8,8 +8,9 @@
 
 <xsl:param name="desc"/>
 <xsl:param name="max"/>
-<xsl:param name="mode"/>	
+<xsl:param name="mode"/>   
 <!-- default mode: output pretty linked list; form mode: select box -->
+<xsl:param name="showtitle">1</xsl:param> <!-- by default, display -->
 
 <xsl:output method="html"/>  
 
@@ -25,7 +26,9 @@
         <xsl:attribute name="src">toggle-list.js</xsl:attribute>
       </xsl:element> <!-- script -->
 
+     <xsl:if test="$showtitle = 1">
       <h3>Categories</h3>
+     </xsl:if>
       <xsl:apply-templates select="//interpGrp" />
    </xsl:otherwise>
   </xsl:choose>
@@ -62,7 +65,8 @@ select="@type"/>')</xsl:attribute>
   <li>
    <xsl:element name="a">
      <xsl:attribute name="href">postcards/browse.php?cat=<xsl:value-of
-select="@id"/>&amp;desc=<xsl:value-of select="$desc"/>&amp;max=<xsl:value-of select="$max"/></xsl:attribute>
+select="@id"/><xsl:if test="$desc">&amp;desc=<xsl:value-of select="$desc"/></xsl:if><xsl:if test="$max">&amp;max=<xsl:value-of select="$max"/></xsl:if></xsl:attribute>
+<!-- only pass along display-description setting and max display if defined -->
      <xsl:value-of select="@value"/>
    </xsl:element>
   </li>

@@ -28,8 +28,8 @@ $subject = $_GET['subj'];
 print '<div class="content"> 
           <h3>All Links - Full Listing</h3>';
 
-$args = array('host' => "vip.library.emory.edu",
-	      'db' => "WW1",
+$args = array('host' => $tamino_server,
+	      'db' => $tamino_db,
 	      'coll' => 'links',
 	      'limit_subject' => $subject[0],
 	      'sort' => $sort,

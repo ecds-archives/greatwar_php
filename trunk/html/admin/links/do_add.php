@@ -40,8 +40,8 @@ if (!(isset($url))||(!(isset($title)))||(!(isset($description)))
 }
 
 
-$myargs = array('host' => "vip.library.emory.edu",
-		'db' => "WW1",
+$myargs = array('host' => $tamino_server,
+		'db' => $tamino_db,
 		'coll' => 'links',
 		'url' => $url,
 		'title' => $title,

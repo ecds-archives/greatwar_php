@@ -13,8 +13,8 @@ print "<html>
 include_once ("lib/alinkRecord.class.php");
 include_once("lib/mybreadcrumb.php");
 
-$myargs = array('host' => "vip.library.emory.edu",
-		'db' => "WW1",
+$myargs = array('host' => $tamino_server,
+		'db' => $tamino_db,
 		'coll' => 'links',
 		'debug' => false);
 

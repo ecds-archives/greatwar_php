@@ -16,8 +16,8 @@ include_once("lib/mybreadcrumb.php");
 include("header.php");
 print "<p class='breadcrumbs'>" . $breadcrumb->show_breadcrumb() . "</p>";
 
-$args = array('host' => "vip.library.emory.edu",
-	      'db' => "WW1",
+$args = array('host' => $tamino_server,
+	      'db' => $tamino_db,
 	      'coll' => 'links',
 	      'limit_subject' => $subject[0],
 	      'sort' => $sort);

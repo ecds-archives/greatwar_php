@@ -31,8 +31,8 @@ $edit_date = htmlentities($_GET["mod_date"]);
 $edit_contributor = htmlentities($_GET["mod_contrib"]);
 $edit_desc = htmlentities($_GET["mod_desc"]);
 
-$myargs = array('host' => "vip.library.emory.edu",
-		'db' => "WW1",
+$myargs = array('host' => $tamino_server,
+		'db' => $tamino_db,
 		'coll' => 'links',
 		'url' => $url,
 		'id' => $id,

@@ -1,0 +1,82 @@
+body {  font-family: Verdana, Arial, Helvetica, sans-serif}
+
+
+a	  { text-decoration: none; }
+/* a:link 	  { color: #999900; }  */
+/* a:link 	  { color: #718152; }  */
+a:link	  { color: #687c54; }
+a:active  { color: #444444; } 
+a:visited { color: #b52512; }
+a:hover   { background-color: #ededed; }
+
+td { text-align: center; }
+
+
+p.breadcrumbs { font-size: 80%; }
+
+div.content {	position: relative; 
+		margin-right: 215;
+		margin-bottom: 200;
+		z-index: 1;
+		overflow: visible;
+	    }
+
+table.thumbnail { display:inline; font-size: 80%;}
+td.description  {text-align: left; font-size: 80%; vertical-align: top;}
+
+img.thumbnail { text-align: center; vertical-align: middle; padding: 10; }
+
+div.sidebar { position: absolute; 
+	      z-index: 3;
+	      top: 150;
+	      right: 20px; 
+	      width: 175;
+	      margin-top: 20;
+	      font-size: 85%;
+	      background-color: #ffffff;
+	      border-color: #b6b7b2;
+	      border-style: solid;
+	      padding-bottom: 10; padding-left: 10; padding-right: 10;
+	    }
+
+div.categories { background-color:  #ffffff; margin-top: 5; padding: 5; border-style: double;}
+div.categories h3 { background-color: #aaae9f /* #718154*/ ; padding: 2; margin-top:0; margin-bottom:0;}
+
+
+div.search { background-color: #aaae9f; font-size: 90%; padding-left: 5; padding-bottom: 10; }
+div.search h3 { text-align: center; border-bottom: double; padding: 2;}
+div.search h4 { margin-top: 0; margin-bottom: 0; padding-top: 2;}
+div.search input { font-size: 85%; margin-left: 2; padding: 0; }
+div.search hr { width: 75%; style: double; }
+
+/* index search box needs slightly different formatting */
+div.indexsearch { background-color: #aaae9f; font-size: 90%; padding-left: 5; padding-bottom: 5; 
+		  text-align: center; width: 250; }
+div.indexsearch h3 { text-align: center; border-bottom: double; padding: 0; 
+		     margin-bottom: 5; margin-right: 5; }
+div.indexsearch h4 { margin-top: 0; margin-bottom: 0; padding-top: 2;}
+div.indexsearch input { font-size: 85%; padding: 0; }
+div.indexsearch hr { width: 75%; style: double; }
+
+
+
+
+
+/* index search - on the front page */
+/* div.search#index { background-color: /* #d1d4cd */ #aab0a4; font-size: 90%; width: 250; padding-bottom: 5;} */
+/* div.indexsearch h3 { text-align: center; border-bottom: double; padding: 0;}
+div.indexsearch input { font-size: 85%; margin-left: 2; padding: 0; }  
+*/
+
+
+
+div.footer { position: fixed;
+	     position: expression("absolute");
+	     bottom: 0px;
+      	     z-index: 2;
+	     background: #ffffff;
+	   }
+div.footer a { color: #FFCC00; font-size: 85% }
+div.footer a:active { color: #FFFFFF; }
+div.footer p.links { background-color: #666666; text-align: center; margin-bottom: -5; }
+div.footer p.copy { font-size: 65%; text-align: center; margin-bottom: 2; margin-top: 5; }

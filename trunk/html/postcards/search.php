@@ -12,6 +12,7 @@ print "<html>
 "; 
 
 include_once("lib/taminoConnection.class.php");
+include_once("lib/interpGrp.class.php");
 include_once("lib/mybreadcrumb.php");
 
 $args = array('host' => $tamino_server,
@@ -21,6 +22,7 @@ $args = array('host' => $tamino_server,
 	      'debug' => false,
 	      );
 $tamino = new taminoConnection($args);
+$ig = new interpGrp($args);
 
 // search terms
 $title = $_GET["title"];
@@ -32,6 +34,9 @@ $hf = $_GET["homefront"];
 $con = $_GET["content"];
 $time = $_GET["time-period"];		// FIXME: errors with the space
 $category = array($nat, $mil, $hf, $con);
+$terms = array();
+if ($title) { array_push($terms, $title); }
+if ($figdesc) { array_push($terms, $figdesc); }
 $pos = $_GET["position"];
 if (isset($pos)) {} else {$pos = 1;}
 
@@ -79,6 +84,34 @@ include("header.php");
 print "<p class='breadcrumbs'>" . $breadcrumb->show_breadcrumb() . "</p>";
 
 
+print '<div class="content">'; 
+
+$searchterms = array();
+print "<p class='postcardnav'>Search results for ";
+// FIXME: maybe put this in an unordered list?  might be cleaner...
+// also make text smaller, as it is in browse.php...  highlight search terms to match text?
+if ($title) { array_push($searchterms, "'$title' in title"); }
+if ($figdesc) { array_push($searchterms, "'$figdesc' in figure description"); }
+foreach ($category as $c) {
+  if ($c != "null") {  	// if null, skip
+       array_push($searchterms, $ig->group($c) . " - " . $ig->name($c));
+  }
+}
+
+$stcount = count($searchterms);
+switch ($stcount) {
+ case 1 : print " $searchterms[0]"; break;
+ case 2 : print " $searchterms[0] and $searchterms[1]"; break;
+ default :
+   foreach ($searchterms as $st) {
+     if ($st == $searchterms[$stcount-1]) { print " and $st"; }
+     else { print "$st, "; }
+   }
+}
+
+print "</p>";
+
+
 print "<p>Displaying postcard";
 ($tamino->quantity > 1) ? print "s " : print " ";
 print $tamino->position;
@@ -88,6 +121,7 @@ print " of " . $tamino->count . "</p>";
 // links to more results
 if ($tamino->count > $maxdisplay) {
   $result_links .= 'More postcards:';
+  $first = true;
   for ($i = 1; $i <= $tamino->count; $i += $maxdisplay) {
     if ($i == $pos) { next; }	// skip current set of results
     else {
@@ -97,12 +131,17 @@ if ($tamino->count > $maxdisplay) {
       if ($cat) { $url .= "&cat=$cat"; }
       // now add the key piece: the new position
       $url .= "&position=$i";
+      $li = "<li class='horiz' ";
+      if ($first) { $li .= "id='first'"; $first = false;}
+      $li .= ">";
+      $result_links .= "$li";
       $result_links .= " <a href='$url'>";
       $j = min($tamino->count, ($i + $maxdisplay - 1));
       // special case-- last set only has one result
       if ($i == $j) { $result_links .= "$i"; }
       else { $result_links .= "$i - $j"; }
       $result_links .= "</a> ";
+      $result_links .= "</li>";
     }
   }
 }
@@ -110,13 +149,11 @@ if ($tamino->count > $maxdisplay) {
 print $result_links;
 
 
-print '<div class="content">'; 
-
-chdir("..");
 $tamino->xslTransform($xsl_file, $xsl_params);
-chdir("postcards");
 //$tamino->xslTransform($xsl_file);
-$tamino->printResult();
+
+// FIXME: why is it only highlighting one term and not both?
+$tamino->printResult($terms);
 
 print '</div>';
 

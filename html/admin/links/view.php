@@ -13,7 +13,6 @@ print "<html>
 // name of the current file (for links that display same content with different options)
 $self = "view.php";
 
-include("../../config.php");
 include_once ("lib/alinkCollection.class.php");
 include_once("lib/mybreadcrumb.php");
 

@@ -140,10 +140,11 @@ class subjectList {
     print "</select>\n"; 
   }
 
-  function printRemovalForm () {
-    print '<form action="modify_subj.php" method="get">';
+  function printRemovalForm ($action = "modify_subj.php") {
+    print "<form action=\"$action\" method=\"get\">";
     print '<input type="hidden" name="mode" value="del">';
     $this->printSelectList();
+    print '<br>';
     print '<input type="submit" value="Remove">';
     print '<input type="reset">';
     print '</form>';

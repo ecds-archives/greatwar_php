@@ -1,16 +1,6 @@
 <?php
 include("../config.php");	
 
-print "<html>
-  <head> 
-    $csslink
-    <title>The Great War : Postcards : Detail</title>
-    <meta http-equiv='Content-Type' content='text/html; charset=iso-8859-1'>
-    <base href='$base_url'>
-  </head> 
-<body> 
-"; 
-
 include_once("lib/taminoConnection.class.php");
 include_once("lib/mybreadcrumb.php");
 
@@ -36,8 +26,25 @@ $query .= '" return $a }"';
 $query .= '{ for $b in input()/TEI.2/:text/back/:div//interpGrp return $b }</div>';
 // need to retrieve interpGrps to display categories nicely
 $xsl_file = "figures.xsl";
+$tamino->xquery($query);
+$title = $tamino->findNode("head");
 
-include("header.html");   
+// FIXME: titles with tags in them will display a little strangely
+
+print "<html>
+  <head> 
+    $csslink
+    <title>The Great War : Postcards : $title ";
+($zoom == "2") ? print "(Double size)" : print "(Full Details)";
+print "</title>
+    <meta http-equiv='Content-Type' content='text/html; charset=iso-8859-1'>
+    <base href='$base_url'>
+  </head> 
+<body> 
+"; 
+
+
+include("header.php");   
 
 print "<p class='breadcrumbs'>" . $breadcrumb->show_breadcrumb() . " ";
 ($zoom == "2") ? print "(Double size)" : print "(Full Details)";
@@ -52,8 +59,6 @@ print '<p class="breadcrumbs">
 
 print '<div class="content">'; 
 
-// need to add an option to use cursor... 
-$tamino->xquery($query); 
 
 $tamino->xslTransform($xsl_file, $xsl_params); 
 $tamino->printResult();

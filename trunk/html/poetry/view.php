@@ -43,7 +43,7 @@ $title = str_replace("</hi>", "", $title);
 print "<html>
   <head> 
     $csslink
-    <title>The Great War : Poetry : $title</title> 
+    <title>The Great War : Poetry : Poem - $title</title> 
     <meta http-equiv='Content-Type' content='text/html; charset=iso-8859-1'> 
     <base href='$base_url'> 
   </head> 

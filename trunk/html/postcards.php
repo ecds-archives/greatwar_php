@@ -10,18 +10,19 @@
 include_once("lib/taminoConnection.class.php");
 $args = array('host' => "vip.library.emory.edu",
 	      'db' => "WW1",
-	      'debug' => true,
+	      'debug' => false,
 	      'coll' => 'postcards');
 $tamino = new taminoConnection($args);
 
 $query ='for $a in input()/TEI.2/:text/body/p/figure
 return $a';
-$xsl_file = "xsl/figures.xsl";
+$xsl_file = "figures.xsl";
 
 include("header.html");
 
 print '<div class="content">';
 
+// need to add an option to use cursor...
 $rval = $tamino->xquery($query);
 if ($rval) {       // tamino Error code (0 = success)
   print "<p>Error: failed to retrieve contents.<br>";
@@ -33,6 +34,11 @@ $tamino->xslTransform($xsl_file);
 $tamino->printResult($myterms);
 
 print '</div>';
+
+print '<div class="sidebar">';
+include("searchbox.html");
+print '</div>';
+
 include("footer.html");
 
 ?>

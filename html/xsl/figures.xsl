@@ -46,7 +46,7 @@
 	<xsl:attribute name="src"><xsl:value-of select="concat($image_baseurl, 'thumbnail/', @entity, '.jpg')"/></xsl:attribute>
     </xsl:element>
     </a>
-  <br/>
+  <br/> 
 	<xsl:value-of select="head"/>
   </p>
 
@@ -70,6 +70,13 @@
 
 <!-- full-size image and full text description, side by side -->
 <xsl:template match="figure" mode="full">
+   <p><a>
+      <xsl:attribute name="href">postcards/view.php?id=<xsl:value-of
+select="@entity"/>&amp;zoom=2</xsl:attribute>
+	View larger image
+     </a>
+   </p>
+
    <table>
    <tr><td>
     <a class="img">
@@ -83,12 +90,6 @@
    <td class="description">
      <xsl:call-template name="figure-description"/>
    
-   <p><a>
-      <xsl:attribute name="href">postcards/view.php?id=<xsl:value-of
-select="@entity"/>&amp;zoom=2</xsl:attribute>
-	View larger image
-     </a>
-   </p>
    </td></tr>
    </table>
 </xsl:template>
@@ -117,22 +118,19 @@ select="@entity"/>&amp;zoom=2</xsl:attribute>
 <!-- double-size image with title only -->
 <xsl:template match="figure" mode="zoom">
 
-   <xsl:apply-templates select="head"/>
-
-    <xsl:element name="img">
-	<xsl:attribute name="src"><xsl:value-of select="concat($image_baseurl, 'doublesize/', @entity, '.jpg')"/></xsl:attribute>
-    </xsl:element>
-
    <p><a>
       <xsl:attribute name="href">postcards/view.php?id=<xsl:value-of select="@entity"/></xsl:attribute>
 	View full details
      </a>
    </p>
 
+   <xsl:apply-templates select="head"/>
 
+    <xsl:element name="img">
+	<xsl:attribute name="src"><xsl:value-of select="concat($image_baseurl, 'doublesize/', @entity, '.jpg')"/></xsl:attribute>
+    </xsl:element>
 
 </xsl:template>
-
 
 
 
@@ -152,6 +150,9 @@ select="@entity"/>&amp;zoom=2</xsl:attribute>
   <xsl:apply-templates/><br/>
 </xsl:template>
 
+<xsl:template match="lb">
+  <br/>
+</xsl:template>
 
 <!-- keys to access human readable interp categories & values -->
 <xsl:key name="interp-name" match="//interp/@value" use="../@id"/>

@@ -49,7 +49,7 @@ $tamino->xslTransform($pcard_xsl, $pcard_params);
 $tamino->printResult();
 print '</div>';
 
-print '<p>For more information about the postcards, read <i>about the project</i> <font size="-1">[essay not yet available]</font>.</p> 
+print '<p>For more information about the postcards, read <a href="about.php">about  this project</a>.</p> 
 <p> 
 There are several different ways to view the postcards: 
 <ul> 

@@ -89,7 +89,8 @@ class linkCollection {
     $rval = $this->tamino->xquery($this->xquery);
     if ($rval) {       // tamino Error
       print "<p>LinkCollection Error: failed to retrieve linkRecord id list.<br>";
-      print "(Tamino error code $rval)</p>";
+      if ($this->tamino->debug) { print "(Tamino error code $rval)"; }
+      print "</p>";
     } else {       
       // convert xml ids into a php array 
       $this->ids = array();
@@ -132,36 +133,44 @@ class linkCollection {
   // print sort options linked to the url passed in
   // mode-- user vs. admin ?
   function printSortOptions ($url, $mode = "user") {
-    print "<p align='center'><b>Sort by:</b> ";
-    if ($mode == "user") {
-      $sort = $this->user_sort_opts;
-    } else if ($mode == "admin") {
-      $sort = $this->sort_opts;
-    }
+    if ($this->tamino->xml) {		// only display if we have content
+      print "<p align='center'><b>Sort by:</b> ";
+      if ($mode == "user") {
+        $sort = $this->user_sort_opts;
+      } else if ($mode == "admin") {
+        $sort = $this->sort_opts;
+      }
 
-    foreach ($sort as $s) {
-      if ($s != $sort[0]) {
-	 // print a separator between terms
-	 print " | ";
+      foreach ($sort as $s) {
+        if ($s != $sort[0]) {
+  	 // print a separator between terms
+  	 print " | ";
+        }
+        if ($s == $this->sort) {
+ 	  print "&nbsp;" . $this->pretty_sort_opts[$s] . "&nbsp;";
+        } else {
+  	  print "&nbsp;<a href='$url?sort=$s'>" . 
+	  $this->pretty_sort_opts[$s] . "</a>&nbsp;";
+        }
       }
-      if ($s == $this->sort) {
-	print "&nbsp;" . $this->pretty_sort_opts[$s] . "&nbsp;";
-      } else {
-	print "&nbsp;<a href='$url?sort=$s'>" . 
-	$this->pretty_sort_opts[$s] . "</a>&nbsp;";
-      }
+      print "</p>";
+    } else if ($this->tamino->debug) {
+	print "<p><b>Warning:</b> in linkCollection::printSortOptions; XML is undefined, not printing sort options.</p>\n";
     }
-    print "</p>";
   }
 
   // drop-down box to limit links by subject
   // optionally specify the current selection (by default, none)
   function printSubjectOptions ($url, $selected = NULL) {
-    print "Limit by Subject:<br>\n";
-    print "<form action='$url' method='get'>\n";
-    $this->subject->printSelectList($selected, 1, 'no', true);
-    print '<input type="submit" value="Go">';
-    print "</form>\n";
+    if ($this->tamino->xml) {		// only display if we have content
+      print "Limit by Subject:<br>\n";
+      print "<form action='$url' method='get'>\n";
+      $this->subject->printSelectList($selected, 1, 'no', true);
+      print '<input type="submit" value="Go">';
+      print "</form>\n";
+    } else if ($this->tamino->debug) {
+      print "<p><b>Warning:</b> in linkCollection::printSubjectOptions; XML is undefined, not printing subject options.</p>\n";
+    }
   }
 
 

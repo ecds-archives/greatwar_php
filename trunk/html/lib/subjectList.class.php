@@ -58,7 +58,8 @@ class subjectList {
     $rval = $this->tamino->xquery($this->xquery('subject'));
     if ($rval) {
       print "<p>SubjectList Error: failed to retrieve subject list.<br>";
-      print "(Tamino error code $rval)</p>";
+      if ($this->tamino->debug) { print "(Tamino error code $rval)"; }
+      print "</p>";
     } else {       
       // convert xml subjects into a php array 
       $this->subjects = array();
@@ -79,7 +80,8 @@ class subjectList {
     $rval = $this->tamino->xquery($this->xquery('delete', $subj));
     if ($rval) {
       print "<p>There was an error deleting <b>$subj</b> from the subject list.<br>";
-      print "(Tamino error code $rval).</p>";
+      if ($this->tamino->debug) { print "(Tamino error code $rval)."; }
+      print "</p>";
     } else {
       print "<p>Successfully deleted <b>$subj</b> from the subject list.</p>";
     } 
@@ -90,7 +92,8 @@ class subjectList {
     $rval = $this->tamino->xquery($this->xquery('add', $subj));
     if ($rval) {
       print "<p>There was an error adding <b>$subj</b> to the subject list.<br>";
-      print "(Tamino error code $rval).</p>";
+      if ($this->tamino->debug) { print "(Tamino error code $rval)."; }
+      print "</p>";
     } else {
       print "<p>Successfully added <b>$subj</b> to the subject list.</p>";
     }
@@ -115,29 +118,35 @@ class subjectList {
      will be selected by default.
   */
   function printSelectList ($matches = NULL, $size = 5, $multiple = 'yes',
-			    $viewall = false) { 
-    $selected = '';
-    print "<select name='subj[]' "; 
-    if (($size != 1) && $multiple != 'no') {
-      // browsers seem to handle the select better if size is 
-      // not specified, rather than being set to 1
-      print " size='$size' multiple='$multiple'";  
-    }
-    print ">\n"; 
-    if ($viewall) {
-      print "<option value='all'>View All</option>\n";
-    }
-
-    foreach ($this->subjects as $subj) { 
-      // mark a subject as selected if it is in the list of matches
-      if (isset($matches) && (in_array($subj, $matches))) { 
-	$selected = "selected='yes' ";
-      } else {
-	$selected = "";
+			    $viewall = false) {
+    if ($this->tamino->xml) {		// only display if we have content
+      $selected = '';
+      print "<select name='subj[]'"; 
+      if (($size != 1) && $multiple != 'no') {
+        // browsers seem to handle the select better if size is 
+        // not specified, rather than being set to 1
+        print " size='$size' multiple='$multiple'";  
       }
-      print "<option value='$subj' $selected>$subj</option>\n"; 
-    } 
-    print "</select>\n"; 
+      print ">\n"; 
+      if ($viewall) {
+        print "<option value='all'>View All</option>\n";
+      }
+
+      foreach ($this->subjects as $subj) { 
+        // mark a subject as selected if it is in the list of matches
+       if (isset($matches) && (in_array($subj, $matches))) { 
+	  $selected = "selected='yes' ";
+        } else {
+  	  $selected = "";
+        }
+        print "<option value='$subj' $selected>$subj</option>\n"; 
+      } 
+      print "</select>\n";
+    } else if ($this->tamino->debug) {
+      	print "<p><b>Warning:</b> in SubjectList::printSelectList; XML is undefined, not printing select list.</p>\n";
+    } else {
+      print "Subject List unavailable.";
+    }
   }
 
   function printRemovalForm ($action = "modify_subj.php") {

@@ -1,13 +1,15 @@
 <html>
   <head>
-    <link rel="stylesheet" type="text/css" href="wwi.css">
+    <link rel="stylesheet" type="text/css" href="../wwi.css">
     <title>The Great War : Postcards : Thumbnails</title>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-    <base href="http://reagan.library.emory.edu/rebecca/ilnweb/">
+    <base href="http://reagan.library.emory.edu/rebecca/wwiweb/">
   </head>
 <body>
 
 <?php
+// run everything as if one directory up
+chdir("..");
 include_once("lib/taminoConnection.class.php");
 $args = array('host' => "vip.library.emory.edu",
 	      'db' => "WW1",

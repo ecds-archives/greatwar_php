@@ -7,18 +7,27 @@
 
 
 <xsl:param name="desc"/>
+<xsl:param name="mode"/>	
+<!-- default mode: output pretty linked list; form mode: select box -->
 
 <xsl:output method="html"/>  
 
 <xsl:template match="/"> 
 
-  <xsl:element name="script">
-    <xsl:attribute name="language">Javascript</xsl:attribute>
-    <xsl:attribute name="src">toggle-list.js</xsl:attribute>
-  </xsl:element> <!-- script -->
+  <xsl:choose>
+   <xsl:when test="$mode = 'form'">
+      <xsl:apply-templates select="//interpGrp" mode="form"/>
+   </xsl:when> 
+   <xsl:otherwise>
+      <xsl:element name="script">
+        <xsl:attribute name="language">Javascript</xsl:attribute>
+        <xsl:attribute name="src">toggle-list.js</xsl:attribute>
+      </xsl:element> <!-- script -->
 
-  <h3>Categories</h3>
-  <xsl:apply-templates select="//interpGrp" />
+      <h3>Categories</h3>
+      <xsl:apply-templates select="//interpGrp" />
+   </xsl:otherwise>
+  </xsl:choose>
 
 </xsl:template> 
 
@@ -57,5 +66,27 @@ select="@id"/>&amp;desc=<xsl:value-of select="$desc"/></xsl:attribute>
    </xsl:element>
   </li>
 </xsl:template>
+
+<xsl:template match="interpGrp" mode="form">
+  <!-- translate any spaces to dashes for easier passing as http variables -->
+  <xsl:variable name="space"> </xsl:variable>
+  <xsl:variable name="dash">-</xsl:variable>
+  <tr><th><xsl:value-of select="@type"/></th>
+  <td>
+  <select>
+    <xsl:attribute name="name"><xsl:value-of select="translate(@type,$space,$dash)"/></xsl:attribute>
+    <option selected="true" value="null">--</option>
+    <xsl:apply-templates mode="form"/>
+  </select>
+  </td></tr>
+</xsl:template>
+
+<xsl:template match="interp" mode="form">
+  <option>
+   <xsl:attribute name="value"><xsl:value-of select="@id"/></xsl:attribute>
+    <xsl:value-of select="@value"/>
+  </option>
+</xsl:template>
+
 
 </xsl:stylesheet>

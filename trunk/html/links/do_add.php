@@ -1,19 +1,19 @@
 <html>
   <head>
-    <link rel="stylesheet" type="text/css" href="../wwi.css">
+<!--    <link rel="stylesheet" type="text/css" href="../wwi.css"> -->
     <title>The Great War : Links : Process New Link</title>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-    <base href="http://reagan.library.emory.edu/rebecca/wwiweb/">
+<!--    <base href="http://reagan.library.emory.edu/rebecca/wwiweb/"> -->
   </head>
 <body>
 
 <?php
 // run everything as if one directory up
-chdir("..");
+include("../config.php");	
 include_once ("lib/alinkRecord.class.php");
 include_once("lib/mybreadcrumb.php");
 
-include("header.html");
+include("header.php");
 print "<p class='breadcrumbs'>" . $breadcrumb->show_breadcrumb() . "</p>";
 
 print '<div class="content">'; 
@@ -49,13 +49,11 @@ $myargs = array('host' => "vip.library.emory.edu",
 		'debug' => false);
 $newlink = new alinkRecord($myargs, $subject);
 $newlink->taminoAdd();
-chdir("links");		// relative link in printHTML...
 $newlink->printHTML();
 
 print "</div>";
 
 print '<div class="sidebar">';
-chdir("..");
 include("searchbox.html");
 print "</div>";
 

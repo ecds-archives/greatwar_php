@@ -47,7 +47,7 @@ return <div>
 {$div1/head} {$div1/p[1]}
     {for $div2 in $div1/div2 
       return <div2> {$div2/@id} {$div2/@n} {$div2/@type} 
-           {$div2/byline}
+           {$div2/docAuthor}
         </div2> }
    </div1> }
 </div>';

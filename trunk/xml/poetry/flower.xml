@@ -333,7 +333,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             </div2>
             <pb TEIform="pb" n="20 FLOWER OF YOUTH"></pb>
             <div2 TEIform="div2" id="ktflower06" n="THE BRIDE" org="uniform" part="N" sample="complete" type="poem">
-               <head TEIform="head" rend="center">&gt;THE BRIDE</head>
+               <head TEIform="head" rend="center">THE BRIDE</head>
                <lg TEIform="lg" org="uniform" part="N" sample="complete" type="stanza">
                   <l TEIform="l" part="N">WEAVE me no wreath of orange blossom, </l>
                   <l TEIform="l" part="N" rend="indent">No bridal white shall me adorn; </l>
@@ -1331,7 +1331,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
             <pb TEIform="pb" n="61 THE FIELDS OF FRANCE"></pb>
             <div2 TEIform="div2" id="ktflower31" n="THE FIELDS OF FRANCE" org="uniform" part="N" sample="complete" type="poem">
                <head TEIform="head" rend="center">THE FIELDS OF FRANCE</head>
-               <head TEIform="head" rend="center">&quot;<hi TEIform="hi" rend="italic">Nous avons chassé ce Jesus Christ&quot;</hi> 
+               <head TEIform="head" rend="center">&quot;<hi TEIform="hi" rend="italic">Nous avons chass&#x00E9; ce Jesus Christ&quot;</hi> 
                </head>
                <lg TEIform="lg" org="uniform" part="N" sample="complete" type="stanza">
                   <l TEIform="l" part="N">JESUS CHRIST they chased away</l>
@@ -1591,7 +1591,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
                   <l TEIform="l" part="N" rend="indent">
                      <hi TEIform="hi" rend="italic">And taste the sun and wind: </hi>
                   </l>
-                  <l TEIform="l" part="N" rend="italic">For I have gotten a golden key&lt;</l>
+                  <l TEIform="l" part="N" rend="italic">For I have gotten a golden key</l>
                   <l TEIform="l" part="N" rend="italic">To set all lonesome prisoners free. </l>
                </lg>
                <pb TEIform="pb" n="71 DEAD-A PRISONER"></pb>

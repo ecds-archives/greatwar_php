@@ -30,7 +30,7 @@
 	 <seriesStmt>
 	   <title>The Great War</title>
 	 </seriesStmt>
-	 <notesStmt><note></note></notesStmt>
+	 <notesStmt><note/></notesStmt>
          <sourceDesc><!-- put the actual publication data for the book
 	   in this section --> 
             <bibl>
@@ -60,15 +60,15 @@
 	</tagsDecl>
 	<refsDecl><p>The page numbers of the volumes are indicated by
 	page break elements</p>
-	<p></p>
+	<p/>
 	</refsDecl>
 	<classDecl>
 	  <taxonomy>
-	  <category><catDesc></catDesc></category>
+	  <category><catDesc/></category>
 	  </taxonomy>
 	</classDecl>
       </encodingDesc>
-      <profileDesc></profileDesc>
+      <profileDesc/>
       <revisionDesc><!-- add your information here -->
 	<change>
 	  <date>2004</date>
@@ -92,10 +92,11 @@
 <body>
 <div1 id="Eaton001" type="Anthology" n="Great War Poems of the World War">
 <head rend="center">GREAT POEMS OF THE WORLD WAR</head>
-<div2 id ="Eaton002"  type="poem"  n="Before Action">
+<div2 id="Eaton002" type="poem" n="Before Action">
+<docAuthor n="Hodgson, William Noel">Lieut. William Noel Hodgson</docAuthor>
 <pb n="13"/>
 <head rend="center">BEFORE ACTION</head>
-<byline rend="center"><docAuthor >Lieut. William Noel Hodgson</docAuthor><lb/>
+<byline rend="center"><docAuthor>Lieut. William Noel Hodgson</docAuthor><lb/>
 <hi rend="smallcap">Military Cross, Devon Regiment-Killed in Battle</hi><lb/>
 From "Verse and Prose in Peace and War." John Murray, Publisher, London.  Permission to reproduce in this book.</byline>
 <lg type="stanza">
@@ -128,9 +129,10 @@ From "Verse and Prose in Peace and War." John Murray, Publisher, London.  Permis
 <l>By all delights that I shall miss,</l>
 <l rend="indent2">Help me to die, O Lord.</l></lg></div2>
 <pb n="14"/>
-<div2 id= "eaton003"   type="poem" n= "Alan Seeger">
-<head rend= "center">"ALAN SEEGER"</head>
-<byline rend= "center"><docAuthor>WASHINGTON VAN DUSEN</docAuthor>
+<div2 id="eaton003" type="poem" n="Alan Seeger">
+<docAuthor n="Van Dusen, Washington">Washington Van Dusen</docAuthor>
+<head rend="center">"ALAN SEEGER"</head>
+<byline rend="center"><docAuthor>WASHINGTON VAN DUSEN</docAuthor>
 <hi rend="smallcap">in The Chicago Tribune</hi></byline>
 <lg>
 <l>No beauty could escape his loving eyes,</l> 
@@ -149,9 +151,9 @@ From "Verse and Prose in Peace and War." John Murray, Publisher, London.  Permis
 <l>And faced the battle with a spirit rare,</l> 
 <l rend="indent4">For death may be more wonderful than life.</l></lg></div2>
 
-<div2 id="Eaton004"  type="poem" n="The Nurse">
+<div2 id="Eaton004" type="poem" n="The Nurse">
 <head rend="center">THE NURSE</head>
-<byline rend ="center"><hi rend="smallcap">in London Punch</hi> <lb/>
+<byline rend="center"><hi rend="smallcap">in London Punch</hi> <lb/>
 Reproduced by special permission of the Proprietors of "Punch"</byline>
 <lg><l n="1">Here in the long white ward I stand, </l>
 <l rend="indent2">Pausing a little breathless space,</l>
@@ -171,7 +173,8 @@ Reproduced by special permission of the Proprietors of "Punch"</byline>
 <l rend="indent2"><hi rend="italic">Lies my beloved even as
 these?</hi></l></lg><pb n="15"/></div2>
 
-<div2 id="Eaton005"  type="poem" n="The Little Home Paper">
+<div2 id="Eaton005" type="poem" n="The Little Home Paper">
+<docAuthor n="Towne, Charles Hanson">Charles Hanson Towne</docAuthor>
 <head rend="center">THE LITTLE HOME PAPER</head>
 <byline rend="center"><docAuthor>CHARLES HANSON TOWNE</docAuthor><lb/>
 <hi rend="smallcap">IN The American Magazine</hi><lb/>
@@ -227,6 +230,7 @@ Permission to reproduce in this book</byline>
 <l>But he's put East Dunkirk on the map!</l></lg></div2>
 
 <div2 id="Eaton006" type="poem" n="No Man's Land">
+<docAuthor n="Knight-Adkin, James H.">Capt. James H. Knight-Adkin</docAuthor>
 <head rend="center">NO MAN'S LAND</head>
 <byline rend="center"><docAuthor> CAPT. JAMES
 H. KNIGHT-ADKIN</docAuthor> In<hi rend="smallcap"> The Spectator</hi></byline>
@@ -272,6 +276,7 @@ H. KNIGHT-ADKIN</docAuthor> In<hi rend="smallcap"> The Spectator</hi></byline>
 <l>Is hunting for blood in No Man's Land.</l></lg></div2>
 
 <div2 id="Eaton007" type="poem" n="The Gold Star">
+<docAuthor n="Guest, Edgar A.">Edgar A. Guest</docAuthor>
 <head rend="center">THE GOLD STAR</head>
 <byline rend="center"><docAuthor>EDGAR A. GUEST</docAuthor>
 Copyright, 1918, by Edgar A. Guest.  Special permission to reproduce in this book.</byline>
@@ -300,7 +305,7 @@ Copyright, 1918, by Edgar A. Guest.  Special permission to reproduce in this boo
 <head rend="center">Watchin' Out For Subs</head>
 <byline rend="center">U. A. L.<lb/>
 From Bert Leston Taylor's column, "A Line o' Type or Two,"<lb/>
-<hi rend ="smallcap">in The Chicago Tribune</hi></byline>
+<hi rend="smallcap">in The Chicago Tribune</hi></byline>
 <lg>
 <l n="1">Bosun's whistle piping, "Starboard watch is on" </l>
 <l>Sleepy army officer, waked at crack o' dawn; </l>
@@ -319,6 +324,7 @@ From Bert Leston Taylor's column, "A Line o' Type or Two,"<lb/>
 <l>Wake, ye new Crusaders! Look!--the shores of France!</l></lg><pb n="19"/></div2>
 
 <div2 id="Eaton009" type="poem" n="French in the Trenches">
+<docAuthor n="Robinson, William J.">William J. Robinson</docAuthor>
 <head rend="center">FRENCH IN THE TRENCHES</head>
 <byline rend="center"><docAuthor>WILLIAM J. ROBINSON</docAuthor>
  <hi rend="smallcap">IN The San Francisco Argonaut</hi><lb/>
@@ -358,7 +364,8 @@ Permission to reproduce in this book</byline>
 <l>And though we scarcely spoke a word, I wonder lust the </l>
 <l>same</l>
 <l>If he'll ever see them kids of his--I never asked his name.</l></lg></div2>
-<div2 id="Eaton010"  type="poem" n="Litany">
+<div2 id="Eaton010" type="poem" n="Litany">
+<docAuthor n="Gregory, Allene">Allene Gregory</docAuthor>
 <head rend="center">LITANY</head>
 <byline rend="center"><docAuthor>ALLENE GREGORY</docAuthor><lb/>
 <hi rend="smallcap"> IN Harriet Monroe's Poetry Magazine</hi><lb/>
@@ -381,7 +388,8 @@ Permission to reproduce in this book</byline>
 <l>Then, Mother of the Sacrificed, </l>
 <l rend="indent2">Teach me what prayer to pray!</l></lg>
 <pb n="21"/></div2>
-<div2 id="Eaton011"  type="poem" n=" Ragnarok">
+<div2 id="Eaton011" type="poem" n=" Ragnarok">
+<docAuthor n="Guiterman, Arthur">Arthur Guiterman</docAuthor>
 <head rend="center">RAGNAROK <lb/>
 <hi rend="smallcap">The Twilight OF The Gods</hi></head>
 <byline rend="center"><docAuthor>Arthur Guiterman</docAuthor><lb/>
@@ -451,7 +459,8 @@ Permission to reproduce in this book</byline>
 <l>Our little gods must perish </l>
 <l>That God I himself shall reign!</l></lg>
 <pb n="23"/></div2>
-<div2 id="Eaton012"  type="poem" n="The Kid Has Gone To The Colors">
+<div2 id="Eaton012" type="poem" n="The Kid Has Gone To The Colors">
+<docAuthor n="Herschell, William">William Herschell</docAuthor>
 <head rend="center">THE KID HAS GONE TO THE COLORS</head>
 <byline rend="center"><docAuthor>William Herschell</docAuthor><lb/>
 <hi rend="smallcap">IN The Indianapolis News</hi><lb/>
@@ -497,6 +506,7 @@ Permission to reproduce in this book</byline>
 <l rend="indent2">Was changed by the Flag to a man!</l></lg></div2>
 
 <div2 id="Eaton013" type="poem" n="A Scrap of Paper">
+<docAuthor n="Kaufman, Herbert">Herbert Kaufman</docAuthor>
 <head rend="center">A SCRAP OF PAPER</head>
 <byline rend="center"><docAuthor>HERBERT KAUFMAN</docAuthor><lb/>From, Mr. Kaufman's book of poems. "The Hell-Gate of Soissons." T. Fisher Unwin,, Publishers (all rights reserved), London, England. Special permission to reproduce in this book</byline>
 <p>"Just for a word, 'neutrality' . . just for a scrap of
@@ -524,6 +534,7 @@ German Chancellor to the British Ambassador in Berlin</p>
 <l>Just for British name!</l></lg>
 <pb n="25"/></div2>
 <div2 id="Eaton014" type="poem" n="Poppies">
+<docAuthor n="Hanson, John Mills">Capt. John Mills Hanson</docAuthor>
 <head rend="center">POPPIES</head>
 <byline rend="center"><docAuthor>CAPT. JOHN MILLS HANSON, F.A.</docAuthor><lb/>
 <hi rend="smallcap">IN The Stars And Stripes</hi>, A.E.F.,<hi rend="smallcap"> France</hi></byline>
@@ -555,6 +566,7 @@ German Chancellor to the British Ambassador in Berlin</p>
 <l>Poppies of the wheat fields on the ransomed hills of France</l></lg>
 <pb n="26"/></div2>
 <div2 id="Eaton015" type="poem" n="As The Trucks Go Rollin' By">
+<docAuthor n="Suckert, L. W.">Lieut. L. W. Suckert. A.S</docAuthor>
 <head rend="center">AS THE TRUCKS GO ROLLIN' BY</head>
 <byline rend="center"><docAuthor>LIEUT. L. W. SUCKERT. A.S., U.S.A.</docAuthor><lb/> 
 <hi rend="smallcap">IN The Stars And Stripes</hi>, A.E.F.,<hi rend="smallcap"> France</hi></byline>
@@ -594,6 +606,7 @@ German Chancellor to the British Ambassador in Berlin</p>
 <l>They're bound for paths o' glory, or, p'raps, to fight 'n' die--</l>
 <l>God 'less that Yankee cargo in the trucks a-rollin' by.</l></lg></div2>
 <div2 id="Eaton016" type="poem" n="The Graves Of Gallipoli">
+<docAuthor n="L., L.">L. L</docAuthor>
 <head rend="center">THE GRAVES OF GALLIPOLI</head>
 <byline rend="center">L. L. (A. N. Z. A. C.)<lb/>From, 'The Anzac Book," Cassell &#x0026; Co., Ltd.. Publishers, London. Special permission to reproduce in this book.</byline>
 <note>This poem is one of many that were written to commemorate the stubborn bravery of the Anzacs, the British soldiers from Australia and New Zealand. These indomitables came half way round the globe at Britain's first call. Their first appearance was in Egypt, where they drove the German--led Turks back into the desert and saved the Suez canal. They were and are officially designated the "Australian and New Zealand Army Corps," a title too long for common use. They have won fame and the world's admiration as the "Anzacs." a word made by running together the first letters of their official title. Australia's own name for her soldier is Bill--Jim. 'The Graves of Gallipoli" is one of the most noble and tender poems that have come to us out of the war</note>
@@ -641,7 +654,8 @@ German Chancellor to the British Ambassador in Berlin</p>
 <l>Much was demanded. Lo! our store was small--</l>
 <l>That which we had we gave--it was our lives."</l></lg><pb n="29"/></div2>
 
-<div2 id="Eaton017"  type="poem" n=" Battle of Belleau Wood">
+<div2 id="Eaton017" type="poem" n=" Battle of Belleau Wood">
+<docAuthor n="Guest, Edgar A.">Edgar A. Guest</docAuthor>
 <head rend="center">Battle Of Belleau Wood</head>
 <byline rend="center"><docAuthor>EDGAR A. GUEST</docAuthor></byline>
 <note>This poem was chosen by Major General John A. Lejeune, Commandant of the United States Marine Corps, as his favorite of all the Marine Corps verse written during the war.  It is republished here by permission of the author and of the publishers, Reilly and Lee, who hold the copyright</note>
@@ -677,6 +691,7 @@ they went</l>
 <l>With Old Glory proudly flying o'er the trees of Belleau Wood.</l></lg></div2>
 
 <div2 id="Eaton018" type="poem" n="Poor Old Ship">
+<docAuthor n="Smith, C. Fox">C. Fox Smith</docAuthor>
 <head rend="center">"POOR OLD SHIP!"</head>
 <byline rend="center"><docAuthor>C. FOX SMITH </docAuthor><lb/>
 <hi rend="smallcap">IN Punch</hi><lb/>Reproduced by special permission of the Proprietors of "Punch"</byline>
@@ -687,9 +702,9 @@ they went</l>
 <l>And we had to go and leave her there and, poor old ship, she's gone.</l>
 <l>All that was good of her, all that was bad of her, </l>
 <l>All that we gave to her, all that we had of her, </l>
-<l> rend="indent11">Poor old ship, she's gone!</l></lg>
+<l rend="indent11">Poor old ship, she's gone!</l></lg>
 <lg>
-<l>The times we spent aboard her, they was oftener bad than good,</l >
+<l>The times we spent aboard her, they was oftener bad than good,</l>
 <l>But bad or good, we'd live the lot all over if we could;</l><pb n="31"/>
 <l>She's stood her trick as well as us, she's had her whack of fun,</l>
 <l>She's shared it all with sailormen, and poor old ship, she's done.</l>
@@ -722,6 +737,7 @@ they went</l>
 <l rend="indent11">Poor old ship she's done!"</l></lg></div2>
 
 <div2 id="Eaton019" type="poem" n="Passing The Buck">
+<docAuthor n="Nygaard, Norman E.">Sergt. Norman E. Nygaard</docAuthor>
 <head rend="center">PASSING THE BUCK</head>
 <byline rend="center"><docAuthor>SERGT. NORMAN E. NYGAARD, 313TH SN. TN.</docAuthor><lb/>
 <hi rend="smallcap">IN The Stars And Stripes</hi>, A.E.F.,<hi rend="smallcap"> France</hi></byline>
@@ -780,6 +796,7 @@ they went</l>
 <l rend="indent3">An' I hope you come out wrong.</l></lg></div2>
 
 <div2 id="Eaton020" type="poem" n="The Return">
+<docAuthor n="Banks, Theodore Howard">Theodore Howard Banks</docAuthor>
 <head rend="center">THE RETURN</head>
 <byline rend="center"><docAuthor>THEODORE HOWARD BANKS, JR</docAuthor><lb/>
 <hi rend="smallcap">IN Everybody's Magazine</hi><lb/>Permission to reproduce in this book</byline>
@@ -789,6 +806,7 @@ they went</l>
 <l rend="indent2">Mindful of the unnumbered graves of France, </l>
 <l>Where love lies buried on each trampled hill.</l></lg><pb n="34"/></div2>
 <div2 id="Eaton021" type="poem" n="Bullington">
+<docAuthor n="Smith, C. Fox">C. Fox Smith</docAuthor>
 <head rend="center"> BULLINGTON</head>
 <byline rend="center">C. FOX SMITH <lb/>
 <hi rend="smallcap">IN Punch</hi><lb/>Reproduced by special permission of the Proprietors of "Punch"</byline>
@@ -835,11 +853,12 @@ they went</l>
 <lg>
 <l>So I roused me from my daydream, for I knew the song spoke true</l>
 <l>That it isn't time for dreaming while there's duty still to do;</l>
-<l>And I turned into the highway where it meets the flinty>lane,</l>
+<l>And I turned into the highway where it meets the flinty lane,</l>
 <l>And world of wars and sorrows was about me once again.
 </l></lg><pb n="36"/></div2>
 
 <div2 id="Eaton022" type="poem" n="The Padre">
+<docAuthor n="Blackall, C. W.">Capt. C. W. Blackall</docAuthor>
 <head rend="center">THE PADRE</head>
 <byline rend="center"><docAuthor>CAPT. C. W. BLACKALL</docAuthor></byline>
 
@@ -914,6 +933,7 @@ they went</l>
 <l rend="indent2">Our Padre 'e's a man.</l></lg></div2>
 
 <div2 id="Eaton023" type="poem" n="Corp'rals Chevrons">
+<docAuthor n="Anonymous">Anonymous</docAuthor>
 <head rend="center">CORP'RAL'S CHEVRONS</head>
 <byline rend="center"><docAuthor>ANONYMOUS</docAuthor><lb/>
 <hi rend="smallcap">IN The Stars And Stripes</hi>, A.E.F.,<hi rend="smallcap"> France</hi></byline>
@@ -929,6 +949,7 @@ they went</l>
 <l>With a newly minted corp'ral comin' down the line.</l></lg></div2>
 
 <div2 id="Eaton024" type="poem" n="The Old Top Sergeant">
+<docAuthor n="Braley, Berton">Berton Braley</docAuthor>
 <head rend="center">THE OLD TOP SERGEANT</head>
 <byline rend="center"><docAuthor>BERTON BRALEY</docAuthor></byline>
 
@@ -984,6 +1005,7 @@ it done!</l></lg>
 <l rend="indent2">That I've trained for the game in France!</l></lg></div2>
 
 <div2 id="Eaton025" type="poem" n="Flag Everlasting">
+<docAuthor n="Riddoch, A. G.">A. G. Riddoch</docAuthor>
 <head rend="center">FLAG EVERLASTING</head>
 <byline rend="center"><docAuthor>A. G. RIDDOCH</docAuthor></byline>
 <lg>
@@ -1034,6 +1056,7 @@ The richest harvests grow, </l>
 <l>Flag Everlasting, Red, White and Blue.</l></lg></div2>
 
 <div2 id="Eaton026" type="poem" n="The Blue And The Gray In France">
+<docAuthor n="Mayo, George M.">George M. Mayo</docAuthor>
 <head rend="center">THE BLUE AND THE GRAY IN FRANCE</head>
 <byline rend="center"><docAuthor>GEORGE M. MAYO</docAuthor></byline>
 <l n="1">HERE'S to the Blue of the wind-swept North, </l>
@@ -1054,6 +1077,7 @@ The richest harvests grow, </l>
 <l rend="indent2">As the sons of the Flag advance.</l></lg><pb n="42"/></div2>
 
 <div2 id="Eaton027" type="poem" n="A Little Town In Senegal">
+<docAuthor n="Thompson, Will">Will Thompson</docAuthor>
 <head rend="center">A LITTLE  TOWN IN SENEGAL </head>
 <byline rend="center"><docAuthor>WILL THOMPSON</docAuthor><lb/>
 <hi rend="smallcap">IN Everybody's Magazine</hi><lb/>Permission reproduce in this book</byline>
@@ -1076,6 +1100,7 @@ The richest harvests grow, </l>
 <l>O little town in Senegal, amid the white--bud trees,</l>
 <l>At Soissons, in Picardv, went north the last of these!</l></lg><pb n="43"/></div2>
 <div2 id="Eaton028" type="poem" n="A Little Grim-Fingerered Girl">
+<docAuthor n="Dodd, Lee Wilson">Lee Wilson Dodd</docAuthor>
 <head rend="center">A LITTLE GRIMY--FINGERED GIRL</head>
 <byline rend="center"><docAuthor>LEE WILSON DODD</docAuthor><lb/> 
 <hi rend="smallcap">IN The Outlook</hi><lb/>Permission to reproduce in this book</byline>
@@ -1112,12 +1137,13 @@ Paris, February, 1918.</dateline>
 
 
 <div2 id="Eaton029" type="poem" n="Soldiers Of The Soil">
+<docAuthor n="Appleton, Everard Jack">Everard Jack Appleton</docAuthor>
 <head rend="center">SOLDIERS OF THE SOIL</head>
 <byline rend="center"><docAuthor>EVERARD JACK
 APPLETON</docAuthor><lb/>By permission of Stewart &#x0026; Kidd
 Company, Cincinnati, Publishers of "With the Colors," by Everard Jack Appleton. Copyright. 1917.</byline>
 <lg>
-<l n="1" >IT'S a high-falutin' title they have handed us;</l>
+<l n="1">IT'S a high-falutin' title they have handed us;</l>
 <l>It's very complimentary and grand; </l>
 <l>But a year or so ago they called us "hicks," you know--</l>
 <l>An' joshed the farmer and his hired hand!</l></lg>
@@ -1155,7 +1181,7 @@ Company, Cincinnati, Publishers of "With the Colors," by Everard Jack Appleton. 
 <l>You will know us soldiers better--</l>
 <l>Th' sweatin', reapin' soldiers, </l>
 <l>Th' soldiers that have hustled</l>
-<l rend="indent3"> >To raise th' grub you need!</l></lg></lg>
+<l rend="indent3">To raise th' grub you need!</l></lg></lg>
 
 <lg>
 <l>It's a mighty fine title you have given us,</l>
@@ -1165,10 +1191,10 @@ Company, Cincinnati, Publishers of "With the Colors," by Everard Jack Appleton. 
 </l></lg></div2>
 
 <div2 id="Eaton030" type="poem" n="The Cross And The Flag">
+<docAuthor n="Henry, William">William Henry</docAuthor>
 <head rend="center">THE CROSS AND THE FLAG </head>
 <byline rend="center">WILLIAM HENRY, CARDINAL O'CONNELL<lb/> 
-<hi rend="smallcap">IN THE CATHOLIC</hi> S<hi
-rend="smallcap">CHOOL JOURNAL</hi></byline>
+<hi rend="smallcap">IN THE CATHOLIC SCHOOL JOURNAL</hi></byline>
 <lg>
 <l n="1">HAIL, banner of our holy faith,</l>
 <l rend="indent">Redemption's sacred sign,</l>
@@ -1191,6 +1217,7 @@ rend="smallcap">CHOOL JOURNAL</hi></byline>
 </l></lg><pb n="46"/></div2>
 
 <div2 id="Eaton031" type="poem" n="The Road To France">
+<docAuthor n="Henderson, Daniel M.">Daniel M. Henderson</docAuthor>
 <head rend="center">THE ROAD TO FRANCE</head>
 <byline rend="center"><docAuthor>DANIEL M. HENDERSON</docAuthor><lb/>Permission to reproduce in this book</byline>
 <note>The 1917 prize of the National Arts Club of New York was awarded to Mr. Henderson's poem. It was chosen out of more than four thousand that were submitted.</note>
@@ -1249,7 +1276,7 @@ IN THE CHICAGO TRIBUNE</byline>
 <note>On the capture of the city by the British under General Allenby September 21, 1918.</note>
 <lg>
 <l n="1">ACROSS the sands by Mary's well</l>
-<l rend="indent2">l>Along the shores of Galilee, </l>
+<l rend="indent2">Along the shores of Galilee, </l>
 <l>The paths are pitted deep with shell</l>
 <l rend="indent2">And drab with marching infantry.</l></lg>
 
@@ -1265,11 +1292,10 @@ IN THE CHICAGO TRIBUNE</byline>
 </l></lg><pb n="48"/></div2>
 
 <div2 id="Eaton033" type="poem" n="The Crimson Cross">
+<docAuthor n="Du Bridge, Elizabeth Brown">Elizabeth Brown Du Bridge</docAuthor>
 <head rend="center">THE CRIMSON CROSS</head>
 <byline rend="center"><docAuthor>ELIZABETH BROWN DU BRIDGE</docAuthor><lb/>
-<hi rend="smallcap">IN THE DAILY</hi> N<hi
-rend="smallcap">EWS</hi>,<hi rend="smallcap"> SAULT</hi> S<hi
-rend="smallcap">TE. MARIE</hi></byline>
+<hi rend="smallcap">IN THE DAILY NEWS, SAULT STE. MARIE</hi></byline>
 <lg>
 <l n="1">OUTSIDE the ancient city's gate </l>
 <l rend="indent">Upon Golgotha's crest</l>
@@ -1313,9 +1339,10 @@ rend="smallcap">TE. MARIE</hi></byline>
 </l></lg></div2>
 
 <div2 id="Eaton034" type="poem" n="Pierrot Goes">
+<docAuthor n="Becker, Charlotte">Charlotte Becker</docAuthor>
 <head rend="center">PIERROT GOES</head>
 <byline rend="center"><docAuthor>CHARLOTTE BECKER</docAuthor><lb/>
-<hi rend="smallcap">IN EVERYBODY'S</hi>hi><hi rend="smallcap"> MAGAZINE</hi><lb/>Permission to reproduce in this book</byline>
+<hi rend="smallcap">IN EVERYBODY'S MAGAZINE</hi><lb/>Permission to reproduce in this book</byline>
 
 <lg>
 <l n="1">UP among the chimneys tall</l>
@@ -1343,6 +1370,7 @@ rend="smallcap">TE. MARIE</hi></byline>
 </l></lg><pb n="50"/></div2>
 
 <div2 id="Eaton035" type="poem" n="A Serbian Epitaph">
+<docAuthor n="Stanimirovic, V.">V. Stanimirovic</docAuthor>
 <head rend="center">A SERBIAN EPITAPH</head>
 <byline rend="center"><docAuthor>V. STANIMIROVIC</docAuthor></byline>
 <note>After the retreat of the Serbian Army across the mountains of Albania in 1915, the survivors who reached the coast were shipped to Corfu. Here, and in the neighboring island of Vido, many of them lied--to begin with, at the rate of hundreds a day. Some of them were buried at sea. Others lie in common graves. In the midst of he mounds which mark their resting--place, and which vary in size, here stands a cross. On it is a Serbian inscription, written by the poet, V. Stanimirovic, and translated for the London Westminster Gazette by Mr. L. F. Waring:</note>
@@ -1360,6 +1388,7 @@ rend="smallcap">TE. MARIE</hi></byline>
 </l></lg></div2>
 
 <div2 id="Eaton036" type="poem" n="The Nightingales Of Flanders">
+<docAuthor n="Conkling, Grace Hazard">Grace Hazard Conkling</docAuthor>
 <head rend="center">THE NIGHTINGALES OF FLANDERS</head>
 <byline rend="center"><docAuthor>GRACE HAZARD CONKLING</docAuthor><lb/>
 <hi rend="smallcap">in Everybody's Magazine</hi>
@@ -1393,6 +1422,7 @@ Soldier</bibl></epigraph>
 </l></lg></div2>
 
 <div2 id="Eaton037" type="poem" n="The Widow">
+<docAuthor n="Mitchell, C. M.">Miss C. M. Mitchell</docAuthor>
 <head rend="center">THE WIDOW</head>
 <byline rend="center"><docAuthor>MISS C. M. MITCHELL</docAuthor><lb/>
 <hi rend="smallcap"> In Punch</hi><lb/>Reproduced by special permission of the Proprietors of "Punch"</byline>
@@ -1417,6 +1447,7 @@ Soldier</bibl></epigraph>
 </l></lg><pb n="52"/></div2>
 
 <div2 id="Eaton038" type="poem" n="Pershing At The Tomb Of Lafayette">
+<docAuthor n="Burr, Amelia Josephine">Amelia Josephine Burr</docAuthor>
 <head rend="center">PERSHING AT THE TOMB OF LAFAYETTE</head>
 <byline rend="center"><docAuthor>AMELIA JOSEPHINE BURR</docAuthor></byline>
 <bibl>From Amelia Josephine Burr's book of poems, "The Silver
@@ -1438,6 +1469,7 @@ New York.  Special permission to reproduce in this book.</bibl>
 </l></lg><pb n="53"/></div2>
 
 <div2 id="Eaton039" type="poem" n="Trains">
+<docAuthor n="Roche, John Pierre">Lieut. John Pierre Roche</docAuthor>
 <head rend="center">TRAINS</head>
 <byline rend="cneter"><docAuthor>LIEUT. JOHN PIERRE ROCHE</docAuthor><lb/>From Lieutenant Roche s book of poems, "Rimes in Olive Drab."Robert M. McBride &#x0026; Company, Publishers, New York. Copyright, 1918, Special permission to insert in this book.</byline>
 <note>Lieutenant Roche has deftly caught and preserved in words the strange vision of unannounced trains that flashed now and then post towns and villages bearing American troops from unknown camps to unknown ports of embarkation--the flash of faces of men about whom it was known only that they came from the shops and fields of home and were going across the seas to fight somewhere, for those who stood and gazed as they whirled by. The mystery, the roar of wheels, the eddying dust and the silence that followed infuse these lines with picture and sound that will stay in the minds of any who saw such trains go hurrying away.</note>
@@ -1527,8 +1559,9 @@ New York.  Special permission to reproduce in this book.</bibl>
 </l></lg></div2>
 
 <div2 id="Eaton040" type="poem" n="Christ In Flanders">
+<docAuthor n="W., L.">L. W.</docAuthor>
 <head rend="center">CHRIST IN FLANDERS</head>
-<byline rend="cneter">L. W.<lb/>
+<byline rend="center">L. W.<lb/>
 <hi rend="smallcap"> IN THE</hi> S<hi> rend="smallcap"PECTATOR</hi></byline>
 <lg>
 <l n="1">WE had forgotten You, or very nearly--</l>
@@ -1583,6 +1616,7 @@ New York.  Special permission to reproduce in this book.</bibl>
 </l></lg><pb n="57"/></div2>
 
 <div2 id="Eaton041" type="poem" n="An American Creed">
+<docAuthor n="Appleton, Everard Jack">Everard Jack Appleton</docAuthor>
 <head rend="center">AN AMERICAN CREED</head>
 <byline rend="center"><docAuthor>EVERARD JACK APPLETON</docAuthor><lb/>By permission of Stewart &#x0026; Kidd Company, Cincinnati, Publishers of 'With the Colors," by Everard Jack Appleton. Copyright, 1918.</byline>
 <lg rend="indent8">
@@ -1604,6 +1638,7 @@ New York.  Special permission to reproduce in this book.</bibl>
 <l>Eternity in the face at any moment, and be unafraid!
 </l></lg></div2>
 <div2 id="Eaton041a" type="poem" n="58">
+<docAuthor n="Guest, Edgar A.">Edgar A. Guest</docAuthor>
 <head rend="center">RUNNER McGEE<lb/>
 (<hi rend="smallcap">Who Had "Return if Possible" Orders</hi>.)</head>
 <byline rend="center"><docAuthor>EDGAR A. GUEST</docAuthor><lb/>From Edgar A. Guest's book of war time rhymes, entitled "OverHere." Published and copyright, 1915, by The Reilly &#x0026; Britton Company, Chicago. Special permission to insert in this book.</byline>
@@ -1700,6 +1735,7 @@ New York.  Special permission to reproduce in this book.</bibl>
 <l>My heart and soul are all one prayer--one silver prayer for you</l></lg></div2>
 
 <div2 id="Eaton043" type="poem" n="Three Hills">
+<docAuthor n="Owen, Everard">Everard Owen</docAuthor>
 <head rend="center">THREE TREES</head>
 <byline rend="center"><docAuthor>EVERARD OWEN</docAuthor><lb/>From Mr. Owen's book, "Three Hills and Other Poems." Sidwick&#x0026; Jackson, ltd., Publishers, London, England.  Special permission to inert in this book.</byline>
 <lg>
@@ -1727,6 +1763,7 @@ New York.  Special permission to reproduce in this book.</bibl>
 <l rend="indent">To souls in jeopardy.</l></lg></div2>
 
 <div2 id="Eaton043a" type="poem" n="Mike Dillon, Doughboy">
+<docAuthor n="Roche, John Pierre">Lieut. John Pierre Roche</docAuthor>
 <head rend="center">MIKE DILLON, DOUGHBOY</head>
 <byline rend="center"><docAuthor>LIEUT. JOHN PIERRE ROCHE</docAuthor></byline>
 <bibl>From Lieutenant Roche's hook of poems, 'times in Olive Drab,"
@@ -1785,6 +1822,7 @@ Robert M. McBride &#x0026; Company, Publishers, New York. Copyright,
 </l></lg><pb n="63"/></div2>
 
 <div2 id="Eaton044" type="poem" n="When The French Band Plays">
+<docAuthor n="Anonymous">Anonymous</docAuthor>
 <head rend="center">WHEN THE FRENCH BAND PLAYS</head>
 <byline rend="center"><docAuthor>ANONYMOUS</docAuthor><lb/><hi rend="smallcap">The Stars And Stripes, A.E.F., France</hi></byline>
 <lg>
@@ -1818,6 +1856,7 @@ Robert M. McBride &#x0026; Company, Publishers, New York. Copyright,
 </l></lg><pb n="64"/></div2>
 
 <div2 id="Eaton045" type="poem" n="The Old Gang On The Corner">
+<docAuthor n="Herschell, William">William Herschell</docAuthor>
 <head rend="center">THE OLD GANG ON THE CORNER</head>
 <byline rend="center"><docAuthor>WILLIAM HERSCHELL</docAuthor><lb/>
 <hi rend="smallcap">INCollier'S Weekly</hi><lb/>Permission to reproduce in this book</byline>
@@ -1853,6 +1892,7 @@ Robert M. McBride &#x0026; Company, Publishers, New York. Copyright,
 </l></lg></div2>
 
 <div2 id="Eaton046" type="poem" n="The Battle-Line">
+<docAuthor n="Dollard, J. B.">J. B. Dollard</docAuthor>
 <head rend="center">THE BATTLE-LINE</head>
 <byline rend="center"><docAuthor>J. B. DOLLARD</docAuthor><lb/>
 <hi rend="smallcap">IN The Globe, Toronto</hi><lb/>Permission to reproduce in this book</byline>
@@ -1881,6 +1921,7 @@ Robert M. McBride &#x0026; Company, Publishers, New York. Copyright,
 </l></lg></div2>
 
 <div2 id="Eaton047" type="poem" n="A Chant Of Army Cooks">
+<docAuthor n="Anonymous">Anonymous</docAuthor>
 <head rend="center">A CHANT OF ARMY COOKS</head>
 <byline rend="center"><docAuthor>ANONYMOUS</docAuthor><lb/>
 <hi rend="smallcap">IN The Stars And Stripes, A.E.F., France</hi></byline>
@@ -1925,6 +1966,7 @@ Robert M. McBride &#x0026; Company, Publishers, New York. Copyright,
 </l></lg></div2>
 
 <div2 id="Eaton048" type="poem" n="The Drum">
+<docAuthor n="Lee, Joseph">Joseph Lee</docAuthor>
 <head rend="center">THE DRUM</head>
 <byline rend="center"><docAuthor>JOSEPH LEE</docAuthor></byline>
 <epigraph><q>"Come to me, and I will give you flesh--Old Pibrochadh.</q></epigraph>
@@ -1963,6 +2005,7 @@ Robert M. McBride &#x0026; Company, Publishers, New York. Copyright,
 </l></lg></div2>
 
 <div2 id="Eaton049" type="poem" n="The Great Adventure">
+<docAuthor n="Banning, Kendall">Major Kendall Banning</docAuthor>
 <head rend="center">THE GREAT ADVENTURE</head>
 <byline rend="center"><docAuthor>MAJOR KENDALL BANNING</docAuthor><lb/>
 <hi rend="smallcap">Signal Reserve Corps, Aviation Section, U.S Army</hi></byline>
@@ -1997,7 +2040,9 @@ Robert M. McBride &#x0026; Company, Publishers, New York. Copyright,
 <l rend="indent">Adventure of my soul!
 </l></lg><pb n="69"/></div2>
 
-<div2 id="Eaton050" type="poem" n="To The Writer Of 'Christ In Flanders'">
+<div2 id="Eaton050" type="poem" n="To The Writer Of 'Christ In
+Flanders'">
+<docAuthor n="V., E. M.">E. M. V</docAuthor>
 <head rend="center">TO THE WRITER OF "CHRIST IN FLANDERS"</head>
 <byline rend="center"><docAuthor>E. M. V.</docAuthor><lb/>
 <hi rend="smallcap">In The Spectator</hi></byline>
@@ -2016,6 +2061,7 @@ Robert M. McBride &#x0026; Company, Publishers, New York. Copyright,
 <l>Of the battlefields of Flanders, of the Crucifix of Pain.
 </l></lg></div2>
 <div2 id="Eaton051" type="poem" n="To Somebody">
+<docAuthor n="Seton, Harold">Harold Seton</docAuthor>
 <head rend="center">TO SOMEBODY</head>
 <byline rend="center"><docAuthor>HAROLD SETON</docAuthor><lb/>
 <hi rend="smallcap">In Munsey's Magazine</hi><lb/>Permission to reproduce in this book.</byline>
@@ -2052,6 +2098,7 @@ Robert M. McBride &#x0026; Company, Publishers, New York. Copyright,
 </l></lg></div2>
 
 <div2 id="Eaton052" type="poem" n="War">
+<docAuthor n="Visscher, William Lightfoot">Col. William Lightfoot Visscher</docAuthor>
 <head rend="center">WAR</head>
 <byline rend="center"><docAuthor>COL. WILLIAM LIGHTFOOT VISSCHER</docAuthor><lb/>
 <hi rend="smallcap">IN The Scoop, The Chicago Press Clue's Magazine</hi></byline>
@@ -2077,9 +2124,9 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 <l rend="indnent12">Left!"</l>
 <l>Had a good girl when I </l>
 <l rend="indnent12">"Left!</l>
-<l rend ="indent12">Left!"</l>
+<l rend="indent12">Left!"</l>
 <l>Mighty good pal when I </l>
-<l rend ="indent12">"Left!"</l>
+<l rend="indent12">"Left!"</l>
 <l>''One! Two! Three ! Four!"</l>
 <l>How </l>
 <l rend="indent3">many </l>
@@ -2105,6 +2152,7 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 </lg><pb n="72"/></div2>
 
 <div2 id="Eaton054" type="poem" n="While Summers Pass">
+<docAuthor n="Michaelis, Aline">Aline Michaelis</docAuthor>
 <head rend="center">WHILE SUMMERS PASS</head>
 <byline rend="center"><docAuthor>ALINE MICHAELIS</docAuthor><lb/>
 <hi rend="smallcap">IN The Enterprise, Beaumont, Texas</hi></byline>
@@ -2150,6 +2198,7 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 </l></lg><pb n="73"/></div2>
 
 <div2 id="Eaton055" type="poem" n="The Marines">
+<docAuthor n="Smylie, Adolphe E.">Adolphe E. Smylie</docAuthor>
 <head rend="center">THE MARINES</head>
 <byline rend="center"><docAuthor>ADOLPHE E. SMYLIE</docAuthor><lb/>
 <hi rend="smallcap">OF The Vigilantes</hi></byline> 
@@ -2207,6 +2256,7 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 </l></lg></div2> 
 
 <div2 id="Eaton056" type="poem" n="An Ambulance Driver's Prayer">
+<docAuthor n="Coakley, Thomas F.">Lieut. Chaplain Thomas F. Coakley</docAuthor>
 <head rend="center">AN AMBULANCE DRIVER'S PRAYER</head>
 <byline rend="center"><docAuthor>LIEUT. CHAPLAIN THOMAS F. COAKLEY</docAuthor><lb/>
 <hi rend="smallcap">IN The Stars And Stripes, A.E.F., France</hi></byline>
@@ -2224,6 +2274,7 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 </l></lg><pb n="75"/></div2>
 
 <div2 id="Eaton057" type="poem" n="Not Too Old To Fight">
+<docAuthor n="Harbaugh, T. C.">T. C. Harbaugh</docAuthor>
 <head rend="center">NOT TOO OLD TO FIGHT</head>
 <byline rend="center"><docAuthor>T. C. HARBAUGH</docAuthor><lb/>
 <hi rend="smallcap">IN The Chicago Ledger</hi></byline>
@@ -2265,6 +2316,7 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 <l>For I am Danny Bloomer, and I'm not too old to fight.
 </l></lg></div2>
 <div2 id="Eaton058" type="poem" n="A Wayside In France">
+<docAuthor n="Smylie, Adolphe E.">Adolphe E. Smylie</docAuthor>
 <head rend="center">A WAYSIDE IN FRANCE</head>
 <byline rend="center"><docAuthor>ADOLPHE E. SMYLIE</docAuthor><lb/> 
 <hi rend="smallcap">IN The New York Herald</hi><lb/>Permission to reproduce in this book</byline>
@@ -2317,6 +2369,7 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 </l></lg><pb n="78"/></div2>
 
 <div2 id="Eaton059" type="poem" n="Missing">
+<docAuthor n="Iris">"Iris"</docAuthor>
 <head rend="center">MISSING</head>
 <byline rend="center"><docAuthor>"IRIS"</docAuthor><lb/>
 <hi rend="smallcap">From B. L. T.'s Column IN The Chicago Tribune</hi></byline>
@@ -2344,6 +2397,7 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 </l></lg><pb n="79"/></div2>
 
 <div2 id="Eaton060" type="poem" n="The Rivers Of France">
+<docAuthor n="M., H. J.">H. J. M</docAuthor>
 <head rend="center"> THE RIVERS OF FRANCE</head>
 <byline rend="center"><docAuthor>H. J. M.</docAuthor><lb/>
 <hi rend="smallcap">IN The English Review</hi></byline>
@@ -2385,6 +2439,7 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 </l></lg><pb n="80"/></div2>
 
 <div2 id="Eaton061" type="poem" n="Just Thinking">
+<docAuthor n="Hawley, Hudson">Hudson Hawley</docAuthor>
 <head rend="center">JUST THINKING</head>
 <byline rend="center"><docAuthor>HUDSON HAWLEY</docAuthor><lb/>
 <hi rend="smallcap">IN The And Stripes, A. E. F., France</hi></byline>
@@ -2440,6 +2495,7 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 </l></lg></div2>
 
 <div2 id="Eaton062" type="poem" n="The Evening Star">
+<docAuthor n="Seton, Harold">Harold Seton</docAuthor>
 <head rend="center">THE EVENING STAR</head>
 <byline rend="center"><docAuthor>HAROLD SETON</docAuthor><lb/>
 <hi rend="smallcap">IN The Chicago Evening Post</hi></byline>
@@ -2457,6 +2513,7 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 </l></lg><pb n="82"/></div2>
 
 <div2 id="Eaton063" type="poem" n="Columbia's Prayer">
+<docAuthor n="Bashaw, Thomas P.">Thomas P. Bashaw</docAuthor>
 <head rend="center">COLUMBIA'S PRAYER</head>
 <byline rend="center"><docAuthor>THOMAS P. BASHAW</docAuthor> 
 <hi rend="smallcap">IN The Herald And Examiner, Chicago</hi><lb/>Permission to reproduce in this book</byline>
@@ -2498,13 +2555,14 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 </l></lg><pb n="83"/></div2>
 
 <div2 id="Eaton064" type="poem" n="Two Viewpoints">
+<docAuthor n="Burr, Amelia Josephine">Amelia Josephine Burr</docAuthor>
 <head rend="center">TWO VIEWPOINTS</head>
 <byline rend="center"><docAuthor>AMELIA JOSEPHINE BURR</docAuthor><lb/>
 <hi rend="smallcap">OF The Vigilantes</hi><lb/>Permission to reproduce in this book.</byline>
 
 <lg>
 <head>A German soldier in his journal wrote:</head>
-<lg rend ="indent"><l>H E was a French Boy Scout--a little lad </l>
+<lg rend="indent"><l>H E was a French Boy Scout--a little lad </l>
 <l>No bigger than my Hansel. He refused </l>
 <l>To tell if any of his countrymen </l>
 <l>Were hidden thereabout. Fifty yards on </l>
@@ -2520,7 +2578,7 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 <l rend="center">Here there came</l>
 <l>A sudden shrapnel, and the writing stopped...</l></lg>
 
-<lg rend ="italic">
+<lg rend="italic">
 <l>Did I write that? O God--did I write that? </l>
 <l>Mine--they were mine, the folly and the waste. </l>
 <l>Now the keen edge of death has cut away </l>
@@ -2535,6 +2593,7 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 </l></lg></lg><pb n="84"/></div2>
 
 <div2 id="Eaton065" type="poem" n="Destroyers">
+<docAuthor n="Klaxon">"Klaxon"</docAuthor>
 <head rend="center">DESTROYERS</head>
 <byline rend="center"><docAuthor>"KLAXON"</docAuthor><lb/>
 <hi rend="smallcap">IN Blackwoods Magazine</hi></byline>
@@ -2566,6 +2625,7 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 </l></lg><pb n="85"/></div2>
 
 <div2 id="Eaton066" type="poem" n="Nineteen-Seventeen">
+<docAuthor n="Whitman, Susan Hooker">Susan Hooker Whitman</docAuthor>
 <head rend="center">NINETEEN-SEVENTEEN</head>
 <byline rend="center"><docAuthor>SUSAN HOOKER WHITMAN</docAuthor><lb/>
 <hi rend="smallcap">IN The Kansas City Stag</hi></byline>
@@ -2600,6 +2660,7 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 <l>Our own, our sons are passing by.</l></lg><pb n="86"/></div2>
 
 <div2 id="Eaton067" type="poem" n="The Silent Army">
+<docAuthor n="Adanac, Ian">Ian Adanac</docAuthor>
 <head rend="center">THE SILENT ARMY</head>
 <byline rend="center"><docAuthor>IAN ADANAC</docAuthor><lb/>
 <hi rend="smallcap">IN The Montreal Daily Star</hi></byline>
@@ -2723,6 +2784,7 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 <l rend="indent">We'll close our eyes! So let God's will be done!
 </l></lg></div2>
 <div2 id="Eaton070" type="poem" n="Easter-Eggs">
+<docAuthor n="Kauffman, Reginald Wright">Reginald Wright Kauffman</docAuthor>
 <head rend="center">EASTER-EGGS</head>
 <byline rend="center"><docAuthor>REGINALD WRIGHT KAUFFMAN</docAuthor></byline>
 <note> From this author's 'Our Navy at Work," Published by the Bobbs-Merrill co. In 1917, our Government took over a large number of pleasure-yachts, fitted them with a few light guns and depth-charge and sent them into French waters to hunt submarines. They were variously known as "The Suicide Fleet" and "Easter-Eggs." Mr. Kauffman spent some time at sea with them. Permission to reproduce in this book.</note>
@@ -2760,6 +2822,7 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 </l></lg></div2>
 
 <div2 id="Eaton071" type="poem" n="A Dirge">
+<docAuthor n="Perowne, Victor">Victor Perowne</docAuthor>
 <head rend="center">A DIRGE </head>
 <byline rend="center">VICTOR PEROWNE<lb/>
 <hi rend="smallcap">IN The London Times</hi></byline>
@@ -2811,6 +2874,7 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 </l></lg></div2>
 
 <div2 id="Eaton072" type="poem" n="The Woman's Game">
+<docAuthor n="Anonymous">Authorship Not Known</docAuthor>
 <head rend="center">THE WOMAN'S GAME</head>
 <byline rend="center">AUTHORSHIP NOT KNOWN</byline>
 <lg>
@@ -2831,7 +2895,7 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 <l>The spirit, indeed is still the same;</l>
 <l>I would not shrink from the battle's flame, </l>
 <l>Yet here I stay--at the woman's game, </l>
-<l rend ="indent7">Brother of mine!</l></lg>
+<l rend="indent7">Brother of mine!</l></lg>
 
 <lg>
 <l>If the last price must needs he paid, </l>
@@ -2845,6 +2909,7 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 </l></lg></div2>
 
 <div2 id="Eaton073" type="poem" n="A Flemish Village">
+<docAuthor n="A., H.">H. A</docAuthor>
 <head rend="center">A FLEMISH VILLAGE</head>
 <byline rend="center"><docAuthor>H. A.</docAuthor><lb/>
 <hi rend="smallcap">IN London Spectator</hi></byline>
@@ -2870,6 +2935,7 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 </l></lg><pb n="93"/></div2>
 
 <div2 id="Eaton074" type="poem" n="France">
+<docAuthor n="Patterson, Joseph Medill">Capt. Joseph Medill Patterson</docAuthor>
 <head rend="center">FRANCE</head>
 <byline rend="center"><docAuthor>CAPT. JOSEPH MEDILL PATTERSON</docAuthor><lb/>
 <hi rend="smallcap">IN The Chicago Tribune</hi><lb/>
@@ -2910,6 +2976,7 @@ then unknown to me, "Te Deumn" came from the throats of thousands of thousands.<
 </l></lg></div2>
 
 <div2 id="Eaton075" type="poem" n="The Clerk">
+<docAuthor n="Hetherington, B. G. M.">B. G. M. Hetherington</docAuthor>
 <head rend="center">THE CLERK</head>
 <byline rend="center"><docAuthor>B.G.M. HETHERINGTON</docAuthor><lb/>
 <hi rend="smallcap">IN The London Bookman</hi></byline>
@@ -2932,6 +2999,7 @@ then unknown to me, "Te Deumn" came from the throats of thousands of thousands.<
 </l></lg><pb n="95"/></div2>
 
 <div2 id="Eaton076" type="poem" n="Poilu">
+<docAuthor n="Emery, Steuart M.">Steuart M. Emery</docAuthor>
 <head rend="center">POILU</head>
 <byline rend="center"><docAuthor>STEUART M. EMERY, A. E. F.</docAuthor><lb/>
 <hi rend="smallcap">IN The Stars And Stripes</hi></byline>
@@ -2969,6 +3037,7 @@ then unknown to me, "Te Deumn" came from the throats of thousands of thousands.<
 </l></lg></div2>
 
 <div2 id="Eaton077" type="poem" n="Australia's Men">
+<docAuthor n="Mackellar, Dorothea">Dorothea Mackellar</docAuthor>
 <head rend="center">AUSTRALIA'S MEN</head>
 <byline rend="center"><docAuthor>DOROTHEA MACKELLAR</docAuthor><lb/>Miss Mackellar is the daughter of Sir Charles Mackellar Chairman New South Wales. Acknowledgment is due Dr. George Cooke--Adams, formerly an officer in the Australian naval forces, through whose courtesy her verses are presented here.</byline>
 <lg>
@@ -2995,6 +3064,7 @@ then unknown to me, "Te Deumn" came from the throats of thousands of thousands.<
 </l></lg><pb n="97"/></div2>
 
 <div2 id="Eaton078" type="poem" n="Tanks">
+<docAuthor n="Child, O. C. A.">O. C. A. Child</docAuthor>
 <head rend="center">TANKS</head>
 <byline rend="center"><docAuthor>O. C. A. CHILD</docAuthor></byline>
 
@@ -3034,6 +3104,7 @@ then unknown to me, "Te Deumn" came from the throats of thousands of thousands.<
 </l></lg><pb n="98"/></div2>
 
 <div2 id="Eaton079" type="poem" n="A Hymn Of Freedom">
+<docAuthor n="King, Mary Perry">Mary Perry King</docAuthor>
 <head rend="center">A HYMN OF FREEDOM</head>
 <byline rend="center"><docAuthor>MARY PERRY KING</docAuthor><lb/>
 <hi rend="smallcap">IN Collier's Weekly </hi><lb/>Permission to reproduce in this book</byline>
@@ -3074,13 +3145,11 @@ then unknown to me, "Te Deumn" came from the throats of thousands of thousands.<
 
 <p>MORE than all the others put together the war poems of Alan Seeger, Lieutenant Colonel McCrae, and Lieut. Rupert Brooke, have touched and thrilled the heart of America. They are quiet, earnest, yet more powerful than trumpet blasts, for they rise triumphant from great depths, and as they sing, exalt.</p>
 <p>Most familiar is our own Alan Seeger's "I Have a Rendezvous with Death." He was studying in Paris when the war broke out. In the third week he enlisted in the Foreign Legion. Two arduous years later he was called on higher service. July 4, 1916, his squad was caught in an assault on the village of Belloy-en-Santerre, where the Germans received them with the fire of six machine guns. Seeger was severely wounded, but went forward with the others, and helped take the place. Next morning he died. He had kept the tryst.</p>
-<div3 id="Eaton081a" type="poem introduction" n="I Have A Rendezvous
-      With Death"><ab><ptr target="Eaton081b"/></ab>
+<div3 id="Eaton081a" type="poem introduction" n="I Have A Rendezvous With Death"><ab><ptr target="Eaton081b"/></ab>
 <p>Alan Seeger was a New York boy. He was born in that city June 22, 1888. In his short life he had written some twenty poems. This was his last. It was written in camp, shortly before his call came:</p>
 </div3>
 <div3 id="Eaton081b" type="poem" n="I Have A Rendezvous With Death">
-<head rend="center">I HAVE A RENDEZVOUS WITH DEATH<ref
-target="Eaton081n1">*</ref><note id="Eaton081n1" place="foot" n="*">From
+<head rend="center">I HAVE A RENDEZVOUS WITH DEATH<ref target="Eaton081n1">*</ref><note id="Eaton081n1" place="foot" n="*">From
 "Poems," ny Alan Seeger/  Copyright, 1916, by Charles Scribner's
 Son's, Publishers, New York.  Permission to reproduce in this book.</note></head><ab><ptr target="Eaton081a"/></ab>
 <lg>
@@ -3147,13 +3216,11 @@ Infantry:</p><pb n="101"/>
 of the first to take arms when Great Britain went to war. He died in
 the Dardanelles expe-<pb n="102"/>dition, April 23 , 1915.  A few days before, he had sent from the Aegean Sea to the English--speaking peoples the poem by which he is best known.</p></div3>
 <div3 id="Eaton083b" type="poem" n="The Soldier">
-<docAuthor>Rupert Brooke</docAuthor>
-<head rend="center">THE SOLDIER<ref target="Eaton083n1">*</ref><note
-id="Eaton083n1" place ="foot" n="*"> "The Soldier," and "Not With Vain
+<docAuthor n="Brook, Rupert">Rupert Brooke</docAuthor>
+<head rend="center">THE SOLDIER<ref target="Eaton083n1">*</ref><note id="Eaton083n1" place="foot" n="*"> "The Soldier," and "Not With Vain
 Tears" are from "The Collected Poems of Rupert Brooke," published and
 copyright, 1915, by John Lane Company, New York.  Special permission
-to reproduce in this book.</note></head><ab><ptr
-target="Eaton083a"/></ab>
+to reproduce in this book.</note></head><ab><ptr target="Eaton083a"/></ab>
 <lg>
 <l n="1">If I should die, think only this of me:</l>
 <l rend="indent">That there's some corner of a foreign field </l>
@@ -3172,9 +3239,8 @@ target="Eaton083a"/></ab>
 <div3 id="Eaton084a" type="poem introduction" n="Not With Vain Tears"><ab><ptr target="Eaton084b"/></ab>
 <p>Lieutenant Brooke was a rare poet, having a serene faith, a knowledge of life as continuous. His bent of thought, the manner of his feeling, shine most clearly in this sonnet</p></div3>
 <div3 id="Eaton084b" type="poem" n="Not With Vain Tears">
-<docAuthor>Rupert Brooke</docAuthor>
-<head rend="center">NOT WITH VAIN TEARS</head><ab><ptr
-target="Eaton084b"/></ab>
+<docAuthor n="Brooke, Rupert">Rupert Brooke</docAuthor>
+<head rend="center">NOT WITH VAIN TEARS</head><ab><ptr target="Eaton084b"/></ab>
 <lg>
 <l n="1">NOT with vain tears, when we're beyond the sun, </l>
 <l>We'll beat on the substantial doors, nor tread </l>
@@ -3190,13 +3256,12 @@ target="Eaton084b"/></ab>
 <l rend="indent">What this tumultuous body now denies; </l>
 <l>And feel, who have laid our groping hands away;</l>
 <l rend="indent">And see, no longer blinded by our eyes.</l></lg></div3>
-<div3 id="Eaton085a" type="poem introduction" n="But A Short Time To
-      Live"><ab><ptr target="Eaton085b"/></ab>
+<div3 id="Eaton085a" type="poem introduction" n="But A Short Time To Live"><ab><ptr target="Eaton085b"/></ab>
 <p>All of Rupert Brooke's work has been collected and issued, a rich though slender sheaf. The book is fervently commended to people whose own souls are in the key that responds to notes so spiritually fine and clear as those he sounds in all his lines.</p>
 <p>"But a Short Time to Live" was written by Serg't Leslie Coulson, whose "little hour" came to an end at Arras, in France, October 7, 1916:</p>
 </div3>
 <div3 id="Eaton085b" type="poem" n="But A Short Time To Live">
-<docAuthor>Leslie Coulson</docAuthor>
+<docAuthor n="Coulson, Leslie">Leslie Coulson</docAuthor>
 <head rend="center">BUT A SHORT TIME TO LIVE</head><ab><ptr target="Eaton085a"/></ab>
 <lg>
 <l n="1">OUR little hour--how swift it flies--</l>
@@ -3232,7 +3297,7 @@ hurled out of life." There is no doubt he would have done "something
 great," for here is a swan song not unworthy to bear his name to later
 times:</p> </div3>
 <div3 id="Eaton086b" type="poem" n="The Lost Ones">
-<docAuthor>Francis Ledwidge</docAuthor>
+<docAuthor n="Ledwidge, Francis">Francis Ledwidge</docAuthor>
 <head rend="center">THE LOST ONES</head><ab><ptr target="Eaton086a"/></ab>
 
 <lg>
@@ -3253,6 +3318,7 @@ times:</p> </div3>
 <l>Crying about the dark for those who died.</l></lg></div3></div2>
 
 <div2 id="Eaton087" type="poem" n="The Flag Speaks">
+<docAuthor n="Peck, Walter E.">Walter E. Peck</docAuthor>
 <head rend="center">THE FLAG SPEAKS</head>
 <byline rend="center"><docAuthor> WALTER E. PECK</docAuthor><lb/> 
 <hi rend="smallcap">IN The Hamilton Literary Magazine</hi></byline>
@@ -3307,13 +3373,14 @@ times:</p> </div3>
 </l></lg></div2>
 
 <div2 id="Eaton088" type="poem" n="The Call">
+<docAuthor n="Service, Robert W.">Robert W. Service</docAuthor>
 <head rend="center">THE CALL<lb/>
 (<hi rend="smallcap">France, August 1st,</hi> 1914)</head>
 <byline rend="center"><docAuthor>ROBERT W. SERVICE</docAuthor></byline>
 
 <bibl>From "Rhymes of a Red Cross Man," a book of fine poems by Mr. Service and copyright, 1916, by Barse &#x0026; Hopkins, New York. Special permission to insert in this book.</bibl>
 <lg>
-<l n="1" rend ="indent3">FAR and near, high and clear, </l>
+<l n="1" rend="indent3">FAR and near, high and clear, </l>
 <l rend="indent3">Hark to the call of War! </l>
 <l>Over the gorse and the golden dells, </l>
 <l>Ringing and swinging of clamorous bells, </l>
@@ -3362,6 +3429,7 @@ times:</p> </div3>
 </l></lg><pb n="108"/></div2>
 
 <div2 id="Eaton089" type="poem" n="The Cruthes' Tune">
+<docAuthor n="Stoner, Elizabeth R.">Elizabeth R. Stoner</docAuthor>
 <head rend="center">THE CRUTCHES' TUNE</head>
 <byline rend="center"><docAuthor>ELIZABETH R. STONER</docAuthor> <lb/>
 <hi rend="smallcap">IN Everybody's Magazine</hi></byline>
@@ -3397,8 +3465,9 @@ times:</p> </div3>
 </l></lg><pb n="109"/></div2>
 
 <div2 id="Eaton090" type="poem" n="The Anxious Dead">
+<docAuthor n="McCrae, John">Lieut. Col. John McCrae</docAuthor>
 <head rend="center">THE ANXIOUS DEAD</head>
-<byline rend="center"><docAuthor>LIEUT. COL. JOIN MCCRAE</docAuthor><lb/>
+<byline rend="center"><docAuthor>LIEUT. COL. JOHN MCCRAE</docAuthor><lb/>
 <hi rend="smallcap">IN The London Spectator</hi></byline>
 
 <lg>
@@ -3426,6 +3495,7 @@ times:</p> </div3>
 </l></lg><pb n="110"/></div2>
 
 <div2 id="Eaton091" type="poem" n="Home">
+<docAuthor n="Kauffman, Reginald Wright">Reginald Wright Kauffman</docAuthor>
 <head rend="center">HOME</head>
 <byline rend="center"><docAuthor>REGINALD WRIGHT KAUFFMAN</docAuthor><lb/>
 From Mr. Kauffman's book of poems, "Little Old Belgium."  Henry Altemus Company, Publishers, Philadelphia. Copyright, 1914. Reproduced in this book by special permission.</byline>
@@ -3473,6 +3543,7 @@ From Mr. Kauffman's book of poems, "Little Old Belgium."  Henry Altemus Company,
 </l></lg></div2>
 
 <div2 id="Eaton092" type="poem" n="To Happier Days">
+<docAuthor n="McElliott, Mabel">Mabel McElliott</docAuthor>
 <head rend="center">TO HAPPIER DAYS</head>
 <byline rend="center"><docAuthor>MABEL McELLIOTT</docAuthor><lb/>
 <hi rend="smallcap">IN The Chicago Sunday Tribune</hi></byline>
@@ -3500,6 +3571,7 @@ From Mr. Kauffman's book of poems, "Little Old Belgium."  Henry Altemus Company,
 <l>The world's work done, the land made clean again!
 </l></lg><pb n="112"/></div2>
 <div2 id="Eaton093" type="poem" n="You Lad And My Lad">
+<docAuthor n="Parrish, Randall">Randall Parrish</docAuthor>
 <head rend="center">YOUR LAD, AND MY LAD</head>
 <byline rend="center"><docAuthor>RANDALL PARRISH</docAuthor><lb/>
 <hi rend="smallcap">IN The Chicago Tribune</hi></byline>
@@ -3553,6 +3625,7 @@ World--</l><pb n="113"/>
 </l></lg><pb n="114"/></div2>
 
 <div2 id="Eaton096" type="poem" n="The Spies Of Oxford">
+<docAuthor n="Letts, Winifred M.">Winifred M. Letts</docAuthor>
 <head rend="center">THE SPIRES OF OXFORD<lb/>
 <hi rend="smallcap">(Seen From The Train)</hi></head>
 <byline rend="center"><docAuthor>WINIFRED M. LETTS</docAuthor><lb/>From "The Spires of Oxford and Other Poems," by Winifred M. Letts, copyright, 1917, by E. P. Dutton &#x0026; Company, New York.  Permission to reproduce in this book.</byline>
@@ -3590,6 +3663,7 @@ World--</l><pb n="113"/>
 </l></lg><pb n="115"/></div2>
 
 <div2 id="Eaton097" type="poem" n="The Gentlemen Of Oxford">
+<docAuthor n="Holland, Norah M.">Norah M. Holland</docAuthor>
 <head rend="center">THE GENTLEMEN OF OXFORD</head>
 <byline rend="center"><docAuthor>NORAH M. HOLLAND</docAuthor><lb/>
 <hi rend="smallcap">IN Everywoman's World</hi></byline>
@@ -3646,6 +3720,7 @@ World--</l><pb n="113"/>
 </l></lg></div2>
 
 <div2 id="Eaton098" type="poem" n="With The Same Pride">
+<docAuthor n="Garrison, Theodosia">Theodosia Garrison</docAuthor>
 <head rend="center">WITH THE SAME PRIDE</head>
 <byline rend="center"><docAuthor>THEODOSIA GARRISON</docAuthor><lb/>
 <hi rend="smallcap">IN Everybody's Magazine</hi><lb/>Permission to reproduce in this book</byline>
@@ -3670,6 +3745,7 @@ World--</l><pb n="113"/>
 </l></lg><pb n="117"/></div2>
 
 <div2 id="Eaton099" type="poem" n="Aceldama">
+<docAuthor n="Butler, George F.">Dr. George F. Butler</docAuthor>
 <head rend="center">ACELDAMA</head>
 <byline rend="center"><docAuthor>DR. GEORGE F. BUTLER</docAuthor><lb/>
 <hi rend="smallcap">IN The Scoop, The Chicago Press Club's Magazine</hi></byline>
@@ -3709,6 +3785,7 @@ World--</l><pb n="113"/>
 <dateline>Sunday in August, 1914</dateline><pb n="118"/></div2>
 
 <div2 id="Eaton100" type="poem" n="The Lonely Garden">
+<docAuthor n="Guest, Edgar A.">Edgar A. Guest</docAuthor>
 <head rend="center">THE LONELY GARDEN</head>
 <byline rend="center"><docAuthor>EDGAR A. GUEST</docAuthor><lb/>Copyright, 1918, by Edgar A. Guest. Special permission to reproduce in this book.</byline>
 
@@ -3754,6 +3831,7 @@ World--</l><pb n="113"/>
 </l></lg></div2>
 
 <div2 id="Eaton101" type="poem" n="The British Army Of 1914">
+<docAuthor n="Pollard, Alfred W.">Alfred W. Pollard</docAuthor>
 <head rend="center">THE BRITISH ARMY OF 1914</head>
 <byline rend="center"><docAuthor>ALFRED W. POLLARD</docAuthor><lb/>
 <hi rend="smallcap">IN Westminster Gazette</hi></byline>
@@ -3771,6 +3849,7 @@ World--</l><pb n="113"/>
 </l></lg><pb n="120"/></div2>
 
 <div2 id="Eaton102" type="poem" n="Morituri Te Salutant">
+<docAuthor n="L., P. H. B.">P. H. B. L.</docAuthor>
 <head rend="center">MORITURI TE SALUTANT</head>
 <byline rend="center">P. H. B. L.<lb/>
 <hi rend="smallcap">IN The London Spectator</hi></byline>
@@ -3856,7 +3935,7 @@ World--</l><pb n="113"/>
 by the men overseas to mean death, is of peculiarly American origin. The Karok Indians of California believed the spirit of the good Karok went to the "happy western land." The Cherokee myths picture the west as the "ghost country," the twilight land where go the dead. The Shawnee tell of the boy who traveled west" to find his sister in the spirit land. The Chippewa believes the spirit "followed a wide, beaten path toward the west."  The spirit world of the Fox Indians<pb n="123"/> is at the setting of the sun. And so on, in the theology of many Indian nations we find the West as the storied abode of the great majority--who have passed over.</p>
 
 <p>The phrase traces back to the Oedipus Tyrannus of Sophocles:
-<q rend ="center">Toward the Western shore<lb/>
+<q rend="center">Toward the Western shore<lb/>
 Soul after soul is known to take her flight.</q>
 Its later significance is tenderly sung by Eleanor Jewett in The Chicago Tribune</p></div3>
 <div3 id="Eaton104a" type="poem" n="Going West">
@@ -3873,6 +3952,7 @@ Its later significance is tenderly sung by Eleanor Jewett in The Chicago Tribune
 </l></lg></div3></div2>
 
 <div2 id="Eaton105" type="poem" n="Spring">
+<docAuthor n="D., F. M. H.">F. M. H. D.</docAuthor>
 <head rend="center">SPRING</head>
 <byline rend="center">F.M.H.D., F.A.<lb/>
 <hi rend="smallcap">IN The Stars And Stripes, A.E.F., France</hi></byline>
@@ -3890,6 +3970,7 @@ Its later significance is tenderly sung by Eleanor Jewett in The Chicago Tribune
 </l></lg><pb n="124"/></div2>
 
 <div2 id="Eaton106" type="poem" n="On His Own">
+<docAuthor n="Smylie, Adolphe E.">Adolphe E. Smylie</docAuthor>
 <head rend="center">ON HIS OWN</head>
 <byline rend="center"><docAuthor>ADOLPHE E. SMYLIE</docAuthor><lb/>
 <hi rend="smallcap">OF The Vigilantes</hi><lb/>Permission to reproduce in this book</byline>
@@ -3955,6 +4036,7 @@ Its later significance is tenderly sung by Eleanor Jewett in The Chicago Tribune
 </l></lg></div2>
 
 <div2 id="Eaton107" type="poem" n="They Shall Not Pass">
+<docAuthor n="Brown, Alison">Alison Brown</docAuthor>
 <head rend="center">THEY SHALL NOT PASS</head>
 <byline rend="center"><docAuthor>ALISON BROWN</docAuthor><lb/>
 <hi rend="smallcap">OF The Vigilantes</hi><lb/>Permission to reproduce in this book</byline>
@@ -3984,6 +4066,7 @@ Its later significance is tenderly sung by Eleanor Jewett in The Chicago Tribune
 </l></lg></div2>
 
 <div2 id="Eaton107a" type="poem" n="Ships That Sail In The Night">
+<docAuthor n="McMullen, Dysart">Dysart McMullen</docAuthor>
 <head rend="center">SHIPS THAT SAIL IN THE NIGHT</head>
 <byline rend="center"><docAuthor>DYSART McMULLEN</docAuthor><lb/>
 <hi rend="smallcap">IN Munsey's Magazine</hi><lb/>
@@ -4011,6 +4094,7 @@ Permission to reproduce in this book</byline>
 </l></lg><pb n="127"/></div2>
 
 <div2 id="Eaton108" type="poem" n="John Doe--Buck Private">
+<docAuthor n="Thomson, Allan P.">Allan P. Thomson</docAuthor>
 <head rend="center">JOHN DOE--BUCK PRIVATE</head>
 <byline rend="center"><docAuthor>ALLAN P. THOMSON</docAuthor><lb/>
 <hi rend="smallcap">IN The Stars And Stripes, A.E.F., France</hi></byline>
@@ -4107,6 +4191,7 @@ Permission to reproduce in this book</byline>
 </l></lg></div2>
 
 <div2 id="Eaton110" type="poem" n="The Goedenrod">
+<docAuthor n="Anchusa">"Anchusa"</docAuthor>
 <head rend="center">THE GOLDENROD</head>
 <byline rend="center">"ANCHUSA"<lb/>
 <hi rend="smallcap">From B. L. T.'s Column IN The Chicago Tribune</hi></byline>
@@ -4138,6 +4223,7 @@ doom.</l></lg><pb n="130"/>
 <l>And for the brave Americans we pluck this goldenrod."
 </l></lg></div2>
 <div2 id="Eaton111" type="poem" n="Magpies In Picardy">
+<docAuthor n="Tipcuca">"Tipcuca"</docAuthor>
 <head rend="center">MAGPIES IN PICARDY</head>
 <byline rend="center">"TIPCUCA"<lb/>
 <hi rend="smallcap">IN The Westminster Gazette</hi></byline>
@@ -4200,6 +4286,7 @@ doom.</l></lg><pb n="130"/>
 </l></lg><pb n="132"/></div2>
 
 <div2 id="Eaton112" type="poem" n="Somewhere In France, 1918">
+<docAuthor n="Hensley, Almon">Almon Hensley</docAuthor>
 <head rend="center">SOMEWHERE IN FRANCE, 1918</head>
 <byline rend="center">ALMON HENSLEY<lb/>
 <hi rend="smallcap">Everybody's Magazine</hi><lb/>Permission to reproduce in this book</byline>
@@ -4230,6 +4317,7 @@ doom.</l></lg><pb n="130"/>
 </l></lg><pb n="132"/></div2>
 
 <div2 id="Eaton113" type="poem" n="Afterward">
+<docAuthor n="Towne, Charles Hanson">Charles Hanson Towne</docAuthor>
 <head rend="center">AFTERWARD</head>
 <byline rend="center"><docAuthor>CHARLES HANSON TOWNE</docAuthor><lb/>
 <hi rend="smallcap">IN The New York Tribune</hi></byline>
@@ -4264,6 +4352,7 @@ doom.</l></lg><pb n="130"/>
 </l></lg><pb n="134"/></div2>
 
 <div2 id="Eaton114" type="poem" n="The Songs Of The Guns">
+<docAuthor n="Kaufman, Herbert">Herbert Kaufman</docAuthor>
 <head rend="center">THE SONG OF THE GUNS</head>
 <byline rend="center"><docAuthor>HERBERT KAUFMAN</docAuthor><lb/>From Mr. Kaufman's book of poems, "The Hell Gate of Soissons." T. Fisher Unwin, Publishers (all rights reserved), London, England, Special permission to reproduce in this book.</byline>
 <lg>
@@ -4335,6 +4424,7 @@ doom.</l></lg><pb n="130"/>
 </l></lg><pb n="136"/></div2>
 
 <div2 id="Eaton115" type="poem" n="Telling The Bees">
+<docAuthor n="R., G. E.">G. E. R</docAuthor>
 <head rend="center">TELLING THE BEES<lb/>
 <hi rend="smallcap">(An old Gloucestershire superstition)</hi></head>
 <byline rend="center"><docAuthor>G. E. R.</docAuthor><lb/>
@@ -4365,6 +4455,7 @@ coats</l><pb n="137"/>
 </l></lg></div2>
 
 <div2 id="Eaton116" type="poem" n="The Retinue">
+<docAuthor n="Bates, Katharine Lee">Katharine Lee Bates</docAuthor>
 <head rend="center">THE RETINUE</head>
 <byline rend="center"><docAuthor>KATHARINE LEE BATES</docAuthor><lb/>
 <hi rend="smallcap">IN The Atlantic Monthly</hi><lb/>Permission to reproduce in this book</byline>
@@ -4377,8 +4468,8 @@ coats</l><pb n="137"/>
 <lg>
 <l>German ghosts who see their works with tortured eyes, the sorry</l>
 <l>Spectres of sacred tyrants, Turks hunted by their quarry,</l>
-<l>Liars, plotters red of hand--like waves of poisonous >gases,</l>
-<l>Sweeping through the Shadow Land the host of horror >passes;</l></lg>
+<l>Liars, plotters red of hand--like waves of poisonous gases,</l>
+<l>Sweeping through the Shadow Land the host of horror passes;</l></lg>
 <lg>
 <l>Spirits bright as broken blades drawn for truth and honor,</l>
 <l>Sons of Belgium, pallid maids, martyrs who have won her</l>
@@ -4406,8 +4497,9 @@ alliance.</l></lg><pb n="138"/>
 <l>Of all the lords of Shadow Land most royally attended!
 </l></lg><pb n="139"/></div2>
 <div2 id="Eaton117" type="poem" n="Vive La France">
+<docAuthor n="Crawford, Charlotte Holmes">Charlotte Holmes Crawford</docAuthor>
 <head rend="center">VIVE LA FRANCE!</head>
-<byline rend="center"><docAuthor>CHARLOTTE HOLMES CRAWFORD</docAuthor><lb/>>By permission: From Scribner's Magazine, copyright, 1916, by Charles Scribner's Sons.</byline>
+<byline rend="center"><docAuthor>CHARLOTTE HOLMES CRAWFORD</docAuthor><lb/>By permission: From Scribner's Magazine, copyright, 1916, by Charles Scribner's Sons.</byline>
 <lg>
 <l n="1">FRANCELINE rose in the dawning gray,</l>
 <l>And her heart would dance though she knelt to pray, </l>
@@ -4466,6 +4558,7 @@ alliance.</l></lg><pb n="138"/>
 </l></lg><pb n="141"/></div2>
 
 <div2 id="Eaton118" type="poem" n="The Woes Of A Rookie">
+<docAuthor n="Colestock, William L.">William L. Colestock</docAuthor>
 <head rend="center">THE WOES OF A ROOKIE</head>
 <byline rend="center"><docAuthor>WILLIAM L. COLESTOCK</docAuthor></byline>
 <lg>
@@ -4526,6 +4619,7 @@ alliance.</l></lg><pb n="138"/>
 <l rend="indent">Have arrived.  To those that sent them, Many Thanks.
 </l></lg><pb n="143"/></div2>
 <div2 id="Eaton119" type="poem" n="In The Front-line Desks">
+<docAuthor n="Powell, Elmer Franklin">Lieut. Elmer Franklin Powell</docAuthor>
 <head rend="center">IN THE FRONT-LINE DESKS</head>
 <byline rend="center"><docAuthor>LIEUT. ELMER FRANKLIN POWELL</docAuthor><lb/>
 <hi rend="smallcap">IN Adventure Magazine</hi><lb/>Permission to reproduce in this book</byline>
@@ -4553,6 +4647,7 @@ alliance.</l></lg><pb n="138"/>
 </l></lg><pb n="144"/></div2>
 
 <div2 id="Eaton120" type="poem" n="Abraham Lincoln Walks At Midnight">
+<docAuthor n="Lindsay, Vachel">Vachel Lindsay</docAuthor>
 <head rend="center">ABRAHAM LINCOLN WALKS AT MIDNIGIT<lb/>
 <hi rend="smallcap">(In Springfield, Illinois)</hi></head>
 <byline rend="center"><docAuthor>VACHEL LINDSAY</docAuthor></byline>
@@ -4606,6 +4701,7 @@ published and copyright, 1914, by The Macmillan Company, New York.  Special perm
 </l></lg></div2>
 
 <div2 id="Eaton121" type="poem" n="The Kings">
+<docAuthor n="Hughes, Hugh J.">Hugh J. Hughes</docAuthor>
 <head rend="center">THE KINGS</head>
 <byline rend="center"><docAuthor>HUGH J. HUGHES</docAuthor><lb/>
 <hi rend="smallcap">IN Farm, Stock And Home</hi></byline>
@@ -4633,6 +4729,7 @@ published and copyright, 1914, by The Macmillan Company, New York.  Special perm
 </l></lg><pb n="146"/></div2>
 
 <div2 id="Eaton122" type="poem" n="Jean Desprez">
+<docAuthor n="Service, Robert W.">Robert W. Service</docAuthor>
 <head rend="center">JEAN DESPREZ</head>
 <byline rend="center"><docAuthor>ROBERT W. SERVICE</docAuthor><lb/>From "Rhymes of a Red Cross Man," by Robert W. Service, published and copyright, 1916, by Barse &#x0026; Hopkins, New York. Special permission to reproduce in this book.</byline>
 <lg>
@@ -4739,6 +4836,7 @@ clear;</l><pb n="150"/>
 Prussian Major dead!</hi></l></lg><pb n="151"/></div2>
 
 <div2 id="Eaton123" type="poem" n="Suddenly One-day">
+<docAuthor n="Anonymous">Author Unknown</docAuthor>
 <head rend="center">SUDDENLY ONE DAY</head>
 <byline rend="center">AUTHOR UNKNOWN<lb/>
 <hi rend="smallcap">From The Westminster Gazette</hi></byline>
@@ -4755,6 +4853,7 @@ Prussian Major dead!</hi></l></lg><pb n="151"/></div2>
 </l></lg></div2>
 
 <div2 id="Eaton124" type="poem" n="We're Marchin' With The Country">
+<docAuthor n="Stanton, Frank L.">Frank L. Stanton</docAuthor>
 <head rend="center">WE'RE MARCHIN' WITH THE COUNTRY</head>
 <byline rend="center"><docAuthor>FRANK L. STANTON</docAuthor><lb/>
 <hi rend="smallcap">IN Journal OF Education</hi></byline>
@@ -4772,6 +4871,7 @@ Prussian Major dead!</hi></l></lg><pb n="151"/></div2>
 </l></lg><pb n="152"/></div2>
 
 <div2 id="Eaton124a" type="poem" n="Do Your All">
+<docAuthor n="Guest, Edgar A.">Edgar A. Guest</docAuthor>
 <head rend="center">DO YOUR ALL</head>
 <byline rend="center"><docAuthor>EDGAR A. GUEST</docAuthor></byline>
 
@@ -4818,6 +4918,7 @@ Prussian Major dead!</hi></l></lg><pb n="151"/></div2>
 </l></lg></div2>
 
 <div2 id="Eaton125" type="poem" n="Flag Of The Free">
+<docAuthor n="Smith, Francis T.">Francis T. Smith</docAuthor>
 <head rend="center">FLAG OF THE FREE</head>
 <byline rend="center"><docAuthor>FRANCIS T. SMITH</docAuthor><lb/>
 <hi rend="smallcap">IN Popular Educator</hi></byline>
@@ -4854,6 +4955,7 @@ Prussian Major dead!</hi></l></lg><pb n="151"/></div2>
 </l></lg><pb n="154"/></div2>
 
 <div2 id="Eaton126" type="poem" n="The Service Flag">
+<docAuthor n="Herschell, William">William Herschell</docAuthor>
 <head rend="center">THE SERVICE FLAG</head>
 <byline rend="center"><docAuthor>WILLIAM HERSCHELL</docAuthor><lb/>
 <hi rend="smallcap">IN The Indianapolis News</hi><lb/>Permission to reproduce in this hook</byline>
@@ -4901,6 +5003,7 @@ Prussian Major dead!</hi></l></lg><pb n="151"/></div2>
 </l></lg></div2>
 
 <div2 id="Eaton127" type="poem" n="A Small Town Sport">
+<docAuthor n="Runyon, Damon">Damon Runyon</docAuthor>
 <head rend="center">A SMALL TOWN SPORT</head>
 <byline rend="center"><docAuthor>DAMON RUNYON</docAuthor><lb/>
 <hi rend="smallcap">IN The Herald And Examiner, Chicago</hi></byline>
@@ -4938,6 +5041,7 @@ Prussian Major dead!</hi></l></lg><pb n="151"/></div2>
 </l></lg><pb n="157"/></div2>
 
 <div2 id="Eaton128" type="poem" n="Somewhere In France">
+<docAuthor n="Henderson, Le Roy C.">Le Roy C. Henderson</docAuthor>
 <head rend="center">SOMEWHERE IN FRANCE</head>
 <byline rend="center"><docAuthor>LE ROY C. HENDERSON</docAuthor><lb/>
 <hi rend="smallcap">IN Cartoons Magazine</hi><lb/>Permission to reproduce in this book</byline>
@@ -4973,6 +5077,7 @@ Prussian Major dead!</hi></l></lg><pb n="151"/></div2>
 <l rend="indent">Those last fond thoughts--Somewhere in France.
 </l></lg><pb n="158"/></div2>
 <div2 id="Eaton129" type="poem" n="The Service Flag">
+<docAuthor n="Evans, J. E.">J. E. Evans</docAuthor>
 <head rend="center">THE SERVICE FLAG</head>
 <byline rend="center"><docAuthor>J. E. EVANS</docAuthor><lb/>
 <hi rend="smallcap">IN The Sovereign Visitor</hi></byline>
@@ -5033,6 +5138,7 @@ America, going at full speed, drive through the deep waters before the
 lighthouses of France come into view; but from one side to the other,
 hearts are touching."</l></lg></div2><pb n="160"/>
 <div2 id="Eaton131" type="poem" n="Men Of Heart And Mire">
+<docAuthor n="Henderson, Daniel M.">Daniel M. Henderson</docAuthor>
 <head rend="center">MEN OF THE BLOOD AND MIRE</head>
 <byline rend="center"><docAuthor>DANIEL M. HENDERSON</docAuthor><lb/>
 <hi rend="smallcap">IN Everybody's Magazine</hi><lb/>Permission to reproduce in this book</byline>
@@ -5068,6 +5174,7 @@ hearts are touching."</l></lg></div2><pb n="160"/>
 <l rend="indent">Men of the Blood and Mire!</l></lg></div2><pb n="161"/>
 
 <div2 id="Eaton132" type="poem" n="The Song Of The Dead">
+<docAuthor n="Abbott, J. H. M.">J. H. M. Abbott</docAuthor>
 <head rend="center">THE SONG OF THE DEAD</head>
 <byline rend="center"><docAuthor>J. H. M. ABBOTT</docAuthor><lb/>
 <hi rend="smallcap">IN The London Outlook</hi></byline>
@@ -5111,6 +5218,7 @@ hearts are touching."</l></lg></div2><pb n="160"/>
 <l>Tokens of your Sorrowing for we that be Dead?
 </l></lg></div2>
 <div2 id="Eaton133" type="poem" n="The Refugees">
+<docAuthor n="S., W. G.">W. G. S</docAuthor>
 <head rend="center">THE REFUGEES</head>
 <byline rend="center"><docAuthor>W. G. S.</docAuthor><lb/>
 <hi rend="smallcap">IN The London Spectator</hi></byline>
@@ -5135,6 +5243,7 @@ hearts are touching."</l></lg></div2><pb n="160"/>
 <l>And cry, as women might when Christ was dead.
 </l></lg><pb n="163"/></div2>
 <div2 id="Eaton134" type="poem" n="Song Of The Winds">
+<docAuthor n="Magruder, Mary Lanier">Mary Lanier Magruder</docAuthor>
 <head rend="center">SONG OF THE WINDS</head>
 <byline rend="center"><docAuthor>MARY LANIER MAGRUDER</docAuthor><lb/>
 <hi rend="smallcap">IN The Saturday Evening Post</hi><lb/>Permission to reproduce in this book</byline>
@@ -5213,6 +5322,7 @@ hearts are touching."</l></lg></div2><pb n="160"/>
 </l></lg></div2>
 
 <div2 id="Eaton135" type="poem" n="What Think Ye">
+<docAuthor n="Briscoe, W. A.">W. A. Briscoe</docAuthor>
 <head rend="center">"WHAT THINK YE?"</head>
 <byline rend="center"><docAuthor>W. A. BRISCOE</docAuthor><lb/>
 <hi rend="smallcap">IN The United Empire Magazine</hi><lb/>
@@ -5244,6 +5354,7 @@ hearts are touching."</l></lg></div2><pb n="160"/>
 </l></lg><pb n="166"/></div2>
 
 <div2 id="Eaton136" type="poem" n="The Man Behind">
+<docAuthor n="Malloch, Douglas">Douglas Malloch</docAuthor>
 <head rend="center">THE MAN BEHIND</head>
 <byline rend="center"><docAuthor>DOUGLAS MALLOCH</docAuthor><lb/>
 <hi rend="smallcap">IN The American Lumberman</hi><lb/>Permission to reproduce in this book</byline>
@@ -5276,6 +5387,7 @@ hearts are touching."</l></lg></div2><pb n="160"/>
 </l></lg><pb n="167"/></div2>
 
 <div2 id="Eaton137" type="poem" n="Here At Verdun">
+<docAuthor n="Wright, Chester M.">Chester M. Wright</docAuthor>
 <head rend="center">HERE AT VERDUN</head>
 <byline rend="center"><docAuthor>CHESTER M. WRIGHT</docAuthor></byline>
 
@@ -5321,6 +5433,7 @@ to the long, thin lines on either side. Here will we prove our right to life and
 </l></lg><pb n="169"/></div2>
 
 <div2 id="Eaton138" type="poem" n="The Anxious Anthemist">
+<docAuthor n="Lee, Guy Forrester">Guy Forrester Lee</docAuthor>
 <head rend="center">THE ANXIOUS ANTHEMIST</head>
 <byline rend="center"><docAuthor>GUY FORRESTER LEE</docAuthor><lb/>
 <hi rend="smallcap">IN The Chicago Sunday Tribune</hi></byline>
@@ -5344,8 +5457,9 @@ to the long, thin lines on either side. Here will we prove our right to life and
 <l>But kindly take a lay-off till I get this anthem done!
 </l></lg><pb n="170"/></div2>
 <div2 id="Eaton139" type="poem" n="A Ride In France">
+<docAuthor n="Platoon, O. C.">"O. C. Platoon"</docAuthor>
 <head rend="center">A RIDE IN FRANCE</head>
-<byline rend="center"><docAuthor>"0. C. PLATOON"</docAuthor><lb/>
+<byline rend="center"><docAuthor>"O. C. PLATOON"</docAuthor><lb/>
 <hi rend="smallcap">IN The Manchester (England) Guardian</hi></byline>
 <lg>
 <l n="1">TROTTING the roan horse </l>
@@ -5386,6 +5500,7 @@ to the long, thin lines on either side. Here will we prove our right to life and
 <l rend="indent">Over! Come over!</l></lg></div2>
 
 <div2 id="Eaton140" type="poem" n="There Will Be Dreams Again">
+<docAuthor n="Eastman, Mabel Hillyer">Mabel Hillyer Eastman</docAuthor>
 <head rend="center">THERE WILL BE DREAMS AGAIN</head>
 <byline rend="center"><docAuthor>MABEL HILLYER EASTMAN</docAuthor><lb/>
  In<hi rend="smallcap">Munsey's Magazine</hi><lb/>Permission to reproduce in this book</byline>
@@ -5413,6 +5528,7 @@ to the long, thin lines on either side. Here will we prove our right to life and
 <l>There will be dreams--thy loved shall come to thee!
 </l></lg><pb n="172"/></div2>
 <div2 id="Eaton141" type="poem" n="The Boy Next Door">
+<docAuthor n="Kiser, S. E.">S. E. Kiser</docAuthor>
 <head rend="center">THE BOY NEXT DOOR</head>
 <byline rend="center"><docAuthor>S. E. KISER</docAuthor><lb/>
 <hi rend="smallcap">IN The Saturday Evening Post</hi><lb/>Permission to reproduce in this book</byline>
@@ -5468,6 +5584,7 @@ to the long, thin lines on either side. Here will we prove our right to life and
 <l rend="indent">And used to be my pet aversion!</l></lg></div2>
 
 <div2 id="Eaton142" type="poem" n="The Flag">
+<docAuthor n="Horton, Edward A.">Edward A. Horton</docAuthor>
 <head rend="cemter">THE FLAG</head>
 <byline rend="center"><docAuthor>EDWARD A. HORTON</docAuthor><lb/>
 <hi rend="smallcap">IN Popular Educator</hi></byline>
@@ -5500,6 +5617,7 @@ to the long, thin lines on either side. Here will we prove our right to life and
 </l></lg><pb n="174"/></div2>
 
 <div2 id="Eaton143" type="poem" n="The War Horse">
+<docAuthor n="Fleming, L.">Lieut. L. Fleming</docAuthor>
 <head rend="center">THE WAR HORSE</head>
 <byline rend="center"><docAuthor>LIEUT. L FLEMING, B. E. F., FRANCE</docAuthor></byline>
 <note>Shortly after the verses here following were received from France by the American Red Star Animal Relief, Lieutenant Fleming fell in action. His voice, coming to us as from a plane of life where dumb creatures do not suffer, is a call to civilization to do its duty by the animals whose kind were silent heroes of the war.</note>
@@ -5640,6 +5758,7 @@ Devil!</l></lg><pb n="178"/>
 </l></lg></div2>
 
 <div2 id="Eaton146" type="poem" n="Edith Cavell">
+<docAuthor n="Wilson, McLandburgh">McLandburgh Wilson</docAuthor>
 <head rend="center">EDITH CAVELL</head>
 <byline rend="center"><docAuthor>MCLANDBURGH WILSON</docAuthor><lb/>From Miss Wilson's book entitled "The Little Flag On MainStreet," published and copyright, 1917, by The Macmillan Company, New York. Special permission to insert in this book.</byline>
 <lg>
@@ -5668,6 +5787,7 @@ Devil!</l></lg><pb n="178"/>
 </l></lg><pb n="179"/></div2>
 
 <div2 id="Eaton147" type="poem" n="To Serve Is To Gain">
+<docAuthor n="Mackintosh, Charles H.">Charles H. Mackintosh</docAuthor>
 <head rend="center">TO SERVE IS TO GAIN</head>
 <byline rend="center"><docAuthor>CHARLES H. MACKINTOSH</docAuthor><lb/>
 <hi rend="smallcap">IN Logging, Duluth</hi></byline>
@@ -5692,6 +5812,7 @@ Devil!</l></lg><pb n="178"/>
 </l></lg></div2>
 
 <div2 id="Eaton148" type="poem" n="They Shall Return">
+<docAuthor n="Milligan, J. Lewis">J. Lewis Milligan</docAuthor>
 <head rend="center">THEY SHALL RETURN</head>
 <byline rend="center"><docAuthor>J. LEWIS MILLIGAN</docAuthor><lb/>
 <hi rend="smallcap">IN The Toronto Globe</hi></byline>
@@ -5709,6 +5830,7 @@ Devil!</l></lg><pb n="178"/>
 </l></lg><pb n="180"/></div2>
 
 <div2 id="Eaton149" type="poem" n="'To The Irish Dead'">
+<docAuthor n="Evans, Essex">Essex Evans</docAuthor>
 <head rend="center">"TO THE IRISH DEAD"</head>
 <byline rend="center">BY<docAuthor>ESSEX EVANS</docAuthor></byline>
 <note>The author of these heart--touching lines is a Queenslander of Welsh derivation. Sir Herbert Warren, K. C. V. O., of the University of Oxford, had this to say of him and of the Toast: "They say that no one but an Irishman understands Ireland, that she will listen to no one but Irishman. Wales is near to her in geography and in race. I have thought she perhaps might listen to a Welsh voice, She has one today, now whispering, now ringing, across St. George's Channel. Will she heed it? Who knows?"</note>
@@ -5734,6 +5856,7 @@ Devil!</l></lg><pb n="178"/>
 </l></lg><pb n="181"/></div2>
 
 <div2 id="Eaton150" type="poem" n="Vision">
+<docAuthor n="Paul, Dorothy">Dorothy Paul</docAuthor>
 <head rend="center">VISION</head>
 <byline rend="center"><docAuthor>DOROTHY PAUL</docAuthor><lb/>
 <hi rend="smallcap">IN The Saturday Evening Post</hi><lb/>Permission to reproduce in this book</byline>
@@ -5782,6 +5905,7 @@ Devil!</l></lg><pb n="178"/>
 </l></lg></div2>
 
 <div2 id="Eaton151" type="poem" n="Rain On Your Old Tin Hat">
+<docAuthor n="Wickersham, J. H.">Lieut. J. H. Wickersham</docAuthor>
 <head rend="center">RAIN ON YOUR OLD TIN HAT</head>
 <byline rend="center"><docAuthor>LIEUT. J. H. WICKERSHAM</docAuthor></byline>
 <note>Written at the battle front in France and sent to his mother, Mrs. W. E. Damon. Lieutenant Wickersham was killed in action September 14, 1918.</note>
@@ -5813,6 +5937,7 @@ Devil!</l></lg><pb n="178"/>
 <l rend="indent">That's keeping up the patter on your old tin hat?
 </l></lg></div2>
 <div2 id="Eaton152" type="poem" n="The Armed Liner">
+<docAuthor n="Sarson, H. Smalley">H. Smalley Sarson</docAuthor>
 <head rend="center">THE ARMED LINER</head>
 <byline rend="center"><docAuthor>H. SMALLEY SARSON</docAuthor><lb/>
 <hi rend="smallcap">IN The Poetry Review</hi></byline>
@@ -5831,6 +5956,7 @@ Devil!</l></lg><pb n="178"/>
 </l></lg><pb n="184"/></div2>
 
 <div2 id="Eaton153" type="poem" n="There Are Crocuses At Nottingham">
+<docAuthor n="Anonymous">Author Unknown</docAuthor>
 <head rend="center">THERE ARE CROCUSES AT NOTTINGHAM</head>
 <byline rend="center"><hi rend="smallcap">Written IN The Trenches</hi><lb/> 
 Flanders, spring of 1917. Authorship unknown.</byline>
@@ -5881,6 +6007,7 @@ Flanders, spring of 1917. Authorship unknown.</byline>
 </l></lg></div2>
 
 <div2 id="Eaton154" type="poem" n="The War Rosary">
+<docAuthor n="Hurst, Nellie">Nellie Hurst</docAuthor>
 <head rend="center">THE WAR ROSARY</head>
 <byline rend="center"><docAuthor>NELLIE HURST</docAuthor><lb/>
 <hi rend="smallcap">IN The Westminster Gazette</hi></byline>
@@ -5913,6 +6040,7 @@ Flanders, spring of 1917. Authorship unknown.</byline>
 </l></lg><pb n="186"/></div2>
 
 <div2 id="Eaton155" type="poem" n="When Private Mugrums Parley Voos">
+<docAuthor n="Divine, Charles">Pvt. Charles Divine</docAuthor>
 <head rend="center">WHEN PRIVATE MUGRUMS PARLEY VOOS</head>
 <byline rend="center"><docAuthor>PVT. CHARLES DIVINE</docAuthor><lb/>
 <hi rend="smallcap">IN The Stars And Stripes, A.E.F., France</hi></byline>
@@ -5968,6 +6096,7 @@ Flanders, spring of 1917. Authorship unknown.</byline>
 </l></lg></div2>
 
 <div2 id="Eaton156" type="poem" n="Mules">
+<docAuthor n="Smith, C. Fox">C. Fox Smith</docAuthor>
 <head rend="center">MULES</head>
 <byline rend="center"><docAuthor>C. FOX SMITH</docAuthor><lb/>
 <hi rend="smallcap">IN London Punch</hi><lb/>Reproduced by special permission of the Proprietors of "Punch"</byline>
@@ -6010,6 +6139,7 @@ Flanders, spring of 1917. Authorship unknown.</byline>
 mule.</l></lg><pb n="189"/></div2>
 
 <div2 id="Eaton157" type="poem" n="An April Song">
+<docAuthor n="Michael, George C.">George C. Michael</docAuthor>
 <head rend="center">AN APRIL SONG</head>
 <byline rend="center"><docAuthor>GEORGE C. MICHAEL, LANCE CORPORAL, R. E.</docAuthor><lb/>
 (Written on leave at Stratford-on-Avon.)</byline>
@@ -6052,8 +6182,9 @@ mule.</l></lg><pb n="189"/></div2>
 </l></lg><pb n="190"/></div2>
 
 <div2 id="Eaton158" type="poem" n="A Song Of The Air">
+<docAuthor n="Alchin, Gordon">Gordon Alchin</docAuthor>
 <head rend="center">A SONG OF THE AIR</head>
-<byline rend="center"><docAuthor>>GORDON ALCHIN</docAuthor><lb/>From "Oxford and Flanders." B.H, Blackwell, Publishers, Oxford,England.  Special permission to reproduce in this book.</byline>
+<byline rend="center"><docAuthor>GORDON ALCHIN</docAuthor><lb/>From "Oxford and Flanders." B.H, Blackwell, Publishers, Oxford,England.  Special permission to reproduce in this book.</byline>
 <lg>
 <l n="1">THIS is the song of the Plane--</l>
 <l>The creaking, shrieking plane, </l>
@@ -6092,6 +6223,7 @@ mule.</l></lg><pb n="189"/></div2>
 </l></lg><pb n="191"/></div2>
 
 <div2 id="Eaton159" type="poem" n="Victory!">
+<docAuthor n="Duncan-Clark, S. J.">S. J. Duncan-Clark</docAuthor>
 <head rend="center">VICTORY!</head>
 <byline rend="center"><docAuthor>S. J. DUNCAN-CLARK</docAuthor><lb/>
 <hi rend="smallcap">IN The Chicago Evening Post, November</hi> 11, 1918<lb/>Permission to reproduce in this book</byline>
@@ -6132,6 +6264,7 @@ mule.</l></lg><pb n="189"/></div2>
 </l></lg><pb n="192"/></div2>
 
 <div2 id="Eaton160" type="poem" n="The Homecoming">
+<docAuthor n="Folge, Leroy">Leroy Folge</docAuthor>
 <head rend="center">THE HOMECOMING</head>
 <byline rend="center"><docAuthor>LEROY FOLGE</docAuthor></byline>
 <note>Grief for a brother, an American who was killed in France, brought about the suicide of the author of this poem.  The manuscript was found beside his body.  The lines were published in THE CHICAGE TRIBUNE</note>
@@ -6201,6 +6334,7 @@ mule.</l></lg><pb n="189"/></div2>
 </l></lg></div2>
 
 <div2 id="Eaton161" type="poem" n="The Crown">
+<docAuthor n="Combes, Helen">Helen Combes</docAuthor>
 <head rend="center">THE CROWN</head>
 <byline rend="center"><docAuthor>HELEN COMBES</docAuthor><lb/>
 <hi rend="smallcap">IN Leslie's Weekly</hi></byline>
@@ -6237,6 +6371,7 @@ then,</l></lg><pb n="194"/>
 <l>Sing us at last oh, soldier, the Song of Eternal Peace.
 </l></lg><pb n="195"/></div2>
 <div2 id="Eaton162" type="poem" n="Our Soldier Dead">
+<docAuthor n="Kohn, Annette">Annette Kohn</docAuthor>
 <head rend="center">OUR SOLDIER DEAD</head>
 <byline rend="center"><docAuthor>ANNETTE KOHN</docAuthor><lb/>
 <hi rend="smallcap">IN The New York Times</hi><lb/>Permission to reproduce in this book</byline>
@@ -6291,6 +6426,7 @@ Three thousand miles of cheerless space </l>
 </l></lg></div2>
 
 <div2 id="Eaton163" type="poem" n="Let There be Light!">
+<docAuthor n="Kauffman, Ruth Wright">Ruth Wright Kauffman</docAuthor>
 <head rend="center">LET THERE BE LIGHT!</head>
 <byline rend="center"><docAuthor>RUTH WRIGHT KAUFFMAN</docAuthor><lb/>
 <hi rend="smallcap">IN The Red Cross Magazine</hi><lb/>Permission to reproduce in this book</byline>
@@ -6323,6 +6459,7 @@ Three thousand miles of cheerless space </l>
 <l>It is dawn in the darkness; again There Is Light!
 </l></lg><pb n="197"/></div2>
 <div2 id="Eaton164" type="poem" n="The Present Battle-field">
+<docAuthor n="Field, Wright">Wright Field</docAuthor>
 <head rend="center">THE PRESENT BATTLE-FIELD</head>
 <byline rend="center"><docAuthor>WRIGHT FIELD</docAuthor><lb/>
 <hi rend="smallcap"> IN The Stars And Stripes</hi></byline>
@@ -6376,6 +6513,7 @@ Three thousand miles of cheerless space </l>
 </l></lg></div2>
 
 <div2 id="Eaton165" type="poem" n="November Eleventh">
+<docAuthor n="Hanly, Elizabeth">Elizabeth Hanly</docAuthor>
 <head rend="center">NOVEMBER ELEVENTH</head>
 <byline rend="center"><docAuthor>ELIZABETH HANLY</docAuthor><lb/>
 <hi rend="smallcap">IN Popular Educator</hi></byline>
@@ -6401,6 +6539,7 @@ Three thousand miles of cheerless space </l>
 </l></lg><pb n="199"/></div2>
 
 <div2 id="Eaton166" type="poem" n="Old Jim">
+<docAuthor n="Hall, Norman Shannon">Norman Shannon Hall</docAuthor>
 <head rend="center">OLD JIM</head>
 <byline rend="center"><docAuthor>NORMAN SHANNON HALL</docAuthor><lb/>
 <hi rend="smallcap">IN The Stars And Stripes</hi><lb/>Permission to reproduce in this book</byline>
@@ -6447,7 +6586,8 @@ Three thousand miles of cheerless space </l>
 </l></lg><pb n="200"/></div2>
 
 <div2 id="Eaton167" type="poem" n="The Unknown Soldier Armistice Day
-      At Arlington">
+At Arlington">
+<docAuthor n="Rice, Grantland">Grantland Rice</docAuthor>
 <head rend="center">THE UNKNOWN SOLDIER<lb/>
 ARMISTICE DAY AT ARLINGTON</head>
 <byline rend="center"><docAuthor>GRANTLAND RICE</docAuthor><lb/> 
@@ -6496,7 +6636,7 @@ snow.</l></lg><pb n="201"/>
 wait.</l><pb n="202"/>
 <l>But where the great shells fall no more, what vision is more splendid</l>
 <l>Than peace along the once--scarred fields, the last red battle ended,</l>
-<l rend="indent">Peace that he helped to bring again above the twilight >gate?</l></lg>
+<l rend="indent">Peace that he helped to bring again above the twilight gate?</l></lg>
 <lg>
 <l>Let valor's minstrel voices sing his fame for future pages,</l>
 <l rend="indent">But when the starless darkness comes and the long silence creeps,</l>
@@ -6507,6 +6647,7 @@ ages, </l>
 </l></lg></div2>
 
 <div2 id="Eaton168" type="poem" n="Epitaph For The Unknown Soldier">
+<docAuthor n="Kohn, Annette">Annette Kohn</docAuthor>
 <head rend="center">EPITAPH FOR THE UNKNOWN SOLDIER</head>
 <byline rend="center"><docAuthor>ANNETTE KOHN</docAuthor><lb/>
 <hi rend="smallcap">IN The Washington Star</hi><lb/>Permission to reproduce in this book</byline>

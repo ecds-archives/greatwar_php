@@ -13,7 +13,7 @@ a:hover   { background-color: #ededed; }
 </style>
 </head>
 
-<body>
+<body bgcolor="#5d6a50">
 <div align="center">
 <p>
 <img src="images/index.jpg" width="600" height="400" border="0">
@@ -24,9 +24,9 @@ a:hover   { background-color: #ededed; }
 <tr>
 <td align="left" width="30%"><h2><a href="postcards/browse.php">Postcards</a></h2></td>
 <td align="middle" >&#149;</td>
-<td align="middle" width="30%"><h2><a href="poetry/">Poetry</a></h2></td>
+<td align="middle" width="30%"><h2><a href="poetry/browse.php">Poetry</a></h2></td>
 <td align="middle" >&#149;</td>
-<td align="right" width="29%"><h2><a href="links/">Links</a></h2></td>
+<td align="right" width="29%"><h2><a href="links/browse.php">Links</a></h2></td>
 </tr>
 
 </table>
@@ -36,8 +36,8 @@ a:hover   { background-color: #ededed; }
 <div class="indexsearch">
 <p>
 <h3>Search</h3>
-<form>
-<input type="text" size="20">
+<form action="searchall.php">
+<input type="text" name="keyword" size="20">
 <input type="submit" value="Go">
 <font size="-1">
 <h4>Search within:</h4>

@@ -5108,5 +5108,550 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <note>(Eldest son of the Earl of Castlestewart, Lieut. 6th Royal Scots Fusiliers, killed in action in France between Sept. 25 and 27, 1915.)</note>
 </div2>
 
+<pb n="252"/>
+<div2 id="cunliffe091" type="poem" n="From America">
+<head rend="center">FROM AMERICA</head>
 
-090 p. 251
+<lg type="stanza">
+<l n="1">O<hi rend="smallcaps">h</hi>, England, at the smoking trenches dying</l>
+<l rend="indent4">For all the world,</l>
+<l>Our hearts beat and we watch your bright flag flying</l>
+<l rend="indent4">While ours is furled;</l></lg>
+
+<lg>
+<l>We who are neutral (yet each lip with fervor</l>
+<l rend="indent4">The word abjures):</l>
+<l>Oh, England, never name us the time-server!</l>
+<l rend="indent4">Our hearts are yours:</l></lg>
+
+<lg>
+<l>We that so glory in your high decision,</l>
+<l rend="indent4">So trust your goal;</l>
+<l>All Europe in our blood, but yours our vision,</l>
+<l rend="indent4">Our speech, our soul!</l></lg>
+<byline>-- Elizabeth Townsend Swift.</byline>
+</div2>
+
+
+<pb n="253"/>
+<div2 id="cunliffe092" type="poem" n="The Trumpet">
+<head rend="center">THE TRUMPET</head>
+
+<lg type="stanza">
+<l n="1">T<hi rend="smallcaps">hy</hi> trumpet lies in the dust.</l>
+<l>The wind is weary, the light is dead. Ah, the evil day!</l>
+<l>Come fighters, carrying your flags and singers with your songs!</l>
+<l>Come pilgrims, hurrying on your journey!</l>
+<l>The trumpet lies in the dust waiting for us.</l></lg>
+
+<lg>
+<l>I was on my way to the temple with my evening offerings,</l>
+<l>Seeking for the heaven of rest after the day's dusty toil;</l>
+<l>Hoping my hurts would be healed and stains in my garments washed white,</l>
+<l>When I found thy trumpet lying in the dust.</l></lg>
+
+<lg>
+<l>Has it not been the time for me to light my lamp?</l>
+<l>Has my evening not come to bring me sleep?</l>
+<l>O, thou blood-red rose, where have my poppies faded?</l>
+<l>I was certain my wanderings were over and my debts all paid</l>
+<l>When suddenly I came upon thy trumpet lying in the dust.</l></lg>
+
+<lg>
+<l><pb n="254"/>
+<l>Strike my drowsy heart with thy spell of youth!</l>
+<l>Let my joy in life blaze up in fire.</l>
+<l>Let the shafts of awakening fly piercing the heart of night and a thrill of dread shake the palsied blindness,</l>
+<l>I have come to raise thy trumpet from the dust.</l></lg>
+
+<lg>
+<l>Sleep is no more for me -- my walk shall be through showers of arrows.</l>
+<l>Some shall run out of their houses and come to my side -- some shall weep.</l>
+<l>Some in their beds shall toss and groan in dire dreams:</l>
+<l>For to-night thy trumpet shall be sounded.</l></lg>
+
+<lg>
+<l>From thee I had asked peace only to find shame.</l>
+<l>Now I stand before thee -- help me to don my armor!</l>
+<l>Let hard blows of trouble strike fire into my life.</l>
+<l>Let my heart beat in pain -- beating the drum of thy victory.</l>
+<l>My hands shall be utterly emptied to take up thy trumpet.</l></lg>
+<byline>-- Rabindranath Tagore.</byline>
+</div2>
+
+
+<pb n="255"/>
+<div2 id="cunliffe093" type="poem" n="England's Dead">
+<head rend="center">ENGLAND'S DEAD</head>
+<epigraph rend="center">("Make them to be numbered with thy Saints: in glory everlasting.")</epigraph>
+
+<lg type="stanza">
+<l n="1">H<hi rend="smallcaps">omeward</hi> the long ships leap; swift-shod with joy,</l>
+<l rend="indent">Striding the deep sea-dykes fast home they fare, --</l>
+<l>Where is my wedded love? Where is my boy?</l>
+<l rend="indent">Where go the dead that died for England, where?</l></lg>
+
+<lg>
+<l>Homeward the long ships leap; but not with these</l>
+<l rend="indent">Thy boy, thy wedded love, O gentle-eyed</l>
+<l>Woman of England, nor far over seas</l>
+<l rend="indent">Mixing with dull earth sleep the dead that died</l></lg>
+
+<lg>
+<l>For England. They, in God's completed aims,</l>
+<l rend="indent">Bear each his part; unseen of bounded sight,</l>
+<l>Down the vast firmament there floats and flames,</l>
+<l rend="indent">Crested with stars and panoplied in light,</l></lg>
+
+<lg>
+<l>Of strenuous clean souls a long array,</l>
+<l rend="indent">With lambent lance and white, bright, blinding sword,</l>
+<l>All riding upon horses, -- what are they?</l>
+<l rend="indent">They are the dead which died in Christ their Lord</l></lg>
+
+<lg>
+<l>For England, from old time; with God made one,</l>
+<l rend="indent">As on the mount the triple vision shone,</l>
+<pb n="256"/>
+<l>So shine they now, and like the noontide sun</l>
+<l rend="indent">Before them all the fair Saint George rides on.</l></lg>
+
+<lg>
+<l>There goes the boy of Cr&eacute;&ccedil;y whispering low</l>
+<l rend="indent">To him of Agincourt, a kingly pair,</l>
+<l>With many mighty men which bent the bow, --</l>
+<l rend="indent">There go the dead that died for England, there;</l></lg>
+
+<lg>
+<l>There go those quenchless Talbots, there the flower</l>
+<l rend="indent">Of Devon, Grenville, Gilbert, mariners rare,</l>
+<l>She too who thought foul scorn of Philip's power, --</l>
+<l rend="indent">There go the dead that died for England, there;</l></lg>
+
+<lg>
+<l>And Sidney who the rippling cup resigned,</l>
+<l rend="indent">And happy Wolfe; wan Pitt released from care,</l>
+<l>Nelson the well-beloved and all his kind, --</l>
+<l rend="indent">There go the dead that died for England, there;</l></lg>
+
+<lg>
+<l>And he who brake the Corsican's strong spell,</l>
+<l rend="indent">And Nicholson, impatient of despair,</l>
+<l>And Gordon, faithful, desolate sentinel, --</l>
+<l rend="indent">There go the dead that died for England, there;</l></lg>
+
+<lg>
+<l>And there unhelmeted, ungirt of brand,</l>
+<l rend="indent">Victoria moves with mild, maternal air,</l>
+<l>Still vigilant, still prayerful for the land, --</l>
+<l rend="indent">There go the dead that died for England, there.</l></lg>
+
+<lg>
+<l>Nor ride they idly nor with indolent rein,</l>
+<l rend="indent">Irresolute, as men that seek no foe,</l>
+<pb n="257"/>
+<l>But by the pathless sea, by peak and plain,</l>
+<l rend="indent">Bright-eyed, stern-lipped, all day, all night, they go</l></lg>
+
+<lg>
+<l>Forth as a fire that snatches arid devours</l>
+<l rend="indent">Wind-withered woods, so go they swift and fell,</l>
+<l>Warring with principalities and powers,</l>
+<l rend="indent">Hunting through space the swart, old bands of Hell;</l></lg>
+
+<lg>
+<l>And all the sounding causeways of the spheres</l>
+<l rend="indent">Ring like white iron with the rhythmic tread</l>
+<l>Of these and their innumerable peers;</l>
+<l rend="indent">But most round England muster England's dead,</l></lg>
+
+<lg>
+<l>Round England cradled in her roaring seas,</l>
+<l rend="indent">With Arctic snows white-girdled, bathed in suns</l>
+<l>Asian and Australasian, there go these;</l>
+<l rend="indent">And where one solitary trader runs</l></lg>
+
+<lg>
+<l>His English keel, and where one lonely sword</l>
+<l rend="indent">Glimmers for England, one unsleeping brain</l>
+<l>Watches and works for England, thitherward</l>
+<l rend="indent">Gather the bright souls of her servants slain</l></lg>
+
+<lg>
+<l>For her, and lock their shimmering ranks, and sweep</l>
+<l rend="indent">Round England's child as sweeps the northern gale</l>
+<l>Round some stark pine-tree on the moorland steep,</l>
+<l rend="indent">And from the flash and rattle of their mail</l></lg>
+
+<lg>
+<l><pb n="258"/>
+<l>Hell's pale marauders shudderingly recoil</l>
+<l rend="indent">Frustrate. O glad condition and sublime</l>
+<l>Of our undying dead, to fight and foil</l>
+<l rend="indent">The ancient foe, continually to climb</l></lg>
+
+<lg>
+<l>Through God's high order of His Saints, to meet</l>
+<l rend="indent">Some soul whose star-like name lit all their course,</l>
+<l>And commune with him, to discern and greet</l>
+<l rend="indent">Old kindred, love, and friendship, hound and horse;</l></lg>
+
+<lg>
+<l>To see God face to face, and still to see</l>
+<l rend="indent">And labor for the loves that grope on earth,</l>
+<l>To wait serenely till all souls shall be</l>
+<l rend="indent">One in God's aristocracy of worth, --</l></lg>
+
+<lg>
+<l>O glad condition and sublime! whereto</l>
+<l rend="indent">That southern tomb thy hands may never tend</l>
+<l>Was but the gateway thy loved boy passed through,</l>
+<l rend="indent">Thy wedded love passed through, that he might wend</l></lg>
+
+<lg>
+<l>Homeward to thee; thou can'st not see the blaze</l>
+<l rend="indent">Of his great blade nor hear his trumpets blare,</l>
+<l>Yet thick as brown leaves round about thy ways,</l>
+<l rend="indent">There go the dead that died for England, there.</l></lg>
+<byline>-- Frank Taylor.</byline>
+<note>(This poem was written about 1902, and was published in the Spectator of June 12, 1915, having been found among the author's papers by his executor, by whose consent it is here reprinted.)</note>
+</div2>
+
+
+<pb n="259"/>
+<xptr doc="Clarke.xml" from="clarke171"/>
+
+
+<pb n="260"/>
+<div2 id="cunliffe094" type="poem" n="Said Attila the Hun to --">
+<head rend="center">SAID ATTILA THE HUN TO --</head>
+
+<lg type="stanza">
+<l n="1">I<hi rend="smallcaps">t</hi> was not here -- it was not there,</l>
+<l>It was not now -- it was not then...</l>
+<l>Beyond the bounds of Otherwhere,</l>
+<l>Two tyrant lords of vanished men --</l>
+<l>They meet in shadowy mail and casque,</l>
+<l>They greet, and of each other ask.</l></lg>
+
+<lg>
+<l rend="italic">(Two shades whose work on earth was dire,</l>
+<l rend="italic">Mid darted lights and whelming gloom,</l>
+<l rend="italic">Their eyes the lamps of lethal fire,</l>
+<l rend="italic">Fierce thirst for power their endless doom --</l>
+<l rend="italic">To seek, to be thrown back, to seek!...</l>
+<l rend="italic">To learn the triumph of the weak!)</l></lg>
+
+<lg>
+<l>"Lo, I am Attila, who laid</l>
+<l>Proud Aquileia in the dust;</l>
+<l>The Slav, the Teuton, slaked my blade --</l>
+<l>Of blood I had the sacred lust!</l>
+<l>Yea, Attila am I; but thou,</l>
+<l>Who has our brand upon thy brow!"</l></lg>
+
+<lg>
+<l>"I, too, made treasure-cities smoke,</l>
+<l>And blood with ashes mixed therein;</l>
+<pb n="261"/>
+<l>And from the sky, on sleeping folk,</l>
+<l>Mine engines did full vengeance win!"</l>
+<l>To whom said Attila the Hun,</l>
+<l>"In all of this thou hast well done!"</l></lg>
+
+<lg>
+<l>"But I," the other shade replies,</l>
+<l>"Where'er I dealt the killing blow,</l>
+<l>Or gave mine iron cross as prize,</l>
+<l>Therewith I bade God's blessing go..."</l>
+<l>...Then, Attila fell back, outdone --</l>
+<l>God's scourge, and not His favored son!</l></lg>
+<byline>-- Edith M. Thomas.</byline>
+</div2>
+
+
+<pb n="262"/>
+<div2 id="cunliffe095" type="poem" n="The Unconquered Hope">
+<head rend="center">THE UNCONQUERED HOPE</head>
+<note>(A ship recently arrived in England from America, laden with toys, the gift of the American people, for the children both of the Allies and the Enemy.)</note>
+
+<lg type="stanza">
+<l n="1">F<hi rend="smallcaps">rom</hi> sea to sea, from shore to shore,</l>
+<l rend="indent">The clouds of death and doom</l>
+<l rend="indent4">Veil the sun's soft and kindly beam; --</l>
+<l rend="indent4">Yet, can ye see one light agleam</l>
+<l>Where a stately ship comes threading</l>
+<l rend="indent">Its pathway thro' the gloom?</l></lg>
+
+<lg>
+<l>Say ye 'tis but a ship of steel?</l>
+<l rend="indent">Are ye so dead, so blind!</l>
+<l rend="indent4">Can ye not see the rainbow spray</l>
+<l rend="indent4">That dances on the good ship's way,</l>
+<l>Nor hear the strange, deep whispers</l>
+<l rend="indent">That wander on the wind?</l></lg>
+
+<lg>
+<l>What are the gifts the proud ship brings</l>
+<l rend="indent">To the weary world and old?</l>
+<l rend="indent4">Trifles to fill a childish hand?</l>
+<l rend="indent4">Why, hardly the angels understand</l>
+<l>The richness of the treasure</l>
+<l rend="indent">That lies within its hold!</l></lg>
+
+<lg>
+<l><pb n="263"/>
+<l>Oh, breaking thro' the mist of dreams</l>
+<l rend="indent">That wreathe the distant bar,</l>
+<l rend="indent4">The vessel comes with a strange light dress'd,</l>
+<l rend="indent4">And, tho' it sails from out the West,</l>
+<l>Upon its flag there glistens</l>
+<l rend="indent">A golden Eastern star!</l></lg>
+
+<lg>
+<l>For when the world is blackest,</l>
+<l rend="indent">And man is blind with blood</l>
+<l rend="indent4">And buried deep in his guilt and pride,</l>
+<l rend="indent4">This is the ship that takes the tide</l>
+<l>And sends its lamp of healing</l>
+<l rend="indent">Across the soul's dark flood.</l></lg>
+
+<lg>
+<l>It comes once more as it oft has come,</l>
+<l rend="indent">With its fa&euml;ry wings outspread --</l>
+<l rend="indent4">Can ye not see them, eyes that grope,</l>
+<l rend="indent4">Nor read its name, <hi rend="italic">The Unconquered Hope</hi>,</l>
+<l>Nor yet discern the halo</l>
+<l rend="indent">Around its Figurehead?</l></lg>
+
+<lg>
+<l>What are the gifts the proud ship brings?</l>
+<l rend="indent">Oh childish smiles and tears;</l>
+<l rend="indent4">Oh childish faith that breaks thro' all</l>
+<l rend="indent4">The sin that holds the world in thrall!...</l>
+<l>A rift is in the darkness --</l>
+<l rend="indent">A ship, a ship appears.</l></lg>
+<byline>-- Gilbert Thomas.</byline>
+</div2>
+
+
+<pb n="264"/>
+<div2 id="cunliffe096" type="poem" n="Sonnet">
+<head rend="center">SONNET</head>
+<note rend="center"><hi rend="italic">October 1st, 1914</hi></note>
+
+<lg type="stanza">
+<l n="1">E<hi rend="smallcaps">ngland</hi>! that thou wast faint of heart we said,</l>
+<l>Or inly thought; and that the wreath of bays</l>
+<l>Drooped on thy brow, withered with length of days,</l>
+<l>A dust-layered trophy of the age-long Dead:</l>
+<l>We wronged thee much! -- Myriads this month have bled</l>
+<l>And died for thee, and though the end delays,</l>
+<l>There's not one that a daunted spirit betrays</l>
+<l>Nor that for thee life's last drop would not shed!</l></lg>
+
+<lg>
+<l>We deemed thy robes grown faded, -- but fresh-dyed</l>
+<l>We now behold them, -- and their crimson dye</l>
+<l>Is of thy sons' spilt blood, deep-hued and glowing:</l>
+<l>O England! thou art comely in thy pride</l>
+<l>And clad in glorious raiment, and thy going</l>
+<l>Is as of one who goes to victory!</l></lg>
+<byline>-- Grace E. Tollemache.</byline>
+</div2>
+
+
+<pb n="265"/>
+<div2 id="cunliffe097" type="poem" n="To My Country">
+<head rend="center">TO MY COUNTRY</head>
+
+<lg type="stanza">
+<l n="1">O<hi rend="smallcaps">ne</hi> told me he had heard it whispered: "Lo!</l>
+<l rend="indent">The hour has come when Europe, desperate</l>
+<l rend="indent">With sudden war and terrible swift hate,</l>
+<l>Rocks like a reed beneath the mighty blow.</l>
+<l>Therefore shall we, in this her time of woe,</l>
+<l rend="indent">Profit and prosper, since her ships of state</l>
+<l rend="indent">Go down in darkness. Kind, thrice kind is Fate,</l>
+<l>Leaving our land secure, our grain to grow!"</l></lg>
+
+<lg>
+<l>America! They blaspheme and they lie</l>
+<l rend="indent">Who say these are the voices of your sons!</l>
+<l>In this foul night, when nations sink and die,</l>
+<l rend="indent">No thought is here save for the fallen ones</l>
+<l rend="indent">Who, underneath the ruin of old thrones,</l>
+<l>Suffer and bleed, and tell the world good-by!</l></lg>
+<byline>-- Charles Hanson Towne.</byline>
+</div2>
+
+
+<pb n="266"/>
+<div2 id="cunliffe098" type="poem" n="Aftermath">
+<head rend="center">AFTERMATH</head>
+
+<lg type="stanza">
+<l n="1">W<hi rend="smallcaps">ith</hi> steady, silent tread</l>
+<l>Bearing aloft their dead --</l>
+<l>One at the foot, one at the head</l>
+<l>The stretcher-bearers go;</l>
+<l>Out of the dark they come</l>
+<l>Stumbling and staggering, some</l>
+<l>Bearing, maybe, a chum,</l>
+<l>Pair after pair they go.</l></lg>
+
+<lg>
+<l>Vague, silhouetted ghosts,</l>
+<l>Remnants of martyr'd hosts;</l>
+<l>Think on the blatant toasts</l>
+<l>Raised to "King Glory"!</l>
+<l>Tread lightly, that's the way,</l>
+<l>Wake not the dead, lest they</l>
+<l>Have other words to say</l>
+<l>Of the same story!</l></lg>
+<byline>-- D. Howard Tripp.</byline>
+<note>(Lance-Corporal, London Irish Rifles, British Expeditionary Force.)</note>
+</div2>
+
+
+<pb n="267"/>
+<div2 id="cunliffe099" type="poem" n="A Girl's Song">
+<head rend="center">A GIRL'S SONG</head>
+
+<lg type="stanza">
+<l n="1">T<hi rend="smallcaps">he</hi> Meuse and Marne have little waves;</l>
+<l rend="indent">The slender poplars o'er them lean.</l>
+<l>One day they will forget the graves</l>
+<l rend="indent">That give the grass its living green.</l></lg>
+
+<lg>
+<l>Some brown French girl the rose will wear</l>
+<l rend="indent">That springs above his comely head;</l>
+<l>Will twine it in her russet hair,</l>
+<l rend="indent">Nor wonder why it is so red.</l></lg>
+
+<lg>
+<l>His blood is in the rose's veins,</l>
+<l rend="indent">His hair is in the yellow corn.</l>
+<l>My grief is in the weeping rains</l>
+<l rend="indent">And in the keening wind forlorn.</l></lg>
+
+<lg>
+<l>Flow softly, softly, Marne and Meuse;</l>
+<l rend="indent">Tread lightly all ye browsing sheep;</l>
+<l>Fall tenderly, O silver dews,</l>
+<l rend="indent">For here my dear Love lies asleep.</l></lg>
+
+<lg>
+<l>The earth is on his seal&egrave;d eyes,</l>
+<l rend="indent">The beauty marred that was my pride;</l>
+<l>Would I were lying where he lies,</l>
+<l rend="indent">And sleeping sweetly by his side!</l></lg>
+
+<lg>
+<l><pb n="268"/>
+<l>The Spring will come by Meuse and Marne,</l>
+<l rend="indent">The birds be blithesome in the tree.</l>
+<l>I heap the stones to make his cairn</l>
+<l rend="indent">Where many sleep as sound as he.</l></lg>
+<byline>-- Katharine Tynan.</byline>
+</div2>
+
+
+<pb n="269"/>
+<div2 id="cunliffe100" type="poem" n="The Laughers">
+<head rend="center">THE LAUGHERS</head>
+
+<lg type="stanza">
+<l n="1">S<hi rend="smallcaps">pring</hi>!</l>
+<l>And her hidden bugles up the street.</l>
+<l>Spring -- and the sweet</l>
+<l>Laughter of winds at the crossing;</l>
+<l>Laughter of birds and a fountain tossing</l>
+<l>Its hair in abandoned ecstasies.</l>
+<l>Laughter of trees.</l>
+<l>Laughter of shop-girls that giggle and blush;</l>
+<l>Laugh of the tug-boat's impertinent fife.</l>
+<l>Laughter followed by a trembling hush --</l>
+<l>Laughter of love, scarce whispered aloud.</l>
+<l>Then, stilled by no sacredness or strife,</l>
+<l>Laughter that leaps from the crowd;</l>
+<l>Seizing the world in a rush.</l>
+<l>Laughter of life...</l></lg>
+
+<lg>
+<l>Earth takes deep breaths like a man who had feared he might smother,</l>
+<l>Filling his lungs before bursting into a shout....</l>
+<l>Windows are opened -- curtains flying out;</l>
+<l>Over the wash-lines women call to each other.</l>
+<l>And, under the calling, there surges, too clearly to doubt,</l>
+<pb n="270"/>
+<l>Spring, with the noises</l>
+<l>Of shrill, little voices;</l>
+<l>Joining in "Tag" and the furious chase</l>
+<l>Of "I-spy," "Red Rover" and "Prisoner's Base";</l>
+<l>Of the roller-skates whir at the sidewalk's slope,</l>
+<l>Of boys playing marbles and girls skipping rope.</l>
+<l>And there, down the avenue, behold,</l>
+<l>The first true herald of the Spring --</l>
+<l>The hand-organ gasping and wheezily murmuring</l>
+<l>Its tunes ten-years old....</l>
+<l>And the music, trivial and tawdry, has freshness and magical swing.</l>
+<l>And over and under it,</l>
+<l>During and after --</l>
+<l>The laughter</l>
+<l>Of Spring!...</l></lg>
+
+<lg>
+<l>And lifted still</l>
+<l>With the common thrill,</l>
+<l>With the throbbing air, the tingling vapor,</l>
+<l>That rose like strong and mingled wines;</l>
+<l>I turned to my paper,</l>
+<l>And read these lines:</l>
+<l rend="italic">"Now that the Spring is here,</l>
+<l rend="italic">The war enters its bloodiest phase...</l>
+<l rend="italic">The men are impatient....</l>
+<l rend="italic">Bad roads, storms and the rigors of the winter</l>
+<l rend="italic">Have held back the contending armies....</l>
+<pb n="271"/>
+<l rend="italic">But the recruits have arrived,</l>
+<l rend="italic">And are waiting only the first days of warm weather....</l>
+<l rend="italic">There will be terrible fighting along the whole line --</l>
+<l rend="italic">Now that Spring has come."</l></lg>
+
+<lg>
+<l>I put the paper down... Something struck out the sun -- something unseen;</l>
+<l>Something arose like a dark wave to drown</l>
+<l>The golden streets with a sickly green.</l>
+<l>Something polluted the blossoming day</l>
+<l>With the touch of decay.</l>
+<l>The music thinned and died;</l>
+<l>People seemed hollow-eyed.</l>
+<l>Even the faces of children, where gaiety lingers,</l>
+<l>Sagged and drooped like banners about to be furled--</l>
+<l>And Silence laid its bony fingers</l>
+<l>On the lips of the world...</l>
+<l>A grisly quiet with the power to choke;</l>
+<l>A quiet that only one thing broke;</l>
+<l>One thing alone rose up thereafter...</l>
+<l>Laughter!</l>
+<l>Laughter of streams running red.</l>
+<l>Laughter of evil things in the night;</l>
+<l>Vultures carousing over the dead;</l>
+<l>Laughter of ghouls.</l>
+<l>Chuckling of idiots, cursed with sight.</l>
+<l>Laughter of dark and horrible pools.</l>
+<pb n="272"/>
+<l>Scream of the bullets' rattling mirth,</l>
+<l>Sweeping the earth.</l>
+<l>Laugh of the cannon's poisonous breath....</l>
+<l>And over the shouts and the wreckage and crumbling</l>
+<l>The raucous and rumbling</l>
+<l>Laughter of death.</l>
+<l>Death that arises to sing, --</l>
+<l>Hailing the Spring!</l></lg>
+<byline>-- Louis Untermeyer.</byline>
+</div2>
+
+100 p.272

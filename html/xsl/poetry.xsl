@@ -123,10 +123,10 @@
      <xsl:value-of select="@n"/>
      <xsl:if test="not(@n)">[untitled]</xsl:if>
     </a> 
-    <xsl:if test="byline"> - <xsl:call-template name="fix-author">
-	<xsl:with-param name="author"><xsl:value-of select="byline"/></xsl:with-param>
-	</xsl:call-template>
+    <xsl:if test="docAuthor">
+	<xsl:value-of select="concat(' - ', docAuthor)"/>
     </xsl:if>
+
     <font class="type">(<xsl:value-of select="@type"/>)</font>
   </li>
 </xsl:template>
@@ -139,12 +139,12 @@
      <xsl:value-of select="@n"/>
      <xsl:if test="not(@n)">[untitled]</xsl:if>
     </a> 
-    <xsl:if test="byline"> - <xsl:call-template name="fix-author">
-	<xsl:with-param name="author"><xsl:value-of select="byline"/></xsl:with-param>
-	</xsl:call-template>
-    </xsl:if>
-   <xsl:if test="docAuthor"> - <xsl:value-of select="docAuthor"/></xsl:if>
-      <xsl:apply-templates select="linecount" mode="search"/>
+
+   <xsl:if test="docAuthor"><xsl:value-of select="concat(' - ', docAuthor)"/></xsl:if>
+
+   <!-- search results mode: display line count and lines matching
+	search term -->
+    <xsl:apply-templates select="linecount" mode="search"/>
     <p class="linematch">
       <xsl:apply-templates select="l" mode="search"/>
     </p>
@@ -163,29 +163,6 @@
   <xsl:apply-templates/>
   <xsl:text> ...</xsl:text>
   <br/>
-</xsl:template>
-
-<xsl:template name="fix-author">
- <xsl:param name="author"/>
-
-<!-- first pass: remove comma and following description of author -->
- <xsl:variable name="auth1">
-    <xsl:choose>
-     <xsl:when test="contains($author, ',')">
-       <xsl:value-of select="concat(substring-before($author, ','), '.')"/>
-	<!-- note: all others end with final period... -->
-     </xsl:when>
-     <xsl:otherwise>
-       <xsl:value-of select="$author"/>
-     </xsl:otherwise>
-    </xsl:choose>
-  </xsl:variable>
-
-<!-- next: fix case of letters -->
- <xsl:call-template name="convertpropercase">
-   <xsl:with-param name="toconvert"><xsl:value-of select="normalize-space($auth1)"/></xsl:with-param>
-  </xsl:call-template>
-
 </xsl:template>
 
 <xsl:template match="div1">
@@ -212,74 +189,12 @@
 <xsl:template match="div2" mode="poem">
  <table class="poem">
   <tr><td>
-   <xsl:apply-templates/>
+   <!-- ignore docAuthor in poem mode -->
+   <xsl:apply-templates select="*[not(self::docAuthor)]"/>
   </td></tr>
  </table>
 
   <xsl:call-template name="endnotes"/>
-</xsl:template>
-
-<!-- templates to convert case -->
-<xsl:template name="convertcase">
-  <xsl:param name="toconvert"/>
-  <xsl:param name="conversion"/>  <!-- upper/lower -->
-<xsl:variable name="lcletters">abcdefghijklmnopqrstuvwxyz</xsl:variable>
-<xsl:variable name="ucletters">ABCDEFGHIJKLMNOPQRSTUVWXYZ</xsl:variable>
-
-<xsl:choose>
-  <xsl:when test="$conversion='upper'">
-    <xsl:value-of select="translate($toconvert,$lcletters,$ucletters)"/>
-  </xsl:when>
-  <xsl:when test="$conversion='lower'">
-    <xsl:value-of select="translate($toconvert,$ucletters,$lcletters)"/>
-  </xsl:when>
-</xsl:choose>
-
-</xsl:template>
-
-
-<xsl:template name='convertpropercase'>
-<xsl:param name='toconvert' />
-
-<xsl:if test="string-length($toconvert) > 0">
-	<xsl:variable name='f' select='substring($toconvert, 1, 1)' />
-	<xsl:variable name='s' select='substring($toconvert, 2)' />
-	
-	<xsl:call-template name='convertcase'>
-	  <xsl:with-param name='toconvert' select='$f' />
-	  <xsl:with-param name='conversion'>upper</xsl:with-param>
-	</xsl:call-template>
-
-<xsl:choose>
-	<xsl:when test="contains($s,' ')">
-         <xsl:call-template name="convertcase">
-            <xsl:with-param name="toconvert" select='substring-before($s," ")'/>
-            <xsl:with-param name="conversion">lower</xsl:with-param>
-         </xsl:call-template>
-		<xsl:text> </xsl:text>
-		<xsl:call-template name='convertpropercase'>
-		<xsl:with-param name='toconvert' select='substring-after($s," ")' />
-		</xsl:call-template>
-	</xsl:when>
-<!-- special case: initials without spaces -->
-        <xsl:when test="contains($s, '.')">
-         <xsl:call-template name="convertcase">
-            <xsl:with-param name="toconvert" select='substring-before($s,".")'/>
-            <xsl:with-param name="conversion">lower</xsl:with-param>
-         </xsl:call-template>
-		<xsl:text>.</xsl:text>
-		<xsl:call-template name='convertpropercase'>
-		<xsl:with-param name='toconvert' select='substring-after($s,".")' />
-		</xsl:call-template>
-        </xsl:when>
-	<xsl:otherwise>
-         <xsl:call-template name="convertcase">
-	    <xsl:with-param name="toconvert"><xsl:value-of select='$s'/></xsl:with-param>
-            <xsl:with-param name="conversion">lower</xsl:with-param>
-         </xsl:call-template>
-	</xsl:otherwise>
-</xsl:choose>
-</xsl:if>
 </xsl:template>
 
 

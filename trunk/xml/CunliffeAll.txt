@@ -4676,4 +4676,437 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <byline>-- Owen Seaman.</byline>
 </div2>
 
-081 p. 231
+
+<pb n="232"/>
+<xptr doc="Clarke.xml" from="clarke093"/>
+<pb n="233"/>
+<note>(Killed in battle at Belloy-en-Santerre, July, 1916.)</note>
+
+
+<pb n="234"/>
+<div2 id="cunliffe082" type="poem" n="The Mother">
+<head rend="center">THE MOTHER</head>
+
+<lg type="stanza">
+<l n="1">O<hi rend="smallcaps">ut</hi> of the bitter, the sweet;</l>
+<l rend="indent">Out of the pain, the joy;</l>
+<l>Out of the mists, the morning star;</l>
+<l rend="indent">Out of my travail, my boy.</l></lg>
+
+<lg>
+<l>Out of old flesh, new flesh;</l>
+<l rend="indent">Out of old bone, new bone;</l>
+<l>Out of my side, my treasure and pride;</l>
+<l rend="indent">My breast his earliest throne.</l></lg>
+
+<lg>
+<l>Stiff in the trenches, and stark;</l>
+<l rend="indent">Dead 'ere the battle was won;</l>
+<l>For that which is Right, for Love and Light,</l>
+<l rend="indent">Freely I gave my son.</l></lg>
+
+<lg>
+<l>After the bitter, the sweet;</l>
+<l rend="indent">After the pain, the joy --</l>
+<l>I will not falter, nor flinch, nor faint;</l>
+<l rend="indent">Proudly I give my boy.</l></lg>
+<byline>-- "Seranus."</byline>
+</div2>
+
+
+<pb n="235"/>
+<div2 id="cunliffe083" type="poem" n="A Thanksgiving">
+<head rend="center">A THANKSGIVING</head>
+
+<lg type="stanza">
+<l n="1">B<hi rend="smallcaps">efore</hi> the winter's haunted nights are o'er,</l>
+<l rend="indent">I thankfully rejoice, that stars look down</l>
+<l>Above the darkened streets, and I adore</l>
+<l rend="indent">The Heavens in London Town.</l></lg>
+
+<lg>
+<l>The Heavens, beneath which Alfred stood, when he</l>
+<l rend="indent">Built ramparts by the tide against his foes,</l>
+<l>The skies men loved, when in eternity</l>
+<l rend="indent">The dreamlike Abbey rose;</l></lg>
+
+<lg>
+<l>The Heavens, whose glory has not known increase</l>
+<l rend="indent">Since Raleigh swaggered home by lantern-light,</l>
+<l>And Shakespeare looking upwards knew the peace,</l>
+<l rend="indent">The cool deep peace of night.</l></lg>
+
+<lg>
+<l>Under those Heavens brave Wesley rose betimes</l>
+<l rend="indent">To preach ere daybreak to the tender soul;</l>
+<l>And in the heart of Keats the starry rhymes</l>
+<l rend="indent">Rolled, and for ever roll.</l></lg>
+
+<lg>
+<l>I too have walked with them the heavenly ways,</l>
+<l rend="indent">Tracing the sweet embroideries of the sky,</l>
+<l>And I shall not forget, when arcs shall blaze,</l>
+<l rend="indent">And all the lights are high.</l></lg>
+<byline>-- Edward Shillito.</byline>
+</div2>
+
+
+<pb n="236"/>
+<div2 id="cunliffe084" type="poem" n="Form Fours">
+<head rend="center">"FORM FOURS"</head>
+<head rend="center"><hi rend="smallcaps">A VOLUNTEER'S NIGHTMARE</hi></head>
+
+<lg type="stanza">
+<l n="1">I<hi rend="smallcaps">f</hi> you're Volunteer Artist or Athlete, or if you defend the Home,</l>
+<l>You sacrifice "Ease" for "Attention," and march like a metronome;</l>
+<l>But of all elementary movements you learn in your Volunteer Corps</l>
+<l>The one that is really perplexing is known as the Forming of Fours.</l></lg>
+
+<lg>
+<l>Imagine us numbered off from the right: the Sergeant faces the squad,</l>
+<l>And says that the odd files do not move -- I never seem to be odd!</l>
+<l>And then his instructions run like this (very simple in black and white) --</l>
+<l>"A pace to the rear with the left foot, and one to the right with the right."</l></lg>
+
+<lg>
+<l>Of course if you don't think deeply, you do it without a hitch;</l>
+<l>You have only to know your right and left, and remember which is which;</l>
+<l>But as soon as you try to be careful, you get in the deuce of a plight,</l>
+<l>With "a pace to the right with the left foot, and one to the rear with the right!"</l></lg>
+
+<lg>
+<l>Besides, when you're thoroughly muddled the Sergeant doubles your doubt</l>
+<l>By saying that rules reverse themselves, as soon as you're "turned about";</l>
+<l>So round you go on your right heel, and practice until you are deft</l>
+<l>At "a pace to the front with the right foot, and one to the left with the left."</l></lg>
+
+<lg>
+<l>In my dreams the Sergeant, the Kaiser, and Kipling mix my feet,</l>
+<l>Saying "East is left, and Right is Might, and never the twain shall meet!"</l>
+<l>In my nightmare squad <hi rend="italic">all</hi> files are odd, and their Fours are horribly queer,</l>
+<l>With "a pace to the left with the front foot, and one to the right with the rear!"</l></lg>
+<byline>-- F. S.</byline>
+</div2>
+
+
+<div2 id="cunliffe085" type="poem" n="Field Ambulance in Retreat">
+<head rend="center">FIELD AMBULANCE IN RETREAT</head>
+<head rend="center"><hi rend="italic">Via Dolorosa, Via Sacra</hi></head>
+
+<lg type="stanza">
+<head rend="center">I</head>
+<l n="1">A <hi rend="smallcaps">straight</hi> flagged road, laid on the rough earth,</l>
+<l>A causeway of stone from beautiful city to city,</l>
+<l>Between the tall trees, the slender, delicate trees,</l>
+<l>Through the flat green land, by plots of flowers, by black canals thick with heat.</l></lg>
+
+<lg>
+<head rend="center">II</head>
+<l>The road-makers made it well</l>
+<l>Of fine stone, strong for the feet of the oxen and of the great Flemish horses,</l>
+<l>And for the high wagons piled with corn from the harvest.</l>
+<l>And the laborers are few;</l>
+<l>They and their quiet oxen stand aside and wait</l>
+<l>By the long road loud with the passing of the guns, the rush of armored cars and the tramp of an army on the march forward to battle;</l>
+<l>And, where the piled corn-wagons went, our dripping Ambulance carries home</l>
+<l>Its red and white harvest from the fields.</l></lg>
+
+<lg>
+<pb n="239"/>
+<head rend="center">III</head>
+<l>The straight flagged road breaks into dust, into a thin white cloud,</l>
+<l>About the feet of a regiment driven back league by league,</l>
+<l>Rifles at trail, and standards wrapped in black funeral cloths. Unhasting, proud in retreat,</l>
+<l>They smile as the Red Cross Ambulance rushes by.</l>
+<l>(You know nothing of beauty and of desolation who have not seen</l>
+<l>That smile of an army in retreat.)</l>
+<l>They go: and our shining, beckoning danger goes with them,</l>
+<l>And our joy in the harvests that we gathered in at nightfall in the fields;</l>
+<l>And like an unloved hand laid on a beating heart</l>
+<l>Our safety weighs us down.</l>
+<l>Safety hard and strange; stranger and yet more hard</l>
+<l>As, league after dying league, the beautiful, desolate Land</l>
+<l>Falls back from the intolerable speed of an Ambulance in retreat</l>
+<l>On the sacred, dolorous Way.</l></lg>
+<byline>-- May Sinclair.</byline>
+</div2>
+
+
+<pb n="240"/>
+<div2 id="cunliffe086" type="poem" n="Close Your Ranks">
+<head rend="center">CLOSE YOUR RANKS</head>
+
+<lg type="stanza">
+<l n="1">Y<hi rend="smallcaps">es</hi>! Draw them close and closer still,</l>
+<l rend="indent">The silken threads, that bind in one</l>
+<l>The prince, the peasant, rich and poor,</l>
+<l rend="indent">Hark! Hark! The Armageddon is begun.</l>
+<l>O Britons all, let Duty be</l>
+<l>The watchword and the panoply.</l></lg>
+
+<lg>
+<l>The last to draw the sword, but not</l>
+<l rend="indent">The first to sheathe it; slow we rise</l>
+<l>To arms. 'Tis Duty's stern behest,</l>
+<l rend="indent">A peal of thunder from the skies,</l>
+<l>Which bids us to defend the Right</l>
+<l>Against the tyranny of Might.</l></lg>
+
+<lg>
+<l>Did we forget in the days gone by,</l>
+<l rend="indent">"Not each for each but all for all,"</l>
+<l>The sacred bond of Brotherhood,</l>
+<l rend="indent">By which great empires rise or fall?</l>
+<l>Nay! But that evil dream is past,</l>
+<l>That strange aloofness healed at last.</l></lg>
+
+<lg>
+<l>Dear Isle, dear tiny speck in space,</l>
+<l rend="indent">Responsive to thy drums of war,</l>
+<pb n="241"/>
+<l>And thrilled by loyalty of love,</l>
+<l rend="indent">They come, thy sons from shores afar;</l>
+<l>Thy Flag, fair floating on the breeze</l>
+<l>Beckons them o'er the trackless seas.</l></lg>
+
+<lg>
+<l>So far and near, so one and all,</l>
+<l rend="indent">Though each one differs from the others,</l>
+<l>We stand together as of old,</l>
+<l rend="indent">For round the Flag we all are brothers.</l>
+<l>And so we close our ranks to be</l>
+<l>The phalanx, which is victory.</l></lg>
+<byline>-- Isaac Gregory Smith.</byline>
+</div2>
+
+
+<pb n="242"/>
+<div2 id="cunliffe087" type="poem" n="Heart of All the World">
+<head rend="center">HEART OF ALL THE WORLD</head>
+<head rend="center">(Belgium)</head>
+
+<lg type="stanza">
+<l n="1">H<hi rend="smallcaps">eartstruck</hi> she stands -- Our Lady of all Sorrows --</l>
+<l rend="indent">Circled with ruin, sunk in deep amaze;</l>
+<l>Facing the shadow of her dark to-morrows,</l>
+<l rend="indent">Mourning the glory of her yesterdays.</l></lg>
+
+<lg>
+<l>Yet is she queen by every royal token,</l>
+<l rend="indent">There, where the storm of desolation swirled:</l>
+<l>Crowned only with the thorn -- despoiled and broken --</l>
+<l rend="indent">Her kingdom is the heart of all the world.</l></lg>
+
+<lg>
+<l>She made her breast a shield, her sword a splendor,</l>
+<l rend="indent">She rose like flame upon the darkened ways;</l>
+<l>So, through the anguish of her proud surrender</l>
+<l rend="indent">Breaks the clear vision of undying praise.</l></lg>
+<byline>-- Marion C. Smith.</byline>
+</div2>
+
+
+<pb n="243"/>
+<xptr doc="Clarke.xml" from="clarke099"/>
+<pb n="244"/>
+<note>(Captain, Seventh (Service) Battalion of the Suffolk Regiment, killed in action in France on Oct. 13, 1915.)</note>
+
+
+<pb n="245"/>
+<div2 id="cunliffe088" type="poem" n="Kitchener of Khartoum">
+<head rend="center">KITCHENER OF KHARTOUM</head>
+
+<lg type="stanza">
+<l n="1">W<hi rend="smallcaps">eep</hi>, waves of England! Nobler clay</l>
+<l rend="indent">Was ne'er to nobler grave consigned;</l>
+<l>The wild waves weep with us to-day</l>
+<l rend="indent">Who mourn a nation's master mind.</l></lg>
+
+<lg>
+<l>We hoped an honored age for him,</l>
+<l rend="indent">And ashes laid with England's great;</l>
+<l>And rapturous music, and the dim</l>
+<l rend="indent">Deep hush that veils our Tomb of State.</l></lg>
+
+<lg>
+<l>But this is better. Let him sleep</l>
+<l rend="indent">Where sleep the men who made us free,</l>
+<l>For England's heart is in the deep,</l>
+<l rend="indent">And England's glory is the sea.</l></lg>
+
+<lg>
+<l>One only vow above his bier,</l>
+<l rend="indent">One only oath beside his bed:</l>
+<l>We swear our flag shall shield him here</l>
+<l rend="indent">Until the sea gives up its dead!</l></lg>
+
+<lg>
+<l>Leap, waves of England! Boastful be,</l>
+<l rend="indent">And fling defiance in the blast,</l>
+<l>For Earth is envious of the Sea</l>
+<l rend="indent">Which shelters England's dead at last.</l></lg>
+<byline>-- Robert J. C. Stead.</byline>
+</div2>
+
+
+<pb n="246"/>
+<div2 id="cunliffe089" type="poem" n="The Spring in Ireland: 1916">
+<head rend="center">THE SPRING IN IRELAND: 1916</head>
+
+<lg type="stanza">
+<head rend="center">I</head>
+<l n="1">D<hi rend="smallcaps">o</hi> not forget my charge I beg of you;</l>
+<l>That of what flow'rs you find of fairest hue</l>
+<l>And sweetest odor you do gather those</l>
+<l>Are best of all the best -- a fragrant rose,</l>
+<l>A tall calm lily from the waterside,</l>
+<l>A half-blown poppy leaning at the side</l>
+<l>Its graceful head to dream among the corn,</l>
+<l>Forget-me-nots that seem as though the morn</l>
+<l>Had tumbled down and grew into the clay,</l>
+<l>And hawthorn buds that swing along the way</l>
+<l>Easing the hearts of those who pass them by</l>
+<l>Until they find contentment. -- Do not cry,</l>
+<l>But gather buds, and with them greenery</l>
+<l>Of slender branches taken from a tree</l>
+<l>Well bannered by the spring that saw them fall:</l>
+<l>Then you, for you are cleverest of all</l>
+<l>Who have slim fingers and are pitiful,</l>
+<l>Brimming your lap with bloom that you may cull,</l>
+<l>Will sit apart, and weave for every head</l>
+<l>A garland of the fiow'rs you gather&eacute;d.</l></lg>
+
+<lg>
+<head rend="center">II</head>
+<l>Be green upon their graves, O happy Spring,</l>
+<l>For they were young and eager who are dead;</l>
+<l>Of all things that are young and quivering</l>
+<l>With eager life be they remember&eacute;d:</l>
+<l>They move not here, they have gone to the clay,</l>
+<l>They cannot die again for liberty;</l>
+<l>Be they remembered of their land for aye;</l>
+<l>Green be their graves and green their memory.</l></lg>
+
+<lg>
+<l>Fragrance and beauty come in with the green,</l>
+<l>The ragged bushes put on sweet attire,</l>
+<l>The birds forget how chill these airs have been,</l>
+<l>The clouds bloom out again and move in fire;</l>
+<l>Blue is the dawn of day, calm is the lake,</l>
+<l>And merry sounds are fitful in the morn;</l>
+<l>In covert deep the young blackbirds awake,</l>
+<l>They shake their wings and sing upon the morn.</l></lg>
+
+<lg>
+<l>At springtime of the year you came and swung</l>
+<l>Green flags above the newly-greening earth;</l>
+<l>Scarce were the leaves unfolded, they were young,</l>
+<l>Nor had outgrown the wrinkles of their birth:</l>
+<l>Comrades they thought you of their pleasant hour,</l>
+<l>They had but glimpsed the sun when they saw you;</l>
+<l>They heard your songs e'er birds had singing power,</l>
+<l>And drank your blood e'er that they drank the dew.</l></lg>
+
+<lg>
+<l>Then you went down, and then, and as in pain,</l>
+<l>The Spring affrighted fled her leafy ways,</l>
+<l>The clouds came to the earth in gusty rain,</l>
+<l>And no sun shone again for many days:</l>
+<l>And day by day they told that one was dead,</l>
+<l>And day by day the season mourned for you,</l>
+<l>Until that count of woe was finish&eacute;d,</l>
+<l>And Spring remembered all was yet to do.</l></lg>
+
+<lg>
+<l>She came with mirth of wind and eager leaf,</l>
+<l>With scampering feet and reaching out of wings,</l>
+<l>She laughed among the boughs and banished grief,</l>
+<l>And cared again for all her baby things;</l>
+<l>Leading along the joy that has to be,</l>
+<l>Bidding her timid buds think on the May,</l>
+<l>And told that Summer comes with victory,</l>
+<l>And told the hope that is all creatures' stay.</l></lg>
+
+<lg>
+<l>Go, Winter, now unto your own abode,</l>
+<l>Your time is done, and Spring is conqueror</l>
+<l>Lift up with all your gear and take your road,</l>
+<l>For she is here and brings the sun with her:</l>
+<l>Now are we resurrected, now are we,</l>
+<l>Who lay so long beneath an icy hand,</l>
+<l>New-risen into life and liberty,</l>
+<l>Because the Spring is come into our land.</l></lg>
+
+<lg>
+<head rend="center">III</head>
+<l>In other lands they may,</l>
+<l>With public joy or dole along the way,</l>
+<l>With pomp and pageantry and loud lament</l>
+<l>Of drums and trumpets, and with merriment</l>
+<l>Of grateful hearts, lead into rest and sted</l>
+<l>The nation's dead.</l></lg>
+
+<lg>
+<l>If we had drums and trumpets, if we had</l>
+<l>Aught of heroic pitch or accent glad</l>
+<l>To honor you as bids tradition old,</l>
+<l>With banners flung or draped in mournful fold,</l>
+<l>And pacing cortege; these would we not bring</l>
+<l>For your last journeying.</l></lg>
+
+<lg>
+<l>We have no drums or trumpets; naught have we</l>
+<l>But some green branches taken from a tree,</l>
+<l>And flowers that grow at large in mead and vale;</l>
+<l>Nothing of choice have we, or of avail</l>
+<l>To do you honor as our honor deems,</l>
+<l>And as your worth beseems.</l></lg>
+
+<lg>
+<l>Sleep, drums and trumpets, yet a little time;</l>
+<l>All ends and all begins, and there is chime</l>
+<l>At last where discord was, and joy at last</l>
+<l>Where woe wept out her eyes: be not downcast,</l>
+<l>Here is prosperity and goodly cheer,</l>
+<l>For life does follow death, and death is here.</l></lg>
+<byline>-- James Stephens.</byline>
+</div2>
+
+
+<pb n="250"/>
+<xptr doc="Clarke.xml" from="clarke043"/>
+
+
+<pb n="251"/>
+<div2 id="cunliffe090" type="poem" n="Sailor, What of the Debt We Owe You?">
+<head rend="center">SAILOR, WHAT OF THE DEBT WE OWE YOU?</head>
+
+<lg type="stanza">
+<l n="1">S<hi rend="smallcaps">ailor</hi>, what of the debt we owe you?</l>
+<l rend="indent">Day or night is the peril more?</l>
+<l>Who so dull that he fails to know you,</l>
+<l rend="indent">Sleepless guard of our island shore?</l></lg>
+
+<lg>
+<l>Safe the corn to the farmyard taken;</l>
+<l rend="indent">Grain ships safe upon all the seas;</l>
+<l>Homes in peace and a faith unshaken --</l>
+<l rend="indent">Sailor, what do we owe for these?</l></lg>
+
+<lg>
+<l>Safe the clerk at his desk; the trader</l>
+<l rend="indent">Counts unruined his honest gain;</l>
+<l>Safe though yonder the curs't invader</l>
+<l rend="indent">Pours red death over hill and plain.</l></lg>
+
+<lg>
+<l>Sailor, what of the debt we owe you?</l>
+<l rend="indent">Now is the hour at last to pay,</l>
+<l>Now in the stricken field to show you</l>
+<l rend="indent">What is the spirit you guard to-day.</l></lg>
+<byline>-- Andrew John Stuart.</byline>
+<note>(Eldest son of the Earl of Castlestewart, Lieut. 6th Royal Scots Fusiliers, killed in action in France between Sept. 25 and 27, 1915.)</note>
+</div2>
+
+
+090 p. 251

@@ -36,7 +36,7 @@ class figDesc {
     $for = 'for $a in input()/TEI.2/:text/body//figure ';
     $let = 'let $b := input()/TEI.2/:text/back/:div//interpGrp';
     $where = 'where $a/@entity = "' . $this->entity . '"';
-    $return = 'return <figure>{$a/@ana}{$a/head}{$a/figDesc}{$b}</figure>';
+    $return = 'return <figure>{$a/@ana}{$a/head}{$a/figDesc}{$a/p} {$b}</figure>';
     //    $replace["modify-figDesc"] = 'do replace $a/figDesc with <figDesc>' . utf8_decode($this->description) . '</figDesc>';
     $replace["modify-figDesc"] = 'do replace $a/figDesc with <figDesc>' . $this->description . '</figDesc>';
     $replace["modify-ana"] = 'do replace $a/@ana with attribute ana {"' . $this->ana . '"}';
@@ -73,12 +73,14 @@ class figDesc {
       if ($val) { $this->description = $val; }
       $this->ana = $this->tamino->xml->getTagAttribute("ana", "ino:response/xq:result/figure");
       $this->interp = explode(" ", $this->ana);		// interp group keywords, separated by spaces
+
     }
   }
 
   function printDesc () {
     print "<table class='figDesc'><tr><td>";
     if ($this->imgpath) {
+      // FIXME: how to link back to view page for postcard?
       print "<img src='" . $this->imgpath . $this->entity . ".jpg'>";
     }
     print "</td><td>";
@@ -102,28 +104,29 @@ class figDesc {
     print "<textarea cols='75' rows='8' name='desc'>" . utf8_encode($this->description) . "</textarea>\n";
     print "</td></tr></table>";
 
-    $interpGrps = $this->tamino->xml->getBranches("ino:response/xq:result/figure", "interpGrp");
-    print "<table class='figDesc'>\n";
-    print "<tr><th colspan='" . count($interpGrps) . "'>Categories</th></tr>\n<tr>";
-    // display categories, with the appropriate ones selected
-    foreach ($interpGrps as $ig) {
-      $cat = $ig->getTagAttribute("type");
-      print "<td><h4>$cat</h4>\n";
-      $cat = str_replace("\w", "-", $cat);	// replace whitespace with - for form input name
-      $interp = $ig->getBranches();
-      if ($interp) {
-        foreach ($interp as $i) {
-          $id = $i->getTagAttribute("id");
-	  $value = $i->getTagAttribute("value");
-	  if (preg_match("/$id/", $this->ana)) { $status = "checked"; }
-	  else { $status = ""; }
-  	  print "<input type='checkbox' name='$cat" . '[]' . "' value='$id'$status> $value<br>\n";
+    if (isset($this->tamino->xml)) {
+      $interpGrps = $this->tamino->xml->getBranches("ino:response/xq:result/figure", "interpGrp");
+      print "<table class='figDesc'>\n";
+      print "<tr><th colspan='" . count($interpGrps) . "'>Categories</th></tr>\n<tr>";
+      // display categories, with the appropriate ones selected
+      foreach ($interpGrps as $ig) {
+        $cat = $ig->getTagAttribute("type");
+        print "<td><h4>$cat</h4>\n";
+        $cat = str_replace("\w", "-", $cat);	// replace whitespace with - for form input name
+        $interp = $ig->getBranches();
+        if ($interp) {
+          foreach ($interp as $i) {
+            $id = $i->getTagAttribute("id");
+	    $value = $i->getTagAttribute("value");
+  	    if (preg_match("/$id/", $this->ana)) { $status = "checked"; }
+  	    else { $status = ""; }
+    	    print "<input type='checkbox' name='$cat" . '[]' . "' value='$id'$status> $value<br>\n";
+          }
         }
+        print "</td>\n";
       }
-      print "</td>\n";
     }
     print "</tr></table>\n";
-    
     print "<input type='reset'>";
     print "<input type='submit' value='Submit'>";
     print "</form>\n";

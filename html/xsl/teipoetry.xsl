@@ -68,6 +68,9 @@
   </xsl:element> <!-- p -->
 </xsl:template>
 
+<xsl:template match="lb">
+<br/>
+</xsl:template>
 
 <!-- line group -->
 <xsl:template match="lg">

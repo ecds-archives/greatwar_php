@@ -90,6 +90,11 @@
 <text>
 <body>
 <div1 id="asquith01" type="anthology" n ="The Volunteer And Other Poems">
+   <docAuthor n="Asquith, Herbert">Herbert Asquith</docAuthor>
+   <head>The Volunteer And Other Poems</head>
+   <docDate>1917</docDate>
+   <bibl>London: Sidgwick &#x0026; Jackson.</bibl>
+
 <div2 id="asquith02" type="poem" n="The Volunteer">
 <head rend="center">THE VOLUNTEER</head>
 

@@ -22,6 +22,7 @@
    </xsl:when> 
    <xsl:otherwise>
       <xsl:element name="script">
+        <xsl:attribute name="type">text/javascript</xsl:attribute>
         <xsl:attribute name="language">Javascript</xsl:attribute>
         <xsl:attribute name="src">toggle-list.js</xsl:attribute>
       </xsl:element> <!-- script -->
@@ -46,6 +47,7 @@
        <xsl:attribute
 name="onclick">javascript:toggle_ul('<xsl:value-of
 select="@type"/>')</xsl:attribute>
+       <xsl:attribute name="alt">.</xsl:attribute>
        <xsl:attribute name="href">javascript:toggle_ul('<xsl:value-of select="@type"/>')</xsl:attribute>
        <xsl:attribute name="src">images/closed.gif</xsl:attribute>
        <xsl:attribute name="id"><xsl:value-of select="concat(@type,'-gif')"/></xsl:attribute>
@@ -69,6 +71,7 @@ select="@id"/><xsl:if test="$desc">&amp;desc=<xsl:value-of select="$desc"/></xsl
 <!-- only pass along display-description setting and max display if defined -->
      <xsl:value-of select="@value"/>
    </xsl:element>
+    <font class="count">(<xsl:value-of select="@n"/>)</font>
   </li>
 </xsl:template>
 

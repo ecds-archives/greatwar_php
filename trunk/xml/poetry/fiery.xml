@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="ISO-8859-1" ?><TEI.2 TEIform="TEI.2">
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2 TEIform="TEI.2">
    <teiHeader TEIform="teiHeader" status="new" type="text">
       <fileDesc TEIform="fileDesc">
          <titleStmt TEIform="titleStmt" n="THE FIERY CROSS">
@@ -9,7 +10,7 @@
                <name TEIform="name">Beck Center</name>
             </respStmt>
          </titleStmt>
-         <extent TEIform="extent"></extent>
+         <extent TEIform="extent"/>
          <publicationStmt TEIform="publicationStmt">
             <publisher TEIform="publisher">Lewis H. Beck Center</publisher>
             <pubPlace TEIform="pubPlace">Emory University</pubPlace>
@@ -25,7 +26,7 @@
             <title TEIform="title">Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc TEIform="sourceDesc" default="NO">
-            <bibl TEIform="bibl" default="NO"> Edwards, Mabel C. and Mary Booth, eds.  &quot;THE FIERY CROSS: An Anthology of War Poems.&quot; [London: Grant Richards Ltd., 1915.]  96 pages. Sold for the benefit of the funds of the Red Cross.</bibl>
+            <bibl TEIform="bibl" default="NO"> Edwards, Mabel C. and Mary Booth, eds.  "THE FIERY CROSS: An Anthology of War Poems." [London: Grant Richards Ltd., 1915.]  96 pages. Sold for the benefit of the funds of the Red Cross.</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc TEIform="encodingDesc">
@@ -58,16 +59,16 @@
          <div1 TEIform="div1" id="fiery01" n="THE FIERY CROSS: An Anthology of War Poems" org="uniform" part="N" sample="complete" type="Anthology">
             <head TEIform="head" rend="center">THE FIERY CROSS</head>
             <head TEIform="head" rend="center">An Anthology of War Poems</head>
-            <div2 TEIform="div2" id="fiery02" n="From Germany" org="uniform" part="N" sample="complete" type="poem">
-               <pb TEIform="pb" n="[ 24 ]"></pb>
+            <div2 TEIform="div2" id="fiery02" n="From Germany" org="uniform" part="N" sample="complete" type="poem"><docAuthor n="Booth, Mary">Mary Booth</docAuthor>
+               <pb TEIform="pb" n="[ 24 ]"/>
                <head TEIform="head" rend="center">
                   <hi TEIform="hi" rend="bold">From Germany</hi>
                </head>
-               <head TEIform="head" rend="center">&quot;LUSITANIA,&quot; 7TH MAY 1915.</head>
+               <head TEIform="head" rend="center">"LUSITANIA," 7TH MAY 1915.</head>
                <lg TEIform="lg" org="uniform" part="N" sample="complete" type="stanza">
                   <l TEIform="l" part="N">REJOICE! Rejoice! the deed is done!</l>
                   <l TEIform="l" part="N">The Innocents are dead.</l>
-                  <l TEIform="l" part="N">Hell&apos;s deepest teachings are outdone!</l>
+                  <l TEIform="l" part="N">Hell's deepest teachings are outdone!</l>
                   <l TEIform="l" part="N">Justice and Mercy fled.</l>
                </lg>
                <lg TEIform="lg" org="uniform" part="N" sample="complete" type="stanza">
@@ -80,15 +81,15 @@
                   <l TEIform="l" part="N">Rejoice!--but what this bitter brand--</l>
                   <l TEIform="l" part="N">Pale spectre of the slain--</l>
                   <l TEIform="l" part="N">You press upon my shrinking brow?</l>
-                  <l TEIform="l" part="N">&quot;It is the mark of Cain.&quot;</l>
+                  <l TEIform="l" part="N">"It is the mark of Cain."</l>
                </lg>
-               <lb TEIform="lb"></lb>
+               <lb TEIform="lb"/>
                <byline TEIform="byline"> 
                   <hi TEIform="hi" rend="italic">Mary Booth.</hi>
                </byline>
             </div2>
-            <div2 TEIform="div2" id="fiery03" n="St. George for England" org="uniform" part="N" sample="complete" type="poem">
-               <pb TEIform="pb" n="[ 36 ]"></pb>
+            <div2 TEIform="div2" id="fiery03" n="St. George for England" org="uniform" part="N" sample="complete" type="poem"><docAuthor n="Booth, Mary">Mary Booth</docAuthor>
+               <pb TEIform="pb" n="[ 36 ]"/>
                <head TEIform="head" rend="center">
                   <hi TEIform="hi" rend="bold">St George for England</hi>
                </head>
@@ -101,40 +102,40 @@
                <lg TEIform="lg" org="uniform" part="N" sample="complete" type="stanza">
                   <l TEIform="l" part="N">The fiery cross has called them</l>
                   <l TEIform="l" part="N">From the lonely Highland glen,</l>
-                  <l TEIform="l" part="N">And Cambria&apos;s lovely vales resound</l>
+                  <l TEIform="l" part="N">And Cambria's lovely vales resound</l>
                   <l TEIform="l" part="N">To the tramp of marching men.</l>
                </lg>
                <lg TEIform="lg" org="uniform" part="N" sample="complete" type="stanza">
-                  <l TEIform="l" part="N">From Erin&apos;s shimmering island</l>
-                  <l TEIform="l" part="N">They cry is still &quot;They come!&quot;</l>
-                  <l TEIform="l" part="N">And Tara&apos;s sacred halls resound</l>
+                  <l TEIform="l" part="N">From Erin's shimmering island</l>
+                  <l TEIform="l" part="N">They cry is still "They come!"</l>
+                  <l TEIform="l" part="N">And Tara's sacred halls resound</l>
                   <l TEIform="l" part="N">To the music of the drum.</l>
                </lg>
                <lg TEIform="lg" org="uniform" part="N" sample="complete" type="stanza">
                   <l TEIform="l" part="N">They have left the dead unburied,</l>
                   <l TEIform="l" part="N">And the marriage feast delayed</l>
-                  <l TEIform="l" part="N">Till Belgium&apos;s wrongs are all avenged,</l>
-                  <l TEIform="l" part="N">And the Huns&apos; mad march is stayed.</l>
+                  <l TEIform="l" part="N">Till Belgium's wrongs are all avenged,</l>
+                  <l TEIform="l" part="N">And the Huns' mad march is stayed.</l>
                </lg>
                <lg TEIform="lg" org="uniform" part="N" sample="complete" type="stanza">
                   <l TEIform="l" part="N">They come from sunny Devon,</l>
-                  <l TEIform="l" part="N">From Derby&apos;s vales and rocks;</l>
+                  <l TEIform="l" part="N">From Derby's vales and rocks;</l>
                   <l TEIform="l" part="N">Left are the pen, the loom, the plough,</l>
                   <l TEIform="l" part="N">Deserted are the flocks.</l>
                </lg>
                <lg TEIform="lg" org="uniform" part="N" sample="complete" type="stanza">
                   <l TEIform="l" part="N">And St George is fighting for them,</l>
-                  <l TEIform="l" part="N">While Heaven&apos;s vast Hosts, as one</l>
+                  <l TEIform="l" part="N">While Heaven's vast Hosts, as one</l>
                   <l TEIform="l" part="N">Shall watch by them, and fight for them,</l>
                   <l TEIform="l" part="N">Till victory is won.</l>
                </lg>
-               <lb TEIform="lb"></lb>
+               <lb TEIform="lb"/>
                <byline TEIform="byline">
                   <hi TEIform="hi" rend="italic">Mary Booth.</hi>
                </byline>
             </div2>
-            <div2 TEIform="div2" id="fiery04" n="The Coming of the Colonies" org="uniform" part="N" sample="complete" type="poem">
-               <pb TEIform="pb" n="[ 37 ]"></pb>
+            <div2 TEIform="div2" id="fiery04" n="The Coming of the Colonies" org="uniform" part="N" sample="complete" type="poem"><docAuthor n="Gurney, Dorothy Frances">Dorothy Frances Gurney</docAuthor>
+               <pb TEIform="pb" n="[ 37 ]"/>
                <head TEIform="head" rend="center">
                   <hi TEIform="hi" rend="bold">The Coming of the Colonies</hi>
                </head>
@@ -145,8 +146,8 @@
                   <l TEIform="l" part="N">And children of my womb, the happy young.</l>
                   <l TEIform="l" part="N">I took the challenge, by the oppressors flung,</l>
                   <l TEIform="l" part="N">I and my peers,--and far my beacon flares,</l>
-                  <l TEIform="l" part="N">&quot;Up, up, ye lion cubs, from out your lairs!&quot;</l>
-                  <l TEIform="l" part="N">Wide o&apos;er the world my cry of need has rung.</l>
+                  <l TEIform="l" part="N">"Up, up, ye lion cubs, from out your lairs!"</l>
+                  <l TEIform="l" part="N">Wide o'er the world my cry of need has rung.</l>
                </lg>
                <lg TEIform="lg" org="uniform" part="N" sample="complete" type="stanza">
                   <l TEIform="l" part="N">They came, my splendid daughters--to the fray--</l>
@@ -156,17 +157,17 @@
                   <l TEIform="l" part="N">And, though my every son of Britain fall,</l>
                   <l TEIform="l" part="N">With these no man shall hold me as a thrall.</l>
                </lg>
-               <lb TEIform="lb"></lb>
+               <lb TEIform="lb"/>
                <byline TEIform="byline">
                   <hi TEIform="hi" rend="italic">Dorothy Frances Gurney.</hi>
                </byline>
-               <lb TEIform="lb"></lb>
+               <lb TEIform="lb"/>
                <trailer TEIform="trailer">
                   <hi TEIform="hi" rend="italic">A Little Book of Quiet.</hi>
                </trailer>
             </div2>
-            <div2 TEIform="div2" id="fiery05" n="The Admonition" org="uniform" part="N" sample="complete" type="poem">
-               <pb TEIform="pb" n="[ 39 ]"></pb>
+            <div2 TEIform="div2" id="fiery05" n="The Admonition" org="uniform" part="N" sample="complete" type="poem"><docAuthor n="Eden, Helen Parry">Helen Parry Eden</docAuthor>
+               <pb TEIform="pb" n="[ 39 ]"/>
                <head TEIform="head" rend="center">
                   <hi TEIform="hi" rend="bold">The Admonition</hi>
                </head>
@@ -181,7 +182,7 @@
                   <l TEIform="l" part="N">A deep blue window where below</l>
                   <l TEIform="l" part="N">Lies moonlight on the roofs like snow,</l>
                   <l TEIform="l" part="N">A clock that still his quarters tells</l>
-                  <l TEIform="l" part="N">To the dove that roosts beneath the bell&apos;s</l>
+                  <l TEIform="l" part="N">To the dove that roosts beneath the bell's</l>
                   <l TEIform="l" part="N">Grave canopy of silent brass,</l>
                   <l TEIform="l" part="N">Round which the little night-winds pass</l>
                   <l TEIform="l" part="N">Yet stir it not in the grey steeple;</l>
@@ -195,21 +196,21 @@
                   <l TEIform="l" part="N">Remember, on your knees,</l>
                   <l TEIform="l" part="N">The men who guard your slumbers.</l>
                </lg>
-               <lb TEIform="lb"></lb>
+               <lb TEIform="lb"/>
                <byline TEIform="byline">
                   <hi TEIform="hi" rend="italic">Helen Parry Eden.</hi> 
                </byline>
-               <lb TEIform="lb"></lb>
+               <lb TEIform="lb"/>
                <trailer TEIform="trailer">
                   <hi TEIform="hi" rend="italic">Westminster Gazette.</hi>
                </trailer>
             </div2>
-            <div2 TEIform="div2" id="fiery06" n="The Tirailleur" org="uniform" part="N" sample="complete" type="poem">
-               <pb TEIform="pb" n="[ 40 ]"></pb>
+            <div2 TEIform="div2" id="fiery06" n="The Tirailleur" org="uniform" part="N" sample="complete" type="poem"><docAuthor n="Sutherland, Millicent">Millicent Sutherland</docAuthor>
+               <pb TEIform="pb" n="[ 40 ]"/>
                <head TEIform="head" rend="center">
                   <hi TEIform="hi" rend="bold">The Tirailleur</hi>
                </head>
-               <head TEIform="head" rend="center">TO THE MEMORY OF RENÉ.</head>
+               <head TEIform="head" rend="center">TO THE MEMORY OF REN&#x00C9;.</head>
                <lg TEIform="lg" org="uniform" part="N" sample="complete" type="stanza">
                   <l TEIform="l" part="N">HE was so young to die--</l>
                   <l TEIform="l" part="N">Ah; these are catchwords now</l>
@@ -229,7 +230,7 @@
                   <l TEIform="l" part="N">His limbs no resting knew.</l>
                </lg>
                <lg TEIform="lg" org="uniform" part="N" sample="complete" type="stanza">
-                  <l TEIform="l" part="N">&quot;Je pars tout seul,&quot; he said.</l>
+                  <l TEIform="l" part="N">"Je pars tout seul," he said.</l>
                   <l TEIform="l" part="N">Yet radiance on his face</l>
                   <l TEIform="l" part="N">Bespoke him radiant dreams</l>
                   <l TEIform="l" part="N">Veiled in eternal grace.</l>
@@ -243,29 +244,29 @@
                <lg TEIform="lg" org="uniform" part="N" sample="complete" type="stanza">
                   <l TEIform="l" part="N">To his dear fluttering soul--</l>
                   <l TEIform="l" part="N">Of brothers at his side,</l>
-                  <l TEIform="l" part="N">And comrades crying &quot;Haste,</l>
-                  <l TEIform="l" part="N">The boat is on the tide &quot;--</l>
+                  <l TEIform="l" part="N">And comrades crying "Haste,</l>
+                  <l TEIform="l" part="N">The boat is on the tide "--</l>
                </lg>
-               <pb TEIform="pb" n="[ 41 ]"></pb>
+               <pb TEIform="pb" n="[ 41 ]"/>
                <lg TEIform="lg" org="uniform" part="N" sample="complete" type="stanza">
                   <l TEIform="l" part="N">Till with the setting sun</l>
                   <l TEIform="l" part="N">Outward his spirit leapt--</l>
                   <l TEIform="l" part="N">In calm the moon arose,</l>
                   <l TEIform="l" part="N">Only the Sister wept.</l>
                </lg>
-               <lb TEIform="lb"></lb>
+               <lb TEIform="lb"/>
                <byline TEIform="byline">
-                  <hi TEIform="hi" rend="italic">Millicent Sutherland.</hi>&gt;</byline>
+                  <hi TEIform="hi" rend="italic">Millicent Sutherland.</hi></byline>
             </div2>
-            <div2 TEIform="div2" id="fiery13" n="Gifts" org="uniform" part="N" sample="complete" type="poem">
-               <pb TEIform="pb" n="[ 45 ]"></pb>
+            <div2 TEIform="div2" id="fiery13" n="Gifts" org="uniform" part="N" sample="complete" type="poem"><docAuthor n="Booth, Mary">Mary Booth</docAuthor>
+               <pb TEIform="pb" n="[ 45 ]"/>
                <head TEIform="head" rend="center">
                   <hi TEIform="hi" rend="bold">Gifts</hi>
                </head>
                <head TEIform="head" rend="center">To QUEEN ELISABETH OF THE BELGIANS.</head>
                <lg TEIform="lg" org="uniform" part="N" sample="complete" type="stanza">
                   <l TEIform="l" part="N" rend="italic">From the Mother of John the Baptist.</l>
-                  <l TEIform="l" part="N">&quot;WHEN all my fruitful years were done,</l>
+                  <l TEIform="l" part="N">"WHEN all my fruitful years were done,</l>
                   <l TEIform="l" part="N">God breathed on me His gracious breath;</l>
                   <l TEIform="l" part="N">And I conceived and bore a son;</l>
                   <l TEIform="l" part="N">I, even I, Elisabeth.GG</l>
@@ -274,36 +275,36 @@
                   <l TEIform="l" part="N">Courage I give you, and the calm</l>
                   <l TEIform="l" part="N">With which I faced my childless years;</l>
                   <l TEIform="l" part="N">I give you too a healing grace,</l>
-                  <l TEIform="l" part="N">The balm of hero-mourning tears.&quot;</l>
+                  <l TEIform="l" part="N">The balm of hero-mourning tears."</l>
                </lg>
                <lg TEIform="lg" org="uniform" part="N" sample="complete" type="stanza">
                   <l TEIform="l" part="N" rend="italic">From St Elisabeth.</l>
-                  <l TEIform="l" part="N">&quot;I, who was mated to a brute;</l>
+                  <l TEIform="l" part="N">"I, who was mated to a brute;</l>
                   <l TEIform="l" part="N">I give you charity and grace;</l>
                   <l TEIform="l" part="N">A healing power from you shall flow</l>
-                  <l TEIform="l" part="N">To all who look upon your face.&quot;</l>
+                  <l TEIform="l" part="N">To all who look upon your face."</l>
                </lg>
                <lg TEIform="lg" org="uniform" part="N" sample="complete" type="stanza">
                   <l TEIform="l" part="N" rend="italic">From Elizabeth of England.</l>
-                  <l TEIform="l" part="N">&quot;The mighty Virgin-queen was I;</l>
+                  <l TEIform="l" part="N">"The mighty Virgin-queen was I;</l>
                   <l TEIform="l" part="N">Who reigned supreme on land and sea;</l>
                   <l TEIform="l" part="N">I give you of the mettle high</l>
-                  <l TEIform="l" part="N">That made my people great and free.&quot;</l>
+                  <l TEIform="l" part="N">That made my people great and free."</l>
                </lg>
                <lg TEIform="lg" org="uniform" part="N" sample="complete" type="stanza">
                   <l TEIform="l" part="N" rend="italic">From Elizabeth Barrett Browning.</l>
-                  <l TEIform="l" part="N">&quot;And I, whose fire-tipped tongue did tell</l>
+                  <l TEIform="l" part="N">"And I, whose fire-tipped tongue did tell</l>
                   <l TEIform="l" part="N">My message to a waiting world,</l>
-                  <l TEIform="l" part="N">I give you power to walk thro&apos; Hell,</l>
-                  <l TEIform="l" part="N">And find your garment-hem unsoiled.&quot;</l>
+                  <l TEIform="l" part="N">I give you power to walk thro' Hell,</l>
+                  <l TEIform="l" part="N">And find your garment-hem unsoiled."</l>
                </lg>
-               <lb TEIform="lb"></lb>
+               <lb TEIform="lb"/>
                <byline TEIform="byline">
                   <hi TEIform="hi" rend="italic">Mary Booth.</hi>
                </byline>
             </div2>
-            <div2 TEIform="div2" id="fiery07" n="Territorials" org="uniform" part="N" sample="complete" type="poem">
-               <pb TEIform="pb" n="[ 53 ]"></pb>
+            <div2 TEIform="div2" id="fiery07" n="Territorials" org="uniform" part="N" sample="complete" type="poem"><docAuthor n="Falconer, Agnes S.">Agnes S. Falconer</docAuthor>
+               <pb TEIform="pb" n="[ 53 ]"/>
                <head TEIform="head" rend="center">
                   <hi TEIform="hi" rend="bold">Territorials</hi>
                </head>
@@ -322,23 +323,23 @@
                   <l TEIform="l" part="N" rend="italic">And they heed not the bugle and drum!</l>
                </lg>
                <lg TEIform="lg" org="uniform" part="N" sample="complete" type="stanza">
-                  <l TEIform="l" part="N">They&apos;ll come, though not all! They will come from the war</l>
+                  <l TEIform="l" part="N">They'll come, though not all! They will come from the war</l>
                   <l TEIform="l" part="N" rend="italic">This year or next year, or early or late</l>
                   <l TEIform="l" part="N">And come well or wounded, come many or few,</l>
                   <l TEIform="l" part="N">They will bring back their honour, their faith high and true,</l>
                   <l TEIform="l" part="N" rend="italic">Or will bear it to Paradise Gale.</l>
                </lg>
-               <lb TEIform="lb"></lb>
+               <lb TEIform="lb"/>
                <byline TEIform="byline">
                   <hi TEIform="hi" rend="italic">Agnes S. Falconer.</hi>
                </byline>
-               <lb TEIform="lb"></lb>
+               <lb TEIform="lb"/>
                <trailer TEIform="trailer">
                   <hi TEIform="hi" rend="italic">Country Life.</hi>
                </trailer>
             </div2>
-            <div2 TEIform="div2" id="fiery08" n="Requiescant" org="uniform" part="N" sample="complete" type="poem">
-               <pb TEIform="pb" n="[ 63 ]"></pb>
+            <div2 TEIform="div2" id="fiery08" n="Requiescant" org="uniform" part="N" sample="complete" type="poem"><docAuthor n="Gurney, Dorothy Frances">Dorothy Frances Gurney</docAuthor>
+               <pb TEIform="pb" n="[ 63 ]"/>
                <head TEIform="head" rend="center">
                   <hi TEIform="hi" rend="bold">Requiescant</hi>
                </head>
@@ -356,53 +357,53 @@
                </lg>
                <lg TEIform="lg" org="uniform" part="N" sample="complete" type="stanza">
                   <l TEIform="l" part="N">My soul, forestall awhile the ultimate fiat,</l>
-                  <l TEIform="l" part="N">A moment doff the body&apos;s hindrance,</l>
+                  <l TEIform="l" part="N">A moment doff the body's hindrance,</l>
                   <l TEIform="l" part="N">And come thou too unto the place of quiet,</l>
                   <l TEIform="l" part="N">Into the heart of silence, where God is.</l>
                </lg>
-               <lb TEIform="lb"></lb>
+               <lb TEIform="lb"/>
                <byline TEIform="byline">
                   <hi TEIform="hi" rend="italic">Dorothy Frances Gurney.</hi>
                </byline>
-               <lb TEIform="lb"></lb>
+               <lb TEIform="lb"/>
                <trailer TEIform="trailer">
                   <hi TEIform="hi" rend="italic">A Little Book of Quiet.</hi>
                </trailer>
             </div2>
-            <div2 TEIform="div2" id="fiery09" n="Expiation" org="uniform" part="N" sample="complete" type="poem">
-               <pb TEIform="pb" n="[ 67 ]"></pb>
+            <div2 TEIform="div2" id="fiery09" n="Expiation" org="uniform" part="N" sample="complete" type="poem"><docAuthor n="Booth, Mary">Mary Booth</docAuthor>
+               <pb TEIform="pb" n="[ 67 ]"/>
                <head TEIform="head" rend="center">
                   <hi TEIform="hi" rend="bold">Expiation</hi>
                </head>
                <lg TEIform="lg" org="uniform" part="N" sample="complete" type="stanza">
-                  <l TEIform="l" part="N">&quot;I, WAVERING like a candle in the wind:</l>
+                  <l TEIform="l" part="N">"I, WAVERING like a candle in the wind:</l>
                   <l TEIform="l" part="N">I on the margin of Eternity: </l>
                   <l TEIform="l" part="N">Alone--alone--and knowing I have sinned:</l>
-                  <l TEIform="l" part="N">Pale Galilean, will you watch with me?&quot;</l>
+                  <l TEIform="l" part="N">Pale Galilean, will you watch with me?"</l>
                </lg>
                <lg TEIform="lg" org="uniform" part="N" sample="complete" type="stanza">
-                  <l TEIform="l" part="N">&quot;Lo! I am here, My son: if any sin</l>
+                  <l TEIform="l" part="N">"Lo! I am here, My son: if any sin</l>
                   <l TEIform="l" part="N">I am the Advocate for such as he.</l>
                   <l TEIform="l" part="N">The good to Heaven unmediated win:</l>
-                  <l TEIform="l" part="N">You not till death&apos;s dark hour have turned to me.</l>
+                  <l TEIform="l" part="N">You not till death's dark hour have turned to me.</l>
                   <l TEIform="l" part="N">Here on the battlefield are sins forgiven:</l>
                   <l TEIform="l" part="N">Your wounds are sacred: they do expiate:</l>
-                  <l TEIform="l" part="N">Again-again--My side for you is riven.&quot;</l>
-                  <l TEIform="l" part="N">&quot;On healing streams I float thro&apos; Death&apos;s dark gate.&quot;</l>
+                  <l TEIform="l" part="N">Again-again--My side for you is riven."</l>
+                  <l TEIform="l" part="N">"On healing streams I float thro' Death's dark gate."</l>
                </lg>
-               <lb TEIform="lb"></lb>
+               <lb TEIform="lb"/>
                <byline TEIform="byline">
                   <hi TEIform="hi" rend="italic">Mary Booth.</hi>
                </byline>
             </div2>
-            <div2 TEIform="div2" id="fiery10" n="&apos;Despise Not the Day of Small Things&apos;" org="uniform" part="N" sample="complete" type="poem">
-               <pb TEIform="pb" n="[ 73 ]"></pb>
+            <div2 TEIform="div2" id="fiery10" n="'Despise Not the Day of Small Things'" org="uniform" part="N" sample="complete" type="poem"><docAuthor n="Cruttwell, E. Mary">E. Mary Cruttwell</docAuthor>
+               <pb TEIform="pb" n="[ 73 ]"/>
                <head TEIform="head" rend="center">
-                  <hi TEIform="hi" rend="bold">&quot;Despise not the Day of Small Things&quot;</hi>
+                  <hi TEIform="hi" rend="bold">"Despise not the Day of Small Things"</hi>
                </head>
                <argument TEIform="argument">
                   <p TEIform="p">
-                     <hi TEIform="hi" rend="italic">Niuë, a little island in the South Seas, sent a message, on the outbreak of war, to offer to Great Britain &quot;From a little child of the Empire,&quot; two portions--first, men; secondly, money.</hi>
+                     <hi TEIform="hi" rend="italic">Niu&#x00EB;, a little island in the South Seas, sent a message, on the outbreak of war, to offer to Great Britain "From a little child of the Empire," two portions--first, men; secondly, money.</hi>
                   </p>
                </argument>
                <lg TEIform="lg" org="uniform" part="N" sample="complete" type="stanza">
@@ -410,22 +411,22 @@
                   <l TEIform="l" part="N">My little gifts give willingly;</l>
                   <l TEIform="l" part="N">Two portions have I, men and gold,</l>
                   <l TEIform="l" part="N">Would I could give a hundredfold!</l>
-                  <l TEIform="l" part="N">To Britain&apos;s mighty army then</l>
-                  <l TEIform="l" part="N">Does &quot;Niuë&quot; offer twenty men</l>
+                  <l TEIform="l" part="N">To Britain's mighty army then</l>
+                  <l TEIform="l" part="N">Does "Niu&#x00EB;" offer twenty men</l>
                   <l TEIform="l" part="N">And money in a like degree,</l>
-                  <l TEIform="l" part="N">With dark hearts&apos; love and loyalty.</l>
+                  <l TEIform="l" part="N">With dark hearts' love and loyalty.</l>
                   <l TEIform="l" part="N">For surely he, our Great White King,</l>
                   <l TEIform="l" part="N">Can look upon a little thing,</l>
                   <l TEIform="l" part="N">And will the burning spirit see</l>
                   <l TEIform="l" part="N">In us, dark children though we be.</l>
                </lg>
-               <lb TEIform="lb"></lb>
+               <lb TEIform="lb"/>
                <byline TEIform="byline">
                   <hi TEIform="hi" rend="italic">E. Mary Cruttwell.</hi>
                </byline>
             </div2>
-            <div2 TEIform="div2" id="fiery11" n="Men Who Die for England" org="uniform" part="N" sample="complete" type="poem">
-               <pb TEIform="pb" n="[ 80 ]"></pb>
+            <div2 TEIform="div2" id="fiery11" n="Men Who Die for England" org="uniform" part="N" sample="complete" type="poem"><docAuthor n="Woods, Margaret L.">Margaret L. Woods</docAuthor>
+               <pb TEIform="pb" n="[ 80 ]"/>
                <head TEIform="head" rend="center">
                   <hi TEIform="hi" rend="bold">Men Who Die for England</hi>
                </head>
@@ -433,8 +434,8 @@
                   <l TEIform="l" part="N">MEN who die for England</l>
                   <l TEIform="l" part="N">Never die in vain.</l>
                   <l TEIform="l" part="N">Dying conquerors, dying masters,</l>
-                  <l TEIform="l" part="N">Dying firm &apos;mid fierce disasters.</l>
-                  <l TEIform="l" part="N">England&apos;s every son</l>
+                  <l TEIform="l" part="N">Dying firm 'mid fierce disasters.</l>
+                  <l TEIform="l" part="N">England's every son</l>
                   <l TEIform="l" part="N">Dying duty done</l>
                   <l TEIform="l" part="N">Gives the life she lent him back again.</l>
                   <l TEIform="l" part="N">Men who die for England</l>
@@ -464,7 +465,7 @@
                   <l TEIform="l" part="N">Answers height on height, </l>
                   <l TEIform="l" part="N">Bright and yet more bright,</l>
                </lg>
-               <pb TEIform="pb" n="[ 81 ]"></pb>
+               <pb TEIform="pb" n="[ 81 ]"/>
                <lg TEIform="lg" org="uniform" part="N" sample="complete" type="stanza">
                   <l TEIform="l" part="N">Answers all your England, hill and plain,</l>
                   <l TEIform="l" part="N">Men who die for England</l>
@@ -479,29 +480,29 @@
                   <l TEIform="l" part="N">Men who died for England</l>
                   <l TEIform="l" part="N">Have not died in vain.</l>
                </lg>
-               <lb TEIform="lb"></lb>
+               <lb TEIform="lb"/>
                <byline TEIform="byline">
                   <hi TEIform="hi" rend="italic">Margaret L. Woods.</hi>
                </byline>
             </div2>
-            <div2 TEIform="div2" id="fiery12" n="Lay Your Head on the Earth&apos;s Breast" org="uniform" part="N" sample="complete" type="poem">
-               <pb TEIform="pb" n="[ 92 ]"></pb>
+            <div2 TEIform="div2" id="fiery12" n="Lay Your Head on the Earth's Breast" org="uniform" part="N" sample="complete" type="poem"><docAuthor n="Congreve, Celia">Celia Congreve</docAuthor>
+               <pb TEIform="pb" n="[ 92 ]"/>
                <head TEIform="head" rend="center">
-                  <hi TEIform="hi" rend="bold">Lay your Head on the Earth&apos;s Breast</hi>
+                  <hi TEIform="hi" rend="bold">Lay your Head on the Earth's Breast</hi>
                </head>
                <epigraph TEIform="epigraph">
                   <p TEIform="p">
-                     <hi TEIform="hi" rend="italic">&quot;Have you heard the earth crying?&quot; said Vassily Vassilitch.</hi>
+                     <hi TEIform="hi" rend="italic">"Have you heard the earth crying?" said Vassily Vassilitch.</hi>
                   </p>
                   <p TEIform="p">
-                     <hi TEIform="hi" rend="italic">&quot;What do you mean?&quot; I asked.</hi>
+                     <hi TEIform="hi" rend="italic">"What do you mean?" I asked.</hi>
                   </p>
                   <p TEIform="p">
-                     <hi TEIform="hi" rend="italic">&quot;Why,&quot; said he, &quot;I&apos;ve heard her crying as I lay in the grass with my ear to the ground. I heard her. Like this, oo-m, oo-m, oo-m. It was the time the soldiers were being mobilised and women were sobbing in every cottage and in every turning of the road, so it may only have been that I heard. But it seemed to me the earth herself was crying, so gently, so sadly that my own heart ached.&quot;--STEPHEN GRAHAM.</hi>
+                     <hi TEIform="hi" rend="italic">"Why," said he, "I've heard her crying as I lay in the grass with my ear to the ground. I heard her. Like this, oo-m, oo-m, oo-m. It was the time the soldiers were being mobilised and women were sobbing in every cottage and in every turning of the road, so it may only have been that I heard. But it seemed to me the earth herself was crying, so gently, so sadly that my own heart ached."--STEPHEN GRAHAM.</hi>
                   </p>
                </epigraph>
                <lg TEIform="lg" org="uniform" part="N" rend="italic" sample="complete" type="stanza">
-                  <l TEIform="l" part="N">LAY your head on the Earth&apos;s breast and you will hear her crying,</l>
+                  <l TEIform="l" part="N">LAY your head on the Earth's breast and you will hear her crying,</l>
                   <l TEIform="l" part="N">Sobbing, softly, hopelessly, for her sons who are dead and dying.</l>
                </lg>
                <lg TEIform="lg" org="uniform" part="N" sample="complete" type="stanza">
@@ -510,26 +511,26 @@
                </lg>
                <lg TEIform="lg" org="uniform" part="N" sample="complete" type="stanza">
                   <l TEIform="l" part="N">Are there none who will stay of all my sons?  Must you all go?</l>
-                  <l TEIform="l" part="N">Yes; all that you love, the pride of your eyes, Mother, you&apos;d have it so.</l>
+                  <l TEIform="l" part="N">Yes; all that you love, the pride of your eyes, Mother, you'd have it so.</l>
                </lg>
                <lg TEIform="lg" org="uniform" part="N" sample="complete" type="stanza">
                   <l TEIform="l" part="N">Mangled and torn they lie in heaps, broken, dying and dead.</l>
                   <l TEIform="l" part="N">O scarlet blood of my splendid sons, you have dyed my green fields red.</l>
                </lg>
-               <pb TEIform="pb" n="[ 93 ]"></pb>
+               <pb TEIform="pb" n="[ 93 ]"/>
                <lg TEIform="lg" org="uniform" part="N" sample="complete" type="stanza">
                   <l TEIform="l" part="N">What can I do for you, O my sons?  My last, last gift is small,</l>
-                  <l TEIform="l" part="N">A few poor sods to cover your heads and a scatter of snow o&apos;er all.</l>
+                  <l TEIform="l" part="N">A few poor sods to cover your heads and a scatter of snow o'er all.</l>
                </lg>
                <lg TEIform="lg" org="uniform" part="N" rend="italic" sample="complete" type="stanza">
-                  <l TEIform="l" part="N">Lay your head on the Earth&apos;s breast and you will hear her crying,</l>
+                  <l TEIform="l" part="N">Lay your head on the Earth's breast and you will hear her crying,</l>
                   <l TEIform="l" part="N">Grieving, softly, hopelessly, for her sons who are dead and dying.</l>
                </lg>
-               <lb TEIform="lb"></lb>
+               <lb TEIform="lb"/>
                <byline TEIform="byline">
                   <hi TEIform="hi" rend="italic">Celia Congreve.</hi>
                </byline>
-               <lb TEIform="lb"></lb>
+               <lb TEIform="lb"/>
                <trailer TEIform="trailer">
                   <hi TEIform="hi" rend="italic">Country Life.</hi>
                </trailer>

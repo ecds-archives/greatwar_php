@@ -20,6 +20,13 @@ $xsl_file = "figures.xsl";
 
 include("header.html");
 
+
+print '<p class="breadcrumbs">
+<a href="index.html">Home</a> &gt; <a href="postcards/">Postcards</a>
+	  &gt; Browse &gt; Thumbnails 
+</p>';
+
+
 print '<div class="content">';
 
 // need to add an option to use cursor...

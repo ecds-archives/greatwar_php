@@ -11,13 +11,22 @@ error_reporting(E_ERROR);
 //error_reporting(E_ERROR | E_PARSE);    // for development
 
 // root directory and url where the website resides
-$basedir = "/home/httpd/html/cti/greatwar";
+// development version
+$basedir = "/home/httpd/html/rebecca/wwiweb";
+$server = "reagan.library.emory.edu";
+$base_path = "/rebecca/wwiweb";
+$base_url = "http://$server$base_path/";
+
+// root directory and url where the website resides
+// production version
+/* $basedir = "/home/httpd/html/cti/greatwar";
 $server = "cti.library.emory.edu";
 $base_path = "/greatwar";
 $base_url = "http://$server$base_path/";
+*/
 
 // add basedir to the php include path (for header/footer files and lib directory)
-set_include_path(get_include_path() . ":" . $basedir . ":" . "$basedir/lib");
+set_include_path(get_include_path() . ":" . $basedir . ":" . "$basedir/lib" . ":" . "$basedir/content");
 
 //shorthand for link to main css file
 $cssfile = "wwi.css";

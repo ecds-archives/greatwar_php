@@ -4,7 +4,7 @@ include("../config.php");
 print "<html>
   <head> 
     $csslink
-    <title>The Great War : Poetry : Browse</title> 
+    <title>The Great War : Poetry : Poets</title> 
     <meta http-equiv='Content-Type' content='text/html; charset=iso-8859-1'>
     <base href='$base_url'>
   </head> 

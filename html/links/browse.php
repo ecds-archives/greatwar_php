@@ -1,14 +1,14 @@
-<html>
-  <head>
-<!--    <link rel="stylesheet" type="text/css" href="../wwi.css"> -->
-    <title>The Great War : Links : Browse</title>
-    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<!--    <base href="http://reagan.library.emory.edu/rebecca/wwiweb/"> -->
-  </head>
-<body>
-
 <?php
 include("../config.php");	
+
+print "<html>
+  <head>
+    $csslink
+    <title>The Great War : Links : Browse</title> 
+    <meta http-equiv='Content-Type' content='text/html; charset=iso-8859-1'> 
+  </head>
+<body>
+";
 
 include_once ("lib/alinkCollection.class.php");
 include_once("lib/mybreadcrumb.php");
@@ -20,12 +20,12 @@ print '<div class="content">';
 $sort = $_GET["sort"]; // options: title|contrib|date
 $subject = $_GET['subj'];
 
-
-$args = array('host' => "vip.library.emory.edu",
-	      'db' => "WW1",
+$args = array('host' => $tamino_server,
+	      'db' => $tamino_db,
 	      'coll' => 'links',
 	      'limit_subject' => $subject[0],
-	      'sort' => $sort);
+	      'sort' => $sort,
+	      'debug' => false);
 
 $linkset = new aLinkCollection($args);
 
@@ -39,7 +39,7 @@ print "</div>";
 
 print '<div class="sidebar">';
 include("nav.html");
-include("searchbox.html");
+include("searchbox.php");
 print "</div>";
 
 include("footer.html");

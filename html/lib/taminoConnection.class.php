@@ -192,7 +192,8 @@ class taminoConnection {
 
        $result = $this->xml->getBranches("ino:response", "xq:result");
        if ($result) {
-         $this->count = $this->findNode($result[0], "total");
+	 //$this->count = $this->findNode("total", $result[0]);
+		  $this->count = $this->findNode("total");
        }
        
      } else {
@@ -202,7 +203,11 @@ class taminoConnection {
 
    // get content of an xml node by name when the path is unknown
    // FIXME: should this really be a taminoConnection class function?
-   function findNode ($node, $name) {
+   function findNode ($name, $node = NULL) {
+     if ($node == NULL){	// by default, search xq:result
+       $branch = $this->xml->getBranches("ino:response", "xq:result");
+       $node = $branch[0];
+     }
      $result = $node->getTagContent($name);
      if ($result) {	// found it
        return $result;
@@ -210,7 +215,7 @@ class taminoConnection {
        $branches = $node->getBranches();
        for ($i = 0; isset($branches[$i]); $i++) {
 	 // recurse on each branch 
-	 $result = $this->findNode($branches[$i], $name);
+	 $result = $this->findNode($name, $branches[$i]);
 	 if ($result) { return $result; }
        }
        // if we get through all the branches without returning, then return 0
@@ -260,7 +265,8 @@ class taminoConnection {
        // replace tamino wildcard (*) with regexp -- 1 or more word characters 
        $_term = str_replace("*", "\w+", $term[$i]);
      // Note: regexp is constructed to avoid matching/highlighting the terms in a url or img tag
-       $this->xsl_result = preg_replace("/([^=|']\b)($_term)(\b)[^\.]/i",
+       // FIXME: breaking words at end of tag (</h4>, </li>... )
+       $this->xsl_result = preg_replace("/([^=|']\b)($_term)(\b[^\.])/i",
 	      "$1" . $this->begin_hi[$i] . "$2$this->end_hi$3", $this->xsl_result);
      }
    }

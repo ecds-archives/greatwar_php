@@ -1,95 +1,144 @@
+<front>
+
+
+<pb n="ii"/>
+<div1 id="lane001" type="anthology" n="Songs & Sonnets For England in War Time">
+
+<div2 id="lane002" type="dedication">
 The entire profits from the sale of this volume will be given to the Prince of Wales's National Relief Fund
+</div2>
 
-SONGS SONNETS FOR ENGLAND IN WAR TIME
+<pb n="iii"/>
+<head rend="center">SONGS & SONNETS FOR ENGLAND IN WAR TIME</head>
+<head rend="center">BEING A COLLECTION OF LYRICS BY VARIOUS AUTHORS INSPIRED BY THE GREAT WAR</head>
 
-BEING A COLLECTION OF LYRICS BY VARIOUS AUTHORS INSPIRED BY THE GREAT WAR
+<div2 id="lane003" type="epigraph">
+<q rend="center">
+<l rend="italic">Sound, sound the clarion, fill the fife!</l>
+<l rend="indent4"><hi rend="italic">To all the sensual world proclaim,</hi></l>
+<l rend="italic">One crowded hour of glorious life</l>
+<l rend="indent4"><hi rend="italic">Is worth an age without a name.</hi></l></q>
+<bibl rend="right">S<hi rend="smallcaps">ir</hi> W<hi rend="smallcaps">alter</hi> S<hi rend="smallcaps">cott</hi>, "Old Mortality"</bibl>
+</div2>
 
-Sound, sound the clarion, fill the fife
+<pb n="v"/>
+<div2 id="lane004" type="chapter" n="Introduction">
+<head rend="center">INTRODUCTION</head>
 
-To all the sensual world proclaim,
+<p>I<hi rend="smallcaps">n</hi> the stress of a nation's peril some of its greatest songs are born. In the stress of a nation's peril the poet at last comes into his own again, and with clarion call he rouses the sleeping soul of the empire. Prophet he is, champion and consoler.</p>
 
-One crowded hour of glorious life
+<p>If in these later times the poet has been neglected, now in our infinite need, in our pride and our sorrow, he is here to strengthen, comfort and inspire. The poet is vindicated.</p>
 
-Is worth an age without a name.
+<p>What can so nobly uplift the hearts of a people facing war with its unspeakable agony as music and poetry? The sound of martial music steels men's hearts before battle. The sound of martial words inspires human souls to do and to endure. God, His poetry, and His music are the Holy Trinity of war.</p>
 
-SIR WALTER SCOTT, 11 Old Mortality
+<p>Not always the greatest songs that have sent men on to victory. Sometimes it has been a modest verse that has found refuge in the heart of the <pb n="vi"/>soldier ready for the ultimate sacrifice, cheered on his way by the lilt of a humble song. Who else, indeed, can take the place of a poet?</p>
 
-LONDON: JOHN LANE, THE BODLEY HEAD
+<p>As Mr. William Watson has most nobly said:</p>
 
-NEW YORK: JOHN LANE COMPANY
+<q rend="indent">
+<l>"Empires dissolve and peoples disappear:</l>
+<l>Song passes not away.</l>
+<l>Captains and conquerors leave a little dust,</l>
+<l>And kings a dubious legend of their reign;</l>
+<l>The swords of C&aelig;sars, they are less than rust:</l>
+<l>The poet doth remain."</l></q>
+</div2>
 
-TORONTO: BELL AND COCKBtJRN MCMXIV
-INTRODUCTION
 
-IN the stress of a nation's peril some of its greatest songs are born. In the stress of a nation's peril the poet at last comes into his own again, and with clarion call he rouses the sleeping soul of the empire. Prophet he is, champion and consoler.
+<pb n="vii"/>
+<div2 id="lane005" type="chapter" n="Publisher's Note">
+<head rend="center">PUBLISHER'S NOTE</head>
 
-If in these later times the poet has been neglected, now in our infinite need, in our pride and our sorrow, he is here to strengthen, comfort and inspire. The poet is vindicated.
+<p>O<hi rend="smallcaps"f</hi> our poets who have been inspired to write and publish separate volumes of war poems during the actual progress of a campaign, we can only recall one -- the late Sydney Dobell, whose "Sonnets on the War," and "England in Time of War," both dealt with the Crimea. Mr. William Watson's "The Purple East" was read and quoted the world over during the Armenian atrocities: indeed, "Abdul the Damned" has passed into the language. Although this famous sonnet sequence sprang out of events which could not be called a campaign in the accepted and legitimate sense of the word, yet it may be fairly argued that the Kaiser has surpassed the Turk in inflicting suffering on defenceless people.</p>
 
-What can so nobly uplift the hearts of a people facing war with its unspeakable agony as music and poetry? The sound of martial music steels men's hearts before battle. The sound of martial words inspires human souls to do and to endure. God, His poetry, and His music are the Holy Trinity of war.
+<p>Doubtless, however, some of the many poets writing during the present war will in the course of time collect their verses and issue them as independent volumes. 
+<pb n="viii"/> Anthologies also there are, without number, of poems of war on land and sea; but none of these, so far as I can discover, has been formed during the conflict itself. In this respect, therefore, this collection is unique. I am proposing to issue a series of these volumes during the progress of this great war, dealing with its outstanding events. The next will include a number of poems that have appeared in American and Canadian papers, and will thus have a peculiar interest as expressing the feelings of our kinsmen beyond the sea. All the profits derived from the sale of these anthologies will be given to the Prince of Wales's Fund. Perhaps, therefore, in the event of similar collections being made, it would generally be well if the poet would prevent any possible overlapping by consenting to his poem's appearance in one collection only. In this way the public may be induced to buy the various collections rather than any particular one.</p>
 
-Not always the greatest songs that have sent men on to victory. Sometimes it has been a modest verse that has found refuge in the heart of the
+<p>Viscount Dillon sends me the following, taken from <hi rend="italic">La France du Nord</hi> of August 23. These lines, by a poetic ally, who remains anonymous, are as correct in feeling as they are ingenious in adapting themselves to the rhythm of our own National Anthem.</p>
 
-V
-soldier ready for the ultimate sacrifice, cheered on his way by the lilt of a humble song. Who else, indeed, can take the place of a poet?
+<pb n="ix"/>
+<div3 id="lane006" type="poem" n="Welcome to You, Gallant Britons">
+<head rend="center">WELCOME TO YOU, GALLANT BRITONS</head>
 
-As Mr. William Watson has most nobly said
+<lg type="stanza">
+<l n="1">Welcome to you, brave friends,</l>
+<l>English, Irish, and Scotch,</l>
+<l rend="indent5">Hail to our friends!</l>
+<l>Soon at the front with us,</l>
+<l>Of foes so treacherous</l>
+<l>They will be victorious;</l>
+<l rend="indent5">Hail to them all!</l></lg>
 
-"Empires dissolve and peoples disappear: Song passes not away. Captains and conquerors leave a little dust, And kings a dubious legend of their reign; The swords of Csars, they are less than rust: The poet doth remain."
+<lg>
+<l>And not these friends alone,</l>
+<l>But the little Servians,</l>
+<l rend="indent5">And the Russians;</l>
+<l>The Belgians so gallant,</l>
+<l>Who have checked the tyrant</l>
+<l>From Li&egrave;ge to Dinant;</l>
+<l rend="indent5">Hail to them all!</l></lg>
 
-PUBLISHER'S NOTE
+<lg>
+<l>The soldiers of fair France</l>
+<l>Welcome their British friends,</l>
+<l rend="indent5">And grasp their hands,</l>
+<l>May their combined army</l>
+<l>Bear off the victory,</l>
+<l>And reap final glory;</l>
+<l rend="indent5">Hail to them all!</l></lg>
+<byline>G. C.</byline>
+</div3>
 
-OF our poets who have been inspired to write and publish separate volumes of war poems during the actual progress of a campaign, we can only recall onethe late Sydney Dobell, whose "Sonnets on the War," and "England in Time of War," both dealt with the Crimea. Mr. William Watson's "The Purple East" was read and quoted the world over during the Armenian atrocities : indeed, " Abdul the Damned" has passed into the language. Although this famous sonnet sequence sprang out of events which could not be called a campaign in the accepted and legitimate sense of the word, yet it may be fairly argued that the Kaiser has surpassed the Turk in inflicting suffering on defenceless people.
+<pb n="x"/>
+<p>I have also been favoured with another poem which has an added interest from the fact that the writer has for many years been well acquainted with German politics and German statesmen.</p>
 
-Doubtless, however, some of the many poets writing during the present war will in the course of time collect their verses and issue them as independent volumes.
+<div3 id="lane007" type="poem" n="A Partnership">
+<head rend="center">A PARTNERSHIP</head>
 
-VII
-Anthologies also there are, without number, of poems of war on land and sea ; but none of these, so far as I can discover, has been formed during the conflict itself. In this respect, therefore, this collection is unique. I am proposing to issue a series of these volumes during the progress of this great war, dealing with its outstanding events. The next will include a number of poems that have appeared in American and Canadian papers, and will thus have a peculiar interest as expressing the feelings of our kinsmen beyond the sea. All the profits derived from the sale of these anthologies will be given to the Prince of Wales's Fund. Perhaps, therefore, in the event of similar collections being made, it would generally be well if the poet would prevent any possible overlapping by consenting to his poem's appearance in one collection only. In this way the public may be induced to buy the various collections rather than any particular one.
+<lg type="stanza">
+<l n="1">G<hi rend="smallcaps">od</hi> for the Kaiser! God for the Hun! </l>
+<l>God for the fiercest war ever the sun </l>
+<l>Shone on! -- No wonder it hid its face<ref target="lane007n1">*</ref><note id="lane007n1" place="foot" n="1">The eclipse of the sun.</note></l>
+<l>When the Kaiser rode forth to his big disgrace.</l></lg>
 
-Viscount Dillon sends me the following, taken from La France du Nord of August 23. These lines, by a poetic ally, who remains anonymous, are as correct in feeling as they are ingenious in adapting themselves to the rhythm of our own National Anthem.
+<lg>
+<l>God for the Kaiser! Burn! burn! burn! </l>
+<l>Soldiers let harmless civilians learn </l>
+<l>That I am the great almighty Lord, </l>
+<l>Lord by the right of torch and sword.</l></lg>
 
-WELCOME TO YOU, GALLANT BRITONS
+<lg>
+<l>God for the Kaiser! Shield your front, </l>
+<l>With women and children to bear the brunt </l>
+<l>Lest one brave German soldier be hurt </l>
+<l>One German helmet be rolled in the dirt!</l></lg>
 
-Welcome to you, brave friends, English, Irish, and Scotch,
+<lg>
+<l>God for the Kaiser! Kill! kill! kill! </l>
+<l>Blood is your draught, so drink your fill! </l>
+<l>Murder the old men, slaughter the young, </l>
+<l>Scatter their bodies abroad for dung.</l>
 
-Hail to our friends! Soon at the front with us, Of foes so treacherous They will be victorious
+<pb n="xi"/>
+<lg>
+<l>God and the Kaiser! God and I </l>
+<l>Can bid men to live or bid them to die; </l>
+<l>Mine to command and yours to obey </l>
+<l>Lest I wipe you out from the light of day.</l></lg>
 
-Hail to them all!
+<lg>
+<l>God and the Kaiser! A sacred alliance </l>
+<l>Bidding the whole wide world defiance --</l>
+<l>Wait! and perhaps his Partner may send </l>
+<l>The blasphemous Kaiser a fitting end.</l></lg>
+</div3>
 
-And not these friends alone, But the little Servians,
+<p>My thanks are due for the great generosity displayed by all the authors whose poems appear in this volume, and whose names will be found on following pages; and also to the Editors of the <hi rend="italic">Times</hi>, <hi rend="italic">Daily Chronicle</hi>, <hi rend="italic">Westminster Gazette</hi>, <hi rend="italic">Daily News and Leader</hi>, <hi rend="italic">Morning Post</hi>, <hi rend="italic">Daily Telegraph</hi>, <hi rend="italic">Evening Standard</hi>, <hi rend="italic">Daily Express</hi>, <hi rend="italic">Pall Mall Gazette</hi>, <hi rend="italic">Punch</hi>, <hi rend="italic">New Weekly</hi>, <hi rend="italic">New Witness</hi>, <hi rend="italic">Truth</hi>, <hi rend="italic">Saturday Review</hi>, <hi rend="italic">T.P.'s Weekly</hi>, <hi rend="italic">Yorkshire Post</hi>, <hi rend="italic">Glasgow Evening News</hi>, for full permission to reprint the poems that have appeared in their columns.</p>
 
-And the Russians; The Belgians so gallant, Who have checked the tyrant From Liege to Dinant;
+<p>Mr. Vernon Hill has drawn and presented the cover design.</p>
 
-Hail to them all
+<byline>JOHN LANE</byline>
+<note rend="left">T<hi rend="smallcaps">he</hi> B<hi rend="smallcaps">odley</hi> H<hi rend="smallcaps">ead</hi>.</note>
+</div2>
 
-The soldiers of fair Franc Welcome their British friends,
-
-And grasp their hands, May their combined army Bear off the victory, And reap final glory;
-
-Hail to them all
-
-G. C.
-I have also been favoured with another poem which has an added interest from the fact that the writer has for many years been well acquainted with German politics and German statesmen.
-
-A PARTNERSHIP
-
-GOD for the Kaiser! God for the Hun! God for the fiercest war ever the sun Shone on !-No wonder it hid its face When the Kaiser rode forth to his big disgrace.
-
-God for the Kaiser! Burn! burn! burn! Soldiers let harmless civilians learn That I am the great almighty Lord, Lord by the right of torch and sword.
-
-God for the Kaiser! Shield your front, With women and children to bear the brunt Lest one brave German soldier be hurt One German helmet be rolled in the dirt!
-
-God for the Kaiser! Kill ! kill! kill! Blood is your draught, so drink your fill! Murder the old men, slaughter the young, Scatter their bodies abroad for dung.
-
-* The eclipse of the sun.
-
-God and the Kaiser! God and I Can bid men to live or bid them to die; Mine to command and yours to obey Lest I wipe you out from the light of day.
-
-God and the Kaiser! A sacred alliance Bidding the whole wide world defianceWait! and perhaps his Partner may send The blasphemous Kaiser a fitting end.
-
-My thanks are due for the great generosity displayed by all the authors whose poems appear in this volume, and whose names will be found on following pages; and also to the Editors of the Times, Daily Chronicle, Westminster Gazette, Daily News and Leader, Morning Post, Daily Telegraph, Evening Standard, Daily Express, Pall Mall Gazette, Punch, New Weekly, New Witness, Truth, Saturday Review, T.P.'s Weekly, Yorkshire Post, Glasgow Evening News, for full permission to reprint the poems that have appeared in their columns.
-
-Mr. Vernon Hill has drawn and presented the cover design.
-
-JOHN LANE
-
-THE BODLEY HEAD.
+</front>

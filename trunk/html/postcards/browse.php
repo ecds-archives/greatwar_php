@@ -14,6 +14,7 @@ print "
 "; 
 
 include_once("lib/taminoConnection.class.php");
+include_once("lib/interpGrp.class.php");
 include_once("lib/mybreadcrumb.php");
 
 $args = array('host' => $tamino_server,
@@ -29,7 +30,9 @@ $desc = $_GET["desc"];
 $pos = $_GET["position"];
 $maxdisplay = $_GET["max"];
 if (isset($pos)) {} else {$pos = 1;}
-if (isset($maxdisplay)) {} else {$maxdisplay = 10;}
+if (isset($maxdisplay)) {}
+else if ($desc == "yes") { $maxdisplay = 25; }
+else { $maxdisplay = 50; }
 
 ($desc == "yes") ? $mode = "thumbdesc" : $mode = "thumbnail";
 $xsl_params = array("mode" => $mode);
@@ -57,7 +60,8 @@ if ($cat) { $where = "where tf:containsText(\$a/@ana, '$cat') "; }
 else { $where = ""; }
 $return = "return <div> { \$a } <total>{ count($for $where return \$a) }</total> {\$b} </div>";
 $sort = "sort by (figure/head)";
-$query = "$declare $for $let $where $return $sort";
+//$query = "$declare $for $let $where $return $sort";
+$query = "$declare $for $let $where $return";
 
 $xsl_file = "figures.xsl";
 
@@ -85,7 +89,8 @@ if ($desc == 'yes') {
   print "<a href='postcards/browse.php?desc=yes&cat=$cat&max=$maxdisplay'>Show descriptions</a>";
 }
 // if a category is selected, give option to revert to all
-if ($cat) { print " | <a href='postcards/browse.php?desc=$desc&max=$maxdisplay'>View all</a>"; }
+if ($cat) { print " | <a href='postcards/browse.php?desc=$desc&max=$maxdisplay'>View all</a>";
+}
 print "</p>";
 
 
@@ -96,13 +101,23 @@ if ($tamino->count > 0) {
   print '<div class="content">'; 
 
   print "<table class='postcardnav'><tr><td>";
-print "<p>Displaying postcards " . $tamino->position . " - " . ($tamino->quantity + $tamino->position - 1) . " of " . $tamino->count . "</p>";
+print "<p>Displaying postcards " . $tamino->position . " - " . ($tamino->quantity + $tamino->position - 1) . " of " . $tamino->count;
+if ($cat) {
+  $args["id"] = $cat;
+ $ig = new interpGrp($args);
+ print " for <b>" . $ig->group($cat) . " - " . $ig->name($cat) . "</b>";
+} 
+print "</p>";
 
 // links to more results
 if ($tamino->count > $maxdisplay) {
   $result_links .= 'More postcards:';
   $first = true;
+  $maxlinks = 7;	// number of result sets to link to
   for ($i = 1; $i <= $tamino->count; $i += $maxdisplay) {
+    //    if ($i > ($maxlinks * $maxdisplay))  { next; }
+    // give some indication of skipping, link to last two or three?
+
       // construct the url, maintaining all parameters
       $url = "postcards/browse.php?max=$maxdisplay";
       if ($desc) { $url .= "&desc=$desc"; }
@@ -120,6 +135,7 @@ if ($tamino->count > $maxdisplay) {
       else { $result_links .= "$i - $j"; }
       if ($i != $pos) { $result_links .= "</a>"; }
       $result_links .= "</li>";
+
   }
 }
 
@@ -131,7 +147,7 @@ print $result_links;
 print " Postcards per page:
 <form action='postcards/browse.php'>
 <select name='max'>";
-foreach (array(5,10,15,20,25) as $i) {
+foreach (array(5,10,15,20,25,50) as $i) {
   ($i == $maxdisplay) ? $status = " selected" : $status = "";
   print "<option value='$i'$status>$i</option> ";
 }
@@ -152,7 +168,13 @@ $tamino->xslTransform($xsl_file, $xsl_params);
 $tamino->printResult();
 
 }  // end if tamino->count > 0
- 
+
+
+// print result links again at bottom
+print "<p><table class='postcardnav'><tr><td>";
+print $result_links;
+print "</td></tr></table></p>";
+
 print '</div>';
 
 print '<div class="sidebar">';

@@ -2087,11 +2087,11 @@
 <pb n="91"/>
 <div2 id="lane055" type="poem" n="A Cap to Fit the Kaiser">
 <head rend="center">A CAP TO FIT THE KAISER</head>
-<quote rend="italic">
+<q rend="italic">
 <l>Impiger, iracundus, inexorabilis, acer,</l>
 <l>Fura neget sibi nata, nihil non arroget armis.</l>
 <l rend="right">(ARS POETICA 12)</l>
-</quote>
+</q>
 
 <lg type="stanza">
 <l n="1">E<hi rend="smallcaps">ager</hi>, implacable, untired,</l>

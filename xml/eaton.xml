@@ -1,3 +1,4 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "teixlite.dtd">
 <TEI.2>
    <teiHeader>
       <fileDesc>
@@ -46,12 +47,6 @@
 	War) has been digitized by OCR or rekeying. The work has been
 	done in conjunction with Dr. Harry Rusche of the English
 	Department, Emory University</p></projectDesc>
-	<editorialDecl>
-	<correction><p></p></correction>
-	<normalization><p></p></normalization>
-	<quotation><p>Block quotes are marked with q or quote
-	elements</p></quotation>
-	</editorialDecl>
 	<tagsDecl>
 	  <rendition id="quote">Paragraphs including q or quote
 	  elements indicate material that is in a block
@@ -1376,7 +1371,7 @@ IN E<hi rend="smallcap">VERYBODY'S</hi>hi> M<hi rend="smallcap">AGAZINE</hi></by
 <div2 id="Eaton036" type="poem" n="The Nightingales Of Flanders">
 <head rend="center">THE NIGHTINGALES OF FLANDERS</head>
 <byline rend="center"><docAuthor>GRACE HAZARD CONKLING</docAuthor><lb/>
-IN E<hi rend="smallcap">VERYBODY'S</hi> M<hi rend="smallcap">AGAZINE</hi></byline>
+<hi rend="smallcap">in Everybody's Magazine</hi></byline>
 <bibl rend="center">Permission to reproduce in this book.</bibl>
 
 <epigraph><q>"Le rossignol n'est pas mobilise."</q><bibl>--A French
@@ -1621,7 +1616,7 @@ Robert M. McBride &#x0026; Company, Publishers, New York. Copyright, 1918, Speci
 <l>And to so live that every one of us is ready to look</l>
 <l>Eternity in the face at any moment, and be unafraid!
 </l></lg></div2>
-<div2 id="Eaton041" type="poem" n="58">
+<div2 id="Eaton041a" type="poem" n="58">
 <head rend="center">RUNNER McGEE<lb/>
 (W<hi rend="smallcap">"HO</hi> H<hi rend="smallcap">AD</hi> "R<hi
 rend="smallcap">ETURN</hi> IF P<hi rend="smallcap">OSSIBLE</hi>" O<hi rend="smallcap">RDERS</hi>.)</head>
@@ -1688,7 +1683,7 @@ Here." Published and copyright, 1915, by The Reilly &#x0026; Britton Company, Ch
 <l rend="indent">It will help them to know that you know.'"
 </l></lg></div2>
 
-<div2 id="Eaton042" type="poem" n="The Soldier's Folks At Home">
+<div2 id="Eaton042a" type="poem" n="The Soldier's Folks At Home">
 <head rend="center">THE SOLDIER'S FOLKS AT HOME</head>
 <bibl rend="center"><hi rend="smallcap">From The Christian Herald</hi></bibl>
 <lg>
@@ -1749,7 +1744,7 @@ Here." Published and copyright, 1915, by The Reilly &#x0026; Britton Company, Ch
 <l rend="indent4">A little hill, a kind hill</l>
 <l rend="indent">To souls in jeopardy.</l></lg></div2>
 
-<div2 id="Eaton043" type="poem" m="Mike Dillon, Doughboy">
+<div2 id="Eaton043a" type="poem" m="Mike Dillon, Doughboy">
 <head rend="center">MIKE DILLON, DOUGHBOY</head>
 <byline rend="center"><docAuthor>LIEUT. JOHN PIERRE ROCHE</docAuthor></byline>
 <bibl>From Lieutenant Roche's hook of poems, 'times in Olive Drab,"
@@ -3894,7 +3889,7 @@ by the men overseas to mean death, is of peculiarly American origin. The Karok I
 <q rend ="center">Toward the Western shore<lb/>
 Soul after soul is known to take her flight.</q>
 Its later significance is tenderly sung by Eleanor Jewett in The Chicago Tribune</p>
-<div3 id="Eaton104" type="poem" n="Going West">
+<div3 id="Eaton104a" type="poem" n="Going West">
 <head rend="center">GOING WEST</head>
 <lg>
 <l n="1">WEST to the hills, the long, long trail that strikes </l>
@@ -3925,7 +3920,7 @@ Its later significance is tenderly sung by Eleanor Jewett in The Chicago Tribune
 </l></lg><pb n="124"/></div2>
 
 <div2 id="Eaton106" type="poem" n="On His Own">
-<head rend="center">ON HISOWN</head>
+<head rend="center">ON HIS OWN</head>
 <byline rend="center"><docAuthor>ADOLPHE E. SMYLIE</docAuthor><lb/>
 <hi rend="smallcap">OF The Vigilantes</hi></byline>
 <bibl rend="center">Permission to reproduce in this book</bibl>
@@ -3950,11 +3945,11 @@ Its later significance is tenderly sung by Eleanor Jewett in The Chicago Tribune
 <l>Sit quiet, hear their chatter."</l></lg>
 
 <lg>
-<l>"Pardonnez-moi, dtsirez-vous----" </l>
+<l>"Pardonnez-moi, d&#x00E9;sirez-vous----" </l>
 <l>Oh, fine and dandy! How are you?" </l>
 <l>"Quelque chose? Comprenez-vous ?----" </l>
 <l>"Ah now I know you're kiddin'." </l>
-<l>"Vous avez borine mine aujourd'hui----" </l>
+<l>"Vous avez bonne mine aujourd'hui----" </l>
 <l>"It's high time you were nice to me." </l>
 <l>"Time? Je comprends, il est midi----" </l>
 <l>"Bright eyes, I think I'm skiddin'."</l></lg>
@@ -3964,7 +3959,7 @@ Its later significance is tenderly sung by Eleanor Jewett in The Chicago Tribune
 <l>I'll back up anything you say----" </l>
 <l>"Un petit morceau de poulet----"</l>
 <l>"You fascinating creature!"</l><pb n="125"/>
-<l>"Avec le crême, dans la oquille,----"</l>
+<l>"Avec le cr&#x00EA;me, dans la coquille,----"</l>
 <l>"Rats! There she goes! I always feel </l>
 <l>Some blessy's S. 0. S. appeal </l>
 <l>Will call off my French teacher."</l></lg>
@@ -4020,7 +4015,7 @@ Its later significance is tenderly sung by Eleanor Jewett in The Chicago Tribune
 <l rend="indent">That freedom's children rise to call their home.
 </l></lg></div2>
 
-<div2 id="Eaton107" type="poem" n="Ships That Sail In The Night">
+<div2 id="Eaton107a" type="poem" n="Ships That Sail In The Night">
 <head rend="center">SHIPS THAT SAIL IN THE NIGHT</head>
 <byline rend="center"><docAuthor>DYSART McMULLEN</docAuthor>
 <hi rend="smallcap">IN Munsey's Magazine</hi></byline>
@@ -4814,7 +4809,7 @@ Prussian Major dead!</hi></l></lg><pb n="151"/></div2>
 <l>We're marchin' with the country in the mornin'!
 </l></lg><pb n="152"/></div2>
 
-<div2 id="Eaton124" type="poem" n="Do Your All">
+<div2 id="Eaton124a" type="poem" n="Do Your All">
 <head rend="center">DO YOUR ALL</head>
 <byline rend="center"><docAuthor>EDGAR A. GUEST</docAuthor></byline>
 

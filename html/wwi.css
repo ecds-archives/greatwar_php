@@ -68,10 +68,9 @@ div.sidebar { position: absolute;
 10px;
 	    }
 
-div.categories { background-color:  #ffffff; margin-top: 5px; padding:
-5px; border-style: double; font-size: 90%; }
-div.categories h3 { background-color: #aaae9f /* #718154*/ ; padding:
-2px; margin-top:0; margin-bottom:0;}
+div.content div.categories { font-size: 80%; margin-left: 1cm;}
+div.sidebar div.categories { background-color:  #ffffff; margin-top: 5px; padding: 5px; border-style: double; font-size: 90%; } 
+div.categories h3 { background-color: #aaae9f /* #718154*/ ; padding: 2px; margin-top:0; margin-bottom:0;}
 div.categories ul { display: none; margin-top: -5px; padding-bottom: 0; }
 div.categories li { list-style-type: none;  } 
 
@@ -98,9 +97,12 @@ div.indexsearch hr { width: 75%; }
 
 hr.floatright { width: 85%; float: right; vertical-align: middle;}
 
-table.postcardnav { width: 100%; text-align: left; font-size: 85%; }
+table.postcardnav, p.postcardnav  { width: 100%; text-align: left; font-size: 85%; }
 table.postcardnav td { text-align: left; }
 table.postcardnav td.maxdisplay { text-align: right; }
+p.postcardnav { font-size: 85%; }
+
+div.random_postcard { float: right; }
 
 table.maxdisplay { float: right; margin-right: 215px; font-size: 85%; }
 table.maxdisplay td { text-align: right; }
@@ -226,3 +228,4 @@ table.comment td { text-align: left; background-color: #ffffff; padding: 5px;}
 table.comment th { text-align: right; padding: 5px; border: none; vertical-align: top;}
 
 
+span.smallcaps { font-variant: small-caps; }

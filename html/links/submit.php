@@ -21,7 +21,7 @@ print '<div class="content">';
 
 $args = array('host' => $tamino_server,
 	      'db' => $tamino_db,
-	      'coll' => 'links',
+	      'coll' => $tamino_coll['links'],
 	      'debug' => false);
 $link = new aLinkRecord($args);
 

@@ -42,7 +42,7 @@ if (!(isset($url))||(!(isset($title)))||(!(isset($description)))
 
 $myargs = array('host' => $tamino_server,
 		'db' => $tamino_db,
-		'coll' => 'links',
+		'coll' => $tamino_coll['links'],
 		'url' => $url,
 		'title' => $title,
 		'description' => $description,

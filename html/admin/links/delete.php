@@ -23,7 +23,7 @@ print '<div class="content">
 
 $myargs = array('host' => $tamino_server,
 		  'db' => $tamino_db,
-		  'coll' => 'links',
+		  'coll' => $tamino_coll['links'],
 		  'id' => $id);
 $link = new aLinkRecord($myargs);
 // get the record so we can display useful feedback-- i.e., what was deleted

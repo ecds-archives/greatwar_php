@@ -20,7 +20,7 @@ $id = $_GET["id"];
 
 $args = array('host' => $tamino_server,
 	      'db' => $tamino_db,
-	      'coll' => 'links',
+	      'coll' => $tamino_coll['links'],
 	      'id' => $id);
 $link = new aLinkRecord($args);
 $link->taminoGetRecord();

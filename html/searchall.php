@@ -26,7 +26,7 @@ $args = array('host' => $tamino_server,
 	      'debug' => false);
 $search = array("postcards", "poetry", "links");
 foreach ($search as $s) {
-  $args["coll"] = $s;
+  $args["coll"] = $tamino_coll[$s];	// tamino collection
   if ($s == "links") {		// links needs a different arg & is a different object type
     $args["keyword"] = $kw;
     $db[$s] = new aLinkCollection($args);    

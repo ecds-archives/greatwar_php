@@ -33,7 +33,7 @@ $edit_desc = htmlentities($_GET["mod_desc"]);
 
 $myargs = array('host' => $tamino_server,
 		'db' => $tamino_db,
-		'coll' => 'links',
+		'coll' => $tamino_coll['links'],
 		'url' => $url,
 		'id' => $id,
 		'title' => $title,

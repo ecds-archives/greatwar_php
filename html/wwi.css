@@ -27,6 +27,7 @@ div.content {	position: relative;
 		z-index: 1;
 		overflow: visible;
 		min-height: 60%;
+		border: 2px solid blue;
 	    }
 
 /* Hide this from IE-mac \*/

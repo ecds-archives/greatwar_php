@@ -22,7 +22,7 @@ $subject = $_GET['subj'];
 
 $args = array('host' => $tamino_server,
 	      'db' => $tamino_db,
-	      'coll' => 'links',
+	      'coll' => $tamino_coll['links'],
 	      'limit_subject' => $subject[0],
 	      'sort' => $sort,
 	      'debug' => false);

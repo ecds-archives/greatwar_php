@@ -948,11 +948,11 @@ The richest harvests grow, </l>
 
 <div2 id="Eaton026" type="poem" n="The Blue And The Gray In France">
 <head rend="center">THE BLUE AND THE GRAY IN FRANCE</head>
-<byline rend="center"><docAuthor>GEORGE M. MAYO</docAuthor><byline>
+<byline rend="center"><docAuthor>GEORGE M. MAYO</docAuthor></byline>
 <l n="1">HERE'S to the Blue of the wind-swept North, </l>
 <l rend="indent2">When we meet on the fields of France; </l>
 <l>May the spirit of Grant be with you all</l>
-<l rend="indent2">As the sons of the North advance.</l></lg>
+<l rend="indent2">As the sons of the North advance.</l>
 
 <lg>
 <l>And here's to the Gray of the sun-kissed South, </l>
@@ -1446,9 +1446,9 @@ Robert M. McBride &#x0026; Company, Publishers, New York. Copyright, 1918, Speci
 </l></lg></div2>
 
 <div2 id="Eaton040" type="poem" n="Christ In Flanders">
-<head rend="center">CHRIST IN FLANDERS</l>
+<head rend="center">CHRIST IN FLANDERS</head>
 <byline rend="cneter">L. W.<lb/>
- IN T<hi rend="smallcap">HE</hi> S<hi rend="smallcap"PECTATOR</hi></byline>
+ IN T<hi rend="smallcap">HE</hi> S<hi> rend="smallcap"PECTATOR</hi></byline>
 <lg>
 <l n="1">WE had forgotten You, or very nearly--</l>
 <l>You did not seem to touch us very nearly--</l>
@@ -1527,7 +1527,7 @@ Robert M. McBride &#x0026; Company, Publishers, New York. Copyright, 1918, Speci
 <head rend="center">RUNNER McGEE<lb/>
 (W<hi rend="smallcap">"HO</hi> H<hi rend="smallcap">AD</hi> "R<hi
 rend="smallcap">ETURN</hi> IF P<hi rend="smallcap">OSSIBLE</hi>" O<hi rend="smallcap">RDERS</hi>.)</head>
-<byline rend="center"<docAuthor>EDGAR A. GUEST</docAuthor></byline>
+<byline rend="center"><docAuthor>EDGAR A. GUEST</docAuthor></byline>
 <bibl>From Edgar A. Guest's book of war time rhymes, entitled "Over
 Here." Published and copyright, 1915, by The Reilly &#x0026; Britton Company, Chicago. Special permission to insert in this book.</bibl>
 
@@ -1593,7 +1593,7 @@ Here." Published and copyright, 1915, by The Reilly &#x0026; Britton Company, Ch
 <div2 id="Eaton042" type="poem" n="The Soldier's Folks At Home">
 <head rend="center">THE SOLDIER'S FOLKS AT HOME</head>
 <bibl rend="center"><hi rend="smallcap">From The Christian Herald</hi></bibl>
-<Lg>
+<lg>
 <l n="1">WE often sit upon the porch on sultry August nights, </l>
 <l>When fireflies out upon the lawn are soft enchanted lights</l>
 <l>From Fairyland; when, far away, a vagrant nightingale</l>
@@ -1620,7 +1620,7 @@ Here." Published and copyright, 1915, by The Reilly &#x0026; Britton Company, Ch
 <l>And no one speaks, for each one dreams and plans, perhaps, and strays,</l>
 <l>A wanderer through years to come, a ghost through bygone days,</l>
 <l>And as the stars far in the sky come shining softly through,</l>
-<l>My heart and soul are all one prayer--one silver prayer for you<l></lg></div2>
+<l>My heart and soul are all one prayer--one silver prayer for you</l></lg></div2>
 
 <div2 id="Eaton043" type="poem" n="Three Hills">
 <head rend="center">THREE TREES</head>
@@ -1711,8 +1711,8 @@ Robert M. McBride &#x0026; Company, Publishers, New York. Copyright,
 
 <div2 id="Eaton044" type="poem" n="When The French Band Plays">
 <head rend="center">WHEN THE FRENCH BAND PLAYS</head>
-<byline rend="center"><docAuthor>ANONYMOUS</docAuthor><lb/>
-<<bibl rend="center"><hi rend="smallcap">The Stars And Stripes, A.E.F., France</hi></bibl>
+<byline rend="center"><docAuthor>ANONYMOUS</docAuthor></byline>
+<bibl rend="center"><hi rend="smallcap">The Stars And Stripes, A.E.F., France</hi></bibl>
 <lg>
 <l n="1">THERE'S a military band that plays, on Sunday afternoons,</l>
 <l rend="indent">In a certain nameless city's quaint old square.</l>
@@ -2744,7 +2744,7 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 
 <div2 id="Eaton072" type="poem" n="The Woman's Game">
 <head rend="center">THE WOMAN'S GAME</head>
-<byline rend="center"AUTHORSHIP NOT KNOWN</byline>
+<byline rend="center">AUTHORSHIP NOT KNOWN</byline>
 <lg>
 <l n="1">WAS there ever a game we did not share,</l>
 <l rend="7">Brother of mine?</l>
@@ -4068,7 +4068,7 @@ doom.</l></lg><pb n="130"/>
 <l>And for the brave Americans we pluck this goldenrod."
 </l></lg></div2>
 <div2 id="Eaton111" type="poem" n="Magpies In Picardy">
-<head rend="center">MAGPIES IN PICARDY</l>
+<head rend="center">MAGPIES IN PICARDY</head>
 <byline rend="center">"TIPCUCA"<lb/>
 <hi rend="smallcap">IN The Westminster Gazette</hi></byline>
 
@@ -4192,7 +4192,7 @@ doom.</l></lg><pb n="130"/>
 <l>And nothing mattered, save that suns and moons </l>
 <l>Swung in the ether for unnumbered worlds </l>
 <l>High above the pebble of the earth.
-</l></lg><pb n="134</div2>
+</l></lg><pb n="134"/></div2>
 
 <div2 id="Eaton114" type="poem" n="The Songs Of The Guns">
 <head rend="center">THE SONG OF THE GUNS</head>
@@ -6168,10 +6168,10 @@ then,</l></lg><pb n="194"/>
 <lg>
 <l>Paint us a canvas, soldier, a picture of fire and flame!</l>
 <l>Men, mad with the lust of killing, playing their grisly game!</l>
-<l>Show us the dead--strewn hillsides, guarding the blood-drenched plain,</l>
+<l>Show us the dead-strewn hillsides, guarding the blood-drenched plain,</l>
 <l>A picture of war's grim horrors. And then, oh, soldier, then,</l></lg>
 <lg>
-<l>Draw is the white--capped nurses, doctors with skilful hands,</l>
+<l>Draw is the white-capped nurses, doctors with skilful hands,</l>
 <l>Counting their lives as nothing when human need demands</l>
 <l>All that they have to offer. Paint us the women and men</l>
 <l>Who bring the joy of living back to our hearts again.</l></lg>
@@ -6480,4 +6480,4 @@ ages, </l>
 <l>In memory of the faith they kept, </l>
 <l>Here through the ages all the land </l>
 <l>As honor guard on watch will stand!</l>
-</lg></div2><div1>
+</lg></div2></div1>

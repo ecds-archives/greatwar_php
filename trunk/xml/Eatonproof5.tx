@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="emacs-mule"?>
 <div1 id="Eaton001" type="Anthology" n="Great War Poems of the World War">
 <head rend="center">GREAT POEMS OF THE WORLD WAR</head>
 <div2 id ="Eaton002"  type="poem"  n="Before Action">
@@ -1039,35 +1038,35 @@ of "With the Colors," by Everard Jack Appleton. Copyright. 1917.</bibl>
 <l>An' joshed the farmer and his hired hand!</l></lg>
 <lg rend="indent11"><lg>
 <l>Now it's, "Save the country, Farmer!</l>
-<l >Be a soldier of the soil!</l>
+<l rend="indent">Be a soldier of the soil!</l>
 <l>Show your patriotism, pardner,</l>
-<l >By your never ending toil." </l>
+<l rend="indent">By your never ending toil." </l>
 <l>So we're croppin' more than ever,</l>
-<l >An' we're speedin' up the farm.</l>
+<l rend="indent">An' we're speedin' up the farm.</l>
 <l>Oh, it's great to be a soldier,-- </l>
 <l>sweatin' sun-burnt soldier,--</l>
 <l>A soldier in the furrows--</l>
-<l >Away from "war's alarm!"</l></lg>
+<l rend="indent">Away from "war's alarm!"</l></lg>
 
 <lg>
 <l>While fightin' blight and blister,</l>
-<l >We hardly get a chance</l>
+<l rend="indent">We hardly get a chance</l>
 <l>To read about our "comrades"</l>
-<l >A-doin' things in France.</l>
+<l rend="indent">A-doin' things in France.</l>
 <l>To raise the grub to feed 'em</l>
-<l >Is some job, believe me--plus!</l>
+<l rend="indent">Is some job, believe me--plus!</l>
 <l>And I ain't so sure a soldier--</l>
 <l>A shootin', scrappin' soldier, </l>
 <l>That's livin' close to dyin'--</l>
-<l >Ain't got the best of us!</l></lg>
+<l rend="indent">Ain't got the best of us!</l></lg>
 
 <lg>
 <l>But we'll harrer and we'll harvest,</l>
-<l >An' we'll meet this new demand</l>
+<l rend="indent">An' we'll meet this new demand</l>
 <l>Like the farmers always meet it--</l><pb n="45"/>
-<l >The farmers--and the land. </l>
+<l rend="indent">The farmers--and the land. </l>
 <l>An' we hope, when it is over </l>
-<l >An' this war has gone to seed, </l>
+<l rend="indent">An' this war has gone to seed, </l>
 <l>You will know us soldiers better--</l>
 <l>Th' sweatin', reapin' soldiers, </l>
 <l>Th' soldiers that have hustled</l>
@@ -1087,23 +1086,23 @@ IN T<hi rend="smallcap">HE</hi> C<hi rend="smallcap">ATHOLIC</hi> S<hi
 rend="smallcap">CHOOL</hi> J<hi rend="smallcap">OURNAL</hi></byline>
 <lg>
 <l n="1">HAIL, banner of our holy faith,</l>
-<l >Redemption's sacred sign,</l>
+<l rend="indent">Redemption's sacred sign,</l>
 <l>Sweet emblem thou of heavenly hope </l>
-<l >And of all help divine,</l>
+<l rend="indent">And of all help divine,</l>
 <l>We bare our heads in reverence</l>
-<l >As o'er us is unfurled</l>
+<l rend="indent">As o'er us is unfurled</l>
 <l>The standard of the Cross of Christ </l>
-<l >Whose blood redeemed the world.</l></lg>
+<l rend="indent">Whose blood redeemed the world.</l></lg>
 
 <lg>
 <l>Hail, banner of our native land, </l>
-<l >Great ensign of the free,</l>
+<l rend="indent">Great ensign of the free,</l>
 <l>We love thy glorious Stars and Stripes, </l>
-<l >Emblem of liberty;</l>
+<l rend="indent">Emblem of liberty;</l>
 <l>Lift high the cross, unfurl the flag; </l>
-<l >May they forever stand</l>
+<l rend="indent">May they forever stand</l>
 <l>United in our hearts and hopes, </l>
-<l >God and our native land.
+<l rend="indent">God and our native land.
 </l></lg><pb n="46"/></div2>
 
 <div2 id="Eaton031" type="poem" n="The Road To France">
@@ -1172,9 +1171,9 @@ IN THE CHICAGO TRIBUNE</byline>
 
 <lg>
 <l>Perhaps upon the self-same spot </l>
-<l >Where He first lifted up His head, </l>
+<l rend="indent">Where He first lifted up His head, </l>
 <l>In cellar straw and manger cot,</l>
-<l >Now Freedom's hosts are billeted.</l></lg>
+<l rend="indent">Now Freedom's hosts are billeted.</l></lg>
 
 <lg>
 <l>Then 'twas a life--now myriad death. </l>
@@ -1189,42 +1188,42 @@ rend="smallcap">EWS</hi>, S<hi rend="smallcap">AULT</hi> S<hi
 rend="smallcap">TE.</hi> M<hi rend="smallcap">ARIE</hi></byline>
 <lg>
 <l n="1">OUTSIDE the ancient city's gate </l>
-<l >Upon Golgotha's crest</l>
+<l rend="indent">Upon Golgotha's crest</l>
 <l>Three crosses stretched their empty arms, </l>
-<l >Etched dark against the west.</l>
+<l rend="indent">Etched dark against the west.</l>
 <l>And blood from nail--pierced hands and feet </l>
-<l >And tortured thorn-crowned head</l>
+<l rend="indent">And tortured thorn-crowned head</l>
 <l>And thrust of hatred's savage spear </l>
-<l >Had stained one dark cross red.</l>
+<l rend="indent">Had stained one dark cross red.</l>
 <l>Emblem of shame and pain and death </l>
-<l >It stood beside the way,</l>
+<l rend="indent">It stood beside the way,</l>
 <l>But sign of love and hope and life </l>
-<l >We lift it high today.</l></lg>
+<l rend="indent">We lift it high today.</l></lg>
 
 <lg>
 <l>Where horror grips the stoutest heart, </l>
-<l >Where bursting shells shriek high,</l>
+<l rend="indent">Where bursting shells shriek high,</l>
 <l>Where human bodies shrapnel scourged</l>
-<l >By thousands suffering lie;</l>
+<l rend="indent">By thousands suffering lie;</l>
 <l>Threading the shambles of despair, </l>
-<l >Mid agony and strife,</l>
+<l rend="indent">Mid agony and strife,</l>
 <l>Come fleetest messengers who wear </l>
-<l >The crimson cross of life.</l>
+<l rend="indent">The crimson cross of life.</l>
 <l>To friend and foe alike they give </l>
-<l >Their strength and healing skill,</l>
+<l rend="indent">Their strength and healing skill,</l>
 <l>For those who wear the crimson cross </l>
-<l >Must "do the Master's will."</l></lg>
+<l rend="indent">Must "do the Master's will."</l></lg>
 <lg>
 <l>Can we, so safely sheltered here, </l>
-<l >Refuse to do our part?</l>
+<l rend="indent">Refuse to do our part?</l>
 <l>When some who wear the crimson cross </l>
-<l >Are giving life and heart</l>
+<l rend="indent">Are giving life and heart</l>
 <l>To succor those who bear our flag,</l><pb n="49"/>
-<l >Who die that we may live</l>
+<l rend="indent">Who die that we may live</l>
 <l>Shall we accept their sacrifice </l>
-<l >And then refuse to give? </l>
+<l rend="indent">And then refuse to give? </l>
 <l>Ah, no! Our debt to God and man </l>
-<l >We can, we will fulfill, </l>
+<l rend="indent">We can, we will fulfill, </l>
 <l>For we, who wear the crimson cross,</l>
 <l> Must "do the Master's will."
 </l></lg></div2>
@@ -1237,25 +1236,25 @@ IN E<hi rend="smallcap">VERYBODY'S</hi>hi> M<hi rend="smallcap">AGAZINE</hi></by
 
 <lg>
 <l n="1">UP among the chimneys tall</l>
-<l >Lay the garret of Pierrot.</l>
+<l rend="indent">Lay the garret of Pierrot.</l>
 <l>Here came trooping to his call</l>
-<l >Fancies no one else might know;</l>
+<l rend="indent">Fancies no one else might know;</l>
 <l>Here he bade the spiders spin</l>
 <l>Webs to hide his treasure in.</l></lg>
 
 <lg>
 <l>Here he heard the night wind croon</l>
-<l >Slumber-songs for sleepyheads;</l>
+<l rend="indent">Slumber-songs for sleepyheads;</l>
 <l>Here he spied the spendthrift moon</l>
-<l >Strew her silver on the leads;</l>
+<l rend="indent">Strew her silver on the leads;</l>
 <l>Here he wove a coronet</l>
 <l>Of quaint lyrics for Pierrette.</l></lg>
 
 <lg>
 <l>But the bugles blew him down</l>
-<l >To the fields with war beset;</l>
+<l rend="indent">To the fields with war beset;</l>
 <l>Marched him past the quiet town,</l>
-<l >Past the window of Pierrette;</l>
+<l rend="indent">Past the window of Pierrette;</l>
 <l>Comrade now of sword and lance,</l>
 <l>Pierrot gave his dreams to France.
 </l></lg><pb n="50"/></div2>
@@ -1273,8 +1272,8 @@ IN E<hi rend="smallcap">VERYBODY'S</hi>hi> M<hi rend="smallcap">AGAZINE</hi></by
 <lg>
 <l>Yet greet for us our fatherland, </l>
 <l>And kiss for us her sacred strand.</l>
-<l >These mounds shall tell the years to be</l>
-<l >Of men who died to make her free.
+<l rend="indent">These mounds shall tell the years to be</l>
+<l rend="indent">Of men who died to make her free.
 </l></lg></div2>
 
 <div2 id="Eaton036" type="poem" n="The Nightingales Of Flanders">
@@ -1286,27 +1285,27 @@ IN E<hi rend="smallcap">VERYBODY'S</hi> M<hi rend="smallcap">AGAZINE</hi></bylin
 <epigraph>"Le rossignol n'est pas mobilise."--A French Soldier</epigraph>
 <lg>
 <l>THE nightingales of Flanders,</l>
-<l >They had not gone to war;</l>
+<l rend="indent">They had not gone to war;</l>
 <l>A soldier heard them singing</l>
-<l >Where they had sung before.</l></lg>
+<l rend="indent">Where they had sung before.</l></lg>
 
 <lg>
 <l>The earth was torn and quaking,</l>
-<l >The sky about to fall;</l>
+<l rend="indent">The sky about to fall;</l>
 <l>The nightingales of Flanders,</l>
-<l >They minded not at all.</l></lg><pb n="51"/>
+<l rend="indent">They minded not at all.</l></lg><pb n="51"/>
 
 <lg>
 <l>At intervals we heard them</l>
-<l >Between the guns, he said,</l>
+<l rend="indent">Between the guns, he said,</l>
 <l>Making a thrilling music</l>
-<l >Above the listening dead.</l></lg>
+<l rend="indent">Above the listening dead.</l></lg>
 
 <lg>
 <l>Of woodland and of orchard</l>
-<l >And roadside tree bereft,</l>
+<l rend="indent">And roadside tree bereft,</l>
 <l>The nightingales of Flanders</l>
-<l >Were singing "France is left!"
+<l rend="indent">Were singing "France is left!"
 </l></lg></div2>
 
 <div2 id="Eaton037" type="poem" n="The Widow">
@@ -1317,21 +1316,21 @@ IN E<hi rend="smallcap">VERYBODY'S</hi> M<hi rend="smallcap">AGAZINE</hi></bylin
 
 <lg>
 <l n="1">My heart is numb with sorrow;</l>
-<l >The long days dawn and wane;</l>
+<l rend="indent">The long days dawn and wane;</l>
 <l>To me no sweet tomorrow</l>
-<l >Will bring my man again.</l></lg>
+<l rend="indent">Will bring my man again.</l></lg>
 
 <lg>
 <l>Yet must my grief be hidden--</l>
-<l >Life makes insistent claim, </l>
+<l rend="indent">Life makes insistent claim, </l>
 <l>And women, anguish-ridden,</l>
-<l >Their rebel hearts must tame.</l></lg>
+<l rend="indent">Their rebel hearts must tame.</l></lg>
 
 <lg>
 <l>For while, my vigil keeping, </l>
-<l >I face the eternal law, </l>
+<l rend="indent">I face the eternal law, </l>
 <l>Here on my breast lies sleeping</l>
-<l >The son he never saw.
+<l rend="indent">The son he never saw.
 </l></lg><pb n="52"/></div2>
 
 <div2 id="Eaton038" type="poem" n="Pershing At The Tomb Of Lafayette">
@@ -1453,53 +1452,53 @@ Robert M. McBride &#x0026; Company, Publishers, New York. Copyright, 1918, Speci
 <lg>
 <l n="1">WE had forgotten You, or very nearly--</l>
 <l>You did not seem to touch us very nearly--</l>
-<l >Of course we thought about You now and then; </l>
+<l rend="indent">Of course we thought about You now and then; </l>
 <l>Especially in any time of trouble--</l>
 <l>We knew that You were good in time of trouble--</l>
-<l >But we are very ordinary men.</l></lg>
+<l rend="indent">But we are very ordinary men.</l></lg>
 <lg>
 <l>And there were always other things to think of--</l>
 <l>There's lots of things a man has got to think of--</l>
-<l >His work, his home, his pleasure, and his wife; </l>
+<l rend="indent">His work, his home, his pleasure, and his wife; </l>
 <l>And so we only thought of You on Sunday--</l>
 <l>Sometimes, perhaps, not even on a Sunday--</l>
-<l >Because there's always lots to fill one's life.</l></lg><pb n="56"/>
+<l rend="indent">Because there's always lots to fill one's life.</l></lg><pb n="56"/>
 <lg>
 <l>And, all the while, in the street or lane or byway--</l>
 <l>In country lane, in city street, or byway--</l>
-<l >You walked among us, and we did not see.</l>
+<l rend="indent">You walked among us, and we did not see.</l>
 <l>Your feet were bleeding as You walked our pavements--</l>
 <l>How<hi rend="italic"> did</hi> we miss Your Footprints on our pavements--</l>
-<l >Can there be other folk as blind as we?</l></lg>
+<l rend="indent">Can there be other folk as blind as we?</l></lg>
 <lg>
 <l><hi rend="italic">Now</hi> we remember; over here in Flanders</l>
 <l>(It isn't strange to think of You in Flanders)--</l>
-<l >This hideous warfare seems to make things clear.</l>
+<l rend="indent">This hideous warfare seems to make things clear.</l>
 <l>We never thought about You much in England--</l>
 <l>But now that we are far away from England--</l>
-<l >We have no doubts, we know that You are here.</l></lg>
+<l rend="indent">We have no doubts, we know that You are here.</l></lg>
 
 <lg>
 <l>You helped us pass the jest along the trenches--</l>
 <l>Where, in cold blood, we waited in the trenches--</l>
-<l >You touched its ribaldry and made it fine.</l>
+<l rend="indent">You touched its ribaldry and made it fine.</l>
 <l>You stood beside us in our pain and weakness--</l>
 <l>We're glad to think You understand our weakness--</l>
-<l >Somehow it seems to help us not to whine.</l></lg>
+<l rend="indent">Somehow it seems to help us not to whine.</l></lg>
 <lg>
 <l>We think about You kneeling in the Garden--</l>
 <l>Ah! God! the agony of that dread Garden--</l>
-<l >We know You prayed for us upon the Cross.</l>
+<l rend="indent">We know You prayed for us upon the Cross.</l>
 <l>If anything could make us glad to bear it--</l>
 <l>'Twould he the knowledge that You willed to bear it--</l>
-<l >Pain--death--the uttermost of human loss.</l></lg>
+<l rend="indent">Pain--death--the uttermost of human loss.</l></lg>
 <lg>
 <l>Ihouh we forgot You--You will not forget us--</l>
 <l>We feel so sure that You will not forget us--</l>
-<l >But stay with us until this dream is past. </l>
+<l rend="indent">But stay with us until this dream is past. </l>
 <l>And so we ask for courage, strength, and pardon--</l>
 <l>Especially, I think, we ask for pardon--</l>
-<l >And that You'll stand beside us to the last.
+<l rend="indent">And that You'll stand beside us to the last.
 </l></lg><pb n="57"/></div2>
 
 <div2 id="Eaton041" type="poem" n="An American Creed">
@@ -1534,61 +1533,61 @@ Here." Published and copyright, 1915, by The Reilly &#x0026; Britton Company, Ch
 
 <lg>
 <l n="1">YOU'VE heard a good deal of the telephone wires,"</l>
-<l > He said as we sat at our ease,</l>
+<l rend="indent"> He said as we sat at our ease,</l>
 <l>And talked of the struggle that's taking men's lives </l>
-<l >In these terrible days o'er the seas,</l>
+<l rend="indent">In these terrible days o'er the seas,</l>
 <l>"But I've been through the thick of the thing </l>
-<l >And I know when a battle's begun</l>
+<l rend="indent">And I know when a battle's begun</l>
 <l>It isn't the 'phone you depend on for help.</l>
-<l >It's the legs of a boy who can run.</l></lg><pb n="58"/>
+<l rend="indent">It's the legs of a boy who can run.</l></lg><pb n="58"/>
 
 <lg>
 <l>It isn't because of the 'phone that I'm here. </l>
-<l >Today you are talking to me</l>
+<l rend="indent">Today you are talking to me</l>
 <l>Because of the grit and the pluck of a boy. </l>
-<l >His title was Runner McGee.</l>
+<l rend="indent">His title was Runner McGee.</l>
 <l>We were up to our dead line an' fighting alone;</l>
-<l >Some plan had miscarried, I guess,</l>
+<l rend="indent">Some plan had miscarried, I guess,</l>
 <l>And the help we were promised had failed to arrive. </l>
-<l >We were showing all signs of distress.</l></lg>
+<l rend="indent">We were showing all signs of distress.</l></lg>
 
 <lg>
 <l>"Our curtain of fire was ahead of us still, </l>
-<l >An' theirs was behind us an' thick,</l>
+<l rend="indent">An' theirs was behind us an' thick,</l>
 <l>An' there wasn't a thing we could do for ourselves</l>
-<l >The few of us left had to stick.</l>
+<l rend="indent">The few of us left had to stick.</l>
 <l>You haven't much chance to get central an' talk </l>
-<l >On the 'phone to the music of guns;</l>
+<l rend="indent">On the 'phone to the music of guns;</l>
 <l>Getting' word to the chief is a matter right then </l>
-<l >That is up to the fellow who runs.</l></lg>
+<l rend="indent">That is up to the fellow who runs.</l></lg>
 
 <lg>
 <l>"I'd sent four of 'em back with the R. I. P. sign, </l>
-<l >Which means to return if you can,</l>
+<l rend="indent">Which means to return if you can,</l>
 <l>But none of 'em got through the curtain of fire; </l>
-<l >My hurry call died with the man.</l>
+<l rend="indent">My hurry call died with the man.</l>
 <l>Then Runner McGee said he'd try to get through.</l>
-<l >I hated to order the kid</l>
+<l rend="indent">I hated to order the kid</l>
 <l>On his mission of death; thought he'd never get by, </l>
-<l >But somehow or other he did.</l></lg>
+<l rend="indent">But somehow or other he did.</l></lg>
 <lg>
 <l>"Yes, he's dead. Died an hour after bringing us word </l>
-<l >That the chief was aware of our plight,</l>
+<l rend="indent">That the chief was aware of our plight,</l>
 <l>An' for us to hang onto the ditch that we held; </l>
-<l >The reserves would relieve us at night.</l>
+<l rend="indent">The reserves would relieve us at night.</l>
 <l>Then we stuck to our trench an' we stuck to our guns; </l>
-<l >You know how you'll fight when you know</l>
+<l rend="indent">You know how you'll fight when you know</l>
 <l>That new strength is coming to fill up the gaps. </l>
-<l >There's heart in the force of your blow.</l></lg><pb n="59"/>
+<l rend="indent">There's heart in the force of your blow.</l></lg><pb n="59"/>
 <lg>
 <l>"It wasn't till later I got all the facts.</l>
-<l >They wanted McGee to remain.</l>
+<l rend="indent">They wanted McGee to remain.</l>
 <l>They begged him to stay. He had cheated death once,</l>
-<l >An' was foolish to try it again.</l>
+<l rend="indent">An' was foolish to try it again.</l>
 <l>'R. I. P. are my orders,' he answered them all,</l>
-<l >'An' back to the boys I must go;</l>
+<l rend="indent">'An' back to the boys I must go;</l>
 <l>Four of us died comin' out with the news.</l>
-<l >It will help them to know that you know.'"
+<l rend="indent">It will help them to know that you know.'"
 </l></lg></div2>
 
 <div2 id="Eaton042" type="poem" n="The Soldier's Folks At Home">
@@ -1630,27 +1629,27 @@ Here." Published and copyright, 1915, by The Reilly &#x0026; Britton Company, Ch
 &#x0026; Jackson, ltd., Publishers, London, England.  Special permission to inert in this book.</bibl>
 <lg>
 <l n="1">THERE is a hill in England</l>
-<l >Green fields and a school I konw,</l>
+<l rend="indent">Green fields and a school I konw,</l>
 <l>Where the balls fly fast in summer,</l>
-<l >And the whispering elm-trees grow,</l>
+<l rend="indent">And the whispering elm-trees grow,</l>
 <l rend="indent4">A little hill, a dear hill,</l>
-<l >And the playing fields below.</l></lg><pn n="61"/>
+<l rend="indent">And the playing fields below.</l></lg><pn n="61"/>
 
 <lg>
 <l>There is a hill in Flanders,</l>
-<l >Heaped with a thousand slain,</l>
+<l rend="indent">Heaped with a thousand slain,</l>
 <l>Where the shells fly night and noontide</l>
-<l >And the ghosts that died in vain--</l>
+<l rend="indent">And the ghosts that died in vain--</l>
 <l rend="indent4">A little hill, a hard hill,</l>
-<l >To the souls that died in pain.
+<l rend="indent">To the souls that died in pain.
 </l></lg>
 <lg>
 <l>There is a hill in Jewry,</l>
-<l >Three crosses pierce the sky,</l>
+<l rend="indent">Three crosses pierce the sky,</l>
 <l>On the midmost He is dying</l>
-<l >To save all those who die--</l>
+<l rend="indent">To save all those who die--</l>
 <l rend="indent4">A little hill, a kind hill</l>
-<l >To souls in jeopardy.</l></lg></div2>
+<l rend="indent">To souls in jeopardy.</l></lg></div2>
 
 <div2 id="Eaton043" type="poem" m="Mike Dillon, Doughboy">
 <head rend="center">MIKE DILLON, DOUGHBOY</head>
@@ -1661,53 +1660,53 @@ Robert M. McBride &#x0026; Company, Publishers, New York. Copyright,
 <note>"Doughboy" is an old nickname for a United States infantryman. When our army went into what is now New Mexico, Arizona and California to quiet the Mexicans hostilities that preceded the war of 1846, the infantry fell into a way of camping in houses built by the natives with sun--dried bricks of adobe mud. The cavalry, having to lie in the open with the horses, were joked thereat and came back by calling the infantry dobie boys. The name stuck and by an easy slide arrived at the present form.</note>
 <lg>
 <l n="1">MIKE DILLON was a doughboy </l>
-<l >And wore the issue stuff; </l>
+<l rend="indent">And wore the issue stuff; </l>
 <l>He wasn't much to look at--</l>
-<l >In fact, was rather rough;</l>
+<l rend="indent">In fact, was rather rough;</l>
 <l>He served his time as rookie</l>
-<l >At drilling in the sun, </l>
+<l rend="indent">At drilling in the sun, </l>
 <l>And cleared a lot of timber</l>
-<l >And polished up his gun.</l></lg>
+<l rend="indent">And polished up his gun.</l></lg>
 
 <lg>
 <l>Mike Dillon was a private</l>
-<l >With all the word entails;</l><pb n="62"/>
+<l rend="indent">With all the word entails;</l><pb n="62"/>
 <l>He cussed and chewed tobacco</l>
-<l >And overlooked his nails.</l>
+<l rend="indent">And overlooked his nails.</l>
 <l>You never saw Mike Dillon</l>
-<l >At dances ultra nice;</l>
+<l rend="indent">At dances ultra nice;</l>
 <l>In fact, inspection found him</l>
-<l >Enjoying body lice.</l></lg>
+<l rend="indent">Enjoying body lice.</l></lg>
 
 <lg>
 <l>If Mike had married money</l>
-<l >Or had a little drag,</l>
+<l rend="indent">Or had a little drag,</l>
 <l>He might have got a brevet</l>
-<l >And missed a little "fag"</l>
+<l rend="indent">And missed a little "fag"</l>
 <l>But as a social figure</l>
-<l >He simply wasn't there--</l>
+<l rend="indent">He simply wasn't there--</l>
 <l>So Mike continued drilling</l>
-<l >And knifing up his fare.</l></lg>
+<l rend="indent">And knifing up his fare.</l></lg>
 
 <lg>
 <l>In course of time they shipped 'em</l>
-<l >And shipped 'em over where</l>
+<l rend="indent">And shipped 'em over where</l>
 <l>A man like Mike can sidestep</l>
-<l >The frigid social stare,</l>
+<l rend="indent">The frigid social stare,</l>
 <l>And do the job of soldier</l>
-<l >Without the fancy frills,</l>
+<l rend="indent">Without the fancy frills,</l>
 <l>And keep a steady footing</l>
-<l >In the pace that really kills.</l></lg>
+<l rend="indent">In the pace that really kills.</l></lg>
 
 <lg>
 <l>Now Mike did nothing special;</l>
-<l >He only did his best:</l>
+<l rend="indent">He only did his best:</l>
 <l>He stuck and "went on over"--</l>
-<l >And got it in the chest;</l>
+<l rend="indent">And got it in the chest;</l>
 <l>He played it fair and squarely</l>
-<l >Without a social air,</l>
+<l rend="indent">Without a social air,</l>
 <l>And Mike is now in heaven</l>
-<l >And at least a corporal there!
+<l rend="indent">And at least a corporal there!
 </l></lg><pb n="63"/></div2>
 
 <div2 id="Eaton044" type="poem" n="When The French Band Plays">
@@ -1716,32 +1715,32 @@ Robert M. McBride &#x0026; Company, Publishers, New York. Copyright,
 <<bibl rend="center"><hi rend="smallcap">The Stars And Stripes, A.E.F., France</hi></bibl>
 <lg>
 <l n="1">THERE'S a military band that plays, on Sunday afternoons,</l>
-<l >In a certain nameless city's quaint old square.</l>
+<l rend="indent">In a certain nameless city's quaint old square.</l>
 <l>It can rouse the blood to battle with its patriotic tunes,</l>
-<l >And still render hymns as gentle as a prayer.</l>
+<l rend="indent">And still render hymns as gentle as a prayer.</l>
 <l>When it starts "Ave Maria" there is no one in the throng</l>
-<l >But would doff his cap, his heart to heaven raise;</l>
+<l rend="indent">But would doff his cap, his heart to heaven raise;</l>
 <l>And who would shrink from combat when, with brasses sounding strong,</l>
-<l >There is flung out on the breeze "La Marseillaise"?</l></lg>
+<l rend="indent">There is flung out on the breeze "La Marseillaise"?</l></lg>
 <lg>
 <l>When it starts to render "Sambre et Meuse," the march that won the day</l>
-<l >At the battle of the Marne, one sees again</l>
+<l rend="indent">At the battle of the Marne, one sees again</l>
 <l>The grey-green hosts of Hundom melt before the stern array</l>
-<l >Of our gallant sister-ally's blue-clad men.</l>
+<l rend="indent">Of our gallant sister-ally's blue-clad men.</l>
 <l>And when it plays our Anthem, with rendition bold and clear--</l>
-<l >While the khaki lads stand steady--then we feel</l>
+<l rend="indent">While the khaki lads stand steady--then we feel</l>
 <l>That, though tongues and ways may vary, we've found brothers over here,</l>
-<l >Tried in war, and in allegiance true as steel.</l></lg>
+<l rend="indent">Tried in war, and in allegiance true as steel.</l></lg>
 
 <lg>
 <l>For it's olive-drab, horizon-blue, packed closely side by side,</l>
-<l >Till their colors set ablaze the grey old square;</l>
+<l rend="indent">Till their colors set ablaze the grey old square;</l>
 <l>And it's olive-drab, horizon-blue, whatever may betide,</l>
-<l >That will blaze the way to victory "up there."</l>
+<l rend="indent">That will blaze the way to victory "up there."</l>
 <l>So, while standing thus together, let us pledge anew our troth</l>
-<l >To the Cause--the world set free!--for which we fight.</l>
+<l rend="indent">To the Cause--the world set free!--for which we fight.</l>
 <l>As the evening twilight gilds the ranks of blue and khaki both,</l>
-<l >And the the bugles die away into the night
+<l rend="indent">And the the bugles die away into the night
 </l></lg><pb n="64"/></div2>
 
 <div2 id="Eaton045" type="poem" n="The Old Gang On The Corner">
@@ -1815,42 +1814,42 @@ IN<hi rend="smallcap">Collier'S Weekly</hi></byline>
 <hi rend="smallcap">IN The Stars And Stripes, A.E.F., France</hi></byline>
 <lg>
 <l n="1">WE never were made to be seen on parade</l>
-<l >When sweethearts and such line the streets;</l>
+<l rend="indent">When sweethearts and such line the streets;</l>
 <l>When the band starts to blare, look for us we ain't there--</l>
-<l >We're mussing around with the eats.</l>
+<l rend="indent">We're mussing around with the eats.</l>
 <l>It's fun to step out to the echoing shout</l>
-<l >Of a crowd that forgets how you're fed,</l>
+<l rend="indent">Of a crowd that forgets how you're fed,</l>
 <l>While we're soiling our duds hacking eyes out of spuds--</l>
-<l >You know what Napoleon said.</l></lg>
+<l rend="indent">You know what Napoleon said.</l></lg>
 
 <lg>
 <l>When the mess sergeant's gay, you can bet hell's to pay</l>
-<l >For the boys who are standing in line;</l>
+<l rend="indent">For the boys who are standing in line;</l>
 <l>When the boys get a square, then the sergeant is there</l>
-<l >With your death warrant ready to sign.</l>
+<l rend="indent">With your death warrant ready to sign.</l>
 <l>If you're long on the grub, then you're damned for a dub,</l>
-<l >If you're short, you're a miser instead,</l>
+<l rend="indent">If you're short, you're a miser instead,</l>
 <l>But, however you feel, you must get the next meal--</l>
-<l >You know what Napoleon said.</l></lg>
+<l rend="indent">You know what Napoleon said.</l></lg>
 <lg>
 <l>You think it's a cinch when you come to the clinch</l>
-<l >For the man who is grinding the meat;</l>
+<l rend="indent">For the man who is grinding the meat;</l>
 <l>In the heat of the fight, why the cook's out of sight</l>
-<l >With plenty of room to retreat</l><pb n="67"/>
+<l rend="indent">With plenty of room to retreat</l><pb n="67"/>
 <l>But a plump of a shell in a kitchen is hell </l>
-<l >When the roof scatters over your head,</l>
+<l rend="indent">When the roof scatters over your head,</l>
 <l>And you crawl on your knees to pick up the K. P.'s--</l>
-<l >You know what Napoleon said.</l></lg>
+<l rend="indent">You know what Napoleon said.</l></lg>
 
 <lg>
 <l>If the war ever ends, we'll go back to our friends--</l>
-<l >In the army we've nary a one;</l>
+<l rend="indent">In the army we've nary a one;</l>
 <l>We'll list to the prattle of this or that battle,</l>
-<l >And then, when the story is done,</l>
+<l rend="indent">And then, when the story is done,</l>
 <l>We'll say, when they ask, "Now what was your task,</l>
-<l >And what is the glory you shed?"</l>
+<l rend="indent">And what is the glory you shed?"</l>
 <l>"You see how they thrive--well, we kept 'em alive!</l>
-<l >You know what Napoleon said."
+<l rend="indent">You know what Napoleon said."
 </l></lg></div2>
 
 <div2 id="Eaton048" type="poem" n="The Drum">
@@ -1861,8 +1860,8 @@ IN<hi rend="smallcap">Collier'S Weekly</hi></byline>
 <lg>
 <l n="1">COME!</l>
 <l>Says the drum; </l>
-<l >Though graves be hollow, </l>
-<l >Yet follow, follow: </l>
+<l rend="indent">Though graves be hollow, </l>
+<l rend="indent">Yet follow, follow: </l>
 <l>Come!</l>
 <l>Says the drum.</l></lg>
 
@@ -1877,16 +1876,16 @@ IN<hi rend="smallcap">Collier'S Weekly</hi></byline>
 <lg>
 <l>Ripe! </l>
 <l>Screams the pipe, </l>
-<l >Is the field--</l>
-<l >Swords and not sickles wield: </l>
+<l rend="indent">Is the field--</l>
+<l rend="indent">Swords and not sickles wield: </l>
 <l>Come! </l>
 <l>Says the drum.</l></lg><pb n="68"/>
 
 <lg>
 <l>The drum </l>
 <l>Says, Come! </l>
-<l >Though graves be hollow, </l>
-<l >Yet follow, follow: </l>
+<l rend="indent">Though graves be hollow, </l>
+<l rend="indent">Yet follow, follow: </l>
 <l>Come! "</l>
 <l>Says the drum.
 </l></lg></div2>
@@ -1897,33 +1896,33 @@ IN<hi rend="smallcap">Collier'S Weekly</hi></byline>
 <hi rend="smallcap">Signal Reserve Corps, Aviation Section, U.S Army</hi></byline>
 <lg>
 <l n="1">GOD, the Master Pilot, </l>
-<l >Or gods, if such there be--</l>
+<l rend="indent">Or gods, if such there be--</l>
 <l>Pour me no weakling's measure</l>
-<l >When ye pour the wine for me!</l>
+<l rend="indent">When ye pour the wine for me!</l>
 <l>Of pain, of love, of pleasure,</l>
-<l >I'll drain the draught ye give;</l>
+<l rend="indent">I'll drain the draught ye give;</l>
 <l>Of good and ill, give me the fill</l>
-<l >Of the life ye bade me live!</l></lg>
+<l rend="indent">Of the life ye bade me live!</l></lg>
 
 <lg>
 <l>Spare me no tithe of favor, </l>
-<l >With fortune pave my path, </l>
+<l rend="indent">With fortune pave my path, </l>
 <l>Nor hold the hand of vengeance</l>
-<l >When I deserve your wrath.</l>
+<l rend="indent">When I deserve your wrath.</l>
 <l>Whatever fates ye send me,</l>
-<l >Whatever cast the sky,</l>
+<l rend="indent">Whatever cast the sky,</l>
 <l>Grant me the grace to live a man</l>
-<l >And as a man to die!</l></lg>
+<l rend="indent">And as a man to die!</l></lg>
 
 <lg>
 <l>Upon the good I render</l>
-<l >Let shine your proudest sun:</l>
+<l rend="indent">Let shine your proudest sun:</l>
 <l>And rest me in the valleys</l>
-<l >When my last trick is done.</l>
+<l rend="indent">When my last trick is done.</l>
 <l>For these your utmost portions,</l>
-<l >I'll pay the utmost toll,</l>
+<l rend="indent">I'll pay the utmost toll,</l>
 <l>So this my life, becone the great</l>
-<l >Adventure of my soul!
+<l rend="indent">Adventure of my soul!
 </l></lg><pb n="69"/></div2>
 
 <div2 id="Eaton050" type="poem" n="To The Writer Of "Christ In Flanders">
@@ -1952,33 +1951,33 @@ IN<hi rend="smallcap">Collier'S Weekly</hi></byline>
 
 <lg>
 <l n="1">THEY'VE put us through our paces; </l>
-<l >They say we're doing fine; </l>
+<l rend="indent">They say we're doing fine; </l>
 <l>We'll soon go to our places </l>
-<l >Upon the firing-line. </l>
+<l rend="indent">Upon the firing-line. </l>
 <l>Some chaps will fight for mothers, </l>
-<l >And some for wives so true;</l><pb n="70"/>
+<l rend="indent">And some for wives so true;</l><pb n="70"/>
 <l>For sweethearts many others</l>
-<l >And I will fight for you!</l></lg>
+<l rend="indent">And I will fight for you!</l></lg>
 
 <lg>
 <l>Through all these months of training </l>
-<l >We've cherished hopeful thoughts </l>
+<l rend="indent">We've cherished hopeful thoughts </l>
 <l>And drilled without complaining,</l>
-<l >Like soldiers and good sports.</l>
+<l rend="indent">Like soldiers and good sports.</l>
 <l>We're warring for a reason, </l>
-<l >We've sworn to see this through </l>
+<l rend="indent">We've sworn to see this through </l>
 <l>To falter would he treason,</l>
-<l >And I will fight for you!</l></lg>
+<l rend="indent">And I will fight for you!</l></lg>
 
 <lg>
 <l>Your presence will be near me,</l>
-<l >Your voice will call my name;</l>
+<l rend="indent">Your voice will call my name;</l>
 <l>You'll comfort me and cheer me,</l>
-<l >Your love, behold, I claim!</l>
+<l rend="indent">Your love, behold, I claim!</l>
 <l>'Twould take more than an ocean</l>
-<l >To separate us two;</l>
+<l rend="indent">To separate us two;</l>
 <l>I'll hold unto this notion, </l>
-<l >And I will fight for you!
+<l rend="indent">And I will fight for you!
 </l></lg></div2>
 
 <div2 id="Eaton052" type="poem" n="War">
@@ -1988,14 +1987,14 @@ IN<hi rend="smallcap">Collier'S Weekly</hi></byline>
 
 <lg>
 <l n="1">By blazing homes, through forests torn </l>
-<l >And blackened harvest fields,</l> 
+<l rend="indent">And blackened harvest fields,</l> 
 <l>The grim and drunken god of war</l>
-<l >In frenzied fury reels.</l></lg>
+<l rend="indent">In frenzied fury reels.</l></lg>
 <lg>
 <l>His breath--the sulph'rous stench of guns--</l>
-<l >That death and famine deals </l>
+<l rend="indent">That death and famine deals </l>
 <l>And Pity, pleading, wounded falls </l>
-<l >Beneath his steel-shod heels. 
+<l rend="indent">Beneath his steel-shod heels. 
 </l></lg><pb n="71"/></div2>
 
 <div2 id="Eaton053" type="poem" n="A Marching Soliloquy">
@@ -2041,42 +2040,42 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 <lg>
 <l n="1">SUMMER comes and summer goes, </l>
 <l>Buds the primrose, fades the rose;</l>
-<l >But his footfall on the grass, </l>
+<l rend="indent">But his footfall on the grass, </l>
 <l>Coming swiftly to my door, </l>
 <l>I shall hear again no more,</l>
-<l >Though a thousand summers pass.</l></lg>
+<l rend="indent">Though a thousand summers pass.</l></lg>
 
 <lg>
 <l>Once he loved the clovers well, </l>
 <l>Loved the larkspur and bluebell.</l>
-<l >And the scent the plum--blooms yield; </l>
+<l rend="indent">And the scent the plum--blooms yield; </l>
 <l>But strange flowers his soul beguiled, </l>
 <l>Pallid lilies, laurels wild,</l>
-<l >Blooming in a crimson field.</l></lg>
+<l rend="indent">Blooming in a crimson field.</l></lg>
 
 <lg>
 <l>So he plucked the laurels there, </l>
 <l>And he found them sweet and fair</l>
-<l >In that field of blood-red hue; </l>
+<l rend="indent">In that field of blood-red hue; </l>
 <l>And, when on a summer night </l>
 <l>Moonlight drenched my clovers white,</l>
-<l >Lo! He plucked Death's lilies, too.</l></lg>
+<l rend="indent">Lo! He plucked Death's lilies, too.</l></lg>
 
 <lg>
 <l>It may be that e'en to--night, </l>
 <l>In the Gardens of Delight,</l>
-<l >Where his shining soul must dwell,</l>
+<l rend="indent">Where his shining soul must dwell,</l>
 <l>In has found some flowers more sweet </l>
 <l>Than the clovers at my feet,</l>
-<l >Some celestial asphodel.</l></lg>
+<l rend="indent">Some celestial asphodel.</l></lg>
 
 <lg>
 <l>But while summer comes and goes, </l>
 <l>With the primrose and the rose</l>
-<l >Comes his footfall on the grass--</l>
+<l rend="indent">Comes his footfall on the grass--</l>
 <l>Gladly, lightly to my door-- </l>
 <l>I shall hear it echo o'er,</l>
-<l >Though a thousand summers pass.
+<l rend="indent">Though a thousand summers pass.
 </l></lg><pb n="73"/></div2>
 
 <div2 id="Eaton055" type="poem" n="The Marines">
@@ -2087,53 +2086,53 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 
 <lg>
 <l n="1">PARDON he has no Engleesh, heem,</l>
-<l >Il He pane que Fran&#231;aise,</l>
+<l rend="indent">Il He pane que Fran&#x00e7;aise,</l>
 <l>I spik it leetle some Monsieur,</l>
-<l >Vaire bad, j'en suis f&#226;ch&#233;--</l>
+<l rend="indent">Vaire bad, j'en suis f&#x00e2;ch&#x0039;;--</l>
 <l>Marines? Mais oui! I fight viz zem</l>
-<l >At Ch&#226;teau Thierry</l>
+<l rend="indent">At Ch&#x00e2;teau Thierry</l>
 <l>An' on ze Ourcq an' Marne in grand</l>
-<l >Bon camaraderie,</l>
+<l rend="indent">Bon camaraderie,</l>
 <l>I see zem fight at bois Belleau,</l>
-<l >Like sauvage make ze yell,--</l>
-<l>Sacr&#233; nom de Dieu! zoze sailor man</l>
-<l >Eez fightin' like ze hell!</l>
+<l rend="indent">Like sauvage make ze yell,--</l>
+<l>Sacr&#x0039;; nom de Dieu! zoze sailor man</l>
+<l rend="indent">Eez fightin' like ze hell!</l>
 <l>All time zey smile when make ze push,</l>
-<l >Magnifique zaire &#226;lan,</l>
+<l rend="indent">Magnifique zaire &#x00e2;lan,</l>
 <l>Zey show ze heart of lion</l>
-<l >For delight our bray Franchman.</l>
+<l rend="indent">For delight our bray Franchman.</l>
 <l>An' in ze tranch at rest, zoze troop</l>
-<l >From ze Etats Unis</l>
+<l rend="indent">From ze Etats Unis</l>
 <l>Q ueeck make ze good frien' of poilu</l>
-<l >Wiz beeg slap on ze knee!</l>
+<l rend="indent">Wiz beeg slap on ze knee!</l>
 <l>Zey make ze song an' joke, si dr&3244;le</l>
-<l >An' pass ze cigarette;</l>
+<l rend="indent">An' pass ze cigarette;</l>
 <l>Zey call us goddam good ol' scout</l>
-<l >Like Marquis La Fayette.</l>
+<l rend="indent">Like Marquis La Fayette.</l>
 <l>Next day, mebbee, again ze taps--</l>
-<l >Ze volley in ze air.--</l>
+<l rend="indent">Ze volley in ze air.--</l>
 <l>Adieu! some fightin' sailor man</l>
-<l >Eez gone West. C'est la guerre!</l>
+<l rend="indent">Eez gone West. C'est la guerre!</l>
 <l>No more ze smile, ze hug, ze hand</l>
-<l >Queeck wiz ze cigarette;</l><pb n="74"/>
+<l rend="indent">Queeck wiz ze cigarette;</l><pb n="74"/>
 <l>C'est vrai, at funerall of<hi rend="italic"> heem</hi></l>
-<l >Ze poilu's eye eez wet.</l>
+<l rend="indent">Ze poilu's eye eez wet.</l>
 <l>But, every day like tidal wave,--</l>
-<l >Like human avalanche,--</l>
+<l rend="indent">Like human avalanche,--</l>
 <l>Ze transport bring more Yankee troop,</l>
-<l >To get ze beeg revanche!</l>
-<l>Zen from ze heart Am&#233;ricaine</l>
-<l >Come milliards of monnaie;</l>
+<l rend="indent">To get ze beeg revanche!</l>
+<l>Zen from ze heart Am&#x00e9;ricaine</l>
+<l rend="indent">Come milliards of monnaie;</l>
 <l>Eet ze end! Your country bring</l>
-<l >Triomphant libert&#233;.</l>
+<l rend="indent">Triomphant libert&#x00e9;.</l>
 <l>So, au revoir! I mus' go on</l>
-<l >But first I tell to you</l>
+<l rend="indent">But first I tell to you</l>
 <l>What some high Officier remark</l>
-<l >Zat day at bois Belleau.</l>
+<l rend="indent">Zat day at bois Belleau.</l>
 <l>He says, our great Napoleon</l>
-<l >Wiz envy would turn green </l>
+<l rend="indent">Wiz envy would turn green </l>
 <l>Eel he could see zoze sailor man,--</l>
-<l >Zoze Uncle Sam Marines!"
+<l rend="indent">Zoze Uncle Sam Marines!"
 </l></lg></div2> 
 
 <div2 id="Eaton056" type="poem" n="An Ambulance Driver's Prayer">
@@ -2142,15 +2141,15 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 <hi rend="smallcap">IN The Stars And Stripes, A.E.F., France</hi></byline>
 <lg>
 <l n="1">'MID blinding rain this inky night, </l>
-<l >Loud bursting shells each foot of road, </l>
-<l>Thy Light, 0 Christ, will guide me right,</l>
-<l >To save this gasping, dying load.</l></lg>
+<l rend="indent">Loud bursting shells each foot of road, </l>
+<l>Thy Light, O Christ, will guide me right,</l>
+<l rend="indent">To save this gasping, dying load.</l></lg>
 
 <lg>
 <l>Their shattered limbs have followed Thee;</l>
-<l >Their wounded hands have done Thy work. </l>
-<l>They bled, 0 Lord, to make men free;</l>
-<l >They fought the fight--they did not shirk.
+<l rend="indent">Their wounded hands have done Thy work. </l>
+<l>They bled, O Lord, to make men free;</l>
+<l rend="indent">They fought the fight--they did not shirk.
 </l></lg><pb n="75"/></div2>
 
 <div2 id="Eaton057" type="poem" n="Not Too Old To Fight">
@@ -2204,7 +2203,7 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 <l n="1">"COME shake hands, my little peach blossom. </l>
 <l>That's right, dear, climb up on my knee. </l>
 <l>This big Yankee soldier is lonesome--</l>
-<l>Ah, now we'll be friends, ma ch&#233;rie. </l>
+<l>Ah, now we'll be friends, ma ch&#x00e9;rie. </l>
 <l>We won't understand one another, </l>
 <l>Your round eyes are telling me so, </l>
 <l>But the cling of your chubby fingers </l>
@@ -2221,12 +2220,12 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 <lg>
 <l>"Tu dis I'ouest! Est-ce ton pays? </l>
 <l>Veux-tu, quand tu iras chez-toi--</l>
-<l>Maman est toujours &#224; pleurer</l>
+<l>Maman est toujours &#x00e0; pleurer</l>
 <l>Me retrouver mon soldat Papa? </l>
 <l>Il etait avec sa batterie </l>
-<l>Pr&#232s des Anglais la en campagne </l>
-<l>Mais Papa est all&#233 dans l'ouest </l>
-<l>Des Anglais disaient &#224; Maman; </l>
+<l>Pr&#x00e8;s des Anglais la en campagne </l>
+<l>Mais Papa est all&#x00e9; dans l'ouest </l>
+<l>Des Anglais disaient &#x00e0; Maman; </l>
 <l>Alors, Maman sera heureuse</l>
 <l>Et, tu vois elle tie pleurera plus </l>
 <l>Je veux te donner on baiser,--, </l>
@@ -2281,38 +2280,38 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 
 <lg>
 <l n="1">THE rivers of France are ten score and twain,</l>
-<l >But five are the names that we know--</l>
+<l rend="indent">But five are the names that we know--</l>
 <l>The Marne, the Vesle, the Ourcq, and the Aisne,</l>
-<l >And the Somme of the swampy flow.</l></lg>
+<l rend="indent">And the Somme of the swampy flow.</l></lg>
 <lg>
 <l>The rivers of France, from source to the sea,</l>
-<l >Are nourished by many a rill,</l>
+<l rend="indent">Are nourished by many a rill,</l>
 <l>But these five, if ever a drought there be,</l>
-<l >The fountains of sorrow would fill.</l></lg>
+<l rend="indent">The fountains of sorrow would fill.</l></lg>
 
 <lg>
 <l>The rivers of France shine silvery white,</l>
-<l >But the waters of five are red</l>
+<l rend="indent">But the waters of five are red</l>
 <l>With the richest blood, in the fiercest fight</l>
-<l >For Freedom, that ever was shed.</l></lg>
+<l rend="indent">For Freedom, that ever was shed.</l></lg>
 
 <lg>
 <l>The rivers of France sing soft as they run,</l>
-<l >But five have a song of their own,</l>
+<l rend="indent">But five have a song of their own,</l>
 <l>That hymns the fall of the arrogant one</l>
-<l >And the proud cast down from his throne.</l></lg>
+<l rend="indent">And the proud cast down from his throne.</l></lg>
 
 <lg>
 <l>The rivers of France all quietly take</l>
-<l >To sleep in the house of their birth,</l>
+<l rend="indent">To sleep in the house of their birth,</l>
 <l>But the carnadined wave of five shall break</l>
-<l >On the uttermost strands of Earth.</l></lg>
+<l rend="indent">On the uttermost strands of Earth.</l></lg>
 
 <lg>
 <l>Five rivers of France, see their names are writ </l>
-<l >On a banner of crimson and gold,</l>
+<l rend="indent">On a banner of crimson and gold,</l>
 <l>And the glory of those who fashioned it</l>
-<l >Shall nevermore cease to be told.
+<l rend="indent">Shall nevermore cease to be told.
 </l></lg><pb n="80"/></div2>
 
 <div2 id="Eaton061" type="poem" n="Just Thinking">
@@ -2321,53 +2320,53 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 <hi rend="smallcap">IN The And Stripes, A. E. F., France</hi></byline>
 <lg>
 <l n="1">STANDIN' up here ou the fire--step, </l>
-<l >Lookin' ahead in the mist,</l>
+<l rend="indent">Lookin' ahead in the mist,</l>
 <l>With a tin hat over your ivory</l>
-<l >And a rifle clutched in your fist;</l>
+<l rend="indent">And a rifle clutched in your fist;</l>
 <l>Waitin' and watchin' and wond'rin' </l>
-<l >If the Hun's comin' over tonight--</l>
+<l rend="indent">If the Hun's comin' over tonight--</l>
 <l>Say, aren't the things you think of </l>
-<l >Enough to give you a fright?</l></lg>
+<l rend="indent">Enough to give you a fright?</l></lg>
 
 <lg>
 <l>Things you ain't even thought of</l>
-<l >For a couple a' months or more;</l>
+<l rend="indent">For a couple a' months or more;</l>
 <l>Things that 'ull set you laughin',</l>
-<l >Things that 'till make you sore;</l>
+<l rend="indent">Things that 'till make you sore;</l>
 <l>Things that von saw in the movies,</l>
-<l >Things that you saw on the street, </l>
+<l rend="indent">Things that you saw on the street, </l>
 <l>Things that you're really proud of </l>
-<l >Things that are--not so sweet;</l></lg>
+<l rend="indent">Things that are--not so sweet;</l></lg>
 
 <lg>
 <l>Debts that are past collectin',</l>
-<l >Stories you hear and forget,</l>
+<l rend="indent">Stories you hear and forget,</l>
 <l>Ball games and birthday parties,</l>
-<l >Hours of drill in the wet;</l>
+<l rend="indent">Hours of drill in the wet;</l>
 <l>Headlines, recruitin' posters,</l>
-<l >Sunset 'way out at sea,</l>
+<l rend="indent">Sunset 'way out at sea,</l>
 <l>Evenings of pay-days--golly--</l>
-<l >It's a queer thing, this memory!</l></lg>
+<l rend="indent">It's a queer thing, this memory!</l></lg>
 
 <lg>
 <l>Faces of pals in Homeburg,</l>
-<l >Voices of womenfolk,</l>
+<l rend="indent">Voices of womenfolk,</l>
 <l>Verses you learnt in schooldays</l>
-<l >Pop up in the mist and smoke.</l>
+<l rend="indent">Pop up in the mist and smoke.</l>
 <l>As you stand there grippin' that rifle, </l>
-<l >A-starin', and chilled to the bone,</l>
+<l rend="indent">A-starin', and chilled to the bone,</l>
 <l>Wonderin' and wonderin' and wonderin',</l>
-<l >Just thinkin' there--all alone:</l><pb n="81"/></lg>
+<l rend="indent">Just thinkin' there--all alone:</l><pb n="81"/></lg>
 
 <lg>
 <l>When will the war be over?</l>
-<l >When will the gang break through?</l>
+<l rend="indent">When will the gang break through?</l>
 <l>What will the U. S. look like?</l>
-<l >What will there be to do?</l>
+<l rend="indent">What will there be to do?</l>
 <l>Where will the Boches be then?</l>
-<l >Who will have married Nell?</l>
+<l rend="indent">Who will have married Nell?</l>
 <l>When's the relief a-comm up'</l>
-<l >Gosh! But this thinkin's hell
+<l rend="indent">Gosh! But this thinkin's hell
 </l></lg></div2>
 
 <div2 id="Eaton062" type="poem" n="The Evening Star">
@@ -2376,15 +2375,15 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 <hi rend="smallcap">IN The Chicago Evening Post</hi></byline>
 <lg>
 <l n="1">THE evening star a child espied, </l>
-<l >The one star in the sky.</l>
+<l rend="indent">The one star in the sky.</l>
 <l>"Is that God's service flag?" he cried </l>
-<l >And waited for the reply.</l></lg>
+<l rend="indent">And waited for the reply.</l></lg>
 
 <lg>
 <l>The mother paused a moment ere</l>
-<l >She told the little one--</l>
+<l rend="indent">She told the little one--</l>
 <l>"Yes, that is why the star is there!</l>
-<l >God gave His only Son!"
+<l rend="indent">God gave His only Son!"
 </l></lg><pb n="82"/></div2>
 
 <div2 id="Eaton063" type="poem" n="Columbia's Prayer">
@@ -2475,27 +2474,27 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 <lg>
 <l n="1" rend="indent2">THROUGH the dark night</l>
 <l rend="indent2">And the fury of battle </l>
-<l >Pass the destroyers in showers of spray.</l>
+<l rend="indent">Pass the destroyers in showers of spray.</l>
 <l>As the Wolf-pack to the flank of the cattle,</l>
-<l >We shall close in on them--shadows of gray. </l>
+<l rend="indent">We shall close in on them--shadows of gray. </l>
 <l rend="indent2">In from ahead, Through shell-flashes red,</l>
-<l >We shall come down to them, after the Day, </l>
+<l rend="indent">We shall come down to them, after the Day, </l>
 <l rend="indent2">Whistle and crash</l>
 <l rend="indent2">Of salvo and volley </l>
-<l >Round us and into us as we attack </l>
+<l rend="indent">Round us and into us as we attack </l>
 <l>Light on our target they'll flash in their folly,</l>
-<l >Splitting our ears with shrapnel-crack. </l>
+<l rend="indent">Splitting our ears with shrapnel-crack. </l>
 <l rend="indent2">Fire as they will,</l>
 <l rend="indent2"> We'll come to them still,</l>
-<l >Roar as they may at us--Back--Go Back! </l>
+<l rend="indent">Roar as they may at us--Back--Go Back! </l>
 <l rend="indent2">White though the sea </l>
 <l rend="indent2">To the shell-splashes foaming,</l>
-<l >We shall be there at the death of the Hun.</l>
+<l rend="indent">We shall be there at the death of the Hun.</l>
 <l>Only we pray for a star in the gloaming </l>
-<l >(Light for torpedoes and none for a gun). </l>
+<l rend="indent">(Light for torpedoes and none for a gun). </l>
 <l rend="indent2">Lord--of Thy Grace </l>
 <l rend="indent2">Make it a race,</l>
-<l >Over the sea with the night to ran.
+<l rend="indent">Over the sea with the night to ran.
 </l></lg><pb n="85"/></div2>
 
 <div2 id="Eaton066" type="poem" n="Nineteen-Seventeen">
@@ -2566,24 +2565,24 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 <lg>
 <l n="1">ABSOLUTE knowledge I have none, </l>
 <l>But by aunt's washerwoman's son </l>
-<l >Heard a policeman on his beat </l>
-<l >Say to a laborer in the street </l>
+<l rend="indent">Heard a policeman on his beat </l>
+<l rend="indent">Say to a laborer in the street </l>
 <l>That he had a letter just last week, </l>
 <l>Written in the finest Greek, </l>
-<l >From a Chine coolie in Timbuctoo</l>
-<l >Who said the niggers in Cuba knew</l>
+<l rend="indent">From a Chine coolie in Timbuctoo</l>
+<l rend="indent">Who said the niggers in Cuba knew</l>
 <l>Of a colored man in a Texas town</l>
 <l>Who got it straight from a circus clown, </l>
-<l >That a man in Klondike heard the news </l>
-<l >From a gang of South American Jews, </l>
+<l rend="indent">That a man in Klondike heard the news </l>
+<l rend="indent">From a gang of South American Jews, </l>
 <l>About somebody in Bamboo W</l>
 <l>Who heard a man who claimed he knew </l><pb n="87"/>
-<l >Of a swell society female rake </l>
-<l >Whose mother-in-law will undertake </l>
+<l rend="indent">Of a swell society female rake </l>
+<l rend="indent">Whose mother-in-law will undertake </l>
 <l>To prove that her husband's sister's niece </l>
 <l>Has stated in a printed piece </l>
-<l >That she has a son who has a friend</l>
-<l >Who knows when the war is going to end.
+<l rend="indent">That she has a son who has a friend</l>
+<l rend="indent">Who knows when the war is going to end.
 </l></lg></div2>
 
 <div2 id="Eaton069" type="poem" n="To My Son">
@@ -2592,68 +2591,68 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 
 <lg>
 <l n="1">MY son, at last the fateful day has come</l>
-<l >For us to part. The hours have nearly run.</l>
+<l rend="indent">For us to part. The hours have nearly run.</l>
 <l>May God return you safe to land and home;</l>
-<l >Yet, what God wills, so may His will be done.</l></lg>
+<l rend="indent">Yet, what God wills, so may His will be done.</l></lg>
 <lg>
 <l>Draw tight the belt about your slender frame;</l>
-<l >Flash blue your eyes! Hold high your proud young head!</l>
+<l rend="indent">Flash blue your eyes! Hold high your proud young head!</l>
 <l>Today you march in Liberty's fair name,</l>
-<l >To save the line enriched by France's dead!</l></lg>
+<l rend="indent">To save the line enriched by France's dead!</l></lg>
 
 <lg>
 <l>I would not it were otherwise. And yet</l>
-<l >'Tis hard to speed your marching forth, my son!</l>
+<l rend="indent">'Tis hard to speed your marching forth, my son!</l>
 <l>'Tis doubly hard to live without regret</l>
-<l >For love unsaid, and kindnesses undone.</l></lg><pb n="88"/>
+<l rend="indent">For love unsaid, and kindnesses undone.</l></lg><pb n="88"/>
 
 <lg>
 <l>But would the chance were mine with you to stand</l>
-<l >Upon those shores and see our flag unfurled! </l>
+<l rend="indent">Upon those shores and see our flag unfurled! </l>
 <l>To fight on France's brave, unconquered land</l>
-<l >With Liberty's great sword for all the world!</l></lg>
+<l rend="indent">With Liberty's great sword for all the world!</l></lg>
 <lg>
 <l>Beyond the waves, my son, the siren calls,</l>
-<l >The sky is black and Fastnet lies abreast;</l>
+<l rend="indent">The sky is black and Fastnet lies abreast;</l>
 <l>A signal rocket flings its stars and falls</l>
-<l >Across the night to welcome England's guest.</l></lg>
+<l rend="indent">Across the night to welcome England's guest.</l></lg>
 
 <lg>
 <l>When mid the scud you see the Cornish lights,</l>
-<l >And through the mist you hear faint Devon chimes, </l>
+<l rend="indent">And through the mist you hear faint Devon chimes, </l>
 <l>I hank God for memories of those other nights</l>
-<l >And days on other ships in happier times.</l></lg>
+<l rend="indent">And days on other ships in happier times.</l></lg>
 <lg>
 <l>Perhaps you'll stand within the pillared nave</l>
-<l >And aisles where colored sundust falls, and see </l>
+<l rend="indent">And aisles where colored sundust falls, and see </l>
 <l>Old Canterbury Church where Becket gave</l>
-<l >His life's best blood for England's liberty!</l></lg>
+<l rend="indent">His life's best blood for England's liberty!</l></lg>
 <lg>
 <l>Some night you'll walk, perhaps, on Salisbury plain </l>
-<l >Above Stonehenge the Druid's stars still sleep, </l>
+<l rend="indent">Above Stonehenge the Druid's stars still sleep, </l>
 <l>And on the turf within the circled fane</l>
-<l >Beneath the autumn moon still lie the sheep.</l></lg>
+<l rend="indent">Beneath the autumn moon still lie the sheep.</l></lg>
 <lg>
 <l>And if you march beside some Kentish hedge,</l>
-<l >And blackberries hang thick clustered o'er the ways,</l>
+<l rend="indent">And blackberries hang thick clustered o'er the ways,</l>
 <l>Hick down a branch! Rest by the road's brown edge;</l>
-<l >Eat! Nor forget our last vacation days!</l></lg>
+<l rend="indent">Eat! Nor forget our last vacation days!</l></lg>
 <lg>
 <l>And then the trench in battle-scarred Lorraine;</l>
-<l >The town half burned but held in spite of hell;</l>
+<l rend="indent">The town half burned but held in spite of hell;</l>
 <l>The bridge twice taken, lost, and won again;</l>
-<l >The cratered glacis ripped with mine and shell.</l></lg><pb n="89"/>
+<l rend="indent">The cratered glacis ripped with mine and shell.</l></lg><pb n="89"/>
 <lg>
 <l>The leafless trees, bare-branched in spite of June;</l>
-<l >The sodden road, the desolated plain;</l>
+<l rend="indent">The sodden road, the desolated plain;</l>
 <l>The mateless birds, the season out of tune;</l>
-<l >Fair France, at bay, is calling through her pain.</l></lg>
+<l rend="indent">Fair France, at bay, is calling through her pain.</l></lg>
 
 <lg>
 <l>Oh, son! My son! God keep you safe and free</l>
-<l >Our flag and you! But if the hour must come</l>
+<l rend="indent">Our flag and you! But if the hour must come</l>
 <l>To choose at last 'twixt self and liberty</l>
-<l >We'll close our eyes! So let God's will be done!
+<l rend="indent">We'll close our eyes! So let God's will be done!
 </l></lg></div2>
 <div2 id="Eaton070" type="poem" n="Easter-Eggs">
 <head rend="center">EASTER-EGGS</head>
@@ -2662,34 +2661,34 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 
 <lg>
 <l n="1">NOW, Mr. Wall of Wall St., he built himself a yacht,</l>
-<l >And he built that yacht for comfort and for speed; </l>
+<l rend="indent">And he built that yacht for comfort and for speed; </l>
 <l rend="indent7">He didn't mean that it should go </l>
 <l rend="indent7">Beyond a hundred miles or so; </l>
 <l rend="indent7">He wanted something made for show,</l>
-<l >Where he could drink and feed.</l></lg>
+<l rend="indent">Where he could drink and feed.</l></lg>
 
 <lg>
 <l>Then Uncle Sam'l went to war and hadn't any boats,</l>
-<l >Or not enough to guard the stormy green, </l>
+<l rend="indent">Or not enough to guard the stormy green, </l>
 <l rend="indent7">And so he said to Mr. Wall: "I'll take your six-feet-over-all</l>
 <l rend="indent7">And set it out to get the call</l>
-<l >Upon the submarine."</l></lg>
+<l rend="indent">Upon the submarine."</l></lg>
 
 <lg>
 <l>"A cruising-fighter? Never!" (The experts chorused that.)</l>
-<l >"She'll sink before she's half--way out to France"; </l>
+<l rend="indent">"She'll sink before she's half--way out to France"; </l>
 <l rend="indent7">But Sam cut out her bathtubs white,</l>
 <l rend="indent7">He painted her a perfect fright </l>
 <l rend="indent7">And loaded her with dynamite; </l>
-<l >Says he: "I'll take a chance."</l></lg><pb n="90"/>
+<l rend="indent">Says he: "I'll take a chance."</l></lg><pb n="90"/>
 
 <lg>
 <l>"Goodnight," said Wall of Wall St.; the experts said it, too;</l>
-<l >But Uncle Sam was sot and sibylline;</l>
+<l rend="indent">But Uncle Sam was sot and sibylline;</l>
 <l rend="indent7">His little plan, it warn't a josh:</l>
 <l rend="indent7">Wall's boat 's as dry 's a mackintosh.</l>
 <l rend="indent7">She fights, b' gum; what 's more b' gosh, </l>
-<l >She gits the submarine!
+<l rend="indent">She gits the submarine!
 </l></lg></div2>
 
 <div2 id="Eaton071" type="poem" n="A Dirge">
@@ -2812,35 +2811,35 @@ From the French of Armentier Ohanian </byline>
 <lg>
 <l n="1">I WAS an exile from my own country and wandered over the
 breast of the world seeking another country.</l>
-<l >And I came into a land where there was only a long spring and a
+<l rend="indent">And I came into a land where there was only a long spring and a
 long autumn, where they did not know the deadly heats of our summers
 or the mortal colds of our mountains. Among the vines and sunny fields
 I saw thepeople of this land at work, ever young of soul, smiling, loving, and kindly.</l>
-<l >I asked, "What is the name of this happy place?"</l>
-<l >And the answer was, "France the voluptuous."</l>
-<l >I came to towns of splendid monuments, of harmonious buildings, of
+<l rend="indent">I asked, "What is the name of this happy place?"</l>
+<l rend="indent">And the answer was, "France the voluptuous."</l>
+<l rend="indent">I came to towns of splendid monuments, of harmonious buildings, of
 proud triumphal arches of the past, and above always I saw the spires
 of great cathedrals stretching toward the sky, as if to seize upon the
 feet of God.</l>
-<l >I asked, "What is the name of this marvelous land?"</l>
-<l >And the answer was, "France the glorious."</l>
-<l >I advanced again, when I was struck by the red color of a large
+<l rend="indent">I asked, "What is the name of this marvelous land?"</l>
+<l rend="indent">And the answer was, "France the glorious."</l>
+<l rend="indent">I advanced again, when I was struck by the red color of a large
 river. . . It was a river of warm blood that rolled down from afar in
 thick and heavy waves.  I advanced again. Before me dark clouds of
 smoke hid the endless sky above huge fields of warriors in battle;
 when these died smiling at death others took their places, singing.</l>
-<l >I asked, "What is the name of this chivalrous land?"</l>
-<l >And the answer was, "France the courageous."</l>
-<l >At last I came to an immense city, of which I saw neither the
+<l rend="indent">I asked, "What is the name of this chivalrous land?"</l>
+<l rend="indent">And the answer was, "France the courageous."</l>
+<l rend="indent">At last I came to an immense city, of which I saw neither the
 beginning nor the end, a city full of sumptuous palaces, of parks, and
 fountains. The sun glistened on the marble of the streets and kissed
 the serene, resigned<pb n="94"/>faces of women clothed in black. The
 chimes of churches filled the air with solemn sounds, and words, until
 then unknown to me, "Te Deumn" came from the throats of thousands of thousands.</l>
-<l >With respect I asked, "What is tile name of this land</l>
+<l rend="indent">With respect I asked, "What is tile name of this land</l>
 <l>that mourns?"</l>
-<l >And the answer was, "France the Victorious."</l>
-<l >I kissed the earth of this land and said "I have found my country, who was in exile."
+<l rend="indent">And the answer was, "France the Victorious."</l>
+<l rend="indent">I kissed the earth of this land and said "I have found my country, who was in exile."
 </l></lg></div2>
 
 <div2 id="Eaton075" type="poem" n="The Clerk">
@@ -2850,19 +2849,19 @@ then unknown to me, "Te Deumn" came from the throats of thousands of thousands.<
 
 <lg>
 <l n="1">Perched upon an office stool, neatly adding figures, </l>
-<l >With cuffs gone shiny and a pen behind his ear;</l>
+<l rend="indent">With cuffs gone shiny and a pen behind his ear;</l>
 <l>Deep in Liabilities. Goods and Double Entry, </l>
-<l >So he worked from year to year.</l></lg>
+<l rend="indent">So he worked from year to year.</l></lg>
 <lg>
 <l>Diligent and careful, hedged about with figure,, </l>
-<l >Given soul and body to discount and per cent;</l>
+<l rend="indent">Given soul and body to discount and per cent;</l>
 <l>Bounded by the columns of Purchase Book and Journal </l>
-<l >Soberly his moments went.</l></lg>
+<l rend="indent">Soberly his moments went.</l></lg>
 <lg>
 <l>Now his pen has ceased from adding rows of figures </l>
-<l >Ceased from ruling ledgers and entering amounts:</l>
+<l rend="indent">Ceased from ruling ledgers and entering amounts:</l>
 <l>Clad in sodden khaki, with a gun in Flanderc </l>
-<l >He is balancing accounts
+<l rend="indent">He is balancing accounts
 </l></lg><pb n="95"/></div2>
 
 <div2 id="Eaton076" type="poem" n="Poilu">
@@ -2873,33 +2872,33 @@ then unknown to me, "Te Deumn" came from the throats of thousands of thousands.<
 
 <lg>
 <l n="1">YOU'RE a funny fellow, poilu, in your dinky little cap </l>
-<l >And your war worn, faded uniform of blue,</l>
+<l rend="indent">And your war worn, faded uniform of blue,</l>
 <l>With your multitude of haversacks abulge from heel to flap</l>
-<l >And your rifle that is most as big as you.</l>
+<l rend="indent">And your rifle that is most as big as you.</l>
 <l>You were made for love and laughter, for good wine and merry song,</l>
-<l >Now your sunlit world has sadly gone astray, </l>
+<l rend="indent">Now your sunlit world has sadly gone astray, </l>
 <l>And the road today you travel stretches rough and red and long,</l>
-<l >Yet you make it, petit soldat, brave and gay.</l></lg>
+<l rend="indent">Yet you make it, petit soldat, brave and gay.</l></lg>
 
 <lg>
 <l>Though you live within the shadow, fagged and hungry half the while,</l>
-<l >And your days and nights are racking in the line,</l>
+<l rend="indent">And your days and nights are racking in the line,</l>
 <l>There is nothing under heaven that can take away your smile,</l>
-<l >Oh, so wistful, and so patient and so fine.</l>
+<l rend="indent">Oh, so wistful, and so patient and so fine.</l>
 <l>You are tender as a woman with the tiny ones who crowd</l>
-<l >To upraise their lips and for your kisses pout,</l>
+<l rend="indent">To upraise their lips and for your kisses pout,</l>
 <l>Still, we'd hate to have to face you when the bugle's sounding loud</l>
-<l >And your slim, steel sweetheart Rosalie is out.</l></lg><pb n="96"/>
+<l rend="indent">And your slim, steel sweetheart Rosalie is out.</l></lg><pb n="96"/>
 
 <lg>
 <l>You're devoted to mustaches which you twirl with such an air</l>
-<l >O'er a cigarette with nigh an inch to run,</l>
+<l rend="indent">O'er a cigarette with nigh an inch to run,</l>
 <l>And quite often you are noticed in a beard that's full of hair,</l>
-<l >But that heart of yours is always twenty-one. </l>
+<l rend="indent">But that heart of yours is always twenty-one. </l>
 <l>No you do not "parlee English," and you find it very hard,</l>
-<l >For you want to chum with us and words you lack; </l>
+<l rend="indent">For you want to chum with us and words you lack; </l>
 <l>So you pat us on the shoulder and say, "Nous sommes camarades.''</l>
-<l >We are that, my poilu pal, to hell and back!
+<l rend="indent">We are that, my poilu pal, to hell and back!
 </l></lg></div2>
 
 <div2 id="Eaton077" type="poem" n="Australia's Men">
@@ -2908,25 +2907,25 @@ then unknown to me, "Te Deumn" came from the throats of thousands of thousands.<
 <bibl>Miss Mackellar is the daughter of Sir Charles Mackellar Chairman New South Wales. Acknowledgment is due Dr. George Cooke--Adams, formerly an officer in the Australian naval forces, through whose courtesy her verses are presented here.</bibl>
 <lg>
 <l n="1">THERE are some that go for love of a fight </l>
-<l >And some for love of a land, </l>
+<l rend="indent">And some for love of a land, </l>
 <l>And some for a dream of the world set free </l>
-<l >Which they barely understand.</l></lg>
+<l rend="indent">Which they barely understand.</l></lg>
 <lg>
 <l>A drearn of the world set free from Hate--</l>
-<l >But splendidly, one and all, </l>
+<l rend="indent">But splendidly, one and all, </l>
 <l>Danger they drink as 'twere wine of Life </l>
-<l >And jest as they reel and fall.</l></lg>
+<l rend="indent">And jest as they reel and fall.</l></lg>
 
 <lg>
 <l>Clean aims, rare faculties, strength and youth, </l>
-<l >They have poured them freely forth</l>
+<l rend="indent">They have poured them freely forth</l>
 <l>For the sake of the sun-steeped land they left </l>
-<l >And the far green isle in the north.</l></lg>
+<l rend="indent">And the far green isle in the north.</l></lg>
 <lg>
 <l>What can we do to be worthy of them, </l>
-<l >Now hearts are breaking for pride? </l>
+<l rend="indent">Now hearts are breaking for pride? </l>
 <l>Give comfort at least to the wounded men </l>
-<l >And the kin of the man that died
+<l rend="indent">And the kin of the man that died
 </l></lg><pb n="97"/></div2>
 
 <div2 id="Eaton078" type="poem" n="Tanks">
@@ -2935,37 +2934,37 @@ then unknown to me, "Te Deumn" came from the throats of thousands of thousands.<
 
 <lg>
 <l n="1">YES, back at home I used to drive a tram;</l>
-<l >And Sammy, there, he was a driver, too</l>
+<l rend="indent">And Sammy, there, he was a driver, too</l>
 <l>He used to ride his racer--did Sir Sam;</l>
-<l >While pokey London streets was all I knew.</l></lg>
+<l rend="indent">While pokey London streets was all I knew.</l></lg>
 
 <lg>
 <l>But now, His Nibs and I, of equal rank,</l>
-<l >Are chummy as the paper and the wall, </l>
+<l rend="indent">Are chummy as the paper and the wall, </l>
 <l>Each tooling of a caterpillar tank,</l>
-<l >Each waiting on the blest old bugle call.</l></lg>
+<l rend="indent">Each waiting on the blest old bugle call.</l></lg>
 
 <lg>
 <l>Say! Tanks are sport--when you get used to them,</l>
-<l >They're like a blooming railroad, self-contained; </l>
+<l rend="indent">They're like a blooming railroad, self-contained; </l>
 <l>They lay their tracks, as you might say--pro tern,</l>
-<l >And pick 'em up, and there's good distance gained.</l></lg>
+<l rend="indent">And pick 'em up, and there's good distance gained.</l></lg>
 <lg>
 <l>They roar across rough country like a gale,</l>
-<l >They lean against a house and push it down, </l>
+<l rend="indent">They lean against a house and push it down, </l>
 <l>They're like a baby fortress under sail,</l>
-<l >And antic as a three-ring circus clown.</l></lg>
+<l rend="indent">And antic as a three-ring circus clown.</l></lg>
 
 <lg>
 <l>Sam says they're slow. They may seem so to him--</l>
-<l >They can't show fancy mile-a-minute stuff, </l>
+<l rend="indent">They can't show fancy mile-a-minute stuff, </l>
 <l>But when they charge, in armored fighting trim,</l>
-<l >You bet the Germans find 'em fast enough!</l></lg>
+<l rend="indent">You bet the Germans find 'em fast enough!</l></lg>
 <lg>
 <l>Now Sam and I are waiting, side by side,</l>
-<l >To steam across von farm-land in the night;</l>
+<l rend="indent">To steam across von farm-land in the night;</l>
 <l>We'll take their blamed barbed wire in our stride,</l>
-<l >And stamp a German trench line out of sight.
+<l rend="indent">And stamp a German trench line out of sight.
 </l></lg><ob n="98"/></div2>
 
 <div2 id="Eaton079" type="poem" n="A Hymn Of Freedom">
@@ -2976,33 +2975,33 @@ then unknown to me, "Te Deumn" came from the throats of thousands of thousands.<
 
 <lg>
 <l n="1">UNFURL the flag of Freedom, </l>
-<l >Fling far the bugle blast!</l>
+<l rend="indent">Fling far the bugle blast!</l>
 <l>There comes a sound of marching</l>
-<l >From out the mighty past.</l>
+<l rend="indent">From out the mighty past.</l>
 <l>Let every peak and valley</l>
-<l >Take up the valiant cry:</l>
+<l rend="indent">Take up the valiant cry:</l>
 <l>Where, beautiful as morning,</l>
-<l >Our banner cuts the sky.</l></lg>
+<l rend="indent">Our banner cuts the sky.</l></lg>
 
 <lg>
 <l>Free born to peace and justice, </l>
-<l >We stand to guard and save </l>
+<l rend="indent">We stand to guard and save </l>
 <l>The liberty of manhood,</l>
-<l >The faith our fathers gave.</l>
+<l rend="indent">The faith our fathers gave.</l>
 <l>Then soar aloft, Old Glory, </l>
-<l >And tell the waiting breeze</l>
+<l rend="indent">And tell the waiting breeze</l>
 <l>No law but Right and Mercy</l>
-<l >Shall rule the Seven Seas.</l></lg>
+<l rend="indent">Shall rule the Seven Seas.</l></lg>
 
 <lg>
 <l>No hate is in our anger, </l>
-<l >No vengeance in 'our wrath,</l>
+<l rend="indent">No vengeance in 'our wrath,</l>
 <l>We hold the line of freedom</l>
-<l >Across the tyrant's path.</l>
+<l rend="indent">Across the tyrant's path.</l>
 <l>Where'er oppression vaunteth </l>
-<l >We loose the sword once more </l>
+<l rend="indent">We loose the sword once more </l>
 <l>To stay the feet of conquest,</l>
-<l >And pray an end of war
+<l rend="indent">And pray an end of war
 </l></lg><pb n="99"/></div2>
 
 <div2 id="Eaton080" type="essay" n="Swan Songs">
@@ -3088,19 +3087,19 @@ copyright, 1915, by John Lane Company, New York.  Special permission
 to reproduce in this book.</note></head>
 <lg>
 <l n="1">If I should die, think only this of me:</l>
-<l >That there's some corner of a foreign field </l>
+<l rend="indent">That there's some corner of a foreign field </l>
 <l>That is for ever England. There shall be </l>
-<l >In that rich earth a richer dust concealed,</l>
+<l rend="indent">In that rich earth a richer dust concealed,</l>
 <l>A dust whom England bore, shaped, made aware.</l>
-<l >Gave once, her flowers to love, her ways to roam, </l>
+<l rend="indent">Gave once, her flowers to love, her ways to roam, </l>
 <l>A body of England's breathing English air,</l>
-<l >Washed by the rivers, blest by suns of home.</l>
+<l rend="indent">Washed by the rivers, blest by suns of home.</l>
 <l>And think, this heart, all evil shed away, </l>
-<l >A pulse in the eternal mind, no less </l>
-<l >Gives somewhere back the thoughts by England given;</l>
+<l rend="indent">A pulse in the eternal mind, no less </l>
+<l rend="indent">Gives somewhere back the thoughts by England given;</l>
 <l>Her sights and sounds; dreams happy as her day;</l>
-<l >And laughter, learnt of friends; and gentleness,</l>
-<l >In hearts at peace, under an English heaven.</l></lg></div3>
+<l rend="indent">And laughter, learnt of friends; and gentleness,</l>
+<l rend="indent">In hearts at peace, under an English heaven.</l></lg></div3>
 
 <p>Lieutenant Brooke was a rare poet, having a serene faith, a knowledge of life as continuous. His bent of thought, the manner of his feeling, shine most clearly in this sonnet</p>
 <div3 id="Eaton84" type="poem" n="Not With Vain Tears">
@@ -3108,18 +3107,18 @@ to reproduce in this book.</note></head>
 <lg>
 <l n="1">NOT with vain tears, when we're beyond the sun, </l>
 <l>We'll beat on the substantial doors, nor tread </l>
-<l >Those dusty highroads of the aimless dead, </l>
+<l rend="indent">Those dusty highroads of the aimless dead, </l>
 <l>Plaintive for Earth; but rather turn and run </l>
 <l>Down some close-covered byway of the air,</l><pb n="103"/>
-<l >Some low, sweet alley between wind and wind,</l>
-<l >Stoop under faint gleams, thread the shadows, find</l>
+<l rend="indent">Some low, sweet alley between wind and wind,</l>
+<l rend="indent">Stoop under faint gleams, thread the shadows, find</l>
 <l>Some whispering, ghost-forgotten nook, and there </l>
 <l>Spend in pure converse our eternal day;</l>
-<l >Think each in each, immediately wise;</l>
+<l rend="indent">Think each in each, immediately wise;</l>
 <l>Learn all we lacked before; hear, know and say</l>
-<l >What this tumultuous body now denies; </l>
+<l rend="indent">What this tumultuous body now denies; </l>
 <l>And feel, who have laid our groping hands away;</l>
-<l >And see, no longer blinded by our eyes.</l></lg></div3>
+<l rend="indent">And see, no longer blinded by our eyes.</l></lg></div3>
 
 <p>All of Rupert Brooke's work has been collected and issued, a rich though slender sheaf. The book is fervently commended to people whose own souls are in the key that responds to notes so spiritually fine and clear as those he sounds in all his lines.</p>
 <p>"But a Short Time to Live" was written by Serg't Leslie Coulson, whose "little hour" came to an end at Arras, in France, October 7, 1916:</p>
@@ -3127,23 +3126,23 @@ to reproduce in this book.</note></head>
 <div3 id="Eaton085" type="poem" n="But A Short Time To Live">
 <head rend="center">BUT A SHORT TIME TO LIVE</head>
 <lg>
-<l n="1">0UR little hour--how swift it flies--</l>
-<l >When poppies flare and lilies smile;</l>
+<l n="1">OUR little hour--how swift it flies--</l>
+<l rend="indent">When poppies flare and lilies smile;</l>
 <l>How soon the fleeting minute dies, </l>
-<l >Leaving us but a little while </l>
+<l rend="indent">Leaving us but a little while </l>
 <l>To dream our dreams, to sing our song,</l>
-<l >To pick the fruit, to pluck the flower.</l>
+<l rend="indent">To pick the fruit, to pluck the flower.</l>
 <l>The gods--they do not give us long</l>
-<l >One little hour.</l>
+<l rend="indent">One little hour.</l>
 <l type="break" rend="*"/>
 <l>Our little hour--how soon it dies </l>
-<l >How short a time to tell our beads,</l><pb n="104"/>
+<l rend="indent">How short a time to tell our beads,</l><pb n="104"/>
 <l>To chant our feeble litanies,</l>
-<l >To think sweet thoughts, to do good deeds. </l>
+<l rend="indent">To think sweet thoughts, to do good deeds. </l>
 <l>The altar lights grow pale and dim,</l>
-<l >The bells hang silent in the tower--</l>
+<l rend="indent">The bells hang silent in the tower--</l>
 <l>So passes with the dying hymn</l>
-<l >Our little hour.</l></lg></div3>
+<l rend="indent">Our little hour.</l></lg></div3>
 
 <p>These songs, with others that have lilted so bravely, gravely,
 through the world's most bitter years of travail, will live long in
@@ -3164,19 +3163,19 @@ times:</p>
 
 <lg>
 <l n="1">SOMEWHERE is music from the linnets' bills, </l>
-<l >And through the sunny flowers the bee wings drone, </l>
+<l rend="indent">And through the sunny flowers the bee wings drone, </l>
 <l>And white bells of convolvulus on hills </l>
-<l >Of quiet May make silent ringing blown </l>
+<l rend="indent">Of quiet May make silent ringing blown </l>
 <l>Hither and thither by the wind of showers,</l>
-<l >And somewhere all the wandering bird, have flown;</l><pb n="105"/>
+<l rend="indent">And somewhere all the wandering bird, have flown;</l><pb n="105"/>
 <l>And the brown breath of Autumn chills the flowers.</l>
-<l >But where are all the loves of long ago?</l></lg>
+<l rend="indent">But where are all the loves of long ago?</l></lg>
 
 <lg>
 <l>O little twilight ship blown up the tide, </l>
-<l >Where are the faces laughing in the glow</l>
+<l rend="indent">Where are the faces laughing in the glow</l>
 <l>Of morning years, the lost ones scattered wide?</l>
-<l >Give me your hand, O brother; let us go</l>
+<l rend="indent">Give me your hand, O brother; let us go</l>
 <l>Crying about the dark for those who died.</l></lg></div3></div2>
 
 <div2 id="Eaton087" type="poem" n="The Flag Speaks">
@@ -3330,26 +3329,26 @@ times:</p>
 
 <lg>
 <l n="1">O GUNS, fall silent till the dead men hear</l>
-<l >Above their heads the legions pressing on!</l>
+<l rend="indent">Above their heads the legions pressing on!</l>
 <l>(These fought their fight in time of bitter fear</l>
-<l >And died not knowing how the day had gone.)</l></lg>
+<l rend="indent">And died not knowing how the day had gone.)</l></lg>
 <lg>
 <l>O flashing muzzles, pause and let them see</l>
-<l >The coming dawn that streaks the sky afar</l>
+<l rend="indent">The coming dawn that streaks the sky afar</l>
 <l>Then let your mighty chorus witness be</l>
-<l >To them, and Csar, that we still make war.</l></lg>
+<l rend="indent">To them, and Csar, that we still make war.</l></lg>
 
 <lg>
 <l>Tell them, O guns, that we have heard their call</l>
-<l >That we have sworn and will not turn aside;</l>
+<l rend="indent">That we have sworn and will not turn aside;</l>
 <l>That we will onward till we win or fall;</l>
-<l >That we will keep the faith for which they died.</l></lg>
+<l rend="indent">That we will keep the faith for which they died.</l></lg>
 
 <lg>
 <l>Bid them be patient, and some day, anon,</l>
-<l >They shall feel earth enwrapt in silence deep--</l>
+<l rend="indent">They shall feel earth enwrapt in silence deep--</l>
 <l>Shall greet in wonderment the quiet dawn,</l>
-<l >And in content may turn them to their sleep.
+<l rend="indent">And in content may turn them to their sleep.
 </l></lg><pb n="110"/></div2>
 
 <div2 id="Eaton091" type="poem" n="Home">
@@ -3360,43 +3359,43 @@ times:</p>
 <epigraph>At a pillaged hamlet near Termonde, I asked a dying peasant woman into which of the houses still standing should assist her--which was her home? She pressed a withered hand to her bayonet-pierced side and answered: "The Germans have taken one home from me; but, without knowing it, they have given me another.  I am going there now."</epigraph>
 <lg>
 <l n="1">My house that I so soon shall own </l>
-<l >Is builded in a silent place, </l>
+<l rend="indent">Is builded in a silent place, </l>
 <l>Not uncompanioned or alone,</l>
-<l >But shared by almost all my race; </l>
+<l rend="indent">But shared by almost all my race; </l>
 <l>No landscape from its windows rolls</l>
-<l >A picture of the earth's increase;</l>
+<l rend="indent">A picture of the earth's increase;</l>
 <l>But, oh, for all our stricken souls,</l>
-<l >Within its sturdy walls is--Peace.</l></lg>
+<l rend="indent">Within its sturdy walls is--Peace.</l></lg>
 
 <lg>
 <l>The other house I used to love </l>
-<l >Before they burnt it overhead; </l>
+<l rend="indent">Before they burnt it overhead; </l>
 <l>My slaughtered man; the memory of</l>
-<l >Our daughter screaming in the red </l>
+<l rend="indent">Our daughter screaming in the red </l>
 <l>Embrace of Uhlans at my door,</l>
-<l >Her shrieks all silenced by their shout </l>
+<l rend="indent">Her shrieks all silenced by their shout </l>
 <l>Of drunken fury--that was war,</l>
-<l >And my new home will shut it out.</l></lg>
+<l rend="indent">And my new home will shut it out.</l></lg>
 
 <lg>
 <l>I shall not see the German hands</l>
-<l >That tear the baby from the breast; </l>
+<l rend="indent">That tear the baby from the breast; </l>
 <l>I shall not hear the plundering bands</l>
-<l >Laughing at murder: I shall rest. </l>
+<l rend="indent">Laughing at murder: I shall rest. </l>
 <l>There joy shall never riot in</l>
-<l >Nor robber sorrow find his way;</l><pb n="111"/>
+<l rend="indent">Nor robber sorrow find his way;</l><pb n="111"/>
 <l>Those shutters bar the call of Sin,</l>
-<l >And Duty has no debt to pay.</l></lg>
+<l rend="indent">And Duty has no debt to pay.</l></lg>
 
 <lg>
 <l>So much I shall be heedless of,</l>
-<l >Serene, secure, dispassionate;</l>
+<l rend="indent">Serene, secure, dispassionate;</l>
 <l><hi rend="italic">There</hi> is not anything to love;</l>
-<l ><hi rend="italic">There</hi> is not anything to hate.</l>
+<l rend="indent"><hi rend="italic">There</hi> is not anything to hate.</l>
 <l>So in my house I shall forget </l>
-<l >All of the orgies and the strife, </l>
+<l rend="indent">All of the orgies and the strife, </l>
 <l>And find, past memory and regret,</l>
-<l >The Resurrection and the Life.
+<l rend="indent">The Resurrection and the Life.
 </l></lg></div2>
 
 <div2 id="Eaton092" type="poem" n="To Happier Days">
@@ -3468,15 +3467,15 @@ World--</l><pb n="113"/>
 
 <lg>
 <l n="1">I'VE heard a half a dozen times </l>
-<l >Folks call it Reims.</l>
+<l rend="indent">Folks call it Reims.</l>
 <l>That isn't right, though, so it seems, </l>
-<l >Perhaps it's Reims.</l>
+<l rend="indent">Perhaps it's Reims.</l>
 <l>Poor city ruined now by flames--</l>
-<l >Can it be Reims?--</l>
+<l rend="indent">Can it be Reims?--</l>
 <l>That once was one of France's gems-</l>
-<l >More likely Reims.</l>
+<l rend="indent">More likely Reims.</l>
 <l>I'll get it right sometime, perchance </l>
-<l >I'm told it's Reims.
+<l rend="indent">I'm told it's Reims.
 </l></lg><pb n="114"/></div2>
 
 <div2 id="Eaton096" type="poem" n="The Spies Of Oxford">
@@ -3524,53 +3523,53 @@ World--</l><pb n="113"/>
 
 <lg>
 <l n="1">THE sunny streets of Oxford </l>
-<l >Are lying still and bare.</l>
+<l rend="indent">Are lying still and bare.</l>
 <l>No sound of voice or laughter</l>
-<l >Rings through the golden air;</l>
+<l rend="indent">Rings through the golden air;</l>
 <l>And, chiming from her belfry,</l>
-<l >No longer Christchurch calls</l>
+<l rend="indent">No longer Christchurch calls</l>
 <l>The eager, boyish faces</l>
-<l >To gather in her halls.</l></lg>
+<l rend="indent">To gather in her halls.</l></lg>
 
 <lg>
 <l>The colleges are empty.</l>
-<l >Only the sun and wind</l>
+<l rend="indent">Only the sun and wind</l>
 <l>Make merry in the places</l>
-<l >The lads have left behind.</l>
+<l rend="indent">The lads have left behind.</l>
 <l>But, when the trooping shadows</l>
-<l >Have put the day to flight,</l>
+<l rend="indent">Have put the day to flight,</l>
 <l>The Gentlemen of Oxford</l>
-<l >Come homing through the night.</l></lg>
+<l rend="indent">Come homing through the night.</l></lg>
 
 <lg>
 <l>From France they come, and Flanders,</l>
-<l >From Mons, and Marne and Aisne.</l>
+<l rend="indent">From Mons, and Marne and Aisne.</l>
 <l>From Greece and from Gallipoli</l>
-<l >They come to her again;</l>
+<l rend="indent">They come to her again;</l>
 <l>From the North Sea's grey waters,</l>
-<l >From many a grave unknown,</l>
+<l rend="indent">From many a grave unknown,</l>
 <l>The Gentlemen of Oxford</l>
-<l >Come back to claim their own.</l></lg>
+<l rend="indent">Come back to claim their own.</l></lg>
 
 <lg>
 <l>The dark is full of laughter,</l>
-<l >Boy laughter, glad and young.</l>
-<l>They tell the old--time stories,</l>
-<l >The old-time songs are sung;</l><pb n="116"/>
+<l rend="indent">Boy laughter, glad and young.</l>
+<l>They tell the old-time stories,</l>
+<l rend="indent">The old-time songs are sung;</l><pb n="116"/>
 <l>They linger in her cloisters,</l>
-<l >They throng her dewy meads,</l>
+<l rend="indent">They throng her dewy meads,</l>
 <l>Till Isis hears their calling</l>
-<l >And laughs among her reeds.</l></lg>
+<l rend="indent">And laughs among her reeds.</l></lg>
 
 <lg>
 <l>But, when the east is whitening</l>
-<l >To greet the rising sun,</l>
+<l rend="indent">To greet the rising sun,</l>
 <l>And slowly, over Carfax,</l>
-<l >The stars fade, one by one,</l>
-<l>Then, when the dawn--wind whispers</l>
-<l >Along the Isis shore,</l>
+<l rend="indent">The stars fade, one by one,</l>
+<l>Then, when the dawn-wind whispers</l>
+<l rend="indent">Along the Isis shore,</l>
 <l>The Gentlemen of Oxford</l>
-<l >Must seek their graves once more.
+<l rend="indent">Must seek their graves once more.
 </l></lg></div2>
 
 <div2 id="Eaton098" type="poem" n="With The Same Pride">
@@ -3581,21 +3580,21 @@ World--</l><pb n="113"/>
 
 <lg>
 <l n="1">ONE star for all she had, </l>
-<l >And in her heart</l>
+<l rend="indent">And in her heart</l>
 <l>One wound--yet is she glad</l>
-<l >For all its smart</l>
+<l rend="indent">For all its smart</l>
 <l>As they are glad who bear</l>
-<l >The pangs of birth</l>
+<l rend="indent">The pangs of birth</l>
 <l>That a new soul and fair</l>
-<l >May come to earth,</l>
+<l rend="indent">May come to earth,</l>
 <l>Seeing she, too, was one</l>
-<l >Who from Death's strife</l>
+<l rend="indent">Who from Death's strife</l>
 <l>Granted her first-born son</l>
-<l >Proudly to Life.</l>
+<l rend="indent">Proudly to Life.</l>
 <l>Now with that very faith</l>
-<l >Life justified,</l>
+<l rend="indent">Life justified,</l>
 <l>She grants a son to Death</l>
-<l >With the same pride
+<l rend="indent">With the same pride
 </l></lg><pb n="117"/></div2>
 
 <div2 id="Eaton099" type="poem" n="Aceldama">
@@ -3605,35 +3604,35 @@ World--</l><pb n="113"/>
 
 <lg>
 <l n="1">STILL breaks the Holy morn, to soothe the care</l>
-<l >And labor of the world; hushed is the grove, </l>
-<l >And overhead the vireo's note of love </l>
+<l rend="indent">And labor of the world; hushed is the grove, </l>
+<l rend="indent">And overhead the vireo's note of love </l>
 <l>Floats like a joyful utterance of prayer. </l>
 <l>Soft insect murmurs fill the enchanted air. </l>
-<l >Into a fairer day earth seems to move, </l>
-<l >And statelier thoughts lift mortal sense above </l>
+<l rend="indent">Into a fairer day earth seems to move, </l>
+<l rend="indent">And statelier thoughts lift mortal sense above </l>
 <l>Life's sin and pain; the sorrow and despair. </l>
 <l>But hark! where now the noonday beams are shed </l>
-<l >In sorrowing Europe, trembles a sound </l>
-<l >Of thunder, and the land with dews of blood </l>
+<l rend="indent">In sorrowing Europe, trembles a sound </l>
+<l rend="indent">Of thunder, and the land with dews of blood </l>
 <l>Is drenched; while o'er the dying and the dead </l>
 <l>Fate turns to weep o'er every pleading wound--</l>
-<l >Can earth o'ercome the evil with the good?</l></lg>
+<l rend="indent">Can earth o'ercome the evil with the good?</l></lg>
 
 <lg>
 <l>But yesterday two monarchs, held in check </l>
-<l >Like bloodhounds in the leash, broke forth before </l>
-<l >The eyes of Christendom, and in the roar </l>
+<l rend="indent">Like bloodhounds in the leash, broke forth before </l>
+<l rend="indent">The eyes of Christendom, and in the roar </l>
 <l>Of lurid conflict heard not the wild shriek </l>
 <l>Of outraged millions--now again the wreck </l>
-<l >Of crushed humanity must strew death's shore </l>
-<l >With ghastly ruin crying evermore, </l>
+<l rend="indent">Of crushed humanity must strew death's shore </l>
+<l rend="indent">With ghastly ruin crying evermore, </l>
 <l>"Shame! Wretch of mortal form and vulture's beak--</l>
 <l>To ask God's aid and Christ's! 0, hour of woe! </l>
-<l >Cover, O night of ages, the dread birth </l>
-<l >Of man's Imperial hate! Let kings go down </l>
+<l rend="indent">Cover, O night of ages, the dread birth </l>
+<l rend="indent">Of man's Imperial hate! Let kings go down </l>
 <l>That peoples way aspire and live and own </l>
 <l>A holier stature, and this crimsoned earth </l>
-<l >Drink the pure light of Freedom's afterglow!"</l></lg>
+<l rend="indent">Drink the pure light of Freedom's afterglow!"</l></lg>
 
 <dateline>Sunday in August, 1914</dateline><pb n="118"/></div2>
 
@@ -3893,25 +3892,25 @@ Its later significance is tenderly sung by Eleanor Jewett in The Chicago Tribune
 <lg>
 <l n="1">THEY shall not pass, </l>
 <l>While Britain's sons draw breath, </l>
-<l >While strength is theirs to strike with shining sword. </l>
+<l rend="indent">While strength is theirs to strike with shining sword. </l>
 <l>They shall not pass, </l>
 <l>Except they pass to Death--</l>
-<l >For British fighting men have pledged their word.</l></lg>
+<l rend="indent">For British fighting men have pledged their word.</l></lg>
 <lg>
 <l>They shall not pass--</l>
 <l>France knows no defeat, </l>
-<l >Nor hesitates to nobly pay the price.</l><ob n="126"/>
+<l rend="indent">Nor hesitates to nobly pay the price.</l><ob n="126"/>
 <l>They shall not pass </l>
 <l>Till brave hearts cease to beat, </l>
-<l >And none shall stand to fall in sacrifice.</l></lg>
+<l rend="indent">And none shall stand to fall in sacrifice.</l></lg>
 
 <lg>
 <l>They shall not pass-</l>
 <l>America will stand</l>
 <l>As long as lips can answer her, "I come."</l>
-<l >They shall not pass</l>
+<l rend="indent">They shall not pass</l>
 <l>To strike the lov&#x00e9; land,</l>
-<l >That freedom's children rise to call their home.
+<l rend="indent">That freedom's children rise to call their home.
 </l></lg></div2>
 
 <div2 id="Eaton107" type="poem" n="Ships That Sail In The Night">
@@ -3924,21 +3923,21 @@ Its later significance is tenderly sung by Eleanor Jewett in The Chicago Tribune
 
 <lg>
 <l n="1">HAIL and farewell,</l>
-<l >Ships that pass to the sea!</l>
+<l rend="indent">Ships that pass to the sea!</l>
 <l>Hail and a long farewell,</l>
-<l >Soldiers of destiny!</l></lg>
+<l rend="indent">Soldiers of destiny!</l></lg>
 
 <lg>
 <l>Not with rolling of drums,</l>
-<l >Not with music and songs,</l>
+<l rend="indent">Not with music and songs,</l>
 <l>Not with laughter and weeping,</l>
-<l >Or cheering of passionate throngs;</l></lg>
+<l rend="indent">Or cheering of passionate throngs;</l></lg>
 
 <lg>
 <l>But silently, as is fitting, </l>
-<l >Gray ghosts passing from sight;</l>
+<l rend="indent">Gray ghosts passing from sight;</l>
 <l>Great ships like sea-gulls flitting</l>
-<l >Against the curtain of night.
+<l rend="indent">Against the curtain of night.
 </l></lg><pb n="127"/></div2>
 
 <div2 id="Eaton108" type="poem" n="John Doe--Buck Private">
@@ -3949,43 +3948,43 @@ Its later significance is tenderly sung by Eleanor Jewett in The Chicago Tribune
 <l n="1">WHO was it, picked from civil life</l>
 <l>And plunged in deadly, frenzied strife </l>
 <l>Against a devil's dreadful might?</l>
-<l >Just plain "John Doe-Buck Private."</l></lg>
+<l rend="indent">Just plain "John Doe-Buck Private."</l></lg>
 
 <lg>
 <l>Who jumped the counter for the trench, </l>
 <l>And left fair shores for all the stench</l>
 <l>And mud, and death, and bloody drench?</l>
-<l >Your simple, plain "Buck Private."</l></lg>
+<l rend="indent">Your simple, plain "Buck Private."</l></lg>
 
 <lg>
 <l>Who, when his nerves were on the hop, </l>
 <l>With courage scaled the bloody top? </l>
 <l>Who was it made the Fritzies stop?</l>
-<l >"J. Doe (no stripes), Buck Private."</l></lg>
+<l rend="indent">"J. Doe (no stripes), Buck Private."</l></lg>
 
 <lg>
 <l>Who, underneath his training tan </l>
 <l>Is, every single inch, a man! </l>
 <l>And, best of all, American?</l>
-<l >"John Doe, just plain Buck Private."</l></lg>
+<l rend="indent">"John Doe, just plain Buck Private."</l></lg>
 
 <lg>
 <l>Who saw his job and did it well? </l>
 <l>Who smiles so bland--yet fights like hell? </l>
 <l>Who rang again old Freedom's bell?</l>
-<l >'Twas only "Doe--Buck Private."</l></lg>
+<l rend="indent">'Twas only "Doe--Buck Private."</l></lg>
 
 <lg>
 <l>Who was it lunged, and struck, and tore </l>
 <l>His bayonet deep in flesh and gore? </l>
 <l>Who was it helped to win the war?</l>
-<l >"John Doe (no brains), Buck Private."</l></lg>
+<l rend="indent">"John Doe (no brains), Buck Private."</l></lg>
 
 <lg>
 <l>Who, heeding not the laurel pile </l>
 <l>That scheming other men beguile, </l>
 <l>Stands modestly aside the while?</l>
-<l >"John Doe (God's kind), Buck Private."
+<l rend="indent">"John Doe (God's kind), Buck Private."
 </l></lg><pb n="128"/></div2>
 
 <div2 id="Eaton109" type="poem" n="Knitting Socks">
@@ -4075,59 +4074,59 @@ doom.</l></lg><pb n="130"/>
 
 <lg>
 <l n="1">THE. magpies in Picardy</l>
-<l >Are more than I can tell. </l>
+<l rend="indent">Are more than I can tell. </l>
 <l>They flicker down the dusty roads </l>
-<l >And cast a magic spell</l>
+<l rend="indent">And cast a magic spell</l>
 <l>On the men who march through Picardy, </l>
-<l >Through Picardy to hell.</l></lg>
+<l rend="indent">Through Picardy to hell.</l></lg>
 
 <lg>
 <l>(The blackbird flies with panic,</l>
-<l >The swallow goes like light,</l>
+<l rend="indent">The swallow goes like light,</l>
 <l>The finches move like ladies,</l>
-<l >The owl floats by at night;</l>
+<l rend="indent">The owl floats by at night;</l>
 <l>But the great and flashing magpie</l>
-<l >He flies as artists might.)</l></lg><pb n="131"/>
+<l rend="indent">He flies as artists might.)</l></lg><pb n="131"/>
 
 <lg>
 <l>A magpie in Picardy</l>
-<l >Told me secret things--</l>
+<l rend="indent">Told me secret things--</l>
 <l>Of the music in white feathers,</l>
-<l >And the sunlight that sings</l>
+<l rend="indent">And the sunlight that sings</l>
 <l>And dances in deep shadows--</l>
-<l >He told me with his wings.</l></lg>
+<l rend="indent">He told me with his wings.</l></lg>
 
 <lg>
 <l>(The hawk is cruel and rigid,</l>
-<l >He watches from a height;</l>
+<l rend="indent">He watches from a height;</l>
 <l>The rook is slow and somber,</l>
-<l >The robin loves to fight;</l>
+<l rend="indent">The robin loves to fight;</l>
 <l>But the great and flashing magpie</l>
-<l >He flies as lovers might.)</l></lg>
+<l rend="indent">He flies as lovers might.)</l></lg>
 
 <lg>
 <l>He told me that in Picardy,</l>
-<l >An age ago or more,</l>
+<l rend="indent">An age ago or more,</l>
 <l>While all his fathers still were eggs,</l>
-<l >These dusty highways bore</l>
+<l rend="indent">These dusty highways bore</l>
 <l>Brown, singing soldiers marching out</l>
-<l >Through Picardy to war.</l></lg>
+<l rend="indent">Through Picardy to war.</l></lg>
 
 <lg>
 <l>He said that still through chaos</l>
-<l >Works on the ancient plan,</l>
+<l rend="indent">Works on the ancient plan,</l>
 <l>And that two things have altered not</l>
-<l >Since first the world began-</l>
+<l rend="indent">Since first the world began-</l>
 <l>The beauty of the wild green earth</l>
-<l >And the bravery of man.</l></lg>
+<l rend="indent">And the bravery of man.</l></lg>
 
 <lg>
 <l>(For the sparrow flies unthinking</l>
-<l >And quarrels in his flight.</l>
+<l rend="indent">And quarrels in his flight.</l>
 <l>The heron trails his legs behind,</l>
-<l >The lark goes out of sight;</l>
+<l rend="indent">The lark goes out of sight;</l>
 <l>But the great and flashing magpie</l>
-<l >He flies as poets might.)
+<l rend="indent">He flies as poets might.)
 </l></lg><pb n="132"/></div2>
 
 <div2 id="Eaton112" type="poem" n="Somewhere In France, 1918">
@@ -4138,27 +4137,27 @@ doom.</l></lg><pb n="130"/>
 
 <lg>
 <l n="1">LEAVE me alone here, proudly, with my dead, </l>
-<l >Ye mothers of brave sons adventurous;</l>
+<l rend="indent">Ye mothers of brave sons adventurous;</l>
 <l>He who once prayed: "If it be possible</l>
-<l >Let this cup pass," will arbitrate for us.</l>
+<l rend="indent">Let this cup pass," will arbitrate for us.</l>
 <l>Your boy with iron nerves and careless smile</l>
-<l >Marched gaily by and dreamed of glory's goal;</l>
+<l rend="indent">Marched gaily by and dreamed of glory's goal;</l>
 <l>Mine had blanched cheek, straight mouth and close-gripped hands</l>
-<l >And prayed that somehow he might save his soul.</l>
+<l rend="indent">And prayed that somehow he might save his soul.</l>
 <l>I do not grudge your ribbon or your cross,</l>
-<l >The price of these my soldier, too, has paid;</l>
+<l rend="indent">The price of these my soldier, too, has paid;</l>
 <l>I hug a prouder knowledge to my heart,</l>
-<l >The mother of the boy who was afraid!</l></lg>
+<l rend="indent">The mother of the boy who was afraid!</l></lg>
 
 <lg>
 <l>He was a tender child with nerves so keen</l>
-<l >They doubled pain and magnified the sad; </l>
+<l rend="indent">They doubled pain and magnified the sad; </l>
 <l>He hated cruelty and things obscene</l>
-<l >And in all high and holy things was glad.</l>
+<l rend="indent">And in all high and holy things was glad.</l>
 <l>And so he gave what others could not give,</l>
-<l >The one supremest sacrifice he made,</l>
+<l rend="indent">The one supremest sacrifice he made,</l>
 <l>A thing your brave boy could not understand; </l>
-<l >He gave his all because he was afraid!
+<l rend="indent">He gave his all because he was afraid!
 </l></lg><pb n="132"/></div2>
 
 <div2 id="Eaton113" type="poem" n="Afterward">
@@ -4405,60 +4404,60 @@ alliance.</l></lg><pb n="138"/>
 <byline rend="center"><docAuthor>WILLIAM L. COLESTOCK</docAuthor></byline>
 <lg>
 <l n="1">I ENLISTED in the infantry last summer;</l>
-<l >I was greeted at the training camp with joy;</l>
+<l rend="indent">I was greeted at the training camp with joy;</l>
 <l>I had hardly gotten settled, when a sergeant</l>
-<l >Told me I was now the Company's errand boy.</l>
+<l rend="indent">Told me I was now the Company's errand boy.</l>
 <l>Now, I knew I'd have to start in at the bottom,</l>
-<l >And acquire my army training bit by bit;</l>
+<l rend="indent">And acquire my army training bit by bit;</l>
 <l>But to be assigned to duties quite so humble,</l>
-<l >Was humiliating, surely you'll admit.</l></lg>
+<l rend="indent">Was humiliating, surely you'll admit.</l></lg>
 
 <lg>
 <l>My first errand was a trip to Field Headquarters.</l>
-<l >It was raining and the mud was deep and thick,</l>
+<l rend="indent">It was raining and the mud was deep and thick,</l>
 <l>I was ordered to seek out the Major General,</l>
-<l >And procure a requisition for a brick.</l>
+<l rend="indent">And procure a requisition for a brick.</l>
 <l>'Twas explained to me, before I left my Company,</l>
-<l >That our Captain suffered much with chilly feet,</l>
+<l rend="indent">That our Captain suffered much with chilly feet,</l>
 <l>And that bricks, when rightly heated, would correct this.</l>
-<l >What that Major General said, I'll not repeat.</l></lg>
+<l rend="indent">What that Major General said, I'll not repeat.</l></lg>
 <lg>
 <l>To our surly Regimental Quartermaster,</l>
-<l >I was sent to get the Company's Sunday hats,</l>
+<l rend="indent">I was sent to get the Company's Sunday hats,</l>
 <l>And my Sergeant said, "to save myself some walking,"</l>
-<l >I could "also get the First Lieutenant's spats";</l>
+<l rend="indent">I could "also get the First Lieutenant's spats";</l>
 <l>When I told that sour Quartermaster's seageant</l>
-<l >What it was I'd like to have for Company A,</l>
+<l rend="indent">What it was I'd like to have for Company A,</l>
 <l>Gosh he "bawled me out," said "Your ears should be longer, </l>
-<l >And your rations should be changed from beans to hay."</l></lg>
+<l rend="indent">And your rations should be changed from beans to hay."</l></lg>
 
 <lg>
 <l>For a thousand feet of skirmish line I hunted </l>
-<l >For a half a day, before I saw the joke;</l><pb n="142"/>
+<l rend="indent">For a half a day, before I saw the joke;</l><pb n="142"/>
 <l>Next they sent me for a left--hand canvas stretcher,</l>
-<l >To repair the Mess-hall windows, which were broke.</l>
+<l rend="indent">To repair the Mess-hall windows, which were broke.</l>
 <l>As the Company Street was slightly rough and bumpy,</l>
-<l >They dispatched me for a double-jointed plow;</l>
+<l rend="indent">They dispatched me for a double-jointed plow;</l>
 <l>And one breakfast-time they sent me to the Colonel,</l>
-<l >With a pail, to milk the Regimental cow.</l></lg>
+<l rend="indent">With a pail, to milk the Regimental cow.</l></lg>
 <lg>
 <l>Then one day the Sergeant said, "You've been promoted.</l>
-<l >You're now morning call-boy for the Regiment,</l>
+<l rend="indent">You're now morning call-boy for the Regiment,</l>
 <l>And each morning, bright and early, you will sprinkle</l>
-<l >Drops of water on each face, in every tent."</l>
+<l rend="indent">Drops of water on each face, in every tent."</l>
 <l>In  the morning I began my sprinkling duties,</l>
-<l >And had sprinkled in about one dozen tents,</l>
+<l rend="indent">And had sprinkled in about one dozen tents,</l>
 <l>When a bunch of fellows rushed me to the hydrant,</l>
-<l >Where they "soused" me good; since then I've had me some sense.</l></lg>
+<l rend="indent">Where they "soused" me good; since then I've had me some sense.</l></lg>
 <lg>
 <l>As I look back at the time I "ran the paddles,"</l>
-<l >After having set me down in water wet;</l>
+<l rend="indent">After having set me down in water wet;</l>
 <l>Rushing down between two rows of husky messmates,</l>
-<l >With my arms above my head, I feel it yet.</l>
+<l rend="indent">With my arms above my head, I feel it yet.</l>
 <l>Now, I've graduated from the rookie section,</l>
-<l >And the "awkward squad" will miss me in its ranks,</l>
+<l rend="indent">And the "awkward squad" will miss me in its ranks,</l>
 <l>And I'm happy, for a hunch of bloomin' rookies</l>
-<l >Have arrived.  To those that sent them, Many Thanks.
+<l rend="indent">Have arrived.  To those that sent them, Many Thanks.
 </l></lg><pb n="143"/></div2>
 <div2 id="Eaton119" type="poem" n="In The Front-line Desks">
 <head rend="center">IN THE FRONT-LINE DESKS</head>
@@ -4548,24 +4547,24 @@ published and copyright, 1914, by The Macmillan Company, New York.  Special perm
 
 <lg>
 <l n="1">THE Kings are dying! In blood and flame </l>
-<l >Their sun is setting to rise no more! </l>
+<l rend="indent">Their sun is setting to rise no more! </l>
 <l>They have played too long at the ancient game </l>
-<l >Of their bluer blood and the bolted door.</l></lg>
+<l rend="indent">Of their bluer blood and the bolted door.</l></lg>
 <lg>
 <l>Now the blood of their betters is on their hands--</l>
-<l >The blood of the peasant, the child, the maid </l>
+<l rend="indent">The blood of the peasant, the child, the maid </l>
 <l>And there are no waters in all the lands</l>
-<l >Can bathe them clean of the dark stain laid.</l></lg>
+<l rend="indent">Can bathe them clean of the dark stain laid.</l></lg>
 <lg>
 <l>They have sinned in malice and craven fear-</l>
-<l >For the sake of their tinsel have led us on </l>
+<l rend="indent">For the sake of their tinsel have led us on </l>
 <l>To the hate-built trench and the death-drop sheer,</l>
-<l >But the day will come when the Kings are gone.</l></lg>
+<l rend="indent">But the day will come when the Kings are gone.</l></lg>
 <lg>
 <l>The Kings are dying! Beat, O drums,</l>
-<l >The world-wide roll of the democrat!</l>
+<l rend="indent">The world-wide roll of the democrat!</l>
 <l>O bugles, cry out for the day that comes</l>
-<l >When the Kings that were shall be marveled at!
+<l rend="indent">When the Kings that were shall be marveled at!
 </l></lg><pb n="146"/></div2>
 
 <div2 id="Eaton122" type="poem" n="Jean Desprez">
@@ -4883,33 +4882,33 @@ Prussian Major dead!</hi></l></lg><pb n="151"/></div2>
 
 <lg>
 <l n="1">SHE stands alone beside the gate, </l>
-<l >Where oft with him she stood before, </l>
+<l rend="indent">Where oft with him she stood before, </l>
 <l>And seems to hear his voice relate</l>
-<l >Life's sweetest story o'er and o'er;</l>
+<l rend="indent">Life's sweetest story o'er and o'er;</l>
 <l>A hand she feels upon her own,</l>
-<l >Unconsciously a tender glance</l>
+<l rend="indent">Unconsciously a tender glance</l>
 <l>She gives, then starts and stands alone,</l>
-<l >The lover sleeps--Somewhere in France.</l></lg>
+<l rend="indent">The lover sleeps--Somewhere in France.</l></lg>
 
 <lg>
 <l>She could have kept him if she would--</l>
-<l >His heart and soul were all her own--</l>
+<l rend="indent">His heart and soul were all her own--</l>
 <l>But true love knew and understood</l><
-<l >That Honor is its own true throne;</l>
+<l rend="indent">That Honor is its own true throne;</l>
 <l>She heard the bugles' blaring sound</l>
-<l >And whispered--"Go and take your chance."</l>
+<l rend="indent">And whispered--"Go and take your chance."</l>
 <l>There 'mid the scenes of war he found</l>
-<l >Eternal peace--Somewhere in France.</l></lg>
+<l rend="indent">Eternal peace--Somewhere in France.</l></lg>
 
 <lg>
 <l>She knows not where that spot may be--</l>
-<l >On barren plain, in hidden dell,</l>
+<l rend="indent">On barren plain, in hidden dell,</l>
 <l>On wooded hill, beside the sea--</l>
-<l >The lips that would will never tell;</l>
+<l rend="indent">The lips that would will never tell;</l>
 <l>She knows not what his last words were.</l>
-<l >The thoughts that come with Death's advance,</l>
+<l rend="indent">The thoughts that come with Death's advance,</l>
 <l>And yet, she feels they were of her,</l>
-<l >Those last fond thoughts--Somewhere in France.
+<l rend="indent">Those last fond thoughts--Somewhere in France.
 </l></lg><pb n="158"/></div2>
 <div2 id="Eaton129" type="poem" n="The Service Flag">
 <head rend="center">THE SERVICE FLAG</head>
@@ -4918,47 +4917,47 @@ Prussian Major dead!</hi></l></lg><pb n="151"/></div2>
 
 <lg>
 <l n="1">SAY, Pa! What is a service flag? </l>
-<l >I see them everywhere.</l>
+<l rend="indent">I see them everywhere.</l>
 <l>There's little stars sewed on them;</l>
-<l >What are they doing there?</l>
+<l rend="indent">What are they doing there?</l>
 <l>Sometimes there's lots of little stars,</l>
-<l >And sometimes just a few. </l>
+<l rend="indent">And sometimes just a few. </l>
 <l>Poor Widow Jones has only one--</l>
-<l >I saw her crying, too.</l></lg>
+<l rend="indent">I saw her crying, too.</l></lg>
 
 <lg>
 <l>My darling boy, those little stars</l>
-<l >Upon a field of white,</l>
+<l rend="indent">Upon a field of white,</l>
 <l>Are emblems of our glorious boys</l>
-<l >Enrolling for the right.</l>
+<l rend="indent">Enrolling for the right.</l>
 <l>The border, as you see, is red,  </l>
-<l >Which represents their blood;</l>
+<l rend="indent">Which represents their blood;</l>
 <l>The stars are blue, the heavenly hue;</l>
-<l >The white is always good.</l></lg>
+<l rend="indent">The white is always good.</l></lg>
 
 <lg>
 <l>Each star you see means some brave boy</l>
-<l >Has left his hearth and home</l>
+<l rend="indent">Has left his hearth and home</l>
 <l>And gone to fight for Freedom's cause</l>
-<l >Wherever he may roam.</l>
+<l rend="indent">Wherever he may roam.</l>
 <l>So when you see a lot of stars</l>
-<l >Lift up your heart with joy,</l>
+<l rend="indent">Lift up your heart with joy,</l>
 <l>And when you see a single one</l>
-<l >Pray for some mother's boy.</l></lg>
+<l rend="indent">Pray for some mother's boy.</l></lg>
 
 <lg>
 <l>They go away, those gallant lads,</l>
-<l >Across the wreck-strewn sea; </l>
+<l rend="indent">Across the wreck-strewn sea; </l>
 <l>They go to pledge their country's faith</l>
-<l >For God and liberty</l><pb n="159"/>
+<l rend="indent">For God and liberty</l><pb n="159"/>
 <l>The Stars and Stripes they bear aloft </l>
-<l >To join the British flag,</l>
+<l rend="indent">To join the British flag,</l>
 <l>And, with the colors of brave France, </l>
-<l >They mean to end "Der Tag."</l>
+<l rend="indent">They mean to end "Der Tag."</l>
 <l>And soon, my boy, that service flag,</l>
-<l >Born in the nation's heart,</l>
+<l rend="indent">Born in the nation's heart,</l>
 <l>Will show the world that, when unfurled,</l>
-<l >We proudly take our part.
+<l rend="indent">We proudly take our part.
 </l></lg></div2>
 
 <div2 id="Eaton130" type="poem" n="'Hearts Are Touching'">
@@ -4979,33 +4978,33 @@ hearts are touching."</l></lg><pb n="160"/>
 
 <lg>
 <l n="1">WE whom the draft rejected;</l>
-<l >We who stay by the stuff;</l>
+<l rend="indent">We who stay by the stuff;</l>
 <l>We who measure our manhood</l>
-<l >And find that it isn't enough;</l>
+<l rend="indent">And find that it isn't enough;</l>
 <l>We who are gray and burdened;</l>
-<l >We whom the trades require--</l>
+<l rend="indent">We whom the trades require--</l>
 <l>Will you permit us to hail you,</l>
-<l >Men of the Blood and Mire?</l></lg>
+<l rend="indent">Men of the Blood and Mire?</l></lg>
 
 <lg>
 <l>We of the thundering forum;</l>
-<l >We of the pen and press;</l>
+<l rend="indent">We of the pen and press;</l>
 <l>We who are pouring our utmost</l>
-<l >Into our land's success;</l>
+<l rend="indent">Into our land's success;</l>
 <l>We of the Cross and Triangle,</l>
-<l >Lofty in deed and desire--</l>
+<l rend="indent">Lofty in deed and desire--</l>
 <l>God, how we shrivel before you,</l>
-<l >Men of the Blood and Mire!</l></lg>
+<l rend="indent">Men of the Blood and Mire!</l></lg>
 
 <lg>
 <l>Aye, we are square with conscience--</l>
-<l >We are reservists all;</l>
+<l rend="indent">We are reservists all;</l>
 <l>Aye, when your ranks are gaping,</l>
-<l >We will fight where you fall;</l>
+<l rend="indent">We will fight where you fall;</l>
 <l>Yet, while we wait, your altar</l>
-<l >Flames in the gas and fire--</l>
+<l rend="indent">Flames in the gas and fire--</l>
 <l>We are the shade of your glory,</l>
-<l >Men of the Blood and Mire!</l></lg><pb n="161"/>
+<l rend="indent">Men of the Blood and Mire!</l></lg><pb n="161"/>
 
 <div2 id="Eaton132" type="poem" n="The Song Of The Dead">
 <head rend="center">THE SONG OF THE DEAD</head>
@@ -5161,27 +5160,27 @@ hearts are touching."</l></lg><pb n="160"/>
 
 <lg>
 <l n="1">WHAT are we fighting for, men of my race, </l>
-<l >And the best of us dying for?</l>
+<l rend="indent">And the best of us dying for?</l>
 <l>For wealth--or profit--or power--or fame?</l>
 <l>Or a statesman's lust? or a monarch's name?</l>
 <l>Or for aught that our sons of sons could blame </l>
-<l >Did we throw the dice of war?</l></lg>
+<l rend="indent">Did we throw the dice of war?</l></lg>
 
 <lg>
 <l>Why are ye weeping, sisters of mine, </l>
-<l >With a mien so proud and brave?</l>
+<l rend="indent">With a mien so proud and brave?</l>
 <l>Do ye weep because of the utter woe?</l>
 <l>Are ye proud because ye would have it so,</l>
 <l>Though Fate should have dealt you the final blow </l>
-<l >And there's nothing to mark the grave?</l></lg>
+<l rend="indent">And there's nothing to mark the grave?</l></lg>
 
 <lg>
 <l>What are we fighting for, women and men, </l>
-<l >And the best of us dying for?</l>
+<l rend="indent">And the best of us dying for?</l>
 <l>It was just because we had signed our name,</l>
 <l>And the Briton's creed is to honor the same:</l>
 <l>It was only for that, and our own fair fame</l>
-<l >We took up the gage of war.
+<l rend="indent">We took up the gage of war.
 </l></lg><pb n="166"/></div2>
 
 <div2 id="Eaton136" type="poem" n="The Man Behind">
@@ -5192,29 +5191,29 @@ hearts are touching."</l></lg><pb n="160"/>
 
 <lg>
 <l n="1">THE band is on the quarter-deck, the starry flag unfurled;</l>
-<l >The air is mad with music and with cheers.</l>
+<l rend="indent">The air is mad with music and with cheers.</l>
 <l>The ship is bringing home to us the homage of the world</l>
-<l >And writing new our name upon the years.</l>
+<l rend="indent">And writing new our name upon the years.</l>
 <l>Her officer is on the bridge; we greet him with hurrahs;</l>
-<l >But some one says, "Not he the glory won;</l>
+<l rend="indent">But some one says, "Not he the glory won;</l>
 <l>Not he alone who wears the braid, deserves the loud applause,</l>
-<l >Oh, don't forget the man behind the gun!"</l>
+<l rend="indent">Oh, don't forget the man behind the gun!"</l>
 <l>'Tis said that to embattled seas our ship sailed forth at dawn,</l>
-<l >Unheeding shot, unheeding hidden mine;</l>
+<l rend="indent">Unheeding shot, unheeding hidden mine;</l>
 <l>And through the thunders of the fight went steaming bravely on,</l>
-<l >The nation's floating fortress on the brine.</l>
+<l rend="indent">The nation's floating fortress on the brine.</l>
 <l>And never throbbing engine stopped, nor parted plate or seam</l>
-<l >In all that bloody day from sun to sun;</l>
+<l rend="indent">In all that bloody day from sun to sun;</l>
 <l>The good ship sang her battle cry in hissing clouds of steam</l>
-<l >To cheer anew the man behind the gun.</l>
+<l rend="indent">To cheer anew the man behind the gun.</l>
 <l>I look upon her shining bore, her engine's pulsing heart,</l>
-<l >I look upon her bulwarks shaped of steel;</l>
+<l rend="indent">I look upon her bulwarks shaped of steel;</l>
 <l>I know there is another art, as great as gunner's art,</l>
-<l >That makes the world at arms in homage kneel.</l>
+<l rend="indent">That makes the world at arms in homage kneel.</l>
 <l>This ship, defying shot and shell, defying winds and seas,</l>
-<l >Is fruit of honest labor, rightly done;</l>
+<l rend="indent">Is fruit of honest labor, rightly done;</l>
 <l>The man who built the ship, my lads, remember him, for he's</l>
-<l >The man behind the man behind the gun!
+<l rend="indent">The man behind the man behind the gun!
 </l></lg><pb n="167"/></div2>
 
 <div2 id="Eaton137" type="poem" n="Here At Verdun">
@@ -5223,24 +5222,24 @@ hearts are touching."</l></lg><pb n="160"/>
 
 <lg>
 <l n="1">I STAND on a peak at Verdun--a scarred, torn peak of hope and death.</l>
-<l >Far under my feet run the mystic passages of Fort Souville.</l>
-<l >I strain my eyes to look over a great field where men have swayed in the death lock with eternity.</l>
-<l >Ahead and to the right and left stretch fifteen kilometres gaping with wounds, each shell hole a pit of death, a hideous mark left by the scourge of despotism.</l>
-<l >Ahead is that foul stretch from which came and still come the
+<l rend="indent">Far under my feet run the mystic passages of Fort Souville.</l>
+<l rend="indent">I strain my eyes to look over a great field where men have swayed in the death lock with eternity.</l>
+<l rend="indent">Ahead and to the right and left stretch fifteen kilometres gaping with wounds, each shell hole a pit of death, a hideous mark left by the scourge of despotism.</l>
+<l rend="indent">Ahead is that foul stretch from which came and still come the
 hordes of tyranny, with breath of poison and sting of contamination.</l>
-<l >Behind is ruin. Never was such ruin. A blight, a torture, a world pain, piercing and cruel.</l>
-<l >And yet behind is hope. Behind are the legions of liberty, the soldiers of our children's freedom.</l>
-<l >Behind are the endless legions, coming, coming, coming. Behind are
+<l rend="indent">Behind is ruin. Never was such ruin. A blight, a torture, a world pain, piercing and cruel.</l>
+<l rend="indent">And yet behind is hope. Behind are the legions of liberty, the soldiers of our children's freedom.</l>
+<l rend="indent">Behind are the endless legions, coming, coming, coming. Behind are
 the veteran legions of France and Britain. Behind are the countless
 legions of America, coming, coming, coming--a brown ribbon of promise
 stretching across the sea to the shrine of Liberty!</l>
-<l >Here where these jagged slashes in the yellow earth have formed a
+<l rend="indent">Here where these jagged slashes in the yellow earth have formed a
 glorious tomb for three hundred thousand gallant French--here is the
 testing ground of our destiny. Here they have held for us our
 heritage! Here they have perished in the eternal splendor of
 self-sacrifice for us! Here is their borderland--and ours!</l>
 <l>Here they have written with their ebbing blood the slogan that has thrilled the world--"They shall not pass!"</l>
-<l >The gaunt and sinister craters, one merging into the ragged rim of
+<l rend="indent">The gaunt and sinister craters, one merging into the ragged rim of
 another, the bits of shell, the battered hel<pb n="168"/>mets, broken guns,
 ill-assorted refuse of combat--each shattered particle a marker for
 some valiant soul "gone west" in service of humanity.</l>
@@ -5248,18 +5247,18 @@ some valiant soul "gone west" in service of humanity.</l>
 there has been no more exalted, must our war be waged. Out of this
 hallowed ground comes the call of those who have given of their
 best--the call to our great land for Old Glory's best!</l>
-<l >There will come to us wounds that will rack our bodies and drain
+<l rend="indent">There will come to us wounds that will rack our bodies and drain
 the coursing blood of our vibrant veins. There will come to us the
 aching pain of suffering and loss--here on these red fields of
 France. But we will save our souls and our nation's soul! And we will
 save our heritage and give to the billions of the world the right to theirs.</l>
-<l >So the brown ribbon of youth winds across the sea--to Verdun and
+<l rend="indent">So the brown ribbon of youth winds across the sea--to Verdun and
 to the long, thin lines on either side. Here will we prove our right to life and liberty!</l>
-<l >Brown ribbon of promise!</l>
-<l >Hoping, longing, wounded France!</l>
-<l >Brown ribbon of youth and high resolve!</l>
-<l >Brown ribbon of Liberty!</l>
-<l >Here at Verdun!
+<l rend="indent">Brown ribbon of promise!</l>
+<l rend="indent">Hoping, longing, wounded France!</l>
+<l rend="indent">Brown ribbon of youth and high resolve!</l>
+<l rend="indent">Brown ribbon of Liberty!</l>
+<l rend="indent">Here at Verdun!
 </l></lg><pb n="169"/></div2>
 
 <div2 id="Eaton138" type="poem" n="The Anxious Anthemist">
@@ -5291,13 +5290,13 @@ to the long, thin lines on either side. Here will we prove our right to life and
 <hi rend="smallcap">IN The Manchester (England) Guardian</hi></byline>
 <lg>
 <l n="1">TROTTING the roan horse </l>
-<l >Over the meadows, </l>
+<l rend="indent">Over the meadows, </l>
 <l>Purple of thistles,</l>
-<l >Purple of clover;</l>
+<l rend="indent">Purple of clover;</l>
 <l>Over the clay-brown path,</l>
-<l >All through the grass-lands,</l>
+<l rend="indent">All through the grass-lands,</l>
 <l>Glory of meadow flowers,</l>
-<l >Over! Come over!</l></lg>>
+<l rend="indent">Over! Come over!</l></lg>>
 <l type ="break" n="."/>
 
 <lg>
@@ -5314,18 +5313,18 @@ to the long, thin lines on either side. Here will we prove our right to life and
 <l>A Christ hangs from a crucifix beside a broken shrine.</l>
 <l rend="break" n="."/>
 <l>On to the path at the side of the white road, </l>
-<l >Cantering, galloping, breasting the rise;</l>
+<l rend="indent">Cantering, galloping, breasting the rise;</l>
 <l>Any road, every road, each is the right road, </l>
-<l >Facing the east, the sun in my eyes.</l></lg>
+<l rend="indent">Facing the east, the sun in my eyes.</l></lg>
 <l rend="break" n="."/>
 <lg rend="center"><l>Trotting the roan horse </l>
-<l >Over the meadows,</l><pb n="171"/>
+<l rend="indent">Over the meadows,</l><pb n="171"/>
 <l>Purple of thistles,</l>
-<l >Purple of clover;</l>
+<l rend="indent">Purple of clover;</l>
 <l>Over the clay--brown path,</l>
-<l >Back through the grass--lands,</l>
+<l rend="indent">Back through the grass--lands,</l>
 <l>All through the meadow flowers;</l>
-<l >Over! Come over!</l></lg></div2>
+<l rend="indent">Over! Come over!</l></lg></div2>
 
 <div2 id="Eaton140" tpye="poem" n="There Will Be Dreams Again">
 <head rend="center">THERE WILL BE DREAMS AGAIN</head>
@@ -5334,20 +5333,20 @@ to the long, thin lines on either side. Here will we prove our right to life and
 <bibl rend="center">Permission to reproduce in this book</bibl>
 <lg>
 <l>THERE will be dreams again! The grass will spread </l>
-<l >Her velvet verdure over earth's torn breast;</l>
+<l rend="indent">Her velvet verdure over earth's torn breast;</l>
 <l>By ragged shard, half-hid, where rust runs red,</l>
-<l >The soaring lark in spring will build her nest.</l></lg>
+<l rend="indent">The soaring lark in spring will build her nest.</l></lg>
 <lg>
 <l>There will be dreams again! The primrose pale</l>
-<l >Will shelter where the belching guns plowed deep;</l>
+<l rend="indent">Will shelter where the belching guns plowed deep;</l>
 <l>The trees will whisper, and the nightingale</l>
-<l >Chant golden monodies where heroes sleep.</l></lg>
+<l rend="indent">Chant golden monodies where heroes sleep.</l></lg>
 <lg>
 <l>There will be dreams again </l>
-<l >The stars look down</l>
+<l rend="indent">The stars look down</l>
 <l>On youthful lovers--oh, first love, how sweet!</l>
 <l>And men will wed, and childish laughter crown</l>
-<l >Life's awe--compelling miracle complete.</l></lg>
+<l rend="indent">Life's awe--compelling miracle complete.</l></lg>
 
 <lg>
 <l>There will be dreams again! Oh, thou forlorn</l>
@@ -5363,53 +5362,53 @@ to the long, thin lines on either side. Here will we prove our right to life and
 
 <lg>
 <l n="1">THERE used to be a boy next door</l>
-<l >Whom I often have longed to throttle;</l>
+<l rend="indent">Whom I often have longed to throttle;</l>
 <l>I've wished a thousand times and more</l>
-<l >That he had died while "on the bottle"! </l>
+<l rend="indent">That he had died while "on the bottle"! </l>
 <l>Oft in the past it has been hard </l>
-<l >For me to check my inclination, </l>
+<l rend="indent">For me to check my inclination, </l>
 <l>When he had cluttered up our yard,</l>
-<l >To hand him heavy castigation.</l></lg>
+<l rend="indent">To hand him heavy castigation.</l></lg>
 
 <lg>
 <l>With freckles on his tilted nose</l>
-<l >And ears that far in space protruded,</l>
+<l rend="indent">And ears that far in space protruded,</l>
 <l>He was not one, as heaven knows,</l>
-<l >To whom I in my prayers alluded.</l>
+<l rend="indent">To whom I in my prayers alluded.</l>
 <l>Derisively he showed his tongue</l>
-<l >And scorned the warnings which I gave him, </l>
+<l rend="indent">And scorned the warnings which I gave him, </l>
 <l>But now I list myself among</l>
-<l >The ones who pray the Lord to save him.</l></lg>
+<l rend="indent">The ones who pray the Lord to save him.</l></lg>
 
 <lg>
 <l>How vividly I can recall</l>
-<l >Him at the window, making faces;</l>
+<l rend="indent">Him at the window, making faces;</l>
 <l>I used to think that in him all</l>
-<l >The impish traits had lurking places.</l>
+<l rend="indent">The impish traits had lurking places.</l>
 <l>He stole the green fruit from my trees,</l>
-<l >Not caring how it might affect him;</l>
+<l rend="indent">Not caring how it might affect him;</l>
 <l>Today he's fighting overseas,</l>
-<l >And may the God of hosts protect him!</l></lg>
+<l rend="indent">And may the God of hosts protect him!</l></lg>
 
 <lg>
 <l>From childhood into youth he passed,</l>
-<l >And then my little garden flourished;</l>
+<l rend="indent">And then my little garden flourished;</l>
 <l>And still his friendship was not classed</l>
-<l >Among the treasures which I nourished.</l>
+<l rend="indent">Among the treasures which I nourished.</l>
 <l>He tortured first a slide tombone,</l><pb n="173"/>
-<l >And next he tried a squeaky fiddle;</l>
+<l rend="indent">And next he tried a squeaky fiddle;</l>
 <l>His voice took on a raucous tone</l>
-<l >That used to rasp me down the middle.</l></lg>
+<l rend="indent">That used to rasp me down the middle.</l></lg>
 
 <lg>
 <l>How soldierly our lad appeared</l>
-<l >When with his comrades he departed!</l>
+<l rend="indent">When with his comrades he departed!</l>
 <l>I wonder if he knew I cheered,</l>
-<l >Or guessed that I was heavy--hearted.</l>
+<l rend="indent">Or guessed that I was heavy--hearted.</l>
 <l>If I have damned him heretofore</l>
-<l >I now retract each foul aspersion</l>
+<l rend="indent">I now retract each foul aspersion</l>
 <l>God bless the boy who lived next door,</l>
-<l >And used to be my pet aversion!</l></lg></div2>
+<l rend="indent">And used to be my pet aversion!</l></lg></div2>
 
 <div2 id="Eaton142" type="poem" n="The Flag">
 <head rend="cemter">THE FLAG</head>
@@ -5461,24 +5460,24 @@ to the long, thin lines on either side. Here will we prove our right to life and
 <lg>
 <l>The gas is coming on</l>
 <l>An' yer knows before it's gone</l>
-<l >That the 'orse wots with you now won't be by then;</l>
+<l rend="indent">That the 'orse wots with you now won't be by then;</l>
 <l>Yer loves him like yer wife</l>
 <l>An' yer wants to save 'is life,</l>
-<l >But there ain't no respirators, not for them.</l>
+<l rend="indent">But there ain't no respirators, not for them.</l>
 <l>I was standing by 'is side</l>
 <l>On the night my old 'orse died,</l>
-<l >An' I shan't forget 'is looks towards the last.</l>
+<l rend="indent">An' I shan't forget 'is looks towards the last.</l>
 <l>'E is choking mighty bad,</l>
 <l>An' is eyes was looking mad,</l>
-<l >An' I seed that--'e--was dying--dying fast.</l></lg>
+<l rend="indent">An' I seed that--'e--was dying--dying fast.</l></lg>
 
 <lg>
 <l>An' I want to tell yer 'ow </l>
 <l>It's the 'orses gets us through,</l>
-<l >For they strains their blooming 'earts out when they're pressed.</l>
+<l rend="indent">For they strains their blooming 'earts out when they're pressed.</l>
 <l>We was galloping like 'ell</l><pb n="176"/>
 <l>When a bullet 'its old Bill,</l>
-<l >I c'd see the blood a-streaming down 'is face, </l>
+<l rend="indent">I c'd see the blood a-streaming down 'is face, </l>
 <l>It 'ad got 'im in the 'ead, </l>
 <l>But 'e stuck to it and led </l>
 <l>Till we comes to ''Action right,'' </l>
@@ -5487,24 +5486,24 @@ to the long, thin lines on either side. Here will we prove our right to life and
 <lg>
 <l>I 'adn't time to choose </l>
 <l>I 'ad to cut 'im loose,</l>
-<l >For 'e'd done all 'e c'd afore a gun. </l>
+<l rend="indent">For 'e'd done all 'e c'd afore a gun. </l>
 <l>When I looks at 'im again </l>
 <l>'E was out of all 'is pain,</l>
-<l >An' I 'opes 'is soul will rest for wot 'e done. </l>
+<l rend="indent">An' I 'opes 'is soul will rest for wot 'e done. </l>
 <l>If it 'adn't been for Bill </l>
 <l>We should all 'ave been in 'ell,</l>
-<l >For we only got in action just in time. </l>
+<l rend="indent">For we only got in action just in time. </l>
 <l>Ain't it once occurred to you </l>
 <l>Wot the 'orses there go through?</l>
-<l >They 'elps to win our fight an' does it fine.</l></lg>
+<l rend="indent">They 'elps to win our fight an' does it fine.</l></lg>
 
 <lg>
 <l>When 'is blood is flowing 'ot </l>
 <l>From a wound what 'e's just got</l>
-<l >An' 'is breath is coming 'ard an' short an' thin.</l>
+<l rend="indent">An' 'is breath is coming 'ard an' short an' thin.</l>
 <l>'E can see the men about, </l>
 <l>Getting water dealed out,</l>
-<l >But not a drop is brought to comfort 'im; </l>
+<l rend="indent">But not a drop is brought to comfort 'im; </l>
 <l>Tho 'is tongue is parched and dry, </l>
 <l>'E can see the water by, </l>
 <l>But 'is wounds are left to bleed, </l>
@@ -5514,16 +5513,16 @@ to the long, thin lines on either side. Here will we prove our right to life and
 <lg>
 <l>There are 'eroes big and small, </l>
 <l>But the biggest of them all</l>
-<l >Is the 'orse wot lays a--dying on the ground.</l><pb n="176"/>
+<l rend="indent">Is the 'orse wot lays a--dying on the ground.</l><pb n="176"/>
 <l>'E doesn't cause no wars,</l>
 <l>An' 'e's only fighting yours,</l>
-<l >An' 'e gives 'is life for you without a sound.</l>
+<l rend="indent">An' 'e gives 'is life for you without a sound.</l>
 <l>'E doesn't get no pay,</l>
 <l>Just some oats, and p'r'aps some hay;</l>
-<l >If 'e's killed, no one thinks a bit of 'im</l>
+<l rend="indent">If 'e's killed, no one thinks a bit of 'im</l>
 <l>"E's just as brave an' good</l>
 <l>As any men wot ever stood,</l>
-<l >But there's mighty little though or 'elp for 'im.
+<l rend="indent">But there's mighty little though or 'elp for 'im.
 </l></lg></div2>
 
 <div2 id="Eaton144" type="poem" n="Parenthetically Speaking">
@@ -5592,25 +5591,25 @@ Street," published and copyright, 1917, by The Macmillan Company, New York. Spec
 <l n="1">ON law and love and mercy </l>
 <l> Was laid the German curse </l>
 <l>When to her execution</l>
-<l >Was led the British nurse.</l></lg>
+<l rend="indent">Was led the British nurse.</l></lg>
 
 <lg>
 <l>In brutal might they thought her</l>
-<l >Of help and friendship shorn;</l>
+<l rend="indent">Of help and friendship shorn;</l>
 <l>John Brown, Jeanne d'Arc, all martyrs,</l>
-<l >Companioned her that morn.</l></lg>
+<l rend="indent">Companioned her that morn.</l></lg>
 
 <lg>
 <l>A harmless, tender woman,</l>
-<l >They took her to her doom; </l>
+<l rend="indent">They took her to her doom; </l>
 <l>A dread, resistless spirit</l>
-<l >She rises from the tomb.</l></lg>
+<l rend="indent">She rises from the tomb.</l></lg>
 
 <lg>
 <l>Still Germany shall fear her,</l>
-<l >For since that bloody dawn</l>
+<l rend="indent">For since that bloody dawn</l>
 <l>Through all the earth that trembles</l>
-<l >Her soul goes marching on!
+<l rend="indent">Her soul goes marching on!
 </l></lg><pb n="179"/></div2>
 
 <div2 id="Eaton147" type="poem" n="To Serve Is To Gain">
@@ -5620,20 +5619,20 @@ Street," published and copyright, 1917, by The Macmillan Company, New York. Spec
 
 <lg>
 <l n="1">"HE profits most who serves us best!"</l>
-<l >Let each who labors, lives and dies </l>
-<l >Beneath these star-bespangled skies</l>
+<l rend="indent">Let each who labors, lives and dies </l>
+<l rend="indent">Beneath these star-bespangled skies</l>
 <l>Go write that motto on his breast!</l></lg>
 
 <lg>
 <l>"He profits most"--Here is no call </l>
-<l >To selfish ease or sordid gain; </l>
-<l >Who serves himself will serve in vain;</l>
+<l rend="indent">To selfish ease or sordid gain; </l>
+<l rend="indent">Who serves himself will serve in vain;</l>
 <l>Who profits most must serve us all.</l></lg>
 
 <lg>
 <l>And he has most who gives the most,</l>
-<l >Since what is kept can but decay </l>
-<l >--And Death still treads his sleepless way</l>
+<l rend="indent">Since what is kept can but decay </l>
+<l rend="indent">--And Death still treads his sleepless way</l>
 <l>Among our myriad human host.
 </l></lg></div2>
 
@@ -5644,14 +5643,14 @@ Street," published and copyright, 1917, by The Macmillan Company, New York. Spec
 
 <lg>
 <l n="1">THEY shall return when the wars are over, </l>
-<l >When battles are memories dim and far;</l>
+<l rend="indent">When battles are memories dim and far;</l>
 <l>Where guns now stand shall be corn and clover,</l>
-<l >Flowers shall bloom where the blood-drops are.</l></lg>
+<l rend="indent">Flowers shall bloom where the blood-drops are.</l></lg>
 <lg>
 <l>They shall return with laughing faces,</l>
-<l >Limbs that are lithe and hearts new-born;</l>
+<l rend="indent">Limbs that are lithe and hearts new-born;</l>
 <l>Yea, we shall see them in old home-places,</l>
-<l >Lovelier yet in the light of morn.
+<l rend="indent">Lovelier yet in the light of morn.
 </l></lg><pb n="180"/></div2>
 
 <div2 id="Eaton149" type="poem" n="'To The Irish Dead'">
@@ -5660,23 +5659,23 @@ Street," published and copyright, 1917, by The Macmillan Company, New York. Spec
 <note>The author of these heart--touching lines is a Queenslander of Welsh derivation. Sir Herbert Warren, K. C. V. O., of the University of Oxford, had this to say of him and of the Toast: "They say that no one but an Irishman understands Ireland, that she will listen to no one but Irishman. Wales is near to her in geography and in race. I have thought she perhaps might listen to a Welsh voice, She has one today, now whispering, now ringing, across St. George's Channel. Will she heed it? Who knows?"</note>
 <lg>
 <l n="1">TIS a green isle set in a silver water,</l>
-<l >A fairy isle where the shamrock grows, </l>
+<l rend="indent">A fairy isle where the shamrock grows, </l>
 <l>Land of Legend, the Dream--Queen's daughter--</l>
-<l >Out of the Fairies' hands she rose.</l>
+<l rend="indent">Out of the Fairies' hands she rose.</l>
 <l>They touched her harp with a tender sighing,</l>
-<l >A spirit-song from a world afar,</l>
+<l rend="indent">A spirit-song from a world afar,</l>
 <l>They touched her heart with a fire undying</l>
-<l >To fight and follow her battle-star.</l></lg>
+<l rend="indent">To fight and follow her battle-star.</l></lg>
 
 <lg>
 <l>Too long, too long thro' the grey years growing </l>
-<l >Feud and faction have swept between</l>
+<l rend="indent">Feud and faction have swept between</l>
 <l>The thistledown and the red rose blowing,</l>
-<l >And the three-fold leaf of the shamrock green;</l>
+<l rend="indent">And the three-fold leaf of the shamrock green;</l>
 <l>But the seal of blood, ye shall break it never:</l>
-<l >With rifles grounded and bare of head</l>
+<l rend="indent">With rifles grounded and bare of head</l>
 <l>We drink to the dead who live forever--</l>
-<l >A silent toast--To the Irish dead!
+<l rend="indent">A silent toast--To the Irish dead!
 </l></lg><pb n="181"/></div2>
 
 <div2 id="Eaton150" type="poem" n="Vision">
@@ -5687,43 +5686,43 @@ Street," published and copyright, 1917, by The Macmillan Company, New York. Spec
 
 <lg>
 <l n="1">ABOVE the broken walls the apple boughs</l>
-<l >Are murmurous with bees; </l>
-<l >Again the slumbrous breeze</l>
+<l rend="indent">Are murmurous with bees; </l>
+<l rend="indent">Again the slumbrous breeze</l>
 <l>Eddies the snow of drifted chestnut flowers,</l>
 <l>And little ruffling winds go silverly </l>
-<l >Along the poplar trees.</l>
+<l rend="indent">Along the poplar trees.</l>
 <l>They never speak of it to me, </l>
-<l >My comrades. Awkward--kind</l>
+<l rend="indent">My comrades. Awkward--kind</l>
 <l>I hear their voices roughen and grow dumb,</l>
-<l >Remembering I am blind</l>
+<l rend="indent">Remembering I am blind</l>
 <l>But through the dark, I know--I know the spring has come</l>
 <l rend="indent17">To France!</l></lg>
 
 <lg>
 <l>What matter I'll not see beneath the wheat </l>
-<l >Red poppies burn again; </l>
-<l >The gleam of April rain</l>
+<l rend="indent">Red poppies burn again; </l>
+<l rend="indent">The gleam of April rain</l>
 <l>Along the boulevards; the flower girls</l>
 <l>With mignonette and pinks and clematis; </l>
-<l >Not see again the Seine</l>
+<l rend="indent">Not see again the Seine</l>
 <l>Slip under the silver bridges to Rouen? </l>
-<l >Ah, no; nor see</l>
+<l rend="indent">Ah, no; nor see</l>
 <l>The pale gold smile of buttercups, that glorifies </l>
-<l >Gray ruins with bravery</l>
+<l rend="indent">Gray ruins with bravery</l>
 <l>Heartbreaking, valiant--the smile that lights the eyes</l>
 <l rend="indent17">Of France!</l></lg>
 
 <lg>
 <l>For through the sightless mercy of my days </l>
-<l >White visions come to me--</l>
-<l >Beyond the dark I see.</l>
+<l rend="indent">White visions come to me--</l>
+<l rend="indent">Beyond the dark I see.</l>
 <l>Not this worn, steadfast France, wan, gallant, spent,</l>
 <l>With eyes burned haggard by the spirit of the Maid </l>
-<l >And Charlotte of Normandy--</l><pb n="182"/>
+<l rend="indent">And Charlotte of Normandy--</l><pb n="182"/>
 <l>But France triumphant, high of heart, </l>
-<l >Smiling through throbbing drums </l>
+<l rend="indent">Smiling through throbbing drums </l>
 <l>On Rheims restored, Nancy, Alsace, Lorraine, </l>
-<l >In that new spring that comes--</l>
+<l rend="indent">In that new spring that comes--</l>
 <l>The spring we halt and blind and dead bring back again</l>
 <l rend="indent17">To France!
 </l></lg></div2>
@@ -5734,30 +5733,30 @@ Street," published and copyright, 1917, by The Macmillan Company, New York. Spec
 <note>Written at the battle front in France and sent to his mother, Mrs. W. E. Damon. Lieutenant Wickersham was killed in action September 14, 1918.</note>
 <lg>
 <l n="1">THE mist hangs low and quiet on a ragged line of hills,</l>
-<l >There's a whispering of wind across the flat;</l>
+<l rend="indent">There's a whispering of wind across the flat;</l>
 <l>You'd be feeling kind of lonesome if it wasn't for one thing--</l>
-<l >The patter of the raindrops on your old tin hat.</l></lg>
+<l rend="indent">The patter of the raindrops on your old tin hat.</l></lg>
 <lg>
 <l>An' you just can't help a-figuring--sitting here alone--</l>
-<l >About this war and hero stuff and that,</l>
+<l rend="indent">About this war and hero stuff and that,</l>
 <l>And you wonder if they haven't sort of got things twisted up,</l>
-<l >While the rain keeps up its patter on your old tin hat.</l></lg>
+<l rend="indent">While the rain keeps up its patter on your old tin hat.</l></lg>
 <lg>
 <l>When you step off with the outfit to do your little bit,</l>
-<l >You're simply doing what you're s'posed to do--</l>
+<l rend="indent">You're simply doing what you're s'posed to do--</l>
 <l>And you don't take time to figure what you gain or what you lose,</l>
-<l >It's the spirit of the game that brings you through.</l></lg><pb n="183"/>
+<l rend="indent">It's the spirit of the game that brings you through.</l></lg><pb n="183"/>
 <lg>
 <l>But back at home she's waiting, writing cheerful little notes,</l>
-<l >And every night she offers up a prayer </l>
+<l rend="indent">And every night she offers up a prayer </l>
 <l>And just keeps on a-hoping that her soldier boy is safe--</l>
-<l >The mother of the boy who's over there.</l></lg>
+<l rend="indent">The mother of the boy who's over there.</l></lg>
 
 <lg>
 <l>And, fellows, she's the hero of this great big ugly war,</l>
-<l >And her prayer is on that wind across the flat;</l>
+<l rend="indent">And her prayer is on that wind across the flat;</l>
 <l>And don't you reckon maybe it's her tears, and not the rain,</l>
-<l >That's keeping up the patter on your old tin hat?
+<l rend="indent">That's keeping up the patter on your old tin hat?
 </l></lg></div2>
 <div2 id="Eaton152" type="poem" n="The Armed Liner">
 <head rend="center">THE ARMED LINER</head>
@@ -5783,13 +5782,13 @@ Street," published and copyright, 1917, by The Macmillan Company, New York. Spec
 Flanders, spring of 1917. Authorship unknown.</byline>
 <lg>
 <l n="1">OUT here the dogs of war run loose, </l>
-<l >Their whipper--in is Death</l>
+<l rend="indent">Their whipper--in is Death</l>
 <l>Across the spoilt and battered fields </l>
-<l >We hear their sobbing breath.</l>
+<l rend="indent">We hear their sobbing breath.</l>
 <l>The fields where grew the living corn </l>
-<l >Are heavy with our dead;</l>
+<l rend="indent">Are heavy with our dead;</l>
 <l>Yet still the fields at home are green </l>
-<l >And I have heard it said:</l>
+<l rend="indent">And I have heard it said:</l>
 <l rend="indent25">That--</l>
 <l>There are crocuses at Nottingham!</l>
 <l>Wild crocuses at Nottingham!</l>
@@ -5798,13 +5797,13 @@ Flanders, spring of 1917. Authorship unknown.</byline>
 
 <lg>
 <l>There are little girls at Nottingham </l>
-<l >Who do not dread the boche,</l>
+<l rend="indent">Who do not dread the boche,</l>
 <l>Young girls at school at Nottingham </l>
-<l >(Lord! how I need a wash!)</l>
+<l rend="indent">(Lord! how I need a wash!)</l>
 <l>There are little boys at Nottingham </l>
-<l >Who never hear a gun;</l>
+<l rend="indent">Who never hear a gun;</l>
 <l>There are silly fools at Nottingham </l>
-<l >Who think we're here for fun.</l>
+<l rend="indent">Who think we're here for fun.</l>
 <l rend="indent25">When--</l>
 <l>There are crocuses at Nottingham!</l>
 <l>Young crocus buds at Nottingham!</l>
@@ -5817,9 +5816,9 @@ Flanders, spring of 1917. Authorship unknown.</byline>
 <l>There lives no tree to give the birds</l>
 <l>House room in paring time.</l><pb n="185"/>
 <l>We live in holes, like cellar rats, </l>
-<l >But through the noise and smell </l>
+<l rend="indent">But through the noise and smell </l>
 <l>I often see those crocuses</l>
-<l >Of which the people tell.</l>
+<l rend="indent">Of which the people tell.</l>
 <l rend="indent25">Why--</l>
 <l>There are crocuses at Nottingham! </l>
 <l>Bright crocuses at Nottingham! </l>
@@ -5834,29 +5833,29 @@ Flanders, spring of 1917. Authorship unknown.</byline>
 
 <lg>
 <l n="1">I KNIT, I knit, I pray, I pray. </l>
-<l >My knitting is my rosary.</l>
+<l rend="indent">My knitting is my rosary.</l>
 <l>And as I weave the stitches gray,</l>
-<l >I murmur pray'rs continually.</l>
+<l rend="indent">I murmur pray'rs continually.</l>
 <l>Gray loop, a sigh, gray knot, a wish,</l>
-<l >Gray row a chain of wistful pray'r,</l>
+<l rend="indent">Gray row a chain of wistful pray'r,</l>
 <l>For thus to sit and knit and pray--</l>
-<l >This is of war the woman's share.</l></lg>
+<l rend="indent">This is of war the woman's share.</l></lg>
 
 <lg>
 <l>Arid so I knit, and thus I pray,</l>
-<l >And keep repeating night and day,</l>
+<l rend="indent">And keep repeating night and day,</l>
 <l>May God lead safely those dear feet</l>
-<l >That soon shall wear the web of gray.</l>
+<l rend="indent">That soon shall wear the web of gray.</l>
 <l>Now and again a selfish strain?</l>
-<l >But surely woman heart must yearn,</l>
+<l rend="indent">But surely woman heart must yearn,</l>
 <l>And pray sometimes that she may hear</l>
-<l >The footsteps that return.</l></lg>
+<l rend="indent">The footsteps that return.</l></lg>
 
 <lg>
 <l>But if, O God, Not that.</l>
-<l >But if it must be sacrifice complete,</l>
+<l rend="indent">But if it must be sacrifice complete,</l>
 <l>Then I will trust that afterward</l>
-<l >Thou wilt guide home those precious feet.
+<l rend="indent">Thou wilt guide home those precious feet.
 </l></lg><pb n="186"/></div2>
 
 <div2 id="Eaton155" type="poem" n="When Private Mugrums Parley Voos">
@@ -5865,53 +5864,53 @@ Flanders, spring of 1917. Authorship unknown.</byline>
 <hi rend="smallcap">IN The Stars And Stripes, A.E.F., France</hi></byline>
 <lg>
 <l n="1">I CAN count my francs an' santeems--</l>
-<l >If I've got a basket near--</l>
+<l rend="indent">If I've got a basket near--</l>
 <l>An' I speak a wicked "bon jour,"</l>
-<l >But the verbs are awful queer,</l>
+<l rend="indent">But the verbs are awful queer,</l>
 <l>An' I lose a lot o' pronouns</l>
-<l >When I try to talk to you, </l>
+<l rend="indent">When I try to talk to you, </l>
 <l>For your eyes are so bewitchin' </l>
-<l >I forget to parlay voo.</l></lg>
+<l rend="indent">I forget to parlay voo.</l></lg>
 
 <lg>
 <l>In your pretty little garden, </l>
-<l >With the bench beside the wall, </l>
+<l rend="indent">With the bench beside the wall, </l>
 <l>An' the sunshine on the asters, </l>
-<l >An' the purple phlox so tall, </l>
+<l rend="indent">An' the purple phlox so tall, </l>
 <l>I should like to whisper secrets </l>
-<l >But my language goes askew--</l>
+<l rend="indent">But my language goes askew--</l>
 <l>With the second person plural</l>
-<l >For the old familiar "too."</l></lg>
+<l rend="indent">For the old familiar "too."</l></lg>
 
 <lg>
 <l>In your pretty little garden</l>
-<l >I could always say "juh tame," </l>
+<l rend="indent">I could always say "juh tame," </l>
 <l>But it ain't so very subtle, </l>
-<l >An' it ain't not quite the same </l>
+<l rend="indent">An' it ain't not quite the same </l>
 <l>As "You've got some dandy earrings,"</l>
-<l >Or "Your eyes are nice an' brown"--</l>
+<l rend="indent">Or "Your eyes are nice an' brown"--</l>
 <l>But my adjectives get manly </l>
-<l >Right before a lady noun.</l></lg>
+<l rend="indent">Right before a lady noun.</l></lg>
 
 <lg>
 <l>Those infinitives perplex me;</l>
-<l >I can say you're "tray jolee,"</l>
+<l rend="indent">I can say you're "tray jolee,"</l>
 <l>But beyond that simple statement</l>
-<l >All my tenses don't agree.</l>
+<l rend="indent">All my tenses don't agree.</l>
 <l>I can make the Boche "comprenney"</l>
-<l >When I meet 'em in a trench,</l>
+<l rend="indent">When I meet 'em in a trench,</l>
 <l>But the softer things escape me</l>
-<l >When I try to yap in French.</l></lg><pb n="187"/>
+<l rend="indent">When I try to yap in French.</l></lg><pb n="187"/>
 
 <lg>
 <l>In your pretty little garden </l>
-<l >Darn the idioms that dance </l>
+<l rend="indent">Darn the idioms that dance </l>
 <l>On your tongue so sweet and rapid,</l>
-<l >Ah, they hold me in a trance!</l>
+<l rend="indent">Ah, they hold me in a trance!</l>
 <l>Though I stutter an' I stammer, </l>
-<l >In your garden, on the bench, </l>
+<l rend="indent">In your garden, on the bench, </l>
 <l>Yet my heart is writin' poems</l>
-<l >When I talk to you in French.
+<l rend="indent">When I talk to you in French.
 </l></lg></div2>
 
 <div2 id="Eaton156" type="poem" n="Mules">
@@ -5964,9 +5963,9 @@ mule.</l></lg><pb n="189"/></div2>
 
 <lg>
 <l n="1">ORCHARD land! Orchard land! </l>
-<l >Damson blossom, primrose bloom:</l>
+<l rend="indent">Damson blossom, primrose bloom:</l>
 <l>Avon, like a silver band </l>
-<l >Winds from Stratford down to Broome: </l>
+<l rend="indent">Winds from Stratford down to Broome: </l>
 <l rend="indent4">All the orchards simmer white </l>
 <l rend="indent4">For an April day's delight: </l>
 <l rend="indent4">We have risen in our might, </l>
@@ -5976,9 +5975,9 @@ mule.</l></lg><pb n="189"/></div2>
 
 <lg>
 <l>Running stream! Running stream!</l>
-<l >Ruddy tench and silver perch:</l>
+<l rend="indent">Ruddy tench and silver perch:</l>
 <l>Shakespeare loved the water's gleam </l>
-<l >Sparkling on by Welford church: </l>
+<l rend="indent">Sparkling on by Welford church: </l>
 <l rend="indent4">Water lay meets woodland gnome </l>
 <l rend="indent4">Where the silver eddies foam </l>
 <l rend="indent4">Thro' the richly scented loam: </l>
@@ -5988,9 +5987,9 @@ mule.</l></lg><pb n="189"/></div2>
 
 <lg>
 <l>Silver throats! Silver throats!</l>
-<l >Piping blackbird, trilling thrush:</l>
+<l rend="indent">Piping blackbird, trilling thrush:</l>
 <l>Shakespeare heard your merry notes;</l>
-<l >Still you herald morning's blush: </l>
+<l rend="indent">Still you herald morning's blush: </l>
 <l rend="indent4">You shall sing your anthems grand </l>
 <l rend="indent4">When we've finished what He planned. </l>
 <l rend="indent4">God will hear and understand. </l>
@@ -6041,51 +6040,51 @@ England.  Special permission to reproduce in this book.</bibl>
 <l rend="indent3">Hey ho! for the Air!
 </l></lg><pb n="191"/></div2>
 
-<div2 id="Eaton" type="poem" n="">
-<head rend="center">VICTORY!</l>
-<l>S. J. DUNCAN--CLARK </l>
-<l>IN THE CHICAGO EVENING POST, NOVEMBER 11, 1918 </l>
-<l>Permission to reproduce in this book</head>
+<div2 id="Eaton159" type="poem" n="Victory!">
+<head rend="center">VICTORY!</head>
+<byline rend="center"><docAuthor>S. J. DUNCAN-CLARK</docAuthor><lb/>
+<hi rend="smallcap">IN The Chicago Evening Post, November</hi> 11, 1918</byline>
+<bibl rend="center">Permission to reproduce in this book</bibl>
 
 <lg>
 <l n="1">OUT of the night it leaped the seas--</l>
-<l>The four long years of night!</l>
+<l rend="indent3">The four long years of night!</l>
 <l>"The foe is beaten to his knees,</l>
-<l>And triumph crowns the fight!"</l>
+<l rend="indent3">And triumph crowns the fight!"</l>
 <l>It sweeps the world from shore to shore,</l>
-<l>By wave and wind 'tis flung,</l>
+<l rend="indent3">By wave and wind 'tis flung,</l>
 <l>It grows into a mighty roar</l>
-<l>Of siren, bell and tongue.</l>
+<l rend="indent3">Of siren, bell and tongue.</l>
 <l>Where little peoples knelt in fear,</l>
-<l>They stand in joy today;</l>
+<l rend="indent3">They stand in joy today;</l>
 <l>The hour of their redemption here,</l>
-<l>Their feet on Freedom's way.</l>
+<l rend="indent3">Their feet on Freedom's way.</l>
 <l>The kings and kaisers flee their doom,</l>
-<l>Fall bloody crown and throne!</l>
+<l rend="indent3">Fall bloody crown and throne!</l>
 <l>Room for the people! Room! Make room!</l>
-<l>They march to claim their own!</l>
+<l rend="indent3">They march to claim their own!</l>
 <l>Now God be praised we lived to see</l>
-<l>His Sun of Justice rise,</l>
+<l rend="indent3">His Sun of Justice rise,</l>
 <l>His Sun of Righteous Liberty,</l>
-<l>To gladden all our skies!</l>
+<l rend="indent3">To gladden all our skies!</l>
 <l>And God be praised for those who died,</l>
-<l>Whate'er their clime or breed,</l>
+<l rend="indent3">Whate'er their clime or breed,</l>
 <l>Who, fighting bravely side by side,</l>
-<l>A world from thraldom freed!</l>
+<l rend="indent3">A world from thraldom freed!</l>
 <l>And God be praised for those who, spite</l>
-<l>Of woundings sore and deep,</l>
+<l rend="indent3">Of woundings sore and deep,</l>
 <l>Survive to see the Cause of Right</l>
-<l>O'er all its barriers sweep!</l>
+<l rend="indent3">O'er all its barriers sweep!</l>
 <l>God and the people--This our cry!</l>
-<l>O, God, thy peace we sing!</l>
+<l rend="indent3">O, God, thy peace we sing!</l>
 <l>The peace that comes through victory,</l>
-<l>And dwells where Thou art King.
-</l></lg></div2>
+<l rend="indent3">And dwells where Thou art King.
+</l></lg><pb n="192"/></div2>
 
-<div2 id="Eaton" type="poem" n="">
-<head rend="center">THE HOMECOMING</l>
-<l>LEROY FOLGE</l>
-<l>Grief for a brother, an American who was killed in France, brought about the suicide of the author of this poem.  The manuscript was found beside his body.  The lines were published in THE CHICAGE TRIBUNE</head>
+<div2 id="Eaton160" type="poem" n="The Homecoming">
+<head rend="center">THE HOMECOMING</head>
+<byline rend="center"><docAuthor>LEROY FOLGE</docAuthor></byline>
+<note>Grief for a brother, an American who was killed in France, brought about the suicide of the author of this poem.  The manuscript was found beside his body.  The lines were published in THE CHICAGE TRIBUNE</note>
 <lg>
 <l n="1">HIS regiment came home today,</l>
 <l>But Jim, old Jim, he's still away. </l>
@@ -6116,13 +6115,13 @@ England.  Special permission to reproduce in this book.</bibl>
 <l>Grew up with me, and he and I </l>
 <l>Would never let a day go by </l>
 <l>That I did not see some plan begun </l>
-<l>In which we both would have some fun.</l></lg>
+<l>In which we both would have some fun.</l></lg><pb n="193"/>
 
 <lg>
 <l>And then, there comes that fateful day, </l>
 <l>When our men go to join the fray; </l>
 <l>And Jim can go, but I must stay. </l>
-<l>"Good--by, old top, if I'm not dead, </l>
+<l>"Good-by, old top, if I'm not dead, </l>
 <l>I'll give the Kaiser hell," he said. </l>
 <l>I think he meant it, but--. Oh, well, </l>
 <l>He didn't give the Kaiser hell.</l></lg>
@@ -6151,60 +6150,47 @@ England.  Special permission to reproduce in this book.</bibl>
 <l>The glory that is left of him.
 </l></lg></div2>
 
-<div2 id="Eaton" type="poem" n="">
-<head rend="center">THE CROWN</l>
-<l>HELEN COMBES </l>
-<l>IN LESLIE'S WEEKLY</head>
-
+<div2 id="Eaton161" type="poem" n="The Crown">
+<head rend="center">THE CROWN</head>
+<byline rend="center"><docAuthor>HELEN COMBES</docAuthor><lb/>
+<hi rend="smallcap">IN Leslie's Weekly</hi></byline>
 <lg>
-<l n="1">WRITE us your verse, oh, soldier, tell us the grim, </l>
-<l>red tale,</l>
+<l n="1">WRITE us your verse, oh, soldier, tell us the grim, red tale,</l>
 <l>Learned on the field of battle, where bullets fell like hail.</l>
-<l>Pen us the ghastly story, of thousands of slaughtered </l>
-<l>men,</l>
-<l>Till our souls are sick with horror. And then, oh, sol--</l>
-<l>dier, then,</l></lg>
+<l>Pen us the ghastly story, of thousands of slaughtered men,</l>
+<l>Till our souls are sick with horror. And then, oh, soldier,
+then,</l></lg><pb n="194"/>
 <lg>
 <l>Tell us in tender accents, how men with hearts of gold</l>
-<l>Succored their wounded brothers; stripped in the biting </l>
-<l>cold</l>
+<l>Succored their wounded brothers; stripped in the biting cold</l>
 <l>To cover the dead and dying. Give us our faith again,</l>
 <l>Our belief in a God Almighty, in a Brotherhood of Man.</l></lg>
 <lg>
 <l>Paint us a canvas, soldier, a picture of fire and flame!</l>
-<l>Men, mad with the lust of killing, playing their grisly </l>
-<l>game!</l>
-<l>Show us the dead--strewn hillsides, guarding the blood--</l>
-<l>drenched plain,</l>
-<l>A picture of war's grim horrors. And then, oh, soldier,</l>
-<l> then,</l></lg>
+<l>Men, mad with the lust of killing, playing their grisly game!</l>
+<l>Show us the dead--strewn hillsides, guarding the blood-drenched plain,</l>
+<l>A picture of war's grim horrors. And then, oh, soldier, then,</l></lg>
 <lg>
-<l>Draw is the white--capped nurses, doctors with skilful </l>
-<l>hands,</l>
-<l>Counting their lives as nothing when human need de--</l>
-<l>mands</l>
-<l>All that they have to offer. Paint us the women and </l>
-<l>men</l>
+<l>Draw is the white--capped nurses, doctors with skilful hands,</l>
+<l>Counting their lives as nothing when human need demands</l>
+<l>All that they have to offer. Paint us the women and men</l>
 <l>Who bring the joy of living back to our hearts again.</l></lg>
 <lg>
 <l>Sing us a song, oh, soldier, chant in a martial strain,</l>
-<l>Those who have died in battle, those who come home</l>
-<l>again.</l>
+<l>Those who have died in battle, those who come home again.</l>
 <l>Call us the mothers of heroes, call us the mothers of men,</l>
-<l>Till our hearts are torn and bleeding. And then, oh, </l>
-<l>soldier, then,</l></lg>
+<l>Till our hearts are torn and bleeding. And then, oh, soldier, then,</l></lg>
 <lg>
 <l>Play us in minor cadence, a harp with a tautened string,</l>
 <l>Set to a heavenly music, the songs the angels sing,</l>
-<l>Of a world by Love safeguarded, where wars shall ever </l>
-<l>cease,</l>
+<l>Of a world by Love safeguarded, where wars shall ever cease,</l>
 <l>Sing us at last oh, soldier, the Song of Eternal Peace.
-</l></lg></div2>
-<div2 id="Eaton" type="poem" n="">
-<head rend="center">OUR SOLDIER DEAD</l>
-<l>ANNETTE KOHN</l>
-<l> IN THE NEW YORK TIMES </l>
-<l>Permission to reproduce in this book</head>
+</l></lg><pb n="195"/></div2>
+<div2 id="Eaton162" type="poem" n="Our Soldier Dead">
+<head rend="center">OUR SOLDIER DEAD</head>
+<byline rend="center"><docAuthor>ANNETTE KOHN</docAuthor><lb/>
+<hi rend="smallcap">IN The New York Times</hi></byline>
+<bibl rend="center">Permission to reproduce in this book</bibl>
 
 <lg>
 <l n="1">"IN Flanders fields, where poppies blow," </l>
@@ -6244,7 +6230,7 @@ Three thousand miles of cheerless space </l>
 <l>And proudly o'er their resting place, </l>
 <l>Will float forever in its grace, </l>
 <l>O'er cross, and star, and symbol tag, </l>
-<l>Their own beloved country's flag.</l></lg>
+<l>Their own beloved country's flag.</l></lg><pb n="196"/>
 
 <lg>
 <l>The morning sun will gild with light, </l>
@@ -6255,11 +6241,11 @@ Three thousand miles of cheerless space </l>
 <l>God's love and mercy guard them all.
 </l></lg></div2>
 
-<div2 id="Eaton" type="poem" n="">
-<head rend="center">LET THERE BE LIGHT!</l>
-<l>RUTH WRIGHT KAUFFMAN </l>
-<l>IN THE RED CROSS MAGAZINE </l>
-<l>Permission to reproduce in this book</head>
+<div2 id="Eaton163" type="poem" n="Let There be Light!">
+<head rend="center">LET THERE BE LIGHT!</head>
+<byline rend="center"><docAuthor>RUTH WRIGHT KAUFFMAN</docAuthor><lb/>
+<hi rend="smallcap">IN The Red Cross Magazine</hi></byline>
+<bibl rend="center">Permission to reproduce in this book</bibl>
 
 <lg>
 <l n="1">B LACK with the blackness of hell and despair </l>
@@ -6271,12 +6257,12 @@ Three thousand miles of cheerless space </l>
 <l>Trains of munitions that creak with their loads, </l>
 <l>Supplies, horses, soldiers engulfed by the roads; </l>
 <l>An ambulance crawling, a password, and then </l>
-<l>Through the shell--shattered houses the marching of men.</l></lg>
+<l>Through the shell-shattered houses the marching of men.</l></lg>
 <lg>
 <l>Black with the blackness of wounds and of death </l>
 <l>The villages huddled there holding their breath; </l>
 <l>Black--till there rang this new order to "Cease"--</l>
-<l>"It is over!--all over!--the war!--there is peace!</l></lg>
+<l>"It is over!--all over!--the war!--<hi rend="italic">there is peace!</hi></l></lg>
 <lg>
 <l>Come, dance on the ruins--Look, No Man's Land there, </l>
 <l>"Verboten" for years, is a world's thoroughfare; </l>
@@ -6287,89 +6273,90 @@ Three thousand miles of cheerless space </l>
 <l>Four hundred long miles for the taper to touch! </l>
 <l>The shades are undrawn, the lamps shining bright; </l>
 <l>It is dawn in the darkness; again There Is Light!
-</l></lg></div2>
-<div2 id="Eaton" type="poem" n="">
-<head rend="center">THE PRESENT BATTLE--FIELD</l>
-<l>WRIGHT FIELD IN THE STARS AND STRIPES</head>
+</l></lg><pb n="197"/></div2>
+<div2 id="Eaton164" type="poem" n="The Present Battle-field">
+<head rend="center">THE PRESENT BATTLE-FIELD</head>
+<byline rend="center"><docAuthor>WRIGHT FIELD</docAuthor><lb/>
+<hi rend="smallcap"> IN The Stars And Stripes</hi></byline>
 <lg>
 <l n="1">THE war is over, over there, </l>
-<l>And Peace made her bow--</l>
+<l rend="indent">And Peace made her bow--</l>
 <l>But the Battle of Verdun is on</l>
-<l>At Jenkins' Corners now!.</l></lg>
+<l rend="indent">At Jenkins' Corners now!.</l></lg>
 
 <lg>
 <l>All's still along the rippling Somme,</l>
-<l>Likewise at Belleau Wood--</l>
+<l rend="indent">Likewise at Belleau Wood--</l>
 <l>But the Jenkins' Corners Battle now</l>
-<l>Is merely going good!</l></lg>
+<l rend="indent">Is merely going good!</l></lg>
 
 <lg>
 <l>Now beaten into plowshares are</l>
-<l>The swords once dripping wet</l>
+<l rend="indent">The swords once dripping wet</l>
 <l>With human gore--but Heinies fall</l>
-<l>At Jenkins' Corners yet!</l></lg>
+<l rend="indent">At Jenkins' Corners yet!</l></lg>
 
 <lg>
 <l>The smoke of cannon floats away</l>
-<l>In France, a fading cloud--</l>
+<l rend="indent">In France, a fading cloud--</l>
 <l>But the war at Jenkins' Corners is</l>
-<l>Attracting quite a crowd!</l></lg>
+<l rend="indent">Attracting quite a crowd!</l></lg>
 
 <lg>
 <l>Pop Snider had a navvy there,</l>
-<l>And old Zeke Wade a son,</l>
+<l rend="indent">And old Zeke Wade a son,</l>
 <l>And since the boys are home again,</l>
-<l>They've waded in like fun.</l></lg>
+<l rend="indent">They've waded in like fun.</l></lg>
 
 <lg>
 <l>The checker--board is moved away,</l>
-<l>A gas--mask takes its place;</l>
+<l rend="indent">A gas-mask takes its place;</l>
 <l>The floor is neatly sanded, so</l>
-<l>The campaign they may trace.</l></lg>
+<l rend="indent">The campaign they may trace.</l></lg>
 
 <lg>
 <l>Pop Snider knows what he'd have done,</l>
-<l>And Zekiel has his say</l>
+<l rend="indent">And Zekiel has his say</l>
 <l>On where they made the great mistake</l>
-<l>And nearly lost the day.</l></lg>
+<l rend="indent">And nearly lost the day.</l></lg><pb n="198"/>
 
 <lg>
 <l>They fight it o'er from A to Z, </l>
-<l>And slay full many a Hun--</l>
+<l rend="indent">And slay full many a Hun--</l>
 <l>For out at Jenkins' Corners now</l>
-<l>The war is just begun!
+<l rend="indent">The war is just begun!
 </l></lg></div2>
 
-<div2 id="Eaton" type="poem" n="">
-<head rend="center">NOVEMBER ELEVENTH</l>
-<l>ELIZABETH HANLY</l>
-<l>IN POPULAR EDUCATOR</head>
+<div2 id="Eaton165" type="poem" n="November Eleventh">
+<head rend="center">NOVEMBER ELEVENTH</head>
+<byline rend="center"><docAuthor>ELIZABETH HANLY</docAuthor><lb/>
+<hi rend="smallcap">IN Popular Educator</hi></byline>
 
 <lg>
 <l n="1">A THOUSAND whistles break the bonds of sleep</l>
-<l>With swift exultant summons wild and shrill;</l>
+<l rend="indent">With swift exultant summons wild and shrill;</l>
 <l>Impassioned tongues of flames toward heaven leap</l>
-<l>To tell us peace has come.  The guns are still.</l></lg>
+<l rend="indent">To tell us peace has come.  The guns are still.</l></lg>
 <lg>
 <l>A thousand flags have blossomed in the air</l>
-<l>Like poppies in a garden by the sea.</l>
+<l rend="indent">Like poppies in a garden by the sea.</l>
 <l>Beyond the eastern hills a golden flare</l>
-<l>Foretells the day that broke on Calvary.</l></lg>
+<l rend="indent">Foretells the day that broke on Calvary.</l></lg>
 
 <lg>
-<l>Long--darkened Liberty uplifts once more</l>
-<l>Her torch on Belgium, Poland and Alsace</l>
+<l>Long-darkened Liberty uplifts once more</l>
+<l rend="indent">Her torch on Belgium, Poland and Alsace</l>
 <l>And Flanders--on each desecrated shore,</l>
-<l>Slow dawns the sun; and on my mother's face</l>
+<l rend="indent">Slow dawns the sun; and on my mother's face</l>
 <l>The look, I think, that Mary must have worn</l>
 <l>In Galilee on Resurrection morn.
-</l></lg></div2>
+</l></lg><pb n="199"/></div2>
 
-<div2 id="Eaton" type="poem" n="">
-<head rend="center">OLD JIM</l>
-<l>NORMAN SHANNON HALL </l>
-<l>IN THE STARS AND STRIPES </l>
-<l>Permission to reproduce in this book</head>
+<div2 id="Eaton166" type="poem" n="Old Jim">
+<head rend="center">OLD JIM</head>
+<byline rend="center"><docAuthor>NORMAN SHANNON HALL</docAuthor><lb/>
+<hi rend="smallcap">IN The Stars And Stripes</hi></byline>
+<bibl rend="center">Permission to reproduce in this book</bibl>
 
 <lg>
 <l n="1">OUT in that vague, vast "somewhere" of The Line </l>
@@ -6410,108 +6397,77 @@ Three thousand miles of cheerless space </l>
 <l>Have been given this Lost Identity; </l>
 <l>And knowing that they both were earned by him, </l>
 <l>I know the Unknown Soldier is--Old Jim!
-</l></lg></div2>
+</l></lg><pb n="200"/></div2>
 
-<div2 id="Eaton" type="poem" n="">
-<head rend="center">THE UNKNOWN SOLDIER </l>
-<l>ARMISTICE DAY AT ARLINGTON</l>
-<l>GRANTLAND RICE </l>
-<l>IN THE NEW YORK TRIBUNE</l>
-<l>Permission to reproduce in this book</head>
+<div2 id="Eaton167" type="poem" n="The Unknown Soldier Armistice Day
+      At Arlington">
+<head rend="center">THE UNKNOWN SOLDIER<lb/>
+ARMISTICE DAY AT ARLINGTON</head>
+<byline rend="center"><docAuthor>GRANTLAND RICE</docAuthor><lb/> 
+<hi rend="smallcap">IN The New York Tribune</hi></byline>
+<bibl rend="center">Permission to reproduce in this book</bibl>
 
 <lg>
-<l n="1">THE wind to--day is full of ghosts with ghostly bugles </l>
-<l>blowing,</l>
-<l>Where shadows steal across the world, as silent as the </l>
-<l>dew.</l>
-<l>Where golden youth is yellow dust, by haunted rivers </l>
-<l>flowing</l>
-<l>Through valleys where the crosses grow, as harvest wheat </l>
-<l>is growing,</l>
-<l>And only dead men see the line that passes in review.</l></lg>
+<l n="1">THE wind to-day is full of ghosts with ghostly bugles blowing,</l>
+<l rend="indent">Where shadows steal across the world, as silent as the dew.</l>
+<l>Where golden youth is yellow dust, by haunted rivers flowing</l>
+<l>Through valleys where the crosses grow, as harvest wheat is growing,</l>
+<l rend="indent">And only dead men see the line that passes in review.</l></lg>
 <lg>
-<l>The gripping clay once more gives way before the Mighty </l>
-<l>Mother</l>
-<l>Who waits with everlasting arms to guard her sleeping </l>
-<l>sons.</l>
+<l>The gripping clay once more gives way before the Mighty Mother</l>
+<l rend="indent">Who waits with everlasting arms to guard her sleeping sons.</l>
 <l>And lonely mates in silent fields call out to one another </l>
-<l>The story of an empty grave, where each has lost a</l>
-<l>brother,</l>
-<l>Who takes the long, long trail at last beyond the rust--</l>
-<l>ing guns.</l></lg>
+<l>The story of an empty grave, where each has lost a brother,</l>
+<l rend="indent">Who takes the long, long trail at last beyond the rusting guns.</l></lg>
 <lg>
-<l>Gently the east wind brought him home to meet the south </l>
-<l>wind sighing.</l>
-<l>Softly the north wind breathes his name that none of </l>
-<l>us may know.</l>
-<l>For only those who fell with him, out in the darkness </l>
-<l>lying,</l>
-<l>Can tell his company or rank, and they are unreplying,,</l>
-<l>As each dreams on through summer dawns or winter's</l>
-<l>mantling snow.</l></lg>
+<l>Gently the east wind brought him home to meet the south wind sighing.</l>
+<l rend="indent">Softly the north wind breathes his name that none of us may know.</l>
+<l>For only those who fell with him, out in the darkness lying,</l>
+<l>Can tell his company or rank, and they are unreplying,</l>
+<l rend="indent">As each dreams on through summer dawns or winter's mantling
+snow.</l></lg><pb n="201"/>
 <lg>
-<l>Nameless--and yet how gallantly he faced the roaring </l>
-<l>thunder</l>
-<l>Where names were less than star--dust as the crashing </l>
-<l>steel swept by</l>
-<l>To take its endless toll of those the night squad spaded </l>
-<l>under,</l>
-<l>Clod upon clod, beneath the sod that --time alone may </l>
-<l>sunder,</l>
-<l>Held where the wind--blown grasses stir beneath an </l>
-<l>alien sky.</l></lg>
+<l>Nameless--and yet how gallantly he faced the roaring thunder</l>
+<l rend="indent">Where names were less than star-dust as the crashing steel swept by</l>
+<l>To take its endless toll of those the night squad spaded under,</l>
+<l>Clod upon clod, beneath the sod that time alone may sunder,</l>
+<l rend="indent">Held where the wind--blown grasses stir beneath an alien sky.</l></lg>
 <lg>
-<l>He'll miss, perhaps, the poppy blooms that sway above </l>
-<l>the clover,</l>
-<l>But rose--red wreaths of Arlington bend low above his </l>
-<l>dreams.</l>
+<l>He'll miss, perhaps, the poppy blooms that sway above the clover,</l>
+<l rend="indent">But rose-red wreaths of Arlington bend low above his dreams.</l>
 <l>The reveille at dawn is done, the slogging hikes are over,</l>
-<l>Where out the friendly lanes of home, a gay and careless </l>
-<l>rover,</l>
-<l>His wild, free spirit seeks the hills and haunts the </l>
-<l>singing streams.</l></lg>
+<l>Where out the friendly lanes of home, a gay and careless rover,</l>
+<l rend="indent">His wild, free spirit seeks the hills and haunts the singing streams.</l></lg>
 <lg>
-<l>No more he moves by Meuse or Aisne, some shell--swept </l>
-<l>river wading,</l>
-<l>No marching orders call him from his rough--hewn</l>
-<l>granite grave. </l>
-<l>And when at dusk we hear far off the eerie-- drum--taps </l>
-<l>fading, </l>
-<l>What hallowed spot holds more than this, with spectral </l>
-<l>lines parading </l>
-<l>Blood of our blood, dust of our dust, "the ashes of our </l>
-<l>brave''?</l></lg>
+<l>No more he moves by Meuse or Aisne, some shell-swept river wading,</l>
+<l rend="indent">No marching orders call him from his rough-hewn granite grave. </l>
+<l>And when at dusk we hear far off the eerie drum-taps fading, </l>
+<l>What hallowed spot holds more than this, with spectral lines parading </l>
+<l rend="indent">Blood of our blood, dust of our dust, "the ashes of our brave''?</l></lg>
 <lg>
-<l>There will be tears from watching eyes, where rain and </l>
-<l>mist are blended, </l>
-<l>There will be heartache in the lines where gold--starred </l>
-<l>mothers wait.</l>
-<l>But where the great shells fall no more, what vision is </l>
-<l>more splendid</l>
-<l>Than peace along the once--scarred fields, the last red </l>
-<l>battle ended,</l>
-<l>Peace that he helped to bring again above the twilight </l>
-<l>gate?</l></lg>
+<l>There will be tears from watching eyes, where rain and mist are blended, </l>
+<l rend="indent">There will be heartache in the lines where gold-starred mothers
+wait.</l><pb n="202"/>
+<l>But where the great shells fall no more, what vision is more splendid</l>
+<l>Than peace along the once--scarred fields, the last red battle ended,</l>
+<l rend="indent">Peace that he helped to bring again above the twilight >gate?</l></lg>
 <lg>
 <l>Let valor's minstrel voices sing his fame for future pages,</l>
-<l>But when the starless darkness comes and the long </l>
-<l>silence creeps,</l>
-<l>When blossom mists of spring return or winter torrent </l>
-<l>rages,</l>
+<l rend="indent">But when the starless darkness comes and the long silence creeps,</l>
+<l>When blossom mists of spring return or winter torrent rages,</l>
 <l>Write this above his nameless dust, to last beyond the 
 ages, </l>
-<l>"Safe in the Mighty Mother's arms an Unknown Sol--</l>
-<l>dier sleeps."
+<l rend="indent">"Safe in the Mighty Mother's arms an Unknown Soldier sleeps."
 </l></lg></div2>
 
-<div2 id="Eaton" type="poem" n="">
-<head rend="center">EPITAPH FOR THE UNKNOWN SOLDIER</l>
-<l>ANNETTE KOHN </l>
-<l>IN THE WASHINGTON STAR</l>
-<l>Permission to reproduce in this book</head>
+<div2 id="Eaton168" type="poem" n="Epitaph For The Unknown Soldier">
+<head rend="center">EPITAPH FOR THE UNKNOWN SOLDIER</head>
+<byline rend="center"><docAuthor>ANNETTE KOHN</docAuthor><lb/>
+<hi rend="smallcap">IN The Washington Star</hi></byline>
+<bibl rend="center">Permission to reproduce in this book</bibl>
 
 <lg>
-<l n="1">WITHIN this nation--hallowed tomb </l>
+<l n="1">WITHIN this nation-hallowed tomb </l>
 <l>An unknown soldier lies asleep, </l>
 <l>Symbolic comrade of all those </l>
 <l>Who, on the land, on sea, in air, </l>
@@ -6524,4 +6480,4 @@ ages, </l>
 <l>In memory of the faith they kept, </l>
 <l>Here through the ages all the land </l>
 <l>As honor guard on watch will stand!</l>
-</lg>
+</lg></div2><div1>

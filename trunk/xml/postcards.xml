@@ -1,11 +1,55 @@
 <?xml version="1.0" encoding="utf-8"?>
+<TEI.2>
+<teiHeader>
+
+<fileDesc>
+<titleStmt>
+<title>The Great War in Postcards</title>
+<author>Beck Center staff</author>
+<respStmt><resp></resp>
+<name></name></respStmt>
+</titleStmt>
+<extent></extent>
+<publicationStmt>
+<publisher>Lewis H. Beck Center for Electronic Collections and
+Services, Woodruff Library, Emory University</publisher>
+<pubPlace>Atlanta, GA</pubPlace>
+<address><addrLine>540 Asbury Circle</addrLine></address>
+<availability><p></p></availability>
+<date>2004</date>
+</publicationStmt>
+<seriesStmt><title></title>
+</seriesStmt>
+<sourceDesc>
+<bibl>
+</bibl>
+</sourceDesc>
+</fileDesc>
+
+<encodingDesc>
+<projectDesc><p></p>
+</projectDesc>
+</encodingDesc>
+
+<revisionDesc>
+<change>
+<date>September 2003 - May 2004</date>
+<respStmt>
+<name>Amy Parker</name>
+<resp>Beck Center Staff</resp></respStmt>
+<item>Postcards scanned and described</item>
+</change>
+<change>
+<date>June-July 2004</date>
+<respStmt>
+<name>Alice Hickcox</name>
+<resp>Beck Center Staff</resp></respStmt>
+<item>Categories and header added</item>
+</change>
+</revisionDesc>
+</teiHeader>
 <text>
 <body>
-
-<figure entity="">
-<head></head>
-<figDesc></figDesc>
-</figure>
 
 <figure entity="wwi_3_friends" ana="im-s con-f t-wwi">
 <head>Three Friends</head>
@@ -1584,31 +1628,38 @@ kilt. On reverse: faint printing "Wall Studios Edinburgh".</figDesc>
 <figDesc>This postcard is a color-tinted picture of soldiers receiving typhus shots. Text at bottom left: "Typhus Inoculation". On reverse: "&copy; Illustrated Postal Card &#x0026; Nov. Co., N.Y."; handwritten message.</figDesc>
 </figure>
 
-<figure entity="zeppelin" ana="">
+<figure entity="zeppelin" ana="nat-de mil-fr im-dr hf-p t-wwi">
 <head>Die Eroberung von L&uuml;ttich</head>
 <p>Text on reverse side:<text><body>
-<lg><l>Bei L&#x00FC;ttich braust wie Donnerhall</l>
+<lg>
+<head>Die Eroberung L&#x00FC;ttichs.
+<lb/>Mel.: Es braust ein Ruf wie Donnerhall</head>
+
+<l>Bei L&#x00FC;ttich braust wie Donnerhall</l>
 <l>Ein Schwertgeklirr und Bombenknall,</l>
 <l>Blitzschnell t&#x00F6;nt &#x00FC;ber Land und Meer</l>
 <l>Der gro&#x00DF;e Sieg vom deutschen Heer!</l>
 <l>Lieb Vaterland, magst ruhig sein,</l>
 <l>Hast Zepellin und Flieger fein,</l>
-<l>Fest steht und treu die Wacht, die Wacht am Rhein.</l></lg>
+<l>:,:Fest steht und treu die Wacht, die Wacht am Rhein.:,:</l></lg>
 <lg><l>Du teufelfalsches Belgierheer</l>
 <l>Wehrst Durchzug du dem deutschen Heer,</l>
 <l>Willst sch&#x00FC;tzen Franzmann und den Brit,</l>
 <l>Drum sprechen unsre Brummer mit.</l>
 <l>Lieb Vaterland u.</l></lg>
 <lg><l>Laut Prinzenwort: Nur feste drauf,</l>
-<l>Gin'n uns'rer Brummer M&#x00E4;uler auf,</l>
+<l>Ging'n uns'rer Brummer M&#x00E4;uler auf,</l>
 <l>Die Panzert&#x00FC;rme st&#x00FC;rzen all,</l>
-<l>Das is des stonzen L&#x00FC;ttichs Fall.</l>
+<l>Das is des stolzen L&#x00FC;ttichs Fall.</l>
 <l>Lieb Vaterland u.</l></lg>
 <lg><l>Wirf ehrengrauer Zeppelin</l>
 <l>Ull' unsern Feinden Bomben hin!</l>
 <l>Du scharfes Schwert in deutscher Hand</l>
-<l>Zerschmett're J&#x00E4;j den Dreiverband!</l>
+<l>Zerschmett're j&#x00E4;h den Dreiverband!</l>
 <l>Lieb Vaterland u.</l></lg>
+<byline>Gg. Jos. Kuhn<lb/>
+Neustadt a.Hdt.</byline>
+<trailer>Preis pro St&#x00FC;ck 10 pfg.</trailer>
 </body></text></p>
 <figDesc>This postcard is a black and white drawing of a zeppelin dropping bombs on a city. Text at bottom left: "Die Eroberung von L&uuml;ttich." On reverse: a lengthy passage in German.</figDesc>
 </figure>
@@ -1700,7 +1751,7 @@ divide.</l>
 handwritten message, contains date, 4/28/18.</figDesc>
 </figure>
 
-<figure entity="always_in_way">
+<figure entity="always_in_way" ana="nat-us con-v t-wwi">
 <head>Always in the Way</head>
 <p><text><body>
 <lg><l>We don't object to hiking</l>
@@ -3012,3 +3063,4 @@ photo of memorial -->
 </p></div>
 </back>
 </text>
+</TEI.2>

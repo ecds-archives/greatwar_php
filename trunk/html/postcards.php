@@ -10,12 +10,12 @@
 include_once("lib/taminoConnection.class.php");
 $args = array('host' => "vip.library.emory.edu",
 	      'db' => "WW1",
-	      'debug' => false,
+	      'debug' => true,
 	      'coll' => 'postcards');
 $tamino = new taminoConnection($args);
 
-$query ="for $a in input()/TEI.2/:text/body/p/figure
-return $a";
+$query ='for $a in input()/TEI.2/:text/body/p/figure
+return $a';
 $xsl_file = "xsl/figures.xsl";
 
 include("header.html");
@@ -32,7 +32,7 @@ if ($rval) {       // tamino Error code (0 = success)
 $tamino->xslTransform($xsl_file);
 $tamino->printResult($myterms);
 
-
+print '</div>';
 include("footer.html");
 
 ?>

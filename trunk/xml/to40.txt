@@ -1,304 +1,584 @@
-MARTIN HILL
+<pb n="70"/>
+<div2 id="moresongs0" type="poem" n="On Seeing the Coast of England from Boulogne">
+<byline><docAuthor n="Hill, Martin">MARTIN HILL</docAuthor></lb>
+<hi rend="smallcaps">Corporal, R.A.M.C.</hi></byline>
 
-CORPORAL, R.A.M.(
+<head rend="center">On Seeing the Coast of England from Boulogne</head>
 
-On Seeing the Coast of England from Boulogne
+<lg type="stanza">
+<l n="1">A LONG low line of polished white</l>
+<l>Faintly the cliffs of England gleam,</l>
+<l>Now slowly fading out of sight,</l>
+<l>Now swiftly leaping back, they seem</l>
+<l>Strange joys, strange sorrows to impart,</l>
+<l>And voices whisper at my heart.</l></lg>
 
-A LONG low line of polished white Faintly the cliffs of England gleam, Now slowly fading out of sight, Now swiftly leaping back, they seem Strange joys, strange sorrows to impart, \nd voices whisper at my heart.
+<lg>
+<l>A quiet wood, a quiet lane,</l>
+<l>The song of birds amid the trees,</l>
+<l>The splash of sun, the sting of rain,</l>
+<l>The warm sweet air, the sighing breeze,</l>
+<l>And you beside our cottage door</l>
+<l>At eventide. Dear heart, once more</l></lg>
 
--\ quiet wood, a quiet lane, The song of birds amid the trees, The splash of sun, the sting of rain, The warm sweet air, the sighing breeze, And you beside our cottage door -\t eventide. Dear heart, once more
+<lg>
+<l>I see the first faint sunbeam tip</l>
+<l>The East with gold, the hills light up,</l>
+<l>Or stealing lower softly sip</l>
+<l>The dewdrop from the rose's cup;</l>
+<l>The glint of gorse upon the down,</l>
+<l>The long ploughed meadow strong and brown.</l></lg>
 
-I see the first faint sunbeam tip The East with gold, the hills light up, Or stealing lower softly sip The dewdrop from the rose's cup; The glint of gorse upon the down, The long ploughed meadow strong and brown. 70
+<pb n="71"/>
+<lg>
+<l>We wander 'mid the grassfield where</l>
+<l>The busy reaper wends his way,</l>
+<l>The sharp scythe flashes on the air,</l>
+<l>Heavy the scent of new-mown hay</l>
+<l>Floats down the breeze, and all around</l>
+<l>The stricken poppies strew the ground.</l></lg>
 
-Martin Hill
+<lg>
+<l>Slowly my half-felt sorrows go</l>
+<l>And hope comes, gazing seaward where</l>
+<l>The dim cliffs glitter, for I know</l>
+<l>That these and you await me there,</l>
+<l>And I shall find them dearer far</l>
+<l>Enriched by all the pangs of war.</l></lg>
+</div2>
 
-\Vc wander 'mid the grassfield where The busy reaper wends his way) The sharp scythe flashes on the air, Ileavy the scent of new-mown hay Floats down the breeze, and all around The stricken poppies strew the ground.
 
-Slowly my half-felt sorrows go And hope comes, gazing seaward where The dim cliffs glitter, for I know That these and you await me there, And I shall find them dearer far Enriched by all the pangs of war.
+<div2 id="moresongs0" type="poem" n="Requiescat">
+<docAuthor n="Hill, Martin"></docAuthor>
+<head rend="center">Requiescat</head>
 
-Requiescat
+<lg type="stanza">
+<l n="1">HOW young and bright he was, and when he laughed</l>
+<l>The air around seemed sharing in his joy;</l>
+<l>Fair was the world to him, nor spot nor stain</l>
+<l>Of all its hidden ugliness had laid</l>
+<l>A mark upon his face (that mark that sears</l>
+<l>And brands the souls that know it but too well);</l>
+<l>But all that's lovely in it lay beneath</l>
+<l>The wonder that shone shyly in his eyes.</l>
+<l>A child of Nature he, of woods and sunlit ways,</l>
+<l>Of rolling meadows where the air was sweet</l>
+<pb n="72"/>
+<l>With new-born blossoms and the scent of hay;</l>
+<l>Of hills and valleys, laughing streams and lakes</l>
+<l>Where rustling reeds their whispered secrets told.</l>
+<l>All these he knew and loved, they were his friends,</l>
+<l>His sole companions, and through them he learnt</l>
+<l>To know his mother Nature; all her moods</l>
+<l>Diverse and strange he learnt them one by one;</l>
+<l>Her summer laughter and her autumn tears,</l>
+<l>Her seeming winter harshness and the sweet</l>
+<l>Serene repentance of her early spring.</l>
+<l>Life was his love, and in her warm soft arms</l>
+<l>He freedom found from care, repose and peace,</l>
+<l>And finding knew that it sufficed.</l></lg>
 
-HOW young and bright he was, and when he laughed The air around seemed sharing in his joy; Fair was the world to him, nor spot nor stain Of all its hidden ugliness had laid A mark upon his face (that mark that sears And brands the souls that know it but too well) But all that's lovely in it lay beneath The wonder that shone shyly in his eyes. .\ child of Nature he, of woods and sunlit ways, Of rolling meadows where the air was sweet
+<milestone unit="stanza" rend="dots">.  .  .  .  .  .</milestone>
 
-7'
-More Songs by the Fighting Men
+<lg>
+<l>And then came War to claim him, dragged him forth,</l>
+<l>Forth from his quiet world, and flung him down</l>
+<l>Bewildered and amazed, yet unafraid,</l>
+<l>The merest cypher in that crowded train.</l>
+<l>So hour by hour the meanness of War,</l>
+<l>And all its horrors, petty hates and sins</l>
+<l>Raged round his struggling head, until the day</l>
+<l>A wandering bullet found him, and Death took</l>
+<l>Unto himself what Life once held so dear.</l></lg>
 
-new-born blossoms and the scent of hay; t hills and valleys, laughing streams and lakes \here rustling reeds their whispered secrets told. 'ill these he knew and loved, they were his friends, [is sole companions, and through them he learnt 'a know his mother Nature; all her moods )iverse and strange he learnt them one by one; icr summer laughter and her autumn tears, icr seeming winter harshness and the sweet crene repentance of her early spring. ife was his love, and in her warm soft arms Ic freedom found from care, repose and peace, 'nd finding knew that it sufficed.
+<milestone unit="stanza" rend="dots">.  .  .  .  .  .</milestone>
 
-\rid then came War to claim him, dragged him forth, orth from his quiet world, and flung him down ewildered and amazed, yet unafraid, 'he merest cypher in that crowded train. o hour by hour the meanness of War, \nd all its horrors, petty hates and sins Raged round his struggling head, until the day \ wandering bullet found him, and Death took nto himself what Life once held so dear.
+<lg>
+<l>His face was smiling when they picked him up</l>
+<l>As though he'd learnt his Mother's last great secret</l>
+<l>And in learning found all well.</l></lg>
+<dateline><name type="place"><hi rend="smallcaps">No. 7 Stationary Hospital, B.E.F., France</hi></name></dateline>
+</div2>
 
-Us face was smiling when they picked him up \s though he'd learnt his Mother's last great secret \nd in learning found all well.
 
-No. 7 STATIONARY HOSPITAL, B.E.F., FRANCE. 72
+<pb n="73"/>
+<div2 id="moresongs0" type="poem" n="Dulce et Decorum est Pro Patria Mori">
+<byline><docAuthor n="Jarvis, Harold John">HAROLD JOHN JARVIS</docAuthor></lb>
+<hi rend="smallcaps">Corporal, The Duke of Cornwall's Light Infantry</hi></byline>
 
-HAROLD JOHN JARVIS CORPORAL, IHE DUKL 01 CORNWALL'S LiGnr INFANTRY
+<head rend="center">Dulce et Decorum est Pro Patriâ Mori</head>
 
-Dulce et Decorum est Pro Patriá Mon
+<lg type="stanza">
+<l n="1">IF England calls to-day --</l>
+<l rend="indent">The last long call of all,</l>
+<l rend="indent">Valhalla's Trumpet-call:</l>
+<l rend="indent">Then may I live until</l>
+<l rend="indent">The Goal shines past the Hill</l>
+<l rend="indent">And in the last grand rally</l>
+<l rend="indent">Hear echoed God's Reveille</l>
+<l rend="indent14">In the Home Camp.</l></lg>
 
-I F England calls to-dayThe last long call of all, Valhalla's Trumpet-call Then may I live until The Goal shines past the Hill And in the last grand rally Hear echoed God's Reveille
+<lg>
+<l>If England calls this day --</l>
+<l rend="indent">If in the great, grim fight</l>
+<l rend="indent">I fall -- with eyes all bright</l>
+<l rend="indent">With sacrificial flame</l>
+<l rend="indent">Whispering Her great name:</l>
+<l rend="indent">Let these weak verses show</l>
+<l rend="indent">To all the friends I know --</l>
+<l rend="indent14">I gladly died.</l></lg>
 
-In the Home Camp.
+<pb n="74"/>
+<lg>
+<l rend="indent">If England calls this day --</l>
+<l rend="indent">Remembered not hardship</l>
+<l rend="indent">Glad-borne in War's dread grip --</l>
+<l rend="indent">Not the strain of training,</l>
+<l rend="indent">Or a year's campaigning,</l>
+<l rend="indent">But the joy of greeting</l>
+<l rend="indent">Pleasures, tho' but fleeting,</l>
+<l rend="indent14">Entwined therewith.</l></lg>
 
-If England calls this dayIf in the great, grim fight I fall-with eyes all bright With sacrificial flame Whispering Her great name: Let these weak verses show To all the friends I know-,
+<lg>
+<l>If England calls this day --</l>
+<l rend="indent">May those who gave their love,</l>
+<l rend="indent">Who lifted me above</l>
+<l rend="indent">The petty things of Earth,</l>
+<l rend="indent">And taught me all the worth</l>
+<l rend="indent">Of splendid aim in Life,</l>
+<l rend="indent">Know I, 'mid all this strife,</l>
+<l rend="indent14">Remember them.</l></lg>
 
-I gladly died.
+<lg>
+<l>If England calls this day --</l>
+<l rend="indent">The last sweet Twilight calm,</l>
+<l rend="indent">When guns withheld their harm</l>
+<l rend="indent">Awhile, and let me dream</l>
+<l rend="indent">Of Things That might Have Been --</l>
+<l rend="indent">Leaf-music in the trees,</l>
+<l rend="indent">And treasured reveries,</l>
+<l rend="indent14">Shall die with me.</l></lg>
 
-73
-More Songs by the Fighting Men
+<pb n="75"/>
+<lg>
+<l>If England calls this day --</l>
+<l rend="indent">No craven heart would go</l>
+<l rend="indent">From out a world loved so,</l>
+<l rend="indent">As I love this. Each day</l>
+<l rend="indent">More loved is Nature's sway</l>
+<l rend="indent">Of Earth, its every joy</l>
+<l rend="indent">Of Pain or Joy -- yet I,</l>
+<l rend="indent14">So gladly die.</l></lg>
 
-If England calls this dayRemembered not hardship Glad-borne in War's dread grip-Not the strain of training, Or a year's campaigning, But the joy of greeting Pleasures, tho' but fleeting,
+<lg>
+<l>If England calls this day --</l>
+<l rend="indent">With yet one aim unwon,</l>
+<l rend="indent">Of all aims just the one</l>
+<l rend="indent">Far dearer than the rest --</l>
+<l rend="indent">To woo and win the best</l>
+<l rend="indent">Thing that the World can give --</l>
+<l rend="indent">The Gift of Love -- To Live</l>
+<l rend="indent14">I would not wish.</l></lg>
 
-Entwined therewith.
+<lg>
+<l>If England calls this day --</l>
+<l rend="indent">Then shall I die that She</l>
+<l rend="indent">May live in Liberty --</l>
+<l rend="indent">That She may still be great</l>
+<l rend="indent">To rise above blind Hate</l>
+<l rend="indent">Of Foes -- Her Flag unfurled,</l>
+<l rend="indent">God's England to the world,</l>
+<l rend="indent14>For aye to be.</l></lg>
 
-If England calls this dayMay those who gave their love, Who lifted me above The petty things of Earth, And taught me all the worth Of splendid aim in Life, Know I, 'mid all this strife,
+<pb n="76"/>
+<lg>
+<l>If England calls this day --</l>
+<l rend="indent">The rose-clad days of June,</l>
+<l rend="indent">That fled by all too soon,</l>
+<l rend="indent">Shall be with me again</l>
+<l rend="indent">In Memory -- and when</l>
+<l rend="indent">The daylight sudden closes,</l>
+<l rend="indent">The perfume of June Roses</l>
+<l rend="indent14">Shall waft me hence.</l></lg>
 
-Remember them.
+<lg>
+<l>If England calls this day --</l>
+<l rend="indent">From those far Hills of Home,</l>
+<l rend="indent">Beyond the sky's dim dome --</l>
+<l rend="indent">Shall merge Valkyries fair,</l>
+<l rend="indent">Swift riding thro' the air --</l>
+<l rend="indent">Who know I shall be there,</l>
+<l rend="indent">Treading the rose-strewn stair</l>
+<l rend="indent14">To that New Land.</l></lg>
 
-If England calls this dayThe last sweet Twilight calm, When guns withheld their harm Awhile, and let me dream Of Things That might Have BeenLeaf-music in the trees, And treasured reveries,
+<lg>
+<l>If England calls this day --</l>
+<l rend="indent">In the Valkyrie's touch</l>
+<l rend="indent">Shall be forgotten much:</l>
+<l rend="indent">Her flying, perfumed hair</l>
+<l rend="indent">Shall speak of Roses rare --</l>
+<l rend="indent">And climbing thro' the breeze,</l>
+<l rend="indent">Remembered melodies</l>
+<l rend="indent14">Shall call me Home.</l></lg>
+</div2>
 
-Shall die with me.
 
-74
+<pb n="77"/>
+<div2 id="moresongs0" type="poem" n="At a Wayside Shrine">
+<docAuthor n="Jarvis, Harold John"></docAuthor>
+<head rend="center">At a Wayside Shrine</head>
 
-Harold John Jarvis
+<lg type="stanza">
+<l n="1">THE column halts before a wayside shrine</l>
+<l>To change formation into battle line</l>
+<l>From double file. 'Tis even, and the sun</l>
+<l>Its daily circling race has wellnigh done.</l>
+<l>Behind me in the West, a dying glow</l>
+<l>Of gold still gleams, to cast a pale halo</l>
+<l>Upon the shrine.</l></lg>
 
-If England calls this dayNo craven heart would go From out a world loved so, As I love this. Each day More loved is Nature's sway Of Earth, its every joy Of Pain or Joy-yet I,
+<lg>
+<l rend="indent16">How many men before</l>
+<l>To-night have halted at this spot, and wore</l>
+<l>The same grim, ready look that I see now</l>
+<l>Painted on every face from chin to brow,</l>
+<l>And in each eye? One and all are ready</l>
+<l>For come what may; each man now stands steady</l>
+<l>Waiting command.</l></lg>
 
-o gladly die.
+<lg>
+<l rend="indent16">And now the line will pass</l>
+<l>The shrine -- itself as steady as the mass</l>
+<l>Of England's sons slow moving to the fray,</l>
+<l>Their Destiny now in the hands of -- say,</l>
+<l>The dim Divinity within that shrine --</l>
+<l>A loving God (the stricken Christ His sign</l>
+<l>Of Love) -- or what?</l></lg>
 
-If England calls this dayWith yet one aim unwon, Of all aims just the one Far dearer than the restTo woo and win the best Thing that the World can giveThe Gift of Love-To Live
+<pb n="78"/>
+<lg>
+<l rend="indent16">The shrine is rent and drilled</l>
+<l>With bullets -- aye, and some of them have killed</l>
+<l>Passing right thro' the thin mud walls, and past</l>
+<l>The Hanging Figure in the plaster cast,</l>
+<l>On to some human target, trudging by,</l>
+<l>(Dropping it low with sharp surpriséd cry)</l>
+<l>Even as I trudge by.</l></lg>
 
-I would not wish.
+<lg>
+<l rend="indent16">So have some died</l>
+<l>For Right -- bravely as Christ the Crucified</l>
+<l>Died on Calvary's Cross; just as brave</l>
+<l>And just as sacrificially. To save</l>
+<l>The world He died, or so the worn-out creeds</l>
+<l>Of Church would teach -- but they, but men, dared deeds</l>
+<l>And died as men. ...</l></lg>
 
-If England calls this dayThen shall I die that She May live in LibertyThat She may still be great To rise above blind Hate Of Foes-Her Flag unfurled, God's England to the world,
+<lg>
+<l rend="indent">Because of Greater Love --</l>
+<l>That Love of Loves, all other loves above --</l>
+<l>The love of Home and Friends and Native Soil.</l>
+<l>That these might never be the Foeman's spoil,</l>
+<l>They gave their lives, their youth, their gold dreams</l>
+<l>And airy castles, built where Sunlight gleams,</l>
+<l>And Roses bloom...</l></lg>
 
-For aye to be.
+<pb n="79"/>
+<lg>
+<l rend="indent16">And gave them willingly</l>
+<l>As Christ gave His, that day on Calvary.</l>
+<l>A stricken Christ... a broken shrine... and men</l>
+<l>In khaki marching by. ... How little less</l>
+<l>Divine these khaki-clads in their worn dress</l>
+<l>Than He, the Christ of God? For in each man</l>
+<l>The same soul burns.</l></lg>
 
-75
-More Songs by the Fighting Men
+<lg>
+<l rend="indent16">And ere I leave the shrine,</l>
+<l>I look upon the Christ -- then at the line</l>
+<l>Of men... back to His face and those closed eyes</l>
+<l>So open when one lingeringly looks</l>
+<l>As if into their depths. These men... those eyes...</l>
+<l>Loving, pain-haunted eyes, hard gazing down</l>
+<l>They seem,</l>
+<l>On these -- these other Christs in thin disguise</l>
+<l>Of khaki-brown.</l></lg>
+</div2>
 
-If England calls this dayThe rose-clad days of June, That fled by all too soon, Shall be with me again In Memory-and when The daylight sudden closes, The perfume of June Roses Shall waft me hence
 
-If England calls this dayFrom those far Hills of Home, Beyond the sky's dim domeShall merge Valkyries fair, Swift riding thro' the airWho know I shall be there, Treading the rose-strewn stair
-
-To that New Land.
-
-If England calls this dayIn the Valkyrie's touch Shall be forgotten much: Her flying, perfumed hair Shall speak of Roses rareAnd climbing thro' the breeze, Remembered melodies Shall call me Hoi
-
-76
-
-Harold John Jarvis
-
-At a Wayside Shrine
-
-THE column halts before a wayside shrine To change formation into battle line From double file. 'Tis even, and the sun Its daily circling race has wellnigh done. Behind me in the West, a dying glow Of gold still gleams, to cast a pale halo Upon the shrine.
-
-How many men before To-night have halted at this spot, and wore The same grim, ready look that I see now Painted on every face from chin to brow, And in each eye? One and all are ready For come what may; each man now stands steady Waiting command.
-
-And now the line will pass The shrine-itself as steady as the mass Of England's sons slow moving to the fray, Their Destiny now in the hands of-say, The dim Divinity within that shrineA loving God (the stricken Christ His sign Of Love)-or what?
-
-77
-More Songs by the Fighting Men
-
-The shrine is rent and drille \\ ith bullets-aye, and some of them have kille Passing right thro' the thin mud walls, and past The Hanging Figure in the plaster cast, On to some human target, trudging by, (Dropping it low with sharp surprised cry) Even as I trudge by.
-
-So have some died For Right-bravely as Christ the Crucified Died on Calvary's Cross ; just as brave And just as sacrificially. To save The world He died, or so the worn-out creeds Of Church would teach-but they, but men, dan, deeds And died as men.
-
-Because of Greater Love'That Love of Loves, all other loves aboveThe love of Home and Friends and Native Soil. That these might never be the Foeman's spoil, They gave their lives, their youth, their gold dreams \iid airy castles, built where Su.nlight gleams, And Roses bloom
-
-78
-
-John
-
-And gave Chi  us, that day on Calvary.
-
-stricken Christ . . . a broken shrine . . . and men khaki marching by . . . . How little less vine these khaki -dads in their worn dress an He, the Christ of God ? For in each man e same soul burns.
-
-And ere I leave the shrine, )ok upon the Christ-then at the line iiien . . . back to His face and those closed eyes open when one lingeringly looks if into their depths. These men . . . those eyes . ing, pain-haunted eyes, hard gazing down seem, these-these other Christs in thin disguise khakibrown.
-
-79
-D. T. JONES 'u LIEUT., M.G.C., FRANCE
+<pb n="80"/>
+D. T. JONES
+<hi rend="smallcaps">2nd Lieut., M.G.C., France</hi>
 
 Flint
 
-SI'AND in a hail, where carved men Make love to thee and win thy heart. And when thou kissest, cling for aye: For of their band, thou art.
+STAND in a hall, where carvèd men
+Make love to thee and win thy heart.
+And when thou kissest, cling for aye:
+For of their band, thou art.
+
 
 To a Warship
 
-PROUD monster, swung in the bosom of thu prouder deep, hear thy song, that hustles down the corridors of Time; 1 doom exultant in its strains-or is it peace?
+PROUD monster, swung in the bosom of the prouder deep,
+I hear thy song, that hustles down the corridors of Time;
+Is doom exultant in its strains -- or is it peace?
 
-List forth thy iron soul upon the seas-and break This cruel Inquisition of To-day.
+<milestone unit="stanza" rend="dots">.  .  .  .  .  .</milestone>
 
-\'. hat wilt thou sing? What story wilt thou teh \'here dwells thy fate-in Heaven or in Hell
+Cast forth thy iron soul upon the seas -- and break
+This cruel Inquisition of To-day.
 
-.E.F., FRANCE, Augusi 16, 191780
+<milestone unit="stanza" rend="dots">.  .  .  .  .  .</milestone>
 
-R. WATSON KERR 2ND LIEUT., TANK CORPS
+What wilt thou sing? What story wilt thou tell?
+Where dwells thy fate -- in Heaven or in Hell?
+<hi rend="smallcaps">B.E.F., France</hi>, <hi rend="italic">August 16</hi>, 1917
+
+
+<pb n="81"/>
+R. WATSON KERR
+<hi rend="smallcaps">2nd Lieut., Tank Corps</hi>
 
 Sounds by Night
 
-I HEAR the dull low thunder of the guns Beyond the hills that doze uneasily, A sullen doomful growl that ever runs From end to end of the heavy freighted sky: A friend of mine writes, squatted on the floor, And scrapes by yellow spluttering candle light.
+I HEAR the dull low thunder of the guns
+Beyond the hills that doze uneasily,
+A sullen doomful growl that ever runs
+From end to end of the heavy freighted sky:
+A friend of mine writes, squatted on the floor,
+And scrapes by yellow spluttering candle light.
+"Ah, hush!" he breathes, and gazes at the door,
+That creaks on rusty hinge, in pale affright!
+(No words spoke he, nor I, for well we knew
+What rueful things these sounds did tell.)
+A pause -- I hear the trees sway sighing thro'
+The gloom, like dismal moan of hollow knell,
+Then out across the dark, and startling me
+Bursts forth a laugh, a shout of drunken glee!
+<hi rend="smallcaps">France</hi>, 1917.
 
-Ah, hush " he breathes, and gazes at the door, That creaks on rusty hinge, in pale affright (No words spoke he, nor I, for well we knew What rueful things these sounds did tell.) A pause-I hear the trees sway sighing thro' The gloom, like dismal moan of hollow knell, Then out across the dark, and startling me. Bursts forth a laugh, a shout of drunken glee
 
-FRANCE, 1917.
-
-F Si
-More Songs by the Fighting Men
-
+<pb n="82"/>
 Rain
 
-H! when it rains all day And the sky is a mist That creeps by chillily Where sun once kissed, Like death pale shroud, My soul cries out aloud In hopeless misery.
+AH! when it rains all day
+And the sky is a mist
+That creeps by chillily
+Where sun once kissed,
+Like death pale shroud,
+My soul cries out aloud
+In hopeless misery.
 
-I cannot read nor write A line for gloom, My life lags, drenched of light To cheer its tomb; Chill and wet, Comfortless 1 fret In hopeless night
+I cannot read nor write
+A line for gloom,
+My life lags, drenched of light
+To cheer its tomb;
+Chill and wet,
+Comfortless I fret
+In hopeless night!
 
-And naught to hear but rain Battering the ground o numbing pain! o maddening sound! Drowned in sky Trees drip, drip, and sigh And drip, drip, again!
+And naught to hear but rain
+Battering the ground!
+O numbing pain!
+O maddening sound!
+Drowned in sky
+Trees drip, drip, and sigh
+And drip, drip, again!
+<hi rend="smallcaps">France</hi>, 1917
 
-IRANCE, 1917
 
-8;Z
-
-R. Watson Kerr
-
+<pb n="83"/>
 The Ancient Thought
 
-THE round moon hangs like a yellow lantern in the trees That lie like lace against the silk blue sky; 0 still the night ! 0 hushed the breezeSurely God is very nigh.
+THE round moon hangs like a yellow lantern in the trees
+That lie like lace against the silk blue sky;
+O still the night! O hushed the breeze --
+Surely God is very nigh.
+
 
 At the Base
 
-THINK not of me as facing Death, Tattered, labouring for breath Rather think of one who strays Dreaming dreams by perfumed ways.
+THINK not of me as facing Death,
+Tattered, labouring for breath;
+Rather think of one who strays
+Dreaming dreams by perfumed ways.
 
-Soon I may die, ah, true, 'tis true, But look ! the night is rich with blue Of peaceful skies, and soft the breeze Sings in the trembling poplar trees
+Soon I may die, ah, true, 'tis true,
+But look! the night is rich with blue
+Of peaceful skies, and soft the breeze
+Sings in the trembling poplar trees!
 
-And slowly thro' the rustling grass O'er woodland glade, I, dreaming, pass; To-morrow? Death? Ah, what are these But passing childish phantasies
+And slowly thro' the rustling grass
+O'er woodland glade, I, dreaming, pass;
+To-morrow? Death? Ah, what are these
+But passing childish phantasies!
+<hi rend="smallcaps">France</hi>, <hi rend="italic">July</hi>, 1917.
 
-FRANCI. July. 1917.
 
-83
-More Songs by the Fighting Men
-
+<pb n="84"/>
 In Bitterness
-
 TAKE Thou this box,
+O Heart's Desire,
+In it lies Thy ring
+And more, my heart, bleeding;
+Take out Thy ring,
+O Heart's Desire,
+And, laughing, toss the box
+Into the fire!
+<hi rend="smallcaps">France</hi>, <hi rend="italic">July</hi>, 1917.
 
-0 Heart's Desire, In it lies Thy ring And more, my heart, bleeding Take out Thy ring, 0 Heart's Desire, And, laughing, toss the box Into the fire
 
-FRANCE, 7uly, 1917.
-
-DUDLEY H. HARRIS CAnE 1', TANK CORPS
+DUDLEY H. HARRIS
+<hi rend="smallcaps">Cadet, Tank Corps</hi>
 
 Left Alone
 
-LFT alone among the dying All around are moaning, sighii, Or are cursing, sobbing, crying In Death's crushing, hushing hand. We are torn upon the wire, We re scorched and burnt with fire, Or lie choking in the mire Of the star-lit " No Man's Land" 84
+LEFT alone among the dying!
+All around are moaning, sighing,
+Or are cursing, sobbing, crying
+In Death's crushing, hushing hand.
+We are torn upon the wire,
+We are scorched and burnt with fire,
+Or lie choking in the mire
+Of the star-lit "No Man's Land."
 
-Dudley H, Harris
-
-Hear our prayers, 0 1 gentle Jesus, Send Thine angels down to ease us From the pains of Hell that seize us, From our burning, yearning thirst. We are broken, we are battered, Bodies twisted, crushed and shattered By the shells and bullets scattered
-
+<pb n="85"/>
+Hear our prayers, O! gentle Jesus,
+Send Thine angels down to ease us
+From the pains of Hell that seize us,
+From our burning, yearning thirst.
+We are broken, we are battered,
+Bodies twisted, crushed and shattered
+By the shells and bullets scattered
 On this strip of land accurst.
 
-Round about are shadows creeping, Formless Things which wake the sleeping, Glaring eyes from shell-holes peeping,
-
-Mocking always at our pain. Cold and wet our limbs are numbing, Fevered brows are drumming, drummingAre the stretchers never coming?
-
+Round about are shadows creeping,
+Formless Things which wake the sleeping,
+Glaring eyes from shell-holes peeping,
+Mocking always at our pain.
+Cold and wet our limbs are numbing,
+Fevered brows are drumming, drumming --
+Are the stretchers <hi rend="italic">never</hi> coming?
 Are we numbered with the slain?
 
-God in Heaven, canst Thou hear us? Mary Mother! Dost Thou fear us Stretcher-bearers, are you near us?
-
-Give us water or we die But a grisly shadow's creeping With his cruel scythe a-reaping Weary souls which fall to sleeping
-
+God in Heaven, canst Thou hear us?
+Mary Mother! Dost Thou fear us?
+Stretcher-bearers, are you near us?
+Give us water or we die!
+But a grisly shadow's creeping
+With his cruel scythe a-reaping
+Weary souls which fall to sleeping
 In a choking, croaking sigh.
 
-85
-FRANK C. LEWIS FLIGHT SUB-LIEUT., R.N.A.S.
+
+<pb n="86"/>
+FRANK C. LEWIS
+<hi rend="smallcaps">Flight Sub-Lieut., R.N.A.S.</hi>
 
 Belgium, 1914
 
-THE lithe flames flicker through the veil ol night,
-
-Licking with bitter tongue ; and soon the daw ii Will come, and gaunt and black against the white
-
-Cool sky will loom a smoking home, forlorn Of all the joy and peace that once was there.
-
-The pleading, pitiful dead lie mute and cold And all untended still. The fields are bare
-
+I
+THE lithe flames flicker through the veil of night,
+Licking with bitter tongue; and soon the dawn
+Will come, and gaunt and black against the white
+Cool sky will loom a smoking home, forlorn
+Of all the joy and peace that once was there.
+The pleading, pitiful dead lie mute and cold
+And all untended still. The fields are bare
 Of the young green, the parent of the gold.
 
 O little land, great-hearted, who didst give
-
 Thine all for sake of others' liberty,
 
-Flight Sub-Lieut. Frank C. Lewi,, R.N.A.S., was killed in aerial combat in France on August 21st, 1917, aged 19 years. He 1s only been twelve days in France, being selected for a fighting quadron three days after he landed. His squadron commander described him as having already proved "a brilliant pilot," an of his last air fight that "he fought bravely to a noble end." iie fell in our lines and is bur:el at Bailleul. The Belgium sonnets were written in iiç while he was a boy at Marlborough,
+<note id="moresongs0n1" place="foot">
+Flight Sub-Lieut. Frank C. Lewis, R.N.A.S., was killed in aerial combat in France on August 21st, 1917, aged 19 years. He had only been twelve days in France, being selected for a fighting squadron three days after he landed. His squadron commander described him as having already proved "a brilliant pilot," and of his last air fight that "he fought bravely to a noble end." He fell in our lines and is buried at Bailleul. The Belgium sonnets were written in 1915 while he was a boy at Marlborough.</note>
 
-86
-
-Frank C. Lewis
-
+<pb n="87"/>
 Knowing the cost, nor shrinking at the thought,
-
 Be sure that thy immortal name shall live
+Writ large in thine own ashes. Men shall cry,
+"This was a nation marvellously wrought!"
 
-Writ large in thine own ashes. Men shall cry, This was a nation marvellously wrought !
-
-H
-
-There came a voice from out the darkness crying
-
-A pleading voice, the voice of one in thrall
-
-"Come, ye who pass-oh, heed ye not my sighing?
-
-Come and deliver ! Hear, oh hear my call!
-
+II
+There came a voice from out the darkness crying --
+A pleading voice, the voice of one in thrall --
+"Come, ye who pass -- oh, heed ye not my sighing?
+Come and deliver! Hear, oh hear my call!
 For when the invader stood before my gate
-
 Demanding passage through with haughty tone,
-
 A voice cried loud, 'Wilt thou endure this fate?
-
 Better have death than live when honour's flown!'
-
 And so my children now lie slain by him
-
 I had not wronged; with strife my land is riven;
-
 Dishonoured here I lie with fettered limb.
-
 To desecration all my shrines are given,
+And nought remains but bondage drear and grim. ...
+God! Is there any justice under heaven?"
 
-And nought remains but bondage drear and grim.
 
-God ! Is there any justice under heaven ?
-
-87
-More Songs by the Fighting Men
-
+<pb n="88"/>
 Ad Profunda
 
-WE have built high walls of pomp and pride And wealth, around our inmost Being, And deep, unseen, within there hide
-
+WE have built high walls of pomp and pride
+And wealth, around our inmost Being,
+And deep, unseen, within there hide
 Visions too bright for our dull seeing.
 
 We yearning stand, and cannot pass
-
-To where the Soul with these is One; Our utterance is as the grass
-
+To where the Soul with these is One;
+Our utterance is as the grass
 Withering beneath the noonday sun.
 
 The Waters of Infinity
-
-Break on the spirit's lonely shore Lo the wall crumbles, and we see
-
+Break on the spirit's lonely shore
+Lo! the wall crumbles, and we see
 All we have hoped and striven for.
 
-0, then all time is lost in Time, The Soul has burst its prison-bars We walk with feet still deep in slime,
-
+O, then all time is lost in Time,
+The Soul has burst its prison-bars:
+We walk with feet still deep in slime,
 But with our heads above the stars.
 
-88
 
-Frank C. Lewis
+<pb n="89"/>
+The Downs, looking from Savernake Forest
 
-The Downs, looking from Savernakc Forest
+WITH eager steps I climbed the hill
+Ploughed with deep, age-old furrows, till
+I reached the forest's edge and gazed
+Across the low red town smoke-hazed,
+Upon the downs, windy and bare,
+Ridge upon ridge unending. There
+No sound is heard save only these,
+The wind's wild song 'mid lonely trees,
+The echo of sheep-bells, and the cry
+Of peewits circling in the sky.
+Back in the dawn of time on earth,
+Before she brought her sons to birth,
+You stood the same as now you stand --
+Untroubled, vast, majestic, grand:
+Only you had not heard the tramp,
+Old Hackpen Hill and Barbury Camp,
+Of many an army passing by
+Under a blue and cloud-flecked sky.
+And happy they who fell in fight
+Upon your clear and wind-swept height:
+With thunder for their requiem
+And the dark clouds to weep for them,
+<pb n="90"/>
+They dream the centuries away
+Through changeless night and changeless day.
 
-WITH eager steps I climbed the hill Ploughed with deep, age-old furrows, till I reached the forest's edge and gazed Across the low red town smoke-hazed, Upon the downs, windy and bare, Ridge upon ridge unending. There No sound is heard save only these, The wind's wild song 'mid lonely trees, The echo of sheep-bells, and the cry Of peewits circling in the sky. Back in the dawn of time on earth, Before she brought her sons to birth, You stood the same as now you standUntroubled, vast, majestic, grand Only you had not heard the tramp, Old Hackpen Hill and Barbury Camp, Of many an army passing by Under a blue and cloud-flecked sky. And happy they who fell in fight Upon your clear and wind-swept height: With thunder for their requiem' And the dark clouds to weep for them, 89
+O Downs, I think it good that you
+Have given your secret to the few
+Who love you and can understand.
+You are not as this other land
+Trodden by all who chance to pass:
+Only we tread your close-cropped grass
+Who love to feel the beat of rain
+Washing away all town-born pain:
+Wind: and the heights whence one may see
+The littleness of man: and we
+There feel at last that we are free.
+

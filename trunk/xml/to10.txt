@@ -128,7 +128,7 @@
 <l>New wonder looking from its tired eyes.</l>
 <l>Time's brought a rare patine to old Romance --</l>
 <l rend="italic">Death has an ancient dignity in France.</l></lg>
-<dateline><name type="place"><hi rend="smallcaps">France</hi>,</name> 
+<dateline><name type="place"><hi rend="smallcaps">France</hi>, </name> 
 <date><hi rend="italic">November, 1916.</hi></date></dateline>
 </div2>
 
@@ -407,3 +407,5 @@
 <l>I doubt if He will dare</l>
 <l>To judge these souls.</l></lg>
 </div2>
+
+

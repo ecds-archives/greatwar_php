@@ -5412,14 +5412,12 @@ to the long, thin lines on either side. Here will we prove our right to life and
 <l >And used to be my pet aversion!</l></lg></div2>
 
 <div2 id="Eaton142" type="poem" n="The Flag">
-<l>THE FLAG</l></lg>
+<head rend="cemter">THE FLAG</head>
+<byline rend="center"><docAuthor>EDWARD A. HORTON</docAuthor><lb/>
+<hi rend="smallcap">IN Popular Educator</hi></byline>
 
 <lg>
-<l>EDWARD A. HORTON </l>
-<l>IN POPULAR EDUCATOR</l></lg>
-
-<lg>
-<l>WHY do I love our flag? Ask why</l>
+<l n="1">WHY do I love our flag? Ask why</l>
 <l>Flowers love the sunshine. Or, ask why </l>
 <l>The needle turns with eager eye </l>
 <l>Toward the great stars in northern sky.</l></lg>
@@ -5443,16 +5441,14 @@ to the long, thin lines on either side. Here will we prove our right to life and
 <l>Forever guiding toward the light;</l>
 <l>Foe of the tyrant, friend of right, </l>
 <l>God give it leadership and might!
-</l></lg></div2>
+</l></lg><pb n="174"/></div2>
 
-<div2 id="Eaton" type="poem" n="">
-<head rend="center">THE WAR HORSE</l>
-<l>LIEUT. L FLEMING, B. E. F., FRANCE</head>
-
+<div2 id="Eaton143" type="poem" n="The War Horse">
+<head rend="center">THE WAR HORSE</head>
+<byline rend="center"><docAuthor>LIEUT. L FLEMING, B. E. F., FRANCE</docAuthor></byline>
+<note>Shortly after the verses here following were received from France by the American Red Star Animal Relief, Lieutenant Fleming fell in action. His voice, coming to us as from a plane of life where dumb creatures do not suffer, is a call to civilization to do its duty by the animals whose kind were silent heroes of the war.</note>
 <lg>
-<l n="1">Shortly after the verses here following were received from France by the American Red Star Animal Relief, Lieutenant Fleming fell in action. His voice, coming to us as from a plane of life where dumb creatures do not suffer, is a call to civilization to do its duty by the animals whose kind were silent heroes of the war.</l></lg>
-<lg>
-<l>WHEN the shells are bursting round, </l>
+<l m="1">WHEN the shells are bursting round, </l>
 <l>Making craters in the ground,</l>
 <l>And the rifle fire's something awful cruel, </l>
 <l>When you 'ear them in the night</l>
@@ -5465,25 +5461,24 @@ to the long, thin lines on either side. Here will we prove our right to life and
 <lg>
 <l>The gas is coming on</l>
 <l>An' yer knows before it's gone</l>
-<l>That the 'orse wots with you now won't be by then;</l>
+<l >That the 'orse wots with you now won't be by then;</l>
 <l>Yer loves him like yer wife</l>
 <l>An' yer wants to save 'is life,</l>
-<l>But there ain't no respirators, not for them.</l>
+<l >But there ain't no respirators, not for them.</l>
 <l>I was standing by 'is side</l>
 <l>On the night my old 'orse died,</l>
-<l>An' I shan't forget 'is looks towards the last.</l>
+<l >An' I shan't forget 'is looks towards the last.</l>
 <l>'E is choking mighty bad,</l>
 <l>An' is eyes was looking mad,</l>
-<l>An' I seed that--'e--was dying--dying fast.</l></lg>
+<l >An' I seed that--'e--was dying--dying fast.</l></lg>
 
 <lg>
 <l>An' I want to tell yer 'ow </l>
 <l>It's the 'orses gets us through,</l>
-<l>For they strains their blooming 'earts out when </l>
-<l>they're pressed.</l>
-<l>We was galloping like 'ell</l>
+<l >For they strains their blooming 'earts out when they're pressed.</l>
+<l>We was galloping like 'ell</l><pb n="176"/>
 <l>When a bullet 'its old Bill,</l>
-<l>I c'd see the blood a--streaming down 'is face, </l>
+<l >I c'd see the blood a-streaming down 'is face, </l>
 <l>It 'ad got 'im in the 'ead, </l>
 <l>But 'e stuck to it and led </l>
 <l>Till we comes to ''Action right,'' </l>
@@ -5492,24 +5487,24 @@ to the long, thin lines on either side. Here will we prove our right to life and
 <lg>
 <l>I 'adn't time to choose </l>
 <l>I 'ad to cut 'im loose,</l>
-<l>For 'e'd done all 'e c'd afore a gun. </l>
+<l >For 'e'd done all 'e c'd afore a gun. </l>
 <l>When I looks at 'im again </l>
 <l>'E was out of all 'is pain,</l>
-<l>An' I 'opes 'is soul will rest for wot 'e done. </l>
+<l >An' I 'opes 'is soul will rest for wot 'e done. </l>
 <l>If it 'adn't been for Bill </l>
 <l>We should all 'ave been in 'ell,</l>
-<l>For we only got in action just in time. </l>
+<l >For we only got in action just in time. </l>
 <l>Ain't it once occurred to you </l>
 <l>Wot the 'orses there go through?</l>
-<l>They 'elps to win our fight an' does it fine.</l></lg>
+<l >They 'elps to win our fight an' does it fine.</l></lg>
 
 <lg>
 <l>When 'is blood is flowing 'ot </l>
 <l>From a wound what 'e's just got</l>
-<l>An' 'is breath is coming 'ard an' short an' thin.</l>
+<l >An' 'is breath is coming 'ard an' short an' thin.</l>
 <l>'E can see the men about, </l>
 <l>Getting water dealed out,</l>
-<l>But not a drop is brought to comfort 'im; </l>
+<l >But not a drop is brought to comfort 'im; </l>
 <l>Tho 'is tongue is parched and dry, </l>
 <l>'E can see the water by, </l>
 <l>But 'is wounds are left to bleed, </l>
@@ -5519,309 +5514,283 @@ to the long, thin lines on either side. Here will we prove our right to life and
 <lg>
 <l>There are 'eroes big and small, </l>
 <l>But the biggest of them all</l>
-<l>Is the 'orse wot lays a--dying on the ground.</l>
+<l >Is the 'orse wot lays a--dying on the ground.</l><pb n="176"/>
 <l>'E doesn't cause no wars,</l>
 <l>An' 'e's only fighting yours,</l>
-<l>An' 'e gives 'is life for you without a sound.</l>
+<l >An' 'e gives 'is life for you without a sound.</l>
 <l>'E doesn't get no pay,</l>
 <l>Just some oats, and p'r'aps some hay;</l>
-<l>If 'e's killed, no one thinks a bit of 'im</l>
+<l >If 'e's killed, no one thinks a bit of 'im</l>
 <l>"E's just as brave an' good</l>
 <l>As any men wot ever stood,</l>
-<l>But there's mighty little though or 'elp for 'im.
+<l >But there's mighty little though or 'elp for 'im.
 </l></lg></div2>
 
-<div2 id="Eaton" type="poem" n="">
-<head rend="center">PARENTHETICALLY SPEAKING</l>
-<l>FROM THE CHICAGO TRIBUNE</l>
-<l>This delightful whimsy will serve to keep in mind the positively </l>
-<l>Affectionate exchange of greetings between the late President Carranza</l>
-<l>And his friend Wilhelm, when Wilhelm was celebrating what he did not</l>
-<l>Know was the last glorious birthday in his life.</head>
+<div2 id="Eaton144" type="poem" n="Parenthetically Speaking">
+<head rend="center">PARENTHETICALLY SPEAKING</head>
+<byline rend="center"><hi rend="smallcap">From The Chicago Tribune</hi></byline>
+<note>This delightful whimsy will serve to keep in mind the positively
+affectionate exchange of greetings between the late President Carranza
+and his friend Wilhelm, when Wilhelm was celebrating what he did not know was the last glorious birthday in his life.</note>
 <lg>
-<l n="1">OH, Carranza sent a cable-- (on the kaiser's birthday)</l>
-<l>Gram</l>
-<l>To the Kaiser there at Pots-- </l>
-<l>Dam</l>
-<l>And it said, "Look out for uncle(that's my northern </l>
-<l>Neighbor) Sam,</l>
+<l n="1">OH, Carranza sent a cable- (on the kaiser's birthday) gram</l>
+<l>To the Kaiser there at Pots- (that's a German palace) dam</l>
+<l>And it said, "Look out for uncle(that's my northern neighbor) Sam,</l>
 <l>For he's coming after you!"</l></lg>
 
 <lg>
-<l>Then the Kaiser waved his iron (as the papers have it)</l>
-<l>hand,</l>
-<l>And he danced a little sar-- (that's a Turkish tango)</l>
-<l>band</l>
-<l>And he said: "I'm safe in Heli-- (in the German sea</l>
-<l>Goland</l>
+<l>Then the Kaiser waved his iron (as the papers have it) hand,</l>
+<l>And he danced a little sar- (that's a Turkish tango) band</l>
+<l>And he said: "I'm safe in Heli- (in the German sea) goland</l>
 <l>But I thank my friend Carranza."
-</l></lg></div2>
+</l></lg><pb n="177"/></div2>
 
-<div2 id="Eaton" type="poem" n="">
-<head rend="center">WORLD SERIES OPENED--BATTER UP!</l>
-<l>IN THE STARS AND STRIPES, A.E.F., FRANCE</l>
+<div2 id="Eaton145" type="poem" n="World Series Opened--Batter Up!">
+<head rend="center">WORLD SERIES OPENED--BATTER UP!</head>
+<byline rend="center"><hi rend="smallcap">IN The Stars And Stripes, A.E.F., France</hi></byline>
 <l>THE outfield is a--creepin in to catch the kaiser's pop,</l>
-<l>And here's a southpaw twirler with a lot of vim</l>
-<l>and hop!</l>
-<l>He's tossed the horsehide far away to plug the hand--</l>
-<l>grenade;</head>
+<l>And here's a southpaw twirler with a lot of vim and hop!</l>
+<l>He's tossed the horsehide far away to plug the hand-grenade;</l>
 <lg>
-<l n="1">What matter if on muddy grounds this game of war is</l>
-<l>played?</l>
-<l>He'll last through extra innings and he'll hit as well as</l>
-<l>pitch;</l>
-<l>His smoking Texas leaguers'll make the Fritzies seek the</l>
-<l>ditch!</l></lg>
+<l n="1">What matter if on muddy grounds this game of war is played?</l>
+<l>He'll last through extra innings and he'll hit as well as pitch;</l>
+<l>His smoking Texas leaguers'll make the Fritzies seek the ditch!</l></lg>
 <lg>
-<l>He's just about to groove it toward a ducking Fritzie's </l>
-<l>Bean</l>
+<l>He's just about to groove it toward a ducking Fritzie's bean</l>
 <l>His crossfire is the puzzlingest that ever yet was seen;</l>
 <l>His spittle is a deadly thing; his little inshoot curve</l>
-<l>Will graze some Heinie's heaving ribs and make him lose</l>
-<l>his nerve.</l></lg>
+<l>Will graze some Heinie's heaving ribs and make him lose his nerve.</l></lg>
 <lg>
 <l>Up in the air he never goes; he always cuts the plate,</l>
-<l>No matter if the bleachers rise and start "the Hymn</l>
-<l>of Hate;"</l>
+<l>No matter if the bleachers rise and start "the Hymn of Hate;"</l>
 <l>And pacifistic coaching never once has got his goat.</l>
-<l>Just watch him heave across the top the latest Yankee</l>
-<l>note!</l></lg>
+<l>Just watch him heave across the top the latest Yankee note!</l></lg>
 <lg>
-<l>The Boches claim the Umpire is a--sidin' with their nine,</l>
+<l>The Boches claim the Umpire is a-sidin' with their nine,</l>
 <l>But we are not the boobs to fall for such a phony line;</l>
-<l>We know the game is fair and square, decisions on the </l>
-<l>level</l>
-<l>The only boost the kaiser gets is from his pal, The Devil!</l></lg>
+<l>We know the game is fair and square, decisions on the level</l>
+<l>The only boost the kaiser gets is from his pal, The
+Devil!</l></lg><pb n="178"/>
 <lg>
 <l>The series now is opened, and the band begins to play; </l>
-<l>The batteries are warming up; the crowd shouts, "Hip--</l>
-<l>Hurray!" </l>
-<l>The catcher is a--wingin' 'em to second, third and first, </l>
+<l>The batteries are warming up; the crowd shouts, "Hip-Hurray!" </l>
+<l>The catcher is a-wingin' 'em to second, third and first, </l>
 <l>And if a Heinie tries to steal, he's sure to get the worst.</l></lg>
 <lg>
 <l>So watch the southpaw twirler in his uniform O. D. </l>
 <l>Retire to the players' bench the Boches--one, two, three! </l>
 <l>He'll never walk a bloomin' one, nor let 'em hit it out.</l>
-<l> Just watch him make 'em fan the air and put the Hun </l>
-<l>to rout!
+<l> Just watch him make 'em fan the air and put the Hun to rout!
 </l></lg></div2>
 
-<div2 id="Eaton" type="poem" n="">
-<head rend="center">EDITH CAVELL</l>
-<l>MCLANDBURGH WILSON</l>
-<l>From Miss Wilson's book entitled "The Little Flag On Main Street," published and copyright, 1917, by The Macmillan Company, New York. </l>
-<l>Special permission to insert in this book.</head>
+<div2 id="Eaton146" type="poem" n="Edith Cavell">
+<head rend="center">EDITH CAVELL</head>
+<byline rend="center"><docAuthor>MCLANDBURGH WILSON</docAuthor></byline>
+<bibl>From Miss Wilson's book entitled "The Little Flag On Main
+Street," published and copyright, 1917, by The Macmillan Company, New York. Special permission to insert in this book.</bibl>
 <lg>
 <l n="1">ON law and love and mercy </l>
-<l>Was laid the German curse </l>
+<l> Was laid the German curse </l>
 <l>When to her execution</l>
-<l>Was led the British nurse.</l></lg>
+<l >Was led the British nurse.</l></lg>
 
 <lg>
 <l>In brutal might they thought her</l>
-<l>Of help and friendship shorn;</l>
+<l >Of help and friendship shorn;</l>
 <l>John Brown, Jeanne d'Arc, all martyrs,</l>
-<l>Companioned her that morn.</l></lg>
+<l >Companioned her that morn.</l></lg>
 
 <lg>
 <l>A harmless, tender woman,</l>
-<l>They took her to her doom; </l>
+<l >They took her to her doom; </l>
 <l>A dread, resistless spirit</l>
-<l>She rises from the tomb.</l></lg>
+<l >She rises from the tomb.</l></lg>
 
 <lg>
 <l>Still Germany shall fear her,</l>
-<l>For since that bloody dawn</l>
+<l >For since that bloody dawn</l>
 <l>Through all the earth that trembles</l>
-<l>Her soul goes marching on!
-</l></lg></div2>
+<l >Her soul goes marching on!
+</l></lg><pb n="179"/></div2>
 
-<div2 id="Eaton" type="poem" n="">
-<head rend="center">TO SERVE IS TO GAIN</l>
-<l>CHARLES H. MACKINTOSH </l>
-<l>IN LOGGING, DULUTH</head>
+<div2 id="Eaton147" type="poem" n="To Serve Is To Gain">
+<head rend="center">TO SERVE IS TO GAIN</head>
+<byline rend="center"><docAuthor>CHARLES H. MACKINTOSH</docAuthor><lb/>
+<hi rend="smallcap">IN Logging, Duluth</hi></byline>
 
 <lg>
 <l n="1">"HE profits most who serves us best!"</l>
-<l>Let each who labors, lives and dies </l>
-<l>Beneath these star--bespangled skies</l>
+<l >Let each who labors, lives and dies </l>
+<l >Beneath these star-bespangled skies</l>
 <l>Go write that motto on his breast!</l></lg>
 
 <lg>
 <l>"He profits most"--Here is no call </l>
-<l>To selfish ease or sordid gain; </l>
-<l>Who serves himself will serve in vain;</l>
+<l >To selfish ease or sordid gain; </l>
+<l >Who serves himself will serve in vain;</l>
 <l>Who profits most must serve us all.</l></lg>
 
 <lg>
 <l>And he has most who gives the most,</l>
-<l>Since what is kept can but decay </l>
-<l>--And Death still treads his sleepless way</l>
+<l >Since what is kept can but decay </l>
+<l >--And Death still treads his sleepless way</l>
 <l>Among our myriad human host.
 </l></lg></div2>
 
-<div2 id="Eaton" type="poem" n="">
-<head rend="center">THEY SHALL RETURN</l>
-<l>J. LEWIS MILLIGAN </l>
-<l>IN THE TORONTO GLOBE</head>
+<div2 id="Eaton148" type="poem" n="They Shall Return">
+<head rend="center">THEY SHALL RETURN</head>
+<byline rend="center"><docAuthor>J. LEWIS MILLIGAN</docAuthor><lb/>
+<hi rend="smallcap">IN The Toronto Globe</hi></byline>
 
 <lg>
 <l n="1">THEY shall return when the wars are over, </l>
-<l>When battles are memories dim and far;</l>
+<l >When battles are memories dim and far;</l>
 <l>Where guns now stand shall be corn and clover,</l>
-<l>Flowers shall bloom where the blood--drops are.</l></lg>
+<l >Flowers shall bloom where the blood-drops are.</l></lg>
 <lg>
 <l>They shall return with laughing faces,</l>
-<l>Limbs that are lithe and hearts new--born;</l>
-<l>Yea, we shall see them in old home--places,</l>
-<l>Lovelier yet in the light of morn.
-</l></lg></div2>
+<l >Limbs that are lithe and hearts new-born;</l>
+<l>Yea, we shall see them in old home-places,</l>
+<l >Lovelier yet in the light of morn.
+</l></lg><pb n="180"/></div2>
 
-<div2 id="Eaton" type="poem" n="">
-<head rend="center">"TO THE IRISH DEAD"</l>
-<l>BY ESSEX EVANS</head>
+<div2 id="Eaton149" type="poem" n="'To The Irish Dead'">
+<head rend="center">"TO THE IRISH DEAD"</head>
+<byline rend="center">BY<docAuthor>ESSEX EVANS</docAuthor></byline>
+<note>The author of these heart--touching lines is a Queenslander of Welsh derivation. Sir Herbert Warren, K. C. V. O., of the University of Oxford, had this to say of him and of the Toast: "They say that no one but an Irishman understands Ireland, that she will listen to no one but Irishman. Wales is near to her in geography and in race. I have thought she perhaps might listen to a Welsh voice, She has one today, now whispering, now ringing, across St. George's Channel. Will she heed it? Who knows?"</note>
 <lg>
-<l n="1">The author of these heart--touching lines is a Queenslander of Welsh derivation. Sir Herbert Warren, K. C. V. O., of the University of Oxford, had this to say of him and of the Toast: "They say that no one but an Irishman understands Ireland, that she will listen to no one but Irishman. Wales is near to her in geography and in race. I have thought she perhaps might listen to a Welsh voice, She has one today, now whispering, now ringing, across St. George's Channel. Will she heed it? Who knows?"</l></lg>
-<lg>
-<l>TIS a green isle set in a silver water,</l>
-<l>A fairy isle where the shamrock grows, </l>
+<l n="1">TIS a green isle set in a silver water,</l>
+<l >A fairy isle where the shamrock grows, </l>
 <l>Land of Legend, the Dream--Queen's daughter--</l>
-<l>Out of the Fairies' hands she rose.</l>
+<l >Out of the Fairies' hands she rose.</l>
 <l>They touched her harp with a tender sighing,</l>
-<l>A spirit--song from a world afar,</l>
+<l >A spirit-song from a world afar,</l>
 <l>They touched her heart with a fire undying</l>
-<l>To fight and follow her battle--star.</l></lg>
+<l >To fight and follow her battle-star.</l></lg>
 
 <lg>
 <l>Too long, too long thro' the grey years growing </l>
-<l>Feud and faction have swept between</l>
+<l >Feud and faction have swept between</l>
 <l>The thistledown and the red rose blowing,</l>
-<l>And the three--fold leaf of the shamrock green;</l>
+<l >And the three-fold leaf of the shamrock green;</l>
 <l>But the seal of blood, ye shall break it never:</l>
-<l>With rifles grounded and bare of head</l>
+<l >With rifles grounded and bare of head</l>
 <l>We drink to the dead who live forever--</l>
-<l>A silent toast--To the Irish dead!
-</l></lg></div2>
+<l >A silent toast--To the Irish dead!
+</l></lg><pb n="181"/></div2>
 
-<div2 id="Eaton" type="poem" n="">
-<head rend="center">VISION</l>
-<l>DOROTHY PAUL </l>
-<l>IN THE SATURDAY EVENING POST</l>
-<l>Permission to reproduce in this book</head>
+<div2 id="Eaton150" type="poem" n="Vision">
+<head rend="center">VISION</head>
+<byline rend="center"><docAuthor>DOROTHY PAUL</docAuthor><lb/>
+<hi rend="smallcap">IN The Saturday Evening Post</hi></byline>
+<bibl rend="center">Permission to reproduce in this book</bibl>
 
 <lg>
 <l n="1">ABOVE the broken walls the apple boughs</l>
-<l>Are murmurous with bees; </l>
-<l>Again the slumbrous breeze</l>
+<l >Are murmurous with bees; </l>
+<l >Again the slumbrous breeze</l>
 <l>Eddies the snow of drifted chestnut flowers,</l>
 <l>And little ruffling winds go silverly </l>
-<l>Along the poplar trees.</l>
+<l >Along the poplar trees.</l>
 <l>They never speak of it to me, </l>
-<l>My comrades. Awkward--kind</l>
+<l >My comrades. Awkward--kind</l>
 <l>I hear their voices roughen and grow dumb,</l>
-<l>Remembering I am blind</l>
-<l>But through the dark, I know--I know the spring has </l>
-<l>come</l>
-<l>To France!</l></lg>
+<l >Remembering I am blind</l>
+<l>But through the dark, I know--I know the spring has come</l>
+<l rend="indent17">To France!</l></lg>
 
 <lg>
 <l>What matter I'll not see beneath the wheat </l>
-<l>Red poppies burn again; </l>
-<l>The gleam of April rain</l>
+<l >Red poppies burn again; </l>
+<l >The gleam of April rain</l>
 <l>Along the boulevards; the flower girls</l>
 <l>With mignonette and pinks and clematis; </l>
-<l>Not see again the Seine</l>
+<l >Not see again the Seine</l>
 <l>Slip under the silver bridges to Rouen? </l>
-<l>Ah, no; nor see</l>
+<l >Ah, no; nor see</l>
 <l>The pale gold smile of buttercups, that glorifies </l>
-<l>Gray ruins with bravery</l>
+<l >Gray ruins with bravery</l>
 <l>Heartbreaking, valiant--the smile that lights the eyes</l>
-<l>Of France!</l></lg>
+<l rend="indent17">Of France!</l></lg>
 
 <lg>
 <l>For through the sightless mercy of my days </l>
-<l>White visions come to me--</l>
-<l>Beyond the dark I see.</l>
+<l >White visions come to me--</l>
+<l >Beyond the dark I see.</l>
 <l>Not this worn, steadfast France, wan, gallant, spent,</l>
 <l>With eyes burned haggard by the spirit of the Maid </l>
-<l>And Charlotte of Normandy--</l>
+<l >And Charlotte of Normandy--</l><pb n="182"/>
 <l>But France triumphant, high of heart, </l>
-<l>Smiling through throbbing drums </l>
+<l >Smiling through throbbing drums </l>
 <l>On Rheims restored, Nancy, Alsace, Lorraine, </l>
-<l>In that new spring that comes--</l>
+<l >In that new spring that comes--</l>
 <l>The spring we halt and blind and dead bring back again</l>
-<l>To France!
+<l rend="indent17">To France!
 </l></lg></div2>
 
-<div2 id="Eaton" type="poem" n="">
+<div2 id="Eaton151" type="poem" n="Rain On Your Old Tin Hat">
 <head rend="center">RAIN ON YOUR OLD TIN HAT</l>
-<l>LIEUT. J. H. WICKERSHAM</l>
-<l>Written at the battle front in France and sent to his mother, Mrs. W. E. Damon. Lieutenant Wickersham was killed in action September 14, 1918.</head>
+<byline rend="center"><docAuthor>LIEUT. J. H. WICKERSHAM</docAuthor></byline>
+<note>Written at the battle front in France and sent to his mother, Mrs. W. E. Damon. Lieutenant Wickersham was killed in action September 14, 1918.</note>
 <lg>
-<l n="1">THE mist hangs low and quiet on a ragged line of </l>
-<l>hills,</l>
-<l>There's a whispering of wind across the flat;</l>
-<l>You'd be feeling kind of lonesome if it wasn't for one </l>
-<l>thing--</l>
-<l>The patter of the raindrops on your old tin hat.</l></lg>
+<l n="1">THE mist hangs low and quiet on a ragged line of hills,</l>
+<l >There's a whispering of wind across the flat;</l>
+<l>You'd be feeling kind of lonesome if it wasn't for one thing--</l>
+<l >The patter of the raindrops on your old tin hat.</l></lg>
 <lg>
-<l>An' you just can't help a--figuring----sitting here alone--</l>
-<l>About this war and hero stuff and that,</l>
-<l>And you wonder if they haven't sort of got things </l>
-<l>twisted up,</l>
-<l>While the rain keeps up its patter on your old tin hat.</l></lg>
+<l>An' you just can't help a-figuring--sitting here alone--</l>
+<l >About this war and hero stuff and that,</l>
+<l>And you wonder if they haven't sort of got things twisted up,</l>
+<l >While the rain keeps up its patter on your old tin hat.</l></lg>
 <lg>
 <l>When you step off with the outfit to do your little bit,</l>
-<l>You're simply doing what you're s'posed to do--</l>
-<l>And you don't take time to figure what you gain or what </l>
-<l>you lose,</l>
-<l>It's the spirit of the game that brings you through.</l></lg>
+<l >You're simply doing what you're s'posed to do--</l>
+<l>And you don't take time to figure what you gain or what you lose,</l>
+<l >It's the spirit of the game that brings you through.</l></lg><pb n="183"/>
 <lg>
-<l>But back at home she's waiting, writing cheerful little </l>
-<l>notes,</l>
-<l>And every night she offers up a prayer </l>
-<l>And just keeps on a--hoping that her soldier boy is safe--</l>
-<l>The mother of the boy who's over there.</l></lg>
+<l>But back at home she's waiting, writing cheerful little notes,</l>
+<l >And every night she offers up a prayer </l>
+<l>And just keeps on a-hoping that her soldier boy is safe--</l>
+<l >The mother of the boy who's over there.</l></lg>
 
 <lg>
 <l>And, fellows, she's the hero of this great big ugly war,</l>
-<l>And her prayer is on that wind across the flat;</l>
-<l>And don't you reckon maybe it's her tears, and not the </l>
-<l>rain,</l>
-<l>That's keeping up the patter on your old tin hat?
+<l >And her prayer is on that wind across the flat;</l>
+<l>And don't you reckon maybe it's her tears, and not the rain,</l>
+<l >That's keeping up the patter on your old tin hat?
 </l></lg></div2>
-<div2 id="Eaton" type="poem" n="">
-<head rend="center">THE ARMED LINER</l>
-<l>H. SMALLEY SARSON </l>
-<l>IN THE POETRY REVIEW</head>
+<div2 id="Eaton152" type="poem" n="The Armed Liner">
+<head rend="center">THE ARMED LINER</head>
+<byline rend="center"><docAuthor>H. SMALLEY SARSON</docAuthor><lb/>
+<hi rend="smallcap">IN The Poetry Review</hi></byline>
 
 <lg>
 <l n="1">The dull gray paint of war </l>
 <l>Covering the shining brass and gleaming decks </l>
-<l>That once re--echoed to the steps of youth. </l>
+<l>That once re-echoed to the steps of youth. </l>
 <l>That was before </l>
 <l>The storms of destiny made ghastly wrecks </l>
 <l>Of peace, the Right of Truth. </l>
 <l>Impromptu dances, colored lights and laughter, </l>
 <l>Lovers watching the phosphorescent waves, </l>
 <l>Now gaping guns, a whistling shell; and after </l>
-<l>So mans-- wandering graves.
-</l></lg></div2>
+<l>So mans wandering graves.
+</l></lg><PB N="184"/></div2>
 
-<div2 id="Eaton" type="poem" n="">
-<head rend="center">THERE ARE CROCUSES AT NOTTINGHAM</l>
-<l>WRITTEN IN THE TRENCHES </l>
-<l>Flanders, spring of 1917. Authorship unknown.</head>
+<div2 id="Eaton153" type="poem" n="There Are Crocuses At Nottingham">
+<head rend="center">THERE ARE CROCUSES AT NOTTINGHAM</head>
+<byline rend="center"><hi rend="smallcap">Written IN The Trenches</hi><lb/> 
+Flanders, spring of 1917. Authorship unknown.</byline>
 <lg>
 <l n="1">OUT here the dogs of war run loose, </l>
-<l>Their whipper--in is Death</l>
+<l >Their whipper--in is Death</l>
 <l>Across the spoilt and battered fields </l>
-<l>We hear their sobbing breath.</l>
+<l >We hear their sobbing breath.</l>
 <l>The fields where grew the living corn </l>
-<l>Are heavy with our dead;</l>
+<l >Are heavy with our dead;</l>
 <l>Yet still the fields at home are green </l>
-<l>And I have heard it said:</l>
-<l>That--</l>
+<l >And I have heard it said:</l>
+<l rend="indent25">That--</l>
 <l>There are crocuses at Nottingham!</l>
 <l>Wild crocuses at Nottingham!</l>
 <l>Blue crocuses at Nottingham!</l>
@@ -5829,14 +5798,14 @@ to the long, thin lines on either side. Here will we prove our right to life and
 
 <lg>
 <l>There are little girls at Nottingham </l>
-<l>Who do not dread the boche,</l>
+<l >Who do not dread the boche,</l>
 <l>Young girls at school at Nottingham </l>
-<l>(Lord! how I need a wash!)</l>
+<l >(Lord! how I need a wash!)</l>
 <l>There are little boys at Nottingham </l>
-<l>Who never hear a gun;</l>
+<l >Who never hear a gun;</l>
 <l>There are silly fools at Nottingham </l>
-<l>Who think we're here for fun.</l>
-<l>When--</l>
+<l >Who think we're here for fun.</l>
+<l rend="indent25">When--</l>
 <l>There are crocuses at Nottingham!</l>
 <l>Young crocus buds at Nottingham!</l>
 <l>Thousands of buds at Nottingham</l>
@@ -5846,227 +5815,212 @@ to the long, thin lines on either side. Here will we prove our right to life and
 <l>But here we trample down the grass</l>
 <l> Into a purple slime;</l>
 <l>There lives no tree to give the birds</l>
-<l>House room in paring time.</l></lg>
-
-<lg>
+<l>House room in paring time.</l><pb n="185"/>
 <l>We live in holes, like cellar rats, </l>
-<l>But through the noise and smell </l>
+<l >But through the noise and smell </l>
 <l>I often see those crocuses</l>
-<l>Of which the people tell. --</l>
-<l>Why--</l>
+<l >Of which the people tell.</l>
+<l rend="indent25">Why--</l>
 <l>There are crocuses at Nottingham! </l>
 <l>Bright crocuses at Nottingham! </l>
 <l>Real crocuses at Nottingham! </l>
 <l>Because we're here in Hell.
 </l></lg></div2>
 
-<div2 id="Eaton" type="poem" n="">
-<head rend="center">THE WAR ROSARY</l>
-<l>NELLIE HURST </l>
-<l>IN THE WESTMINSTER GAZETTE</head>
+<div2 id="Eaton154" type="poem" n="The War Rosary">
+<head rend="center">THE WAR ROSARY</head>
+<byline rend="center"><docAuthor>NELLIE HURST</docAuthor><lb/>
+<hi rend="smallcap">IN The Westminster Gazette</hi></byline>
 
 <lg>
 <l n="1">I KNIT, I knit, I pray, I pray. </l>
-<l>My knitting is my rosary.</l>
+<l >My knitting is my rosary.</l>
 <l>And as I weave the stitches gray,</l>
-<l>I murmur pray'rs continually.</l>
+<l >I murmur pray'rs continually.</l>
 <l>Gray loop, a sigh, gray knot, a wish,</l>
-<l>Gray row a chain of wistful pray'r,</l>
+<l >Gray row a chain of wistful pray'r,</l>
 <l>For thus to sit and knit and pray--</l>
-<l>This is of war the woman's share.</l></lg>
+<l >This is of war the woman's share.</l></lg>
 
 <lg>
 <l>Arid so I knit, and thus I pray,</l>
-<l>And keep repeating night and day,</l>
+<l >And keep repeating night and day,</l>
 <l>May God lead safely those dear feet</l>
-<l>That soon shall wear the web of gray.</l>
+<l >That soon shall wear the web of gray.</l>
 <l>Now and again a selfish strain?</l>
-<l>But surely woman heart must yearn,</l>
+<l >But surely woman heart must yearn,</l>
 <l>And pray sometimes that she may hear</l>
-<l>The footsteps that return.</l></lg>
+<l >The footsteps that return.</l></lg>
 
 <lg>
 <l>But if, O God, Not that.</l>
-<l>But if it must be sacrifice complete,</l>
+<l >But if it must be sacrifice complete,</l>
 <l>Then I will trust that afterward</l>
-<l>Thou wilt guide home those precious feet.
-</l></lg></div2>
+<l >Thou wilt guide home those precious feet.
+</l></lg><pb n="186"/></div2>
 
-<div2 id="Eaton" type="poem" n="">
-<head rend="center">WHEN PRIVATE MUGRUMS PARLEY VOOS</l>
-<l>PVT. CHARLES DIVINE </l>
-<l>IN THE STARS AND STRIPES, A.E.F., FRANCE</head>
+<div2 id="Eaton155" type="poem" n="When Private Mugrums Parley Voos">
+<head rend="center">WHEN PRIVATE MUGRUMS PARLEY VOOS</head>
+<byline rend="center"><docAuthor>PVT. CHARLES DIVINE</docAuthor><lb/>
+<hi rend="smallcap">IN The Stars And Stripes, A.E.F., France</hi></byline>
 <lg>
 <l n="1">I CAN count my francs an' santeems--</l>
-<l>If I've got a basket near--</l>
+<l >If I've got a basket near--</l>
 <l>An' I speak a wicked "bon jour,"</l>
-<l>But the verbs are awful queer,</l>
+<l >But the verbs are awful queer,</l>
 <l>An' I lose a lot o' pronouns</l>
-<l>When I try to talk to you, </l>
+<l >When I try to talk to you, </l>
 <l>For your eyes are so bewitchin' </l>
-<l>I forget to parlay voo.</l></lg>
+<l >I forget to parlay voo.</l></lg>
 
 <lg>
 <l>In your pretty little garden, </l>
-<l>With the bench beside the wall, </l>
+<l >With the bench beside the wall, </l>
 <l>An' the sunshine on the asters, </l>
-<l>An' the purple phlox so tall, </l>
+<l >An' the purple phlox so tall, </l>
 <l>I should like to whisper secrets </l>
-<l>But my language goes askew--</l>
+<l >But my language goes askew--</l>
 <l>With the second person plural</l>
-<l>For the old familiar "too."</l></lg>
+<l >For the old familiar "too."</l></lg>
 
 <lg>
 <l>In your pretty little garden</l>
-<l>I could always say "juh tame," </l>
+<l >I could always say "juh tame," </l>
 <l>But it ain't so very subtle, </l>
-<l>An' it ain't not quite the same </l>
+<l >An' it ain't not quite the same </l>
 <l>As "You've got some dandy earrings,"</l>
-<l>Or "Your eyes are nice an' brown"--</l>
+<l >Or "Your eyes are nice an' brown"--</l>
 <l>But my adjectives get manly </l>
-<l>Right before a lady noun.</l></lg>
+<l >Right before a lady noun.</l></lg>
 
 <lg>
 <l>Those infinitives perplex me;</l>
-<l>I can say you're "tray jolee,"</l>
+<l >I can say you're "tray jolee,"</l>
 <l>But beyond that simple statement</l>
-<l>All my tenses don't agree.</l>
+<l >All my tenses don't agree.</l>
 <l>I can make the Boche "comprenney"</l>
-<l>When I meet 'em in a trench,</l>
+<l >When I meet 'em in a trench,</l>
 <l>But the softer things escape me</l>
-<l>When I try to yap in French.</l></lg>
+<l >When I try to yap in French.</l></lg><pb n="187"/>
 
 <lg>
 <l>In your pretty little garden </l>
-<l>Darn the idioms that dance </l>
+<l >Darn the idioms that dance </l>
 <l>On your tongue so sweet and rapid,</l>
-<l>Ah, they hold me in a trance!</l>
+<l >Ah, they hold me in a trance!</l>
 <l>Though I stutter an' I stammer, </l>
-<l>In your garden, on the bench, </l>
+<l >In your garden, on the bench, </l>
 <l>Yet my heart is writin' poems</l>
-<l>When I talk to you in French.
+<l >When I talk to you in French.
 </l></lg></div2>
 
-<div2 id="Eaton" type="poem" n="">
-<head rend="center">MULES</l>
-<l>C. FOX SMITH </l>
-<l>IN LONDON PUNCH</l>
-<l>Reproduced by special permission of the Proprietors of "Punch"</head>
+<div2 id="Eaton156" type="poem" n="Mules">
+<head rend="center">MULES</head>
+<byline rend="center"><docAuthor>C. FOX SMITH</docAuthor><lb/>
+<hi rend="smallcap">IN London Punch</hi></byline>
+<bibl rend="center">Reproduced by special permission of the Proprietors of "Punch"</bibl>
 
 <lg>
-<l n="1">I NEVER would 'ave done it if I'd known what it </l>
-<l>would be.</l>
+<l n="1">I NEVER would 'ave done it if I'd known what it would be.</l>
 <l>I thought it meant promotion and some extra pay for me;</l>
-<l>I thought I'd miss a drill or two with packs an' trenchin' </l>
-<l>tools,</l>
-<l>So I said I'd 'andled horses--an' they set me 'andlin' </l>
-<l>mules.</l></lg>
+<l>I thought I'd miss a drill or two with packs an' trenchin' tools,</l>
+<l>So I said I'd 'andled horses--an' they set me 'andlin' mules.</l></lg>
 <lg>
 <l>Now 'orses they are 'orses, but a mule, 'e is a mule</l>
-<l>(Bit o' devil, bit o' monkey, bit o' bloomin' boundin' </l>
-<l>fool!)</l>
+<l>(Bit o' devil, bit o' monkey, bit o' bloomin' boundin' fool!)</l>
 <l>Oh, I'm usin' all the adjectives I didn't learn at school</l>
-<l>On the prancin', glancin', rag--time dancin' army transport</l>
-<l>mule.</l></lg>
+<l>On the prancin', glancin', rag--time dancin' army transport mule.</l></lg>
 <lg>
 <l>If I'd been Father Noah when the cargo walked aboard,</l>
 <l>I'd 'ave let the bears an' tigers in, an' never spoke a word;</l>
-<l>But I'd 'ave shoved a placard out to say the 'ouse was </l>
-<l>full,</l>
-<l>An' shut the ark up suddent when I saw the army mule.</l></lg>
+<l>But I'd 'ave shoved a placard out to say the 'ouse was full,</l>
+<l>An' shut the ark up suddent when I saw the army mule.</l></lg><pb n="188"/>
 <lg>
-<l>They buck you off when ridden they squish your leg when </l>
-<l>led;</l>
-<l>They're mostly sittin' on their tail or standing on their </l>
-<l>'ead;</l>
+<l>They buck you off when ridden they squish your leg when led;</l>
+<l>They're mostly sittin' on their tail or standing on their 'ead;</l>
 <l>They reach their yellow grinders out an' gently chew your ear,</l>
 <l>An' their necks is indiarubber for attackin' in the rear.</l></lg>
 <lg>
-<l>They're as mincin' when they're 'appy as a ladies' ridin' </l>
-<l>school,</l>
-<l>But when the fancy takes 'em they're like nothin' but a </l>
-<l>mule--</l>
-<l>With the off wheels in the gutter an' the near wheels in </l>
-<l>the air,</l>
-<l>An' a leg across the traces, an' the driver Lord knows </l>
-<l>where.</l></lg>
+<l>They're as mincin' when they're 'appy as a ladies' ridin' school,</l>
+<l>But when the fancy takes 'em they're like nothin' but a mule--</l>
+<l>With the off wheels in the gutter an' the near wheels in the air,</l>
+<l>An' a leg across the traces, an' the driver Lord knows where.</l></lg>
 <lg>
 <l>They're 'orrid in the stables, they're worse upon the road; </l>
 <l>They'll bolt with any rider, they'll jib with any load;</l>
-<l>But soon we're bound beyond the seas, an' when we cross </l>
-<l>the foam</l>
+<l>But soon we're bound beyond the seas, an' when we cross the foam</l>
 <l>I don't care where we go to if we leaves the mules at 'ome.</l></lg>
 <lg>
 <l>For 'orses they are 'orses, but a mule 'e is a mule</l>
 <l>(Bit o' devil, bit o' monkey, bit o' bloomin' boundin' fool!)</l>
 <l>Oh, I'm usin' all the adjectives I never learnt at school</l>
-<l>On the rampin', rawboned, cast--steel--jawboned army </l>
-<l>transport mule.</l></lg>
-<lg>
-<l>AN APRIL SONG</l>
-<l>GEORGE C. MICHAEL, LANCE CORPORAL, R. E.</l>
-<l>(Written on leave at Stratford--on--Avon.)</l></lg>
+<l>On the rampin', rawboned, cast-steel-jawboned army transport
+mule.</l></lg><pb n="189"/></div2>
+
+<div2 id="Eaton157" type="poem" n="An April Song">
+<head rend="center">AN APRIL SONG</head>
+<byline rend="center"><docAuthor>GEORGE C. MICHAEL, LANCE CORPORAL, R. E.</docAuthor><lb/>
+(Written on leave at Stratford-on-Avon.)</byline>
 
 <lg>
-<l>ORCHARD land! Orchard land! </l>
-<l>Damson blossom, primrose bloom:</l>
+<l n="1">ORCHARD land! Orchard land! </l>
+<l >Damson blossom, primrose bloom:</l>
 <l>Avon, like a silver band </l>
-<l>Winds from Stratford down to Broome: </l>
-<l>All the orchards simmer white </l>
-<l>For an April day's delight: </l>
-<l>We have risen in our might, </l>
-<l>Left this land we love, to light, </l>
+<l >Winds from Stratford down to Broome: </l>
+<l rend="indent4">All the orchards simmer white </l>
+<l rend="indent4">For an April day's delight: </l>
+<l rend="indent4">We have risen in our might, </l>
+<l rend="indent4">Left this land we love, to light, </l>
 <l>Fighting still, that these may stand,</l>
 <l>Orchard land! Orchard land!</l></lg>
 
 <lg>
 <l>Running stream! Running stream!</l>
-<l>Ruddy tench and silver perch:</l>
+<l >Ruddy tench and silver perch:</l>
 <l>Shakespeare loved the water's gleam </l>
-<l>Sparkling on by Welford church: </l>
-<l>Water lay meets woodland gnome </l>
-<l>Where the silver eddies foam </l>
-<l>Thro' the richly scented loam: </l>
-<l>We are fain to see our home, </l>
+<l >Sparkling on by Welford church: </l>
+<l rend="indent4">Water lay meets woodland gnome </l>
+<l rend="indent4">Where the silver eddies foam </l>
+<l rend="indent4">Thro' the richly scented loam: </l>
+<l rend="indent4">We are fain to see our home, </l>
 <l>See again thy silver gleam,</l>
 <l>Running stream! Running stream!</l></lg>
 
 <lg>
 <l>Silver throats! Silver throats!</l>
-<l>Piping blackbird, trilling thrush:</l>
+<l >Piping blackbird, trilling thrush:</l>
 <l>Shakespeare heard your merry notes;</l>
-<l>Still you herald morning's blush: </l>
-<l>You shall sing your anthems grand </l>
-<l>When we've finished what He planned. </l>
-<l>God will hear and understand. </l>
-<l>God will give us back our land </l>
-<l>Where the water--lily floats,</l>
+<l >Still you herald morning's blush: </l>
+<l rend="indent4">You shall sing your anthems grand </l>
+<l rend="indent4">When we've finished what He planned. </l>
+<l rend="indent4">God will hear and understand. </l>
+<l rend="indent4">God will give us back our land </l>
+<l>Where the water-lily floats,</l>
 <l>Silver throats! Silver throats!
-</l></lg></div2>
+</l></lg><pb n="190"/></div2>
 
-<div2 id="Eaton" type="poem" n="">
-<head rend="center">A SONG OF THE AIR</l>
-<l>GORDON ALCHIN</head>
+<div2 id="Eaton158" type="poem" n="A Song Of The Air">
+<head rend="center">A SONG OF THE AIR</head>
+<byline rend="center"><docAuthor>>GORDON ALCHIN</docAuthor></byline>
+<bibl>From "Oxford and Flanders." B.H, Blackwell, Publishers, Oxford,
+England.  Special permission to reproduce in this book.</bibl>
 <lg>
-<l n="1">From "Oxford and Flanders." B.H, Blackwell, Publishers, Oxford, England.</l>
-<l>Special permission to reproduce in this book.</l></lg>
-<lg>
-<l>THIS is the song of the Plane--</l>
+<l n="1">THIS is the song of the Plane--</l>
 <l>The creaking, shrieking plane, </l>
 <l>The throbbing, sobbing plane, </l>
 <l>And the moaning, groaning wires:--</l>
 <l>The engine--missing again! </l>
 <l>One cylinder never fires!</l>
-<l>Hey ho! for the Plane!</l></lg>
+<l rend="indent3">Hey ho! for the Plane!</l></lg>
 
 <lg>
 <l>This is the song of the Man--</l>
 <l>The driving, striving man, </l>
 <l>The chosen, frozen man:</l>
-<l>The pilot, the man--at--the--wheel, </l>
+<l>The pilot, the man-at-the-wheel, </l>
 <l>Whose limit is all that he can, </l>
 <l>And beyond, if the need is real!</l>
-<l>Hey ho! for the Man!</l></lg>
+<l rend="indent3">Hey ho! for the Man!</l></lg>
 
 <lg>
 <l>This is the song of the Gun--</l>
@@ -6075,7 +6029,7 @@ to the long, thin lines on either side. Here will we prove our right to life and
 <l>That chuckles with evil glee </l>
 <l>At the last, long drive of the Hun, </l>
 <l>With its end in eternity!</l>
-<l>Hey ho! for the Gun!</l></lg>
+<l rend="indent3">Hey ho! for the Gun!</l></lg>
 
 <lg>
 <l>This is the song of the Air</l>
@@ -6084,8 +6038,8 @@ to the long, thin lines on either side. Here will we prove our right to life and
 <l>The wine of its limitless space:--</l>
 <l>May it nerve us at last to dare </l>
 <l>Even on death with undaunted face! </l>
-<l>Hey ho! for the Air!
-</l></lg></div2>
+<l rend="indent3">Hey ho! for the Air!
+</l></lg><pb n="191"/></div2>
 
 <div2 id="Eaton" type="poem" n="">
 <head rend="center">VICTORY!</l>

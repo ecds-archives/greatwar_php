@@ -11,6 +11,7 @@ print "<html>
 <body> 
 "; 
 
+
 include_once("lib/taminoConnection.class.php");
 include_once("lib/mybreadcrumb.php");
 
@@ -19,6 +20,9 @@ print "<p class='breadcrumbs'>" . $breadcrumb->show_breadcrumb() . "</p>";
 
 $id = $_GET['id'];
 
+$self = "front.php";
+$selflink = "$base_url" . "poetry/" . $self . "?id=$id";
+
 $args = array('host' => $tamino_server,
 	      'db' => $tamino_db,
 	      'coll' => $tamino_coll['poetry'],
@@ -26,13 +30,18 @@ $args = array('host' => $tamino_server,
       	      'debug' => false, 
 	     );
 $tamino = new taminoConnection($args);
-// FIXME: this won't work for foreword...
-$query = 'for $a in input()/TEI.2/:text/front/div1
+$query = 'declare namespace xf="http://www.w3.org/2002/08/xquery-functions"
+for $a in input()/TEI.2/:text/front/div1
+let $root := xf:root($a)
+let $bibl := $root/TEI.2/teiHeader/fileDesc/sourceDesc/bibl
 where $a/@id = ' . "'$id'" . '
-return $a';
+return <div>
+<teiHeader><fileDesc><sourceDesc> {$bibl} </sourceDesc></fileDesc></teiHeader>
+{$a}
+</div>';
 
 $xsl_file = "poetry.xsl";
-$xsl_params = array("mode" => "frontmatter");
+$xsl_params = array("mode" => "frontmatter", "selflink" => $selflink);
 
 $tamino->xquery($query, $pos, $maxdisplay); 
 

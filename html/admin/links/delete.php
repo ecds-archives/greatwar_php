@@ -21,8 +21,8 @@ print "<p class='breadcrumbs'>" . $breadcrumb->show_breadcrumb() . "</p>";
 print '<div class="content">
 <h3>Delete an existing link</h3>';
 
-$myargs = array('host' => "vip.library.emory.edu",
-		  'db' => "WW1",
+$myargs = array('host' => $tamino_server,
+		  'db' => $tamino_db,
 		  'coll' => 'links',
 		  'id' => $id);
 $link = new aLinkRecord($myargs);

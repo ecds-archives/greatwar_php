@@ -18,8 +18,8 @@ print "<p class='breadcrumbs'>" . $breadcrumb->show_breadcrumb() . "</p>";
 
 $id = $_GET["id"]; // test only one link
 
-$args = array('host' => "vip.library.emory.edu",
-	      'db' => "WW1",
+$args = array('host' => $tamino_server,
+	      'db' => $tamino_db,
 	      'coll' => 'links',
 	      'sort' => $sort);
 

@@ -1,3 +1,4 @@
+this is a text documents.
 <pb n="91"/>
 <div2 id="moresongs0" type="poem" n="Requiem">
 <byline><docAuthor n="Lyon, P. H. B.">P. H. B. LYON</docAuthor></lb>
@@ -237,219 +238,257 @@
 <div2 id="moresongs0" type="poem" n="Enlisted, or The Recruits">
 <byline><docAuthor n="Masefield, Charles John Beech">CHARLES JOHN BEECH MASEFIELD</docAuthor></lb>
 M.C., Acting Capt., 5th North Staffs Regt.</byline>
-<note>(Killed in Action, July, 1917)</note>
+<note rend="center">(Killed in Action, July, 1917)</note>
 
 <head rend="center">Enlisted, or The Recruits</head>
 
 <lg type="stanza">
-<l n="1">HUMBLY, O England, we offer what is of little worth,
-Just our bodies and souls and everything else we have;
-But thou with thy holy cause wilt hallow our common earth,
-Giving us strength in the battle -- and peace, if need, in the grave.
+<l n="1">HUMBLY, O England, we offer what is of little worth,</l>
+<l>Just our bodies and souls and everything else we have;</l>
+<l>But thou with thy holy cause wilt hallow our common earth,</l>
+<l>Giving us strength in the battle -- and peace, if need, in the grave.</l></lg>
 
-Humble, O England, we are, for of hero-fathers we come,
-Men that contested with tyrants the mightier destinies;
-Philip of Spain we remember, and the ships that never went home,
-And him that was caught at last, and isled in the warder seas.
+<lg>
+<l>Humble, O England, we are, for of hero-fathers we come,</l>
+<l>Men that contested with tyrants the mightier destinies;</l>
+<l>Philip of Spain we remember, and the ships that never went home,</l>
+<l>And him that was caught at last, and isled in the warder seas.</l></lg>
 
 <pb n="100"/>
-Humbly, O England, we bring thee life in its folly-stained youth,
-That which, it may be, has striven, but ever has slackened and tired;
-The faltering, often deceived, to combat now for the Truth,
-Dim-visioned, to smite for the morrow unknown but desired.
-<hi rend="italic">September</hi>, 1914.
+<lg>
+<l>Humbly, O England, we bring thee life in its folly-stained youth,</l>
+<l>That which, it may be, has striven, but ever has slackened and tired;</l>
+<l>The faltering, often deceived, to combat now for the Truth,</l>
+<l>Dim-visioned, to smite for the morrow unknown but desired.</l></lg>
+<dateline><date><hi rend="italic">September</hi>, 1914.</date></dateline>
+</div2>
 
 
-Sailing for Flanders
+<div2 id="moresongs0" type="poem" n="Sailing for Flanders">
+<docAuthor n="Masefield, Charles John Beech"></docAuthor>
+<head rend="center">Sailing for Flanders</head>
 
-TO need any more the skies or man to importune
-For us departing to-day with spirits at peace,
-Now that the inner warfares, that tire men, cease --
-For us the chosen of God's lot, the spoilt darlings of Fortune.
+<lg type="stanza">
+<l n="1">TO need any more the skies or man to importune</l>
+<l rend="indent">For us departing to-day with spirits at peace,</l>
+<l rend="indent">Now that the inner warfares, that tire men, cease --</l>
+<l>For us the chosen of God's lot, the spoilt darlings of Fortune.</l></lg>
 
-Against the beasts in men let loose from their cages
-We go forth with a lightened and proud heart,
-We who are the men summoned to a high part,
-To be known of the envious youth of unborn ages.
+<lg>
+<l>Against the beasts in men let loose from their cages</l>
+<l rend="indent">We go forth with a lightened and proud heart,</l>
+<l rend="indent">We who are the men summoned to a high part,</l>
+<l>To be known of the envious youth of unborn ages.</l></lg>
 
 <pb n="101"/>
-We have feared old Death, but now have we learned our error,
-Seeing him there in the mire us so kindly await --
-A comrade befitting the hour of a world's fate,
-And we look him full in the eyes; we are rid of our last terror.
+<lg>
+<l>We have feared old Death, but now have we learned our error,</l>
+<l rend="indent">Seeing him there in the mire us so kindly await --</l>
+<l rend="indent">A comrade befitting the hour of a world's fate,</l>
+<l>And we look him full in the eyes; we are rid of our last terror.</l></lg>
 
-True that Death is an ill, but the worse ills are many;
-Shame and slow rotting, cold and greasy years,
-Pride in dishonour -- these things hold our fears;
-We can play pitch and toss with our lives as a boy with a penny.
+<lg>
+<l>True that Death is an ill, but the worse ills are many;</l>
+<l rend="indent">Shame and slow rotting, cold and greasy years,</l>
+<l rend="indent">Pride in dishonour -- these things hold our fears;</l>
+<l>We can play pitch and toss with our lives as a boy with a penny.</l></lg>
 
-We have spent ourselves to win us a lady's favour,
-But now the spending is grown to a leaping fire,
-And winning for ourselves seems but a strange desire;
-Her eyes are remote as stars; her kisses have lost their savour.
+<lg>
+<l>We have spent ourselves to win us a lady's favour,</l>
+<l rend="indent">But now the spending is grown to a leaping fire,</l>
+<l rend="indent">And winning for ourselves seems but a strange desire;</l>
+<l>Her eyes are remote as stars; her kisses have lost their savour.</l></lg>
 
-We have put life away and spurn the ways of the living;
-We have broken with the old selves who gathered and got,
-And are free with the freedom of men who have not;
-We partake the heroic fervours of giving and again giving.
+<lg>
+<l>We have put life away and spurn the ways of the living;</l>
+<l rend="indent">We have broken with the old selves who gathered and got,</l>
+<l rend="indent">And are free with the freedom of men who have not;</l>
+<l>We partake the heroic fervours of giving and again giving.</l></lg>
 
 <pb n="102"/>
-Was it only for Death we were borne of our Mothers?
-Only for Death created the dear love of our wives?
-Only for Death and in vain we endeavoured our lives?
-Yea, life was given to be given; March onward, my brothers!
-<hi rend="italic">January</hi>, 1915.
+<lg>
+<l>Was it only for Death we were borne of our Mothers?</l>
+<l rend="indent">Only for Death created the dear love of our wives?</l>
+<l rend="indent">Only for Death and in vain we endeavoured our lives?</l>
+<l>Yea, life was given to be given; March onward, my brothers!</l></lg>
+<dateline><date><hi rend="italic">January</hi>, 1915.</date></dateline>
+</div2>
 
 
-Two Julys
+<div2 id="moresongs0" type="poem" n="Two Julys">
+<docAuthor n="Masefield, Charles John Beech"></docAuthor>
+<head rend="center">Two Julys</head>
 
-I WAS so vague in 1914; tossed
-Upon too many purposes, and worthless;
-Moody; to this world or the other lost,
-Essential nowhere; without calm and mirthless
-And now I have gained one for many ends,
-See my straight road stretch out so white, so slender,
-That happy road, the road of all my friends,
-Made glad with peace, and holy with surrender.
+<lg type="stanza">
+<l n="1">I WAS so vague in 1914; tossed</l>
+<l rend="indent">Upon too many purposes, and worthless;</l>
+<l>Moody; to this world or the other lost,</l>
+<l rend="indent">Essential nowhere; without calm and mirthless</l>
+<l>And now I have gained one for many ends,</l>
+<l rend="indent">See my straight road stretch out so white, so slender,</l>
+<l>That happy road, the road of all my friends,</l>
+<l rend="indent">Made glad with peace, and holy with surrender.</l></lg>
 
-Proud, proud we fling to the winds of Time our token,
-And in our need there wells in us the power,
+<lg>
+<l>Proud, proud we fling to the winds of Time our token,</l>
+<l rend="indent">And in our need there wells in us the power,</l>
 <pb n="103"/>
-Given England's swords to keep her honour clean.
-Which they shall be which pierce, and which be broken,
-We know not, but we know that every hour
-We must shine brighter, take an edge more keen.
-<hi rend="italic">July</hi>, 1915.
+<l>Given England's swords to keep her honour clean.</l>
+<l>Which they shall be which pierce, and which be broken,</l>
+<l rend="indent">We know not, but we know that every hour</l>
+<l>We must shine brighter, take an edge more keen.</l>
+<dateline><date><hi rend="italic">July</hi>, 1915.</date></dateline>
+</div2>
 
 
-In Honorem Fortium
+<div2 id="moresongs0" type="poem" n="In Honorem Fortium">
+<docAuthor n="Masefield, Charles John Beech"></docAuthor>
+<head rend="center">In Honorem Fortium</head>
 
-I SOMETIMES think that I have lived too long,
-Who have heard so many a gay brave singer's song
-Fail him for ever -- seen so many sails
-Lean out resplendent to the evil gales,
-Then Death, the wrecker, get his harvest in.
-Oh, ill it is, when men lose all, to win;
-Grief though it be to die, 'tis grief yet more
-To live and count the dear dead comrades o'er.
+<lg type="stanza">
+<l n="1">I SOMETIMES think that I have lived too long,</l>
+<l>Who have heard so many a gay brave singer's song</l>
+<l>Fail him for ever -- seen so many sails</l>
+<l>Lean out resplendent to the evil gales,</l>
+<l>Then Death, the wrecker, get his harvest in.</l>
+<l>Oh, ill it is, when men lose all, to win;</l>
+<l>Grief though it be to die, 'tis grief yet more</l>
+<l>To live and count the dear dead comrades o'er.</l></lg>
 
 <milestone unit="stanza" rend="dots">.  .  .  .  .  .</milestone>
 
-Peace. After all you died not. We've no fear
-But that, long ages hence, you will be near --
-A thought by night --on the warm wind a breath,
-Making for courage, putting old Death,
+<lg>
+<l>Peace. After all you died not. We've no fear</l>
+<l>But that, long ages hence, you will be near --</l>
+<l>A thought by night --on the warm wind a breath,</l>
+<l>Making for courage, putting old Death,</l>
 <pb n="104"/>
-Living wherever men are not afraid
-Of aught but making bravery a parade.
-Yes, parleying with fear, they'll pause and say,
-"At Gommecourt boys suffered worse that day";
-Or, hesitating on some anxious brink,
-They will become heroic when they think,
-"Did they not rise mortality above
-Who staked a lifetime all made sweet with love?"
-<hi rend="italic">May</hi>, 1917.
+<l>Living wherever men are not afraid</l>
+<l>Of aught but making bravery a parade.</l>
+<l>Yes, parleying with fear, they'll pause and say,</l>
+<l>"At Gommecourt boys suffered worse that day";</l>
+<l>Or, hesitating on some anxious brink,</l>
+<l>They will become heroic when they think,</l>
+<l>"Did they not rise mortality above</l>
+<l>Who staked a lifetime all made sweet with love?"</l></lg>
+<dateline><date><hi rend="italic">May</hi>, 1917.</date></dateline>
+</div2>
 
 
 <pb n="105"/>
-JOHN MASON
-Captain, Royal Scots
+<div2 id="moresongs0" type="poem" n="My Country">
+<byline><docAuthor n="Mason, John">JOHN MASON</docAuthor></lb>
+Captain, Royal Scots</byline>
 
-My Country
+<head rend="center">My Country</head>
 
-THERE is no dearer land in all the world
-Than thee, my country, girded by the sea,
-Where rocks re-echo to the bounding waters hurl'd,
-And all is endless sight and mystery to me.
-The silent distances of hills, replete
-With tideless joy, eternal hope
-Upspringing with the eagle's pennon-beat,
-Free to the airs, with ne'er a tether-rope
-To check its flight.
+<lg type="stanza">
+<l n="1">THERE is no dearer land in all the world</l>
+<l>Than thee, my country, girded by the sea,</l>
+<l>Where rocks re-echo to the bounding waters hurl'd,</l>
+<l>And all is endless sight and mystery to me.</l>
+<l>The silent distances of hills, replete</l>
+<l>With tideless joy, eternal hope</l>
+<l>Upspringing with the eagle's pennon-beat,</l>
+<l>Free to the airs, with ne'er a tether-rope</l>
+<l>To check its flight.</l></lg>
 
-The sky above may weep, and seldom smile,
-And mirky be the frown upon thy brow.
-Yet O! thy mountain woods and endless mile
-Of sea, sing joy unbound, and life, that now
-Expansive breathes the freshness of the free.
-Thy piney airs and salt-sea breezes blown,
-With peaty scent and loamy breath of lea
-Seek out the soul that nowhere else hath known
-The like to thee.
+<lg>
+<l>The sky above may weep, and seldom smile,</l>
+<l>And mirky be the frown upon thy brow.</l>
+<l>Yet O! thy mountain woods and endless mile</l>
+<l>Of sea, sing joy unbound, and life, that now</l>
+<l>Expansive breathes the freshness of the free.</l>
+<l>Thy piney airs and salt-sea breezes blown,</l>
+<l>With peaty scent and loamy breath of lea</l>
+<l>Seek out the soul that nowhere else hath known</l>
+<l>The like to thee.</l></lg>
 
 <pb n="106"/>
-There is no dearer land in all the world
-Than thee, my country, girded by the sea.
-'Twere joy to those who bear the flag unfurl'd
-In ruthless strife to keep thine acres free,
-To dip the hand in blood, the face to scar
-With sword of death, that thou unconquered may
-For Freedom stand, the vanquisher of war,
-Chaste guardian of the unprotected way
-To peace and right.
+<lg>
+<l>There is no dearer land in all the world</l>
+<l>Than thee, my country, girded by the sea.</l>
+<l>'Twere joy to those who bear the flag unfurl'd</l>
+<l>In ruthless strife to keep thine acres free,</l>
+<l>To dip the hand in blood, the face to scar</l>
+<l>With sword of death, that thou unconquered may</l>
+<l>For Freedom stand, the vanquisher of war,</l>
+<l>Chaste guardian of the unprotected way</l>
+<l>To peace and right.</l></lg>
+</div2>
 
 
 <pb n="107"/>
-HARLEY MATTHEWS
-Private, A.I.F.
+<div2 id="moresongs0" type="poem" n="Homeward">
+<byline><docAuthor n="Matthews, Harley">HARLEY MATTHEWS</docAuthor></lb>
+Private, A.I.F.</byline>
 
-Homeward
+<head rend="center">Homeward</head>
 
-To the old friends and faces,
-To the old life again,
-To often dreamed-of places,
-Pleasant in sun or rain:
-For home my face is set;
-Home! Madly goes my heart
-With calling up each minute
-Those visions none forget,
-All that the word has in it --
-For each man things apart.
+<lg type="stanza">
+<l n="1">To the old friends and faces,</l>
+<l rend="indent">To the old life again,</l>
+<l>To often dreamed-of places,</l>
+<l rend="indent">Pleasant in sun or rain:</l>
+<l>For home my face is set;</l>
+<l rend="indent">Home! Madly goes my heart</l>
+<l>With calling up each minute</l>
+<l rend="indent">Those visions none forget,</l>
+<l>All that the word has in it --</l>
+<l rend="indent">For each man things apart.</l></lg>
 
-We watched our land go from us,
-The sea stretched far, unknown;
-To all it glowed with promise. ...
-I watch the sea alone.
-Some lie within its sound,
-Scarce past its edge of foam,
-Yet hear it surging never.
-And some their grave have found
-Far from the sea for ever,
-The sea that takes us home.
+<lg>
+<l>We watched our land go from us,</l>
+<l rend="indent">The sea stretched far, unknown;</l>
+<l>To all it glowed with promise. ...</l>
+<l rend="indent">I watch the sea alone.</l>
+<l>Some lie within its sound,</l>
+<l rend="indent">Scarce past its edge of foam,</l>
+<l>Yet hear it surging never.</l>
+<l rend="indent">And some their grave have found</l>
+<l>Far from the sea for ever,</l>
+<l rend="indent">The sea that takes us home.</l></lg>
 
 <pb n="108"/>
-I hear you, waves that glisten,
-I see your path for me.
-Maybe the dead can listen,
-See more than I can see:
-Not for the gulls, their sound
-Heard muffled through the loam,
-Nor noise of sea or heavens.
-Not see the trees around,
-No! not the grass-roots even,
-But sounds and sights of home.
+<lg>
+<l>I hear you, waves that glisten,</l>
+<l rend="indent">I see your path for me.</l>
+<l>Maybe the dead can listen,</l>
+<l rend="indent">See more than I can see:</l>
+<l>Not for the gulls, their sound</l>
+<l rend="indent">Heard muffled through the loam,</l>
+<l>Nor noise of sea or heavens.</l>
+<l rend="indent">Not see the trees around,</l>
+<l>No! not the grass-roots even,</l>
+<l rend="indent">But sounds and sights of home.</l></lg>
+</div2>
 
 
 <pb n="109"/>
-MURRAY McCLYMONT
-<hi rend="smallcaps">2nd Lieut., 2/10th (Scottish) K.L.R.</hi>
+<div2 id="moresongs0" type="poem" n="God's Acre">
+<byline><docAuthor n="McClymont, Murray">MURRAY McCLYMONT</docAuthor></lb>
+<hi rend="smallcaps">2nd Lieut., 2/10th (Scottish) K.L.R.</hi></byline>
 
-God's Acre
+<head rend="center">God's Acre</head>
 
-Dedicated to my "skipper," Captain Alan Cookson (killed in action 27th June, 1917), who now sleeps eternally in the shadow of the little grey church at ...
+<note rend="center">Dedicated to my "skipper," Captain Alan Cookson (killed in action 27th June, 1917), who now sleeps eternally in the shadow of the little grey church at ...</note>
 
-WHEN sands of Time have run their course
-And mortal heart is stilled,
-We render back unto its Source
-The dust that He fulfilled;
+<lg type="stanza">
+<l n="1">WHEN sands of Time have run their course</l>
+<l rend="indent">And mortal heart is stilled,</l>
+<l>We render back unto its Source</l>
+<l rend="indent">The dust that He fulfilled;</l></lg>
 
-And in some still, subdu&eacute;d spot
-Where all is peace, and they
-Who walk the silent paths are taught
-To meditate and pray,
+<lg>
+<l>And in some still, subdu&eacute;d spot</l>
+<l rend="indent">Where all is peace, and they</l>
+<l>Who walk the silent paths are taught</l>
+<l rend="indent">To meditate and pray,</l></lg>
 
-We to that dust its rest afford
-And dry our idle tears
-For Death is peace, and Peace adored
-Reigns here throughout the years.
-<hi rend="smallcaps">B.E.F., France</hi>, <hi rend="italic">Sept.</hi>, 1917.
+<lg>
+<l>We to that dust its rest afford</l>
+<l rend="indent">And dry our idle tears</l>
+<l>For Death is peace, and Peace adored</l>
+<l rend="indent">Reigns here throughout the years.</l></lg>
+<dateline><name type="place"><hi rend="smallcaps">B.E.F., France</hi>, </name><date><hi rend="italic">Sept.</hi>, 1917.</date></dateline>
+</div2>

@@ -1,16 +1,121 @@
 <text>
-<body>
+
 ***Notes: 
+***Paragraphs in the introduction, and each entry in the occasional
+notes at the end, are indented two spaces each.
 ***Bylines in this text are aligned right (but not full right... maybe
-indented 2) and italic, immediately after the last line of text.  
+indented 2) and italic, immediately after the last line of text
+(except the byline in the Introduction, which is not italic).  
 ***Some datelines have two values: "date" and "name type="place"".
 ***Dates are aligned left and italic.
 ***<dateline><name type="place">Paris,
 </name><date>1917</date></dateline> is:  Paris, 1917 (align left,
 italic), unless otherwise noted (e.g. p. 92, p.230)
 ***The "indent" value is two spaces, unless otherwise noted.
-***Notes (<note></note>) under the titles are much smaller font size than the
-text, but are italic only where noted.
+***Notes (<note></note>) are italic only where noted.
+
+<front>
+
+<pb n="v"/>
+<div1 id="clarke173" type="dedication">
+<p rend="center">To All Those Who
+<lb/>Fight for Freedom</p>
+</div1>
+<pb n="vi"/>
+
+<pb n="vii"/>
+<div1 id="clarke174" type="epigraph">
+
+<epigraph>
+
+<q>
+<l>"Hark! now the Drums beat up again,</l>
+<l>For all true Soldiers Gentlemen!"</l></q>
+<bibl rend="right">-- <hi rend="italic">Corporal John Brown, Grenadier Guards, 1854</hi>. </bibl>
+
+<q>
+<l>"Life is no life to him that dares not die,</l>
+<l>And death no death to him that dares not live."</l></q>
+<bibl rend="right">-- <hi rend="italic">Sir Henry Newbolt</hi>.</bibl>
+
+<q>
+<l>"We saw not clearly nor understood,</l>
+<l>But, yielding ourselves to the master-hand,</l>
+<l>Each in his part as best he could,</l>
+<l>We played it through as the author planned."</l></q>
+<bibl rend="right">-- <hi rend="italic">Alan Seeger</hi>.</bibl>
+
+</epigraph>
+</div1>
+
+<pb n="xxv"/>
+<div1 id="clarke175" type="Chapter" n="Introduction">
+<head rend="center">Introduction</head>
+
+<p>B<hi rend="smallcaps">ecause</hi> man is both militant and pacific, he has expressed in literature, as indeed in the other forms of art, his pacific and militant moods. Nor are these moods, of necessity, incompatible. War may become the price of peace, and peace may so decay as inevitably to bring about war. Of the dully unresponsive pacifist and the jingo patriot, quick to anger, the latter no doubt is the more dangerous to the cause of true freedom, yet both are "undesirable citizens." He who believes that peace is illusory and spurious, unless it be based upon justice and liberty, will be proud to battle, if battle he must, for the sake of those foundations.</p>
+
+<p>For the most part, the poetry of war, undertaken in this spirit, has touched and exalted such special qualities as patriotism, courage, self-sacrifice, enterprise, and endurance. Where it has tended to glorify war in itself, it is chiefly because war has released those qualities, so to speak, in stirring and spectacular ways; and where it has chosen to round upon war and to upbraid it, it is because war has slain ardent and lovable youths and has brought misery and despair to women and old people. But the war poet has left the mere arguments to others. For himself, he has seen and felt. Envisaging war from various angles, now romantically, now realistically, now as the celebrating chronicler, now as the contemplative interpreter, but always in a spirit of catholic curiosity, he has sung the 
+<pb n="xxvi"/>
+fall of Troy, the Roman adventures, the medi&aelig;val battles and crusades, the fields of Agincourt and Waterloo, and the more modern revolutions. Since Homer, he has spoken with martial eloquence through the voices of Drayton, Spenser, Marlowe, Webster, Shakespeare, Milton, Byron, Scott, Burns, Campbell, Tennyson, Browning, the New England group, and Walt Whitman, -- to mention only a few of the British and American names, -- and he speaks sincerely and powerfully to-day in the writings of Kipling, Hardy, Masefield, Binyon, Newbolt, Watson, Rupert Brooke, and the two young soldiers -- the one English, the other American -- who have lately lost their lives while on active service: Captain Charles Hamilton Sorley, who was killed at Hulluch, October 18, 1915; and Alan Seeger, who fell, mortally wounded, during the charge on Belloy-en-Santerre, July 4, 1916.</p>
+
+<p>There can be little doubt that these several minds and spirits, stirred by the passion and energy of war, and reacting sensitively both to its cruelties and to its pities, have experienced the kinship of quickened insight and finer unselfishness in the face of wide-ranging death. They have silently compared, perhaps, the normal materialistic conventions in business, politics, education, and religion, with the relief from those conventions that nearly all soldiers and many civilians experience in time of war; for although war has its too gross and ugly side, it has not dared to learn that inflexibility of custom and conduct that deadens the spirit into a tame submission. This strange rebound and exaltation would seem to be due less to the physical reality of war -- which must in many ways cramp and constrain the individual -- than to the relative spirit
+<pb n="xxvii"/>
+ual freedom engendered by the needs of war, if they are to be successfully met. The man of war has an altogether unusual opportunity to realize himself, to cleanse and heal himself through the mastering of his physical fears; through the facing of his moral doubts; through the re&euml;xamination of whatever thoughts he may have possessed, theretofore, about life and death and the universe; and through the quietly unselfish devotion he owes to the welfare of his fellows and to the cause of his native land.</p>
+
+<p>Into the stuff of his thought and utterance, whether he be on active service or not, the poet-interpreter of war weaves these intentions, and co&ouml;perates with his fellows in building up a little higher and better, from time to time, that edifice of truth for whose completion can be spared no human experience, no human hope.</p>
+
+<p>As already suggested, English and American literatures have both received genuine accessions, even thus early, arising out of the present great conflict, and we may be sure that other equally notable contributions will be made. The present Anthology contains a number of representative poems produced by English-speaking men and women. The editorial policy has been humanly hospitable, rather than academically critical, especially in the case of some of the verses written by soldiers at the Front, which, however slight in certain instances their technical merit may be, are yet psychologically interesting as sincere transcripts of personal experience, and will, it is thought, for that very reason, peculiarly attract and interest the reader. It goes without saying that there are several poems in this group which conspicuously suc
+<pb n="xxviii"/>
+ceed also as works of art. For the rest, the attempt has been made, within such limitations as have been experienced, to present pretty freely the best of what has been found available in contemporary British and American war verse. It must speak for itself, and the reader will find that in not a few instances it does so with sensitive sympathy and with living power; sometimes, too, with that quietly intimate companionableness which we find in Gray's <hi rend="italic">Elegy</hi>, and which John Masefield, while lecturing in America in 1916, so often indicated as a prime quality in English poetry. But if this quality appears in Chaucer and the pre-Romantics and Wordsworth, it appears also in Longfellow and Lowell, in Emerson and Lanier, and in William Vaughn Moody; for American poetry is, after all, as English poetry, -- "with a difference," -- sprung from the same sources, and coursing along similar channels.</p>
+
+<p>The new fellowship of the two great Anglo-Saxon nations which a book of this character may, to a degree, illustrate, is filled with such high promise for both of them, and for all civilization, that it is perhaps hardly too much to say, with Ambassador Walter H. Page, in his address at the Pilgrims' Dinner in London, April 12, 1917: "We shall get out of this association an indissoluble companionship, and we shall henceforth have indissoluble mutual duties for mankind. I doubt if there could be another international event comparable in large value and in long consequences to this closer association." Mr. Balfour struck the same note, when, during his mission to the United States, he expressed himself in these words: "That this great people should throw themselves whole-heartedly into this mighty struggle, prepared for all efforts and sac
+<pb n="xxix"/>
+rifices that may be required to win success for this most righteous cause, is an event at once so happy and so momentous that only the historian of the future will be able, as I believe, to measure its true proportions."</p>
+
+<p>The words of these eminent men ratify in the field of international politics the hopeful anticipation which Tennyson expressed in his poem, <hi rend="italic">Hands all Round</hi>, which first appeared in the London <hi rend="italic">Examiner</hi>, February 7, 1852: --</p>
+
+<div2 id="clarke176" type="poem" n="Hands all Round">
+
+<lg type="stanza">
+<l n="1">"Gigantic daughter of the West,</l>
+<l rend="indent">We drink to thee across the flood,</l>
+<l>We know thee most, we love thee best,</l>
+<l rend="indent">For art thou not of British blood?</l>
+<l>Should war's mad blast again be blown,</l>
+<l rend="indent">Permit not thou the tyrant powers</l>
+<l>To fight thy mother here alone,</l>
+<l rend="indent">But let thy broadsides roar with ours.</l>
+<l rend="indent10">Hands all round!</l>
+<l rend="indent">God the tyrant's cause confound!</l>
+<l>To our great kinsmen of the West, my friends,</l>
+<l rend="indent">And the great name of England, round and round.</l></lg>
+
+<lg>
+<l>"O rise, our strong Atlantic sons,</l>
+<l rend="indent">When war against our freedom springs!</l>
+<l>O speak to Europe through your guns!</l>
+<l rend="indent">They <hi rend="italic">can</hi> be understood by kings.</l>
+<l>You must not mix our Queen with those</l>
+<l rend="indent">That wish to keep their people fools;</l>
+<l>Our freedom's foemen are her foes,</l>
+<l rend="indent">She comprehends the race she rules.</l>
+<l rend="indent10">Hands all round!</l>
+<l rend="indent">God the tyrant's cause confound!</l>
+<l>To our dear kinsmen of the West, my friends,</l>
+<l rend="indent">And the great cause of Freedom, round and round."</l></lg>
+</div2>
+
+<p>They ratify also the spirit of those poems in the present volume which seek to interpret to Britons and Americans their deepening friendship. "Poets," said Shelley, "are the unacknowledged legislators of the world," and he meant by legislation the guidance and determination of the verdicts of the human soul.</p>
+
+<byline>G. H. C.</byline>
+<dateline><date>August, 1917</date></dateline>
+</div1>
+</front>
+
+
+
+<body>
+
 <pb n="1"/>
 <div1 id="clarke001" type="Chapter" n="America">
 <head rend="center">AMERICA</head>
@@ -7707,15 +7812,15 @@ as</l>
 <l rend="indent4">Before your grave with an uncovered head</l>
 <l>I, that am man, disquiet and silent stand</l>
 <l>In reverence. It is your blood they shed;</l>
-<l rend="indent">It is your sacred self that they demand,</l>
-<l rend="indent">For one you bore in joy and hope, and planned</l>
+<l rend="indent4">It is your sacred self that they demand,</l>
+<l rend="indent4">For one you bore in joy and hope, and planned</l>
 <l>Would make yourself eternal, now has fled.</l></lg>
 
 <lg>
 <l>But though you yielded him unto the knife</l>
-<l rend="indent">And altar with a royal sacrifice</l>
+<l rend="indent4">And altar with a royal sacrifice</l>
 <l>Of your most precious self and dearer life --</l>
-<l rend="indent">Your master gem and pearl above all price --</l>
+<l rend="indent4">Your master gem and pearl above all price --</l>
 <l>Content you; for the dawn this night restores</l>
 <l>Shall be the dayspring of his soul and yours.</l></lg>
 
@@ -7727,32 +7832,32 @@ as</l>
 
 <lg type="stanza">
 <l n="1">I <hi rend="smallcaps">feel</hi> the spring far off, far off,</l>
-<l rend="indent">The faint, far scent of bud and leaf --</l>
+<l rend="indent4">The faint, far scent of bud and leaf --</l>
 <l>Oh, how can spring take heart to come</l>
-<l rend="indent">To a world in grief,</l>
-<l rend="indent">Deep grief?</l></lg>
+<l rend="indent4">To a world in grief,</l>
+<l rend="indent4">Deep grief?</l></lg>
 
 <lg>
 <pb n="251"/>
 <l>The sun turns north, the days grow long,</l>
-<l rend="indent">Later the evening star grows bright --</l>
+<l rend="indent4">Later the evening star grows bright --</l>
 <l>How can the daylight linger on</l>
-<l rend="indent">For men to fight,</l>
-<l rend="indent">Still fight?</l></lg>
+<l rend="indent4">For men to fight,</l>
+<l rend="indent4">Still fight?</l></lg>
 
 <lg>
 <l>The grass is waking in the ground,</l>
-<l rend="indent">Soon it will rise and blow in waves --</l>
+<l rend="indent4">Soon it will rise and blow in waves --</l>
 <l>How can it have the heart to sway</l>
-<l rend="indent">Over the graves,</l>
-<l rend="indent">New graves?</l></lg>
+<l rend="indent4">Over the graves,</l>
+<l rend="indent4">New graves?</l></lg>
 
 <lg>
 <l>Under the boughs where lovers walked</l>
-<l rend="indent">The apple-blooms will shed their breath --</l>
+<l rend="indent4">The apple-blooms will shed their breath --</l>
 <l>But what of all the lovers now</l>
-<l rend="indent">Parted by Death,</l>
-<l rend="indent">Grey Death?</l></lg>
+<l rend="indent4">Parted by Death,</l>
+<l rend="indent4">Grey Death?</l></lg>
 
 <byline>Sara Teasdale</byline>
 </div2>
@@ -7760,4 +7865,207 @@ as</l>
 </div1>
 
 </body>
+
+
+
+<back>
+
+<pb n="253"/>
+<div1 id="Clarke172" type="notes" n="Occasional Notes">
+<head rend="center">OCCASIONAL NOTES</head>
+<pb n="254"/>
+
+<pb n="255"/>
+<head rend="center">OCCASIONAL NOTES</head>
+
+<p>
+A<hi rend="smallcaps">squith</hi>, H<hi rend="smallcaps">erbert</hi>. He received a commission in the Royal Marine Artillery at the end of 1914 and served as a Second Lieutenant with an Anti-Aircraft Battery in April, 1915, returning wounded during the following June. He became a full Lieutenant in July, but was invalided home after about six weeks. In June, 1916, he joined the Royal Field Artillery and went out to France once again with a battery of field guns at the beginning of March, 1917. Since that time he has been steadily on active service.</p>
+
+<p>
+B<hi rend="smallcaps">ewsher</hi>, P<hi rend="smallcaps">aul</hi>. He was educated at St. Paul's School, and is a Sub-Lieutenant in the Royal Naval Air Service.</p>
+
+<p>
+B<hi rend="smallcaps">inyon</hi>, L<hi rend="smallcaps">aurence</hi>. His war writings include <hi rend="italic">The Winnowing Fan</hi> and <hi rend="italic">The Anvil</hi>, published in America under the title of <hi rend="italic">The Cause</hi>.</p>
+
+<p>
+B<hi rend="smallcaps">ridges</hi>, R<hi rend="smallcaps">obert</hi>. He has been Poet-Laureate of England since 1913.</p>
+
+<p>
+B<hi rend="smallcaps">rooke</hi>, R<hi rend="smallcaps">upert</hi>. He was born at Rugby on August 3, 1887, and became a Fellow of King's College, Cambridge, in 1913. He was made a Sub-Lieutenant in the Royal Naval Volunteer Reserve in September, 1914; accompanied the Antwerp expedition in October of the same year; and sailed with the British Mediterranean Expeditionary Force on February 28, 1915. He died in the &Aelig;gean, on April 23, and lied buries in the island of Skyros. See memorial poems in this volume, <hi rend="italic">The Island of Skyros</hi>, by John Masefield; and <hi rend="italic">Rupert Brooke</hi>, by Moray Dalton. His war poetry appears in the volume entitled <hi rend="italic">1914 and Other Poems</hi>, and in his <hi rend="italic">Collected Poems</hi>.</p>
+
+<p>
+C<hi rend="smallcaps">ampbell</hi>, W<hi rend="smallcaps">ilfred</hi>. This well-known Canadian poet has lately published <hi rend="italic">Sagas of a Vaster Britain</hi>, <hi rend="italic">War Lyrics</hi>, and <hi rend="italic">Canada's Responsibility to the Empire</hi>. His son, Captain Basil Campbell, joined the Second Pioneers.</p>
+
+<p>
+C<hi rend="smallcaps">hesterton</hi>, C<hi rend="smallcaps">ecil</hi> E<hi rend="smallcaps">dward</hi>. He has been the editor of <hi rend="italic">New Witness</hi> since 1912, and is a private in the Highland Light Infantry. His war writings include <hi rend="italic">The Prussian hath said in his Heart</hi>, and <hi rend="italic">The Perils of Peace</hi>.</p>
+
+<pb n="256"/>
+<p>
+C<hi rend="smallcaps">hesterton</hi>, G<hi rend="smallcaps">ilbert</hi> K<hi rend="smallcaps">eith</hi>. This brilliant and versatile author has written many essays on phases of the war, including weekly contributions to <hi rend="italic">The Illustrated London News</hi>.</p>
+
+<p>
+C<hi rend="smallcaps">one</hi>, H<hi rend="smallcaps">elen</hi> G<hi rend="smallcaps">ray</hi>. She has been Professor of English in Hunter College since 1899. Her war poetry appears in the volume entitled <hi rend="italic">A Chant for England, and other Poems</hi>.</p>
+
+<p>
+C<hi rend="smallcaps">oulson</hi>, L<hi rend="smallcaps">eslie</hi>. He joined the British Army in September, 1914, declined a commission and served in Egypt, Malta, Gallipoli (where he was wounded), and France. He became Sergeant in the City of London Regiment (Royal Fusiliers) and was mortally wounded while leading a charge against the Germans in October, 1916.</p>
+
+<p>
+D<hi rend="smallcaps">ixon</hi>, W<hi rend="smallcaps">illiam</hi> M<hi rend="smallcaps">acneile</hi>. He is Professor of English Language and Literature in the University of Glasgow. His war writings include <hi rend="italic">The British Navy at War</hi> and <hi rend="italic">The Fleets behind the Fleet</hi>.</p>
+
+<p>
+D<hi rend="smallcaps">oyle</hi>, S<hi rend="smallcaps">ir</hi> A<hi rend="smallcaps">rthur</hi> C<hi rend="smallcaps">onan</hi>. He has written much of interest on the war, especially as regards the western campaigns.</p>
+
+<p>
+F<hi rend="smallcaps">ield</hi>, A. N. He is a private in the Second New Zealand Brigade.</p>
+
+<p>
+F<hi rend="smallcaps">rankau</hi>, G<hi rend="smallcaps">ilbert</hi>. Upon the declaration of war he joined the Ninth East Surrey Regiment (Infantry), with the rank of Lieutenant. He was transferred to the Royal Field Artillery in March, 1915, and was appointed Adjutant during the following July. He proceeded to France in that capacity, fought in the battle of Loos, served at Ypres during the winter of 1915-16, and thereafter took part in the battle of the Somme. In October, 1916, he was recalled to England, was promoted to the rank of Staff Captain in the Intelligence Corps, and was sent to Italy to engage in special duties.</p>
+
+<p>
+G<hi rend="smallcaps">alsworthy</hi>, J<hi rend="smallcaps">ohn</hi>. Mr. Galsworthy, the well-known novelist, poet, and dramatist, served for several months as an expert <hi rend="italic">masseur</hi> in an English hospital for French soldiers at Martouret.</p>
+
+<p>
+G<hi rend="smallcaps">ibson, Wilfrid</hi> W<hi rend="smallcaps">ilson</hi>. His war writings include <hi rend="italic">Battle</hi>, etc.</p>
+
+<p>
+G<hi rend="smallcaps">renfell</hi>, T<hi rend="smallcaps">he</hi> H<hi
+rend="smallcaps">on</hi>. J<hi rend="smallcaps">ulian</hi>, D.S.O. He
+was a Captain in the First Royal Dragoons; was wounded near Ypres on 
+<pb n="257"/>March 13, 1915; and died at Boulogne on May 26. He was the eldest son of Lord Desborough. "Julian set an example of light-hearted courage," wrote Lieutenant-Colonel Machlachan, of the Eighth Service Battalion Rifle Brigade, "which is famous all through the Army in France, and has stood out even above the most lion-hearted."</p>
+
+<p>
+H<hi rend="smallcaps">all</hi>, J<hi rend="smallcaps">ames</hi> N<hi rend="smallcaps">orman</hi>. He is a member of the French Aviation Corps, and author of <hi rend="italic">Kitchener's Mob</hi> and <hi rend="italic">High Adventure</hi>.</p>
+
+<p>
+H<hi rend="smallcaps">ardy,</hi> T<hi rend="smallcaps">homas</hi>. He received the Order of Merit in 1910.</p>
+
+<p>
+H<hi rend="smallcaps">emphrey,</hi> M<hi rend="smallcaps">alcolm</hi>. He is a Lance-Corporal in the Army Ordinance Corps, Nairobi, British East Africa.</p>
+
+<p>
+H<hi rend="smallcaps">ewlett</hi>, M<hi rend="smallcaps">aurice</hi> H<hi rend="smallcaps">enry</hi>. He has published a group of his war poems under the title <hi rend="italic">Sing-Songs of the War</hi>.</p>
+
+<p>
+H<hi rend="smallcaps">odgson</hi>, W. N. He was the son of the Bishop of Ipswich and Edmundsbury, and was a Lieutenant in the Devon Regiment. His pen-name is "Edward Melbourne." He won the Military Cross. He was killed in the battle of the Somme, in July, 1916.</p>
+
+<p>
+H<hi rend="smallcaps">oward</hi>, G<hi rend="smallcaps">eoffrey</hi>. He is a Lieutenant in the Royal Fusiliers.</p>
+
+<p>
+H<hi rend="smallcaps">ussey</hi>, D<hi rend="smallcaps">yneley</hi>. He is a Lieutenant in the Thirteenth Battalion of the Lancashire, Fusiliers, and has published his war poems in a volume entitled <hi rend="italic">Fleur de Lys</hi>.</p>
+
+<p>
+H<hi rend="smallcaps">utchinson</hi>, H<hi rend="smallcaps">enry</hi> W<hi rend="smallcaps">illiam</hi>. He was the son of Sir Sidney Hutchinson, and was educated at St. Paul's School. He was a Second Lieutenant in the Middlesex Regiment. He was killed while on active service in France, March 13, 1917, at the age of nineteen.</p>
+
+<p>
+K<hi rend="smallcaps">aufman</hi>, H<hi rend="smallcaps">erbert</hi>. He has published <hi rend="italic">The Song of the Guns</hi>, which was later republished as <hi rend="italic">The Hell-Gate of Soissons</hi>.</p>
+
+<p>
+K<hi rend="smallcaps">ipling</hi>, R<hi rend="smallcaps">udyard</hi>. Mr. Kipling won the Nobel Prize for Literature in 1907. His war writings include <hi rend="italic">The New Armies in Training</hi>, <hi rend="italic">France at War</hi>, and <hi rend="italic">Sea Warfare</hi>.</p>
+
+<p>
+K<hi rend="smallcaps">night</hi>-A<hi rend="smallcaps">dkin</hi>, J<hi
+rend="smallcaps">ames</hi>. When war was declared he was a Master at
+the Imperial Service College, Windsor, and Lieutenant in the Officers'
+Training Corps. He volunteered on the first day of the war and was
+attached to the Fourth Battalion, Gloucester Regiment. He went into
+the trenches in March, <pb n="258"/>1915, was wounded in June, and was invalided home. In 1916 he returned to France, and is now a Captain in charge of a prisoner-of-war camp.</p>
+
+<p>
+L<hi rend="smallcaps">ee</hi>, J<hi rend="smallcaps">oseph</hi>. He enlisted, at the outbreak of the war, as a private in the 1st/4th Battalion of the Black Watch, Royal Highlanders, in which corps he has served on all parts of the British front in France and Flanders. Sergeant Lee has both composed and illustrated a volume of war-poems entitled <hi rend="italic">Ballads of Battle</hi>.</p>
+
+<p>
+L<hi rend="smallcaps">ucas</hi>, E<hi rend="smallcaps">dward</hi> V<hi rend="smallcaps">erall</hi>. Mr. Lucas has undertaken hospital service.</p>
+
+<p>
+M<hi rend="smallcaps">asefield</hi>, J<hi rend="smallcaps">ohn</hi>. Mr. Masefield, whose lectures in America early in 1916 quickened interest in his work and personality, has been very active during the war. He has written an excellent study of the campaign on the Gallipoli Peninsula, having served there and also in France in connection with Red Cross work.</p>
+
+<p>
+M<hi rend="smallcaps">organ</hi>, C<hi rend="smallcaps">harles</hi> L<hi rend="smallcaps">angbridge</hi>. He is a Sub-Lieutenant in the Royal Naval Division, and is a Prisoner of War in Holland.</p>
+
+<p>
+N<hi rend="smallcaps">ewbolt</hi>, S<hi rend="smallcaps">ir</hi> H<hi rend="smallcaps">enry</hi>. He is the author of <hi rend="italic">The Book of the Thin Red Line</hi>, <hi rend="italic">Story of the Oxfordshire and Buckinghamshire Light Infantry</hi>, and <hi rend="italic">Stories of the Great War</hi>.</p>
+
+<p>
+N<hi rend="smallcaps">oyes</hi>, A<hi rend="smallcaps">lfred</hi>. His war writings include <hi rend="italic">A Salute to the Fleet</hi>, etc.</p>
+
+<p>
+O<hi rend="smallcaps">gilvie</hi>, W<hi rend="smallcaps">illiam</hi> H<hi rend="smallcaps">enry</hi>. He was Professor of Agricultural Journalism in the Iowa State College, U.S.A., from 1905 to 1907. His war writings include <hi rend="italic">Australia and Other Verses</hi>.</p>
+
+<p>
+O<hi rend="smallcaps">swald</hi>, S<hi rend="smallcaps">ydney</hi>. He is a Major in the King's Royal Rifle Corps.</p>
+
+<p>
+P<hi rend="smallcaps">hillips</hi>, S<hi rend="smallcaps">tephen</hi>. His war writings include <hi rend="italic">Armageddon</hi>, etc. He died December 9, 1915.</p>
+
+<p>
+P<hi rend="smallcaps">hillpotts</hi>, E<hi rend="smallcaps">den</hi>. Among his war writings are <hi rend="italic">The Human Boy and the War</hi>, and <hi rend="italic">Plain Song, 1914-16</hi>.</p>
+
+<p>
+R<hi rend="smallcaps">atcliffe</hi>, A. V<hi rend="smallcaps">ictor</hi>. He was a Lieutenant in the 10th/13th West Yorkshire Regiment, and was killed in action on July 1, 1916.</p>
+
+<p>
+R<hi rend="smallcaps">awnsley</hi>, R<hi rend="smallcaps">ev</hi>. H<hi rend="smallcaps">ardwicke</hi> D<hi rend="smallcaps">rummond</hi>. He has been Canon of Carlisle and Honorary Chaplain to the King since 1912.</p>
+
+<pb n="259"/>
+<p>
+R<hi rend="smallcaps">obertson</hi>, A<hi rend="smallcaps">lexander</hi>. He is a Corporal in the Twelfth York and Lancaster Regiment. He was reported "missing" in July, 1916.</p>
+
+<p>
+R<hi rend="smallcaps">oss</hi>, S<hi rend="smallcaps">ir</hi> R<hi rend="smallcaps">onald</hi>. He is the President of the Poetry Society of Great Britain, and is a Lieutenant-Colonel in the Royal Army Medical Corps.</p>
+
+<p>
+S<hi rend="smallcaps">collard</hi>, C<hi rend="smallcaps">linton</hi>. His war writings include <hi rend="italic">The Vale of Shadows, and Other Verses of the Great War</hi>, and <hi rend="italic">Italy in Arms, and Other Verses</hi>.</p>
+
+<p>
+S<hi rend="smallcaps">cott</hi>, C<hi rend="smallcaps">anon</hi> F<hi rend="smallcaps">rederick</hi> G<hi rend="smallcaps">eorge</hi>. He is a Major in the Third Brigade of the First Canadian Division, British Expeditionary Force.</p>
+
+<p>
+S<hi rend="smallcaps">eaman</hi>, S<hi rend="smallcaps">ir</hi> O<hi rend="smallcaps">wen</hi>. He has been the editor of <hi rend="italic">Punch</hi> since 1906. His war writings include <hi rend="italic">War-Time</hi> and <hi rend="italic">Made in England</hi>.</p>
+
+<p>
+S<hi rend="smallcaps">eeger</hi>, A<hi rend="smallcaps">lan</hi>. Among the Americans who have served at the front there is none who has produced poetic work of such high quality as that of Alan Seeger. He was born in New York on June 22nd, 1888; was educated at the Horace Mann School; Hackley School, Tarrytown, New York; and Harvard College. In 1912 he went to Paris and lived the life of a student and writer in the Latin Quarter. During the third week of the war he enlisted in the Foreign Legion of France. His service as a soldier was steady, loyal and uncomplaining -- indeed, exultant would not be too strong a word to describe the spirit which seems constantly to have animated his military career. He took part in the battle of Champagne. Afterwards, his regiment was allowed to recuperate until May, 1916. On July 1 a general advance was ordered, and on the evening of July 4 the Legion was ordered to attack the village of Belloy-en-Santerre. Seeger's squad was caught by the fire of six machine-guns and he himself was wounded in several places, but he continued to cheeer his comrades as they rushed on in what proved a successful charge. He died on the morning of July 5. The twenty or more poems he wrote during active service are included in the collected <hi rend="italic">Poems by Alan Seeger</hi>, with an Introduction by William Archer.</p>
+
+<p>
+S<hi rend="smallcaps">orley</hi>, C<hi rend="smallcaps">harles</hi>
+H<hi rend="smallcaps">amilton</hi>. He was born at Old Aberdeen on May
+19, 1895. He was a student at Marlborough College, Cambridge, from the
+autumn of 1908 until the end of 1913, at which time he was elected to
+a scholarship at <pb n="260"/>University College, Oxford. After completing his education in England, he spent several months as a student and observer in Germany. When the war broke out he returned home and was gazetted Second Lieutenant in the Seventh (Service) Battalion of the Suffolk Regiment. In November he was made a Lieutenant, and in August, 1915, a Captain. He served in France from May 30 to October 13, 1915, when he was killed in action near Hulluch. His war poems and letters appear in a volume entitled <hi rend="italic">Marlborough and other Poems</hi>, published by the Cambridge University Press.</p>
+
+<p>
+S<hi rend="smallcaps">tewart</hi>, J. E. He is a Captain in the Eighth Border Regiment, British Expeditionary Force. He was awarded the Military Cross in 1916.</p>
+
+<p>
+T<hi rend="smallcaps">ennant</hi>, E<hi rend="smallcaps">dward</hi> W<hi rend="smallcaps">yndham</hi>. He was the son of Baron Glenconner, and was at Winchester when war was declared. He was only seventeen when he joined the Grenadier Guards, Twenty-First Battalion. He had one year's training in England, saw one year's active service in France, and fell, gallantly fighting, in the battle of the Somme, 1916.</p>
+
+<p>
+T<hi rend="smallcaps">ynan</hi>, K<hi rend="smallcaps">atharine</hi>. Pen-name of Mrs. Katharine Tynan Hinkson, whose war writings include <hi rend="italic">The Flower of Peace</hi>, <hi rend="italic">The Holy War</hi>, etc.</p>
+
+<p>
+V<hi rend="smallcaps">an</hi> D<hi rend="smallcaps">yke</hi>, H<hi rend="smallcaps">enry</hi>. He has been Professor of English Literature in Princeton University since 1900, and was United States Minister to the Netherlands and Luxembourg from June, 1913, to December, 1916. He has published several war poems. He is the first American to receive an honorary degree at Oxford since the United States entered the war. The degree of Doctor of Civil Law was conferred upon him on May 8, 1917.</p>
+
+<p>
+V<hi rend="smallcaps">ern&egrave;de</hi>, R<hi
+rend="smallcaps">obert</hi> E<hi rend="smallcaps">rnest</hi>. He was
+educated at St. Paul's School and at St. John's College, Oxford. On
+leaving college he became a professional writer, producing several
+novels and two books of travel sketches, one dealing with India, the
+other with Canada. He was also author of a number of poems. At the
+outbreak of the war he enlisted in the Nineteenth Royal Fusiliers,
+known as the Public Schools Battalion, and received a commission as
+Second Lieutenant in the Rifle Brigade, in May, 1915. He went to
+France in November, 1915, and was wounded during the battle of the
+Somme in September of the following year, but returned to the front <pb n="261"/>in December. He died of wounds on April 9, 1917, in his forty-second year.</p>
+
+<p>
+W<hi rend="smallcaps">aterhouse</hi>, G<hi rend="smallcaps">ilbert</hi>. Lieutenant in the Second Essex Regiment. His war writings include <hi rend="italic">Railhead, and other Poems</hi>. He is reported "missing."</p>
+
+<p>
+W<hi rend="smallcaps">harton</hi>, E<hi
+rend="smallcaps">dith</hi>. She has written <hi rend="italic">Fighting
+France</hi>, etc.</p>
+
+</div1>
+</back>
 </text>

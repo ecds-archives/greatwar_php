@@ -1,32 +1,28 @@
 <html>
   <head>
-    <link rel="stylesheet" type="text/css" href="../wwi.css">
+<!--    <link rel="stylesheet" type="text/css" href="../wwi.css"> -->
     <title>The Great War : Links : Process Approval</title>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-    <base href="http://reagan.library.emory.edu/rebecca/wwiweb/">
+<!--    <base href="http://reagan.library.emory.edu/rebecca/wwiweb/"> -->
   </head>
 <body>
 
 <?php
-// run everything as if one directory up
-chdir("..");
+include("../../config.php");
 include_once ("lib/alinkRecord.class.php");
 include_once("lib/mybreadcrumb.php");
-
 
 $myargs = array('host' => "vip.library.emory.edu",
 		'db' => "WW1",
 		'coll' => 'links',
 		'debug' => false);
 
-
-
-include("header.html");
+include("header.php");
 print "<p class='breadcrumbs'>" . $breadcrumb->show_breadcrumb() . "</p>";
 
 print '<div class="content">'; 
 
-print '<h2>Processing link record approval</h2>'; 
+print '<h3>Processing link record approval</h3>'; 
 
 // each id is a record to approve, if val=on
 foreach ($_GET as $id => $val) {
@@ -45,7 +41,8 @@ foreach ($_GET as $id => $val) {
 print "</div>";
 
 print '<div class="sidebar">';
-include("searchbox.html");
+include("nav.html");
+include("searchbox.php");
 print "</div>";
 
 include("footer.html");

@@ -346,9 +346,7 @@
 <l rend="indent8">And they who look beyond this mortal life</l>
 <l>Know Peace on earth in Heaven hath great allies.</l></lg>
 <byline>H. D. RAWNSLEY</byline>
-<bibl>
-<publisher>Westminster Gazette</publisher>, <date value="">August 4, 1914</date>
-</bibl> 
+<closer><hi rend="italic">Westminster Gazette, August</hi> 4, 1914</closer> 
 </div2>
 
 
@@ -390,9 +388,7 @@
 <l>With honour, power, and fame inviolate,</l>
 <l>Lord God of Hosts!</l></lg>
 <byline>ANTHONY KIRBY GILL</byline>
-<bibl>
-<publisher>Pall Mall Gazelle</publisher>, <date value="">August 5, 1914</date>
-</bibl> 
+<closer><hi rend="italic">Pall Mall Gazelle, August</hi> 5, 1914</closer> 
 </div2>
 
 
@@ -400,9 +396,7 @@
 <div2 id="lane014" type="poem" n="The Vigil">
 <xptr doc="Clarke.xml" from="clarke019"/>
 <pb n="8"/>
-<bibl>
-<publisher>Times</publisher>, <date value="">August 5, 1914</date>
-</bibl> 
+<closer><hi rend="italic">Times, August 5, 1914</closer> 
 </div2>
 
 
@@ -422,7 +416,7 @@
 <l>Louder than thunder rolled along the breeze</l>
 <l rend="indent4">From surfless seas.</l></lg>
 
-<milestone type="break" rend="asterisk"/><hi rend="center">* * *</hi>
+<milestone unit="stanza" rend="asterisk"/>
 
 <lg>
 <l>The sun is dark as sackcloth and the seven</l>
@@ -433,9 +427,7 @@
 <l>And waste Peace from the world; and up in Heaven</l>
 <l>Was silence for the space of half an hour.</l></lg>
 <byline>M JOURDAIN</byline>
-<bibl>
-<publisher>Westminster Gazette</publisher>, <date value="">August 6, 1914</date>
-</bibl>
+<closer><hi rend="italic">Westminster Gazette, August</hi> 6, 1914</closer>
 </div2>
 
 
@@ -496,9 +488,7 @@
 <l>Lest we forget the heights sublime,</l>
 <l>And lapse into our ancient slime.</l></lg>
 <byline>A. ST. JOHN ADCOCK.</byline>
-<bibl>
-<publisher>Daily Herald</publisher>, <date value="">August 6, 1914</date>
-</bibl> 
+<closer><hi rend="italic">Daily Herald, August</hi> 6, 1914</closer> 
 </div2>
 
 
@@ -537,9 +527,7 @@
 <l>By foemen -- and the fools</l>
 <l rend="indent">Who dream that Drake is dead.</l></lg>
 <byline>H. DE VERE STACPOOLE</byline>
-<bibl>
-<publisher>Daily Express</publisher>, <date value="">August 7, 1914</date>
-</bibl> 
+<closer><hi rend="italic">Daily Express, August</hi> 7, 1914</closer> 
 </div2>
 
 
@@ -604,25 +592,21 @@
 <l rend="indent8">The Baltic, Waterloo</l>
 <l>As then so now, twice armed are we since Honour backs the blow!</l></lg>
 <byline>IAN COLVIN</byline>
-<bibl>
-<publisher>Morning Post</publisher>, <date value="">August 8, 1914</date>
-</bibl>
+<closer><hi rend="italic">Morning Post, August</hi> 8, 1914</closer>
 </div2>
 
 
 <pb n="18"/>
 <div2 id="lane019" type="poem" n="The Kaiser and Belgium">
 <xptr doc="Clarke.xml" from="clarke053"/>
-<bibl>
-<publisher>Daily Chronicle</publisher>, <date value="August 8, 1914">August 8, 1914</date></bibl>
+<closer><hi rend="italic">Daily Chronicle, August 8, 1914</closer>
 </div2>
 
 
 <pb n="19"/>
 <div2 id="lane020" type="poem" n="Canada to England">
 <xptr doc="Clarke.xml" from="clarke049"/>
-<bibl>
-<publisher>Times</publisher>, <date value="August 10, 1914">August 10, 1914</date></bibl>
+<closer><hi rend="italic">Times, August 10, 1914</closer>
 </div2>
 
 
@@ -671,8 +655,7 @@
 <l rend="indent4">Rather than fail GREAT Belgium in her need,</l>
 <l>Rather than this, in God's own name, be war!</l></lg>
 <byline>COULSON KERNAHAN</byline>
-<bibl>
-<publisher>Daily Chronicle</publisher>, <date value="August 10, 1914">August 10, 1914</date></bibl>
+<closer><hi rend="italic">Daily Chronicle, August</hi> 10, 1914</closer>
 </div2>
 
 
@@ -711,8 +694,7 @@
 <l>And the God of Right give answer to your blood-and-iron brag,</l>
 <l>Whether your hand is worthy to wrest from our hand that flag.</l></lg>
 <byline>HAROLD BEGBIE</byline>
-<bibl>
-<publisher>Daily Chronicle</publisher>, <date value="August 11, 1914">August 11, 1914</date></bibl>
+<closer><hi rend="italic">Daily Chronicle, August</hi> 11, 1914</closer>
 </div2>
 
 
@@ -753,8 +735,7 @@
 <l>For flame still upon our towers</l>
 <l>Flags of hope and victory.</l></lg>
 <byline>DOROTHY MARGARET STUART</byline>
-<bibl>
-<publisher>Evening Standard</publisher>, <date value="August 11, 1914">August 11, 1914</date></bibl>
+<closer><hi rend="italic">Evening Standard, August</hi> 11, 1914</closer>
 </div2>
 
 
@@ -762,8 +743,7 @@
 <div2 id="lane024" type="poem" n="Pro Patria">
 <xptr doc="Clarke.xml" from="clarke022"/>
 <pb n="27"/>
-<bibl>
-<publisher>Punch</publisher>, <date value="August 12, 1914">August 12, 1914</date></bibl>
+<closer><hi rend="italic">Punch, August 12, 1914</closer>
 </div2>
 
 
@@ -823,8 +803,7 @@
 <l rend="italic">Righteous in a righteous cause:</l>
 <l rend="indent"><hi rend="italic">Britons, we WILL see it through!</hi></l></lg>
 <byline>R. M. FREEMAN</byline>
-<bibl>
-<publisher>Truth</publisher>, <date value="August 12, 1914">August 12, 1914</date></bibl>
+<closer><hi rend="italic">Truth, August</hi> 12, 1914</closer>
 </div2>
 
 
@@ -832,8 +811,7 @@
 <div2 id="lane026" type="poem" n="France">
 <xptr doc="Clarke.xml" from="clarke025"/>
 <pb n="32"/>
-<bibl>
-<publisher>New Witness</publisher>, <date value="August 13, 1914">August 13, 1914</date></bibl>
+<closer><hi rend="italic">New Witness, August</hi> 13, 1914</closer>
 </div2>
 
 
@@ -841,8 +819,7 @@
 <div2 id="lane027" type="poem" n="To France">
 <xptr doc="Clarke.xml" from="clarke030"/>
 <pb n="34"/>
-<bibl>
-<publisher>Westminster Gazette</publisher>, <date value="August 13, 1914">August 13, 1914</date></bibl>
+<closer><hi rend="italic">Westminster Gazette, August</hi> 13, 1914</closer>
 </div2>
 
 
@@ -866,8 +843,7 @@
 <l>The massed battalions as a myth shall reel;</l>
 <l>Vainly they fight, if first they cannot feel.</l></lg>
 <byline>STEPHEN PHILLIPS</byline>
-<bibl>
-<publisher>Times</publisher>, <date value="August 13, 1914">August 13, 1914</date></bibl>
+<closer><hi rend="italic">Times, August</hi> 13, 1914</closer>
 </div2>
 
 
@@ -910,8 +886,7 @@
 <l>You may take your Bible oath</l>
 <l>You are violating Belgian neutrality.</l></lg>
 <byline>G. K. CHESTERTON</byline>
-<bibl>
-<publisher>New Witness</publisher>, <date value="August 13, 1914">August 13, 1914</date></bibl>
+<closer><hi rend="italic">New Witness, August</hi> 13, 1914</closer>
 </div2>
 
 
@@ -935,8 +910,7 @@
 <l>"Thou art the Man !" For thee 'twas planned.</l>
 <l rend="italic">Aye! by the Bible in thy hand!</l></lg>
 <byline>REGINALD R. BUCKLEY</byline>
-<bibl>
-<publisher>T. P.'s Weekly</publisher>, <date value="August 13, 1914">August 13, 1914</date></bibl>
+<closer><hi rend="italic">T. P.'s Weekly, August</hi> 13, 1914</closer>
 </div2>
 
 
@@ -982,8 +956,7 @@
 <l>Be Thou their Shield and Comforter,</l>
 <l rend="indent">We pray Thee, God of Hosts!</l></lg>
 <byline>NEIL MUNRO</byline>
-<bibl>
-<publisher>Glasgow Evening News</publisher>, <date value="August 9, 1914">August 9, 1914</date></bibl>
+<closer><hi rend="italic">Glasgow Evening News, August</hi> 9, 1914</closer>
 </div2>
 
 
@@ -1098,8 +1071,7 @@
 <l>You that on him and falsehood hurled</l>
 <l>Shall guard the fortress of the world.</l></lg>
 <byline>WILLIAM WATSON</byline>
-<bibl>
-<publisher>Daily Chronicle</publisher>, <date value="August 14, 1914">August 14, 1914</date></bibl>
+<closer><hi rend="italic">Daily Chronicle, August</hi> 14, 1914</closer>
 </div2>
 
 
@@ -1125,8 +1097,7 @@
 <l>The friend of France and England, who avow</l>
 <l>An Equal here, and thank the men who died.</l></lg>
 <byline>H. M.</byline>
-<bibl>
-<publisher>Times</publisher>, <date value=" August 14, 1914"> August 14, 1914</date></bibl>
+<closer><hi rend="italic">Times,  August</hi> 14, 1914</closer>
 </div2>
 
 
@@ -1197,8 +1168,7 @@
 <l>So, 'Erb, my hero, march along and win:</l>
 <l rend="indent14">The God of Wars stand by you!</l></lg>
 <byline>PHILIP BUSSY</byline>
-<bibl>
-<publisher>Westminster Gazette</publisher>, <date value="August 14, 1914">August 14, 1914</date></bibl>
+<closer><hi rend="italic">Westminster Gazette, August</hi> 14, 1914</closer>
 </div2>
 
 
@@ -1255,8 +1225,7 @@
 <l>But to see far-flung as my singers have sung</l>
 <l>My Freedom from pole to pole.</l></lg>
 <byline>GILBERT CANNAN</byline>
-<bibl>
-<publisher>Saturday Review</publisher>, <date value="August 15, 1914">August 15, 1914</date></bibl>
+<closer><hi rend="italic">Saturday Review, August</hi> 15, 1914</closer>
 </div2>
 
 
@@ -1297,8 +1266,7 @@
 <l rend="indent4">Strive for England, side by side,</l>
 <l rend="indent4">Those who live and those who died.</l></lg>
 <byline>EVELYN UNDERHILL</byline>
-<bibl>
-<publisher>New Weekly</publisher>, <date value="August 15, 1914">August 15, 1914</date></bibl>
+<closer><hi rend="italic">New Weekly, August</hi> 15, 1914</closer>
 </div2>
 
 
@@ -1463,8 +1431,7 @@
 <l>Ancient, awful, fights on our side,</l>
 <l rend="indent4">And its name is NEMESIS.</l></lg>
 <byline>WILLIAM ARCHER</byline>
-<bibl>
-<publisher>Daily News</publisher>, <date value="August 15, 1914">August 15, 1914</date></bibl>
+<closer><hi rend="italic">Daily News, August</hi> 15, 1914</closer>
 </div2>
 
 
@@ -1514,8 +1481,7 @@
 <l rend="indent8">God go with you where you go</l>
 <l rend="indent8">To the war.</l></lg>
 <byline>W. M. LETTS</byline>
-<bibl>
-<publisher>Saturday Westminster</publisher>, <date value="August 15, 1914">August 15, 1914</date></bibl>
+<closer><hi rend="italic">Saturday Westminster, August</hi> 15, 1914</closer>
 </div2>
 
 
@@ -1556,8 +1522,7 @@
 <l>In your first battle on the sea</l>
 <l>You win your immortality.</l></lg>
 <byline>R. H. FORSTER</byline>
-<bibl>
-<publisher>Yorkshire Post</publisher>, <date value="August 16, 1914">August 16, 1914</date></bibl>
+<closer><hi rend="italic">Yorkshire Post, August</hi> 16, 1914</closer>
 </div2>
 
 
@@ -1598,8 +1563,7 @@
 <l>That earth pursue her solemn destiny</l>
 <l rend="indent10">By blood and iron no more.</l></lg>
 <byline>EDEN PHILLPOTTS</byline>
-<bibl>
-<publisher>Daily Chronicle</publisher>, <date value="August 17, 1914">August 17, 1914</date></bibl>
+<closer><hi rend="italic">Daily Chronicle, August</hi> 17, 1914</closer>
 </div2>
 
 
@@ -1669,8 +1633,7 @@
 <l rend="indent">Sounded by him who deathless died --</l>
 <l>"This day England expects you all."</l></lg>
 <byline>R. E. VERN鄅</byline>
-<bibl>
-<publisher>Times</publisher>, <date value="August 19, 1914">August 19, 1914</date></bibl>
+<closer><hi rend="italic">Times, August</hi> 19, 1914</closer>
 </div2>
 
 
@@ -1741,8 +1704,7 @@
 <l>Breaker of God's own Peace, you shall in turn</l>
 <l rend="indent10">Yourself be broken.</l></lg>
 <byline>SIR OWEN SEAMAN</byline>
-<bibl>
-<publisher>Punch</publisher>, <date value="August 19, 1914">August 19, 1914</date></bibl>
+<closer><hi rend="italic">Punch, August</hi> 19, 1914</closer>
 </div2>
 
 
@@ -1787,8 +1749,7 @@
 <l>Burningly offered up -- to bleed,</l>
 <l>To bear, to break, but not to fail.</l></lg>
 <byline>LAURENCE BINYON</byline>
-<bibl>
-<publisher>Times</publisher>, <date value="August 20, 1914">August 20, 1914</date></bibl>
+<closer><hi rend="italic">Times, August</hi> 20, 1914</closer>
 </div2>
 
 
@@ -1810,8 +1771,7 @@
 <l rend="indent4">Towards the light, towards the light --</l>
 <l rend="indent4">Praying that God defend the right.</l></lg>
 <byline>WALTER SICHEL</byline>
-<bibl>
-<publisher>Westminster Gazette</publisher>, <date value="August 10, 1914">August 10, 1914</date></bibl>
+<closer><hi rend="italic">Westminster Gazette, August</hi> 10, 1914</closer>
 </div2>
 
 
@@ -1860,8 +1820,7 @@
 <l rend="italic">"Roll up! Roll up for England!"</l>
 <l rend="indent"><hi rend="italic">An' they're rollin' up all round.</hi></l></lg>
 <byline>W. M. L. HUTCHINSON</byline>
-<bibl>
-<publisher>Pall Mall Gazette</publisher>, <date value="August 20, 1914">August 20, 1914</date></bibl>
+<closer><hi rend="italic">Pall Mall Gazette, August</hi> 20, 1914</closer>
 </div2>
 
 
@@ -1905,8 +1864,7 @@
 <l>"'Not by might, and not by power --</l>
 <l rend="indent">By my Spirit,' saith the Lord."</l></lg>
 <byline>JAMES RHOADES</byline>
-<bibl>
-<publisher>Times</publisher>, <date value="August 21, 1914">August 21, 1914</date></bibl>
+<closer><hi rend="italic">Times, August</hi> 21, 1914</closer>
 </div2>
 
 
@@ -1947,8 +1905,7 @@
 <l>Quatre Bras and Waterloo</l>
 <l>Yield their soul to strengthen you!</l></lg>
 <byline>R. GORELL BARNES</byline>
-<bibl>
-<publisher>Times</publisher>, <date value="August 22, 1914">August 22, 1914</date></bibl>
+<closer><hi rend="italic">Times, August</hi> 22, 1914</closer>
 </div2>
 
 
@@ -1972,8 +1929,7 @@
 <l rend="indent">And wins his life back, holy from Death's hand,</l>
 <l rend="indent">Redeemed in one brief ecstasy of fire!</l></lg>
 <byline>HAROLD E. GOAD</byline>
-<bibl>
-<publisher>Times</publisher>, <date value="August 26, 1914">August 26, 1914</date></bibl>
+<closer><hi rend="italic">Times, August</hi> 26, 1914</closer>
 </div2>
 
 
@@ -2030,8 +1986,7 @@
 <l>Join the battle, face the strife,</l>
 <l>Strike for liberty and life!</l></lg>
 <byline>W. L. COURTNEY</byline>
-<bibl>
-<publisher>Daily Telegraph</publisher>, <date value="August 27, 1914">August 27, 1914</date></bibl>
+<closer><hi rend="italic">Daily Telegraph, August</hi> 27, 1914</closer>
 </div2>
 
 
@@ -2040,8 +1995,7 @@
 <xptr doc="Clarke.xml" from="clarke079"/>
 <pb n="84"/>
 <pb n="85"/>
-<bibl>
-<publisher>Times</publisher>, <date value="August 28, 1914">August 28, 1914</date></bibl>
+<closer><hi rend="italic">Times, August</hi> 28, 1914</closer>
 </div2>
 
 
@@ -2064,9 +2018,7 @@
 <l>But though that orb may on an Empire set,</l>
 <l>Tomlinson lights another cigarette.</l></lg>
 <byline>STEPHEN PHILLIPS</byline>
-<bibl>
-<publisher>Daily Mail</publisher>, <date value="August 30,
-1914">August 30, 1914</date></bibl>
+<closer><hi rend="italic">Daily Mail, August</hi> 30, 1914</closer>
 </div2>
 
 
@@ -2090,8 +2042,7 @@
 <l>Bidding St. Denis with St. George stand fast</l>
 <l>Against the Worm. St. Denis and St. George!</l></lg>
 <byline>JUSTIN HUNTLY McCARTHY</byline>
-<bibl>
-<publisher>Daily Chronicle</publisher>, <date value="August 30, 1914">August 30, 1914</date></bibl>
+<closer><hi rend="italic">Daily Chronicle, August</hi> 30, 1914</closer>
 </div2>
 
 
@@ -2116,8 +2067,7 @@
 <l>Seeing for us, too, there's a dearer thing</l>
 <l>Than land or blood -- and that thing Liberty.</l></lg>
 <byline>MAURICE HEWLETT</byline>
-<bibl>
-<publisher>Westminster Gazette</publisher>, <date value="September 9, 1914">September 9, 1914</date></bibl>
+<closer><hi rend="italic">Westminster Gazette, September</hi> 9, 1914</closer>
 </div2>
 
 
@@ -2171,8 +2121,7 @@
 <l>Hence the faith and fire within us</l>
 <l rend="indent4">Men who march away.</l></lg>
 <byline>THOMAS HARDY</byline>
-<bibl>
-<publisher>Times</publisher>, <date value="September 9, 1914">September 9, 1914</date></bibl>
+<closer><hi rend="italic">Times, September</hi> 9, 1914</closer>
 </div2>
 
 
@@ -2199,8 +2148,7 @@
 <xptr doc="Clarke.xml" from="clarke020"/>
 <pb n="93"/>
 <pb n="94"/>
-<bibl>
-<publisher>Times</publisher>, <date value="September 2, 1914">September 2, 1914</date></bibl>
+<closer><hi rend="italic">Times, September</hi> 2, 1914</closer>
 </div2>
 
 
@@ -2249,8 +2197,7 @@
 <l>Thy sons and heirs are here,</l>
 <l rend="indent">Nor shall they shame their sire.</l></lg>
 <byline>WILLIAM WATSON</byline>
-<bibl>
-<publisher>Times</publisher></bibl>
+<closer><hi rend="italic">Times</hi></closer>
 </div2>
 
 </div1>

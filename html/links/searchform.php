@@ -24,6 +24,7 @@ print "<p class='breadcrumbs'>" . $breadcrumb->show_breadcrumb();
 
 print '
 <div class="content">
+<h2>Link Search</h2>
 <form name="linksearch" action="search.php" method="get">
 <table class="searchform" border="0">
 <tr><th>Keyword</th><td><input type="text" size="40" name="keyword"></td></tr>
@@ -40,7 +41,7 @@ print '</table>
 print '</div>';
 
 print '<div class="sidebar">';
-include("postcards/nav.html");
+include("nav.html");
 include("searchbox.php");
 print '</div>';
 

@@ -10,7 +10,7 @@ print "<p><img src='$base_url/images/topbanner.jpg' width='800' height='90'></p>
           <td>&#149;</td>
 	  <td><a href='${base_url}about.html'>About the Site</a></td>
           <td>&#149;</td>
-	  <td><a href='${base_url}postcards/browse.php'>Postcards</a></td>
+	  <td><a href='${base_url}postcards/index.php'>Postcards</a></td>
           <td>&#149;</td>
 	  <td><a href='${base_url}poetry/browse.php'>Poetry</a></td>
           <td>&#149;</td>

@@ -1,16 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
 <front>
-
-
 <pb n="ii"/>
-<div1 id="lane001" type="anthology" n="Songs & Sonnets For England in War Time">
 
-<div2 id="lane002" type="dedication">
+<div1 id="lane001" type="dedication">
 The entire profits from the sale of this volume will be given to the Prince of Wales's National Relief Fund
-</div2>
+</div1>
 
 
 <pb n="iii"/>
-<head rend="center">SONGS & SONNETS FOR ENGLAND IN WAR TIME</head>
+<div1 id="lane002" type="title page">
+<head rend="center">SONGS &amp; SONNETS FOR ENGLAND IN WAR TIME</head>
 <head rend="center">BEING A COLLECTION OF LYRICS BY VARIOUS AUTHORS INSPIRED BY THE GREAT WAR</head>
 
 <div2 id="lane003" type="epigraph">
@@ -21,10 +20,10 @@ The entire profits from the sale of this volume will be given to the Prince of W
 <l rend="indent4"><hi rend="italic">Is worth an age without a name.</hi></l></q>
 <bibl rend="right">S<hi rend="smallcaps">ir</hi> W<hi rend="smallcaps">alter</hi> S<hi rend="smallcaps">cott</hi>, "Old Mortality"</bibl>
 </div2>
-
+</div1>
 
 <pb n="v"/>
-<div2 id="lane004" type="chapter" n="Introduction">
+<div1 id="lane003" type="chapter" n="Introduction">
 <head rend="center">INTRODUCTION</head>
 
 <p>I<hi rend="smallcaps">n</hi> the stress of a nation's peril some of its greatest songs are born. In the stress of a nation's peril the poet at last comes into his own again, and with clarion call he rouses the sleeping soul of the empire. Prophet he is, champion and consoler.</p>
@@ -44,14 +43,14 @@ The entire profits from the sale of this volume will be given to the Prince of W
 <l>And kings a dubious legend of their reign;</l>
 <l>The swords of C&aelig;sars, they are less than rust:</l>
 <l>The poet doth remain."</l></q>
-</div2>
+</div1>
 
 
 <pb n="vii"/>
-<div2 id="lane005" type="chapter" n="Publisher's Note">
+<div1 id="lane004" type="chapter" n="Publisher's Note">
 <head rend="center">PUBLISHER'S NOTE</head>
 
-<p>O<hi rend="smallcaps"f</hi> our poets who have been inspired to write and publish separate volumes of war poems during the actual progress of a campaign, we can only recall one -- the late Sydney Dobell, whose "Sonnets on the War," and "England in Time of War," both dealt with the Crimea. Mr. William Watson's "The Purple East" was read and quoted the world over during the Armenian atrocities: indeed, "Abdul the Damned" has passed into the language. Although this famous sonnet sequence sprang out of events which could not be called a campaign in the accepted and legitimate sense of the word, yet it may be fairly argued that the Kaiser has surpassed the Turk in inflicting suffering on defenceless people.</p>
+<p>O<hi rend="smallcaps">f</hi> our poets who have been inspired to write and publish separate volumes of war poems during the actual progress of a campaign, we can only recall one -- the late Sydney Dobell, whose "Sonnets on the War," and "England in Time of War," both dealt with the Crimea. Mr. William Watson's "The Purple East" was read and quoted the world over during the Armenian atrocities: indeed, "Abdul the Damned" has passed into the language. Although this famous sonnet sequence sprang out of events which could not be called a campaign in the accepted and legitimate sense of the word, yet it may be fairly argued that the Kaiser has surpassed the Turk in inflicting suffering on defenceless people.</p>
 
 <p>Doubtless, however, some of the many poets writing during the present war will in the course of time collect their verses and issue them as independent volumes. 
 <pb n="viii"/> Anthologies also there are, without number, of poems of war on land and sea; but none of these, so far as I can discover, has been formed during the conflict itself. In this respect, therefore, this collection is unique. I am proposing to issue a series of these volumes during the progress of this great war, dealing with its outstanding events. The next will include a number of poems that have appeared in American and Canadian papers, and will thus have a peculiar interest as expressing the feelings of our kinsmen beyond the sea. All the profits derived from the sale of these anthologies will be given to the Prince of Wales's Fund. Perhaps, therefore, in the event of similar collections being made, it would generally be well if the poet would prevent any possible overlapping by consenting to his poem's appearance in one collection only. In this way the public may be induced to buy the various collections rather than any particular one.</p>
@@ -59,7 +58,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 <p>Viscount Dillon sends me the following, taken from <hi rend="italic">La France du Nord</hi> of August 23. These lines, by a poetic ally, who remains anonymous, are as correct in feeling as they are ingenious in adapting themselves to the rhythm of our own National Anthem.</p>
 
 <pb n="ix"/>
-<div3 id="lane006" type="poem" n="Welcome to You, Gallant Britons">
+<div2 id="lane005" type="poem" n="Welcome to You, Gallant Britons">
 <head rend="center">WELCOME TO YOU, GALLANT BRITONS</head>
 
 <lg type="stanza">
@@ -89,12 +88,12 @@ The entire profits from the sale of this volume will be given to the Prince of W
 <l>And reap final glory;</l>
 <l rend="indent5">Hail to them all!</l></lg>
 <byline>G. C.</byline>
-</div3>
+</div2>
 
 <pb n="x"/>
 <p>I have also been favoured with another poem which has an added interest from the fact that the writer has for many years been well acquainted with German politics and German statesmen.</p>
 
-<div3 id="lane007" type="poem" n="A Partnership">
+<div2 id="lane006" type="poem" n="A Partnership">
 <head rend="center">A PARTNERSHIP</head>
 
 <lg type="stanza">
@@ -119,7 +118,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 <l>God for the Kaiser! Kill! kill! kill! </l>
 <l>Blood is your draught, so drink your fill! </l>
 <l>Murder the old men, slaughter the young, </l>
-<l>Scatter their bodies abroad for dung.</l>
+<l>Scatter their bodies abroad for dung.</l></lg>
 
 <pb n="xi"/>
 <lg>
@@ -133,7 +132,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 <l>Bidding the whole wide world defiance --</l>
 <l>Wait! and perhaps his Partner may send </l>
 <l>The blasphemous Kaiser a fitting end.</l></lg>
-</div3>
+</div2>
 
 <p>My thanks are due for the great generosity displayed by all the authors whose poems appear in this volume, and whose names will be found on following pages; and also to the Editors of the <hi rend="italic">Times</hi>, <hi rend="italic">Daily Chronicle</hi>, <hi rend="italic">Westminster Gazette</hi>, <hi rend="italic">Daily News and Leader</hi>, <hi rend="italic">Morning Post</hi>, <hi rend="italic">Daily Telegraph</hi>, <hi rend="italic">Evening Standard</hi>, <hi rend="italic">Daily Express</hi>, <hi rend="italic">Pall Mall Gazette</hi>, <hi rend="italic">Punch</hi>, <hi rend="italic">New Weekly</hi>, <hi rend="italic">New Witness</hi>, <hi rend="italic">Truth</hi>, <hi rend="italic">Saturday Review</hi>, <hi rend="italic">T.P.'s Weekly</hi>, <hi rend="italic">Yorkshire Post</hi>, <hi rend="italic">Glasgow Evening News</hi>, for full permission to reprint the poems that have appeared in their columns.</p>
 
@@ -141,14 +140,13 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 <byline>JOHN LANE</byline>
 <note rend="left">T<hi rend="smallcaps">he</hi> B<hi rend="smallcaps">odley</hi> H<hi rend="smallcaps">ead</hi>.</note>
-</div2>
-
+</div1>
 
 </front>
 
-
 <body>
 
+<div1 id="lane007" type="anthology" n="Songs &amp; Sonnets For England in War Time">
 
 <pb n="1"/>
 <div2 id="lane008" type="poem" n="To the Troubler of the World">
@@ -302,7 +300,6 @@ The entire profits from the sale of this volume will be given to the Prince of W
 <bibl>
 <publisher>Times</publisher>, <date value="">August 5, 1914</date>
 </bibl> 
-</div2>
 
 
 <pb n="9"/>
@@ -321,7 +318,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 <l>Louder than thunder rolled along the breeze</l>
 <l rend="indent4">From surfless seas.</l></lg>
 
-<milestone type="break" rend="asterisk"><hi rend="center">* * *</hi>
+<milestone type="break" rend="asterisk"/><hi rend="center">* * *</hi>
 
 <lg>
 <l>The sun is dark as sackcloth and the seven</l>
@@ -334,7 +331,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 <byline>M JOURDAIN</byline>
 <bibl>
 <publisher>Westminster Gazette</publisher>, <date value="">August 6, 1914</date>
-</bibl>, 
+</bibl>
 </div2>
 
 
@@ -370,7 +367,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 <l>Thou wert their God no less than ours.</l></lg>
 
 <lg>
-<l>II</head>
+<head rend="center">II</head>
 <l>Yet is it well that men to-day</l>
 <l>Recrown their fathers' god of clay?</l>
 <l>Yet is it well that from his sleep</l>
@@ -443,7 +440,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="15"/>
-<div2 id="lane016" type="poem" n="">
+<div2 id="lane016" type="poem" n="The Answer">
 <head rend="center">THE ANSWER</head>
 <note>["...It would be a disgrace for us to make this bargain with Germany at the expense of France, a disgrace from which the good name of this country would never recover." -- S<hi rend="smallcaps">ir</hi> E<hi rend="smallcaps">dward</hi> G<hi rend="smallcaps">rey</hi> to S<hi rend="smallcaps">ir</hi> E. G<hi rend="smallcaps">oschen</hi>.]</note>
 
@@ -1020,7 +1017,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="46"/>
-<div2 id="lane027" type="poem" n="">
+<div2 id="lane027" type="poem" n="The Vindication">
 <head rend="center">THE VINDICATION</head>
 <note>[It is announced that all the Territorial battalions are already at full strength, and that Lord Kitchener's "second army" is now in course of formation.]</note>
 
@@ -1930,7 +1927,6 @@ The entire profits from the sale of this volume will be given to the Prince of W
 <pb n="85"/>
 <bibl>
 <publisher>Times</publisher>, <date value="August 28, 1914">August 28, 1914</date></bibl>
-</div2>
 
 
 <pb n="86"/>
@@ -1950,9 +1946,11 @@ The entire profits from the sale of this volume will be given to the Prince of W
 <l>Till sinks the sun on more than that sweet river,</l>
 <l>Perhaps upon our day goes down for ever.</l>
 <l>But though that orb may on an Empire set,</l>
-<l>Tomlinson lights another cigarette.</l>
-<l>STEPHEN PHILLIPS</l>
-<l>Daily Mail, August 30, 1914
+<l>Tomlinson lights another cigarette.</l></lg>
+<byline>STEPHEN PHILLIPS</byline>
+<bibl>
+<publisher>Daily Mail</publisher>, <date value="August 30,
+1914">August 30, 1914</date></bibl>
 </div2>
 
 
@@ -1984,7 +1982,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 <pb n="88"/>
 <div2 id="lane045" type="poem" n="To the Belgians">
 <head rend="center">TO THE BELGIANS</head>
-<l>FROM ENGLAND</l></lg>
+<head rend="center">FROM ENGLAND</head>
 
 <lg type="stanza">
 <l n="1">O <hi rend="smallcaps">men</hi> of mickle heart and little speech,</l>
@@ -2086,7 +2084,6 @@ The entire profits from the sale of this volume will be given to the Prince of W
 <pb n="94"/>
 <bibl>
 <publisher>Times</publisher>, <date value="September 2, 1914">September 2, 1914</date></bibl>
-</div2>
 
 
 <pb n="95"/>
@@ -2137,4 +2134,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 <bibl>
 <publisher>Times</publisher></bibl>
 </div2>
+
+</div1>
+</body>
 

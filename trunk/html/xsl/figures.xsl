@@ -17,7 +17,7 @@
   <table class="thumbnail"><tr><td>
     <xsl:element name="img">
 	<xsl:attribute name="class">thumbnail</xsl:attribute>
-	<xsl:attribute name="src">images/thumbnails/<xsl:value-of select="@entity"/>.jpg</xsl:attribute>
+	<xsl:attribute name="src">http://chaucer.library.emory.edu/wwi/images/thumbnails/<xsl:value-of select="@entity"/>.jpg</xsl:attribute>
     </xsl:element>
      <br/>
 	<xsl:value-of select="head"/>

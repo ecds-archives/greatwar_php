@@ -453,6 +453,7 @@
   Next poem: 
   <a>
     <xsl:attribute name="href">poetry/view.php?id=<xsl:value-of select="following-sibling::div2/@id"/></xsl:attribute>
+    <xsl:attribute name="rel">next</xsl:attribute>
     <xsl:value-of select="following-sibling::div2/@n"/>
   </a>
   <xsl:if test="following-sibling::div2/docAuthor">
@@ -468,6 +469,7 @@
   Previous poem: 
   <a>
     <xsl:attribute name="href">poetry/view.php?id=<xsl:value-of select="preceding-sibling::div2[1]/@id"/></xsl:attribute>
+    <xsl:attribute name="rel">prev</xsl:attribute>
     <xsl:value-of select="preceding-sibling::div2[1]/@n"/>
   </a> 
   <xsl:if test="preceding-sibling::div2/docAuthor">

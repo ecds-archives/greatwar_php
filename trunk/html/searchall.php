@@ -1,10 +1,10 @@
 <?php
-include("../config.php");	
+include("config.php");	
 
 print "<html>
   <head> 
     $csslink
-    <title>The Great War : Search All</title>
+    <title>The Great War : Keyword Search</title>
     <meta http-equiv='Content-Type' content='text/html; charset=iso-8859-1'>
     <base href='$base_url'>
   </head> 
@@ -12,24 +12,34 @@ print "<html>
 "; 
 
 include_once("lib/taminoConnection.class.php");
+include_once("lib/alinkCollection.class.php");
 include_once("lib/mybreadcrumb.php");
-$tamino = array();
-$args = array('host' => "vip.library.emory.edu",
-	      'db' => "WW1",
-	      'debug' => false,
-	      'coll' => 'postcards');
-$tamino["postcards"] = new taminoConnection($args);
-$args["coll"] = "poetry";
-$tamino["poetry"] = new taminoConnection($args);
 
-
-$dosearch = array("postcards", "poetry");
-$kw = $_GET["keyword"];			// term to search for
-$dosearch["poetry"] = $_GET["poetry"];		// databases to search
+$kw = $_GET["keyword"];			        // term to search for
+$dosearch["poetry"] = $_GET["poetry"];		// which searches to do
 $dosearch["postcards"] = $_GET["postcards"];
 $dosearch["links"] = $_GET["links"];
 
-$search = array("postcards", "poetry");
+// base settings used by all three searches
+$args = array('host' => $tamino_server,
+	      'db' => $tamino_db,
+	      'debug' => false);
+$search = array("postcards", "poetry", "links");
+foreach ($search as $s) {
+  $args["coll"] = $s;
+  if ($s == "links") {		// links needs a different arg & is a different object type
+    $args["keyword"] = $kw;
+    $db[$s] = new aLinkCollection($args);    
+  } else {
+    $db[$s] =  new taminoConnection($args);
+  }
+}
+
+// name of this page, and link back to current instance
+$self = "searchall.php";
+$selflink = "$self?keyword=$kw&poetry=" . $dosearch['poetry']. "&postcards=" . $dosearch['postcards'] . "&links=" . $dosearch['links'];
+
+// xqueries for postcards & poetry (links works differently)
 $query = $for = $return = $xsl_file =  $xsl_params = array();
 $declare = 'declare namespace tf="http://namespaces.softwareag.com/tamino/TaminoFunction" ';
 $for["postcards"] = 'for $a in input()/TEI.2/:text/body/p/figure ';
@@ -41,49 +51,52 @@ $return["poetry"] = ' return <div><div2> {$a/@type} {$a/@id} {$a/@n} {$a/byline}
 <linecount> { count($a//l) } </linecount> </div2><total> {count(' . $for["poetry"] . " $where return \$a)}</total></div> sort by (@n) ";  
 
 foreach ($search as $s) {
+  if ($s == "links") next;
   $query[$s] ="$declare " . $for[$s]  . " $where " . $return[$s];  
 }
-
 
 $xsl_file["postcards"] = "figures.xsl";
 $xsl_params["postcards"] = array("mode" => "thumbnail");
 $xsl_file["poetry"] = "poetry.xsl";
 $xsl_params["poetry"] = array("mode" => "search");
 
-
-include("header.html");  
+include("header.php");  
 print "<p class='breadcrumbs'>" . $breadcrumb->show_breadcrumb() . "</p>"; 
 
 print '<div class="content">'; 
 
-// need to add an option to use cursor... ?
+print "<p align='center'>Results for keyword <span class='term1'>$kw</span><ul class='horiz'>";
 
+$first = true;
 foreach ($search as $s) {
   if ($dosearch[$s] == "on") {
-    $rval = $tamino[$s]->xquery($query[$s]); 
-    if ($rval) {       // tamino Error code (0 = success) 
-      print "<p>Error: failed to retrieve contents.<br>";
-      print "(Tamino error code $rval)</p>";
-      exit();
-    }
-    $tamino[$s]->getXQueryCursor();
-    print "<p>Found " . $tamino[$s]->count . " matches in $s</p>";
+    if ($s != "links" ) { $db[$s]->xquery($query[$s]); }
+    $li = "<li class='horiz'";
+    if ($first) { $li .= " id='first' "; $first = false; }
+    $li .= ">";
+    print "$li<a href='$selflink#$s'>" . ucfirst($s) . "</a>: " . $db[$s]->count . "</a> match";
+    if ($db[$s]->count != 1) { print "es"; }
+    print "</li>";
   }
 }
- 
+print "</ul></p>";
+
 foreach ($search as $s) {
-  if ($dosearch[$s] == "on") {
-    print "<hr class='floatright'><p>$s</p>";
-    $tamino[$s]->xslTransform($xsl_file[$s], $xsl_params[$s]); 
-    $tamino[$s]->printResult(array($kw));
+  if (($dosearch[$s] == "on") && ($db[$s]->count > 0)) {
+    print "<hr class='floatright'><p><a name='$s'>" . ucfirst($s) . "</a></p>";
+    if ($s == "links") {
+      $db[$s]->printSummary();
+    } else {
+      $db[$s]->xslTransform($xsl_file[$s], $xsl_params[$s]); 
+      $db[$s]->printResult(array($kw));
+    }
   }
 } 
 
- 
 print '</div>';
 
 print '<div class="sidebar">';
-include("searchbox.html");
+include("searchbox.php");
 print '</div>';
 include("footer.html");
 

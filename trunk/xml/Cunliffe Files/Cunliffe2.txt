@@ -1,0 +1,319 @@
+<pb n="15"/>
+<div2 id="cunliffe007" type="poem" n="Neutral?">
+<head rend="center">NEUTRAL?</head>
+<head rend="center">T<hi rend="smallcaps">o the</hi> H<hi rend="smallcaps">umanity of</hi> A<hi rend="smallcaps">merica</hi></head>
+
+<lg type="stanza">
+<l n="1">W<hi rend="smallcaps">hen</hi> men are told in years ahead</l>
+<l rend="indent">How Fury forced the Belgian door</l>
+<l>And ravished maids, struck children dead,</l>
+<l rend="indent">And fired the houses of the poor,</l>
+<l>Will none, if still that nation lives</l>
+<l rend="indent">Our sires with blood and sweat begat,</l>
+<l>Ask with the pride your greatness gives,</l>
+<l rend="indent">"What said America to that?"</l></lg>
+
+<lg>
+<l>Your children -- taught how Belgium stood</l>
+<l rend="indent">In flames that once were called Louvain,</l>
+<l>And dashing from her eyes the blood</l>
+<l rend="indent">Struck at her foe and struck again --</l>
+<l>Shall feel their hearts within them burn</l>
+<l rend="indent">To know that righteous word you said;</l>
+<l>God! When the silent truth they learn,</l>
+<l rend="indent">Surely your sons will hang the head.</l></lg>
+
+<lg>
+<l>We ask not that of all your hosts</l>
+<l rend="indent">One man, one sword be sacrificed:</l>
+<l>Your cousins guard these ancient coasts,</l>
+<l rend="indent">Your kinsmen charge this Antichrist:</l>
+<pb n="16"/>
+<l>But we expect your mighty voice</l>
+<l rend="indent">With judgment through the world to run,</l>
+<l>O land of freedom, make your choice,</l>
+<l rend="indent">Are you for Belgium or the Hun?</l></lg>
+
+<lg>
+<l>We ask not that your shells should shriek</l>
+<l rend="indent">Above the flaming hills we climb,</l>
+<l>But speak, O sons of Lincoln, speak!</l>
+<l rend="indent">Silence in such an hour is crime.</l>
+<l>Your children judge you if you stand</l>
+<l rend="indent">In hearing of the Belgian cry,</l>
+<l>Not only with the folded hand,</l>
+<l rend="indent">But with the cold, averted eye!</l></lg>
+
+<lg>
+<l>The soul has got its piercing steel,</l>
+<l rend="indent">The heart its fierce consuming fire,</l>
+<l>Oh, make your voice like thunder peal,</l>
+<l rend="indent">All nations of the earth inspire!</l>
+<l>We know your heart for Belgium bleeds,</l>
+<l rend="indent">But speak your soul, declare your mind,</l>
+<l>Speak till the sin-red tyrant heeds</l>
+<l rend="indent">The voice of God and all mankind.</l></lg>
+<byline>-- Harold Begbie.</byline>
+</div2>
+
+<pb n="17"/>
+<div2 id="cunliffe008" type="poem" n="The Red Country">
+<head rend="center">THE RED COUNTRY</head>
+
+<lg type="stanza">
+<l n="1">I<hi rend="smallcaps">n</hi> the red country</head>
+<head rend="center">The sky flowers</l>
+<l>All day.</l>
+<l>Strange mechanical birds</l>
+<l>With struts of wire and glazed wings</l>
+<l>Cross the impassive sky</l>
+<l>Which burgeons ever and again</l>
+<l>With ephemeral unfolding flowers,</l>
+<l>White and yellow and brown,</l>
+<l>That spread and dissolve.</l>
+<l>And smaller rapid droning birds go by,</l>
+<l>And bright metallic bees whose sting is death.</l></lg>
+
+<lg>
+<l>Behind the hills,</l>
+<l>Behind the whispering woods whose leaves are falling</l>
+<l>Yellow and red to cover the red clay,</l>
+<l>Misshapen monsters squat with wide black maws</l>
+<l>Gulping smoke and belching flame.</l>
+<l>From the mirk reed beds of the age of coal,</l>
+<l>Wallowing out of their sleep in the earlier slime,</l>
+<l>They are resurrected and stagger forth to slay --</l>
+<l>The prehistoric Beasts we thought were dead.</l></lg>
+
+<lg>
+<pb n="18"/>
+<l>They are blinded with long sleep,</l>
+<l>But men with clever weapons</l>
+<l>Goad them to fresh pastures.</l>
+<l>Beside still waters</l>
+<l>They drink of blood and neigh a horrible laughter,</l>
+<l>And their ponderous tread shakes happy cities down,</l>
+<l>And the thresh of their flail-like tails</l>
+<l>Makes acres smoulder and smoke</l>
+<l>Blackened of golden harvest.</l></lg>
+
+<lg>
+<l>The Beasts are back,</l>
+<l>And men, in their spreading shadow,</l>
+<l>Inhale the odor of their nauseous breath.</l>
+<l>Inebriate with it they fashion other gods</l>
+<l>Than the gods of day-dream.</l>
+<l>Of iron and steel are little images</l>
+<l>Made of the Beasts.</l>
+<l>And men rush forth and fling themselves for ritual</l>
+<l>Before these gods, before the lumbering Beasts, --</l>
+<l>And some make long obeisance.</l></lg>
+
+<lg>
+<l>Umber and violet flowers of the sky,</l>
+<l>The sun, like a blazing Mars, clanks across the blue</l>
+<l>And plucks you, to fashion into a nosegay</l>
+<l>To offer Venus, his old-time paramour.</l>
+<l>But now she shrinks</l>
+<pb n="19"/>
+<l>And pales</l>
+<l>Like Cynthia, her more ascetic sister...</l>
+<l>Vulcan came to her arms in the grimy garb</l>
+<l>Of toil, he smelt of the forge and the racketing workshop,</l>
+<l>But not of blood.</l>
+<l>And, if she smells these flowers, they bubble ruby blood</l>
+<l>That trickles between her fingers.</l></lg>
+
+<lg>
+<l>Yet is a dream flowing over the red country,</l>
+<l>Yet is a light growing, for all the black furrows of the red country...</l>
+<l>The machines are foe or friend</l>
+<l>As the world desires.</l>
+<l>The Beasts shall sleep again.</l>
+<l>And in that sleep, when the land is twilight-still</l>
+<l>And men take thought among the frozen waves of the dead,</l>
+<l>The Sowers go forth once more,</l>
+<l>Sowers of vision, sowers of the seed</l>
+<l>Of peace or war.</l>
+<l>Shall it be peace indeed?</l>
+<l>Great shadowy figures moving from hill to hill</l>
+<l>Of tangled bodies, with rhythmic stride and cowled averted head,</l>
+<l>What do you sow with hands funereal --</l>
+<l>New savageries imperial,</l>
+<pb n="20"/>
+<l>Unthinking pomps for arrogant, witless men?</l>
+<l>Or seed for the people in strong democracy?</l>
+<l>What do you see</l>
+<l>With your secret eyes, and sow for us, that we must reap again?</l></lg>
+<byline>-- William Rose Ben&eacute;t.</byline>
+</div2>
+
+
+<pb n="21"/>
+<xptr doc="clarke.xml" from="clarke145"/>
+<pb n="22"/>
+
+
+<pb n="23"/>
+<div2 id="cunliffe009" type="poem" n="">
+<head rend="center">A BALLAD OF DEATHLESS DONS</head>
+<head rend="center">OR:</head>
+<head rend="center">"WHEN THE ASSAULT WAS INTENDED TO THE CITY"</head>
+<note>
+<l>(In honor of an Oxford Corps composed of those con-</l>
+<l>cerning whom it may be said most truly, in Mr. Belloc's</l>
+<l>words, that they are</l>
+<quote>
+<l>"Dons admirable! Dons of Might!...</l>
+<l>Dons English, worthy of the land.")</l>
+</quote>
+</note>
+
+<lg type="stanza">
+<head rend="center">I</head>
+<l n="1">T<hi rend="smallcaps">he</hi> Regulars fight with all their might, the Navy keeps the seas,</l>
+<l>The Terrier<ref target="cunliffe009n1">1</ref> <note id="cunliffe009n1" place="foot" n="1">
+<l>Obsolete word signifying a mere voluntary fighter unfit</l>
+<l>even for adequate defence purposes.</note>
+sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
+<l>K's keen recruit is learning to shoot, the Boy Scout scouteth still, --</l>
+<l>And after them all, the dons, the dons! -the ag&egrave;d dons do drill!</l></lg>
+
+
+<lg>
+<pb n="24"/>
+<l>They know, they know how well things go on the Merton fields of France;</l>
+<l>But the S.C.R.'s must be fields of Mars -- they dare leave nought to chance;</l>
+<l>"Louvain!" is the word, and their souls are stirred; for they think of their matchless tuns,</l>
+<l>And the ground shall be dusted ere Oxford's crusted port shall be broached by Huns.</l></lg>
+
+<lg>
+<head rend="center">II</head>
+<l>The proud Professors toe the line</l>
+<l>And turn to the left for right incline.</l>
+<l>Forgot, forgot are their divers lores</l>
+<l>In the patriot stress of forming fours.</l>
+<l>Their mortar-boards are a hive for bees</l>
+<l>(Which they often were) as they stand at ease.</l>
+<l>Though every morn they are wisdom's fount</l>
+<l>In matters which nowadays hardly count,</l>
+<l>Each afternoon each neophyte</l>
+<l>Gets totally mixed between left and right</l>
+<l>(And a don at maths. and a logic don</l>
+<l>Turn each to each and are pounced upon).</l>
+<l>At the terrible voice of the tu -- the sergeant</l>
+<l>Their gills go gules and their locks more argent.</l>
+<l>And still as the breath comes short, and the knees</l>
+<l>Wobble in places, and many a wheeze</l>
+<l>Is torn from the depth of complaining tums,</l>
+<l>Down the weak line the whisper comes:</l>
+<pb n="25"/>
+<l>"<hi rend="italic">Memento</hi> Louvain!" -- or "Rheims, &mu;&#x03AD;&mu;&nu;&eta;&sigma;&theta;&epsilon;!"</l>
+<l>"Oxford!" they cry, "shall beer-swillers fleece thee?"</l>
+<l>And still -- though their breath comes yet more short --</l>
+<l>They drill like mad to preserve her port.</l></lg>
+
+<lg>
+<head rend="center">III</head>
+<l>See, in the foremost rank,</l>
+<l>His brow with <hi rend="italic">sudor</hi> dank,</l>
+<l>His gown unpipeclayed in his loyal hurry,</l>
+<l>Private Professor G<hi rend="smallcaps">ilbert</hi> M<hi rend="smallcaps">urray</hi>! --</l>
+<l>Hear, oh, hear,</l>
+<l>With almost swooning ear,</l>
+<l>The sergeant (Chiron in disguise),</l>
+<l>With how sarcastic drawl he</l>
+<l>Damneth the eyes</l>
+<l>Of Private Prof. Eng. Lit. S<hi rend="smallcaps">ir</hi> W<hi rend="smallcaps">alter</hi> R<hi rend="smallcaps">aleigh</hi>! --</l>
+<l>See yet again</l>
+<l>With uncontroll&egrave;d pleasure</l>
+<l>There, marking time amain</l>
+<l>As with such feet as make a lyric measure,</l>
+<l>Like &Aelig;schylus upon the Marathon day, --</l>
+<l>Next to that nice ex-proctor, --</l>
+<l>Private and Poet Laureate D<hi rend="smallcaps">r</hi>.</l>
+<l>B<hi rend="smallcaps">ridges</hi>, M.A.! --</l>
+<l>And see -- but let your eyes with pride be dim! --</l>
+<l>Him who professes Art and Arch&aelig;ology</l>
+<l>Standing as rear-rank man to him</l>
+<l>Of Anthropology.</l>
+<pb n="26"/>
+<l>(Well knows the latter how to dodge,</l>
+<l>That bullets in no deadly place may lodge!) --</l>
+<l>Him of Eng. Law behold,</l>
+<l>Not overbold</l>
+<l>To reason why when sergeants bid him charge:</l>
+<l>Him of Greek History, him of Geography,</l>
+<l>All very fine and large,</l>
+<l>This, swift to seize advantage of topography,</l>
+<l>That, to announce how ne'er a corps did train</l>
+<l>So well since Sparta went upon the wane.</l>
+<l>And there be others:</l>
+<l>A publisher and sundry heads of houses,</l>
+<l>Spurred by North Oxford spouses,</l>
+<l>Bidden go forth by yet more ag&egrave;d mothers;</l>
+<l>And, standing desperately at attention</l>
+<l>(But looking forward to their tea and scones),</l>
+<l>Innumerable dons</l>
+<l>And parsons beyond mention.</l></lg>
+
+<lg>
+<head rend="center">IV</head>
+<l>They are not afraid of the Boys' Brigade, for they've taken the kiddies' guns,</l>
+<l>Which shoot nohow -- but they've learnt by now to depend on the end that stuns.</l>
+<l>And all the rules of the Final Schools combine in a splendid spur,</l>
+<l>When the Pyrrhic phalanx does right-about-turn and the order is "As you were!"</l>
+<pb n="27"/>
+<l rend="italic">Oh, K's recruit is learning to shoot, the Boy Scout scouteth still, --</l>
+<l rend="italic">But after them all, the dons, the dons! -- the deathless dons do drill!</l>
+<l rend="italic">"Louvain!" is the word, and their souls are stirred; for they think of their matchless tuns,</l>
+<l rend="italic">And the ground shall be dusted ere Oxford's crusted port shall be broached by Huns!</l></lg>
+<byline>-- Wilfrid Blair.</byline>
+</div2>
+
+<pb n="28"/>
+<div2 id="cunliffe010" type="poem" n="Any Friend to Any Friend">
+<head rend="center">"ANY FRIEND TO ANY FRIEND"</head>
+
+<lg type="stanza">
+<l n="1">E<hi rend="smallcaps">v'n</hi> as I thought of you your soul had sped,</head>
+<head rend="center">Friend of old, happy, far-off boyhood days,</l>
+<l>And, as across the sea I turned my gaze,</l>
+<l>The soil of France with your brave blood was red!</l>
+<l>Blame not the shears that slit the thin yarn thread.</l>
+<l>Though life be lost, immortal is the praise!</l>
+<l>Would I were with you crowned with victory's bays,</l>
+<l>O Happy Warrior 'midst our English dead!</l></lg>
+
+<lg>
+<l>Yea! God of Battles, what a time to die!</l>
+<l>Thy Courts are echoing to the tuck of drum,</l>
+<l>The wide days flame with comet souls that fly</l>
+<l>Triumphant, at a bound, from Earth to Heaven,</l>
+<l>The nights ablaze, with their white passage riven,</l>
+<l>As, trailing clouds of glory, swift they come.</l></lg>
+<byline>-- H. W. Bliss.</byline>
+</div2>
+
+<pb n="29"/>
+<div2 id="cunliffe011" type="poem" n="The Camp-Follower">
+<head rend="center">THE CAMP-FOLLOWER</head>
+
+<lg type="stanza">
+<l n="1">W<hi rend="smallcaps">e</hi> spoke, the camp-follower and I.</l>
+<l>About us was a cold, pungent odor --</l>
+<l>Gun-powder, stale wine, wet earth, and the smell of thousands of men.</l>
+<l>She said it reminded her of the scent</l>
+<l>In the house of prostitutes she had lived in.</l>
+<l>About us were soldiers -- hordes of scarlet women, stupidly, smilingly giving up their bodies</l>
+<l>To a putrid-lipped, chuckling lover -- Death;</l>
+<l>While their mistress in tinsel whipped them on....</l>
+<l>She spoke of a woman she had known in Odessa,</l>
+<l>Owner of a huge band of girls,</l>
+<l>Who had pocketed their earnings for years,</l>
+<l>Only to be used, swindled and killed by some nobleman....</l>
+<l>She said she thought of this grinning woman</l>
+<l>Whenever she saw an officer brought back from battle, dead....</l>
+<l>And I sat beside her and wondered.</l></lg>
+<byline>-- Maxwell Bodenheim.</byline>
+</div2>

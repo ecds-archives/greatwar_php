@@ -27,16 +27,10 @@ return $a';
 $cat_xsl = "interp.xsl";
 $cat_params = array("mode" => "form");
 
-$rval = $tamino->xquery($cat_query);
-if ($rval) {       // tamino Error code (0 = success)
-  print "<p>Error: failed to retrieve contents.<br>";
-  print "(Tamino error code $rval)</p>";
-  exit();
-}
+$tamino->xquery($cat_query);
 $tamino->xslTransform($cat_xsl, $cat_params);
 
-
-include("header.html");
+include("header.php");
 
 print "<p class='breadcrumbs'>" . $breadcrumb->show_breadcrumb();
 
@@ -61,7 +55,7 @@ print '</div>';
 
 print '<div class="sidebar">';
 include("postcards/nav.html");
-include("searchbox.html");
+include("searchbox.php");
 print '</div>';
 
 include("footer.html");

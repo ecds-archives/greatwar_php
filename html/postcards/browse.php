@@ -58,15 +58,7 @@ $query = "$declare $for $let $where $return ";
 
 $xsl_file = "figures.xsl";
 
-// need to add an option to use cursor... 
-$rval = $tamino->xquery($query, $pos, $maxdisplay); 
-if ($rval) {       // tamino Error code (0 = success) 
-  print "<p>Error: failed to retrieve contents.<br>";
-  print "(Tamino error code $rval)</p>";
-  exit();
-}
-$tamino->getXQueryCursor();
-
+$tamino->xquery($query, $pos, $maxdisplay); 
 
 // xquery & xsl for category labels 
 $cat_query = 'for $a in input()/TEI.2/:text/back/:div//interpGrp 
@@ -81,22 +73,20 @@ if ($desc == "yes") { print " with descriptions"; }
 print ")</p>";
 
 
-/*
-print '<p class="breadcrumbs"> 
-<a href="index.html">Home</a> &gt; <a href="postcards/">Postcards</a> 
-	  &gt; Browse &gt; Thumbnails  
-</p>';
-*/
-
+// display options : show/hide descriptions
 print "<p>";
 if ($desc == 'yes') {
   print "<a href='postcards/browse.php?desc=no&cat=$cat&max=$maxdisplay'>Hide descriptions</a>";
 } else {
   print "<a href='postcards/browse.php?desc=yes&cat=$cat&max=$maxdisplay'>Show descriptions</a>";
 }
+// if a category is selected, give option to revert to all
 if ($cat) { print " | <a href='postcards/browse.php?desc=$desc&max=$maxdisplay'>View all</a>"; }
 print "</p>";
 
+// FIXME: add a special case for count = 1 ?
+// FIXME: add a case for count = 0 -> no matches
+if ($tamino->count > 0) {
 
 print "<table class='maxdisplay'><tr><td>Postcards per page:
 <form action='postcards/browse.php'>
@@ -110,35 +100,37 @@ print "</select>
 <input type='hidden' name='cat' value='$cat'>
 <input type='submit' value='Go'>
 </form>";
-
 print "</td></tr></table>";
-
 
 print "<p>Displaying postcards " . $tamino->position . " - " . ($tamino->quantity + $tamino->position - 1) . " of " . $tamino->count . "</p>";
 
 // links to more results
 if ($tamino->count > $maxdisplay) {
   $result_links .= 'More postcards:';
+  $first = true;
   for ($i = 1; $i <= $tamino->count; $i += $maxdisplay) {
-    if ($i == $pos) { next; }	// skip current set of results
-    else {
       // construct the url, maintaining all parameters
       $url = "postcards/browse.php?max=$maxdisplay";
       if ($desc) { $url .= "&desc=$desc"; }
       if ($cat) { $url .= "&cat=$cat"; }
       // now add the key piece: the new position
       $url .= "&position=$i";
-      $result_links .= " <a href='$url'>";
+      $li = "<li class='horiz' ";
+      if ($first) { $li .= "id='first'"; $first = false;}
+      $li .= ">";
+      $result_links .= "$li";
+      if ($i != $pos) { $result_links .= "<a href='$url'>"; }	// link all but current set
       $j = min($tamino->count, ($i + $maxdisplay - 1));
       // special case-- last set only has one result
       if ($i == $j) { $result_links .= "$i"; }
       else { $result_links .= "$i - $j"; }
-      $result_links .= "</a> ";
-    }
+      if ($i != $pos) { $result_links .= "</a>"; }
+      $result_links .= "</li>";
   }
 }
 
 print $result_links;
+ 
 
 print '<div class="content">'; 
 
@@ -146,19 +138,16 @@ $tamino->xslTransform($xsl_file, $xsl_params);
 //$tamino->xslTransform($xsl_file);
 $tamino->printResult();
 
+}  // end if tamino->count > 0
+ 
 print '</div>';
 
 print '<div class="sidebar">';
 include("postcards/nav.html");
-include("searchbox.html");
+include("searchbox.php");
 
 print '<div class="categories">';
-$rval = $tamino->xquery($cat_query);
-if ($rval) {       // tamino Error code (0 = success)
-  print "<p>Error: failed to retrieve contents.<br>";
-  print "(Tamino error code $rval)</p>";
-  exit();
-}
+$tamino->xquery($cat_query);
 $tamino->xslTransform($cat_xsl, $cat_params);
 $tamino->printResult();
 

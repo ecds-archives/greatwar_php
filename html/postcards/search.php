@@ -72,26 +72,12 @@ $xsl_file = "figures.xsl";
 
 
 $maxdisplay = 10;
-$rval = $tamino->xquery($query, $pos, $maxdisplay); 
-if ($rval) {       // tamino Error code (0 = success) 
-  print "<p>Error: failed to retrieve contents.<br>";
-  print "(Tamino error code $rval)</p>";
-  exit();
-}
-$tamino->getXQueryCursor();
-
+$tamino->xquery($query, $pos, $maxdisplay); 
 
 include("header.php");
 
 print "<p class='breadcrumbs'>" . $breadcrumb->show_breadcrumb() . "</p>";
 
-
-/*
-print '<p class="breadcrumbs"> 
-<a href="index.html">Home</a> &gt; <a href="postcards/">Postcards</a> 
-	  &gt; Browse &gt; Thumbnails  
-</p>';
-*/
 
 print "<p>Displaying postcard";
 ($tamino->quantity > 1) ? print "s " : print " ";
@@ -136,7 +122,7 @@ print '</div>';
 
 print '<div class="sidebar">';
 include("nav.html");
-include("searchbox.html");
+include("searchbox.php");
 print '</div>';
 
 include("footer.html");

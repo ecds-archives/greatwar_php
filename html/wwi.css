@@ -9,6 +9,15 @@ a:active  { color: #444444; }
 a:visited { color: #b52512; }
 a:hover   { background-color: #ededed; }
 
+p.admin { background-color: #efefef; width: 144px; text-align: left; margin: 5px;}
+p.admin a,a.comment { font-size: 80%; } 
+p.admin a:link { color: #996633;}
+p.admin a:visited { color: #cc6600;}
+p.admin a:hover { background-color: #ffffff;}
+
+p.login { background-color: #efefef; font-size: 80%; text-align: right; float: right; margin-top: -20px;}
+
+
 td { text-align: center; vertical-align: top;}
 
 /* don't do background highlighting for linked images */
@@ -19,6 +28,7 @@ img { border-style: none; }
 p.breadcrumbs { font-size: 80%; }
 
 p.figure-text { padding: 5px; margin-left: 15px; font-size: 90%; }
+font.count { color: #2f2f2f; padding-left: 5px; font-size: 80%;vertical-align: middle;}
 
 div.content {	position: relative; 
 		margin-right: 215px;
@@ -130,6 +140,7 @@ div.footer { position: fixed;
 div.footer a { color: #FFCC00; font-size: 85%; }
 div.footer a:active { color: #FFFFFF; }
 div.footer p.links { background-color: #666666; text-align: center; margin-bottom: -5px; margin-top: 0;}
+div.footer table { background-color: #666666; text-align: center; margin-bottom: -5px; margin-top: 0; width: 100%; padding-left: 20%; padding-right: 20%; }
 div.footer p.copy { font-size: 65%; text-align: center; margin-bottom:
 2px; margin-top: 5px; }
 
@@ -179,8 +190,7 @@ table.searchform th.label { text-align: center; vertical-align: top;}
 table.searchform td { text-align: left; vertical-align: middle; background-color: #e9e9e9; padding: 5px;}
 
 /* poetry - contents of single volume */
-font.type { color: #b9b9b9; padding-left: 10px; font-size: 80%;
-vertical-align: middle;}
+font.type { color: #b9b9b9; padding-left: 10px; font-size: 80%;vertical-align: middle;}
 p.copyright { color: #666666; margin-top: 25px; border-top: double;
 padding: 5px; }
 table.poem { margin: 25px; }
@@ -228,11 +238,15 @@ table.figDesc { border: none; width: 100%; font-size: 90%; padding-bottom: 0;}
 table.figDesc td { text-align: left; background-color: #e9e9e9; padding:
 5px;}
 table.figDesc th { text-align: center; padding: 5px; border-bottom: double;}
+table.figDesc td.input { font-size: 75%; text-align: center; }
 
 /* table for figure comment (admin section) */
 table.comment { border: none; width: 100%; font-size: 90%; padding-bottom: 0;}
 table.comment td { text-align: left; background-color: #ffffff; padding: 5px;}
 table.comment th { text-align: right; padding: 5px; border: none; vertical-align: top;}
+
+p.comment { font-size: 90%; margin-left: 0.5cm; }
+p.comment span.byline { font-style: italic; font-size: 90%; color: #666666; }
 
 span.smallcaps { font-variant: small-caps; }
 

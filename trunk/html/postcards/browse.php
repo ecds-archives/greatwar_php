@@ -13,44 +13,56 @@ chdir("..");
 include_once("lib/taminoConnection.class.php");
 $args = array('host' => "vip.library.emory.edu",
 	      'db' => "WW1",
-	      'debug' => false,
+	      'debug' => true,
 	      'coll' => 'postcards');
 $tamino = new taminoConnection($args);
 
-// optionally limit postcards by category
-$cat = $_GET["cat"];
+$cat = $_GET["cat"];		// optionally limit postcards by category
+$desc = $_GET["desc"];
 
+($desc == "yes") ? $mode = "thumbdesc" : $mode = "thumbnail";
+$xsl_params = array("mode" => $mode);
+
+/*
 $query ='declare namespace tf="http://namespaces.softwareag.com/tamino/TaminoFunction"
-for $a in input()/TEI.2/:text/body/p/figure ';
-if ($cat) { $query .= "where tf:containsText(\$a/@ana, '$cat') "; }
+for $a in input()/TEI.2/:text/body/p/figure '; 
+if ($cat) { $query .= "where tf:containsText(\$a/@ana, '$cat') "; } 
 $query .= 'return $a';
-$xsl_file = "figures.xsl";
+*/
 
-// xquery & xsl for category labels
-$cat_query = 'for $a in input()/TEI.2/:text/back/:div//interpGrp
-return $a';
-$cat_xsl = "interp.xsl";
-
-include("header.html");
-
-
-print '<p class="breadcrumbs">
-<a href="index.html">Home</a> &gt; <a href="postcards/">Postcards</a>
-	  &gt; Browse &gt; Thumbnails 
-</p>';
+$query ='declare namespace tf="http://namespaces.softwareag.com/tamino/TaminoFunction"';
+$query .= '<div> { for $a in input()/TEI.2/:text/body/p/figure ';   
+if ($cat) { $query .= "where tf:containsText(\$a/@ana, '$cat') "; }    
+$query .= 'return $a } ';
+$query .= '{ for $b in input()/TEI.2/:text/back/:div//interpGrp return $b }</div>'; 
 
 
-print '<div class="content">';
+// xquery & xsl for category labels 
+$cat_query = 'for $a in input()/TEI.2/:text/back/:div//interpGrp 
+return $a'; 
+$cat_xsl = "interp.xsl"; 
 
-// need to add an option to use cursor...
-$rval = $tamino->xquery($query);
-if ($rval) {       // tamino Error code (0 = success)
+include("header.html"); 
+
+
+print '<p class="breadcrumbs"> 
+<a href="index.html">Home</a> &gt; <a href="postcards/">Postcards</a> 
+	  &gt; Browse &gt; Thumbnails  
+</p>';  
+
+
+print '<div class="content">'; 
+
+// need to add an option to use cursor... 
+$rval = $tamino->xquery($query); 
+if ($rval) {       // tamino Error code (0 = success) 
   print "<p>Error: failed to retrieve contents.<br>";
   print "(Tamino error code $rval)</p>";
   exit();
 }
 
-$tamino->xslTransform($xsl_file);
+$tamino->xslTransform($xsl_file, $xsl_params); 
+//$tamino->xslTransform($xsl_file);
 $tamino->printResult();
 
 print '</div>';

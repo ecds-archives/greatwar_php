@@ -22,7 +22,8 @@ div.content {	position: relative;
 	    }
 
 table.thumbnail { display:inline; font-size: 70%; }
-td.title  {text-align: center; vertical-align: top; width: 25; height: 20; }
+td.title  { text-align: center; vertical-align: top; width: 25; height: 20; }
+td.description  { text-align: left; vertical-align: top; padding-top: 5; }
 
 img.thumbnail { text-align: center; vertical-align: middle; padding: 10; }
 

@@ -595,7 +595,7 @@ org="uniform" part="N" sample="complete" type="poem">
                   <hi TEIform="hi" rend="italic">Westminster Gazette</hi>
                </trailer>
             </div2>
-            <div2 TEIform="div2" id="lest15" n="War" org="uniform" part="N" sample="complete" type="poem"><docAuthor n="Tollemache, Grace B.">Grace B. Tollemache</docAuthor>
+            <div2 TEIform="div2" id="lest15" n="War" org="uniform" part="N" sample="complete" type="poem"><docAuthor n="Tollemache, Grace E.">Grace B. Tollemache</docAuthor>
                <pb TEIform="pb" n="130 LEST WE FORGET"/>
                <head TEIform="head" rend="center">WAR.</head>
                <lg TEIform="lg" org="uniform" part="N" sample="complete" type="stanza">

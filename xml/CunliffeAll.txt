@@ -2098,7 +2098,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">"I HAVE NO RING"</head>
 
 <lg type="stanza">
-<l n="1">I w<hi rend="smallcaps">atch</hi> and listen with a dreadful fear,</l>
+<l n="1">I <hi rend="smallcaps">watch</hi> and listen with a dreadful fear,</l>
 <l>I wait and long and tremble in a breath;</l>
 <l>Though he is gone to fight, yet is he near;</l>
 <l>I have him always though he meet with Death:</l>
@@ -2863,4 +2863,1303 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <byline>-- Nizamat Jung.</byline>
 <note rend="center">(Native Judge of the High Court of Hyderabad.)</note>
 
-051 p. 141
+
+<pb n="142"/>
+<div2 id="cunliffe052" type="poem" n="The Nations' David">
+<head rend="center">THE NATIONS' DAVID</head>
+
+<lg type="stanza">
+<l n="1">E<hi rend="smallcaps">rect</hi> before Hell's hurricane, between the Germans and the sea,</l>
+<l>Belgium, still smiling through your pain; still, in the hour of ruin, free;</l>
+<l>While yet the cannon's note resounds along each poplar-bordered way,</l>
+<l>O, bleeding Belgium, to your wounds what mankind owes what man may say?</l></lg>
+
+<lg>
+<l>Long years, while battle came and went afar at Fate's malign caprice,</l>
+<l>Your kindly folk, serene, content, pursued the pleasant ways of peace.</l>
+<l>They promised, all the mighty ones: "In that calm land shall not be heard</l>
+<l>The thunder of our angry guns" -- Kaiser and King, they pledged their word.</l></lg>
+
+<lg>
+<l>And then, unwarning, arrogant, the cut-throat liar of Berlin</l>
+<l>Tore into shreds his covenant: his arm&egrave;d hosts were swarming in</l>
+<pb n="143"/>
+<l>From Prussian beer-halls, Rhinish hills, from Aurich east to Gumbinnen,</l>
+<l>From Rostock down to stolen Silz, sounded the tramp of Krupp-made men.</l></lg>
+
+<lg>
+<l>This was your guardian brother's gift, the choice he gave his little ward:</l>
+<l>Betrayal of France (the course of thrift) or (Honor's course) the crimsoned sword.</l>
+<l>And you, the Nations' David, chose, while all the world stood trembling by;</l>
+<l>You called your sons, and they arose: "Come forth to die! Come forth to die!"</l></lg>
+
+<lg>
+<l>Your weaver stopped his whirring loom; as C&aelig;sar met him, even so now</l>
+<l>Your farmer hurried to his doom, and in its furrow left the plough;</l>
+<l>And Flanders, Hainault, Brabant came, Antwerp and Limburg -- all the land:</l>
+<l>The nameless and the proud of name, shoulder to shoulder, hand in hand.</l></lg>
+
+<lg>
+<l>Not for adventure, nor in pride: with naught to gain and all to lose --</l>
+<l>Their homes, their wives, their lives beside -- true sons of you, they, too, could choose.</l>
+<pb n="144"/>
+<l>They came, with eyes that looked on death; not driven slaves, but conscious men:</l>
+<l>The Brugan burgher scant of breath, the lean-limbed hunter of Ardennes.</l></lg>
+
+<lg>
+<l>Their part it was to hold the gate, the narrow gate, against a foe</l>
+<l>Outnumbering scores to one -- to wait till Death alone should bid them go.</l>
+<l>And how they held it! Man and child; about Li&egrave;ge where Leman fed</l>
+<l>Blood-hungry Prussians blood and piled the meadows with heroic dead;</l></lg>
+
+<lg>
+<l>While village after village fell, cottage and church engulfed in smoke;</l>
+<l>While all the land became a Hell and served to turn a Teuton joke;</l>
+<l>While Belgian women prayed in vain for German mercy, trusting, fond;</l>
+<l>While German "Culture" burned Louvain, and German tenderness Termonde:</l></lg>
+
+<lg>
+<l>You did it, Little Belgium -- you! You stopped the dyke with half your sons;</l>
+<l>You did what no one else could do against the Vandals and the Huns!</l>
+<pb n="145"/>
+<l>The eternal future in your debt from now until Man's latest day,</l>
+<l>How can the wondering world forget -- and how, remembering, repay?</l></lg>
+
+<lg>
+<l>France, Britain, Russia: they have fought as fits the vast initiate;</l>
+<l>You, all unready, but unbought, till they were marshalled, held the gate.</l>
+<l>Above all clamour and applause, you stand, whatever else befall,</l>
+<l>God's David in Mankind's high cause: Belgium, the bravest of them all!</l></lg>
+<byline>-- Reginald Wright Kauffman.</byline>
+</div2>
+
+<pb n="146"/>
+<xptr doc="Clarke.xml" from="clarke087"/>
+<pb n="147"/>
+<pb n="148"/>
+<pb n="149"/>
+<pb n="150"/>
+
+
+<pb n="151"/>
+<div2 id="cunliffe053" type="poem" n="The White Ships and the Red">
+<head rend="center">THE WHITE SHIPS AND THE RED</head>
+
+<lg type="stanza">
+<l n="1">W<hi rend="smallcaps">ith</hi> drooping sail and pennant</l>
+<l rend="indent">That never a wind may reach,</l>
+<l>They float in sunless waters</l>
+<l rend="indent">Beside a sunless beach.</l>
+<l>Their mighty masts and funnels</l>
+<l rend="indent">Are white as driven snow,</l>
+<l>And with a pallid radiance</l>
+<l rend="indent">Their ghostly bulwarks glow.</l></lg>
+
+<lg>
+<l>Here is a Spanish galleon</l>
+<l rend="indent">That once with gold was gay,</l>
+<l>Here is a Roman trireme</l>
+<l rend="indent">Whose hues outshone the day.</l>
+<l>But Tyrian dyes have faded</l>
+<l rend="indent">And prows that once were bright</l>
+<l>With rainbow stains wear only</l>
+<l rend="indent">Death's livid, dreadful white.</l></lg>
+
+<lg>
+<l>White as the ice that clove her</l>
+<l rend="indent">That unforgotten day,</l>
+<l>Among her pallid sisters</l>
+<l rend="indent">The Grim <hi rend="italic">Titanic</hi> lay.</l>
+<pb n="152"/>
+<l>And through the leagues above her</l>
+<l rend="indent">She looked, aghast, and said:</l>
+<l>"What is this living ship that comes</l>
+<l rend="indent">Where every ship is dead?"</l></lg>
+
+<lg>
+<l>The ghostly vessels trembled</l>
+<l rend="indent">From ruined stern to prow;</l>
+<l>What was this thing of terror</l>
+<l rend="indent">That broke their vigil now?</l>
+<l>Down through the startled ocean</l>
+<l rend="indent">A mighty vessel came,</l>
+<l>Not white, as all dead ships must be,</l>
+<l rend="indent">But red, like living flame!</l></lg>
+
+<lg>
+<l>The pale green waves about her</l>
+<l rend="indent">Were swiftly, strangely dyed,</l>
+<l>By the great scarlet stream that flowed</l>
+<l rend="indent">From out her wounded side.</l>
+<l>And all her decks were scarlet</l>
+<l rend="indent">And all her shattered crew.</l>
+<l>She sank among the white ghost ships</l>
+<l rend="indent">And stained them through and through.</l></lg>
+
+<lg>
+<l>The grim <hi rend="italic">Titanic</hi> greeted her</l>
+<l rend="indent">"And who art thou?" she said;</l>
+<l>"Why dost thou join our ghostly fleet</l>
+<l rend="indent">Arrayed in living red?</l>
+<l>We are the ships of sorrow</l>
+<l rend="indent">Who spend the weary night,</l>
+<pb n="153"/>
+<l>Until the dawn of Judgment Day,</l>
+<l rend="indent">Obscure and still and white."</l></lg>
+
+<lg>
+<l>"Nay," said the scarlet visitor,</l>
+<l rend="indent">"Though I sink through the sea</l>
+<l>A ruined thing that was a ship</l>
+<l rend="indent">I sink not as did ye.</l>
+<l>For ye met with your destiny</l>
+<l rend="indent">By storm or rock or fight,</l>
+<l>So through the lagging centuries</l>
+<l rend="indent">Ye wear your robes of white.</l></lg>
+
+<lg>
+<l>"But never crashing iceberg</l>
+<l rend="indent">Nor honest shot of foe,</l>
+<l>Nor hidden reef has sent me</l>
+<l rend="indent">The way that I must go.</l>
+<l>My wound that stains the waters,</l>
+<l rend="indent">My blood that is like flame,</l>
+<l>Bear witness to a loathly deed,</l>
+<l rend="indent">A deed without a name.</l></lg>
+
+<lg>
+<l>"I went not forth to battle,</l>
+<l rend="indent">I carried friendly men,</l>
+<l>The children played about my decks,</l>
+<l rend="indent">The women sang -- and then --</l>
+<l>And then -- the sun blushed scarlet</l>
+<l rend="indent">And Heaven hid its face,</l>
+<l>The world that God created</l>
+<l rend="indent">Became a shameful place!</l></lg>
+
+<lg>
+<pb n="154"/>
+<l>"My wrong cries out for vengeance,</l>
+<l rend="indent">The blow that sent me here</l>
+<l>Was aimed in Hell. My dying scream</l>
+<l rend="indent">Has reached Jehovah's ear.</l>
+<l>Not all the seven oceans</l>
+<l rend="indent">Shall wash away the stain;</l>
+<l>Upon a brow that wears a crown</l>
+<l rend="indent">I am the brand of Cain."</l></lg>
+
+<lg>
+<l>When God's great voice assembles</l>
+<l rend="indent">The fleet on Judgment Day,</l>
+<l>The ghosts of ruined ships will rise</l>
+<l rend="indent">In sea and strait and bay.</l>
+<l>Though they have lain for ages</l>
+<l rend="indent">Beneath the changeless flood,</l>
+<l>They shall be white as silver.</l>
+<l rend="indent">But one -- shall be like blood.</l></lg>
+<byline>-- Joyce Kilmer.</byline>
+</div2>
+
+
+<pb n="155"/>
+<div2 id="cunliffe054" type="poem" n="Overheard in an Asylum">
+<head rend="center">OVERHEARD IN AN ASYLUM</head>
+
+<lg type="stanza">
+<l n="1">A<hi rend="smallcaps">nd</hi> here we have another case,</l>
+<l>quite different from the last,</l>
+<l>another case quite different --</l>
+<l>Listen.</l></lg>
+
+<lg rend="italic">
+<l>Baby, drink.</l>
+<l>The war is over.</l>
+<l>Mother's breasts</l>
+<l>are round with milk.</l></lg>
+
+<lg rend="italic">
+<l>Baby, rest.</l>
+<l>The war is over.</l>
+<l>Only pigs</l>
+<l>slop over so.</l></lg>
+
+<lg rend="italic">
+<l>Baby, sleep.</l>
+<l>The war is over.</l>
+<l>Daddy's come</l>
+<l>with a German coin.</l></lg>
+
+<lg rend="italic">
+<l>Baby, dream.</l>
+<l>The war is over.</l>
+<l>You'll be a soldier</l>
+<l>too.</l></lg>
+
+<lg>
+<pb n="156"/>
+<l>We gave her the doll --</l>
+<l>Now there we have another case,</l>
+<l>quite different from --</l></lg>
+<byline>-- Alfred Kreymborg.</byline>
+</div2>
+
+<pb n="157"/>
+<xptr doc="Clarke.xml" from="clarke056"/>
+<pb n="158"/>
+
+
+<pb n="159"/>
+<xptr doc="Clarke.xml" from="clarke005"/>
+<pb n="160"/>
+
+
+<pb n="161"/>
+<div2 id="cunliffe055" type="poem" n="Patterns">
+<head rend="center">PATTERNS</head>
+
+<lg type="stanza">
+<l n="1">I <hi rend="smallcaps">walk</hi> down the garden paths,</l>
+<l>And all the daffodils</l>
+<l>Are blowing, and the bright blue squills.</l>
+<l>I walk down the patterned garden paths</l>
+<l>In my stiff, brocaded gown.</l>
+<l>With my powdered hair and jewelled fan,</l>
+<l>I too am a rare</l>
+<l>Pattern. As I wander down</l>
+<l>The garden paths.</l></lg>
+
+<lg>
+<l>My dress is richly figured,</l>
+<l>And the train</l>
+<l>Makes a pink and silver stain</l>
+<l>On the gravel, and the thrift</l>
+<l>Of the borders.</l>
+<l>Just a plate of current fashion,</l>
+<l>Tripping by in high-heeled, ribboned shoes.</l>
+<l>Not a softness anywhere about me,</l>
+<l>Only whale-bone and brocade.</l>
+<l>And I sink on a seat in the shade</l>
+<l>Of a lime tree. For my passion</l>
+<l>Wars against the stiff brocade.</l>
+<l>The daffodils and squills</l>
+<pb n="162"/>
+<l>Flutter in the breeze</l>
+<l>As they please.</l>
+<l>And I weep;</l>
+<l>For the lime tree is in blossom</l>
+<l>And one small flower has dropped upon my bosom.</l></lg>
+
+<lg>
+<l>And the plashing of waterdrops</l>
+<l>In the marble fountain</l>
+<l>Comes down the garden paths.</l>
+<l>The dripping never stops.</l>
+<l>Underneath my stiffened gown</l>
+<l>Is the softness of a woman bathing in a marble basin,</l>
+<l>A basin in the midst of hedges grown</l>
+<l>So thick, she cannot see her lover hiding.</l>
+<l>But she guesses he is near,</l>
+<l>And the sliding of the water</l>
+<l>Seems the stroking of a dear</l>
+<l>Hand upon her.</l>
+<l>What is Summer in a fine brocaded gown!</l>
+<l>I should like to see it lying in a heap upon the ground.</l>
+<l>All the pink and silver crumpled up on the ground.</l>
+<l>I would be the pink and silver as I ran along the paths,</l>
+<l>And he would stumble after</l>
+<l>Bewildered by my laughter.</l>
+<pb n="163"/>
+<l>I should see the sun flashing from his sword hilt and the buckles on his shoes.</l>
+<l>I would choose</l>
+<l>To lead him in a maze along the patterned paths,</l>
+<l>A bright and laughing maze for my heavy-booted lover,</l>
+<l>Till he caught me in the shade,</l>
+<l>And the buttons of his waistcoat bruised my body as he clasped me,</l>
+<l>Aching, melting, unafraid.</l>
+<l>With the shadows of the leaves and the sundrops,</l>
+<l>And the plopping of the waterdrops,</l>
+<l>All about us in the open afternoon --</l>
+<l>I am very like to swoon</l>
+<l>With the weight of this brocade,</l>
+<l>For the sun sifts through the shade.</l></lg>
+
+<lg>
+<l>Underneath the fallen blossom</l>
+<l>In my bosom,</l>
+<l>Is a letter I have hid.</l>
+<l>It was brought to me this morning by a rider from the Duke.</l>
+<l>"Madam, we regret to inform you that Lord Hartwell</l>
+<l>Died in action Thursday sen'night."</l>
+<l>As I read it in the white, morning sunlight,</l>
+<l>The letters squirmed like snakes.</l>
+<l>"Any answer, Madam?" said my footman.</l>
+<pb n="164"/>
+<l>"No," I told him.</l>
+<l>"See that the messenger takes some refreshment.</l>
+<l>No, no answer."</l>
+<l>And I walked into the garden,</l>
+<l>Up and down the patterned paths,</l>
+<l>In my stiff, correct brocade.</l>
+<l>The blue and yellow flowers stood up proudly in the sun,</l>
+<l>Each one.</l>
+<l>I stood upright too,</l>
+<l>Held rigid to the pattern</l>
+<l>By the stiffness of my gown.</l>
+<l>Up and down I walked,</l>
+<l>Up and down.</l></lg>
+
+<lg>
+<l>In a month he would have been my husband.</l>
+<l>In a month, here, underneath this lime,</l>
+<l>We would have broke the pattern;</l>
+<l>He for me, and I for him,</l>
+<l>He as Colonel, I as Lady,</l>
+<l>On this shady seat.</l>
+<l>He had a whim</l>
+<l>That sunlight carried blessing.</l>
+<l>And I answered, "It shall be as you have said."</l>
+<l>Now he is dead.</l></lg>
+
+<lg>
+<l>In Summer and in Winter I shall walk</l>
+<l>Up and down</l>
+<pb n="165"/>
+<l>The patterned garden paths</l>
+<l>In my stiff, brocaded gown.</l>
+<l>The squills and daffodils</l>
+<l>Will give place to pillared roses, and to asters, and to snow.</l>
+<l>I shall go</l>
+<l>Up and down,</l>
+<l>In my gown.</l>
+<l>Gorgeously arrayed,</l>
+<l>Boned and stayed.</l>
+<l>And the softness of my body will be guarded from embrace</l>
+<l>By each button, hook, and lace.</l>
+<l>For the man who should loose me is dead,</l>
+<l>Fighting with the Duke in Flanders,</l>
+<l>In a pattern called a war.</l>
+<l>Christ! What are patterns for?</l></lg>
+<byline>-- Amy Lowell.</byline>
+</div2>
+
+
+
+
+<pb n="166"/>
+<xptr doc="Clarke.xml" from="clarke148"/>
+<pb n="167"/>
+<pb n="168"/>
+
+
+<pb n="169"/>
+<div2 id="cunliffe056" type="poem" n="His Only Way">
+<head rend="center">HIS ONLY WAY</head>
+
+<lg type="stanza">
+<l n="1">I <hi rend="smallcaps">stood</hi> to-day high on the Downs</l>
+<l>And talked long with a shepherd lad;</l>
+<l>I found him pondering by his sheep,</l>
+<l>Motionless, staring-eyed, and sad.</l></lg>
+
+<lg>
+<l>But, leaning on his Pyecombe crook --</l>
+<l>Long polished by his father's hand --</l>
+<l>He told, with slow-tongued eagerness,</l>
+<l>This love-tale of his Sussex land:</l></lg>
+
+<lg>
+<l>"Me and my mate, Dick, loved a girl,</l>
+<l>But he was always down at plough,</l>
+<l>And in and out the village, like,</l>
+<l>And -- well, he 'listed, anyhow;</l></lg>
+
+<lg>
+<l>"While I bides up here 'long me sheep;</l>
+<l>And our girl, though she liked us two</l>
+<l>Equal it seemed, she took his ring --</l>
+<l>As, sure, she'd right enough to do.</l></lg>
+
+<lg>
+<l>"Well, Dick he fought and met his death,</l>
+<l>Somewheres in Flanders, so 'tis said;</l>
+<l>And I can't go to her, I feels,</l>
+<l>Because of Dick there lying dead.</l></lg>
+
+<lg>
+<pb n="170"/>
+<l>"They do tell she gets pine and thin,</l>
+<l>And mopes and mourns that bitterly,</l>
+<l>But I can't go and say a word,</l>
+<l>Because he died for her, you see.</l></lg>
+
+<lg>
+<l>"And day by day I sees it more --</l>
+<l>I've pieced it all out clear and plain --</l>
+<l>As I must go like Dick has gone,</l>
+<l>Afore I looks at her again.</l></lg>
+
+<lg>
+<l>"Old wall-eyed Bob, there, '11 pine awhile,</l>
+<l>And listen, maybe, for my call;</l>
+<l>And master, he'll be proper mad,</l>
+<l>With lambing coming on, and all.</l></lg>
+
+<lg>
+<l>"But there 'tis, and there ain't two ways:</l>
+<l>He went, and 'tis the only thing;</l>
+<l>Else I shall grow to hate the hill</l>
+<l>And get ashamed o' shepherding.</l></lg>
+
+<lg>
+<l>"That there's her window down below,</l>
+<l>Aside the copse, where I could see</l>
+<l>(It seems a score o' years agone)</l>
+<l>Our girl stand waving up to me.</l></lg>
+
+<lg>
+<l>"Come Sunday, then, I'll 'list for sure</l>
+<l>(The same as you done, Dick, old lad!)</l>
+<l>Then, if I gets back, I can go</l>
+<l>Fair, like, and face her proud and glad."</l></lg>
+<byline>-- Habberton Lulham.</byline>
+</div2>
+
+<pb n="171"/>
+<xptr doc="Clarke.xml" from="clarke063"/>
+
+
+
+
+<pb n="172"/>
+<div2 id="cunliffe057" type="poem" n="To England, Our Mother">
+<head rend="center">TO ENGLAND, OUR MOTHER</head>
+<head rend="center"><hi rend="smallcaps">A HYMN OF LOYALTY</hi></head>
+
+<lg type="stanza">
+<l n="1">W<hi rend="smallcaps">e</hi> are your children, O Mother,</l>
+<l rend="indent">And tried by your testing, but true;</l>
+<l>Sealed of your sign and none other;</l>
+<l rend="indent">Soul of the soul that is you;</l>
+<l>Yours from the past, for the morrow;</l>
+<l rend="indent">Leal at your travail we bow,</l>
+<l>Mother made perfect by sorrow,</l>
+<l rend="indent">With the pain-splendid brow.</l></lg>
+
+<lg>
+<l>Yours was our freedom that blamed you,</l>
+<l rend="indent">Our right that was wind to our hate</l>
+<l>Yours, and the swift wrath that named you.</l>
+<l rend="indent">Mother, we love, -- and we wait.</l>
+<l>We that you favored or slighted,</l>
+<l rend="indent">Mother, are all of us peers</l>
+<l>In our will that your wrong shall be righted,</l>
+<l rend="indent">In our love at the sight of your tears.</l></lg>
+
+<lg>
+<l>Ah, deep in our hearts is the sweetness</l>
+<l rend="indent">Of your fields where as infants we trod,</l>
+<l>When our ills were as swallows for fleetness,</l>
+<l rend="indent">In the green-curtained play-grounds of God.</l>
+<pb n="173"/>
+<l>Fond days that are joys mid our weeping</l>
+<l rend="indent">Are set mid your meadows and bowers;</l>
+<l>Our loves that lie dead in your keeping</l>
+<l rend="indent">You fondle with grass and with flowers.</l></lg>
+
+<lg>
+<l>Ah, yours was the beauty that blessed us;</l>
+<l rend="indent">The kiss when our troubles were dumb;</l>
+<l>The hand that in childhood caressed us --</l>
+<l rend="indent">Oh, Mother! you need us. We come!</l>
+<l>Love-gifts from our hell or our heaven</l>
+<l rend="indent">Take, take them and purge with your pain;</l>
+<l>All, all our love's best take, and leaven</l>
+<l rend="indent">Our life till 'tis lovely again, --</l></lg>
+
+<lg>
+<l>And true to your height, Mother, tender</l>
+<l rend="indent">And true to the best in us all!</l>
+<l>We have pined here alone in your splendor;</l>
+<l rend="indent">But we speed to your pain lest you fall.</l>
+<l>Ask: we give! Is it life or the other?</l>
+<l rend="indent">Is it death? Take us whole. We are come</l>
+<l>For the sake of our dream of you, Mother,</l>
+<l rend="indent">Whose love we have longed for at home!</l></lg>
+
+<milestone type="break" rend="asterisk"/><hi rend="center">* * * * * * *</hi>
+
+<lg>
+<l>Oh, Lord of our fathers before us,</l>
+<l rend="indent">We have turned from the light of Thy word,</l>
+<l>We and this Mother who bore us:</l>
+<l rend="indent">Dread God, we were proud: we have erred.</l>
+<pb n="174"/>
+<l>We plead: on ourselves, not our brother,</l>
+<l rend="indent">Lay now the stern weight of Thy rod;</l>
+<l>Grind us small with Thy grief; -- but our Mother</l>
+<l rend="indent">Spare, spare her, O God!</l></lg>
+<byline>-- James A. Mackereth.</byline>
+</div2>
+
+<pb n="175"/>
+<xptr doc="Clarke.xml" from="clarke144"/>
+<pb n="176"/></head>
+
+<pb n="177"/>
+<xptr doc="Clarke.xml" from="clarke025"/>
+<pb n="178"/>
+<pb n="179"/>
+
+
+<pb n="180"/>
+<div2 id="cunliffe058" type="poem" n="In Flanders Fields">
+<head rend="center">IN FLANDERS FIELDS</head>
+<note>
+(Reprinted by the special permission of the proprietors of Punch.)</note>
+
+<lg type="stanza">
+<l n="1">I<hi rend="smallcaps">n</hi> Flanders fields the poppies blow</l>
+<l>Between the crosses, row on row,</l>
+<l rend="indent">That mark our place, and in the sky,</l>
+<l rend="indent">The larks, still bravely singing, fly,</l>
+<l>Scarce heard amid the guns below.</l></lg>
+
+<lg>
+<l>We are the dead; short days ago</l>
+<l rend="indent">We lived, felt dawn, saw sunset glow,</l>
+<l>Loved and were loved, and now we lie</l>
+<l rend="indent4">In Flanders fields.</l></lg>
+
+<lg>
+<l>Take up our quarrel with the foe!</l>
+<l>To you from failing hands we throw</l>
+<l rend="indent">The torch; be yours to hold it high!</l>
+<l rend="indent">If ye break faith with us who die</l>
+<l>We shall not sleep, though poppies grow</l>
+<l rend="indent4">In Flanders fields.</l></lg>
+<byline>-- John McRae.</byline>
+</div2>
+
+<pb n="181"/>
+<div2 id="cunliffe059" type="poem" n="The Fleets">
+<head rend="center">THE FLEETS</head>
+
+<lg type="stanza">
+<l n="1">A<hi rend="smallcaps">re</hi> you out with the fleets through the long, dark night,</l>
+<l rend="indent">Admiral Drake?</l>
+<l>Are you keeping watch, when with never a light</l>
+<l>They patrol the seas and wait for a fight?</l></lg>
+
+<lg>
+<l>In that far South Sea were you standing by,</l>
+<l rend="indent">Admiral Drake?</l>
+<l>Did your masthead catch that wireless cry?</l>
+<l>Did you in sorrow watch them die?</l></lg>
+
+<lg>
+<l>Once more at the guns do your gunners strain,</l>
+<l rend="indent">Admiral Drake?</l>
+<l>Do their voices ring o'er the decks again,</l>
+<l>"Have at them, boys!" in the old refrain?</l></lg>
+
+<lg>
+<l>When the shining death leaps through the wave,</l>
+<l rend="indent">Admiral Drake,</l>
+<l>Are your boats all out in a rush to save?</l>
+<l>Do you stand to salute the death of the brave?</l></lg>
+
+<lg>
+<l>Are there others out on the heaving blue,</l>
+<l rend="indent">Admiral Drake?</l>
+<pb n="182"/>
+<l>Are Collingwood, Blake and Nelson, too,</l>
+<l>In their high-decked ships, along with you?</l></lg>
+
+<lg>
+<l>Oh, seamen of old, the shadowy gates</l>
+<l>Swing wide to let you through,</l>
+<l>And out o'er the seas your galleons sweep</l>
+<l>To fight for the flag anew.</l></lg>
+<byline>-- M. G. Meugens.</byline>
+</div2>
+
+
+
+
+<pb n="183"/>
+<div2 id="cunliffe060" type="poem" n="Summer in England, 1914">
+<head rend="center">SUMMER IN ENGLAND, 1914</head>
+
+<lg type="stanza">
+<l n="1">O<hi rend="smallcaps">n</hi> London fell a clearer light;</l>
+<l rend="indent">Caressing pencils of the sun</l>
+<l>Defined the distances, the white</l>
+<l rend="indent">Houses transfigured one by one,</l>
+<l>The "long, unlovely street" impearled.</l>
+<l>O what a sky has walked the world!</l></lg>
+
+<lg>
+<l>Most happy year! And out of town</l>
+<l rend="indent">The hay was prosperous, and the wheat;</l>
+<l>The silken harvest climbed the down;</l>
+<l rend="indent">Moon after moon was heavenly sweet,</l>
+<l>Stroking the bread within the sheaves,</l>
+<l>Looking twixt apples and their leaves.</l></lg>
+
+<lg>
+<l>And while this rose made round her cup,</l>
+<l rend="indent">The armies died convulsed; and when</l>
+<l>This chaste young silver sun went up</l>
+<l rend="indent">Softly, a thousand shattered men,</l>
+<l>One wet corruption, heaped the plain,</l>
+<l>After a league-long throb of pain.</l></lg>
+
+<lg>
+<l>Flower following tender flower, and birds,</l>
+<l rend="indent">And berries; and benignant skies</l>
+<pb n="184"/>
+<l>Made thrive the serried flocks and herds.</l>
+<l rend="indent">Yonder are men shot through the eyes,</l>
+<l>And children crushed. Love, hide thy face</l>
+<l>From man's unpardonable race.</l></lg>
+
+<lg>
+<head rend="center"><hi rend="italic">A Reply</hi></head>
+<l>Who said "No man hath greater love than this</l>
+<l rend="indent">To die to serve his friend?"</l>
+<l>So these have loved us all unto the end.</l>
+<l>Chide thou no more, O thou unsacrificed!</l>
+<l>The soldier dying dies upon a kiss,</l>
+<l rend="indent">The very kiss of Christ.</l></lg>
+<byline>-- Alice Meynell.</byline>
+</div2>
+
+<pb n="185"/>
+<div2 id="cunliffe061" type="poem" n="Off Heligoland">
+<head rend="center">OFF HELIGOLAND</head>
+
+<lg type="stanza">
+<l n="1">G<hi rend="smallcaps">hostly</hi> ships in a ghostly sea,</l>
+<l rend="indent">(Here's to Drake in the Spanish main!)</l>
+<l>Hark to the turbines, running free,</l>
+<l rend="indent">Oil-cups full and the orders plain.</l>
+<l>Plunging into the misty night,</l>
+<l rend="indent">Surging into the rolling brine,</l>
+<l>Never a word, and never a light,</l>
+<l rend="indent">-- This for England that love of mine!</l></lg>
+
+<lg>
+<l>Look! a gleam on the starboard bow,</l>
+<l rend="indent">(Here's to the Fighting Temeraire!)</l>
+<l>Quartermaster be ready now,</l>
+<l rend="indent">Two points over, and keep her there.</l>
+<l>Ghostly ships -- let the foemen grieve.</l>
+<l rend="indent">Yon's the Admiral tight and trim,</l>
+<l>And one more -- with an empty sleeve --</l>
+<l rend="indent">Standing a little aft of him!</l></lg>
+
+<lg>
+<l>Slender, young in a coat of blue,</l>
+<l rend="indent">(Here's to the Agamemnon's pride!)</l>
+<l>Out of the mists that long he knew,</l>
+<l rend="indent">Out of the Victory, where he died,</l>
+<pb n="186"/>
+<l>Here to the battle-front he came.</l>
+<l rend="indent">See, he smiles in his gallant way!</l>
+<l>Ghostly ships in a ghostly game,</l>
+<l rend="indent">Roaring guns on a ghostly day!</l></lg>
+
+<lg>
+<l>There in his white silk smalls he stands,</l>
+<l rend="indent">(Here's to Nelson, with three times three!)</l>
+<l>Coming out of the misty lands</l>
+<l rend="indent">Far, far over the misty sea.</l>
+<l>Now the Foe is a crippled wreck,</l>
+<l rend="indent">Limping out of the deadly fight.</l>
+<l>Smiling yond on the quarterdeck</l>
+<l rend="indent">Stands the Spirit, all silver-bright.</l></lg>
+<byline>-- J. E. Middleton.</byline>
+</div2>
+
+<pb n="187"/>
+<div2 id="cunliffe062" type="poem" n="He Went For a Soldier">
+<head rend="center">HE WENT FOR A SOLDIER</head>
+
+<lg type="stanza">
+<l n="1">H<hi rend="smallcaps">e</hi> marched away with a blithe young score of him</l>
+<l rend="indent">With the first volunteers,</l>
+<l>Clear-eyed and clean and sound to the core of him,</l>
+<l rend="indent">Blushing under the cheers.</l>
+<l>They were fine, new flags that swung a-flying there,</l>
+<l>Oh, the pretty girls he glimpsed a-crying there,</l>
+<l rend="indent">Pelting him with pinks and with roses</l>
+<l rend="indent">Billy, the Soldier Boy!</l></lg>
+
+<lg>
+<l>Not very clear in the kind young heart of him</l>
+<l rend="indent">What the fuss was about,</l>
+<l>But the flowers and the flags seemed part of him --</l>
+<l rend="indent">The music drowned his doubt.</l>
+<l>It's a fine, brave sight they were a-coming there</l>
+<l>To the gay, bold tune they kept a-drumming there,</l>
+<l rend="indent">While the boasting fifes shrilled jauntily --</l>
+<l rend="indent">Billy, the Soldier Boy!</l></lg>
+
+<lg>
+<l>Soon he is one with the blinding smoke of it --</l>
+<l rend="indent">Volley and curse and groan:</l>
+<l>Then he has done with the knightly joke of it --</l>
+<l rend="indent">It's rending flesh and bone.</l>
+<pb n="188"/>
+<l>There are pain-crazed animals a-shrieking there</l>
+<l>And a warm blood stench that is a-reeking there;</l>
+<l rend="indent">He fights like a rat in a corner --</l>
+<l rend="indent">Billy, the Soldier Boy!</l></lg>
+
+<lg>
+<l>There he lies now, like a ghoulish score of him,</l>
+<l rend="indent">Left on the field for dead:</l>
+<l>The ground all around is smeared with the gore of him</l>
+<l rend="indent">Even the leaves are red.</l>
+<l>The Thing that was Billy lies a-dying there,</l>
+<l>Writhing and a-twisting and a-crying there;</l>
+<l rend="indent">A sickening sun grins down on him --</l>
+<l rend="indent">Billy, the Soldier Boy!</l></lg>
+
+<lg>
+<l>Still not quite clear in the poor, wrung heart of him</l>
+<l rend="indent">What the fuss was about,</l>
+<l>See where he lies -- or a ghastly part of him --</l>
+<l rend="indent">While life is oozing out:</l>
+<l>There are loathsome things he sees a-crawling there;</l>
+<l>There are hoarse-voiced crows he hears a-calling there,</l>
+<l rend="indent">Eager for the foul feast spread for them --</l>
+<l rend="indent">Billy, the Soldier Boy!</l></lg>
+
+<lg rend="italic">
+<l>How much longer, O Lord, shall we bear it all?</l>
+<l rend="indent">How many more red years?</l>
+<l>Story it and glory it and share it all,</l>
+<l rend="indent">In seas of blood and tears?</l>
+<pb n="189"/>
+<l>They are braggart attitudes we've worn so long;</l>
+<l>They are tinsel platitudes we've sworn so long --</l>
+<l rend="indent">We who have turned the Devil's Grindstone,</l>
+<l rend="indent">Borne with the hell called War!</l></lg>
+<byline>-- Ruth Comfort Mitchell.</byline>
+</div2>
+
+<pb n="190"/>
+<div2 id="cunliffe063" type="poem" n="On the Porch">
+<head rend="center">ON THE PORCH</head>
+
+<lg type="stanza">
+<l n="1" rend="indent">As I lie roofed in, screened in,</l>
+<l>From the pattering rain,</l>
+<l>The summer rain --</l>
+<l>As I lie</l>
+<l>Snug and dry,</l>
+<l>And hear the birds complain:</l></lg>
+
+<lg>
+<l rend="indent">Oh, billow on billow,</l>
+<l>Oh, roar on roar,</l>
+<l>Over me wash</l>
+<l>The seas of war.</l>
+<l>Over me -- down -- down</l>
+<l>Lunges and plunges</l>
+<l>The huge gun with its one blind eye,</l>
+<l>The armored train,</l>
+<l>And, swooping out of the sky,</l>
+<l>The aeroplane.</l>
+<l>Down -- down --</l>
+<l>The army proudly swinging</l>
+<l>Under gay flags,</l>
+<l>The glorious dead heaped up like rags,</l>
+<l>A church with bronze bells ringing,</l>
+<l>A city all towers,</l>
+<pb n="191"/>
+<l>Gardens of lovers and flowers,</l>
+<l>The round world swinging</l>
+<l>In the light of the sun:</l>
+<l>All broken, undone,</l>
+<l>All down -- under</l>
+<l>Black surges of thunder...</l></lg>
+
+<lg>
+<l rend="indent">Oh, billow on billow</l>
+<l>Oh, roar on roar,</l>
+<l>Over me wash</l>
+<l>The seas of war...</l></lg>
+
+<lg>
+<l rend="indent">As I lie roofed in, screened in,</l>
+<l>From the pattering rain,</l>
+<l>The summer rain --</l>
+<l>As I lie</l>
+<l>Snug and dry,</l>
+<l>And hear the birds complain.</l></lg>
+<byline>-- Harriet Monroe.</byline>
+</div2>
+
+<pb n="192"/>
+<div2 id="cunliffe064" type="poem" n="A. S. K.">
+<head rend="center">A. S. K.</l>
+<head rend="center"><hi rend="italic">July 14, 1915</hi></head>
+
+<lg type="stanza">
+<l n="1">Y<hi rend="smallcaps">ou</hi> must not mourn for him, he that went out to France,</l>
+<l>He, like the rest of them, clear-minded, open-eyed,</l>
+<l>It was for him to decide;</l>
+<l>He took his chance;</l>
+<l>And he is dead in France.</l></lg>
+
+<lg>
+<l>Oh, do not mourn for him, he heard his country's call,</l>
+<l>And answering, gave all he had to give;</l>
+<l>Yet though they die, they live;</l>
+<l>Not dead at all</l>
+<l>Those who obeyed that call.</l></lg>
+
+<lg>
+<l>No, no, it is not wasted, all that love and thought,</l>
+<l>It is embodied in all truth and right;</l>
+<l>These pass not out to-night</l>
+<l>Nor turn to nought --</l>
+<l>Labor and love and thought.</l></lg>
+<byline>-- N. M. H.</byline>
+</div2>
+
+
+<pb n="193"/>
+<div2 id="cunliffe065" type="poem" n="A Song of Peace and Honor">
+<head rend="center">A SONG OF PEACE AND HONOR</head>
+
+<lg type="stanza">
+<l n="1">W<hi rend="smallcaps">e</hi>, men of England, children of her might,</l>
+<l rend="indent">With all our mother's record-roll of glory,</l>
+<l rend="indent4">Great with her greatness, noble with her name,</l>
+<l rend="indent">Drank with our mother's milk our mother's story,</l>
+<l rend="indent4">And in our veins the splendor of her fame</l>
+<l>Made strong our blood and bright;</l>
+<l>And to her absent sons her name has been</l>
+<l rend="indent">Familiar music heard in distant lands,</l>
+<l rend="indent">Heart of our heart, and sinews of our hands,</l>
+<l>England, our Mother, our Mistress and our Queen!</l></lg>
+
+<lg>
+<l>Out of the thunderous echoes of the past,</l>
+<l rend="indent">Through the gold dust of centuries, we hear</l>
+<l rend="indent4">Her voice: "O children of a royal line,</l>
+<l rend="indent">Sons of my heart who hold your England dear,</l>
+<l rend="indent4">Mine was the past, make ye the future mine</l>
+<l>All glorious to the last!"</l>
+<l>And, as we hear her, cowards grow to men,</l>
+<l rend="indent">And men to heroes, and the voice of fear</l>
+<l rend="indent">Is as a whisper in a deaf man's ear</l>
+<l>And the dead past is quick in us again.</l></lg>
+
+<lg>
+<pb n="194"/>
+<l>Her robe is woven of glory and of renown,</l>
+<l rend="indent">Hers are the golden laden argosies</l>
+<l rend="indent4">And lordship of the wild and watery ways,</l>
+<l rend="indent">Her flag is blown across the utmost seas;</l>
+<l rend="indent4">Dead nations built her throne and kingdoms blaze</l>
+<l>For jewels in her crown.</l>
+<l>Her empire like a girdle doth enfold</l>
+<l rend="indent">The world; her feet on ancient foes are set;</l>
+<l rend="indent">She wears the steel-wrought blood-bright amulet</l>
+<l>Wrought by her children in the days of old.</l></lg>
+
+<lg>
+<l>Yet in a treasury of such gems as these,</l>
+<l rend="indent">Which power and sovereignty and kingship fill</l>
+<l rend="indent4">To the vast limit of the circling sun,</l>
+<l rend="indent">England, our Mother, in her heart holds still</l>
+<l rend="indent4">As her most precious jewel, save only one,</l>
+<l>The priceless pearl of peace --</l>
+<l>Peace, plucked from out of the very heart of war</l>
+<l rend="indent">Through the long agony of strenuous years,</l>
+<l rend="indent">Made pure by blood and sanctified by tears,</l>
+<l>A pearl to lie where England's treasures are.</l></lg>
+
+<lg>
+<l>O peaceful English lanes, all white with may,</l>
+<l rend="indent">O English meadows where the grass grows tall,</l>
+<l rend="indent4">O red-roofed village, field and farm and fold</l>
+<l rend="indent">Where the long shadows of the elm-trees fall</l>
+<l rend="indent4">On the wide pastures which the sun calls gold,</l>
+<l>And twilight dew calls grey;</l>
+<pb n="195"/>
+<l>These are the home, the happy cradle place</l>
+<l rend="indent">Of every man who has our English tongue,</l>
+<l rend="indent">Sprung from those loins from which our sires have sprung,</l>
+<l>Heirs of the glory of our mighty race.</l></lg>
+
+<lg>
+<l>Brothers, we hold the pearl of priceless worth,</l>
+<l rend="indent">How dare we then to cast our pearl aside?</l>
+<l rend="indent4">Is it not more to us than all things are?</l>
+<l rend="indent">Nay, peace is precious as the world is wide,</l>
+<l rend="indent4">But England's honor is more precious far</l>
+<l>Than all the heavens and earth.</l>
+<l>Were honor outcast from her supreme place</l>
+<l rend="indent">Our pearl of peace no more a pearl would shine,</l>
+<l rend="indent">But, trampled under foot of dogs and swine,</l>
+<l>Rot in the mire of a deserved disgrace.</l></lg>
+
+<lg>
+<l>So, for our Mother's honor, since it must,</l>
+<l rend="indent">Let peace be lost, but lost the worthier way,</l>
+<l rend="indent4">Not trampled down, but given, for her sake,</l>
+<l rend="indent">Who forged of many an iron yesterday</l>
+<l rend="indent4">The golden song that gold-tongued Fame shall wake</l>
+<l>When we are dust, in dust;</l>
+<l>For life and love and death and praise and blame,</l>
+<l rend="indent">And all the world, even to our very land,</l>
+<l rend="indent">Weighed in the balance are as a grain of sand</l>
+<l>Against the honor of the English name!</l></lg>
+<byline>-- E. Nesbit.</byline>
+</div2>
+
+<pb n="196"/>
+<div2 id="cunliffe066" type="poem" n="The Fisher-Lad">
+<head rend="center">THE FISHER-LAD</head>
+
+<lg type="stanza">
+<l n="1">"F<hi rend="smallcaps">arewell</hi> and good-bye to you, maiden of Teifi,</l>
+<l rend="indent">Farewell and good-bye to you, dear Teifi maid!</l>
+<l>The jolly-boat's waiting, I'm off in a jiffy,</l>
+<l rend="indent">To scouting and cruising, to chase and to raid.</l></lg>
+
+<lg>
+<l>"Ah, <hi rend="italic">cariad</hi>, say, when you see in the offing,</l>
+<l rend="indent">Dark on the blue waters of Cardigan Bay,</l>
+<l>Our smoke-stack just showing, then will you be doffing</l>
+<l rend="indent">Your bonnet to wave us a parting 'huay'?</l></lg>
+
+<lg>
+<l>"Once homeward I'd run, tho' the black scud was flying,</l>
+<l rend="indent">And the breakers were howling like fiends on our lee,</l>
+<l>With every stitch set, ever danger defying,</l>
+<l rend="indent">For, <hi rend="italic">anwyl</hi>, I know that you watched on the quay.</l></lg>
+
+<lg>
+<l>"In vain will you watch for your fisher-lad's skiff, he</l>
+<l rend="indent">Is tracking the death that the foeman has laid;</l>
+<l>If Death is the end of it, dear maid of Teifi,</l>
+<l rend="indent">Farewell and good-bye to you, dear Teifi maid !"</l></lg>
+<byline>-- J. A. Nicklin.</byline>
+</div2>
+
+<pb n="197"/>
+<xptr doc="Clarke.xml" from="clarke062"/>
+<pb n="198"/>
+
+
+<pb n="199"/>
+<div2 id="cunliffe067" type="poem" n="Master and Pupil">
+<head rend="center">MASTER AND PUPIL</l>
+<head rend="center">(To J. F. R.)</head>
+
+<lg type="stanza">
+<l n="1">T<hi rend="smallcaps">wo</hi> years ago I taught him Greek,</l>
+<l rend="indent">And used to give him hints on bowling:</l>
+<l>His classics were a trifle weak;</l>
+<l rend="indent">His "action" needed some controlling.</l>
+<l>Convinced of my superior <hi rend="italic">nous</hi></l>
+<l rend="indent">I thought him crude, and I was rather</l>
+<l>Inclined, as master of his House,</l>
+<l rend="indent">To treat him like a heavy father.</l></lg>
+
+<lg>
+<l>I wrote the usual reports</l>
+<l rend="indent">Upon his "lack of concentration";</l>
+<l>Though certainly at winter Sports</l>
+<l rend="indent">He did not earn this condemnation.</l>
+<l>I took him out San Moritz way</l>
+<l rend="indent">One Christmas, and our <hi rend="italic">r™les</hi> inverted,</l>
+<l>For in the land of ski and sleigh</l>
+<l rend="indent">His mastery was soon asserted.</l></lg>
+
+<lg>
+<l>I thought him just a normal lad,</l>
+<l rend="indent">Well-mannered, wholesome, unaffected;</l>
+<l>The makings of a Galahad</l>
+<l rend="indent">In him I had not yet detected;</l>
+<pb n="200"/>
+<l>And when I strove to mend his style,</l>
+<l rend="indent">Blue-penciling his exercises,</l>
+<l>I little guessed that all the while</l>
+<l rend="indent">His soul was ripe for high emprises.</l></lg>
+
+<lg>
+<l>Two years ago! and here I am,</l>
+<l rend="indent">Rejected as unfit; still trying</l>
+<l>(As Verrall taught me on the Cam)</l>
+<l rend="indent">To make Greek Plays electrifying.</l>
+<l>And he who, till he was eighteen,</l>
+<l rend="indent">Found life one long excuse for laughing,</l>
+<l>For eighteen solid months has been</l>
+<l rend="indent">Continuously "strafed" or "strafing."</l></lg>
+
+<lg>
+<l>He writes me letters from the front</l>
+<l rend="indent">Which prove, although he doesn't know it,</l>
+<l>That though his words are plain and blunt,</l>
+<l rend="indent">He has the vision of a poet;</l>
+<l>And lately, on his eight days' rest,</l>
+<l rend="indent">After long months of hard campaigning,</l>
+<l>He came, and lo! an angel guest</l>
+<l rend="indent">I was aware of entertaining.</l></lg>
+
+<lg>
+<l>About himself he seldom spoke,</l>
+<l rend="indent">But often of his widowed mother,</l>
+<l>And how she nobly bore the stroke</l>
+<l rend="indent">That robbed them of his sailor brother.</l>
+<pb n="201"/>
+<l>And still, from loyalty or whim,</l>
+<l rend="indent">He would defer to my opinion,</l>
+<l>Unconscious how I envied him</l>
+<l rend="indent">His hard-earned gift of self-dominion.</l></lg>
+
+<lg>
+<l>For he had faced the awful King</l>
+<l rend="indent">Of Shadows in the darksome Valley,</l>
+<l>And scorned the terrors of his sting</l>
+<l rend="indent">In many a perilous storm and sally.</l>
+<l>Firm in the faith that never tires</l>
+<l rend="indent">Or thinks that man is God-forsaken,</l>
+<l>From war's fierce seven-times-heated fires</l>
+<l rend="indent">He had emerged unseared, unshaken.</l></lg>
+
+<lg>
+<l>There are, alas! no sons of mine</l>
+<l rend="indent">To serve their country in her trial,</l>
+<l>Embattled in the cause divine</l>
+<l rend="indent">Of sacrifice and self-denial;</l>
+<l>But if there were, I could not pray</l>
+<l rend="indent">That God might shield them from disaster</l>
+<l>More strongly than I plead to-day</l>
+<l rend="indent">For this my pupil and my master.</l></lg>
+<byline>-- O. M.</byline>
+</div2>
+
+
+
+<pb n="202"/>
+<div2 id="cunliffe068" type="poem" n="Two Pictures">
+<head rend="center">TWO PICTURES</head>
+
+<lg type="stanza">
+<l n="1"><hi rend="italic">Dawn</hi>....</l>
+<l rend="indent">A<hi rend="smallcaps">nd</hi> the dewy plain</l>
+<l rend="indent">Awakes to life and sound --</l>
+<l rend="indent">Where on the flying-ground</l>
+<l rend="indent">The ghostly hangars blaze with lights again.</l></lg>
+
+<lg>
+<l>The giant birds of prey</l>
+<l rend="indent">Creep forth to a new day,</l>
+<l rend="indent">And one by one,</l>
+<l rend="indent">As morning gilds the dome,</l>
+<l rend="indent">Leave the grey a&euml;rodrome --</l>
+<l rend="indent">-- The day's begun.</l></lg>
+
+<lg>
+<l><hi rend="italic">Dusk</hi>....</l>
+<l rend="indent">And the vanish'd sun</l>
+<l rend="indent">Still streaks the evening skies:</l>
+<l rend="indent">Below, the prone Earth lies</l>
+<l rend="indent">Darken'd, wherever warring Night has won.</l></lg>
+
+<lg>
+<l>The 'planes, returning, show</l>
+<l rend="indent">Deep black in the afterglow,</l>
+<l rend="indent">And one by one</l>
+<l rend="indent">Drop down from the higher airs,</l>
+<l rend="indent">-- Down, down the invisible stairs --</l>
+<l rend="indent4">-- The day is done.</l></lg>
+<byline>-- "Observer, Royal Flying Corps."</byline>
+</div2>
+
+<pb n="203"/>
+<xptr doc="Clarke.xml" from="clarke047"/>
+
+<pb n="204"/>
+<div2 id="cunliffe069" type="poem" n="The Dead Soldier">
+<head rend="center">THE DEAD SOLDIER</head>
+
+<lg type="stanza">
+<l n="1">T<hi rend="smallcaps">hy</hi> dear brown eyes which were as depths where truth</l>
+<l rend="indent">Lay bowered with frolic joy, but yesterday</l>
+<l>Shone with the fire of thy so guileless youth,</l>
+<l rend="indent">Now ruthless death has dimmed and closed for aye.</l></lg>
+
+<lg>
+<l>Those sweet red lips, that never knew the stain</l>
+<l rend="indent">Of angry words or harsh, or thoughts unclean,</l>
+<l>Have sung their last gay song. Never again</l>
+<l rend="indent">Shall I the harvest of their laughter glean.</l></lg>
+
+<lg>
+<l>The goodly harvest of thy laughing mouth</l>
+<l rend="indent">Is garnered in; and lo! the golden grain</l>
+<l>Of all thy generous thoughts, which knew no drouth</l>
+<l rend="indent">Of meanness, and thy tender words remain</l></lg>
+
+<lg>
+<l>Stored in my heart; and though I may not see</l>
+<l rend="indent">Thy peerless form nor hear thy voice again,</l>
+<l>The memory lives of what thou wast to me,</l>
+<l rend="indent">We knew great love.... We have not lived in vain.</l></lg>
+<byline>-- Sydney Oswald.</byline>
+<note rend="center">(Major, King's Royal Rifle Corps.)</note>
+</div2>
+
+
+<pb n="205"/>
+<xptr doc="Clarke.xml" from="clarke075"/>
+<pb n="206"/>
+
+
+<pb n="207"/>
+<div2 id="cunliffe070" type="poem" n="Men Have Wings At Last">
+<head rend="center">MEN HAVE WINGS AT LAST</head>
+<head rend="center">(Air-Craft and the War)</head>
+
+<lg type="stanza">
+<l n="1">"W<hi rend="smallcaps">olf</hi>, Wolf-stay-at-home,</l>
+<l>Prowler, -- scout,</l>
+<l>Clanless and castaways,</l>
+<l>And ailing with the drought,</l>
+<l>Out from your hidings, -- hither to the call;</l>
+<l>Lift up your eyes to the high wind-fall!</l>
+<l>Lift up your eyes from the poisoned spring;</l>
+<l>Overhead, -- overhead! The dragon Thing,</l>
+<l rend="indent10">-- What should it bring?</l>
+<l rend="indent10">-- Poising on the wing?"</l></lg>
+
+<lg>
+<l>"Wolf, Wolf, Old one, I saw it, even I.</l>
+<l>Yesterday, yesterday, the Thing came by</l>
+<l>Prowling at the outpost of the last lean wood,</l>
+<l>By the gray waste ashes where the minster stood;</l>
+<l>And out through the cloister where the belfry fronts</l>
+<l>The market-place, and the town was once;</l>
+<l>High, -- high above the bright wide square</l>
+<l>And the folk all flocking together, unaware,</l>
+<l>The Thing-with-the-wings came there.</l>
+<l rend="indent10">Brother Vulture saw it</l>
+<l rend="indent10">And called me, as it passed:</l>
+<pb n="208"/>
+<l rend="indent10"><hi rend="italic">'Look and see, look and see, --</hi></l>
+<l rend="indent10"><hi rend="italic">Men have wings at last.'</hi></l></lg>
+
+<lg>
+<l>"By the eyeless belfry I saw it, overhead,</l>
+<l>Poised like a hawk, -- like a storm unshed.</l>
+<l>Near the huddled doves there, from the shattered cote,</l>
+<l>I watched too.... And it smote!</l></lg>
+
+<lg>
+<l>"Not a threat of thunder, -- not an arm&egrave;d man,</l>
+<l>Where the fury struck, and the fleet fire ran. --</l>
+<l>But girl-child, man-child, mothers and their young,</l>
+<l>Newborn of woman, with milk upon its tongue;</l>
+<l>Nursling where it clung.</l></lg>
+
+<lg>
+<l>"Not a talon reached they, yet, the lords of prey!</l>
+<l>But left the red dregs there, rent and cast away;</l>
+<l>Fled from the spoils there, scattered things accurst:</l>
+<l rend="indent10">-- It was not for hunger;</l>
+<l rend="indent14">It was not for thirst.</l></lg>
+
+<lg>
+<l rend="indent10">"From the eyeless belfry,</l>
+<l rend="indent10">Brother Vulture laughed:</l>
+<l rend="indent10"><hi rend="italic">'This is all we have to see</hi></l>
+<l rend="indent10"><hi rend="italic">For his mastercraft?</hi></l>
+<l rend="indent10"><hi rend="italic">-- Old ones, and lean ones,</hi></l>
+<l rend="indent10"><hi rend="italic">Never now to fast,</hi></l>
+<l rend="indent10"><hi rend="italic">Men have wings at last!'</hi></l></lg>
+
+<lg>
+<pb n="209"/>
+<l>"Brought they any tidings for us from the Sun?"</l>
+<l rend="indent10">"No, my chief, not one."</l>
+<l>"Left they not a road-sign, how the way was won?"</l>
+<l rend="indent10">"No, my chief, none.</l>
+<l>But girl-child, man-child, creature yet unborn,</l>
+<l>Doe and fawn together so, weltering and torn,</l>
+<l>Newborn of woman where the flag-stones bled;</l>
+<l>(Better can the vultures do, for the sham&egrave;d dead.)</l>
+<l>Road-dust sobbing where the lightning burst --</l>
+<l rend="indent10">It was not for hunger;</l>
+<l rend="indent10">It was not for thirst."</l></lg>
+
+<lg>
+<l>"Brought they not some token that the stars look on?"</l>
+<l rend="indent10">-- "No, my chief, none."</l>
+<l>"Never yet a message from the highways overhead?"</l>
+<l rend="indent10">-- "Brother, I have said."</l></lg>
+
+<lg>
+<l>"Old years, gray years, years of growing things,</l>
+<l>We have toiled and kept the watch with our wonderings;</l>
+<l>But to see what things should be, when that Men had wings.</l></lg>
+
+<lg>
+<l>"Sea-mark, sea-wall, -- ships above the tide;</l>
+<l>Mine and mole-way under-earth, to have its hidden pride; --</l>
+<l>Not enough, not enough; more and more beside!</l></lg>
+
+<lg>
+<pb n="210"/>
+<l>"Bridle, for our proud-of-mane, -- then the triple yoke;</l>
+<l>Ox-goad and lash again, and bonded fellow-folk!</l>
+<l>Not enough; not enough; -- for his master-stroke.</l>
+<l>Thunder trapped and muttering and led away for thrall;</l>
+<l>Lightnings leashed together then, at his beck and call;</l>
+<l>Not enough; not enough; -- for his Wherewithal!</l></lg>
+
+<lg>
+<l rend="indent6">"He must look with evil eye</l>
+<l rend="indent6">On the spaces of the sky:</l>
+<l rend="indent8">He must scheme, and try! --</l>
+<l rend="indent6">While all we, with dread and awe,</l>
+<l rend="indent6">Sheathing and unsheathing claw,</l>
+<l rend="indent8">Watch apart, and prophesy</l>
+<l rend="indent6">That we never saw. --</l></lg>
+
+<lg>
+<l rend="indent6">"Wings, to seek his more-and-more</l>
+<l rend="indent8">Where we knew us blind;</l>
+<l rend="indent6">Wings to make him conqueror,</l>
+<l rend="indent8">With his master-mind;</l>
+<l rend="indent6">Wings, that he out-watch, -- out-soar,</l>
+<l rend="indent8">Eagle and his kind!</l></lg>
+
+<lg>
+<l>"Lo, the dream fulfilled at last! -- And the dread outgrown,</l>
+<l>Broken, as a bird's heart; -- fallen as a stone</l>
+<l rend="indent8">....What was he, to make afraid?</l>
+<pb n="211"/>
+<l rend="indent8">-- Hating all that he had made?</l>
+<l rend="indent8">-- Hating all his own.</l></lg>
+
+<lg>
+<l>"Scatter to your strongholds, till the race is run.</l>
+<l>Doe and fawn together, so, soon it will be done.</l>
+<l>Never now, never now, Ship without a mast,</l>
+<l>In the harbors of the Sun, do you make fast!</l>
+<l rend="indent8">But the floods shall cleanse again</l>
+<l rend="indent8">Every blackened trail of Men, --</l>
+<l rend="indent8">Men with wings, at last!"</l></lg>
+<byline>-- Josephine Preston Peabody.</byline>
+</div2>
+
+070 p.211

@@ -1,11 +1,22 @@
+<text>
+***Notes: 
+***Bylines in this text are aligned right  and italic, immediately after the last line of text. 
+***Some datelines have two values: "date" and "name type="place"".
+***Dates are aligned left.
+***<dateline><name type="place">Paris,
+</name><date>1917</date></dateline> is:  Paris, 1917 (align left)
+***The "indent" value is two spaces, unless otherwise noted.
+
+<body>
+
 <pb n="1"/>
 <div1 id="cunliffe001" type="anthology" n="Poems of the Great War">
 <head rend="center">POEMS OF THE GREAT WAR</head>
 
 <div2 id="cunliffe002" type="poem" n="Writen on Service in Egypt">
 <head rend="center">WRITTEN ON SERVICE IN EGYPT</head>
-<ref target="cunliffe002n1">1</ref>
-<note id="cunliffe002n1" place="foot" n="1">
+<ref target="cunliffe002FINEn1">1</ref>
+<note id="cunliffe002FINEn1" place="foot" n="1">
 When last heard from, the author, who is a British officer, was on service at Khartoum.</note>
 
 <lg type="stanza">
@@ -155,7 +166,7 @@ When last heard from, the author, who is a British officer, was on service at Kh
 <lg>
 <l>There is always war and always peace;</l>
 <l>Always the war of the crowds,</l>
-<l>Always the great peace of the arts.</l>
+<l>Always the great peace of the arts.</l></lg>
 <dateline><date>1914.</date></dateline>
 <byline>-- Richard Aldington.</byline>
 <note align="right">(No. 24,965, "E" Company, 11th Devons.)</note>
@@ -196,13 +207,13 @@ When last heard from, the author, who is a British officer, was on service at Kh
 <pb n="8"/>
 <l>These by no frosts of Autumn die,</l>
 <l>Immortal loveliness for the bleak years,</l>
-<l>Fed with our heart's blood, watered with our tears.</l>
+<l>Fed with our heart's blood, watered with our tears.</l></lg>
 <byline>-- Eleanor Alexander.</byline>
 </div2>
 
 
 <pb n="9"/>
-<div2 id="cunliffe005" type="poem" n="">
+<div2 id="cunliffe005" type="poem" n="Young and Old">
 <head rend="center">YOUNG AND OLD</head>
 
 <lg type="stanza">
@@ -227,7 +238,7 @@ When last heard from, the author, who is a British officer, was on service at Kh
 <l><hi rend="italic">Young.</hi> And will the dale be always strange</l>
 <l rend="indent10">And dull and sad, my dear?</l>
 <l><hi rend="italic">Old.</hi> Ay, lassie, we shall feel the change</l>
-<l rend="indent10">For many a mournful year.</l>
+<l rend="indent10">For many a mournful year.</l></lg>
 <byline>-- Henry Allsopp.</byline>
 </div2>
 
@@ -327,9 +338,10 @@ When last heard from, the author, who is a British officer, was on service at Kh
 <l>What was it that he said so long ago,</l>
 <l>The young man who outgrew the Jewish God --</l>
 <l>"Not a sparrow falleth --?" Ah, God, God,</l>
-<l>And there shall fall a million murdered men!</l>
-<byline>-- Karle Wilson Baker.</l></lg></byline>
+<l>And there shall fall a million murdered men!</l></lg>
+<byline>-- Karle Wilson Baker.</byline>
 </div2>
+
 
 <pb n="15"/>
 <div2 id="cunliffe007" type="poem" n="Neutral?">
@@ -389,13 +401,14 @@ When last heard from, the author, who is a British officer, was on service at Kh
 <byline>-- Harold Begbie.</byline>
 </div2>
 
+
 <pb n="17"/>
 <div2 id="cunliffe008" type="poem" n="The Red Country">
 <head rend="center">THE RED COUNTRY</head>
 
 <lg type="stanza">
-<l n="1">I<hi rend="smallcaps">n</hi> the red country</head>
-<head rend="center">The sky flowers</l>
+<l n="1">I<hi rend="smallcaps">n</hi> the red country</l>
+<l>The sky flowers</l>
 <l>All day.</l>
 <l>Strange mechanical birds</l>
 <l>With struts of wire and glazed wings</l>
@@ -488,7 +501,7 @@ When last heard from, the author, who is a British officer, was on service at Kh
 
 
 <pb n="23"/>
-<div2 id="cunliffe009" type="poem" n="">
+<div2 id="cunliffe009" type="poem" n="A Ballad of Deathless Dons">
 <head rend="center">A BALLAD OF DEATHLESS DONS</head>
 <head rend="center">OR:</head>
 <head rend="center">"WHEN THE ASSAULT WAS INTENDED TO THE CITY"</head>
@@ -503,7 +516,7 @@ When last heard from, the author, who is a British officer, was on service at Kh
 <lg type="stanza">
 <head rend="center">I</head>
 <l n="1">T<hi rend="smallcaps">he</hi> Regulars fight with all their might, the Navy keeps the seas,</l>
-<l>The Terrier<ref target="cunliffe009n1">1</ref> <note id="cunliffe009n1" place="foot" n="1">
+<l>The Terrier<ref target="cunliffe009FINEn1">1</ref> <note id="cunliffe009FINEn1" place="foot" n="1">
 Obsolete word signifying a mere voluntary fighter unfit even for adequate defence purposes.</note>
 sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 <l>K's keen recruit is learning to shoot, the Boy Scout scouteth still, --</l>
@@ -600,13 +613,14 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 <byline>-- Wilfrid Blair.</byline>
 </div2>
 
+
 <pb n="28"/>
 <div2 id="cunliffe010" type="poem" n="Any Friend to Any Friend">
 <head rend="center">"ANY FRIEND TO ANY FRIEND"</head>
 
 <lg type="stanza">
-<l n="1">E<hi rend="smallcaps">v'n</hi> as I thought of you your soul had sped,</head>
-<head rend="center">Friend of old, happy, far-off boyhood days,</l>
+<l n="1">E<hi rend="smallcaps">v'n</hi> as I thought of you your soul had sped,</l>
+<l>Friend of old, happy, far-off boyhood days,</l>
 <l>And, as across the sea I turned my gaze,</l>
 <l>The soil of France with your brave blood was red!</l>
 <l>Blame not the shears that slit the thin yarn thread.</l>
@@ -623,6 +637,7 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 <l>As, trailing clouds of glory, swift they come.</l></lg>
 <byline>-- H. W. Bliss.</byline>
 </div2>
+
 
 <pb n="29"/>
 <div2 id="cunliffe011" type="poem" n="The Camp-Follower">
@@ -647,6 +662,7 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 <byline>-- Maxwell Bodenheim.</byline>
 </div2>
 
+
 <pb n="30"/>
 <div2 id="cunliffe012" type="poem" n="Here: And There">
 <head rend="center">HERE: AND THERE</head>
@@ -667,6 +683,7 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 <l>And over all the blue embracing skies.</l></lg>
 <byline>-- F. W. Bourdillon.</byline>
 </div2>
+
 
 <pb n="31"/>
 <xptr doc="clarke.xml" from="clarke152"/>
@@ -801,6 +818,7 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 <byline>-- Alter Brody.</byline>
 </div2>
 
+
 <pb n="38"/>
 <xptr doc="clarke.xml" from="clarke094"/>
 <note>
@@ -813,8 +831,8 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 <head rend="center">AFTERMATH</head>
 
 <lg type="stanza">
-<l n="1">Y<hi rend="smallcaps">es</hi>, he is gone, there is the message, see!</head>
-<head rend="center">Slain by a Prussian bullet as he led</l>
+<l n="1">Y<hi rend="smallcaps">es</hi>, he is gone, there is the message, see!</l>
+<l>Slain by a Prussian bullet as he led</l>
 <l>The men that loved him -- dying, cheered them on --</l>
 <l>My son, my eldest son. So be it, God!</l></lg>
 
@@ -852,13 +870,14 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 <byline>-- Burghclere.</byline>
 </div2>
 
+
 <pb n="41"/>
 <div2 id="cunliffe015" type="poem" n="The Return">
 <head rend="center">THE RETURN</head>
 
 <lg type="stanza">
-<l n="1">H<hi rend="smallcaps">ome</hi> across the clover</head>
-<head rend="center">When the war was over</l>
+<l n="1">H<hi rend="smallcaps">ome</hi> across the clover</l>
+<l>When the war was over</l>
 <l>Came the young men slowly with an air of being old,</l>
 <l>On a morning blue and gold</l>
 <l>Through the weed-grown meadow-places</l>
@@ -924,15 +943,13 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 </div2>
 
 
-
-
 <pb n="44"/>
 <div2 id="cunliffe016" type="poem" n="Kitchener's March">
 <head rend="center">KITCHENER'S MARCH</head>
 
 <lg type="stanza">
-<l n="1">N<hi rend="smallcaps">ot</hi> the muffled drums for him</head>
-<head rend="center">Nor the wailing of the fife.</l>
+<l n="1">N<hi rend="smallcaps">ot</hi> the muffled drums for him</l>
+<l>Nor the wailing of the fife.</l>
 <l>Trumpets blaring to the charge</l>
 <l>Were the music of his life.</l>
 <l>Let the music of his death</l>
@@ -973,6 +990,7 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 <byline>-- Amelia Josephine Burr.</byline>
 </div2>
 
+
 <pb n="46"/>
 <pb n="47"/>
 <pb n="48"/>
@@ -983,15 +1001,15 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. Eloi. He is Capt. Basil Campbell, of the Second Pioneers.
 </note>
 
-<pb n="51"/>
-<xptr doc="clarke.xml" from="clarke054"/></head>
 
+<pb n="51"/>
+<xptr doc="clarke.xml" from="clarke054"/>
 
 
 <pb n="52"/>
 <div2 id="cunliffe017" type="poem" n="The Broken Rose">
-<head rend="center">THE BROKEN ROSE</l>
-<l><hi rend="smallcaps">TO KING ALBERT</hi></head>
+<head rend="center">THE BROKEN ROSE</head>
+<head rend="center"><hi rend="smallcaps">TO KING ALBERT</hi></head>
 
 <lg type="stanza">
 <l n="1">S<hi rend="smallcaps">hy</hi>, youthful, silent -- and misunderstood</l>
@@ -1042,6 +1060,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l>O broken rose of Belgium, thou art blest!</l></lg>
 <byline>--Annie Vivanti Chartres.</byline>
 </div2>
+
 
 <pb n="54"/>
 <xptr file="clarke.xml" from="clarke035"/>
@@ -1104,6 +1123,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l>Who died to hold Mons for England!</l></lg>
 <byline>-- Philip Byard Clayton.</byline>
 </div2>
+
 
 <pb n="58"/>
 <div2 id="cunliffe019" type="poem" n="Vision of War">
@@ -1348,7 +1368,8 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l>While the bright star rises, casting a track across the bay;</l>
 <l>While the majestic heavens wheel onward, overlooking space and time;</l>
 <l>While the still air drops down its quietness like love.</l></lg>
-<byline>-- Lincoln Colcord.</l></byline><l>
+<byline>-- Lincoln Colcord.</byline>
+</div2>
 
 
 <pb n="70"/>
@@ -1375,6 +1396,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l rend="indent">Suddenly...</l></lg>
 <byline>-- Alice Corbin.</byline>
 </div2>
+
 
 <pb n="71"/>
 <div2 id="cunliffe021" type="poem" n="By the North Sea">
@@ -1448,6 +1470,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <byline>-- Crewe.</byline>
 </div2>
 
+
 <pb n="75"/>
 <div2 id="cunliffe023" type="poem" n="When They Have Made an End">
 <head rend="center">WHEN THEY HAVE MADE AN END</head>
@@ -1463,6 +1486,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l rend="indent">Wish me good courage, friend.</l></lg>
 <byline>--Gerald H. Crow.</byline>
 </div2>
+
 
 <pb n="76"/>
 <xptr doc="clarke.xml" from="clarke147"/>
@@ -1492,6 +1516,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <byline>-- John Drinkwater.</byline>
 </div2>
 
+
 <pb n="78"/>
 <div2 id="cunliffe025" type="poem" n="The Metal Checks">
 <head rend="center">THE METAL CHECKS</head>
@@ -1499,7 +1524,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <note>(The scene is a bare room, with two shaded windows at the back, and a fireplace between them with a fire burning low. The room is furnished scantily with a few plain chairs, and a rough wooden table on which are piled a great many small wooden trays. The Counter, who is Death, sits at the table. He wears a loose gray robe, and his face is partly concealed by a gray veil. He does not look at The Bearer, but works mechanically and speaks in a monotonous tone. The Bearer is the World, that bears the burden of War. He wears a soiled robe of brown and green and he carries on his back a gunny-bag with the little metal disks that have been used for the identification of the slain common soldiers.)</note>
 
 <lg type="stanza">
-<head>T<hi rend="smallcaps">HE</hi> B<hi rend="smallcaps"EARER</hi></head>
+<head>T<hi rend="smallcaps">HE</hi> B<hi rend="smallcaps">EARER</hi></head>
 <l n="1">H<hi rend="smallcaps">ere</hi> is a sack, a gunny sack,</l>
 <l rend="indent">A heavy sack I bring.</l>
 <l>Here is toll of many a soul --</l>
@@ -1540,7 +1565,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l>Pile them in tens and count them so.</l></lg>
 
 <lg>
-<head>T<hi rend="smallcaps">HE</hi> B<hi rend="smallcaps"EARER</hi></head>
+<head>T<hi rend="smallcaps">HE</hi> B<hi rend="smallcaps">EARER</hi></head>
 <l>I have an empty sack.</l>
 <l rend="indent">It is not large. Would you have said</l>
 <l>That I could carry on my back</l>
@@ -1574,7 +1599,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <note>(The Bearer finds the bag on his arm troublesome. He holds it up, inspecting it.)</note>
 
 <lg>
-<head>T<hi rend="smallcaps">HE</hi> B<hi rend="smallcaps"EARER</hi></head>
+<head>T<hi rend="smallcaps">HE</hi> B<hi rend="smallcaps">EARER</hi></head>
 <l>What can one do with a thing like this?</l>
 <l>Neither of life nor death it is!</l>
 <l>For the dead serve not, though it served the dead.</l>
@@ -1621,7 +1646,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l>Who might have been your sons.</l></lg>
 
 <lg>
-<head>T<hi rend="smallcaps">HE</hi> B<hi rend="smallcaps"EARER</hi></head>
+<head>T<hi rend="smallcaps">HE</hi> B<hi rend="smallcaps">EARER</hi></head>
 <l>Could not the hands of these rebuild</l>
 <l>That which has been destroyed?</l>
 <l>Oh, the poor hands! that once were strong and filled</l>
@@ -1642,7 +1667,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 <lg>
 <pb n="83"/>
-<head>T<hi rend="smallcaps">HE</hi> B<hi rend="smallcaps"EARER</hi></head>
+<head>T<hi rend="smallcaps">HE</hi> B<hi rend="smallcaps">EARER</hi></head>
 <l>Can this check plough?</l>
 <l rend="indent">Can it sow? can it reap?</l>
 <l>Can we arouse it?</l>
@@ -1673,7 +1698,6 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 </div2>
 
 
-
 <pb n="84"/>
 <div2 id="cunliffe026" type="poem" n="For Those at Sea">
 <head rend="center">"FOR THOSE AT SEA"</head>
@@ -1697,6 +1721,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l>Guard more than their own lives, for those at sea.</l></lg>
 <byline>-- Geoffrey Faber.</byline>
 </div2>
+
 
 <pb n="85"/>
 <div2 id="cunliffe027" type="poem" n="The Man in the Trench">
@@ -1741,6 +1766,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <byline>--James Bernard Fagan.</byline>
 </div2>
 
+
 <pb n="87"/>
 <div2 id="cunliffe028" type="poem" n="Territorials">
 <head rend="center">TERRITORIALS</head>
@@ -1768,6 +1794,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <byline>-- Agnes S. Falconer.</byline>
 </div2>
 
+
 <pb n="88"/>
 <div2 id="cunliffe029" type="poem" n="Honor to France!">
 <head rend="center">HONOR TO FRANCE!</head>
@@ -1789,6 +1816,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l>And pray for God's grace to become like thee.</l></lg>
 <byline>-- William Dudley Foulke.</byline>
 </div2>
+
 
 <pb n="89"/>
 <div2 id="cunliffe030" type="poem" n="The Jewish Conscript">
@@ -1822,11 +1850,10 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <byline>-- Florence Kiper Frank.</byline>
 </div2>
 
+
 <pb n="90"/>
 <xptr doc="clarke.xml" from="clarke102"/>
 <pb n="91"/>
-
-
 
 
 <pb n="92"/>
@@ -1868,6 +1895,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <byline>-- H. Rex Freston.</byline>
 <note>(Killed in action in France, Jan. 24, 1916.)</note>
 </div2>
+
 
 <pb n="95"/>
 <div2 id="cunliffe032" type="poem" n="Passover">
@@ -1911,6 +1939,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l rend="indent">For sign, must be your own.</l></lg>
 <byline>--V. H. Friedlaender.</byline>
 </div2>
+
 
 <pb n="97"/>
 <div2 id="cunliffe033" type="poem" n="Ireland">
@@ -1963,6 +1992,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <byline>-- G. A. J. C.</byline>
 </div2>
 
+
 <pb n="99"/>
 <div2 id="cunliffe034" type="poem" n="Her Allowance!">
 <head rend="center">HER "ALLOWANCE!"</head>
@@ -1993,6 +2023,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l>Be needin' a part -- may my Bill -- who can say? --</l>
 <l rend="indent10">Of my 'llowance!)</l></lg>
 <byline>-- Lillian Gard.</byline>
+
 
 <pb n="100"/>
 <xptr doc="clarke.xml" from="clarke138"/>
@@ -2090,8 +2121,11 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l>I'm growing old? I wonder if I sometimes wish</l>
 <l>That God would come again!</l></lg>
 <byline>-- Franklin H. Giddings.</byline>
-<dateline><date>New York, December 5, 1915.</date></dateline>
-
+<dateline>
+<name type="place">New York, </name>
+<date>December 5, 1915.</date>
+</dateline>
+</div2>
 
 <pb n="110"/>
 <div2 id="cunliffe036" type="poem" n="I Have No Ring">
@@ -2114,6 +2148,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l>I bear his burden -- but -- I have no ring.</l></lg>
 <byline>-- Bernard Gilbert.</byline>
 </div2>
+
 
 <pb n="111"/>
 <div2 id="cunliffe037" type="poem" n="The Dead">
@@ -2189,6 +2224,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <byline>-- Richard Butler Glaenzer.</byline>
 </div2>
 
+
 <pb n="114"/>
 <div2 id="cunliffe039" type="poem" n="The Airman">
 <head rend="center">THE AIRMAN</head>
@@ -2218,6 +2254,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l rend="indent">My Son -- my only child."</l></lg>
 <byline>-- Gregg Goddard.</byline>
 </div2>
+
 
 <pb n="115"/>
 <div2 id="cunliffe040" type="poem" n="Brothers In Arms">
@@ -2299,6 +2336,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <byline>-- Alfred Perceval Graves.</byline>
 </div2>
 
+
 <pb n="118"/>
 <xptr doc="Clarke.xml" from="clarke097"/>
 <pb n="119"/>
@@ -2329,8 +2367,6 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l>Pass with the others down the twilit street.</l></lg>
 <byline>-- Nora Griffiths.</byline>
 </div2>
-
-
 
 
 <pb n="122"/>
@@ -2422,6 +2458,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <byline>-- Hermann Hagedorn.</byline>
 </div2>
 
+
 <pb n="125"/>
 <div2 id="cunliffe043" type="poem" n="Non-Combatant">
 <head rend="center">NON-COMBATANT</head>
@@ -2458,9 +2495,11 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <byline>-- Cicely Hamilton.</byline>
 </div2>
 
+
 <pb n="126"/>
 <xptr doc="Clarke.xml" from="clarke064"/>
 <pb n="127"/>
+
 
 <pb n="128"/>
 <div2 id="cunliffe044" type="poem" n="From the Youth of All Nations">
@@ -2560,6 +2599,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <byline>-- H. C. Harwood.</byline>
 </div2>
 
+
 <pb n="131"/>
 <div2 id="cunliffe045" type="poem" n="Soldier, Soldier">
 <head rend="center">SOLDIER, SOLDIER</head>
@@ -2658,6 +2698,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <byline>-- Norah M. Holland.</byline>
 </div2>
 
+
 <pb n="134"/>
 <div2 id="cunliffe047" type="poem" n="Things That Were Yours">
 <head rend="center">THINGS THAT WERE YOURS</head>
@@ -2681,6 +2722,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <note rend="center">(Lieut., 13th Bn. Lancashire Fusiliers.)</note>
 </div2>
 
+
 <pb n="135"/>
 <div2 id="cunliffe048" type="poem" n="Joan of France to an English Sister">
 <head rend="center">JOAN OF FRANCE TO AN ENGLISH SISTER</head>
@@ -2703,6 +2745,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l rend="indent">Fire of thy bosom and mine.</l></lg>
 <byline>-- J. H. S.</byline>
 </div2>
+
 
 <pb n="136"/>
 <div2 id="cunliffe049" type="poem" n="The Twa Weelums">
@@ -2761,6 +2804,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <byline>-- Violet Jacob.</byline>
 </div2>
 
+
 <pb n="138"/>
 <div2 id="cunliffe050" type="poem" n="A Legend of Ypres">
 <head rend="center">A LEGEND OF YPRES</head>
@@ -2816,6 +2860,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <byline>-- Edmund John.</byline>
 </div2>
 
+
 <pb n="140"/>
 <div2 id="cunliffe052" type="poem" n="India to England">
 <head rend="center">INDIA TO ENGLAND</head>
@@ -2865,7 +2910,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="142"/>
-<div2 id="cunliffe052" type="poem" n="The Nations' David">
+<div2 id="cunliffe053" type="poem" n="The Nations' David">
 <head rend="center">THE NATIONS' DAVID</head>
 
 <lg type="stanza">
@@ -2933,6 +2978,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <byline>-- Reginald Wright Kauffman.</byline>
 </div2>
 
+
 <pb n="146"/>
 <xptr doc="Clarke.xml" from="clarke087"/>
 <pb n="147"/>
@@ -2942,7 +2988,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="151"/>
-<div2 id="cunliffe053" type="poem" n="The White Ships and the Red">
+<div2 id="cunliffe054" type="poem" n="The White Ships and the Red">
 <head rend="center">THE WHITE SHIPS AND THE RED</head>
 
 <lg type="stanza">
@@ -3062,7 +3108,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="155"/>
-<div2 id="cunliffe054" type="poem" n="Overheard in an Asylum">
+<div2 id="cunliffe055" type="poem" n="Overheard in an Asylum">
 <head rend="center">OVERHEARD IN AN ASYLUM</head>
 
 <lg type="stanza">
@@ -3103,6 +3149,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <byline>-- Alfred Kreymborg.</byline>
 </div2>
 
+
 <pb n="157"/>
 <xptr doc="Clarke.xml" from="clarke056"/>
 <pb n="158"/>
@@ -3114,7 +3161,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="161"/>
-<div2 id="cunliffe055" type="poem" n="Patterns">
+<div2 id="cunliffe056" type="poem" n="Patterns">
 <head rend="center">PATTERNS</head>
 
 <lg type="stanza">
@@ -3243,8 +3290,6 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 </div2>
 
 
-
-
 <pb n="166"/>
 <xptr doc="Clarke.xml" from="clarke148"/>
 <pb n="167"/>
@@ -3252,7 +3297,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="169"/>
-<div2 id="cunliffe056" type="poem" n="His Only Way">
+<div2 id="cunliffe057" type="poem" n="His Only Way">
 <head rend="center">HIS ONLY WAY</head>
 
 <lg type="stanza">
@@ -3324,14 +3369,13 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <byline>-- Habberton Lulham.</byline>
 </div2>
 
+
 <pb n="171"/>
 <xptr doc="Clarke.xml" from="clarke063"/>
 
 
-
-
 <pb n="172"/>
-<div2 id="cunliffe057" type="poem" n="To England, Our Mother">
+<div2 id="cunliffe058" type="poem" n="To England, Our Mother">
 <head rend="center">TO ENGLAND, OUR MOTHER</head>
 <head rend="center"><hi rend="smallcaps">A HYMN OF LOYALTY</hi></head>
 
@@ -3401,9 +3445,11 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <byline>-- James A. Mackereth.</byline>
 </div2>
 
+
 <pb n="175"/>
 <xptr doc="Clarke.xml" from="clarke144"/>
-<pb n="176"/></head>
+<pb n="176"/>
+
 
 <pb n="177"/>
 <xptr doc="Clarke.xml" from="clarke025"/>
@@ -3412,7 +3458,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="180"/>
-<div2 id="cunliffe058" type="poem" n="In Flanders Fields">
+<div2 id="cunliffe059" type="poem" n="In Flanders Fields">
 <head rend="center">IN FLANDERS FIELDS</head>
 <note>
 (Reprinted by the special permission of the proprietors of Punch.)</note>
@@ -3440,8 +3486,9 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <byline>-- John McRae.</byline>
 </div2>
 
+
 <pb n="181"/>
-<div2 id="cunliffe059" type="poem" n="The Fleets">
+<div2 id="cunliffe060" type="poem" n="The Fleets">
 <head rend="center">THE FLEETS</head>
 
 <lg type="stanza">
@@ -3484,10 +3531,8 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 </div2>
 
 
-
-
 <pb n="183"/>
-<div2 id="cunliffe060" type="poem" n="Summer in England, 1914">
+<div2 id="cunliffe061" type="poem" n="Summer in England, 1914">
 <head rend="center">SUMMER IN ENGLAND, 1914</head>
 
 <lg type="stanza">
@@ -3534,8 +3579,9 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <byline>-- Alice Meynell.</byline>
 </div2>
 
+
 <pb n="185"/>
-<div2 id="cunliffe061" type="poem" n="Off Heligoland">
+<div2 id="cunliffe062" type="poem" n="Off Heligoland">
 <head rend="center">OFF HELIGOLAND</head>
 
 <lg type="stanza">
@@ -3581,8 +3627,9 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <byline>-- J. E. Middleton.</byline>
 </div2>
 
+
 <pb n="187"/>
-<div2 id="cunliffe062" type="poem" n="He Went For a Soldier">
+<div2 id="cunliffe063" type="poem" n="He Went For a Soldier">
 <head rend="center">HE WENT FOR A SOLDIER</head>
 
 <lg type="stanza">
@@ -3649,8 +3696,9 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <byline>-- Ruth Comfort Mitchell.</byline>
 </div2>
 
+
 <pb n="190"/>
-<div2 id="cunliffe063" type="poem" n="On the Porch">
+<div2 id="cunliffe064" type="poem" n="On the Porch">
 <head rend="center">ON THE PORCH</head>
 
 <lg type="stanza">
@@ -3702,8 +3750,9 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <byline>-- Harriet Monroe.</byline>
 </div2>
 
+
 <pb n="192"/>
-<div2 id="cunliffe064" type="poem" n="A. S. K.">
+<div2 id="cunliffe065" type="poem" n="A. S. K.">
 <head rend="center">A. S. K.</l>
 <head rend="center"><hi rend="italic">July 14, 1915</hi></head>
 
@@ -3732,7 +3781,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="193"/>
-<div2 id="cunliffe065" type="poem" n="A Song of Peace and Honor">
+<div2 id="cunliffe066" type="poem" n="A Song of Peace and Honor">
 <head rend="center">A SONG OF PEACE AND HONOR</head>
 
 <lg type="stanza">
@@ -3823,8 +3872,9 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <byline>-- E. Nesbit.</byline>
 </div2>
 
+
 <pb n="196"/>
-<div2 id="cunliffe066" type="poem" n="The Fisher-Lad">
+<div2 id="cunliffe067" type="poem" n="The Fisher-Lad">
 <head rend="center">THE FISHER-LAD</head>
 
 <lg type="stanza">
@@ -3853,13 +3903,14 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <byline>-- J. A. Nicklin.</byline>
 </div2>
 
+
 <pb n="197"/>
 <xptr doc="Clarke.xml" from="clarke062"/>
 <pb n="198"/>
 
 
 <pb n="199"/>
-<div2 id="cunliffe067" type="poem" n="Master and Pupil">
+<div2 id="cunliffe068" type="poem" n="Master and Pupil">
 <head rend="center">MASTER AND PUPIL</l>
 <head rend="center">(To J. F. R.)</head>
 
@@ -3948,9 +3999,8 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 </div2>
 
 
-
 <pb n="202"/>
-<div2 id="cunliffe068" type="poem" n="Two Pictures">
+<div2 id="cunliffe069" type="poem" n="Two Pictures">
 <head rend="center">TWO PICTURES</head>
 
 <lg type="stanza">
@@ -3985,11 +4035,13 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <byline>-- "Observer, Royal Flying Corps."</byline>
 </div2>
 
+
 <pb n="203"/>
 <xptr doc="Clarke.xml" from="clarke047"/>
 
+
 <pb n="204"/>
-<div2 id="cunliffe069" type="poem" n="The Dead Soldier">
+<div2 id="cunliffe070" type="poem" n="The Dead Soldier">
 <head rend="center">THE DEAD SOLDIER</head>
 
 <lg type="stanza">
@@ -4026,7 +4078,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="207"/>
-<div2 id="cunliffe070" type="poem" n="Men Have Wings At Last">
+<div2 id="cunliffe071" type="poem" n="Men Have Wings At Last">
 <head rend="center">MEN HAVE WINGS AT LAST</head>
 <head rend="center">(Air-Craft and the War)</head>
 
@@ -4162,8 +4214,9 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <byline>-- Josephine Preston Peabody.</byline>
 </div2>
 
+
 <pb n="212"/>
-<div2 id="cunliffe071" type="poem" n="Revenge for Rheims">
+<div2 id="cunliffe072" type="poem" n="Revenge for Rheims">
 <head rend="center">REVENGE FOR RHEIMS</head>
 
 <lg type="stanza">
@@ -4198,12 +4251,13 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <byline>-- Stephen Phillips.</byline>
 </div2>
 
+
 <pb n="213"/>
 <xptr doc="Clarke.xml" from="clarke045"/>
 
 
 <pb n="214"/>
-<div2 id="cunliffe072" type="poem" n="Socks">
+<div2 id="cunliffe073" type="poem" n="Socks">
 <head rend="center">SOCKS</head>
 
 <lg type="stanza">
@@ -4238,8 +4292,9 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <byline>-- Jessie Pope.</byline>
 </div2>
 
+
 <pb n="215"/>
-<div2 id="cunliffe073" type="poem" n="To Shakespeare, 1916">
+<div2 id="cunliffe074" type="poem" n="To Shakespeare, 1916">
 <head rend="center">TO SHAKESPEARE, 1916</head>
 
 <lg type="stanza">
@@ -4262,8 +4317,9 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <byline>-- Charles G. D. Roberts.</byline>
 </div2>
 
+
 <pb n="216"/>
-<div2 id="cunliffe074" type="poem" n="Belgium the Bar-Lass">
+<div2 id="cunliffe075" type="poem" n="Belgium the Bar-Lass">
 <head rend="center">BELGIUM THE BAR-LASS</head>
 
 <lg type="stanza">
@@ -4321,7 +4377,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="218"/>
-<div2 id="cunliffe075" type="poem" n="Cassandra">
+<div2 id="cunliffe076" type="poem" n="Cassandra">
 <head rend="center">CASSANDRA</head>
 
 <lg type="stanza">
@@ -4400,8 +4456,9 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <byline>-- Edwin Arlington Robinson.</byline>
 </div2>
 
+
 <pb n="221"/>
-<div2 id="cunliffe076" type="poem" n="Shakespeare, 1916">
+<div2 id="cunliffe077" type="poem" n="Shakespeare, 1916">
 <head rend="center">SHAKESPEARE, 1916</head>
 
 <lg type="stanza">
@@ -4424,7 +4481,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="222"/>
-<div2 id="cunliffe077" type="poem" n="Statistics">
+<div2 id="cunliffe078" type="poem" n="Statistics">
 <head rend="center">STATISTICS</head>
 
 <lg type="stanza">
@@ -4454,7 +4511,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="223"/>
-<div2 id="cunliffe078" type="poem" n="Australians to the Front!">
+<div2 id="cunliffe079" type="poem" n="Australians to the Front!">
 <head rend="center">AUSTRALIANS TO THE FRONT!</head>
 <head rend="center">(Captain Cook hears the Drums)</head>
 
@@ -4513,7 +4570,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="225"/>
-<div2 id="cunliffe079" type="poem" n="Her Prayer -- For Him">
+<div2 id="cunliffe080" type="poem" n="Her Prayer -- For Him">
 <head rend="center">HER PRAYER -- FOR HIM</head>
 
 <lg type="stanza">
@@ -4538,7 +4595,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="226"/>
-<div2 id="cunliffe080" type="poem" n="The Vale of Shadows">
+<div2 id="cunliffe081" type="poem" n="The Vale of Shadows">
 <head rend="center">THE VALE OF SHADOWS</head>
 
 <lg type="stanza">
@@ -4640,7 +4697,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="230"/>
-<div2 id="cunliffe081" type="poem" n="The Wayside Calvary">
+<div2 id="cunliffe082" type="poem" n="The Wayside Calvary">
 <head rend="center">THE WAYSIDE CALVARY</head>
 <note>(Lines written on the anniversary of the outbreak of the war.)</note>
 
@@ -4669,6 +4726,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l rend="indent4">Who live that men may die.</l></lg>
 
 <lg>
+<pb n="231"/>
 <l>Ah, turn your eyes away: He reads your heart;</l>
 <l>Pass on and, having done your work abhorred,</l>
 <l>Join hands with Judas in his place apart,</l>
@@ -4684,7 +4742,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="234"/>
-<div2 id="cunliffe082" type="poem" n="The Mother">
+<div2 id="cunliffe083" type="poem" n="The Mother">
 <head rend="center">THE MOTHER</head>
 
 <lg type="stanza">
@@ -4715,7 +4773,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="235"/>
-<div2 id="cunliffe083" type="poem" n="A Thanksgiving">
+<div2 id="cunliffe084" type="poem" n="A Thanksgiving">
 <head rend="center">A THANKSGIVING</head>
 
 <lg type="stanza">
@@ -4752,7 +4810,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="236"/>
-<div2 id="cunliffe084" type="poem" n="Form Fours">
+<div2 id="cunliffe085" type="poem" n="Form Fours">
 <head rend="center">"FORM FOURS"</head>
 <head rend="center"><hi rend="smallcaps">A VOLUNTEER'S NIGHTMARE</hi></head>
 
@@ -4771,6 +4829,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <lg>
 <l>Of course if you don't think deeply, you do it without a hitch;</l>
 <l>You have only to know your right and left, and remember which is which;</l>
+<pb n="237"/>
 <l>But as soon as you try to be careful, you get in the deuce of a plight,</l>
 <l>With "a pace to the right with the left foot, and one to the rear with the right!"</l></lg>
 
@@ -4789,7 +4848,8 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 </div2>
 
 
-<div2 id="cunliffe085" type="poem" n="Field Ambulance in Retreat">
+<pb n="238"/>
+<div2 id="cunliffe086" type="poem" n="Field Ambulance in Retreat">
 <head rend="center">FIELD AMBULANCE IN RETREAT</head>
 <head rend="center"><hi rend="italic">Via Dolorosa, Via Sacra</hi></head>
 
@@ -4833,7 +4893,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="240"/>
-<div2 id="cunliffe086" type="poem" n="Close Your Ranks">
+<div2 id="cunliffe087" type="poem" n="Close Your Ranks">
 <head rend="center">CLOSE YOUR RANKS</head>
 
 <lg type="stanza">
@@ -4881,7 +4941,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="242"/>
-<div2 id="cunliffe087" type="poem" n="Heart of All the World">
+<div2 id="cunliffe088" type="poem" n="Heart of All the World">
 <head rend="center">HEART OF ALL THE WORLD</head>
 <head rend="center">(Belgium)</head>
 
@@ -4913,7 +4973,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="245"/>
-<div2 id="cunliffe088" type="poem" n="Kitchener of Khartoum">
+<div2 id="cunliffe089" type="poem" n="Kitchener of Khartoum">
 <head rend="center">KITCHENER OF KHARTOUM</head>
 
 <lg type="stanza">
@@ -4950,7 +5010,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="246"/>
-<div2 id="cunliffe089" type="poem" n="The Spring in Ireland: 1916">
+<div2 id="cunliffe090" type="poem" n="The Spring in Ireland: 1916">
 <head rend="center">THE SPRING IN IRELAND: 1916</head>
 
 <lg type="stanza">
@@ -4977,6 +5037,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l>A garland of the fiow'rs you gather&eacute;d.</l></lg>
 
 <lg>
+<pb n="247"/>
 <head rend="center">II</head>
 <l>Be green upon their graves, O happy Spring,</l>
 <l>For they were young and eager who are dead;</l>
@@ -5008,6 +5069,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l>And drank your blood e'er that they drank the dew.</l></lg>
 
 <lg>
+<pb n="248"/>
 <l>Then you went down, and then, and as in pain,</l>
 <l>The Spring affrighted fled her leafy ways,</l>
 <l>The clouds came to the earth in gusty rain,</l>
@@ -5038,6 +5100,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l>Because the Spring is come into our land.</l></lg>
 
 <lg>
+<pb n="249"/>
 <head rend="center">III</head>
 <l>In other lands they may,</l>
 <l>With public joy or dole along the way,</l>
@@ -5078,7 +5141,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="251"/>
-<div2 id="cunliffe090" type="poem" n="Sailor, What of the Debt We Owe You?">
+<div2 id="cunliffe091" type="poem" n="Sailor, What of the Debt We Owe You?">
 <head rend="center">SAILOR, WHAT OF THE DEBT WE OWE YOU?</head>
 
 <lg type="stanza">
@@ -5108,8 +5171,9 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <note>(Eldest son of the Earl of Castlestewart, Lieut. 6th Royal Scots Fusiliers, killed in action in France between Sept. 25 and 27, 1915.)</note>
 </div2>
 
+
 <pb n="252"/>
-<div2 id="cunliffe091" type="poem" n="From America">
+<div2 id="cunliffe092" type="poem" n="From America">
 <head rend="center">FROM AMERICA</head>
 
 <lg type="stanza">
@@ -5134,7 +5198,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="253"/>
-<div2 id="cunliffe092" type="poem" n="The Trumpet">
+<div2 id="cunliffe093" type="poem" n="The Trumpet">
 <head rend="center">THE TRUMPET</head>
 
 <lg type="stanza">
@@ -5181,7 +5245,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="255"/>
-<div2 id="cunliffe093" type="poem" n="England's Dead">
+<div2 id="cunliffe094" type="poem" n="England's Dead">
 <head rend="center">ENGLAND'S DEAD</head>
 <epigraph rend="center">("Make them to be numbered with thy Saints: in glory everlasting.")</epigraph>
 
@@ -5323,7 +5387,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="260"/>
-<div2 id="cunliffe094" type="poem" n="Said Attila the Hun to --">
+<div2 id="cunliffe095" type="poem" n="Said Attila the Hun to --">
 <head rend="center">SAID ATTILA THE HUN TO --</head>
 
 <lg type="stanza">
@@ -5371,7 +5435,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="262"/>
-<div2 id="cunliffe095" type="poem" n="The Unconquered Hope">
+<div2 id="cunliffe096" type="poem" n="The Unconquered Hope">
 <head rend="center">THE UNCONQUERED HOPE</head>
 <note>(A ship recently arrived in England from America, laden with toys, the gift of the American people, for the children both of the Allies and the Enemy.)</note>
 
@@ -5436,7 +5500,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="264"/>
-<div2 id="cunliffe096" type="poem" n="Sonnet">
+<div2 id="cunliffe097" type="poem" n="Sonnet">
 <head rend="center">SONNET</head>
 <note rend="center"><hi rend="italic">October 1st, 1914</hi></note>
 
@@ -5462,7 +5526,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="265"/>
-<div2 id="cunliffe097" type="poem" n="To My Country">
+<div2 id="cunliffe098" type="poem" n="To My Country">
 <head rend="center">TO MY COUNTRY</head>
 
 <lg type="stanza">
@@ -5487,7 +5551,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="266"/>
-<div2 id="cunliffe098" type="poem" n="Aftermath">
+<div2 id="cunliffe099" type="poem" n="Aftermath">
 <head rend="center">AFTERMATH</head>
 
 <lg type="stanza">
@@ -5515,7 +5579,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="267"/>
-<div2 id="cunliffe099" type="poem" n="A Girl's Song">
+<div2 id="cunliffe100" type="poem" n="A Girl's Song">
 <head rend="center">A GIRL'S SONG</head>
 
 <lg type="stanza">
@@ -5549,7 +5613,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l rend="indent">And sleeping sweetly by his side!</l></lg>
 
 <lg>
-<l><pb n="268"/>
+<pb n="268"/>
 <l>The Spring will come by Meuse and Marne,</l>
 <l rend="indent">The birds be blithesome in the tree.</l>
 <l>I heap the stones to make his cairn</l>
@@ -5559,7 +5623,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 
 <pb n="269"/>
-<div2 id="cunliffe100" type="poem" n="The Laughers">
+<div2 id="cunliffe101" type="poem" n="The Laughers">
 <head rend="center">THE LAUGHERS</head>
 
 <lg type="stanza">
@@ -5654,4 +5718,602 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <byline>-- Louis Untermeyer.</byline>
 </div2>
 
-100 p.272
+
+<pb n="273"/>
+<div2 id="cunliffe102" type="poem" n="The American Volunteers">
+<head rend="center">THE AMERICAN VOLUNTEERS</head>
+
+<lg type="stanza">
+<l n="1">N<hi rend="smallcaps">eutral</hi>! America, you cannot give</l>
+<l rend="indent">To your sons' souls neutrality. Your powers</l>
+<l>Are sovereign, Mother, but past histories live</l>
+<l rend="indent">In hearts as young as ours.</l></lg>
+
+<lg>
+<l>We who are free disdain oppression, lust</l>
+<l rend="indent">And infamous raid. We have been pioneers</l>
+<l>For freedom and our code of honor must</l>
+<l rend="indent">Dry and not startle tears.</l></lg>
+
+<lg>
+<l>We've read of Lafayette, who came to give</l>
+<l rend="indent">His youth, with his companions and their powers,</l>
+<l>To help the Colonies -- and heroes live</l>
+<l rend="indent">In hearts as young as ours!</l></lg>
+
+<lg>
+<l>Neutral! We who go forth with sword and lance,</l>
+<l rend="indent">A little band to swell the battle's flow,</l>
+<l>Go willingly, to pay again to France</l>
+<l rend="indent">Some of the debt we owe.</l></lg>
+<byline>-- Marie Van Vorst.</byline>
+</div2>
+
+
+<pb n="274"/>
+<div2 id="cunliffe103" type="poem" n="The Conscript">
+<head rend="center">THE CONSCRIPT</head>
+
+<lg type="stanza">
+<l n="1">T<hi rend="smallcaps">hen</hi> former stars were faint and signs were fled.</l>
+<l rend="indent">Dawn flamed and sleepers roused: you saw men's souls</l>
+<l rend="indent">Crowned of that fire with terrible aureoles.</l>
+<l>You saw -- and hid your head, and hid your head.</l>
+<l>What of <hi rend="italic">you</hi>, O Unwilling, shall be said?</l>
+<l rend="indent6"><hi rend="italic">England, Beloved</hi>,</l>
+<l rend="indent"><hi rend="italic">Say that Pain crowned even mine with all men's souls</hi>.</l></lg>
+
+<lg>
+<l>Joyous as guest unto the rose-heaped board,</l>
+<l rend="indent">Dreamful as lover to his dreams' desire,</l>
+<l rend="indent">Steadfast as martyr to the pitiless fire,</l>
+<l>My sons, yet not to any task abhorred,</l>
+<l>But to love's service, went with one accord.</l>
+<l rend="indent6"><hi rend="italic">No less, Beloved</hi>,</l>
+<l rend="indent"><hi rend="italic">My heart perforce shall kindle at thy fire</hi>.</l></lg>
+
+<lg>
+<l>Toiled in my vineyard since the early sun,</l>
+<l rend="indent">Toiled through the drouth, the ardent heat of noon,</l>
+<l rend="indent">These, my true laborers. Say, who earns my boon,</l>
+<pb n="275"/>
+<l>My honorable wage, my deep Well-done,</l>
+<l>He that shall come at rise or set of sun?</l>
+<l rend="indent6"><hi rend="italic">Even he, Beloved</hi>,</l>
+<l rend="indent"><hi rend="italic">Who serves thee there, whether at eve or noon</hi>.</l></lg>
+
+<lg>
+<l>The marriage-feast was spread within my house,</l>
+<l rend="indent">Red flowed the wine, loud rose the eager din.</l>
+<l rend="indent">Prepared for honored guests, the fare therein</l>
+<l>Now bids another company carouse.</l>
+<l>O heedless, find you welcome in my house?</l>
+<l rend="indent6"><hi rend="italic">Even I, Beloved</hi>,</l>
+<l rend="indent"><hi rend="italic">Compelled from hedge and highway to come in</hi>.</l></lg>
+
+<lg>
+<l>Renownless Christs of a new Calvary,</l>
+<l rend="indent">My children died, love's dearest debt to pay.</l>
+<l rend="indent">Thief, who have filched your peace in vain, to-day</l>
+<l>Beside that ransoming love unforced and free,</l>
+<l>Perish you not on a most shameful tree?</l>
+<l rend="indent"><hi rend="italic">Not so, Beloved</hi>,</l>
+<l rend="indent"><hi rend="italic">For I shall meet thy Dead in heaven to-day</hi>.</l></lg>
+<byline>-- Alberta Vickridge.</byline>
+</div2>
+
+
+<pb n="276"/>
+<div2 id="cunliffe104" type="poem" n="In a Slum">
+<head rend="center">IN A SLUM</head>
+
+<lg type="stanza">
+<l n="1">I <hi rend="smallcaps">never</hi> heard him speak a kindly word,</l>
+<l rend="indent">My tears were answered with a savage oath,</l>
+<l>He drank what we could very ill afford,</l>
+<l rend="indent">He was a bully and a drunkard both.</l></lg>
+
+<lg>
+<l>He broke my body as he broke my soul,</l>
+<l rend="indent">I shivered when I heard his stumbling feet;</l>
+<l>At times the very household "sticks" he stole,</l>
+<l rend="indent">To pawn and pay for women in the street.</l></lg>
+
+<lg>
+<l>I stitched and labored for his children's bread,</l>
+<l rend="indent">Fourpence a shirt the sweated wage I earned,</l>
+<l>Save when the doctor forced me to my bed,</l>
+<l rend="indent">Where thrice a mother's travail I had learned.</l></lg>
+
+<lg>
+<l>The day he left me for the barrack square,</l>
+<l rend="indent">He swore we women were no earthly use</l>
+<l>For anything but filling men with care,</l>
+<l rend="indent">His parting words were words of foul abuse.</l></lg>
+
+<lg>
+<l>And now they tell me of a hero's death,</l>
+<l rend="indent">How one to twelve he held the Huns at bay,</l>
+<l>And won the Cross, yet with his passing breath</l>
+<l rend="indent">He bade the chaplain "take his face away."</l></lg>
+
+<lg>
+<pb n="277"/>
+<l>Inside the pubs the neighbors speak his praise,</l>
+<l rend="indent">The man who brought the world about our slum,</l>
+<l>Or by the open door they stand and gaze,</l>
+<l rend="indent">And wonder why his slattern wife is dumb.</l></lg>
+
+<lg>
+<l>The preacher dwells the ways of God upon,</l>
+<l rend="indent">Surpassing man's design and woman's wit;</l>
+<l>Oh God, I can't be sorry he is gone,</l>
+<l rend="indent">But going I am glad he did his bit.</l></lg>
+<byline>-- A. Stodart Walker.</byline>
+</div2>
+
+
+<pb n="278"/>
+<div2 id="cunliffe105" type="poem" n="England to Denmark">
+<head rend="center">ENGLAND TO DENMARK</head>
+<head rend="center"><hi rend="italic">August, 1915</hi></head>
+
+<lg type="stanza">
+<l n="1">G<hi rend="smallcaps">reat</hi> little land, old comrades of the sea,</l>
+<l rend="indent">Salt of its salt, whelps of its Viking brood,</l>
+<l rend="indent">Sharers with us in its free fearless mood,</l>
+<l>Narrow your home, world-wide your chivalry!</l>
+<l>Now call we kin for the past and the years to be,</l>
+<l rend="indent">Now is the name of righteous Cnut renewed,</l>
+<l rend="indent">Forgiven and forgot all days of feud,</l>
+<l>In your sure aid and swift sweet sympathy.</l></lg>
+
+<lg>
+<l>Your forbears ruled us with the wise King's yoke,</l>
+<l rend="indent">Your Princess binds us with her Queenly grace,</l>
+<l rend="indent4">To-day your strong sons all our hearts constrain,</l>
+<l>Who could not brook a foul and dastard stroke,</l>
+<l rend="indent">But swept between, and rather death would face,</l>
+<l rend="indent4">Than that sea-murder Danish waves should stain.</l></lg>
+<byline>-- Herbert Warren.</byline>
+</div2>
+
+
+<pb n="279"/>
+<div2 id="cunliffe106" type="poem" n="Mother of Nations">
+<head rend="center">MOTHER OF NATIONS</head>
+<head rend="center">WHY?</head>
+
+<lg type="stanza">
+<l n="1">D<hi rend="smallcaps">oes</hi> the Mother of Nations draw the sword</l>
+<l rend="indent">To rescue her children oppressed?</l>
+<l>They have all that the richest lands afford;</l>
+<l>They sit content at an ample board</l>
+<l rend="indent">As safe as a bird in its nest.</l></lg>
+
+<lg>
+<l>Has she laid her spear on the shield of Mars</l>
+<l rend="indent">New lands in the wars to gain?</l>
+<l>Her dominions extend wherever the stars</l>
+<l>Are blushing with shame for our foolish wars;</l>
+<l rend="indent">Her ships are on every main.</l></lg>
+
+<lg>
+<l>And not that the world may acclaim her grand</l>
+<l rend="indent">Is the roar of her guns on the seas;</l>
+<l>Her name is lustred on every strand,</l>
+<l>Her glory is known to the farthest land</l>
+<l rend="indent">Where her standard floats on the breeze.</l></lg>
+
+<lg>
+<l>Ah this is the pillar of cloud and fire</l>
+<l rend="indent">That leads her hosts along;</l>
+<l>This, this is the goal of their deep desire,</l>
+<l>The road where their feet shall never tire, --</l>
+<l rend="indent">To be just, keep faith and be strong.</l></lg>
+
+<lg>
+<pb n="280"/>
+<l>So the Mother of Nations has risen in might</l>
+<l rend="indent">At the word of the onward call;</l>
+<l>She has shaken her banners forth to the light,</l>
+<l>And marched to the front of the people's fight</l>
+<l rend="indent">Like the van of a tidal wall.</l></lg>
+
+<lg>
+<l>And the future shall say of her sons who died</l>
+<l rend="indent">Wherever their feet have trod</l>
+<l>With millions of comrades in arms allied;</l>
+<l>"They cast the treasures of earth aside</l>
+<l rend="indent">And marched to the goals of God."</l></lg>
+<byline>-- Albert D. Watson.</byline>
+<dateline><name type="place" rend="left">Toronto.</name></dateline>
+</div2>
+
+
+<pb n="281"/>
+<div2 id="cunliffe107" type="poem" n="Our Men">
+<head rend="center">OUR MEN</head>
+
+<lg type="stanza">
+<l n="1">O<hi rend="smallcaps">ur</hi> men, they are our stronghold,</l>
+<l rend="indent">Our bastioned wall unscaled,</l>
+<l>Who, against Hate and Wrong, hold</l>
+<l rend="indent">This Realm that never quailed;</l>
+<l>Who bear the noblest burden</l>
+<l rend="indent">Life lays on shoulders broad,</l>
+<l>Asking not fame or guerdon,</l>
+<l rend="indent">Asking not gold or laud.</l></lg>
+
+<lg>
+<l>They go where England speeds them;</l>
+<l rend="indent">They laugh and jest at Fate.</l>
+<l>They go where England needs them</l>
+<l rend="indent">And dream not they are great,</l>
+<l>And oft, 'mid smoke and smother</l>
+<l rend="indent">By blinding warstorm fanned</l>
+<l>Sons of our mighty Mother,</l>
+<l rend="indent">They fall that she may stand.</l></lg>
+
+<lg>
+<l>Our sailors, save when sleeping</l>
+<l rend="indent">The light sleep of the sea,</l>
+<l>Their ancient watch are keeping,</l>
+<l rend="indent">Mother, for thine and thee!</l>
+<pb n="282"/>
+<l>They guard thy maiden daughters</l>
+<l rend="indent">From worse than death or pain;</l>
+<l>The men who ward the waters,</l>
+<l rend="indent">The men who man the main.</l></lg>
+
+<lg>
+<l>When navies meet and wrestle,</l>
+<l rend="indent">And their vast arms strike home --</l>
+<l>Vessel with monstrous vessel</l>
+<l rend="indent">Matched on the flame-lit foam --</l>
+<l>What fleet returns in glory?</l>
+<l rend="indent">What fleet makes haste to fly?</l>
+<l>O Sea, that knowest our story,</l>
+<l rend="indent">Thou, thou canst best reply!</l></lg>
+
+<lg>
+<l>Then hail to all who gave us</l>
+<l rend="indent">Their might of arm and soul,</l>
+<l>Hot and athirst to save us,</l>
+<l rend="indent">To heal, and keep us whole;</l>
+<l>Whether they serve where yonder</l>
+<l rend="indent">Far-burrowing trenches run,</l>
+<l>Or where the ocean thunder</l>
+<l rend="indent">Peals with the thundering gun.</l></lg>
+<byline>-- William Watson.</byline>
+</div2>
+
+
+<pb n="283"/>
+<div2 id="cunliffe108" type="poem" n="The Reapers">
+<head rend="center">THE REAPERS</head>
+
+<lg type="stanza">
+<l n="1">R<hi rend="smallcaps">ed</hi> are the hands of the Reapers,</l>
+<l rend="indent">And the harvest is so white!</l>
+<l>Red are the feet that are treading</l>
+<l rend="indent">The threshing floors by night:</l>
+<l>And, on the young brows, dripping</l>
+<l rend="indent">As with the dews of morn,</l>
+<l>Deep rose-red are the woundings,</l>
+<l rend="indent">Like scars of a crown of thorn.</l></lg>
+
+<lg>
+<l>Tired, so many, with reaping, --</l>
+<l rend="indent">Tired with treading the grain,</l>
+<l>Still they lie, in their sleeping,</l>
+<l rend="indent">Low in the Valley of Pain, --</l>
+<l>Never again to be quaffing</l>
+<l rend="indent">The joy of life, like wine;</l>
+<l>Never again to be laughing</l>
+<l rend="indent">In Youth's glad hour divine.</l></lg>
+
+<lg>
+<l>Birds shall sing in the branches,</l>
+<l rend="indent">Children dance by the shore;</l>
+<l>But they who shared the red reaping</l>
+<l rend="indent">Shall come back never more.</l>
+<pb n="284"/>
+<l>Let whoso can forget them,</l>
+<l rend="indent">Walking life's noisy ways;</l>
+<l>We who have looked on the Reapers</l>
+<l rend="indent">Go quietly, all our days.</l></lg>
+<byline>-- Lauchlan Maclean Watt.</byline>
+<dateline>
+<name type="place">France, </name>
+<date>1916.</date>
+</dateline>
+<note rend="right">(Chaplain of the Force.)</note>
+</div2>
+
+
+<pb n="285"/>
+<xptr doc="Clarke.xml" from="clarke032"/>
+
+
+<pb n="286"/>
+<div2 id="cunliffe109" type="poem" n="The Wakened God">
+<head rend="center">THE WAKENED GOD</head>
+
+<lg type="stanza">
+<l n="1">T<hi rend="smallcaps">he</hi> War-god wakened drowsily;</l>
+<l rend="indent">There were gold chains about his hands.</l>
+<l rend="indent">He said: "And who shall reap my lands</l>
+<l>And bear the tithes to Death for me?</l></lg>
+
+<lg>
+<l>"The nations stilled my thunderings;</l>
+<l rend="indent">They wearied of my steel despair,</l>
+<l rend="indent">The flames from out my burning hair:</l>
+<l>Is there an ending of such things?"</l></lg>
+
+<lg>
+<l>Low laughed the Earth, and answered: "When</l>
+<l rend="indent">Was any changeless law I gave</l>
+<l rend="indent">Changed by my sons intent to save,</l>
+<l>By puny pitying hands of men?</l></lg>
+
+<lg>
+<l>"I feel no ruth for some I bear....</l>
+<l rend="indent">The swarming, hungering overflow</l>
+<l rend="indent">Of crowded millions, doomed to go,</l>
+<l>They must destroy who chained you there.</l></lg>
+
+<lg>
+<l>"For some bright stone or shining praise</l>
+<l rend="indent">They stint a million bodies' breath,</l>
+<l rend="indent">And sell the women, shamed, to death,</l>
+<l>And send the men brief length of days.</l></lg>
+
+<lg>
+<pb n="287"/>
+<l>"They kill the bodies swift for me,</l>
+<l rend="indent">And kill the souls you gave to peace....</l>
+<l rend="indent">You were more merciful than these,</l>
+<l>Old master of my cruelty.</l></lg>
+
+<lg>
+<l>"Lo, souls are scarred and virtues dim:</l>
+<l rend="indent">Take back thy scourge of ministry,</l>
+<l rend="indent">Rise from thy silence suddenly,</l>
+<l>Lest these still take Death's toll to him!"</l></lg>
+
+<lg>
+<l>The War-God snapped his golden chain:</l>
+<l rend="indent">His mercies thundered down the world,</l>
+<l rend="indent">And lashing battle-lines uncurled</l>
+<l>And scourged the crouching lands again.</l></lg>
+<byline>--Margaret Widdemer.</byline>
+</div2>
+
+
+<pb n="288"/>
+<div2 id="cunliffe110" type="poem" n="From a Flemish Graveyard">
+<head rend="center">FROM A FLEMISH GRAVEYARD</head>
+<head rend="center">(January, 1915)</head>
+
+<lg type="stanza">
+<l n="1">A <hi rend="smallcaps">year</hi> hence may the grass that waves</l>
+<l>O'er English men in Flemish graves,</l>
+<l>Coating this clay with green of peace</l>
+<l>And softness of a year's increase,</l>
+<l>Be kind and lithe as English grass</l>
+<l>To bend and nod as the winds pass;</l>
+<l>It was for grass on English hills</l>
+<l>These bore too soon the last of ills.</l></lg>
+
+<lg>
+<l>And may the wind be brisk and clean,</l>
+<l>And singing cheerfully between</l>
+<l>The bents a pleasant-burdened song</l>
+<l>To cheer these English dead along;</l>
+<l>For English songs and English winds</l>
+<l>Are they that bred these English minds.</l></lg>
+
+<lg>
+<l>And may the circumstantial trees</l>
+<l>Dip, for these dead ones, in the breeze,</l>
+<l>And make for them their silver play</l>
+<l>Of spangled boughs each shiny day.</l>
+<pb n="289"/>
+<l>Thus may these look above, and see</l>
+<l>And hear the wind in grass and tree,</l>
+<l>And watch a lark in heaven stand,</l>
+<l>And think themselves in their own land.</l></lg>
+<byline>-- Iolo Aneurin Williams.</byline>
+</div2>
+
+
+<pb n="290"/>
+<div2 id="cunliffe111" type="poem" n="The First Battle of Ypres">
+<head rend="center">THE FIRST BATTLE OF YPRES<ref target="cunliffen110n1">1</ref></head>
+<note id="cunliffe110n1" place="foot" n="1">
+A<hi rend="smallcaps">uthor's</hi> N<hi rend="smallcaps">ote</hi>. -- In the first Battle of Ypres, which was fought in October-November, 1914, a thin line of British, supported on each wing by small bodies of French, stopped the push of an immense German army on Calais. The allusion in the latter part of the poem is not to "the angels of Mons," but to a story received from a very competent witness. On three occasions the Germans broke through our line, then paused and retired, for no apparent reason. On each of these occasions prisoners, when asked the cause of their retirement, replied: "We saw your enormous Reserves." We had no Reserves. This story was incidentally confirmed by the remark of another officer on the curious conduct of the Germans in violently shelling certain empty fields behind our lines.</note>
+
+<lg type="stanza">
+<l n="1">G<hi rend="smallcaps">rey</hi> field of Flanders, grim old battle-plain,</l>
+<l>What armies held the iron line round Ypres in the rain,</l>
+<l>From Bixschoote to Baecelaere and down to the Lys river?</l></lg>
+
+<lg>
+<l rend="indent14">Merry men of England,</l>
+<l rend="indent14">Men of the green shires,</l>
+<l rend="indent14">From the winding waters,</l>
+<l rend="indent14">The elm-trees and the spires,</l>
+<l>And the lone village dreaming in the downland yonder.</l>
+<l>Half a million Huns broke over them in thunder,</l>
+<l>Roaring seas of Huns swept on and sunk again,</l>
+<pb n="291"/>
+<l>Where fought the men of England round Ypres in the rain,</l>
+<l>On the grim plain of Flanders, whose earth is fed with slaughter.</l></lg>
+
+<lg>
+<l>North-country fighting men from the mine and the loom,</l>
+<l>Highlander and lowlander stood up to death and doom,</l>
+<l>From Bixschoote to Baecelaere and down to the Lys river.</l></lg>
+
+<lg>
+<l rend="indent14">London men and Irish,</l>
+<l rend="indent14">Indian men and French,</l>
+<l rend="indent14">Charging with the bayonet,</l>
+<l rend="indent14">Firing in the trench,</l>
+<l>Fought in that furious fight, shoulder to shoulder.</l>
+<l>Leapt from their saddles to charge in fierce disorder,</l>
+<l>The Life Guards, mud and blood for the scarlet and the plume,</l>
+<l>And they hurled back the foemen as the wind the sea spume,</l>
+<l>From Bixschoote to Baecelaere and down to the Lys river.</l></lg>
+
+<lg>
+<l>But the huge Hun masses yet mounted more and more,</l>
+<l>Like a giant wave gathering to whelm the sweet shore,</l>
+<l>While swift the exultant foam runs on before and over.</l></lg>
+
+<lg>
+<pb n="292"/>
+<l rend="indent14">Where that foam was leaping,</l>
+<l rend="indent14">With bayonets, or with none,</l>
+<l rend="indent14">The cooks and the service men</l>
+<l rend="indent14">Ran upon the Hun.</l>
+<l>The cooks and the service men charged and charged together</l>
+<l>Moussy's cuirassiers, on foot, with spur and sabre;</l>
+<l>Helmed and shining fought they as warriors fought of yore --</l>
+<l>Till calm fell sinister as the hush at the whirlwind's core,</l>
+<l>From Bixschoote to Baecelaere and down to the Lys river.</l></lg>
+
+<lg>
+<l>Lo! the Emperor launched on us his guard of old renown,</l>
+<l>Stepping in parade-march, as they step through Berlin town,</l>
+<l>On the chill road to Gheluveldt, in the dark before the dawning.</l></lg>
+
+<lg>
+<l rend="indent14">Heavily tolled on them</l>
+<l rend="indent14">Mortal mouths of guns,</l>
+<l rend="indent14">Gallantly, gallantly</l>
+<l rend="indent14">Came the flower of the Huns.</l>
+<l>Proud men they marched, like an avalanche on us falling,</l>
+<l>Prouder men they met, in the dark before the dawning.</l>
+<pb n="293"/>
+<l>Seven to one they came against us to shatter us and drown,</l>
+<l>One to seven in the woodland we fought them up and down.</l>
+<l>In the sad November woodland, when all the skies were mourning.</l></lg>
+
+<lg>
+<l>The long battle thundered till a waxing moon might wane,</l>
+<l>Thrice they broke the exhausted line that held them on the plain,</l>
+<l>And thrice like billows they went back, from viewless bounds retiring.</l></lg>
+
+<lg>
+<l rend="indent14">Why paused they and went backward,</l>
+<l rend="indent14">With never a foe before</l>
+<l rend="indent14">Like a long wave dragging</l>
+<l rend="indent14">Down a level shore</l>
+<l>Its fierce reluctant surges, that came triumphant storming</l>
+<l>The land, and powers invisible drive to its deep returning?</l>
+<l>On the grey field of Flanders again and yet again</l>
+<l>The Huns beheld the Great Reserves on the old battle-plain,</l>
+<l>The blood-red field of Flanders, where all the skies were mourning.</l>
+<pb n="294"/>
+<l>The fury of their marshalled guns might plough no dreadful lane</l>
+<l>Through those Reserves that waited in the ambush of the rain,</l>
+<l>On the riven plain of Flanders, where hills of men lay moaning.</l></lg>
+
+<lg>
+<l rend="indent14">They hurled upon an army</l>
+<l rend="indent14">The bellowing heart of Hell,</l>
+<l rend="indent14">We saw but the meadows</l>
+<l rend="indent14">Torn with their shot and shell.</l>
+<l>We heard not the march of the succours that were coming,</l>
+<l>Their old forgotten bugle-calls, the fifes and the drumming,</l>
+<l>But they gathered and they gathered from the graves where they had lain</l>
+<l>A hundred years, hundreds of years, on the old battle-plain,</l>
+<l>And the young graves of Flanders, all fresh with dews of mourning.</l></lg>
+
+<lg>
+<l>Marlborough's men and Wellington's, the burghers of Courtrai,</l>
+<l>The warriors of Plantagenet, King Louis' <hi rend="italic">Gants glac&eacute;s</hi> --</l>
+<l>And the young, young dead from Mons and the Marne river.</l></lg>
+
+<lg>
+<l><pb n="295"/>
+<l rend="indent14">Old heroic fighting men,</l>
+<l rend="indent14">Who fought for chivalry,</l>
+<l rend="indent14">Men who died for England,</l>
+<l rend="indent14">Mother of Liberty.</l>
+<l>In the world's dim heart, where the waiting spirits slumber,</l>
+<l>Sounded a roar when the walls were rent asunder</l>
+<l>That parted Earth from Hell, and summoning them away,</l>
+<l>Tremendous trumpets blew, as at the Judgment Day --</l>
+<l>And the dead came forth, each to his former banner.</l></lg>
+
+<lg>
+<l>On the grim field of Flanders, the old battle plain,</l>
+<l>Their armies held the iron line round Ypres in the rain,</l>
+<l>From Bixschoote to Baecelaere and down to the Lys river.</l></lg>
+<byline>-- Margaret L. Woods.</byline>
+</div2>
+
+
+<pb n="296"/>
+<div2 id="cunliffe112" type="poem" n="Kitchener">
+<head rend="center">KITCHENER</head>
+
+<lg type="stanza">
+<l n="1">I<hi rend="smallcaps">f</hi> Death had questioned thee,</l>
+<l>"Soldier, where would'st thou take,</l>
+<l>The immitigable blow?"</l>
+<l>Thou hadst answered, "Let it be</l>
+<l>Where the battalions shake</l>
+<l>And break the entrench&eacute;d foe."</l></lg>
+
+<lg>
+<l>Yet wert thou nobly starred</l>
+<l>And destined. Thou dost die</l>
+<l>On the grim English sea;</l>
+<l>Thou goest to the old tarred</l>
+<l>Great Captains, and shalt lie</l>
+<l>Pillowed with them eternally.</l></lg>
+
+<lg>
+<l>And they shall stir from their rest</l>
+<l>Each in his lordly shroud,</l>
+<l>And say, "'Fore God, we have room,</l>
+<l>So are the deeps made proud,</l>
+<l>Behold the glory on his breast,</l>
+<l>Kitchener of Khartoum!"</l></lg>
+<byline>-- X.</byline>
+</div2>
+
+
+<pb n="297"/>
+<div2 id="cunliffe113" type="poem" n="Marching on Tanga">
+<head rend="center">MARCHING ON TANGA</head>
+
+<lg type="stanza">
+<l n="1">M<hi rend="smallcaps">arching</hi> on Tanga, marching the parched plain</l>
+<l>Of wavering spear-grass by Pangani river,</l>
+<l>England came to me -- me who had always ta'en</l>
+<l>But never given before -- England, the giver,</l>
+<l>In a vision of tall poplar trees that shiver</l>
+<l>On still evenings of summer, after rain,</l>
+<l>By Slapton Ley, where reed-beds start and quiver</l>
+<l>When scarce a ripple moves the upland grain.</l></lg>
+
+<lg>
+<l>Then I thanked God that now I had suffered pain</l>
+<l>And, as the parched plain, thirst, and lain awake</l>
+<l>Shivering all night through till cold daybreak:</l>
+<l>In that I count these sufferings my gain</l>
+<l>And her acknowledgment. Nay, more, would fain</l>
+<l>Suffer as many more for her sweet sake.</l></lg>
+<byline>-- Francis Brett Young.</byline>
+<note>With the British Expeditionary Force, Marago-Opuni, German East Africa. June, 1916.</note>
+</div2>
+
+</body>
+
+</text>

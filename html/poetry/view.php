@@ -1,23 +1,12 @@
 <?php
 include("../config.php");	
 
-print "<html>
-  <head> 
-    $csslink
-    <title>The Great War : Poetry : View</title> 
-    <meta http-equiv='Content-Type' content='text/html; charset=iso-8859-1'> 
-    <base href='$base_url'> 
-  </head> 
-<body> 
-";
-
 include_once("lib/taminoConnection.class.php");
 include_once("lib/mybreadcrumb.php");
 
-include("header.php");
-print "<p class='breadcrumbs'>" . $breadcrumb->show_breadcrumb() . "</p>";
-
 $id = $_GET['id'];
+$self = "view.php";
+$selflink = "$base_url" . "poetry/" . $self . "?id=$id";
 
 $args = array('host' => $tamino_server,
 	      'db' => $tamino_db,
@@ -38,16 +27,33 @@ return <div id="{$docname}">
 <teiHeader>
 <fileDesc> {$titlestmt}
 <sourceDesc>
-  <bibl>{$bibl}</bibl>
+  {$bibl}
 </sourceDesc>
 </fileDesc>
 </teiHeader>
 {$a}</div>';
 
 $xsl_file = "poetry.xsl";
-$xsl_params = array("mode" => "poem");
-
+$xsl_params = array("mode" => "poem", "selflink" => $selflink);
 $tamino->xquery($query, $pos, $maxdisplay); 
+$title = $tamino->findNode("head");
+$title = preg_replace("/<hi TEIform=\"hi\" rend=\"\w*\">/", "", $title);
+$title = str_replace("</hi>", "", $title);
+
+print "<html>
+  <head> 
+    $csslink
+    <title>The Great War : Poetry : $title</title> 
+    <meta http-equiv='Content-Type' content='text/html; charset=iso-8859-1'> 
+    <base href='$base_url'> 
+  </head> 
+<body> 
+";
+
+
+include("header.php");
+print "<p class='breadcrumbs'>" . $breadcrumb->show_breadcrumb() . " - \"$title\"</p>";
+
 
 print '<div class="content">'; 
 $tamino->xslTransform($xsl_file, $xsl_params);

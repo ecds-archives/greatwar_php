@@ -3179,7 +3179,9 @@ Infantry:</p><pb n="101"/>
 <p>Rupert Brooke, a brilliant, impassioned young Englishman, was one
 of the first to take arms when Great Britain went to war. He died in
 the Dardanelles expe-<pb n="102"/>dition, April 23 , 1915.  A few days before, he had sent from the Aegean Sea to the English--speaking peoples the poem by which he is best known.</p></div3>
-<div3 id="Eaton083b" type="poem" n="The Soldier"><ptr target="Eaton083a"/>
+<div3 id="Eaton083b" type="poem" n="The Soldier"><ptr
+target="Eaton083a"/>
+<docAuthor>Rupert Brooke</docAuthor>
 <head rend="center">THE SOLDIER<ref target="Eaton083n1">*</ref><note
 id="Eaton083n1" place ="foot" n="*"> "The Soldier," and "Not With Vain
 Tears" are from "The Collected Poems of Rupert Brooke," published and
@@ -3202,7 +3204,9 @@ to reproduce in this book.</note></head>
 <l rend="indent">In hearts at peace, under an English heaven.</l></lg></div3>
 <div3 id="Eaton084a" type="poem introduction" n="Not With Vain Tears"><ptr target="Eaton084b"/>
 <p>Lieutenant Brooke was a rare poet, having a serene faith, a knowledge of life as continuous. His bent of thought, the manner of his feeling, shine most clearly in this sonnet</p></div3>
-<div3 id="Eaton084b" type="poem" n="Not With Vain Tears"><ptr target="Eaton084b"/>
+<div3 id="Eaton084b" type="poem" n="Not With Vain Tears"><ptr
+target="Eaton084b"/>
+<docAuthor>Rupert Brooke</docAuthor>
 <head rend="center">NOT WITH VAIN TEARS</head>
 <lg>
 <l n="1">NOT with vain tears, when we're beyond the sun, </l>
@@ -3225,6 +3229,7 @@ to reproduce in this book.</note></head>
 <p>"But a Short Time to Live" was written by Serg't Leslie Coulson, whose "little hour" came to an end at Arras, in France, October 7, 1916:</p>
 </div3>
 <div3 id="Eaton085b" type="poem" n="But A Short Time To Live"><ptr target="Eaton085a"/>
+<docAuthor>Leslie Coulson</docAuthor>
 <head rend="center">BUT A SHORT TIME TO LIVE</head>
 <lg>
 <l n="1">OUR little hour--how swift it flies--</l>
@@ -3256,10 +3261,11 @@ and a patron of poets. He was lance corporal in Lord Dunsany's company
 in the 5th Battalion of the Royal Inniskillen Fusileers. He wrote
 quite touchingly to a friend shortly before the end, "I mean to do
 something great if I am spared, but out here one may at any moment be
-hurled out f life." There is no doubt he would have done "something
+hurled out of life." There is no doubt he would have done "something
 great," for here is a swan song not unworthy to bear his name to later
 times:</p> </div3>
 <div3 id="Eaton086b" type="poem" n="The Lost Ones"><ptr target="Eaton086a"/>
+<docAuthor>Francis Ledwidge</docAuthor>
 <head rend="center">THE LOST ONES</head>
 
 <lg>
@@ -5070,7 +5076,7 @@ Prussian Major dead!</hi></l></lg><pb n="151"/></div2>
 it. During seven days and seven nights the great steamships of
 America, going at full speed, drive through the deep waters before the
 lighthouses of France come into view; but from one side to the other,
-hearts are touching."</l></lg><pb n="160"/>
+hearts are touching."</l></lg></div2><pb n="160"/>
 <div2 id="Eaton131" type="poem" n="Men Of Heart And Mire">
 <head rend="center">MEN OF THE BLOOD AND MIRE</head>
 <byline rend="center"><docAuthor>DANIEL M. HENDERSON</docAuthor><lb/>
@@ -5105,7 +5111,7 @@ hearts are touching."</l></lg><pb n="160"/>
 <l>Yet, while we wait, your altar</l>
 <l rend="indent">Flames in the gas and fire--</l>
 <l>We are the shade of your glory,</l>
-<l rend="indent">Men of the Blood and Mire!</l></lg><pb n="161"/>
+<l rend="indent">Men of the Blood and Mire!</l></lg></div2><pb n="161"/>
 
 <div2 id="Eaton132" type="poem" n="The Song Of The Dead">
 <head rend="center">THE SONG OF THE DEAD</head>

@@ -1,5 +1,99 @@
+<TEI.2>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Poems of the Great War: Electronic Edition</title>
+            <editor n="Cunliffe, John William">J. W. Cunliffe</editor>
+         </titleStmt>
+	 <publicationStmt>
+	   <publisher>Lewis H. Beck Center for Electronic Collections
+	   and Services, Emory University</publisher>
+	   <pubPlace>Atlanta, GA</pubPlace>
+	   <address>
+	     <addrLine>540 Asbury Circle</addrLine>
+	     <addrLine>Woodruff Library</addrLine>
+	     <addrLine>Atlanta, GA 30322</addrLine>
+	   </address>
+	   <availability><p>&#x00A9;Emory University. Permission is
+	   granted to download, transmit, or otherwise reproduce,
+	   distribute or display the contributions to the work claimed
+	   by Emory University for non-profit educational purposes,
+	   provided this header is included in its entirety.  For
+	   inquiries about commercial uses, contact either: Institute
+	   for Jewish Studies, Emory University, Atlanta GA 30322 or
+	   the Lewis H. Beck Center for Electronic Collections and
+	   Services, Woodruff Library, Emory University, Atlanta,
+	   Georgia 30322 </p></availability> 
+	   <date>2004</date>
+	 </publicationStmt>
+	 <seriesStmt>
+	   <title>The Great War</title>
+	 </seriesStmt>
+	 <notesStmt><note></note></notesStmt>
+         <sourceDesc><!-- put the actual publication data for the book
+	   in this section --> 
+            <bibl>
+	     <title>Poems of the Great War</title>
+	     <editor>J. W. Cunliffe</editor>
+	     <pubPlace>New York</pubPlace>
+	     <publisher>The Macmillan Company</publisher>
+	     <date>1916</date>
+	   </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+	<projectDesc><p>Poetry contemporary to World War I (the Great
+	War) has been digitized by OCR or rekeying. The work has been
+	done in conjunction with Dr. Harry Rusche of the English
+	Department, Emory University</p></projectDesc>
+	<editorialDecl>
+	<correction><p></p></correction>
+	<normalization><p></p></normalization>
+	<quotation><p>Block quotes are marked with q or quote
+	elements</p></quotation>
+	</editorialDecl>
+	<tagsDecl>
+	  <rendition id="quote">Paragraphs including q or quote
+	  elements indicate material that is in a block
+	  quote.</rendition>
+	  <rendition id="title">Where the title of a work is
+	  italicized, it is marked with a title element, both in the
+	  text and in footnotes.</rendition>
+	  <tagUsage gi="q" render="quote">blockquote</tagUsage>
+	  <tagUsage gi="quote" render="quote">blockquote</tagUsage>
+	  <tagUsage gi="title" render="title">italic</tagUsage>
+	</tagsDecl>
+	<refsDecl><p>The page numbers of the volumes are indicated by
+	page break elements</p>
+	<p></p>
+	</refsDecl>
+	<classDecl>
+	  <taxonomy>
+	  <category><catDesc></catDesc></category>
+	  </taxonomy>
+	</classDecl>
+      </encodingDesc>
+      <profileDesc></profileDesc>
+      <revisionDesc>
+	<change>
+	  <date>June-July 2004</date>
+	  <respStmt>
+	    <name>Alden Mahler</name>
+	    <resp>Beck Center Staff</resp>
+	  </respStmt>
+	    <item>Encoded text</item>
+	</change>
+	<change>
+	  <date>August 2004</date>
+	  <respStmt>
+	    <name>Alice Hickcox</name>
+	    <resp>Beck Center staff</resp>
+	  </respStmt>
+	    <item>added header; checked encoding</item>
+	</change>
+      </revisionDesc>
+   </teiHeader>
 <text>
-
 <body>
 <pb n="1"/>
 <div1 id="cunliffe001" type="anthology" n="Poems of the Great War">
@@ -12,7 +106,7 @@
 When last heard from, the author, who is a British officer, was on service at Khartoum.</note>
 
 <lg type="stanza">
-<l n="1">B<hi rend="smallcaps">ehind</hi> us in vermilion state</l>
+<l n="1"><hi rend="smallcaps">Behind</hi> us in vermilion state</l>
 <l>The sun fell to the rustling sea,</l>
 <l>The grey-green twilight came and went,</l>
 <l>And night involved my friend and me.</l></lg>
@@ -170,7 +264,7 @@ When last heard from, the author, who is a British officer, was on service at Kh
 <head rend="center">A NEGLECTED GARDEN</head>
 
 <lg type="stanza">
-<l n="1">B<hi rend="smallcaps">arren</hi> the garden lies, undressed;</l>
+<l n="1"><hi rend="smallcaps">Barren</hi> the garden lies, undressed;</l>
 <l>Long weeds like serpents coil and squeeze</l>
 <l>Forsaken loves of faithless bees,</l>
 <l>Boughs broken, to the ground are pressed;</l>
@@ -209,7 +303,7 @@ When last heard from, the author, who is a British officer, was on service at Kh
 <head rend="center">YOUNG AND OLD</head>
 
 <lg type="stanza">
-<l n="1"><hi rend="italic">Young.</hi> W<hi rend="smallcaps">hat</hi> makes the dale so strange, my dear?</l>
+<l n="1"><hi rend="italic">Young.</hi> <hi rend="smallcaps">What</hi> makes the dale so strange, my dear?</l>
 <l rend="indent10">What makes the dale so strange?</l>
 <l><hi rend="italic">Old.</hi> The men have gone from the dale, my dear,</l>
 <l rend="indent10">And that makes all the change.</l></lg>
@@ -246,7 +340,7 @@ When last heard from, the author, who is a British officer, was on service at Kh
 <head rend="center">UNSER GOTT</head>
 
 <lg type="stanza">
-<l n="1">T<hi rend="smallcaps">hey</hi> held a great prayer-service in Berlin,</l>
+<l n="1"><hi rend="smallcaps">They</hi> held a great prayer-service in Berlin,</l>
 <l>And augured German triumph from some words</l>
 <l>Said to be spoken by the Jewish God</l>
 <l>To Gideon, which signified that He</l>
@@ -340,10 +434,10 @@ When last heard from, the author, who is a British officer, was on service at Kh
 <pb n="15"/>
 <div2 id="cunliffe008" type="poem" n="Neutral?">
 <head rend="center">NEUTRAL?</head>
-<head rend="center">T<hi rend="smallcaps">o the</hi> H<hi rend="smallcaps">umanity of</hi> A<hi rend="smallcaps">merica</hi></head>
+<head rend="center"><hi rend="smallcaps">To the</hi> <hi rend="smallcaps">Humanity of</hi> <hi rend="smallcaps">America</hi></head>
 
 <lg type="stanza">
-<l n="1">W<hi rend="smallcaps">hen</hi> men are told in years ahead</l>
+<l n="1"><hi rend="smallcaps">When</hi> men are told in years ahead</l>
 <l rend="indent">How Fury forced the Belgian door</l>
 <l>And ravished maids, struck children dead,</l>
 <l rend="indent">And fired the houses of the poor,</l>
@@ -401,7 +495,7 @@ When last heard from, the author, who is a British officer, was on service at Kh
 <head rend="center">THE RED COUNTRY</head>
 
 <lg type="stanza">
-<l n="1">I<hi rend="smallcaps">n</hi> the red country</l>
+<l n="1"><hi rend="smallcaps">In</hi> the red country</l>
 <l>The sky flowers</l>
 <l>All day.</l>
 <l>Strange mechanical birds</l>
@@ -511,7 +605,7 @@ When last heard from, the author, who is a British officer, was on service at Kh
 
 <lg type="stanza">
 <head rend="center">I</head>
-<l n="1">T<hi rend="smallcaps">he</hi> Regulars fight with all their might, the Navy keeps the seas,</l>
+<l n="1"><hi rend="smallcaps">The</hi> Regulars fight with all their might, the Navy keeps the seas,</l>
 <l>The Terrier<ref target="cunliffe011n1">1</ref> <note id="cunliffe011n1" place="foot" n="1">
 Obsolete word signifying a mere voluntary fighter unfit even for adequate defence purposes.</note>
 sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
@@ -556,21 +650,21 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 <l>See, in the foremost rank,</l>
 <l>His brow with <hi rend="italic">sudor</hi> dank,</l>
 <l>His gown unpipeclayed in his loyal hurry,</l>
-<l>Private Professor G<hi rend="smallcaps">ilbert</hi> M<hi rend="smallcaps">urray</hi>! --</l>
+<l>Private Professor <hi rend="smallcaps">Gilbert</hi> <hi rend="smallcaps">Murray</hi>! --</l>
 <l>Hear, oh, hear,</l>
 <l>With almost swooning ear,</l>
 <l>The sergeant (Chiron in disguise),</l>
 <l>With how sarcastic drawl he</l>
 <l>Damneth the eyes</l>
-<l>Of Private Prof. Eng. Lit. S<hi rend="smallcaps">ir</hi> W<hi rend="smallcaps">alter</hi> R<hi rend="smallcaps">aleigh</hi>! --</l>
+<l>Of Private Prof. Eng. Lit. <hi rend="smallcaps">Sir</hi> <hi rend="smallcaps">Walter</hi> <hi rend="smallcaps">Raleigh</hi>! --</l>
 <l>See yet again</l>
 <l>With uncontroll&egrave;d pleasure</l>
 <l>There, marking time amain</l>
 <l>As with such feet as make a lyric measure,</l>
 <l>Like &Aelig;schylus upon the Marathon day, --</l>
 <l>Next to that nice ex-proctor, --</l>
-<l>Private and Poet Laureate D<hi rend="smallcaps">r</hi>.</l>
-<l>B<hi rend="smallcaps">ridges</hi>, M.A.! --</l>
+<l>Private and Poet Laureate <hi rend="smallcaps">Dr</hi>.</l>
+<l><hi rend="smallcaps">Bridges</hi>, M.A.! --</l>
 <l>And see -- but let your eyes with pride be dim! --</l>
 <l>Him who professes Art and Arch&aelig;ology</l>
 <l>Standing as rear-rank man to him</l>
@@ -615,7 +709,7 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 <head rend="center">"ANY FRIEND TO ANY FRIEND"</head>
 
 <lg type="stanza">
-<l n="1">E<hi rend="smallcaps">v'n</hi> as I thought of you your soul had sped,</l>
+<l n="1"><hi rend="smallcaps">Ev'n</hi> as I thought of you your soul had sped,</l>
 <l>Friend of old, happy, far-off boyhood days,</l>
 <l>And, as across the sea I turned my gaze,</l>
 <l>The soil of France with your brave blood was red!</l>
@@ -640,7 +734,7 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 <head rend="center">THE CAMP-FOLLOWER</head>
 
 <lg type="stanza">
-<l n="1">W<hi rend="smallcaps">e</hi> spoke, the camp-follower and I.</l>
+<l n="1"><hi rend="smallcaps">We</hi> spoke, the camp-follower and I.</l>
 <l>About us was a cold, pungent odor --</l>
 <l>Gun-powder, stale wine, wet earth, and the smell of thousands of men.</l>
 <l>She said it reminded her of the scent</l>
@@ -666,7 +760,7 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 
 <lg type="stanza">
 <head rend="center">HERE</head>
-<l n="1">S<hi rend="smallcaps">oft</hi> benediction of September sun;</l>
+<l n="1"><hi rend="smallcaps">Soft</hi> benediction of September sun;</l>
 <l>Voices of children, laughing as they run;</l>
 <l>Green English lawns, bright flowers and butterflies;</l>
 <l>And over all the blue embracing skies.</l></lg>
@@ -692,7 +786,7 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 <head rend="center">KART&Uacute;SHKIYA-BER&Oacute;ZA</head>
 
 <lg type="stanza">
-<l n="1">I<hi rend="smallcaps">t</hi> is twelve years since I have been there --</l>
+<l n="1"><hi rend="smallcaps">It</hi> is twelve years since I have been there --</l>
 <l>I was born there,</l>
 <l>In the little town, by the river --</l>
 <l>It all comes back to me now</l>
@@ -831,7 +925,7 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 <head rend="center">AFTERMATH</head>
 
 <lg type="stanza">
-<l n="1">Y<hi rend="smallcaps">es</hi>, he is gone, there is the
+<l n="1"><hi rend="smallcaps">Yes</hi>, he is gone, there is the
 message, see!</l>
 <l>Slain by a Prussian bullet as he led</l>
 <l>The men that loved him -- dying, cheered them on --</l>
@@ -877,7 +971,7 @@ message, see!</l>
 <head rend="center">THE RETURN</head>
 
 <lg type="stanza">
-<l n="1">H<hi rend="smallcaps">ome</hi> across the clover</l>
+<l n="1"><hi rend="smallcaps">Home</hi> across the clover</l>
 <l>When the war was over</l>
 <l>Came the young men slowly with an air of being old,</l>
 <l>On a morning blue and gold</l>
@@ -949,7 +1043,7 @@ message, see!</l>
 <head rend="center">KITCHENER'S MARCH</head>
 
 <lg type="stanza">
-<l n="1">N<hi rend="smallcaps">ot</hi> the muffled drums for him</l>
+<l n="1"><hi rend="smallcaps">Not</hi> the muffled drums for him</l>
 <l>Nor the wailing of the fife.</l>
 <l>Trumpets blaring to the charge</l>
 <l>Were the music of his life.</l>
@@ -1019,7 +1113,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center"><hi rend="smallcaps">TO KING ALBERT</hi></head>
 
 <lg type="stanza">
-<l n="1">S<hi rend="smallcaps">hy</hi>, youthful, silent -- and misunderstood</l>
+<l n="1"><hi rend="smallcaps">Shy</hi>, youthful, silent -- and misunderstood</l>
 <l>In the white glare of Kinghood thou didst stand.</l>
 <l>The sceptre in thy hand</l>
 <l>Seemed but a flower the Fates had tossed to thee,</l>
@@ -1081,7 +1175,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">THEY HELD THEIR GROUND</head>
 
 <lg type="stanza">
-<l n="1">G<hi rend="smallcaps">rey</hi> broke the light of that Sabbath dawn</l>
+<l n="1"><hi rend="smallcaps">Grey</hi> broke the light of that Sabbath dawn</l>
 <l rend="indent">On the English pickets,</l>
 <l>Gold rose the sun o'er the unreaped corn</l>
 <l rend="indent">And the Hainault thickets.</l>
@@ -1386,7 +1480,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">FALLEN</head>
 
 <lg type="stanza">
-<l n="1">H<hi rend="smallcaps">e</hi> was wounded and he fell in the midst of hoarse shouting.</l>
+<l n="1"><hi rend="smallcaps">He</hi> was wounded and he fell in the midst of hoarse shouting.</l>
 <l>The tide passed, and the waves came and whispered about his ankles.</l>
 <l>Far off he heard a cock crow -- children laughing,</l>
 <l>Rising at dawn to greet the storm of petals</l>
@@ -1412,7 +1506,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">BY THE NORTH SEA</head>
 
 <lg type="stanza">
-<l n="1">D<hi rend="smallcaps">eath</hi> and Sorrow and Sleep:</l>
+<l n="1"><hi rend="smallcaps">Death</hi> and Sorrow and Sleep:</l>
 <l>Here where the slow waves creep,</l>
 <l rend="indent">This is the chant I hear,</l>
 <l>The chant of the measureless deep.</l></lg>
@@ -1456,7 +1550,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">A HARROW GRAVE IN FLANDERS</head>
 
 <lg type="stanza">
-<l n="1">H<hi rend="smallcaps">ere</hi> in the marshland, past the battered bridge,</l>
+<l n="1"><hi rend="smallcaps">Here</hi> in the marshland, past the battered bridge,</l>
 <l rend="indent">One of a hundred grains untimely sown,</l>
 <l>Here, with his comrades of the hard-won ridge</l>
 <l rend="indent10">He rests, unknown.</l></lg>
@@ -1510,7 +1604,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">THE DEFENDERS</head>
 
 <lg type="stanza">
-<l n="1">H<hi rend="smallcaps">is</hi> wage of rest at nightfall still</l>
+<l n="1"><hi rend="smallcaps">His</hi> wage of rest at nightfall still</l>
 <l rend="indent">He takes, who sixty years has known</l>
 <l>Of ploughing over Cotsall hill</l>
 <l rend="indent">And keeping trim the Cotsall stone.</l></lg>
@@ -1537,8 +1631,8 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <note>(The scene is a bare room, with two shaded windows at the back, and a fireplace between them with a fire burning low. The room is furnished scantily with a few plain chairs, and a rough wooden table on which are piled a great many small wooden trays. The Counter, who is Death, sits at the table. He wears a loose gray robe, and his face is partly concealed by a gray veil. He does not look at The Bearer, but works mechanically and speaks in a monotonous tone. The Bearer is the World, that bears the burden of War. He wears a soiled robe of brown and green and he carries on his back a gunny-bag with the little metal disks that have been used for the identification of the slain common soldiers.)</note>
 
 <lg type="stanza">
-<head>T<hi rend="smallcaps">HE</hi> B<hi rend="smallcaps">EARER</hi></head>
-<l n="1">H<hi rend="smallcaps">ere</hi> is a sack, a gunny sack,</l>
+<head><hi rend="smallcaps">The Bearer</hi></head>
+<l n="1"><hi rend="smallcaps">Here</hi> is a sack, a gunny sack,</l>
 <l rend="indent">A heavy sack I bring.</l>
 <l>Here is toll of many a soul --</l>
 <l rend="indent">But not the soul of a king.</l></lg>
@@ -1559,7 +1653,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <note>(As the Counter speaks, the Bearer pours out the disks on the table. The Bearer obeys the Counter.)</note>
 
 <lg>
-<head>T<hi rend="smallcaps">HE</hi> C<hi rend="smallcaps">OUNTER</hi></head>
+<head><hi rend="smallcaps">The Counter</hi></head>
 <l>Pour them out on the table here.</l>
 <l>C l i c k e t y - c l i c k e t y - c l a c k !</l>
 <l>For every button a man went out,</l>
@@ -1578,7 +1672,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l>Pile them in tens and count them so.</l></lg>
 
 <lg>
-<head>T<hi rend="smallcaps">HE</hi> B<hi rend="smallcaps">EARER</hi></head>
+<head><hi rend="smallcaps">The Bearer</hi></head>
 <l>I have an empty sack.</l>
 <l rend="indent">It is not large. Would you have said</l>
 <l>That I could carry on my back</l>
@@ -1587,7 +1681,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <note>(As the Counter speaks the Bearer lays the sack over his arm and helps count.)</note>
 
 <lg>
-<head>T<hi rend="smallcaps">HE</hi> C<hi rend="smallcaps">OUNTER</hi></head>
+<head><hi rend="smallcaps">The Counter</hi></head>
 <l>Put a hundred in each tray --</l>
 <l>We can tally them best that way.</l>
 <l>Careful -- do you understand</l>
@@ -1610,7 +1704,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <note>(The Bearer finds the bag on his arm troublesome. He holds it up, inspecting it.)</note>
 
 <lg>
-<head>T<hi rend="smallcaps">HE</hi> B<hi rend="smallcaps">EARER</hi></head>
+<head><hi rend="smallcaps">The Bearer</hi></head>
 <l>What can one do with a thing like this?</l>
 <l>Neither of life nor death it is!</l>
 <l>For the dead serve not, though it served the dead.</l>
@@ -1641,7 +1735,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l>And heard the metal pieces clattering.</l></lg>
 
 <lg>
-<head>T<hi rend="smallcaps">HE</hi> C<hi rend="smallcaps">OUNTER</hi></head>
+<head><hi rend="smallcaps">The Counter</hi></head>
 <l>Four score -- five score --</l>
 <l>These and many more.</l>
 <pb n="82"/>
@@ -1657,7 +1751,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l>Who might have been your sons.</l></lg>
 
 <lg>
-<head>T<hi rend="smallcaps">HE</hi> B<hi rend="smallcaps">EARER</hi></head>
+<head><hi rend="smallcaps">The Bearer</hi></head>
 <l>Could not the hands of these rebuild</l>
 <l>That which has been destroyed?</l>
 <l>Oh, the poor hands! that once were strong and filled</l>
@@ -1671,14 +1765,14 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l>Of earthly glory in that new estate?</l></lg>
 
 <lg>
-<head>T<hi rend="smallcaps">HE</hi> C<hi rend="smallcaps">OUNTER</hi></head>
+<head><hi rend="smallcaps">The Counter</hi></head>
 <l>One hundred thousand --</l>
 <l>One hundred and fifty thousand --</l>
 <l>Two hundred --</l></lg>
 
 <lg>
 <pb n="83"/>
-<head>T<hi rend="smallcaps">HE</hi> B<hi rend="smallcaps">EARER</hi></head>
+<head><hi rend="smallcaps">The Bearer</hi></head>
 <l>Can this check plough?</l>
 <l rend="indent">Can it sow? can it reap?</l>
 <l>Can we arouse it?</l>
@@ -1703,7 +1797,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <l rend="indent">Stand for a man?</l></lg>
 
 <lg>
-<head>T<hi rend="smallcaps">HE</hi> C<hi rend="smallcaps">OUNTER</hi></head>
+<head><hi rend="smallcaps">The Counter</hi></head>
 <l>One -- two -- three -- four --</l></lg>
 <byline>-- Louise Driscoll.</byline>
 </div2>
@@ -1716,7 +1810,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <note>(H.M.S. "Aboukir," "Cressy," "Hogue," September 22, 1914.)</note>
 
 <lg type="stanza">
-<l n="1">N<hi rend="smallcaps">ow</hi> all our English woodland sighs "October."</l>
+<l n="1"><hi rend="smallcaps">Now</hi> all our English woodland sighs "October."</l>
 <l rend="indent">The mild sun going down behind the trees</l>
 <l>Doth bless a countryside as sweet and sober</l>
 <l rend="indent">As ever put on brown and red to please;</l>
@@ -1739,7 +1833,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">THE MAN IN THE TRENCH</head>
 
 <lg type="stanza">
-<l n="1">C<hi rend="smallcaps">an</hi> you not hear me, young man in the street?</l>
+<l n="1"><hi rend="smallcaps">Can</hi> you not hear me, young man in the street?</l>
 <l>Is it nothing to you who pass by,</l>
 <l>Who down the dim-lit ways in thousands roam?</l>
 <l>From here I watch you, through the driving sleet,</l>
@@ -1783,7 +1877,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">TERRITORIALS</head>
 
 <lg type="stanza">
-<l n="1">W<hi rend="smallcaps">here</hi> are the lads who went out to the war?</l>
+<l n="1"><hi rend="smallcaps">Where</hi> are the lads who went out to the war?</l>
 <l rend="italic">This year, and last year and long, long ago --</l>
 <l>With eyes full of laughter and song on their lips --</l>
 <l>(Our sad hearts flew after as birds follow ships!)</l>
@@ -1811,7 +1905,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">HONOR TO FRANCE!</head>
 
 <lg type="stanza">
-<l n="1">I<hi rend="smallcaps">n</hi> peace we held thy worth in scant esteem;</l>
+<l n="1"><hi rend="smallcaps">In</hi> peace we held thy worth in scant esteem;</l>
 <l rend="indent">Thy sons were dissolute, thy daughters frail;</l>
 <l>How light and fair and fickle didst thou seem</l>
 <l rend="indent">In time of need, alas, how sure to fail!</l>
@@ -1836,7 +1930,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <note>(There are nearly a quarter of a million Jews in the Czar's army alone. -- <hi rend="italic">Newspaper clipping</hi>.)</note>
 
 <lg type="stanza">
-<l n="1">T<hi rend="smallcaps">hey</hi> have dressed me up in a soldier's dress,</l>
+<l n="1"><hi rend="smallcaps">They</hi> have dressed me up in a soldier's dress,</l>
 <l rend="indent">With a rifle in my hand,</l>
 <l>And have sent me bravely forth to shoot</l>
 <l rend="indent">My own in a foreign land.</l></lg>
@@ -1880,7 +1974,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">THE GIFT</head>
 
 <lg type="stanza">
-<l n="1">H<hi rend="smallcaps">is</hi> eyes are bright and eager, with the brightness of the sun,</l>
+<l n="1"><hi rend="smallcaps">His</hi> eyes are bright and eager, with the brightness of the sun,</l>
 <l rend="indent10">(England, he gives them you)</l>
 <l>His hands are strong for climbing and his feet are swift to run,</l>
 <l rend="indent10">(England, he gives them you)</l>
@@ -1962,7 +2056,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 <lg type="stanza">
 <head rend="indent4"><hi rend="italic">The Dreamers:</hi> --</head>
-<l n="1">O<hi rend="smallcaps">utpost</hi> of Europe, watcher of the seas,</l>
+<l n="1"><hi rend="smallcaps">Outpost</hi> of Europe, watcher of the seas,</l>
 <l rend="indent">Bulwark to part the dark Atlantic tide,</l>
 <l>Still in the sunset lost Hesperides</l>
 <l rend="indent">Raise peak on peak, and purple galleys glide,</l>
@@ -2058,7 +2152,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">ULTIMATE HELL</head>
 
 <lg type="stanza">
-<l n="1">S<hi rend="smallcaps">atan</hi>? I am.</l>
+<l n="1"><hi rend="smallcaps">Satan</hi>? I am.</l>
 <l>The Other One? "The Great I am"?</l>
 <l>Who knows? Millenniums ago</l>
 <l>Some rumor ran that He existed yet!</l>
@@ -2172,7 +2266,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center"><hi ref="smallcaps">TO ONE KILLED IN ACTION</hi></head>
 
 <lg type="stanza">
-<l n="1">D<hi rend="smallcaps">ear</hi> love, they say thou art at rest.</l>
+<l n="1"><hi rend="smallcaps">Dear</hi> love, they say thou art at rest.</l>
 <l rend="indent">I heed them not, though thou art long,</l>
 <l rend="indent">Dreaming that thou, with heart still strong</l>
 <l>For fighting, followest some far quest.</l></lg>
@@ -2206,7 +2300,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <byline>-- Everykid.</byline></note>
 
 <lg type="stanza">
-<l n="1">S<hi rend="smallcaps">ure</hi>, it's fun to be a soldier! Oh, it's fun, fun, fun,</l>
+<l n="1"><hi rend="smallcaps">Sure</hi>, it's fun to be a soldier! Oh, it's fun, fun, fun,</l>
 <l>Upon an iron shoulder-blade to tote a feather gun;</l>
 <l>To hike with other brave galoots in easy-going army-boots;</l>
 <l>To pack along a one-ounce sack, the commissary on your track;</l>
@@ -2246,7 +2340,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">THE AIRMAN</head>
 
 <lg type="stanza">
-<l n="1">W<hi rend="smallcaps">ild</hi> wind, and drear, beneath the pale stars blowing,</l>
+<l n="1"><hi rend="smallcaps">Wild</hi> wind, and drear, beneath the pale stars blowing,</l>
 <l rend="indent">Whom do you hunt to-night?</l>
 <l>Out of the west into the storm-cloud glowing</l>
 <l rend="indent">A biplane wings her flight.</l></lg>
@@ -2277,7 +2371,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">BROTHERS IN ARMS</head>
 
 <lg type="stanza">
-<l n="1">W<hi rend="smallcaps">hen</hi> behind her violated border,</l>
+<l n="1"><hi rend="smallcaps">When</hi> behind her violated border,</l>
 <l rend="indent">With unflinching bayonet and gun,</l>
 <l>Belgium, in heroic battle order,</l>
 <l rend="indent">Met the savage onset of the Hun;</l>
@@ -2367,7 +2461,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">THE WYKHAMIST</head>
 
 <lg type="stanza">
-<l n="1">I<hi rend="smallcaps">n</hi> the wake of the yellow sunset one pale star</l>
+<l n="1"><hi rend="smallcaps">In</hi> the wake of the yellow sunset one pale star</l>
 <l>Hangs over the darkening city's purple haze.</l>
 <l>An errand-boy in the street beneath me plays</l>
 <l>On a penny whistle. Very faint and far</l>
@@ -2392,7 +2486,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">THE PYRES</head>
 
 <lg type="stanza">
-<l n="1">P<hi rend="smallcaps">yres</hi> in the night, in the night!</l>
+<l n="1"><hi rend="smallcaps">Pyres</hi> in the night, in the night!</l>
 <l rend="indent">And the roaring yellow and red.</l>
 <l>Trooper, trooper, why so white?</l>
 <l rend="indent">We are out to gather our dead.</l>
@@ -2482,7 +2576,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">NON-COMBATANT</head>
 
 <lg type="stanza">
-<l n="1">B<hi rend="smallcaps">efore</hi> one drop of angry blood was shed</l>
+<l n="1"><hi rend="smallcaps">Before</hi> one drop of angry blood was shed</l>
 <l rend="indent">I was sore hurt and beaten to my knee;</l>
 <l>Before one fighting man reeled back and died</l>
 <l rend="indent">The War-Lords struck at me.</l></lg>
@@ -2526,7 +2620,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">FROM THE YOUTH OF ALL NATIONS</head>
 
 <lg type="stanza">
-<l n="1">T<hi rend="smallcaps">hink</hi> not, my elders, to rejoice</l>
+<l n="1"><hi rend="smallcaps">Think</hi> not, my elders, to rejoice</l>
 <l rend="indent">When from the nations' wreck we rise,</l>
 <l>With a new thunder in our voice</l>
 <l rend="indent">And a new lightning in our eyes.</l></lg>
@@ -2625,7 +2719,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">SOLDIER, SOLDIER</head>
 
 <lg type="stanza">
-<l n="1">S<hi rend="smallcaps">oldier</hi>, soldier, off to the war,</l>
+<l n="1"><hi rend="smallcaps">Soldier</hi>, soldier, off to the war,</l>
 <l>Take me a letter to my sweetheart O.</l>
 <l>He's gone away to France</l>
 <l>With his carbine and his lance,</l>
@@ -2689,7 +2783,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">APRIL IN ENGLAND</head>
 
 <lg type="stanza">
-<l n="1">A<hi rend="smallcaps">pril</hi> in England. Daffodils are growing</l>
+<l n="1"><hi rend="smallcaps">April</hi> in England. Daffodils are growing</l>
 <l rend="indent">By every wayside, golden, tall and fair;</l>
 <l>April -- and all the little winds are blowing</l>
 <l rend="indent">The scents of springtime through the sunny air.</l>
@@ -2724,7 +2818,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">THINGS THAT WERE YOURS</head>
 
 <lg type="stanza">
-<l n="1">T<hi rend="smallcaps">hese</hi> things were yours, these little simple things;</l>
+<l n="1"><hi rend="smallcaps">These</hi> things were yours, these little simple things;</l>
 <l rend="indent">You touched them, used them one time, loved them well.</l>
 <l>Now you are gone, but still about them clings</l>
 <l rend="indent">The fragrance of your hands adorable.</l>
@@ -2751,7 +2845,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <epigraph rend="center"><hi rend="italic">Piti&eacute; que estoit au royaume de France."</hi></epigraph>
 
 <lg type="stanza">
-<l n="1">P<hi rend="smallcaps">ity</hi> had I for my France my land</l>
+<l n="1"><hi rend="smallcaps">Pity</hi> had I for my France my land</l>
 <l rend="indent">In the days so far that be,</l>
 <l>Pity of heart and pity of hand --</l>
 <l rend="indent">And who had pity on me?</l>
@@ -2772,7 +2866,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">THE TWA WEELUMS</head>
 
 <lg type="stanza">
-<l n="1">I<hi rend="smallcaps">'m</hi> Sairgeant Weelum Henderson frae Pairth,</l>
+<l n="1"><hi rend="smallcaps">I'm</hi> Sairgeant Weelum Henderson frae Pairth,</l>
 <l rend="indent4">That's wha I am!</l>
 <l>There's just ae regimint in a' the airth</l>
 <l rend="indent4">That's worth a damn;</l>
@@ -2857,7 +2951,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <note>(To Field-Marshal Lord Roberts of Kandahar, died November, 1914)</note>
 
 <lg type="stanza">
-<l n="1">R<hi rend="smallcaps">est</hi>, though the clamorous surge of war</l>
+<l n="1"><hi rend="smallcaps">Rest</hi>, though the clamorous surge of war</l>
 <l rend="indent">Follow thy peace to the great doors of Death;</l>
 <l>As in thy fearless life, so now, the cannons' roar,</l>
 <l rend="indent">The roll of drums, at thy last breath</l>
@@ -2885,7 +2979,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">INDIA TO ENGLAND</head>
 
 <lg type="stanza">
-<l n="1">O E<hi rend="smallcaps">ngland</hi>! in thine hour of need,</l>
+<l n="1">O <hi rend="smallcaps">England</hi>! in thine hour of need,</l>
 <l>When Faith's reward and valor's meed</l>
 <l rend="indent4">Is death or glory,</l>
 <l>When Faith indites, with biting brand,</l>
@@ -2934,7 +3028,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">THE NATIONS' DAVID</head>
 
 <lg type="stanza">
-<l n="1">E<hi rend="smallcaps">rect</hi> before Hell's hurricane, between the Germans and the sea,</l>
+<l n="1"><hi rend="smallcaps">Erect</hi> before Hell's hurricane, between the Germans and the sea,</l>
 <l>Belgium, still smiling through your pain; still, in the hour of ruin, free;</l>
 <l>While yet the cannon's note resounds along each poplar-bordered way,</l>
 <l>O, bleeding Belgium, to your wounds what mankind owes what man may say?</l></lg>
@@ -3014,7 +3108,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">THE WHITE SHIPS AND THE RED</head>
 
 <lg type="stanza">
-<l n="1">W<hi rend="smallcaps">ith</hi> drooping sail and pennant</l>
+<l n="1"><hi rend="smallcaps">With</hi> drooping sail and pennant</l>
 <l rend="indent">That never a wind may reach,</l>
 <l>They float in sunless waters</l>
 <l rend="indent">Beside a sunless beach.</l>
@@ -3134,7 +3228,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">OVERHEARD IN AN ASYLUM</head>
 
 <lg type="stanza">
-<l n="1">A<hi rend="smallcaps">nd</hi> here we have another case,</l>
+<l n="1"><hi rend="smallcaps">And</hi> here we have another case,</l>
 <l>quite different from the last,</l>
 <l>another case quite different --</l>
 <l>Listen.</l></lg>
@@ -3410,7 +3504,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center"><hi rend="smallcaps">A HYMN OF LOYALTY</hi></head>
 
 <lg type="stanza">
-<l n="1">W<hi rend="smallcaps">e</hi> are your children, O Mother,</l>
+<l n="1"><hi rend="smallcaps">We</hi> are your children, O Mother,</l>
 <l rend="indent">And tried by your testing, but true;</l>
 <l>Sealed of your sign and none other;</l>
 <l rend="indent">Soul of the soul that is you;</l>
@@ -3498,7 +3592,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 (Reprinted by the special permission of the proprietors of Punch.)</note>
 
 <lg type="stanza">
-<l n="1">I<hi rend="smallcaps">n</hi> Flanders fields the poppies blow</l>
+<l n="1"><hi rend="smallcaps">In</hi> Flanders fields the poppies blow</l>
 <l>Between the crosses, row on row,</l>
 <l rend="indent">That mark our place, and in the sky,</l>
 <l rend="indent">The larks, still bravely singing, fly,</l>
@@ -3526,7 +3620,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">THE FLEETS</head>
 
 <lg type="stanza">
-<l n="1">A<hi rend="smallcaps">re</hi> you out with the fleets through the long, dark night,</l>
+<l n="1"><hi rend="smallcaps">Are</hi> you out with the fleets through the long, dark night,</l>
 <l rend="indent">Admiral Drake?</l>
 <l>Are you keeping watch, when with never a light</l>
 <l>They patrol the seas and wait for a fight?</l></lg>
@@ -3570,7 +3664,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">SUMMER IN ENGLAND, 1914</head>
 
 <lg type="stanza">
-<l n="1">O<hi rend="smallcaps">n</hi> London fell a clearer light;</l>
+<l n="1"><hi rend="smallcaps">On</hi> London fell a clearer light;</l>
 <l rend="indent">Caressing pencils of the sun</l>
 <l>Defined the distances, the white</l>
 <l rend="indent">Houses transfigured one by one,</l>
@@ -3619,7 +3713,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">OFF HELIGOLAND</head>
 
 <lg type="stanza">
-<l n="1">G<hi rend="smallcaps">hostly</hi> ships in a ghostly sea,</l>
+<l n="1"><hi rend="smallcaps">Ghostly</hi> ships in a ghostly sea,</l>
 <l rend="indent">(Here's to Drake in the Spanish main!)</l>
 <l>Hark to the turbines, running free,</l>
 <l rend="indent">Oil-cups full and the orders plain.</l>
@@ -3667,7 +3761,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">HE WENT FOR A SOLDIER</head>
 
 <lg type="stanza">
-<l n="1">H<hi rend="smallcaps">e</hi> marched away with a blithe young score of him</l>
+<l n="1"><hi rend="smallcaps">He</hi> marched away with a blithe young score of him</l>
 <l rend="indent">With the first volunteers,</l>
 <l>Clear-eyed and clean and sound to the core of him,</l>
 <l rend="indent">Blushing under the cheers.</l>
@@ -3791,7 +3885,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center"><hi rend="italic">July 14, 1915</hi></head>
 
 <lg type="stanza">
-<l n="1">Y<hi rend="smallcaps">ou</hi> must not mourn for him, he that went out to France,</l>
+<l n="1"><hi rend="smallcaps">You</hi> must not mourn for him, he that went out to France,</l>
 <l>He, like the rest of them, clear-minded, open-eyed,</l>
 <l>It was for him to decide;</l>
 <l>He took his chance;</l>
@@ -3819,7 +3913,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">A SONG OF PEACE AND HONOR</head>
 
 <lg type="stanza">
-<l n="1">W<hi rend="smallcaps">e</hi>, men of England, children of her might,</l>
+<l n="1"><hi rend="smallcaps">We</hi>, men of England, children of her might,</l>
 <l rend="indent">With all our mother's record-roll of glory,</l>
 <l rend="indent4">Great with her greatness, noble with her name,</l>
 <l rend="indent">Drank with our mother's milk our mother's story,</l>
@@ -3912,7 +4006,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">THE FISHER-LAD</head>
 
 <lg type="stanza">
-<l n="1">"F<hi rend="smallcaps">arewell</hi> and good-bye to you, maiden of Teifi,</l>
+<l n="1">"<hi rend="smallcaps">Farewell</hi> and good-bye to you, maiden of Teifi,</l>
 <l rend="indent">Farewell and good-bye to you, dear Teifi maid!</l>
 <l>The jolly-boat's waiting, I'm off in a jiffy,</l>
 <l rend="indent">To scouting and cruising, to chase and to raid.</l></lg>
@@ -3951,7 +4045,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">(To J. F. R.)</head>
 
 <lg type="stanza">
-<l n="1">T<hi rend="smallcaps">wo</hi> years ago I taught him Greek,</l>
+<l n="1"><hi rend="smallcaps">Two</hi> years ago I taught him Greek,</l>
 <l rend="indent">And used to give him hints on bowling:</l>
 <l>His classics were a trifle weak;</l>
 <l rend="indent">His "action" needed some controlling.</l>
@@ -4041,7 +4135,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 <lg type="stanza">
 <l n="1"><hi rend="italic">Dawn</hi>....</l>
-<l rend="indent">A<hi rend="smallcaps">nd</hi> the dewy plain</l>
+<l rend="indent"><hi rend="smallcaps">And</hi> the dewy plain</l>
 <l rend="indent">Awakes to life and sound --</l>
 <l rend="indent">Where on the flying-ground</l>
 <l rend="indent">The ghostly hangars blaze with lights again.</l></lg>
@@ -4083,7 +4177,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">THE DEAD SOLDIER</head>
 
 <lg type="stanza">
-<l n="1">T<hi rend="smallcaps">hy</hi> dear brown eyes which were as depths where truth</l>
+<l n="1"><hi rend="smallcaps">Thy</hi> dear brown eyes which were as depths where truth</l>
 <l rend="indent">Lay bowered with frolic joy, but yesterday</l>
 <l>Shone with the fire of thy so guileless youth,</l>
 <l rend="indent">Now ruthless death has dimmed and closed for aye.</l></lg>
@@ -4123,7 +4217,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">(Air-Craft and the War)</head>
 
 <lg type="stanza">
-<l n="1">"W<hi rend="smallcaps">olf</hi>, Wolf-stay-at-home,</l>
+<l n="1">"<hi rend="smallcaps">Wolf</hi>, Wolf-stay-at-home,</l>
 <l>Prowler, -- scout,</l>
 <l>Clanless and castaways,</l>
 <l>And ailing with the drought,</l>
@@ -4260,7 +4354,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">REVENGE FOR RHEIMS</head>
 
 <lg type="stanza">
-<l n="1">T<hi rend="smallcaps">hou</hi> Permanence amid all things that pass!</l>
+<l n="1"><hi rend="smallcaps">Thou</hi> Permanence amid all things that pass!</l>
 <l>Unchanging Thought amid the drift of change;</l>
 <l>Thou Rally of the Soul in days of dross;</l>
 <l rend="indent">How art Thou fallen!</l></lg>
@@ -4303,7 +4397,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">SOCKS</head>
 
 <lg type="stanza">
-<l n="1">S<hi rend="smallcaps">hining</hi> pins that dart and click</l>
+<l n="1"><hi rend="smallcaps">Shining</hi> pins that dart and click</l>
 <l rend="indent">In the fireside's sheltered peace</l>
 <l>Check the thoughts that cluster thick --</l>
 <l rend="indent"><hi rend="italic">20 plain and then decrease.</hi></l></lg>
@@ -4340,7 +4434,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">TO SHAKESPEARE, 1916</head>
 
 <lg type="stanza">
-<l n="1">W<hi rend="smallcaps">ith</hi> what white wrath must turn thy bones,</l>
+<l n="1"><hi rend="smallcaps">With</hi> what white wrath must turn thy bones,</l>
 <l rend="indent">What stern amazement flame thy dust,</l>
 <l>To feel so near this England's heart</l>
 <l rend="indent">The outrage of the assassin's thrust.</l></lg>
@@ -4365,7 +4459,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">BELGIUM THE BAR-LASS</head>
 
 <lg type="stanza">
-<l n="1">T<hi rend="smallcaps">he</hi> night was still. The King sat with the Queen.</l>
+<l n="1"><hi rend="smallcaps">The</hi> night was still. The King sat with the Queen.</l>
 <l>She sang. Her maidens spun. A peaceful scene.</l></lg>
 
 <lg>
@@ -4505,7 +4599,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">SHAKESPEARE, 1916</head>
 
 <lg type="stanza">
-<l n="1">N<hi rend="smallcaps">ow</hi> when the sinking Sun reeketh with blood,</l>
+<l n="1"><hi rend="smallcaps">Now</hi> when the sinking Sun reeketh with blood,</l>
 <l>And the gore-gushing vapors rent by him</l>
 <l>Rend him and bury him: now the World is dim</l>
 <l>As when great thunders gather for the flood,</l>
@@ -4528,7 +4622,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">STATISTICS</head>
 
 <lg type="stanza">
-<l n="1">N<hi rend="smallcaps">apoleon</hi> shifted</l>
+<l n="1"><hi rend="smallcaps">Napoleon</hi> shifted</l>
 <l>Restless in the old sarcophagus</l>
 <l>And murmured to a watchguard:</l>
 <l>"Who goes there?"</l>
@@ -4559,7 +4653,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">(Captain Cook hears the Drums)</head>
 
 <lg type="stanza">
-<l n="1">F<hi rend="smallcaps">rom</hi> the Scheldt to the Niemen,</l>
+<l n="1"><hi rend="smallcaps">From</hi> the Scheldt to the Niemen,</l>
 <l rend="indent">Hark, the music of the drums!</l>
 <l>Not unthrilled the souls of freemen</l>
 <l rend="indent">When that instant message comes.</l>
@@ -4642,7 +4736,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">THE VALE OF SHADOWS</head>
 
 <lg type="stanza">
-<l n="1">T<hi rend="smallcaps">here</hi> is a vale in the Flemish land,</l>
+<l n="1"><hi rend="smallcaps">There</hi> is a vale in the Flemish land,</l>
 <l rend="indent">A vale once fair to see,</l>
 <l>Where under the sweep of the sky's wide arch,</l>
 <l>Though winter freeze or summer parch,</l>
@@ -4751,7 +4845,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <note>(Lines written on the anniversary of the outbreak of the war.)</note>
 
 <lg type="stanza">
-<l n="1">N<hi rend="smallcaps">ow</hi> with the full year Memory holds her tryst</l>
+<l n="1"><hi rend="smallcaps">Now</hi> with the full year Memory holds her tryst</l>
 <l>Heavy with such a tale of bitter loss</l>
 <l>As never Earth has suffered since the Christ</l>
 <l rend="indent4">Hung for us on the Cross.</l></lg>
@@ -4797,7 +4891,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">THE MOTHER</head>
 
 <lg type="stanza">
-<l n="1">O<hi rend="smallcaps">ut</hi> of the bitter, the sweet;</l>
+<l n="1"><hi rend="smallcaps">Out</hi> of the bitter, the sweet;</l>
 <l rend="indent">Out of the pain, the joy;</l>
 <l>Out of the mists, the morning star;</l>
 <l rend="indent">Out of my travail, my boy.</l></lg>
@@ -4828,7 +4922,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">A THANKSGIVING</head>
 
 <lg type="stanza">
-<l n="1">B<hi rend="smallcaps">efore</hi> the winter's haunted nights are o'er,</l>
+<l n="1"><hi rend="smallcaps">Before</hi> the winter's haunted nights are o'er,</l>
 <l rend="indent">I thankfully rejoice, that stars look down</l>
 <l>Above the darkened streets, and I adore</l>
 <l rend="indent">The Heavens in London Town.</l></lg>
@@ -4866,7 +4960,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center"><hi rend="smallcaps">A VOLUNTEER'S NIGHTMARE</hi></head>
 
 <lg type="stanza">
-<l n="1">I<hi rend="smallcaps">f</hi> you're Volunteer Artist or Athlete, or if you defend the Home,</l>
+<l n="1"><hi rend="smallcaps">If</hi> you're Volunteer Artist or Athlete, or if you defend the Home,</l>
 <l>You sacrifice "Ease" for "Attention," and march like a metronome;</l>
 <l>But of all elementary movements you learn in your Volunteer Corps</l>
 <l>The one that is really perplexing is known as the Forming of Fours.</l></lg>
@@ -4948,7 +5042,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">CLOSE YOUR RANKS</head>
 
 <lg type="stanza">
-<l n="1">Y<hi rend="smallcaps">es</hi>! Draw them close and closer still,</l>
+<l n="1"><hi rend="smallcaps">Yes</hi>! Draw them close and closer still,</l>
 <l rend="indent">The silken threads, that bind in one</l>
 <l>The prince, the peasant, rich and poor,</l>
 <l rend="indent">Hark! Hark! The Armageddon is begun.</l>
@@ -4997,7 +5091,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">(Belgium)</head>
 
 <lg type="stanza">
-<l n="1">H<hi rend="smallcaps">eartstruck</hi> she stands -- Our Lady of all Sorrows --</l>
+<l n="1"><hi rend="smallcaps">Heartstruck</hi> she stands -- Our Lady of all Sorrows --</l>
 <l rend="indent">Circled with ruin, sunk in deep amaze;</l>
 <l>Facing the shadow of her dark to-morrows,</l>
 <l rend="indent">Mourning the glory of her yesterdays.</l></lg>
@@ -5030,7 +5124,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">KITCHENER OF KHARTOUM</head>
 
 <lg type="stanza">
-<l n="1">W<hi rend="smallcaps">eep</hi>, waves of England! Nobler clay</l>
+<l n="1"><hi rend="smallcaps">Weep</hi>, waves of England! Nobler clay</l>
 <l rend="indent">Was ne'er to nobler grave consigned;</l>
 <l>The wild waves weep with us to-day</l>
 <l rend="indent">Who mourn a nation's master mind.</l></lg>
@@ -5068,7 +5162,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 
 <lg type="stanza">
 <head rend="center">I</head>
-<l n="1">D<hi rend="smallcaps">o</hi> not forget my charge I beg of you;</l>
+<l n="1"><hi rend="smallcaps">Do</hi> not forget my charge I beg of you;</l>
 <l>That of what flow'rs you find of fairest hue</l>
 <l>And sweetest odor you do gather those</l>
 <l>Are best of all the best -- a fragrant rose,</l>
@@ -5200,7 +5294,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">SAILOR, WHAT OF THE DEBT WE OWE YOU?</head>
 
 <lg type="stanza">
-<l n="1">S<hi rend="smallcaps">ailor</hi>, what of the debt we owe you?</l>
+<l n="1"><hi rend="smallcaps">Sailor</hi>, what of the debt we owe you?</l>
 <l rend="indent">Day or night is the peril more?</l>
 <l>Who so dull that he fails to know you,</l>
 <l rend="indent">Sleepless guard of our island shore?</l></lg>
@@ -5232,7 +5326,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">FROM AMERICA</head>
 
 <lg type="stanza">
-<l n="1">O<hi rend="smallcaps">h</hi>, England, at the smoking trenches dying</l>
+<l n="1"><hi rend="smallcaps">Oh</hi>, England, at the smoking trenches dying</l>
 <l rend="indent4">For all the world,</l>
 <l>Our hearts beat and we watch your bright flag flying</l>
 <l rend="indent4">While ours is furled;</l></lg>
@@ -5257,7 +5351,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">THE TRUMPET</head>
 
 <lg type="stanza">
-<l n="1">T<hi rend="smallcaps">hy</hi> trumpet lies in the dust.</l>
+<l n="1"><hi rend="smallcaps">Thy</hi> trumpet lies in the dust.</l>
 <l>The wind is weary, the light is dead. Ah, the evil day!</l>
 <l>Come fighters, carrying your flags and singers with your songs!</l>
 <l>Come pilgrims, hurrying on your journey!</l>
@@ -5305,7 +5399,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <epigraph rend="center">("Make them to be numbered with thy Saints: in glory everlasting.")</epigraph>
 
 <lg type="stanza">
-<l n="1">H<hi rend="smallcaps">omeward</hi> the long ships leap; swift-shod with joy,</l>
+<l n="1"><hi rend="smallcaps">Homeward</hi> the long ships leap; swift-shod with joy,</l>
 <l rend="indent">Striding the deep sea-dykes fast home they fare, --</l>
 <l>Where is my wedded love? Where is my boy?</l>
 <l rend="indent">Where go the dead that died for England, where?</l></lg>
@@ -5448,7 +5542,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">SAID ATTILA THE HUN TO --</head>
 
 <lg type="stanza">
-<l n="1">I<hi rend="smallcaps">t</hi> was not here -- it was not there,</l>
+<l n="1"><hi rend="smallcaps">It</hi> was not here -- it was not there,</l>
 <l>It was not now -- it was not then...</l>
 <l>Beyond the bounds of Otherwhere,</l>
 <l>Two tyrant lords of vanished men --</l>
@@ -5497,7 +5591,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <note>(A ship recently arrived in England from America, laden with toys, the gift of the American people, for the children both of the Allies and the Enemy.)</note>
 
 <lg type="stanza">
-<l n="1">F<hi rend="smallcaps">rom</hi> sea to sea, from shore to shore,</l>
+<l n="1"><hi rend="smallcaps">From</hi> sea to sea, from shore to shore,</l>
 <l rend="indent">The clouds of death and doom</l>
 <l rend="indent4">Veil the sun's soft and kindly beam; --</l>
 <l rend="indent4">Yet, can ye see one light agleam</l>
@@ -5562,7 +5656,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <note rend="center"><hi rend="italic">October 1st, 1914</hi></note>
 
 <lg type="stanza">
-<l n="1">E<hi rend="smallcaps">ngland</hi>! that thou wast faint of heart we said,</l>
+<l n="1"><hi rend="smallcaps">England</hi>! that thou wast faint of heart we said,</l>
 <l>Or inly thought; and that the wreath of bays</l>
 <l>Drooped on thy brow, withered with length of days,</l>
 <l>A dust-layered trophy of the age-long Dead:</l>
@@ -5587,7 +5681,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">TO MY COUNTRY</head>
 
 <lg type="stanza">
-<l n="1">O<hi rend="smallcaps">ne</hi> told me he had heard it whispered: "Lo!</l>
+<l n="1"><hi rend="smallcaps">One</hi> told me he had heard it whispered: "Lo!</l>
 <l rend="indent">The hour has come when Europe, desperate</l>
 <l rend="indent">With sudden war and terrible swift hate,</l>
 <l>Rocks like a reed beneath the mighty blow.</l>
@@ -5612,7 +5706,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">AFTERMATH</head>
 
 <lg type="stanza">
-<l n="1">W<hi rend="smallcaps">ith</hi> steady, silent tread</l>
+<l n="1"><hi rend="smallcaps">With</hi> steady, silent tread</l>
 <l>Bearing aloft their dead --</l>
 <l>One at the foot, one at the head</l>
 <l>The stretcher-bearers go;</l>
@@ -5640,7 +5734,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">A GIRL'S SONG</head>
 
 <lg type="stanza">
-<l n="1">T<hi rend="smallcaps">he</hi> Meuse and Marne have little waves;</l>
+<l n="1"><hi rend="smallcaps">The</hi> Meuse and Marne have little waves;</l>
 <l rend="indent">The slender poplars o'er them lean.</l>
 <l>One day they will forget the graves</l>
 <l rend="indent">That give the grass its living green.</l></lg>
@@ -5684,7 +5778,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">THE LAUGHERS</head>
 
 <lg type="stanza">
-<l n="1">S<hi rend="smallcaps">pring</hi>!</l>
+<l n="1"><hi rend="smallcaps">Spring</hi>!</l>
 <l>And her hidden bugles up the street.</l>
 <l>Spring -- and the sweet</l>
 <l>Laughter of winds at the crossing;</l>
@@ -5781,7 +5875,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">THE AMERICAN VOLUNTEERS</head>
 
 <lg type="stanza">
-<l n="1">N<hi rend="smallcaps">eutral</hi>! America, you cannot give</l>
+<l n="1"><hi rend="smallcaps">Neutral</hi>! America, you cannot give</l>
 <l rend="indent">To your sons' souls neutrality. Your powers</l>
 <l>Are sovereign, Mother, but past histories live</l>
 <l rend="indent">In hearts as young as ours.</l></lg>
@@ -5812,7 +5906,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">THE CONSCRIPT</head>
 
 <lg type="stanza">
-<l n="1">T<hi rend="smallcaps">hen</hi> former stars were faint and signs were fled.</l>
+<l n="1"><hi rend="smallcaps">Then</hi> former stars were faint and signs were fled.</l>
 <l rend="indent">Dawn flamed and sleepers roused: you saw men's souls</l>
 <l rend="indent">Crowned of that fire with terrible aureoles.</l>
 <l>You saw -- and hid your head, and hid your head.</l>
@@ -5916,7 +6010,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center"><hi rend="italic">August, 1915</hi></head>
 
 <lg type="stanza">
-<l n="1">G<hi rend="smallcaps">reat</hi> little land, old comrades of the sea,</l>
+<l n="1"><hi rend="smallcaps">Great</hi> little land, old comrades of the sea,</l>
 <l rend="indent">Salt of its salt, whelps of its Viking brood,</l>
 <l rend="indent">Sharers with us in its free fearless mood,</l>
 <l>Narrow your home, world-wide your chivalry!</l>
@@ -5942,7 +6036,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">WHY?</head>
 
 <lg type="stanza">
-<l n="1">D<hi rend="smallcaps">oes</hi> the Mother of Nations draw the sword</l>
+<l n="1"><hi rend="smallcaps">Does</hi> the Mother of Nations draw the sword</l>
 <l rend="indent">To rescue her children oppressed?</l>
 <l>They have all that the richest lands afford;</l>
 <l>They sit content at an ample board</l>
@@ -5993,7 +6087,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">OUR MEN</head>
 
 <lg type="stanza">
-<l n="1">O<hi rend="smallcaps">ur</hi> men, they are our stronghold,</l>
+<l n="1"><hi rend="smallcaps">Our</hi> men, they are our stronghold,</l>
 <l rend="indent">Our bastioned wall unscaled,</l>
 <l>Who, against Hate and Wrong, hold</l>
 <l rend="indent">This Realm that never quailed;</l>
@@ -6051,7 +6145,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">THE REAPERS</head>
 
 <lg type="stanza">
-<l n="1">R<hi rend="smallcaps">ed</hi> are the hands of the Reapers,</l>
+<l n="1"><hi rend="smallcaps">Red</hi> are the hands of the Reapers,</l>
 <l rend="indent">And the harvest is so white!</l>
 <l>Red are the feet that are treading</l>
 <l rend="indent">The threshing floors by night:</l>
@@ -6100,7 +6194,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <head rend="center">THE WAKENED GOD</head>
 
 <lg type="stanza">
-<l n="1">T<hi rend="smallcaps">he</hi> War-god wakened drowsily;</l>
+<l n="1"><hi rend="smallcaps">The</hi> War-god wakened drowsily;</l>
 <l rend="indent">There were gold chains about his hands.</l>
 <l rend="indent">He said: "And who shall reap my lands</l>
 <l>And bear the tithes to Death for me?</l></lg>
@@ -6192,10 +6286,10 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <div2 id="cunliffe142" type="poem" n="The First Battle of Ypres">
 <head rend="center">THE FIRST BATTLE OF YPRES<ref target="cunliffe142n1">1</ref></head>
 <note id="cunliffe142n1" place="foot" n="1">
-A<hi rend="smallcaps">uthor's</hi> N<hi rend="smallcaps">ote</hi>. -- In the first Battle of Ypres, which was fought in October-November, 1914, a thin line of British, supported on each wing by small bodies of French, stopped the push of an immense German army on Calais. The allusion in the latter part of the poem is not to "the angels of Mons," but to a story received from a very competent witness. On three occasions the Germans broke through our line, then paused and retired, for no apparent reason. On each of these occasions prisoners, when asked the cause of their retirement, replied: "We saw your enormous Reserves." We had no Reserves. This story was incidentally confirmed by the remark of another officer on the curious conduct of the Germans in violently shelling certain empty fields behind our lines.</note>
+<hi rend="smallcaps">Author's</hi> <hi rend="smallcaps">Note</hi>. -- In the first Battle of Ypres, which was fought in October-November, 1914, a thin line of British, supported on each wing by small bodies of French, stopped the push of an immense German army on Calais. The allusion in the latter part of the poem is not to "the angels of Mons," but to a story received from a very competent witness. On three occasions the Germans broke through our line, then paused and retired, for no apparent reason. On each of these occasions prisoners, when asked the cause of their retirement, replied: "We saw your enormous Reserves." We had no Reserves. This story was incidentally confirmed by the remark of another officer on the curious conduct of the Germans in violently shelling certain empty fields behind our lines.</note>
 
 <lg type="stanza">
-<l n="1">G<hi rend="smallcaps">rey</hi> field of Flanders, grim old battle-plain,</l>
+<l n="1"><hi rend="smallcaps">Grey</hi> field of Flanders, grim old battle-plain,</l>
 <l>What armies held the iron line round Ypres in the rain,</l>
 <l>From Bixschoote to Baecelaere and down to the Lys river?</l></lg>
 
@@ -6322,7 +6416,7 @@ A<hi rend="smallcaps">uthor's</hi> N<hi rend="smallcaps">ote</hi>. -- In the fir
 <head rend="center">KITCHENER</head>
 
 <lg type="stanza">
-<l n="1">I<hi rend="smallcaps">f</hi> Death had questioned thee,</l>
+<l n="1"><hi rend="smallcaps">If</hi> Death had questioned thee,</l>
 <l>"Soldier, where would'st thou take,</l>
 <l>The immitigable blow?"</l>
 <l>Thou hadst answered, "Let it be</l>
@@ -6353,7 +6447,7 @@ A<hi rend="smallcaps">uthor's</hi> N<hi rend="smallcaps">ote</hi>. -- In the fir
 <head rend="center">MARCHING ON TANGA</head>
 
 <lg type="stanza">
-<l n="1">M<hi rend="smallcaps">arching</hi> on Tanga, marching the parched plain</l>
+<l n="1"><hi rend="smallcaps">Marching</hi> on Tanga, marching the parched plain</l>
 <l>Of wavering spear-grass by Pangani river,</l>
 <l>England came to me -- me who had always ta'en</l>
 <l>But never given before -- England, the giver,</l>
@@ -6376,5 +6470,6 @@ A<hi rend="smallcaps">uthor's</hi> N<hi rend="smallcaps">ote</hi>. -- In the fir
 </div1>
 </body>
 </text>
+</TEI.2>
 
 

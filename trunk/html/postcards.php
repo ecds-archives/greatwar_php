@@ -14,9 +14,19 @@ $args = array('host' => "vip.library.emory.edu",
 	      'coll' => 'postcards');
 $tamino = new taminoConnection($args);
 
-$query ='for $a in input()/TEI.2/:text/body/p/figure
-return $a';
+// optionally limit postcards by category
+$cat = $_GET["cat"];
+
+$query ='declare namespace tf="http://namespaces.softwareag.com/tamino/TaminoFunction"
+for $a in input()/TEI.2/:text/body/p/figure ';
+if ($cat) { $query .= "where tf:containsText(\$a/@ana, '$cat') "; }
+$query .= 'return $a';
 $xsl_file = "figures.xsl";
+
+// xquery & xsl for category labels
+$cat_query = 'for $a in input()/TEI.2/:text/back/:div//interpGrp
+return $a';
+$cat_xsl = "interp.xsl";
 
 include("header.html");
 
@@ -38,12 +48,25 @@ if ($rval) {       // tamino Error code (0 = success)
 }
 
 $tamino->xslTransform($xsl_file);
-$tamino->printResult($myterms);
+$tamino->printResult();
 
 print '</div>';
 
 print '<div class="sidebar">';
 include("searchbox.html");
+
+print '<div class="categories">';
+$rval = $tamino->xquery($cat_query);
+if ($rval) {       // tamino Error code (0 = success)
+  print "<p>Error: failed to retrieve contents.<br>";
+  print "(Tamino error code $rval)</p>";
+  exit();
+}
+$tamino->xslTransform($cat_xsl);
+$tamino->printResult();
+
+print '</div>';
+
 print '</div>';
 
 include("footer.html");

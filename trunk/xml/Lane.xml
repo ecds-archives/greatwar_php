@@ -30,7 +30,7 @@
 	 <seriesStmt>
 	   <title>The Great War</title>
 	 </seriesStmt>
-	 <notesStmt><note></note></notesStmt>
+	 <notesStmt><note/></notesStmt>
          <sourceDesc><!-- put the actual publication data for the book
 	   in this section --> 
             <bibl>
@@ -62,15 +62,15 @@
 	</tagsDecl>
 	<refsDecl><p>The page numbers of the volumes are indicated by
 	page break elements</p>
-	<p></p>
+	<p/>
 	</refsDecl>
 	<classDecl>
 	  <taxonomy>
-	  <category><catDesc></catDesc></category>
+	  <category><catDesc/></category>
 	  </taxonomy>
 	</classDecl>
       </encodingDesc>
-      <profileDesc></profileDesc>
+      <profileDesc/>
       <revisionDesc>
 	<change>
 	  <date>June-July2004</date>
@@ -198,7 +198,7 @@
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">God</hi> for the Kaiser! God for the Hun! </l>
 <l>God for the fiercest war ever the sun </l>
-<l>Shone on! -- No wonder it hid its face<ref target="lane007n1">*</ref><note id="lane007n1" place="foot" n="1">The eclipse of the sun.</note></l>
+<l>Shone on! -- No wonder it hid its face<ref target="lane007n1" targOrder="U">*</ref><note id="lane007n1" place="foot" n="1" anchored="yes">The eclipse of the sun.</note></l>
 <l>When the Kaiser rode forth to his big disgrace.</l></lg>
 
 <lg>
@@ -252,6 +252,7 @@
 
 <pb n="1"/>
 <div2 id="lane009" type="poem" n="To the Troubler of the World">
+<docAuthor n="Watson, William">William Watson</docAuthor>
 <head rend="center">TO THE TROUBLER OF THE WORLD</head>
 
 <lg type="stanza">
@@ -276,6 +277,7 @@
 
 <pb n="2"/>
 <div2 id="lane010" type="poem" n="To Britian">
+<docAuthor n="Coutts, Francis">Francis Coutts</docAuthor>
 <head rend="center">TO BRITAIN</head>
 <head rend="center">(BEFORE HER DECLARATION OF WAR)</head>
 
@@ -298,6 +300,7 @@
 
 <pb n="3"/>
 <div2 id="lane011" type="poem" n="Armageddon">
+<docAuthor n="McCarthy, Justin Huntly">Justin Huntly McCarthy</docAuthor>
 <head rend="center">ARMAGEDDON</head>
 
 <lg type="stanza">
@@ -321,6 +324,7 @@
 
 <pb n="4"/>
 <div2 id="lane012" type="poem" n="A Prayer for Peace">
+<docAuthor n="Rawnsley, H. D.">H. D. Rawnsley</docAuthor>
 <head rend="center">A PRAYER FOR PEACE</head>
 
 <lg type="stanza">
@@ -347,6 +351,7 @@
 
 <pb n="5"/>
 <div2 id="lane013" type="poem" n="The Song of the Britons">
+<docAuthor n="Gill, Anthony Kirby">Anthony Kirby Gill</docAuthor>
 <head rend="center">THE SONG OF THE BRITONS</head>
 
 <lg type="stanza">
@@ -391,6 +396,7 @@
 <pb n="8"/>
 <pb n="9"/>
 <div2 id="lane015" type="poem" n="War">
+<docAuthor n="Jourdain, M">M Jourdain</docAuthor>
 <head rend="center">WAR</head>
 
 <lg type="stanza">
@@ -422,8 +428,9 @@
 
 <pb n="10"/>
 <div2 id="lane016" type="poem" n="Hymn After Battle">
+<docAuthor n="Adcock, A. St. John">A. St. John Adcock</docAuthor>
 <head rend="center">HYMN AFTER BATTLE</head>
-<note>[The Kaiser has been thanking God for his successes; and whilst the Christian nations of Europe are engaged in murdering each other, the heathen, whom they have failed to convert, remain so ignorant of the gospel that they are still living together in peace.]</note>
+<note anchored="yes">[The Kaiser has been thanking God for his successes; and whilst the Christian nations of Europe are engaged in murdering each other, the heathen, whom they have failed to convert, remain so ignorant of the gospel that they are still living together in peace.]</note>
 
 <lg type="stanza">
 <head rend="center">I</head>
@@ -483,6 +490,7 @@
 
 <pb n="13"/>
 <div2 id="lane017" type="poem" n="Britannia">
+<docAuthor n="Stacpoole, H. De Vere">H. De Vere Stacpoole</docAuthor>
 <head rend="center">BRITANNIA</head>
 
 <lg type="stanza">
@@ -522,8 +530,9 @@
 
 <pb n="15"/>
 <div2 id="lane018" type="poem" n="The Answer">
+<docAuthor n="Colvin, Ian">Ian Colvin</docAuthor>
 <head rend="center">THE ANSWER</head>
-<note>["...It would be a disgrace for us to make this bargain with
+<note anchored="yes">["...It would be a disgrace for us to make this bargain with
 Germany at the expense of France, a disgrace from which the good name
 of this country would never recover." -- <hi rend="smallcap">Sir
 Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
@@ -592,6 +601,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <pb n="19"/>
 <pb n="20"/>
 <div2 id="lane021" type="poem" n="To 'Little' Belgium">
+<docAuthor n="Kernahan, Coulson">Coulson Kernahan</docAuthor>
 <head rend="center">TO "LITTLE" BELGIUM</head>
 
 <lg type="stanza">
@@ -641,6 +651,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 <pb n="22"/>
 <div2 id="lane022" type="poem" n="The Tribute">
+<docAuthor n="Begbie, Harold">Harold Begbie</docAuthor>
 <head rend="center">THE TRIBUTE</head>
 
 <lg type="stanza">
@@ -680,6 +691,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 <pb n="24"/>
 <div2 id="lane023" type="poem" n="In the Red Dawn">
+<docAuthor n="Stuart, Dorothy Margaret">Dorothy Margaret Stuart</docAuthor>
 <head rend="center">IN THE RED DAWN</head>
 
 <lg type="stanza">
@@ -726,6 +738,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 <pb n="28"/>
 <div2 id="lane025" type="poem" n="The War Cry">
+<docAuthor n="Freeman, R. M.">R. M. Freeman</docAuthor>
 <head rend="center">THE WAR CRY</head>
 
 <lg type="stanza">
@@ -793,6 +806,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 <pb n="35"/>
 <div2 id="lane028" type="poem" n="The Hush">
+<docAuthor n="Phillips, Stephen">Stephen Phillips</docAuthor>
 <head rend="center">THE HUSH</head>
 
 <lg type="stanza">
@@ -817,9 +831,10 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 <pb n="36"/>
 <div2 id="lane029" type="poem" n="Alliterativism">
+<docAuthor n="Chesterton, G. K. (Gilbert Keith)">G. K. Chesterton</docAuthor>
 <head rend="center">ALLITERATIVISM</head>
 <head rend="center">(THE LATEST SCHOOL)</head>
-<note>[French airmen have been flying over Baden and Bavaria, violating Belgian neutrality. -- Stated, on German authority, in "Westminster Gazette."]</note>
+<note anchored="yes">[French airmen have been flying over Baden and Bavaria, violating Belgian neutrality. -- Stated, on German authority, in "Westminster Gazette."]</note>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">See</hi> the flying French depart</l>
@@ -860,6 +875,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 <pb n="38"/>
 <div2 id="lane030" type="poem" n="To the Aggressor">
+<docAuthor n="Buckley, Reginald R.">Reginald R. Buckley</docAuthor>
 <head rend="center">TO THE AGGRESSOR</head>
 
 <lg type="stanza">
@@ -884,6 +900,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 <pb n="39"/>
 <div2 id="lane031" type="poem" n="Evening Prayer of a People">
+<docAuthor n="Munro, Neil">Neil Munro</docAuthor>
 <head rend="center">EVENING PRAYER OF A PEOPLE</head>
 <head rend="center">SUNDAY, AUGUST 9, 1914</head>
 
@@ -930,6 +947,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 <pb n="41"/>
 <div2 id="lane032" type="poem" n="The Man Forsworn">
+<docAuthor n="Watson, William">William Watson</docAuthor>
 <head rend="center">THE MAN FORSWORN</head>
 
 <lg type="stanza">
@@ -1045,6 +1063,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 <pb n="45"/>
 <div2 id="lane033" type="poem" n="To the King of the Belgians">
+<docAuthor n="M, H.">H. M</docAuthor>
 <head rend="center">TO THE KING OF THE BELGIANS</head>
 
 <lg type="stanza">
@@ -1071,8 +1090,9 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 <pb n="46"/>
 <div2 id="lane034" type="poem" n="The Vindication">
+<docAuthor n="Bussy, Philip">Philip Bussy</docAuthor>
 <head rend="center">THE VINDICATION</head>
-<note>[It is announced that all the Territorial battalions are already at full strength, and that Lord Kitchener's "second army" is now in course of formation.]</note>
+<note anchored="yes">[It is announced that all the Territorial battalions are already at full strength, and that Lord Kitchener's "second army" is now in course of formation.]</note>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">The</hi> Summer wanes: and, 'Erbert, in the haunts</l>
@@ -1142,6 +1162,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 <pb n="49"/>
 <div2 id="lane035" type="poem" n="The Spirit of England">
+<docAuthor n="Cannan, Gilbert">Gilbert Cannan</docAuthor>
 <head rend="center">THE SPIRIT OF ENGLAND</head>
 
 <lg type="stanza">
@@ -1199,6 +1220,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 <pb n="51"/>
 <div2 id="lane036" type="poem" n="The Naval Reserve">
+<docAuthor n="Underhill, Evelyn">Evelyn Underhill</docAuthor>
 <head rend="center">THE NAVAL RESERVE</head>
 
 <lg type="stanza">
@@ -1240,6 +1262,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 <pb n="53"/>
 <div2 id="lane037" type="poem" n="Iconoclastes">
+<docAuthor n="Archer, William">William Archer</docAuthor>
 <head rend="center">ICONOCLASTES</head>
 
 <lg type="stanza">
@@ -1405,6 +1428,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 <pb n="59"/>
 <div2 id="lane038" type="poem" n="The Call to Arms in Our Street">
+<docAuthor n="Letts, W. M.">W. M. Letts</docAuthor>
 <head rend="center">THE CALL TO ARMS IN OUR STREET</head>
 
 <lg type="stanza">
@@ -1455,6 +1479,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 <pb n="61"/>
 <div2 id="lane039" type="poem" n="To the Crew of H.M.S. Birmingham">
+<docAuthor n="Forster, R. H.">R. H. Forster</docAuthor>
 <head rend="center">TO THE CREW OF H.M.S. <hi rend="italic">BIRMINGHAM</hi></head>
 
 <lg type="stanza">
@@ -1496,6 +1521,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 <pb n="63"/>
 <div2 id="lane040" type="poem" n="Germania">
+<docAuthor n="Phillpotts, Eden">Eden Phillpotts</docAuthor>
 <head rend="center">GERMANIA</head>
 
 <lg type="stanza">
@@ -1537,6 +1563,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 <pb n="65"/>
 <div2 id="lane041" type="poem" n="The Call">
+<docAuthor n="Vernede, R. E.">R. E. Vern&#x00c8;de</docAuthor>
 <head rend="center">THE CALL</head>
 
 <lg type="stanza">
@@ -1607,6 +1634,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 <pb n="68"/>
 <div2 id="lane042" type="poem" n="Dies Irae">
+<docAuthor n="Seaman, Sir Owen">Sir Owen Seaman</docAuthor>
 <head rend="center">DIES IRAE</head>
 <head rend="center">TO THE GERMAN KAISER</head>
 
@@ -1678,6 +1706,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 <pb n="71"/>
 <div2 id="lane043" type="poem" n="To Women">
+<docAuthor n="Binyon, Laurence">Laurence Binyon</docAuthor>
 <head rend="center">TO WOMEN</head>
 
 <lg type="stanza">
@@ -1723,6 +1752,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 <pb n="73"/>
 <div2 id="lane044" type="poem" n="Towards the Light">
+<docAuthor n="Sichel, Walter">Walter Sichel</docAuthor>
 <head rend="center">TOWARDS THE LIGHT</head>
 
 <lg type="stanza">
@@ -1745,6 +1775,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 <pb n="74"/>
 <div2 id="lane045" type="poem" n="Roll Up!">
+<docAuthor n="Hutchinson, W. M. L.">W. M. L. Hutchinson</docAuthor>
 <head rend="center">ROLL UP!</head>
 
 <lg type="stanza">
@@ -1794,6 +1825,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 <pb n="76"/>
 <div2 id="lane046" type="poem" n="[Untitled]">
+<docAuthor n="Rhoades, James">James Rhoades</docAuthor>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">Not</hi> for passion or for power,</l>
@@ -1838,6 +1870,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 <pb n="78"/>
 <div2 id="lane047" type="poem" n="To the British Army">
+<docAuthor n="Barnes, R. Gorell">R. Gorell Barnes</docAuthor>
 <head rend="center">TO THE BRITISH ARMY</head>
 
 <lg type="stanza">
@@ -1879,6 +1912,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 <pb n="80"/>
 <div2 id="lane048" type="poem" n="Redemption">
+<docAuthor n="Goad, Harold E.">Harold E. Goad</docAuthor>
 <head rend="center">REDEMPTION</head>
 
 <lg type="stanza">
@@ -1903,6 +1937,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 <pb n="81"/>
 <div2 id="lane049" type="poem" n="A Battle-Song">
+<docAuthor n="Courtney, W. L.">W. L. Courtney</docAuthor>
 <head rend="center">A BATTLE-SONG</head>
 
 <lg type="stanza">
@@ -1963,8 +1998,9 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <pb n="85"/>
 <pb n="86"/>
 <div2 id="lane051" type="poem" n="The Shirker">
+<docAuthor n="Phillips, Stephen">Stephen Phillips</docAuthor>
 <head rend="center">THE SHIRKER</head>
-<note>[Suggested by Mr. Robert Blatchford's article in <hi rend="italic">The Daily Mail</hi>.]</note>
+<note anchored="yes">[Suggested by Mr. Robert Blatchford's article in <hi rend="italic">The Daily Mail</hi>.]</note>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">He</hi> moors the skiff within the cooler gloom</l>
@@ -1986,6 +2022,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 <pb n="87"/>
 <div2 id="lane052" type="poem" n="Ghosts at Boulogne">
+<docAuthor n="McCarthy, Justin Huntly">Justin Huntly McCarthy</docAuthor>
 <head rend="center">GHOSTS AT BOULOGNE</head>
 
 <lg type="stanza">
@@ -2010,6 +2047,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 <pb n="88"/>
 <div2 id="lane053" type="poem" n="To the Belgians">
+<docAuthor n="Hewlett, Maurice">Maurice Hewlett</docAuthor>
 <head rend="center">TO THE BELGIANS</head>
 <head rend="center">FROM ENGLAND</head>
 
@@ -2035,6 +2073,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 <pb n="89"/>
 <div2 id="lane054" type="poem" n="Song of the Soldiers">
+<docAuthor n="Hardy, Thomas">Thomas Hardy</docAuthor>
 <head rend="center">SONG OF THE SOLDIERS</head>
 
 <lg type="stanza">
@@ -2089,6 +2128,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 <pb n="91"/>
 <div2 id="lane055" type="poem" n="A Cap to Fit the Kaiser">
+<docAuthor n="The Bishop Of Lincoln">The Bishop Of Lincoln</docAuthor>
 <head rend="center">A CAP TO FIT THE KAISER</head>
 <q rend="italic">
 <l>Impiger, iracundus, inexorabilis, acer,</l>
@@ -2113,6 +2153,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 <pb n="95"/>
 <div2 id="lane057" type="poem" n="The Battle of the Bight">
+<docAuthor n="Watson, William">William Watson</docAuthor>
 <head rend="center">THE BATTLE OF THE BIGHT</head>
 
 <lg type="stanza">
@@ -2163,4 +2204,3 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 </body>
 </text>
 </TEI.2>
-

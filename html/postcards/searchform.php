@@ -39,6 +39,7 @@ print '
 <h2>Postcard Search</h2>
 <form name="postcardquery" action="postcards/search.php" method="get">
 <table class="searchform" border="0">
+<tr><th>Keyword</th><td><input type="text" size="40" name="keyword"></td></tr>
 <tr><th>Title</th><td><input type="text" size="40" name="title"></td></tr>
 <tr><th>Description</th><td><input type="text" size="40" name="figdesc"></td></tr>
 <tr><th colspan="2" class="label">Categories</th></tr>';

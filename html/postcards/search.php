@@ -25,6 +25,8 @@ $tamino = new taminoConnection($args);
 $ig = new interpGrp($args);
 
 // search terms
+$kw = $_GET["keyword"];
+
 $title = $_GET["title"];
 $figdesc = $_GET["figdesc"];
 // categories (how not to hard code this?)
@@ -34,9 +36,16 @@ $hf = $_GET["homefront"];
 $con = $_GET["content"];
 $time = $_GET["time-period"];		// FIXME: errors with the space
 $category = array($nat, $mil, $hf, $con);
+// clean up input so explode will work properly
+if ($kw) {
+  $kw = preg_replace("/\s+/", " ", $kw);  // multiple white spaces become one space
+  $kw = preg_replace("/\s$/", "", $kw);	// ending white space is removed
+  $kwterms = explode(" ", $kw);    // multiple search terms, divided by spaces
+} else { $kwterms = array(); }
 $terms = array();
 if ($title) { array_push($terms, $title); }
 if ($figdesc) { array_push($terms, $figdesc); }
+if ($kw) { array_push($terms, $kwterms); }
 $pos = $_GET["position"];
 if (isset($pos)) {} else {$pos = 1;}
 
@@ -62,8 +71,16 @@ if ($figdesc) {
   $where .= " tf:containsText(\$a/figDesc, '$figdesc') ";
   $firstcond = true;
 }
+// keyword search
+foreach ($kwterms as $t) {
+  if ($t != '') {
+    if ($firstcond) { $where .= " and "; }
+    $where .= " tf:containsText(\$a, '$t') ";
+    $firstcond = true;
+  }
+}
 foreach ($category as $c) {
-  if ($c != "null") {  	// if null, skip selection
+  if (($c != "null") && ($c != '')) {  	// if null, skip selection
     if ($firstcond) { $where .= " and "; }
     $where .= "tf:containsText(\$a/@ana, '$c') ";
     $firstcond = true;
@@ -93,10 +110,14 @@ print "<p class='postcardnav'>Search results for ";
 if ($title) { array_push($searchterms, "'$title' in title"); }
 if ($figdesc) { array_push($searchterms, "'$figdesc' in figure description"); }
 foreach ($category as $c) {
-  if ($c != "null") {  	// if null, skip
+  if (($c != "null") && ($c != '')) {  	// if null, skip
        array_push($searchterms, $ig->group($c) . " - " . $ig->name($c));
   }
 }
+foreach ($kwterms as $t) {
+  array_push($searchterms, $t); 
+}
+
 
 $stcount = count($searchterms);
 switch ($stcount) {
@@ -152,7 +173,7 @@ print $result_links;
 $tamino->xslTransform($xsl_file, $xsl_params);
 //$tamino->xslTransform($xsl_file);
 
-// FIXME: why is it only highlighting one term and not both?
+// FIXME: why is highlighting not working properly?
 $tamino->printResult($terms);
 
 print '</div>';

@@ -1,402 +1,455 @@
-
-
-90
-
-P. H. B. LYON LJEUC., DURHAM LIGHT INFANTRY
-
-Requiem
-
-ET others comfort your distress JLJ With soldier tales of simple alt, Telling his strength, his manliness, The noble way he played his part. You should be proud ;-ah, gallant heart, Say not that pride is comfortless.
-
-But I have rarer words than praise, For more than common love was mine, 'nd now his dear remembered ways re treasured in the sacred shrine Where human mingles with divine, -' solace for the lonely days.
-
-He battled for no worldly hire, No stern ambition to appease, From fight to fight his heart's desire Was set on higher things than theseHis home beside the English seas, And children's faces round the fire,
-
-9'
-More Songs by the Fighting Men
-
-Red clouds, and the low sun agleam In cottage windows dim with age, The summer sounds of wood and strc,u These were his faith, his heritage I us life-a happy pilgrimage, And death the dawning of a dream.
-
-And on that day he went to die His spirit soared on rainbow wings, Gladly he went, with head held high, And singing as a lover sings To greet the dusky night, that brings His hour of happiness more nigh.
-
-Ah, surely when his life was sped That spirit hastened to your side. Would you but raise your weeping head You'd hear him whisper in the tide, Or on the winds of heaven ride For ever with the mighty dead.
-
-92
-
-P. H. B. Lyon
-
-The Lay of the Bombardier (Old Style)
-
-MY ways are lonely and apart,
-
-My very name a thing of fear
-
-I am the man without a heart,
-
-I am the Lord High Bombardier.
-
-My mattins is the shrapnel's scream,
-
-My evensong the bullet's crack;
-
-The happy state of which I dream
-
-To strafe and never be strafed back.
-
-Oft-times with Red Hats hovering near
-
-I hold a mystic high debate
-
-On how to fill the Boche with fear,
-
-On Frightfulness, or "What is Hate?"
-
-How some bombs burst long ere they land,
-
-Others, the choicest, as they fall
-
-How some dissect the thrower's hand,
-
-While most will never burst at all.
-
-With that spring-throated Juggernaut
-
-That spits explosive at the sky.
-
-No dark-browed scholar devil-taught
-
-Could be more intimate than I.
-
-93
-More Songs by the Fighting Men
-
-For me no more the secret cult
-
-Of "Jampot," " Hairbrush," " Pitcher," " Ball," Holds fear ; the erratic catapult
-
-Has lost all power to appal.
-
-With many a brother anarchist
-
-By night I prowl from ten till one, Thirsting to keep a bloody tryst
-
-With some rotund unready Hun.
-
-So runs my life, but when the end
-
-Comes on the wings of shot or shell, No tears will save, nor loving friend,
-
-For me there waits the bomber's Hell,
-
-Where with the unsubstantial shades
-
-in groves where shells eternal fall I'll fill Satanic hand-grenades
-
-With fourth-dimension ammonal.
-
-FLANDERS, 1915.
-
-94
-
-IAN H. T. MACKENZIE
-
-2ND LIEUT., HIGHLAND LIGHT INFANTRY
-
-Desire
-
-THIS is my desire Which burns the fuel of my soul. O terrible white fire Leaping to blister the sky. Beyond my sight; Ever reaching higher i\Iy strength and my delight; Oh out of my control! This is my desire
-
-10 hear the song that beauty sings, 'l'b refashion the earth with the joy of things, To grasp in a corner of my mind The sunlit clouds, the driving wind. To let imagination fly Up the beauty of the sky. To hold it with me when I go To sing my song on earth below.
-
-95
-More Songs by the Fighting Men
-
-This is the desire Which burns the fuel of my soul. O terrible white fire! Leaping to blister the sky. Beyond my sight; Ever reaching higher; My strength and my delight; Oh out of my control! This is my desire.
-
-And So Man Lives
-
-AND so man lives
-
-Between those shadowy gates Where darkness covers up his memory, And thought with thought forever sepa1tcs The disconnected things that he can see. Those two strange steeps One whence he wakes, And how he cannot tell; One in which he falls And knows not how he fell, Where life with memory breaks.
-
-96
-
-Ian H. T. Mackenzie
-
-lory like water
-
-Lsrgrng round our ears Brings its echoes, softer Than the sound of laughterLaughter of some strange forgotten years.
-
-Someone gazing in a stream sees reflections hurry by;
-
-Someone underneath a tree searching all its greenery;
-
-Someone looking at a face holds a flying memory.
-
-Broken images that pass Through a twisted looking-glass; Things we do and things we say liver fluttering away.
-
-Disconnected things we see In the brightness of the clay :
-
-Just a flower growing there In the happiness of air.
-
-G 97
-More Songs by the Fighting Men
-
-Tiny little birds that sing In the melody of spring.
-
-What we are and what we see Are only shreds of memory. Broken shreds and fragments pass Through a twisted looking-glass.
-
-98
-
-CHARLES JOHN BEECH MASEFIELD MC.. ACTING CAPT., 5TH N0Rlu STAFFS REGT. (Killed in Action, July, 1917)
-
-Enlisted, or The Recruits
-
-HUMBLY, 0 England, we offer what is of little
-
-worth,
-
-ust our bodies and souls and everything else e have;
-
+<pb n="91"/>
+<div2 id="moresongs0" type="poem" n="Requiem">
+<byline><docAuthor n="Lyon, P. H. B.">P. H. B. LYON</docAuthor></lb>
+<hi rend="smallcaps">Lieut., Durham Light Infantry</hi></byline>
+
+<head rend="center">Requiem</head>
+
+<lg type="stanza">
+<l n="1">LET others comfort your distress</l>
+<l>With soldier tales of simple art,</l>
+<l>Telling his strength, his manliness,</l>
+<l>The noble way he played his part.</l>
+<l>You should be proud; -- ah, gallant heart,</l>
+<l>Say not that pride is comfortless.</l></lg>
+
+<lg>
+<l>But I have rarer words than praise,</l>
+<l>For more than common love was mine,</l>
+<l>And now his dear remembered ways</l>
+<l>Are treasured in the sacred shrine</l>
+<l>Where human mingles with divine,</l>
+<l>A solace for the lonely days.</l></lg>
+
+<lg>
+<l>He battled for no worldly hire,</l>
+<l>No stern ambition to appease,</l>
+<l>From fight to fight his heart's desire</l>
+<l>Was set on higher things than these --</l>
+<l>His home beside the English seas,</l>
+<l>And children's faces round the fire,</l></lg>
+
+<pb n="92"/>
+<lg>
+<l>Red clouds, and the low sun agleam</l>
+<l>In cottage windows dim with age,</l>
+<l>The summer sounds of wood and stream,</l>
+<l>These were his faith, his heritage;</l>
+<l>His life -- a happy pilgrimage,</l>
+<l>And death the dawning of a dream.</l></lg>
+
+<lg>
+<l>And on that day he went to die</l>
+<l>His spirit soared on rainbow wings,</l>
+<l>Gladly he went, with head held high,</l>
+<l>And singing as a lover sings</l>
+<l>To greet the dusky night, that brings</l>
+<l>His hour of happiness more nigh.</l></lg>
+
+<lg>
+<l>Ah, surely when his life was sped</l>
+<l>That spirit hastened to your side.</l>
+<l>Would you but raise your weeping head</l>
+<l>You'd hear him whisper in the tide,</l>
+<l>Or on the winds of heaven ride</l>
+<l>For ever with the mighty dead.</l></lg>
+</div2>
+
+
+<pb n="93"/>
+<div2 id="moresongs0" type="poem" n="The Lay of the Bombardier (Old Style)">
+<docAuthor n="Lyon, P. H. B."></docAuthor>
+<head rend="center">The Lay of the Bombardier</head>
+<head rend="center">(Old Style)</head>
+
+<lg type="stanza">
+<l n="1">MY ways are lonely and apart,</l>
+<l rend="indent">My very name a thing of fear</l>
+<l>I am the man without a heart,</l>
+<l rend="indent">I am the Lord High Bombardier.</l></lg>
+
+<lg>
+<l>My mattins is the shrapnel's scream,</l>
+<l rend="indent">My evensong the bullet's crack;</l>
+<l>The happy state of which I dream</l>
+<l rend="indent">To strafe and never be strafed back.</l></lg>
+
+<lg>
+<l>Oft-times with Red Hats hovering near</l>
+<l rend="indent">I hold a mystic high debate</l>
+<l>On how to fill the Boche with fear,</l>
+<l rend="indent">On Frightfulness, or "What is Hate?"</l></lg>
+
+<lg>
+<l>How some bombs burst long ere they land,</l>
+<l rend="indent">Others, the choicest, as they fall;</l>
+<l>How some dissect the thrower's hand,</l>
+<l rend="indent">While most will never burst at all.</l></lg>
+
+<lg>
+<l>With that spring-throated Juggernaut</l>
+<l rend="indent">That spits explosive at the sky.</l>
+<l>No dark-browed scholar devil-taught</l>
+<l rend="indent">Could be more intimate than I.</l></lg>
+
+<pb n="94"/>
+<lg>
+<l>For me no more the secret cult</l>
+<l rend="indent">Of "Jampot," "Hairbrush," "Pitcher," "Ball,"</l>
+<l>Holds fear; the erratic catapult</l>
+<l rend="indent">Has lost all power to appal.</l></lg>
+
+<lg>
+<l>With many a brother anarchist</l>
+<l rend="indent">By night I prowl from ten till one,</l>
+<l>Thirsting to keep a bloody tryst</l>
+<l rend="indent">With some rotund unready Hun.</l></lg>
+
+<lg>
+<l>So runs my life, but when the end</l>
+<l rend="indent">Comes on the wings of shot or shell,</l>
+<l>No tears will save, nor loving friend,</l>
+<l rend="indent">For me there waits the bomber's Hell,</l></lg>
+
+<lg>
+<l>Where with the unsubstantial shades</l>
+<l rend="indent">In groves where shells eternal fall</l>
+<l>I'll fill Satanic hand-grenades</l>
+<l rend="indent">With fourth-dimension ammonal.</l></lg>
+<dateline><name type="place"><hi rend="smallcaps">Flanders</hi>, </name><date>1915.</date></dateline>
+</div2>
+
+
+<pb n="95"/>
+<div2 id="moresongs0" type="poem" n="Desire">
+<byline><docAuthor n="Mackenzie, Ian H. T.">IAN H. T. MACKENZIE</docAuthor></lb>
+<hi rend="smallcaps">2nd Lieut., Highland Light Infantry</hi></byline>
+
+<head rend="center">Desire</head>
+
+<lg type="stanza">
+<l n="1">THIS is my desire</l>
+<l>Which burns the fuel of my soul.</l>
+<l>O terrible white fire!</l>
+<l>Leaping to blister the sky.</l>
+<l>Beyond my sight;</l>
+<l>Ever reaching higher;</l>
+<l>My strength and my delight;</l>
+<l>Oh out of my control!</l>
+<l>This is my desire:--</l></lg>
+
+<lg>
+<l>To hear the song that beauty sings,</l>
+<l>To refashion the earth with the joy of things,</l>
+<l>To grasp in a corner of my mind</l>
+<l>The sunlit clouds, the driving wind.</l>
+<l>To let imagination fly</l>
+<l>Up the beauty of the sky.</l>
+<l>To hold it with me when I go</l>
+<l>To sing my song on earth below.</l></lg>
+
+<pb n="96"/>
+<lg>
+<l>This is the desire</l>
+<l>Which burns the fuel of my soul.</l>
+<l>O terrible white fire!</l>
+<l>Leaping to blister the sky.</l>
+<l>Beyond my sight;</l>
+<l>Ever reaching higher;</l>
+<l>My strength and my delight;</l>
+<l>Oh out of my control!</l>
+<l>This is my desire.</l></lg>
+</div2>
+
+
+<div2 id="moresongs0" type="poem" n="And So Man Lives">
+<docAuthor n="Mackenzie, Ian H. T."></docAuthor>
+<head rend="center">And So Man Lives</head>
+
+<lg type="stanza">
+<l n="1">AND so man lives</l>
+<l>Between those shadowy gates</l>
+<l>Where darkness covers up his memory,</l>
+<l>And thought with thought forever separates</l>
+<l>The disconnected things that he can see.</l>
+<l>Those two strange steeps:</l>
+<l>One whence he wakes,</l>
+<l>And how he cannot tell;</l>
+<l>One in which he falls</l>
+<l>And knows not how he fell,</l>
+<l>Where life with memory breaks.</l></lg>
+
+<milestone unit="stanza" rend="dots">.  .  .  .  .  .</milestone>
+
+<pb n="97"/>
+<lg>
+<l>Memory like water</l>
+<l>Surgrng round our ears</l>
+<l>Brings its echoes, softer</l>
+<l>Than the sound of laughter --</l>
+<l>Laughter of some strange forgotten years.</l></lg>
+
+<milestone unit="stanza" rend="dots">.  .  .  .  .  .</milestone>
+
+<lg>
+<l>Someone gazing in a stream sees reflections hurry by;</l></lg>
+
+<lg>
+<l>Someone underneath a tree searching all its greenery;</l></lg>
+
+<lg>
+<l>Someone looking at a face holds a flying memory.</l></lg>
+
+<milestone unit="stanza" rend="dots">.  .  .  .  .  .</milestone>
+
+<lg>
+<l>Broken images that pass</l>
+<l>Through a twisted looking-glass;</l>
+<l>Things we do and things we say</l>
+<l>Ever fluttering away.</l></lg>
+
+<milestone unit="stanza" rend="dots">.  .  .  .  .  .</milestone>
+
+<lg>
+<l>Disconnected things we see</l>
+<l>In the brightness of the day:</l></lg>
+
+<lg>
+<l>Just a flower growing there</l>
+<l>In the happiness of air.</l></lg>
+
+<pb n="97"/>
+<lg>
+<l>Tiny little birds that sing</l>
+<l>In the melody of spring.</l></lg>
+
+<milestone unit="stanza" rend="dots">.  .  .  .  .  .</milestone>
+
+<lg>
+<l>What we are and what we see</l>
+<l>Are only shreds of memory.</l>
+<l>Broken shreds and fragments pass</l>
+<l>Through a twisted looking-glass.</l></lg>
+</div2>
+
+
+<pb n="99"/>
+<div2 id="moresongs0" type="poem" n="Enlisted, or The Recruits">
+<byline><docAuthor n="Masefield, Charles John Beech">CHARLES JOHN BEECH MASEFIELD</docAuthor></lb>
+M.C., Acting Capt., 5th North Staffs Regt.</byline>
+<note>(Killed in Action, July, 1917)</note>
+
+<head rend="center">Enlisted, or The Recruits</head>
+
+<lg type="stanza">
+<l n="1">HUMBLY, O England, we offer what is of little worth,
+Just our bodies and souls and everything else we have;
 But thou with thy holy cause wilt hallow our common earth,
+Giving us strength in the battle -- and peace, if need, in the grave.
 
-Giving us strength in the battle-and peace, if need, in the grave.
-
-Humble, 0 England, we are, for of hero-fathers we come,
-
-Men that contested with tyrants the mightier destinies
-
+Humble, O England, we are, for of hero-fathers we come,
+Men that contested with tyrants the mightier destinies;
 Philip of Spain we remember, and the ships that never went home,
+And him that was caught at last, and isled in the warder seas.
 
-\iid him that was caught at last, and isled in the warder seas.
-
-99
-More Songs by the Fighting Men
-
-Humbly, 0 England, we bring thee life in its ful1
-
-stained youth,
-
-That which, it may be, has striven, but ever has slackened and tired
-
+<pb n="100"/>
+Humbly, O England, we bring thee life in its folly-stained youth,
+That which, it may be, has striven, but ever has slackened and tired;
 The faltering, often deceived, to combat now for the Truth,
-
 Dim-visioned, to smite for the morrow unknown but desired.
+<hi rend="italic">September</hi>, 1914.
 
-September, 1914.
 
 Sailing for Flanders
 
-TO need any more the skies or man to importune For us departing to-day with spirits at peace,
-
-Now that the inner warfares, that tire men, cease
-
+TO need any more the skies or man to importune
+For us departing to-day with spirits at peace,
+Now that the inner warfares, that tire men, cease --
 For us the chosen of God's lot, the spoilt darlings of Fortune.
 
-Against the beasts in men let loose from their cages We go forth with a lightened and proud heart, We who are the men summoned to a high part,
+Against the beasts in men let loose from their cages
+We go forth with a lightened and proud heart,
+We who are the men summoned to a high part,
+To be known of the envious youth of unborn ages.
 
-to be known of the envious youth of unborn ages.
+<pb n="101"/>
+We have feared old Death, but now have we learned our error,
+Seeing him there in the mire us so kindly await --
+A comrade befitting the hour of a world's fate,
+And we look him full in the eyes; we are rid of our last terror.
 
-100
+True that Death is an ill, but the worse ills are many;
+Shame and slow rotting, cold and greasy years,
+Pride in dishonour -- these things hold our fears;
+We can play pitch and toss with our lives as a boy with a penny.
 
-Charles John Beech Masefielci
+We have spent ourselves to win us a lady's favour,
+But now the spending is grown to a leaping fire,
+And winning for ourselves seems but a strange desire;
+Her eyes are remote as stars; her kisses have lost their savour.
 
-have feared old Death, but now have we learned our error,
-
-'ceirig him there in the mire us so kindly awaitcomrade befitting the hour of a world's fate,
-
-d we look him full in the eyes ; we are rid of our last terror.
-
-e that Death is an ill, but the worse ills are many;
-
-.hanie and slow rotting, cold and greasy years,
-
-'ride in dishonour-these things hold our fears can play pitch and toss with our lives as a boy with a penny.
-
-have spent ourselves to win us a lady's favour, ut now the spending is grown to a leaping fire,
-
-\nd winning for ourselves seems but a strange desire
-
-r eyes are remote as stars ; her kisses have lost their savour.
-
-have put life away and spurn the ways of the living;
-
+We have put life away and spurn the ways of the living;
 We have broken with the old selves who gathered and got,
+And are free with the freedom of men who have not;
+We partake the heroic fervours of giving and again giving.
 
-\nd are free with the freedom of men who have not partake the heroic fervnnrs of giving and again 'log.
-
-In'
-More Songs by the Fighting M'11
-
-Was it only for Death we were borne of our Mothers
-
-Only for Death created the dear love of our wives
-
-Only for Death and in vain we endeavoured our lives
-
+<pb n="102"/>
+Was it only for Death we were borne of our Mothers?
+Only for Death created the dear love of our wives?
+Only for Death and in vain we endeavoured our lives?
 Yea, life was given to be given; March onward, my brothers!
+<hi rend="italic">January</hi>, 1915.
 
-January, 1915.
 
 Two Julys
 
-I WAS so vague in 1914; tossed Upon too many purposes, and worthless;
-
+I WAS so vague in 1914; tossed
+Upon too many purposes, and worthless;
 Moody; to this world or the other lost,
-
 Essential nowhere; without calm and mirthless
-
 And now I have gained one for many ends,
-
-See my straight road stretch out so white, slender,
-
+See my straight road stretch out so white, so slender,
 That happy road, the road of all my friends,
-
 Made glad with peace, and holy with surrender.
 
-Proud, proud we fling to the winds of Time o token,
-
-And in our need there wells in us the power.
-
-102
-
-Charles John Beech Masefield
-
-ii England's swords to keep her honour clean.
-
-\ iiich they shall be which pierce, and which be broken,
-
+Proud, proud we fling to the winds of Time our token,
+And in our need there wells in us the power,
+<pb n="103"/>
+Given England's swords to keep her honour clean.
+Which they shall be which pierce, and which be broken,
 We know not, but we know that every hour
+We must shine brighter, take an edge more keen.
+<hi rend="italic">July</hi>, 1915.
 
-\\c must shine brighter, take an edge more keen.
-
-July, 1915.
 
 In Honorem Fortium
 
-I SOMETIMES think that I have lived too long, Who have heard so many a gay brave singer's
+I SOMETIMES think that I have lived too long,
+Who have heard so many a gay brave singer's song
+Fail him for ever -- seen so many sails
+Lean out resplendent to the evil gales,
+Then Death, the wrecker, get his harvest in.
+Oh, ill it is, when men lose all, to win;
+Grief though it be to die, 'tis grief yet more
+To live and count the dear dead comrades o'er.
 
-song til him for ever-seen so many sails Lan out resplendent to the evil gales,
+<milestone unit="stanza" rend="dots">.  .  .  .  .  .</milestone>
 
-'Ilien Death, the wrecker, get his harvest in.
+Peace. After all you died not. We've no fear
+But that, long ages hence, you will be near --
+A thought by night --on the warm wind a breath,
+Making for courage, putting old Death,
+<pb n="104"/>
+Living wherever men are not afraid
+Of aught but making bravery a parade.
+Yes, parleying with fear, they'll pause and say,
+"At Gommecourt boys suffered worse that day";
+Or, hesitating on some anxious brink,
+They will become heroic when they think,
+"Did they not rise mortality above
+Who staked a lifetime all made sweet with love?"
+<hi rend="italic">May</hi>, 1917.
 
-)Ii, ill it is, when men lose all, to win (;rief though it be to die, 'tis grief yet more
 
-'['a live and count the dear dead comrades o'er.
-
-Pace. After all you died not. We've no fear
-
-Iut that, long ages hence, you will be near-thought by night-on the warm wind a breath, \!  for courage, putting old Death,
-
-103
-More Songs by the Fighting Men
-
-Living wherever men are not afraid Of aught but making bravery a parade. Yes, parleying with fear, they'll pause and say, "At Gommecourt boys suffered worse that day"; Or, hesitating on some anxious brink, They will become heroic when they think, Did they not rise mortality above Who staked a lifetime all made sweet with love?"
-
-May, 1917.
-
-104
-
-JOHN MASON CAPTAIN, ROYAL SCOTS
+<pb n="105"/>
+JOHN MASON
+Captain, Royal Scots
 
 My Country
 
-'HERE is no dearer land in all the world 1 Than thee, my country, girded by the sea, Where rocks re-echo to the bounding waters hurl'd, And all is endless sight and mystery to me. The silent distances of hills, replete With tideless joy, eternal hope
+THERE is no dearer land in all the world
+Than thee, my country, girded by the sea,
+Where rocks re-echo to the bounding waters hurl'd,
+And all is endless sight and mystery to me.
+The silent distances of hills, replete
+With tideless joy, eternal hope
+Upspringing with the eagle's pennon-beat,
+Free to the airs, with ne'er a tether-rope
+To check its flight.
 
-I springing with theeagle's pennon-beat,
+The sky above may weep, and seldom smile,
+And mirky be the frown upon thy brow.
+Yet O! thy mountain woods and endless mile
+Of sea, sing joy unbound, and life, that now
+Expansive breathes the freshness of the free.
+Thy piney airs and salt-sea breezes blown,
+With peaty scent and loamy breath of lea
+Seek out the soul that nowhere else hath known
+The like to thee.
 
-'rue to the airs, with ne'er a tether-rope check its flight.
+<pb n="106"/>
+There is no dearer land in all the world
+Than thee, my country, girded by the sea.
+'Twere joy to those who bear the flag unfurl'd
+In ruthless strife to keep thine acres free,
+To dip the hand in blood, the face to scar
+With sword of death, that thou unconquered may
+For Freedom stand, the vanquisher of war,
+Chaste guardian of the unprotected way
+To peace and right.
 
-The sky above may weep, and seldom smile, And mirky be the frown upon thy brow. \t 0! thy mountain woods and endless mile o: sea, sing joy unbound, and life, that now I \pansive breathes the freshness of the free. 'F _1v piney airs and salt-sea breezes blown, \\ th peaty scent and loamy breath of lea
 
-uk out the soul that nowhere else hath known like to thee.
-
-Soc
-More Songs by the Fighting Men
-
-There is no dearer land in all the world Than thee, my country, girded by the sea. 'T\vere joy to those who bear the flag unfurl'd In ruthless strife to keep thine acres free, To dip the hand in blood, the face to scar With sword of death, that thou unconquered may For Freedom stand, the vanquisher of war, Chaste guardian of the unprotected way Topeace and right.
-
-i o6
-
-HARLEY MATTHEWS PRIVATE, A.J.F.
+<pb n="107"/>
+HARLEY MATTHEWS
+Private, A.I.F.
 
 Homeward
 
 To the old friends and faces,
-
-To the old life again, To often dreamed-of places,
-
-Pleasant in sun or rain
-
-For home my face is set
-
+To the old life again,
+To often dreamed-of places,
+Pleasant in sun or rain:
+For home my face is set;
 Home! Madly goes my heart
-
 With calling up each minute
-
 Those visions none forget,
-
-All that the word has in it
-
+All that the word has in it --
 For each man things apart.
 
 We watched our land go from us,
-
-The sea stretched far, unknown
-
-To all it glowed with promise. .
-
+The sea stretched far, unknown;
+To all it glowed with promise. ...
 I watch the sea alone.
-
 Some lie within its sound,
-
 Scarce past its edge of foam,
-
 Yet hear it surging never.
-
 And some their grave have found
-
 Far from the sea for ever,
-
 The sea that takes us home.
 
-107
-More Songs by the Fighting Men
-
+<pb n="108"/>
 I hear you, waves that glisten,
-
 I see your path for me.
-
 Maybe the dead can listen,
-
-See more than I can see
-
+See more than I can see:
 Not for the gulls, their sound
-
-Heard muffled through the loam.
-
+Heard muffled through the loam,
 Nor noise of sea or heavens.
-
 Not see the trees around,
-
-No not the grass-roots even,
-
+No! not the grass-roots even,
 But sounds and sights of home.
 
-soS
 
-MURRAY McCLYMONT 2ND LIEUT., 2/lOTif (SCOTTISH) K.L.R.
+<pb n="109"/>
+MURRAY McCLYMONT
+<hi rend="smallcaps">2nd Lieut., 2/10th (Scottish) K.L.R.</hi>
 
-Gods Acre
+God's Acre
 
-Dedicated to my "skipper," Captain Alan Cookson (killed in action 27th June, 1917), who now sleeps eternally in the shadow of the little grey church at
+Dedicated to my "skipper," Captain Alan Cookson (killed in action 27th June, 1917), who now sleeps eternally in the shadow of the little grey church at ...
 
-WHEN sands of Time have run their course And mortal heart is stilled, We render back unto its Source The dust that He fulfilled;
+WHEN sands of Time have run their course
+And mortal heart is stilled,
+We render back unto its Source
+The dust that He fulfilled;
 
-And in some still, subdued spot Where all is peace, and they \\ ho walk the silent paths are taught To meditate and pray,
+And in some still, subdu&eacute;d spot
+Where all is peace, and they
+Who walk the silent paths are taught
+To meditate and pray,
 
-We to that dust its rest afford And dry our idle tears For Death is peace, and Peace adored Reigns here throughout the years.
-
-FRANCE, Spi., 1917
-
-i09
+We to that dust its rest afford
+And dry our idle tears
+For Death is peace, and Peace adored
+Reigns here throughout the years.
+<hi rend="smallcaps">B.E.F., France</hi>, <hi rend="italic">Sept.</hi>, 1917.

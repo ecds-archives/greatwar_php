@@ -10,8 +10,11 @@
 
 <xsl:include href="teipoetry.xsl"/>
 <xsl:include href="teinote.xsl"/>
+<xsl:include href="convertcase.xsl"/>
 
-<xsl:param name="mode"></xsl:param>
+<xsl:param name="mode"/>
+<xsl:param name="selflink"/>	<!-- for use with footnotes -->	
+
 <!-- options:
      browse = list of titles with author/editor
      poetbrowse = browse by poet
@@ -46,7 +49,7 @@
       <xsl:apply-templates select="//div" mode="poem"/>
     </xsl:when>
     <xsl:when test="$mode='frontmatter'">
-      <xsl:apply-templates select="//div1"/>
+      <xsl:apply-templates select="//div" mode="front"/>
     </xsl:when>
     <xsl:when test="$mode='search'">
       <xsl:apply-templates select="//div2" mode="search"/>
@@ -61,8 +64,13 @@
    <a>
    <xsl:attribute name="href">poetry/contents.php?id=<xsl:value-of select="@id"/></xsl:attribute>
      <xsl:value-of select="titleStmt/title"/></a>
-       <br/><xsl:value-of select="titleStmt/author"/>
+       <br/><xsl:value-of select="titleStmt/author"/> 
+       <xsl:apply-templates select="titleStmt/editor"/>
  </li>
+</xsl:template>
+
+<xsl:template match="editor">
+  <xsl:value-of select="."/>, ed.
 </xsl:template>
 
 
@@ -76,8 +84,9 @@
     </xsl:when>
     <xsl:otherwise>
     <div class="toggle">
+	<!-- added position to lastname to ensure uniqueness -->
     <xsl:variable name="lastname">
-      <xsl:value-of select="substring-before(docAuthor/@n, ',')"/>
+      <xsl:value-of select="concat(substring-before(docAuthor/@n, ','), '-', position())"/>
     </xsl:variable>
       <!-- create toggle image -->
       <xsl:call-template name="toggle-image">
@@ -135,18 +144,43 @@
 
 <xsl:template match="div" mode="contents">
   <ul>
-    <xsl:apply-templates select="div1" mode="contents"/>
+    <xsl:apply-templates select="//div1" mode="contents"/>
   </ul>
   <xsl:apply-templates select="teiHeader"/>
 </xsl:template>
+
+
+<xsl:template match="div" mode="front">
+  <xsl:apply-templates select="div1"/>
+  <xsl:apply-templates select="teiHeader"/>
+</xsl:template>
+
 
 <xsl:template match="teiHeader">
 <!-- first two are redundant -->
 <!--  <xsl:value-of select="fileDesc/titleStmt/title"/><br/>
   <xsl:value-of select="fileDesc/titleStmt/author"/><br/> -->
  <p class="copyright">
-  <xsl:value-of select="fileDesc/sourceDesc/bibl"/><br/>
+    <xsl:apply-templates select="fileDesc/sourceDesc/bibl"/>
  </p>
+</xsl:template>
+
+<xsl:template match="fileDesc/sourceDesc/bibl">
+  <xsl:choose>
+    <xsl:when test="title"> 	
+<!-- if title is defined, bibl uses fields; construct the publication
+     line from the components -->
+      <xsl:value-of select="author"/>
+      <xsl:apply-templates select="editor"/>
+      <i><xsl:value-of select="title"/>. </i>
+      <xsl:value-of select="pubPlace"/>: 
+      <xsl:value-of select="publisher"/>,
+      <xsl:value-of select="date"/>.
+    </xsl:when>
+    <xsl:otherwise>
+      <xsl:value-of select="."/>
+    </xsl:otherwise>
+  </xsl:choose>
 </xsl:template>
 
 <xsl:template match="div1" mode="contents">
@@ -165,24 +199,32 @@
 </li>
 </xsl:template>
 
-<!-- similar to above, but with a link to content -->
-<xsl:template match="div1[@type='Foreword']" mode="contents">
+<!-- front matter divs : similar to above, but with a link to content -->
+<xsl:template match="front/div1" mode="contents">
  <li>
   <a>
    <xsl:attribute name="href">poetry/front.php?id=<xsl:value-of select="@id"/></xsl:attribute>
-  <xsl:value-of select="@n"/>
   <xsl:choose>
-    <xsl:when test="not(@n)">
+    <xsl:when test="@n">
+      <xsl:value-of select="@n"/>
+    </xsl:when>
+    <xsl:when test="head">
       <xsl:value-of select="head"/>
     </xsl:when>
-    <xsl:when test="not(head)">
-       [untitled]
-    </xsl:when>
+    <xsl:otherwise>
+       <xsl:call-template name="convertpropercase">
+         <xsl:with-param name="str"><xsl:value-of select="@type"/></xsl:with-param>
+       </xsl:call-template>
+    </xsl:otherwise>
   </xsl:choose>
   </a>
-   <font class="type">(<xsl:value-of select="@type"/>)</font>
+   <!-- only display type if it was not used for title/link -->
+   <xsl:if test="@n or head">
+     <font class="type">(<xsl:value-of select="@type"/>)</font>
+   </xsl:if>
  </li>
 </xsl:template>
+
 
 <!-- same as above, but linked to content -->
 <xsl:template match="div1[@type='colophon']" mode="contents">
@@ -206,8 +248,35 @@
     </xsl:if>
 
     <font class="type">(<xsl:value-of select="@type"/>)</font>
+  
+    <ul>
+      <xsl:apply-templates select="div3" mode="contents"/>
+    </ul>
+
   </li>
 </xsl:template>
+
+<xsl:template match="div3[@type='poem']" mode="contents">
+  <li>
+    <a>
+     <xsl:attribute name="href">poetry/view.php?id=<xsl:value-of select="../@id"/>#<xsl:value-of select="@id"/></xsl:attribute>
+     <xsl:value-of select="@n"/>
+     <xsl:if test="not(@n)">[untitled]</xsl:if>
+    </a> 
+    <xsl:if test="docAuthor">
+	<xsl:value-of select="concat(' - ', docAuthor)"/>
+    </xsl:if>
+
+    <font class="type">(<xsl:value-of select="@type"/>)</font>
+  
+    <ul>
+      <xsl:apply-templates select="div3" mode="contents"/>
+    </ul>
+
+  </li>
+</xsl:template>
+
+
 
 <!-- search results -->
 <xsl:template match="div2" mode="search">
@@ -245,6 +314,7 @@
 
 <xsl:template match="div1">
   <xsl:apply-templates/>
+  <xsl:call-template name="endnotes"/>
 </xsl:template>
 
 <xsl:template match="p">
@@ -259,6 +329,7 @@
   <a>
    <xsl:attribute name="href">poetry/contents.php?id=<xsl:value-of select="@id"/></xsl:attribute>
      <xsl:value-of select="//titleStmt/title"/></a>, <xsl:value-of select="//titleStmt/author"/>
+	 <xsl:value-of select="//titleStmt/editor"/>
   </p>
 
   <xsl:apply-templates select="teiHeader"/>
@@ -275,6 +346,19 @@
   <xsl:call-template name="endnotes"/>
 </xsl:template>
 
+<!-- offset div3 poems a little, and give them a name anchor to link to -->
+<xsl:template match="div3[@type='poem']">
+ <table class="poem">
+  <tr><td>
+  <a>
+   <xsl:attribute name="name"><xsl:value-of select="@id"/></xsl:attribute>
+  </a>
+  <xsl:apply-templates select="*[not(self::docAuthor)]"/>  
+  </td></tr>
+ </table>
+
+</xsl:template>
+
  <!-- create toggle image -->
 <xsl:template name="toggle-image">
   <xsl:param name="id"/>
@@ -287,5 +371,7 @@
      </xsl:element> <!-- img -->
    </xsl:element> <!-- a -->
 </xsl:template>
+
+
 
 </xsl:stylesheet>

@@ -367,6 +367,14 @@
 
 <xsl:template match="div" mode="poem">
 
+  <p class="source">Contents - 
+  <a>
+   <xsl:attribute name="href">poetry/contents.php?id=<xsl:value-of select="@id"/></xsl:attribute>
+     <xsl:value-of select="//titleStmt/title"/></a>, <xsl:value-of select="//titleStmt/author"/>
+	 <xsl:value-of select="//titleStmt/editor"/>
+  </p>
+
+
   <xsl:apply-templates select="div2" mode="poem"/>
 
   <p class="source"> from 
@@ -375,6 +383,13 @@
      <xsl:value-of select="//titleStmt/title"/></a>, <xsl:value-of select="//titleStmt/author"/>
 	 <xsl:value-of select="//titleStmt/editor"/>
   </p>
+
+  <xsl:variable name="myid"><xsl:value-of select="div2/@id"/></xsl:variable>
+  <p class="next-prev">Continue browsing this volume:<br/>
+   <xsl:apply-templates select="//div/siblings/div2[@id=$myid]" mode="prev"/>
+   <xsl:apply-templates select="//div/siblings/div2[@id=$myid]" mode="next"/>
+</p>
+
 
   <xsl:apply-templates select="teiHeader"/>
 </xsl:template>
@@ -430,5 +445,37 @@
   </xsl:choose>
 
 </xsl:template>
+
+
+<xsl:template match="siblings/div2" mode="next">
+ <!-- if sibling exists, link to it -->
+ <xsl:if test="following-sibling::div2">
+  Next poem: 
+  <a>
+    <xsl:attribute name="href">poetry/view.php?id=<xsl:value-of select="following-sibling::div2/@id"/></xsl:attribute>
+    <xsl:value-of select="following-sibling::div2/@n"/>
+  </a>
+  <xsl:if test="following-sibling::div2/docAuthor">
+    - <xsl:value-of select="following-sibling::div2/docAuthor"/>
+  </xsl:if>
+  <br/>
+ </xsl:if>
+</xsl:template>
+
+<xsl:template match="siblings/div2" mode="prev">
+ <!-- if sibling exists, link to it -->
+ <xsl:if test="preceding-sibling::div2">
+  Previous poem: 
+  <a>
+    <xsl:attribute name="href">poetry/view.php?id=<xsl:value-of select="preceding-sibling::div2[1]/@id"/></xsl:attribute>
+    <xsl:value-of select="preceding-sibling::div2[1]/@n"/>
+  </a> 
+  <xsl:if test="preceding-sibling::div2/docAuthor">
+    - <xsl:value-of select="preceding-sibling::div2[1]/docAuthor"/>
+  </xsl:if>
+  <br/>
+</xsl:if>
+</xsl:template>
+
 
 </xsl:stylesheet>

@@ -76,6 +76,11 @@ class breadcrumb {
   
   // Change the file name to something a bit more user friendly
   var $changeFileName = array();
+
+  // added by RLSK, August 2004
+  // Change what file a directory links to
+  var $changeDirLink = array();
+
   
   // If variable has a value check for that page if it exists link the directory
   // otherwise just show the name of the directory.
@@ -309,7 +314,7 @@ class breadcrumb {
       if ($this->personalSite!='' && $i==1)
       	$this->scriptArray[$i] = $this->personalSite;
       $dir .= ($i==0 && $this->homepage!='') ? '/' : $this->scriptArray[$i]."/";
-      
+
       // Use Text instead of Images
       if (!$this->imagedir) {
         // Replace underscores with spaces if _toSpace is set
@@ -353,14 +358,17 @@ class breadcrumb {
           } else $showLink = 'no';
         }
       }
+
+      // added by RLSK, August 2004 - specify which page in a directory to link to
+      $mylink = $this->changeDirLink[$dir];
       
       if ($this->unlinkCurrentDir==TRUE && ($i+1)==$numDirs || $showLink=='no')
          $breadcrumb[] = $dirName;
       // If we are not supposed to remove the directory, show it
       elseif (!in_array($this->scriptArray[$i], $this->removeDirs) || $showLink=='yes') 
-      	$breadcrumb[] = "<a href='$dir'$class$target>$dirName</a>";
+      	$breadcrumb[] = "<a href='$dir$mylink'$class$target>$dirName</a>";
       elseif ($this->personalSite!='' && $i==1)
-      	$breadcrumb[] = "<a href='$dir'$class$target>$dirName</a>";
+      	$breadcrumb[] = "<a href='$dir$mylink'$class$target>$dirName</a>";
     }
     // END DIRECTORY FOR LOOP
     

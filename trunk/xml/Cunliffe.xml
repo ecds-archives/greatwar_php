@@ -1,4 +1,3 @@
-<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "teixlite.dtd">
 <TEI.2>
    <teiHeader>
       <fileDesc>
@@ -30,7 +29,7 @@
 	 <seriesStmt>
 	   <title>The Great War</title>
 	 </seriesStmt>
-	 <notesStmt><note></note></notesStmt>
+	 <notesStmt><note/></notesStmt>
          <sourceDesc><!-- put the actual publication data for the book
 	   in this section --> 
             <bibl>
@@ -60,15 +59,15 @@
 	</tagsDecl>
 	<refsDecl><p>The page numbers of the volumes are indicated by
 	page break elements</p>
-	<p></p>
+	<p/>
 	</refsDecl>
 	<classDecl>
 	  <taxonomy>
-	  <category><catDesc></catDesc></category>
+	  <category><catDesc/></category>
 	  </taxonomy>
 	</classDecl>
       </encodingDesc>
-      <profileDesc></profileDesc>
+      <profileDesc/>
       <revisionDesc>
 	<change>
 	  <date>June-July 2004</date>
@@ -144,6 +143,7 @@ When last heard from, the author, who is a British officer, was on service at Kh
 
 <pb n="3"/>
 <div2 id="cunliffe003" type="poem" n="War Yawp">
+<docAuthor n="Aldington, Richard">Richard Aldington</docAuthor>
 <head rend="center">WAR YAWP</head>
 
 <lg type="stanza">
@@ -256,6 +256,7 @@ When last heard from, the author, who is a British officer, was on service at Kh
 
 <pb n="7"/>
 <div2 id="cunliffe004" type="poem" n="A Neglected Garden">
+<docAuthor n="Alexander, Eleanor">Eleanor Alexander</docAuthor>
 <head rend="center">A NEGLECTED GARDEN</head>
 
 <lg type="stanza">
@@ -295,6 +296,7 @@ When last heard from, the author, who is a British officer, was on service at Kh
 
 <pb n="9"/>
 <div2 id="cunliffe005" type="poem" n="Young and Old">
+<docAuthor n="Allsopp, Henry">Henry Allsopp</docAuthor>
 <head rend="center">YOUNG AND OLD</head>
 
 <lg type="stanza">
@@ -327,6 +329,7 @@ When last heard from, the author, who is a British officer, was on service at Kh
 <pb n="10"/>
 <pb n="11"/>
 <div2 id="cunliffe007" type="poem" n="Unser Gott">
+<docAuthor n="Baker, Karle Wilson">Karle Wilson Baker</docAuthor>
 <head rend="center">UNSER GOTT</head>
 
 <lg type="stanza">
@@ -423,6 +426,7 @@ When last heard from, the author, who is a British officer, was on service at Kh
 
 <pb n="15"/>
 <div2 id="cunliffe008" type="poem" n="Neutral?">
+<docAuthor n="Begbie, Harold">Harold Begbie</docAuthor>
 <head rend="center">NEUTRAL?</head>
 <head rend="center"><hi rend="smallcap">To the</hi> <hi rend="smallcap">Humanity of</hi> <hi rend="smallcap">America</hi></head>
 
@@ -482,6 +486,7 @@ When last heard from, the author, who is a British officer, was on service at Kh
 
 <pb n="17"/>
 <div2 id="cunliffe009" type="poem" n="The Red Country">
+<docAuthor n="Benet, William Rose">William Rose Ben&#x00e9;t</docAuthor>
 <head rend="center">THE RED COUNTRY</head>
 
 <lg type="stanza">
@@ -577,6 +582,7 @@ When last heard from, the author, who is a British officer, was on service at Kh
 <pb n="22"/>
 <pb n="23"/>
 <div2 id="cunliffe011" type="poem" n="A Ballad of Deathless Dons">
+<docAuthor n="Blair, Wilfrid">Wilfrid Blair</docAuthor>
 <head rend="center">A BALLAD OF DEATHLESS DONS</head>
 <head rend="center">OR:</head>
 <head rend="center">"WHEN THE ASSAULT WAS INTENDED TO THE CITY"</head>
@@ -586,7 +592,7 @@ When last heard from, the author, who is a British officer, was on service at Kh
 <lg type="stanza">
 <head rend="center">I</head>
 <l n="1"><hi rend="smallcap">The</hi> Regulars fight with all their might, the Navy keeps the seas,</l>
-<l>The Terrier<ref target="cunliffe011n1">1</ref> <note id="cunliffe011n1" place="foot" n="1">
+<l>The Terrier<ref target="cunliffe011n1" targOrder="U">1</ref> <note id="cunliffe011n1" place="foot" n="1" anchored="yes">
 Obsolete word signifying a mere voluntary fighter unfit even for adequate defence purposes.</note>
 sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 <l>K's keen recruit is learning to shoot, the Boy Scout scouteth still, --</l>
@@ -686,6 +692,7 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 
 <pb n="28"/>
 <div2 id="cunliffe012" type="poem" n="Any Friend to Any Friend">
+<docAuthor n="Bliss, H. W.">H. W. Bliss</docAuthor>
 <head rend="center">"ANY FRIEND TO ANY FRIEND"</head>
 
 <lg type="stanza">
@@ -711,6 +718,7 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 
 <pb n="29"/>
 <div2 id="cunliffe013" type="poem" n="The Camp-Follower">
+<docAuthor n="Bodenheim, Maxwell">Maxwell Bodenheim</docAuthor>
 <head rend="center">THE CAMP-FOLLOWER</head>
 
 <lg type="stanza">
@@ -735,6 +743,7 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 
 <pb n="30"/>
 <div2 id="cunliffe014" type="poem" n="Here: And There">
+<docAuthor n="Bourdillon, F. W.">F. W. Bourdillon</docAuthor>
 <head rend="center">HERE: AND THERE</head>
 <head rend="center"><hi rend="italic">September, 1914</hi></head>
 
@@ -758,6 +767,7 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 <pb n="31"/>
 <pb n="32"/>
 <div2 id="cunliffe016" type="poem" n="Kartushkiya-Beroza">
+<docAuthor n="Brody, Alter">Alter Brody</docAuthor>
 <head rend="center">KART&#x00DA;SHKIYA-BER&#x00D3;ZA</head>
 
 <lg type="stanza">
@@ -889,6 +899,7 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 <pb n="38"/>
 <pb n="39"/>
 <div2 id="cunliffe018" type="poem" n="Aftermath">
+<docAuthor n="Burghclere">Burghclere.</docAuthor>
 <head rend="center">AFTERMATH</head>
 
 <lg type="stanza">
@@ -935,6 +946,7 @@ message, see!</l>
 
 <pb n="41"/>
 <div2 id="cunliffe019" type="poem" n="The Return">
+<docAuthor n="Burnet, Dana">Dana Burnet</docAuthor>
 <head rend="center">THE RETURN</head>
 
 <lg type="stanza">
@@ -1007,6 +1019,7 @@ message, see!</l>
 
 <pb n="44"/>
 <div2 id="cunliffe020" type="poem" n="Kitchener's March">
+<docAuthor n="Burr, Amelia Josephine">Amelia Josephine Burr</docAuthor>
 <head rend="center">KITCHENER'S MARCH</head>
 
 <lg type="stanza">
@@ -1061,6 +1074,7 @@ message, see!</l>
 <pb n="51"/>
 <pb n="52"/>
 <div2 id="cunliffe023" type="poem" n="The Broken Rose">
+<docAuthor n="Chartres, Annie Vivanti">Annie Vivanti Chartres</docAuthor>
 <head rend="center">THE BROKEN ROSE</head>
 <head rend="center"><hi rend="smallcap">TO KING ALBERT</hi></head>
 
@@ -1119,6 +1133,7 @@ message, see!</l>
 <pb n="55"/>
 <pb n="56"/>
 <div2 id="cunliffe025" type="poem" n="They Held Their Ground">
+<docAuthor n="Clayton, Philip Byard">Philip Byard Clayton</docAuthor>
 <head rend="center">THEY HELD THEIR GROUND</head>
 
 <lg type="stanza">
@@ -1177,6 +1192,7 @@ message, see!</l>
 
 <pb n="58"/>
 <div2 id="cunliffe026" type="poem" n="Vision of War">
+<docAuthor n="Colcord, Lincoln">Lincoln Colcord</docAuthor>
 <head rend="center">VISION OF WAR</head>
 
 <lg type="stanza">
@@ -1424,6 +1440,7 @@ message, see!</l>
 
 <pb n="70"/>
 <div2 id="cunliffe027" type="poem" n="Fallen">
+<docAuthor n="Corbin, Alice">Alice Corbin</docAuthor>
 <head rend="center">FALLEN</head>
 
 <lg type="stanza">
@@ -1450,6 +1467,7 @@ message, see!</l>
 
 <pb n="71"/>
 <div2 id="cunliffe028" type="poem" n="By the North Sea">
+<docAuthor n="Courtney, W. L.">W. L. Courtney</docAuthor>
 <head rend="center">BY THE NORTH SEA</head>
 
 <lg type="stanza">
@@ -1489,6 +1507,7 @@ message, see!</l>
 <pb n="73"/>
 <pb n="74"/>
 <div2 id="cunliffe030" type="poem" n="A Harrow Grave in Flanders">
+<docAuthor n="Crewe">Crewe.</docAuthor>
 <head rend="center">A HARROW GRAVE IN FLANDERS</head>
 
 <lg type="stanza">
@@ -1520,6 +1539,7 @@ message, see!</l>
 
 <pb n="75"/>
 <div2 id="cunliffe031" type="poem" n="When They Have Made an End">
+<docAuthor n="Crow, Gerald H.">Gerald H. Crow</docAuthor>
 <head rend="center">WHEN THEY HAVE MADE AN END</head>
 
 <lg type="stanza">
@@ -1538,6 +1558,7 @@ message, see!</l>
 <pb n="76"/>
 <pb n="77"/>
 <div2 id="cunliffe033" type="poem" n="The Defenders">
+<docAuthor n="Drinkwater, John">John Drinkwater</docAuthor>
 <head rend="center">THE DEFENDERS</head>
 
 <lg type="stanza">
@@ -1563,9 +1584,10 @@ message, see!</l>
 
 <pb n="78"/>
 <div2 id="cunliffe034" type="poem" n="The Metal Checks">
+<docAuthor n="Driscoll, Louise">Louise Driscoll</docAuthor>
 <head rend="center">THE METAL CHECKS</head>
 
-<note>(The scene is a bare room, with two shaded windows at the back, and a fireplace between them with a fire burning low. The room is furnished scantily with a few plain chairs, and a rough wooden table on which are piled a great many small wooden trays. The Counter, who is Death, sits at the table. He wears a loose gray robe, and his face is partly concealed by a gray veil. He does not look at The Bearer, but works mechanically and speaks in a monotonous tone. The Bearer is the World, that bears the burden of War. He wears a soiled robe of brown and green and he carries on his back a gunny-bag with the little metal disks that have been used for the identification of the slain common soldiers.)</note>
+<note anchored="yes">(The scene is a bare room, with two shaded windows at the back, and a fireplace between them with a fire burning low. The room is furnished scantily with a few plain chairs, and a rough wooden table on which are piled a great many small wooden trays. The Counter, who is Death, sits at the table. He wears a loose gray robe, and his face is partly concealed by a gray veil. He does not look at The Bearer, but works mechanically and speaks in a monotonous tone. The Bearer is the World, that bears the burden of War. He wears a soiled robe of brown and green and he carries on his back a gunny-bag with the little metal disks that have been used for the identification of the slain common soldiers.)</note>
 
 <lg type="stanza">
 <head><hi rend="smallcap">The Bearer</hi></head>
@@ -1587,7 +1609,7 @@ message, see!</l>
 <l>Who shall render us again</l>
 <l rend="indent">The worth of all the slain?</l></lg>
 
-<note>(As the Counter speaks, the Bearer pours out the disks on the table. The Bearer obeys the Counter.)</note>
+<note anchored="yes">(As the Counter speaks, the Bearer pours out the disks on the table. The Bearer obeys the Counter.)</note>
 
 <lg>
 <head><hi rend="smallcap">The Counter</hi></head>
@@ -1615,7 +1637,7 @@ message, see!</l>
 <l>That I could carry on my back</l>
 <l rend="indent">So great an army -- and all dead?</l></lg>
 <pb n="80"/>
-<note>(As the Counter speaks the Bearer lays the sack over his arm and helps count.)</note>
+<note anchored="yes">(As the Counter speaks the Bearer lays the sack over his arm and helps count.)</note>
 
 <lg>
 <head><hi rend="smallcap">The Counter</hi></head>
@@ -1626,7 +1648,7 @@ message, see!</l>
 <l>There's another fallen -- there --</l>
 <l>Under that chair.</l></lg>
 
-<note>(The Bearer finds it and restores it.)</note>
+<note anchored="yes">(The Bearer finds it and restores it.)</note>
 
 <lg>
 <l>That was a man a month ago;</l>
@@ -1638,7 +1660,7 @@ message, see!</l>
 <l>Nothing was left but this metal check --</l>
 <l>And a wife and child, perhaps.</l></lg>
 
-<note>(The Bearer finds the bag on his arm troublesome. He holds it up, inspecting it.)</note>
+<note anchored="yes">(The Bearer finds the bag on his arm troublesome. He holds it up, inspecting it.)</note>
 
 <lg>
 <head><hi rend="smallcap">The Bearer</hi></head>
@@ -1656,7 +1678,7 @@ message, see!</l>
 <l>It's been shroud for too many men.</l>
 <l>I'll burn it and let the dead bless.</l></lg>
 
-<note>(He crosses himself and throws it into the fire. He watches it burn. The Counter continues to pile up the metal checks, and drop them by hundreds into the trays, which he piles one upon another. The Bearer turns from the fire and speaks more slowly than he has before. He indicates the metal checks.</note>
+<note anchored="yes">(He crosses himself and throws it into the fire. He watches it burn. The Counter continues to pile up the metal checks, and drop them by hundreds into the trays, which he piles one upon another. The Bearer turns from the fire and speaks more slowly than he has before. He indicates the metal checks.</note>
 
 <lg>
 <l>Would not the blood of these make a great sea</l>
@@ -1742,9 +1764,10 @@ message, see!</l>
 
 <pb n="84"/>
 <div2 id="cunliffe035" type="poem" n="For Those at Sea">
+<docAuthor n="Faber, Geoffrey">Geoffrey Faber</docAuthor>
 <head rend="center">"FOR THOSE AT SEA"</head>
 
-<note>(H.M.S. "Aboukir," "Cressy," "Hogue," September 22, 1914.)</note>
+<note anchored="yes">(H.M.S. "Aboukir," "Cressy," "Hogue," September 22, 1914.)</note>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">Now</hi> all our English woodland sighs "October."</l>
@@ -1767,6 +1790,7 @@ message, see!</l>
 
 <pb n="85"/>
 <div2 id="cunliffe036" type="poem" n="The Man in the Trench">
+<docAuthor n="Fagan, James Bernard">James Bernard Fagan</docAuthor>
 <head rend="center">THE MAN IN THE TRENCH</head>
 
 <lg type="stanza">
@@ -1811,6 +1835,7 @@ message, see!</l>
 
 <pb n="87"/>
 <div2 id="cunliffe037" type="poem" n="Territorials">
+<docAuthor n="Falconer, Agnes S.">Agnes S. Falconer</docAuthor>
 <head rend="center">TERRITORIALS</head>
 
 <lg type="stanza">
@@ -1839,6 +1864,7 @@ message, see!</l>
 
 <pb n="88"/>
 <div2 id="cunliffe038" type="poem" n="Honor to France!">
+<docAuthor n="Foulke, William Dudley">William Dudley Foulke</docAuthor>
 <head rend="center">HONOR TO FRANCE!</head>
 
 <lg type="stanza">
@@ -1862,9 +1888,10 @@ message, see!</l>
 
 <pb n="89"/>
 <div2 id="cunliffe039" type="poem" n="The Jewish Conscript">
+<docAuthor n="Frank, Florence Kiper">Florence Kiper Frank</docAuthor>
 <head rend="center">THE JEWISH CONSCRIPT</head>
 
-<note>(There are nearly a quarter of a million Jews in the Czar's army alone. -- <hi rend="italic">Newspaper clipping</hi>.)</note>
+<note anchored="yes">(There are nearly a quarter of a million Jews in the Czar's army alone. -- <hi rend="italic">Newspaper clipping</hi>.)</note>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">They</hi> have dressed me up in a soldier's dress,</l>
@@ -1898,6 +1925,7 @@ message, see!</l>
 <pb n="92"/>
 <pb n="93"/>
 <div2 id="cunliffe042" type="poem" n="The Gift">
+<docAuthor n="Freston, H. Rex">H. Rex Freston</docAuthor>
 <head rend="center">THE GIFT</head>
 
 <lg type="stanza">
@@ -1935,6 +1963,7 @@ message, see!</l>
 
 <pb n="95"/>
 <div2 id="cunliffe043" type="poem" n="Passover">
+<docAuthor n="Friedlaender, V. H.">V. H. Friedlaender</docAuthor>
 <head rend="center">PASSOVER</head>
 
 <lg type="stanza">
@@ -1979,6 +2008,7 @@ message, see!</l>
 
 <pb n="97"/>
 <div2 id="cunliffe044" type="poem" n="Ireland">
+<docAuthor n="C., G. A. J.">G. A. J. C.</docAuthor>
 <head rend="center">IRELAND</head>
 
 <lg type="stanza">
@@ -2031,6 +2061,7 @@ message, see!</l>
 
 <pb n="99"/>
 <div2 id="cunliffe045" type="poem" n="Her Allowance!">
+<docAuthor n="Gard, Lillian">Lillian Gard</docAuthor>
 <head rend="center">HER "ALLOWANCE!"</head>
 
 <lg type="stanza">
@@ -2071,6 +2102,7 @@ message, see!</l>
 <pb n="106"/>
 <pb n="107"/>
 <div2 id="cunliffe047" type="poem" n="Ultimate Hell">
+<docAuthor n="Giddings, Franklin H.">Franklin H. Giddings</docAuthor>
 <head rend="center">ULTIMATE HELL</head>
 
 <lg type="stanza">
@@ -2161,6 +2193,7 @@ message, see!</l>
 
 <pb n="110"/>
 <div2 id="cunliffe048" type="poem" n="I Have No Ring">
+<docAuthor n="Gilbert, Bernard">Bernard Gilbert</docAuthor>
 <head rend="center">"I HAVE NO RING"</head>
 
 <lg type="stanza">
@@ -2184,6 +2217,7 @@ message, see!</l>
 
 <pb n="111"/>
 <div2 id="cunliffe049" type="poem" n="The Dead">
+<docAuthor n="Gillespie, Violet">Violet Gillespie</docAuthor>
 <head rend="center">THE DEAD</head>
 <head rend="center"><hi rend="smallcap">To One Killed in Action</hi></head>
 
@@ -2216,6 +2250,7 @@ message, see!</l>
 
 <pb n="112"/>
 <div2 id="cunliffe050" type="poem" n="Sure, It's Fun!">
+<docAuthor n="Glaenzer, Richard Butler">Richard Butler Glaenzer</docAuthor>
 <head rend="center">SURE, IT'S FUN!</head>
 
 <epigraph rend="center"><l>What fun to be a soldier!</l>
@@ -2259,6 +2294,7 @@ message, see!</l>
 
 <pb n="114"/>
 <div2 id="cunliffe051" type="poem" n="The Airman">
+<docAuthor n="Goddard, Gregg">Gregg Goddard</docAuthor>
 <head rend="center">THE AIRMAN</head>
 
 <lg type="stanza">
@@ -2290,6 +2326,7 @@ message, see!</l>
 
 <pb n="115"/>
 <div2 id="cunliffe052" type="poem" n="Brothers In Arms">
+<docAuthor n="Graves, Alfred Perceval">Alfred Perceval Graves</docAuthor>
 <head rend="center">BROTHERS IN ARMS</head>
 
 <lg type="stanza">
@@ -2374,6 +2411,7 @@ message, see!</l>
 <pb n="120"/>
 <pb n="121"/>
 <div2 id="cunliffe054" type="poem" n="The Wykhamist">
+<docAuthor n="Griffiths, Nora">Nora Griffiths</docAuthor>
 <head rend="center">THE WYKHAMIST</head>
 
 <lg type="stanza">
@@ -2399,6 +2437,7 @@ message, see!</l>
 
 <pb n="122"/>
 <div2 id="cunliffe055" type="poem" n="The Pyres">
+<docAuthor n="Hagedorn, Hermann">Hermann Hagedorn</docAuthor>
 <head rend="center">THE PYRES</head>
 
 <lg type="stanza">
@@ -2489,6 +2528,7 @@ message, see!</l>
 
 <pb n="125"/>
 <div2 id="cunliffe056" type="poem" n="Non-Combatant">
+<docAuthor n="Hamilton, Cicely">Cicely Hamilton</docAuthor>
 <head rend="center">NON-COMBATANT</head>
 
 <lg type="stanza">
@@ -2531,6 +2571,7 @@ message, see!</l>
 
 <pb n="128"/>
 <div2 id="cunliffe058" type="poem" n="From the Youth of All Nations">
+<docAuthor n="Harwood, H. C.">H. C. Harwood</docAuthor>
 <head rend="center">FROM THE YOUTH OF ALL NATIONS</head>
 
 <lg type="stanza">
@@ -2630,6 +2671,7 @@ message, see!</l>
 
 <pb n="131"/>
 <div2 id="cunliffe059" type="poem" n="Soldier, Soldier">
+<docAuthor n="Hewlett, Maurice">Maurice Hewlett</docAuthor>
 <head rend="center">SOLDIER, SOLDIER</head>
 
 <lg type="stanza">
@@ -2694,6 +2736,7 @@ message, see!</l>
 
 <pb n="133"/>
 <div2 id="cunliffe060" type="poem" n="April in England">
+<docAuthor n="Holland, Norah M.">Norah M. Holland</docAuthor>
 <head rend="center">APRIL IN ENGLAND</head>
 
 <lg type="stanza">
@@ -2729,6 +2772,7 @@ message, see!</l>
 
 <pb n="134"/>
 <div2 id="cunliffe061" type="poem" n="Things That Were Yours">
+<docAuthor n=" Hussey, Dyneley">Dyneley Hussey</docAuthor>
 <head rend="center">THINGS THAT WERE YOURS</head>
 
 <lg type="stanza">
@@ -2753,6 +2797,7 @@ message, see!</l>
 
 <pb n="135"/>
 <div2 id="cunliffe062" type="poem" n="Joan of France to an English Sister">
+<docAuthor n="S, J. H.">J. H. S</docAuthor>
 <head rend="center">JOAN OF FRANCE TO AN ENGLISH SISTER</head>
 <head rend="center">I. M. EDITH CAVELL, NURSE</head>
 
@@ -2777,6 +2822,7 @@ message, see!</l>
 
 <pb n="136"/>
 <div2 id="cunliffe063" type="poem" n="The Twa Weelums">
+<docAuthor n="Jacob, Violet">Violet Jacob</docAuthor>
 <head rend="center">THE TWA WEELUMS</head>
 
 <lg type="stanza">
@@ -2835,6 +2881,7 @@ message, see!</l>
 
 <pb n="138"/>
 <div2 id="cunliffe064" type="poem" n="A Legend of Ypres">
+<docAuthor n="Jenkins, Elinor">Elinor Jenkins</docAuthor>
 <head rend="center">A LEGEND OF YPRES</head>
 
 <lg type="stanza">
@@ -2860,9 +2907,10 @@ message, see!</l>
 
 <pb n="139"/>
 <div2 id="cunliffe065" type="poem" n="In Memoriam">
+<docAuthor n="John, Edmund">Edmund John</docAuthor>
 <head rend="center">IN MEMORIAM</head>
 
-<note>(To Field-Marshal Lord Roberts of Kandahar, died November, 1914)</note>
+<note anchored="yes">(To Field-Marshal Lord Roberts of Kandahar, died November, 1914)</note>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">Rest</hi>, though the clamorous surge of war</l>
@@ -2890,8 +2938,9 @@ message, see!</l>
 
 <pb n="140"/>
 <div2 id="cunliffe066" type="poem" n="India to England">
+<docAuthor n="Jung, Nizamat">Nizamat Jung</docAuthor>
 <head rend="center">INDIA TO ENGLAND</head>
-<ab><ptr target="cunliffe066note"/></ab>
+<ab><ptr target="cunliffe066note" targOrder="U"/></ab>
 <lg type="stanza">
 <l n="1">O <hi rend="smallcap">England</hi>! in thine hour of need,</l>
 <l>When Faith's reward and valor's meed</l>
@@ -2934,12 +2983,13 @@ message, see!</l>
 <l rend="indent4">In life -- in death.</l></lg>
 <byline>-- Nizamat Jung.</byline>
 </div2>
-<div2 type="notes" id="cunliffe066note"><ab><ptr target="cunliffe066"/></ab><note rend="center">(Native Judge of the High Court of Hyderabad.)</note>
+<div2 type="notes" id="cunliffe066note"><ab><ptr target="cunliffe066" targOrder="U"/></ab><note rend="center" anchored="yes">(Native Judge of the High Court of Hyderabad.)</note>
 </div2>
 
 
 <pb n="142"/>
 <div2 id="cunliffe067" type="poem" n="The Nations' David">
+<docAuthor n="Kauffman, Reginald Wright">Reginald Wright Kauffman</docAuthor>
 <head rend="center">THE NATIONS' DAVID</head>
 
 <lg type="stanza">
@@ -3015,6 +3065,7 @@ message, see!</l>
 <pb n="150"/>
 <pb n="151"/>
 <div2 id="cunliffe069" type="poem" n="The White Ships and the Red">
+<docAuthor n="Kilmer, Joyce">Joyce Kilmer</docAuthor>
 <head rend="center">THE WHITE SHIPS AND THE RED</head>
 
 <lg type="stanza">
@@ -3135,6 +3186,7 @@ message, see!</l>
 
 <pb n="155"/>
 <div2 id="cunliffe070" type="poem" n="Overheard in an Asylum">
+<docAuthor n="Kreymborg, Alfred">Alfred Kreymborg</docAuthor>
 <head rend="center">OVERHEARD IN AN ASYLUM</head>
 
 <lg type="stanza">
@@ -3182,6 +3234,7 @@ message, see!</l>
 <pb n="160"/>
 <pb n="161"/>
 <div2 id="cunliffe073" type="poem" n="Patterns">
+<docAuthor n="Lowell, Amy">Amy Lowell</docAuthor>
 <head rend="center">PATTERNS</head>
 
 <lg type="stanza">
@@ -3315,6 +3368,7 @@ message, see!</l>
 <pb n="168"/>
 <pb n="169"/>
 <div2 id="cunliffe075" type="poem" n="His Only Way">
+<docAuthor n="Lulham, Habberton">Habberton Lulham</docAuthor>
 <head rend="center">HIS ONLY WAY</head>
 
 <lg type="stanza">
@@ -3390,6 +3444,7 @@ message, see!</l>
 <pb n="171"/>
 <pb n="172"/>
 <div2 id="cunliffe077" type="poem" n="To England, Our Mother">
+<docAuthor n="Mackereth, James A.">James A. Mackereth</docAuthor>
 <head rend="center">TO ENGLAND, OUR MOTHER</head>
 <head rend="center"><hi rend="smallcap">A HYMN OF LOYALTY</hi></head>
 
@@ -3467,8 +3522,9 @@ message, see!</l>
 <pb n="179"/>
 <pb n="180"/>
 <div2 id="cunliffe080" type="poem" n="In Flanders Fields">
+<docAuthor n="Mcrae, John">John Mcrae</docAuthor>
 <head rend="center">IN FLANDERS FIELDS</head>
-<note>
+<note anchored="yes">
 (Reprinted by the special permission of the proprietors of Punch.)</note>
 
 <lg type="stanza">
@@ -3497,6 +3553,7 @@ message, see!</l>
 
 <pb n="181"/>
 <div2 id="cunliffe081" type="poem" n="The Fleets">
+<docAuthor n="Meugens, M. G.">M. G. Meugens</docAuthor>
 <head rend="center">THE FLEETS</head>
 
 <lg type="stanza">
@@ -3541,6 +3598,7 @@ message, see!</l>
 
 <pb n="183"/>
 <div2 id="cunliffe082" type="poem" n="Summer in England, 1914">
+<docAuthor n="Meynell, Alice">Alice Meynell</docAuthor>
 <head rend="center">SUMMER IN ENGLAND, 1914</head>
 
 <lg type="stanza">
@@ -3590,6 +3648,7 @@ message, see!</l>
 
 <pb n="185"/>
 <div2 id="cunliffe083" type="poem" n="Off Heligoland">
+<docAuthor n="Middleton, J. E.">J. E. Middleton</docAuthor>
 <head rend="center">OFF HELIGOLAND</head>
 
 <lg type="stanza">
@@ -3638,6 +3697,7 @@ message, see!</l>
 
 <pb n="187"/>
 <div2 id="cunliffe084" type="poem" n="He Went For a Soldier">
+<docAuthor n="Mitchell, Ruth Comfort">Ruth Comfort Mitchell</docAuthor>
 <head rend="center">HE WENT FOR A SOLDIER</head>
 
 <lg type="stanza">
@@ -3707,6 +3767,7 @@ message, see!</l>
 
 <pb n="190"/>
 <div2 id="cunliffe085" type="poem" n="On the Porch">
+<docAuthor n="Monroe, Harriet">Harriet Monroe</docAuthor>
 <head rend="center">ON THE PORCH</head>
 
 <lg type="stanza">
@@ -3761,6 +3822,7 @@ message, see!</l>
 
 <pb n="192"/>
 <div2 id="cunliffe086" type="poem" n="A. S. K.">
+<docAuthor n="H, N. M.">N. M. H</docAuthor>
 <head rend="center">A. S. K.</head>
 <head rend="center"><hi rend="italic">July 14, 1915</hi></head>
 
@@ -3790,6 +3852,7 @@ message, see!</l>
 
 <pb n="193"/>
 <div2 id="cunliffe087" type="poem" n="A Song of Peace and Honor">
+<docAuthor n="Nesbit, E.">E. Nesbit</docAuthor>
 <head rend="center">A SONG OF PEACE AND HONOR</head>
 
 <lg type="stanza">
@@ -3883,6 +3946,7 @@ message, see!</l>
 
 <pb n="196"/>
 <div2 id="cunliffe088" type="poem" n="The Fisher-Lad">
+<docAuthor n="Nicklin, J. A.">J. A. Nicklin</docAuthor>
 <head rend="center">THE FISHER-LAD</head>
 
 <lg type="stanza">
@@ -3916,6 +3980,7 @@ message, see!</l>
 <pb n="198"/>
 <pb n="199"/>
 <div2 id="cunliffe090" type="poem" n="Master and Pupil">
+<docAuthor n="M, O.">O. M</docAuthor>
 <head rend="center">MASTER AND PUPIL</head>
 <head rend="center">(To J. F. R.)</head>
 
@@ -4006,6 +4071,7 @@ message, see!</l>
 
 <pb n="202"/>
 <div2 id="cunliffe091" type="poem" n="Two Pictures">
+<docAuthor n="Observer">"Observer, Royal Flying Corps."</docAuthor>
 <head rend="center">TWO PICTURES</head>
 
 <lg type="stanza">
@@ -4044,6 +4110,7 @@ message, see!</l>
 <pb n="203"/>
 <pb n="204"/>
 <div2 id="cunliffe093" type="poem" n="The Dead Soldier">
+<docAuthor n="Oswald, Sydney">Sydney Oswald</docAuthor>
 <head rend="center">THE DEAD SOLDIER</head>
 
 <lg type="stanza">
@@ -4081,6 +4148,7 @@ message, see!</l>
 
 <pb n="207"/>
 <div2 id="cunliffe095" type="poem" n="Men Have Wings At Last">
+<docAuthor n="Peabody, Josephine Preston">Josephine Preston Peabody</docAuthor>
 <head rend="center">MEN HAVE WINGS AT LAST</head>
 <head rend="center">(Air-Craft and the War)</head>
 
@@ -4219,6 +4287,7 @@ message, see!</l>
 
 <pb n="212"/>
 <div2 id="cunliffe096" type="poem" n="Revenge for Rheims">
+<docAuthor n="Phillips, Stephen">Stephen Phillips</docAuthor>
 <head rend="center">REVENGE FOR RHEIMS</head>
 
 <lg type="stanza">
@@ -4257,6 +4326,7 @@ message, see!</l>
 <pb n="213"/>
 <pb n="214"/>
 <div2 id="cunliffe098" type="poem" n="Socks">
+<docAuthor n="Pope, Jessie">Jessie Pope</docAuthor>
 <head rend="center">SOCKS</head>
 
 <lg type="stanza">
@@ -4294,6 +4364,7 @@ message, see!</l>
 
 <pb n="215"/>
 <div2 id="cunliffe099" type="poem" n="To Shakespeare, 1916">
+<docAuthor n="Roberts, Charles G. D.">Charles G. D. Roberts</docAuthor>
 <head rend="center">TO SHAKESPEARE, 1916</head>
 
 <lg type="stanza">
@@ -4319,6 +4390,7 @@ message, see!</l>
 
 <pb n="216"/>
 <div2 id="cunliffe100" type="poem" n="Belgium the Bar-Lass">
+<docAuthor n="Robinson, A. Mary F.">A. Mary F. Robinson. (madame Duclaux.</docAuthor>
 <head rend="center">BELGIUM THE BAR-LASS</head>
 
 <lg type="stanza">
@@ -4378,6 +4450,7 @@ message, see!</l>
 
 <pb n="218"/>
 <div2 id="cunliffe101" type="poem" n="Cassandra">
+<docAuthor n="Robinson, Edwin Arlington">Edwin Arlington Robinson</docAuthor>
 <head rend="center">CASSANDRA</head>
 
 <lg type="stanza">
@@ -4459,6 +4532,7 @@ message, see!</l>
 
 <pb n="221"/>
 <div2 id="cunliffe102" type="poem" n="Shakespeare, 1916">
+<docAuthor n="Ross, Ronald">Ronald Ross</docAuthor>
 <head rend="center">SHAKESPEARE, 1916</head>
 
 <lg type="stanza">
@@ -4482,6 +4556,7 @@ message, see!</l>
 
 <pb n="222"/>
 <div2 id="cunliffe103" type="poem" n="Statistics">
+<docAuthor n="Sandburg, Carl">Carl Sandburg</docAuthor>
 <head rend="center">STATISTICS</head>
 
 <lg type="stanza">
@@ -4512,6 +4587,7 @@ message, see!</l>
 
 <pb n="223"/>
 <div2 id="cunliffe104" type="poem" n="Australians to the Front!">
+<docAuthor n="Sandes, John">John Sandes</docAuthor>
 <head rend="center">AUSTRALIANS TO THE FRONT!</head>
 <head rend="center">(Captain Cook hears the Drums)</head>
 
@@ -4571,6 +4647,7 @@ message, see!</l>
 
 <pb n="225"/>
 <div2 id="cunliffe105" type="poem" n="Her Prayer -- For Him">
+<docAuthor n="Sandford, Egbert">Egbert Sandford</docAuthor>
 <head rend="center">HER PRAYER -- FOR HIM</head>
 
 <lg type="stanza">
@@ -4596,6 +4673,7 @@ message, see!</l>
 
 <pb n="226"/>
 <div2 id="cunliffe106" type="poem" n="The Vale of Shadows">
+<docAuthor n="Scollard, Clinton">Clinton Scollard</docAuthor>
 <head rend="center">THE VALE OF SHADOWS</head>
 
 <lg type="stanza">
@@ -4694,8 +4772,9 @@ message, see!</l>
 <pb n="229"/>
 <pb n="230"/>
 <div2 id="cunliffe108" type="poem" n="The Wayside Calvary">
+<docAuthor n="Seaman, Owen">Owen Seaman</docAuthor>
 <head rend="center">THE WAYSIDE CALVARY</head>
-<note>(Lines written on the anniversary of the outbreak of the war.)</note>
+<note anchored="yes">(Lines written on the anniversary of the outbreak of the war.)</note>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">Now</hi> with the full year Memory holds her tryst</l>
@@ -4735,6 +4814,7 @@ message, see!</l>
 <pb n="233"/>
 <pb n="234"/>
 <div2 id="cunliffe110" type="poem" n="The Mother">
+<docAuthor n="Seranus">"Seranus"</docAuthor>
 <head rend="center">THE MOTHER</head>
 
 <lg type="stanza">
@@ -4766,6 +4846,7 @@ message, see!</l>
 
 <pb n="235"/>
 <div2 id="cunliffe111" type="poem" n="A Thanksgiving">
+<docAuthor n="Shillito, Edward">Edward Shillito</docAuthor>
 <head rend="center">A THANKSGIVING</head>
 
 <lg type="stanza">
@@ -4803,6 +4884,7 @@ message, see!</l>
 
 <pb n="236"/>
 <div2 id="cunliffe112" type="poem" n="Form Fours">
+<docAuthor n="S., F.">F. S</docAuthor>
 <head rend="center">"FORM FOURS"</head>
 <head rend="center"><hi rend="smallcap">A VOLUNTEER'S NIGHTMARE</hi></head>
 
@@ -4842,6 +4924,7 @@ message, see!</l>
 
 <pb n="238"/>
 <div2 id="cunliffe113" type="poem" n="Field Ambulance in Retreat">
+<docAuthor n="Sinclair, May">May Sinclair</docAuthor>
 <head rend="center">FIELD AMBULANCE IN RETREAT</head>
 <head rend="center"><hi rend="italic">Via Dolorosa, Via Sacra</hi></head>
 
@@ -4886,6 +4969,7 @@ message, see!</l>
 
 <pb n="240"/>
 <div2 id="cunliffe114" type="poem" n="Close Your Ranks">
+<docAuthor n="Smith, Isaac Gregory">Isaac Gregory Smith</docAuthor>
 <head rend="center">CLOSE YOUR RANKS</head>
 
 <lg type="stanza">
@@ -4934,6 +5018,7 @@ message, see!</l>
 
 <pb n="242"/>
 <div2 id="cunliffe115" type="poem" n="Heart of All the World">
+<docAuthor n="Smith, Marion C.">Marion C. Smith</docAuthor>
 <head rend="center">HEART OF ALL THE WORLD</head>
 <head rend="center">(Belgium)</head>
 
@@ -4962,6 +5047,7 @@ message, see!</l>
 <pb n="244"/>
 <pb n="245"/>
 <div2 id="cunliffe117" type="poem" n="Kitchener of Khartoum">
+<docAuthor n="Stead, Robert J. C.">Robert J. C. Stead</docAuthor>
 <head rend="center">KITCHENER OF KHARTOUM</head>
 
 <lg type="stanza">
@@ -4999,6 +5085,7 @@ message, see!</l>
 
 <pb n="246"/>
 <div2 id="cunliffe118" type="poem" n="The Spring in Ireland: 1916">
+<docAuthor n="Stephens, James">James Stephens</docAuthor>
 <head rend="center">THE SPRING IN IRELAND: 1916</head>
 
 <lg type="stanza">
@@ -5127,6 +5214,7 @@ message, see!</l>
 <pb n="250"/>
 <pb n="251"/>
 <div2 id="cunliffe120" type="poem" n="Sailor, What of the Debt We Owe You?">
+<docAuthor n="Stuart, Andrew John">Andrew John Stuart</docAuthor>
 <head rend="center">SAILOR, WHAT OF THE DEBT WE OWE YOU?</head>
 
 <lg type="stanza">
@@ -5159,6 +5247,7 @@ message, see!</l>
 
 <pb n="252"/>
 <div2 id="cunliffe121" type="poem" n="From America">
+<docAuthor n="Swift, Elizabeth Townsend">Elizabeth Townsend Swift</docAuthor>
 <head rend="center">FROM AMERICA</head>
 
 <lg type="stanza">
@@ -5184,6 +5273,7 @@ message, see!</l>
 
 <pb n="253"/>
 <div2 id="cunliffe122" type="poem" n="The Trumpet">
+<docAuthor n="Tagore, Rabindranath">Rabindranath Tagore</docAuthor>
 <head rend="center">THE TRUMPET</head>
 
 <lg type="stanza">
@@ -5231,10 +5321,11 @@ message, see!</l>
 
 <pb n="255"/>
 <div2 id="cunliffe123" type="poem" n="England's Dead">
+<docAuthor n="Taylor, Frank">Frank Taylor</docAuthor>
 
 <head rend="center">ENGLAND'S DEAD</head>
 <epigraph rend="center"><l>("Make them to be numbered with thy Saints:
-in glory everlasting.")</l></epigraph><ab><ptr target="cunliffe123.note"/></ab>
+in glory everlasting.")</l></epigraph><ab><ptr target="cunliffe123.note" targOrder="U"/></ab>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">Homeward</hi> the long ships leap; swift-shod with joy,</l>
@@ -5365,14 +5456,15 @@ in glory everlasting.")</l></epigraph><ab><ptr target="cunliffe123.note"/></ab>
 <l>Yet thick as brown leaves round about thy ways,</l>
 <l rend="indent">There go the dead that died for England, there.</l></lg>
 <byline>-- Frank Taylor.</byline></div2>
-<div2 id="cunliffe123.note" type="notes"><ab><ptr target="cunliffe123"/></ab>
-<note>(This poem was written about 1902, and was published in the Spectator of June 12, 1915, having been found among the author's papers by his executor, by whose consent it is here reprinted.)</note>
+<div2 id="cunliffe123.note" type="notes"><ab><ptr target="cunliffe123" targOrder="U"/></ab>
+<note anchored="yes">(This poem was written about 1902, and was published in the Spectator of June 12, 1915, having been found among the author's papers by his executor, by whose consent it is here reprinted.)</note>
 </div2>
 
 
 <pb n="259"/>
 <pb n="260"/>
 <div2 id="cunliffe125" type="poem" n="Said Attila the Hun to --">
+<docAuthor n="Thomas, Edith M.">Edith M. Thomas</docAuthor>
 <head rend="center">SAID ATTILA THE HUN TO --</head>
 
 <lg type="stanza">
@@ -5421,8 +5513,9 @@ in glory everlasting.")</l></epigraph><ab><ptr target="cunliffe123.note"/></ab>
 
 <pb n="262"/>
 <div2 id="cunliffe126" type="poem" n="The Unconquered Hope">
+<docAuthor n="Thomas, Gilbert">Gilbert Thomas</docAuthor>
 <head rend="center">THE UNCONQUERED HOPE</head>
-<note>(A ship recently arrived in England from America, laden with toys, the gift of the American people, for the children both of the Allies and the Enemy.)</note>
+<note anchored="yes">(A ship recently arrived in England from America, laden with toys, the gift of the American people, for the children both of the Allies and the Enemy.)</note>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">From</hi> sea to sea, from shore to shore,</l>
@@ -5486,8 +5579,9 @@ in glory everlasting.")</l></epigraph><ab><ptr target="cunliffe123.note"/></ab>
 
 <pb n="264"/>
 <div2 id="cunliffe127" type="poem" n="Sonnet">
+<docAuthor n="Tollemache, Grace E.">Grace E. Tollemache</docAuthor>
 <head rend="center">SONNET</head>
-<note rend="center"><hi rend="italic">October 1st, 1914</hi></note>
+<note rend="center" anchored="yes"><hi rend="italic">October 1st, 1914</hi></note>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">England</hi>! that thou wast faint of heart we said,</l>
@@ -5512,6 +5606,7 @@ in glory everlasting.")</l></epigraph><ab><ptr target="cunliffe123.note"/></ab>
 
 <pb n="265"/>
 <div2 id="cunliffe128" type="poem" n="To My Country">
+<docAuthor n="Towne, Charles Hanson">Charles Hanson Towne</docAuthor>
 <head rend="center">TO MY COUNTRY</head>
 
 <lg type="stanza">
@@ -5537,6 +5632,7 @@ in glory everlasting.")</l></epigraph><ab><ptr target="cunliffe123.note"/></ab>
 
 <pb n="266"/>
 <div2 id="cunliffe129" type="poem" n="Aftermath">
+<docAuthor n="Tripp, D. Howard">D. Howard Tripp</docAuthor>
 <head rend="center">AFTERMATH</head>
 
 <lg type="stanza">
@@ -5565,6 +5661,7 @@ in glory everlasting.")</l></epigraph><ab><ptr target="cunliffe123.note"/></ab>
 
 <pb n="267"/>
 <div2 id="cunliffe130" type="poem" n="A Girl's Song">
+<docAuthor n="Tynan, Katharine">Katharine Tynan</docAuthor>
 <head rend="center">A GIRL'S SONG</head>
 
 <lg type="stanza">
@@ -5609,6 +5706,7 @@ in glory everlasting.")</l></epigraph><ab><ptr target="cunliffe123.note"/></ab>
 
 <pb n="269"/>
 <div2 id="cunliffe131" type="poem" n="The Laughers">
+<docAuthor n="Untermeyer, Louis">Louis Untermeyer</docAuthor>
 <head rend="center">THE LAUGHERS</head>
 
 <lg type="stanza">
@@ -5706,6 +5804,7 @@ in glory everlasting.")</l></epigraph><ab><ptr target="cunliffe123.note"/></ab>
 
 <pb n="273"/>
 <div2 id="cunliffe132" type="poem" n="The American Volunteers">
+<docAuthor n="Vorst, Marie Van">Marie Van Vorst</docAuthor>
 <head rend="center">THE AMERICAN VOLUNTEERS</head>
 
 <lg type="stanza">
@@ -5737,6 +5836,7 @@ in glory everlasting.")</l></epigraph><ab><ptr target="cunliffe123.note"/></ab>
 
 <pb n="274"/>
 <div2 id="cunliffe133" type="poem" n="The Conscript">
+<docAuthor n="Vickridge, Alberta">Alberta Vickridge</docAuthor>
 <head rend="center">THE CONSCRIPT</head>
 
 <lg type="stanza">
@@ -5790,6 +5890,7 @@ in glory everlasting.")</l></epigraph><ab><ptr target="cunliffe123.note"/></ab>
 
 <pb n="276"/>
 <div2 id="cunliffe134" type="poem" n="In a Slum">
+<docAuthor n="Walker, A. Stodart">A. Stodart Walker</docAuthor>
 <head rend="center">IN A SLUM</head>
 
 <lg type="stanza">
@@ -5840,6 +5941,7 @@ in glory everlasting.")</l></epigraph><ab><ptr target="cunliffe123.note"/></ab>
 
 <pb n="278"/>
 <div2 id="cunliffe135" type="poem" n="England to Denmark">
+<docAuthor n="Warren, Herbert">Herbert Warren</docAuthor>
 <head rend="center">ENGLAND TO DENMARK</head>
 <head rend="center"><hi rend="italic">August, 1915</hi></head>
 
@@ -5866,6 +5968,7 @@ in glory everlasting.")</l></epigraph><ab><ptr target="cunliffe123.note"/></ab>
 
 <pb n="279"/>
 <div2 id="cunliffe136" type="poem" n="Mother of Nations">
+<docAuthor n="Watson, Albert D.">Albert D. Watson</docAuthor>
 <head rend="center">MOTHER OF NATIONS</head>
 <head rend="center">WHY?</head>
 
@@ -5918,6 +6021,7 @@ in glory everlasting.")</l></epigraph><ab><ptr target="cunliffe123.note"/></ab>
 
 <pb n="281"/>
 <div2 id="cunliffe137" type="poem" n="Our Men">
+<docAuthor n="Watson, William">William Watson</docAuthor>
 <head rend="center">OUR MEN</head>
 
 <lg type="stanza">
@@ -5976,6 +6080,7 @@ in glory everlasting.")</l></epigraph><ab><ptr target="cunliffe123.note"/></ab>
 
 <pb n="283"/>
 <div2 id="cunliffe138" type="poem" n="The Reapers">
+<docAuthor n="Watt, Lauchlan Maclean">Lauchlan Maclean Watt</docAuthor>
 <head rend="center">THE REAPERS</head>
 
 <lg type="stanza">
@@ -6022,6 +6127,7 @@ in glory everlasting.")</l></epigraph><ab><ptr target="cunliffe123.note"/></ab>
 <pb n="285"/>
 <pb n="286"/>
 <div2 id="cunliffe140" type="poem" n="The Wakened God">
+<docAuthor n="Widdemer, Margaret">Margaret Widdemer</docAuthor>
 <head rend="center">THE WAKENED GOD</head>
 
 <lg type="stanza">
@@ -6078,6 +6184,7 @@ in glory everlasting.")</l></epigraph><ab><ptr target="cunliffe123.note"/></ab>
 
 <pb n="288"/>
 <div2 id="cunliffe141" type="poem" n="From a Flemish Graveyard">
+<docAuthor n="Williams, Iolo Aneurin">Iolo Aneurin Williams</docAuthor>
 <head rend="center">FROM A FLEMISH GRAVEYARD</head>
 <head rend="center">(January, 1915)</head>
 
@@ -6115,8 +6222,9 @@ in glory everlasting.")</l></epigraph><ab><ptr target="cunliffe123.note"/></ab>
 
 <pb n="290"/>
 <div2 id="cunliffe142" type="poem" n="The First Battle of Ypres">
-<head rend="center">THE FIRST BATTLE OF YPRES<ref target="cunliffe142n1">1</ref></head>
-<note id="cunliffe142n1" place="foot" n="1">
+<docAuthor n="Woods, Margaret L.">Margaret L. Woods</docAuthor>
+<head rend="center">THE FIRST BATTLE OF YPRES<ref target="cunliffe142n1" targOrder="U">1</ref></head>
+<note id="cunliffe142n1" place="foot" n="1" anchored="yes">
 <hi rend="smallcap">Author's</hi> <hi rend="smallcap">Note</hi>. -- In the first Battle of Ypres, which was fought in October-November, 1914, a thin line of British, supported on each wing by small bodies of French, stopped the push of an immense German army on Calais. The allusion in the latter part of the poem is not to "the angels of Mons," but to a story received from a very competent witness. On three occasions the Germans broke through our line, then paused and retired, for no apparent reason. On each of these occasions prisoners, when asked the cause of their retirement, replied: "We saw your enormous Reserves." We had no Reserves. This story was incidentally confirmed by the remark of another officer on the curious conduct of the Germans in violently shelling certain empty fields behind our lines.</note>
 
 <lg type="stanza">
@@ -6244,6 +6352,7 @@ in glory everlasting.")</l></epigraph><ab><ptr target="cunliffe123.note"/></ab>
 
 <pb n="296"/>
 <div2 id="cunliffe143" type="poem" n="Kitchener">
+<docAuthor n="X.">X.</docAuthor>
 <head rend="center">KITCHENER</head>
 
 <lg type="stanza">
@@ -6275,6 +6384,7 @@ in glory everlasting.")</l></epigraph><ab><ptr target="cunliffe123.note"/></ab>
 
 <pb n="297"/>
 <div2 id="cunliffe144" type="poem" n="Marching on Tanga">
+<docAuthor n="Young, Francis Brett">Francis Brett Young</docAuthor>
 <head rend="center">MARCHING ON TANGA</head>
 
 <lg type="stanza">

@@ -1,0 +1,49 @@
+
+ii	div1	lane001	anthology	Songs & Sonnets For England in War Time
+	div2	lane002	dedication
+iii	div2	lane003	epigraph
+v	div2	lane004	chapter	Introduction
+vii	div2	lane005	chapter	Publisher's Note 
+ix	div3	lane006	poem	Welcome to You, Gallant Britons	G. C.
+x	div3	lane007	poem	A Partnership	JOHN LANE
+1	div2	lane008	poem	To the Troubler of the World	WILLIAM WATSON
+2	div2	lane009	poem	To Britian	FRANCIS COUTTS
+3	div2	lane010	poem	Armageddon	JUSTIN HUNTLY McCARTHY
+4	div2	lane011	poem	A Prayer for Peace	H. D. RAWNSLEY
+5	div2	lane012	poem	The Song of the Britons	ANTHONY KIRBY GILL
+9	div2	lane013	poem	War	M JOURDAIN
+10	div2	lane014	poem	Hymn After Battle	A. ST. JOHN ADCOCK.
+13	div2	lane015	poem	Britannia	H. DE VERE STACPOOLE
+15	div2	lane016	poem		IAN COLVIN
+20	div2	lane017	poem	To 'Little' Belgium	COULSON KERNAHAN
+22	div2	lane018	poem	The Tribute	HAROLD BEGBIE
+24	div2	lane019	poem	In the Red Dawn	DOROTHY MARGARET STUART
+28	div2	lane020	poem	The War Cry	R. M. FREEMAN
+35	div2	lane021	poem	The Hush	STEPHEN PHILLIPS
+36	div2	lane022	poem	Alliterativism	G. K. CHESTERTON
+38	div2	lane023	poem	To the Aggressor	REGINALD R. BUCKLEY
+39	div2	lane024	poem	Evening Prayer of a People	NEIL MUNRO
+41	div2	lane025	poem	The Man Forsworn	WILLIAM WATSON
+45	div2	lane026	poem	To the King of the Belgians	H. M.
+46	div2	lane027	poem		PHILIP BUSSY
+49	div2	lane028	poem	The Spirit of England	GILBERT CANNAN
+51	div2	lane029	poem	The Naval Reserve	EVELYN UNDERHILL
+53	div2	lane030	poem	Iconoclastes	WILLIAM ARCHER
+59	div2	lane031	poem	The Call to Arms in Our Street	W. M. LETTS
+61	div2	lane032	poem	To the Crew of H.M.S. Birmingham	R. H. FORSTER
+63	div2	lane033	poem	Germania	EDEN PHILLPOTTS
+65	div2	lane034	poem	The Call	R. E. VERN&Egrave;DE
+68	div2	lane035	poem	Dies Irae	SIR OWEN SEAMAN
+71	div2	lane036	poem	To Women	LAURENCE BINYON
+73	div2	lane037	poem	Towards the Light	WALTER SICHEL
+74	div2	lane038	poem	Roll Up!	W. M. L. HUTCHINSON
+76	div2	lane039	poem	[Untitled]	JAMES RHOADES
+78	div2	lane040	poem	To the British Army	R. GORELL BARNES
+80	div2	lane041	poem	Redemption	HAROLD E. GOAD
+81	div2	lane042	poem	A Battle-Song	W. L. COURTNEY
+86	div2	lane043	poem	The Shirker
+87	div2	lane044	poem	Ghosts at Boulogne	JUSTIN HUNTLY McCARTHY
+88	div2	lane045	poem	To the Belgians	MAURICE HEWLETT
+89	div2	lane046	poem	Song of the Soldiers	THOMAS HARDY
+91	div2	lane047	poem	A Cap to Fit the Kaiser	THE BISHOP OF LINCOLN
+95	div2	lane048	poem	The Battle of the Bight	WILLIAM WATSON

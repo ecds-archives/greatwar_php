@@ -2,23 +2,19 @@
 
 
 <pb n="30"/>
-<div2 id="cunliffe0" type="poem" n="">
+<div2 id="cunliffe0" type="poem" n="Here: And There">
 <head rend="center">HERE: AND THERE</head>
-<head rend="center">September, 1914</head>
+<head rend="center"><hi rend="italic">September, 1914</hi></head>
 
 <lg type="stanza">
-<l n="1">H<hi rend="smallcaps">ERE</hi></l></lg>
-
-<lg>
-<l>Soft benediction of September sun;</l>
+<head rend="center">HERE</head>
+<l n="1">S<hi rend="smallcaps">oft</hi> benediction of September sun;</l>
 <l>Voices of children, laughing as they run;</l>
 <l>Green English lawns, bright flowers and butterflies;</l>
 <l>And over all the blue embracing skies.</l></lg>
 
 <lg>
-<l>THERE</l></lg>
-
-<lg>
+<head rend="center">THERE</head>
 <l>Tumult and roaring of the incessant gun;</l>
 <l>Dead men and dying, trenches lost and won;</l>
 <l>Blood, mud, and havoc, bugles, shoutings, cries;</l>
@@ -27,22 +23,22 @@
 </div2>
 
 <pb n="31"/>
-<head rend="center"><xptr doc="clarke.xml" from="clarke152"/>
+<xptr doc="clarke.xml" from="clarke152">
 
 
 <pb n="32"/>
-<div2 id="cunliffe0" type="poem" n="">
+<div2 id="cunliffe0" type="poem" n="Kartushkiya-Beroza">
 <head rend="center">KART&Uacute;SHKIYA-BER&Oacute;ZA</head>
 
 <lg type="stanza">
-<l n="1">I<hi rend="smallcaps">t</hi> is twelve years since I have been there --</head>
-<head rend="center">I was born there,</l>
+<l n="1">I<hi rend="smallcaps">t</hi> is twelve years since I have been there --</l>
+<l>I was born there,</l>
 <l>In the little town, by the river --</l>
 <l>It all comes back to me now</l>
 <l>Reading in the newspaper:</l>
 <l rend="italic">"The Germans have seized the bridge-head at Kart&uacute;shkiya-Ber&oacute;za;</l>
-<l>The Russians are retreating in good order across the marshes;</l>
-<l>The town is in flames."</l></lg>
+<l rend="italic">The Russians are retreating in good order across the marshes;</l>
+<l rend="italic">The town is in flames."</l></lg>
 
 <lg>
 <l>Kart&uacute;shkiya-Ber&oacute;za!</l>
@@ -160,18 +156,17 @@
 </div2>
 
 <pb n="38"/>
-<div2 id="cunliffe0" type="poem" n="">
-<head rend="center"><xptr doc="clarke.xml" from="clarke094"/></head>
-<head rend="center"><note></l>
+<xptr doc="clarke.xml" from="clarke094">
+<note>
 <l rend="indent">(A sublieutenant in the volunteer Naval Reserve,</l>
 <l>Rupert Brooke died from sunstroke on his way to the</l>
 <l>Dardanelles on April 23, 1915, and was buried in the</l>
 <l>Greek island of Skyros.)</l>
-<l></note>
+</note>
 
 
 <pb n="39"/>
-<div2 id="cunliffe0" type="poem" n="">
+<div2 id="cunliffe0" type="poem" n="Aftermath">
 <head rend="center">AFTERMATH</head>
 
 <lg type="stanza">
@@ -195,7 +190,7 @@
 <l>Be-jewelled by the deeds of those that die,</l>
 <l>Lustre on lustre, till no sable patch</l>
 <l>Peeps through their brilliance.</l>
-<l rend="indent33">In the years to come,</l>
+<l rend="33">In the years to come,</l>
 <l>When we have done our work, and God's own peace,</l>
 <pb n="40"/>
 <l>The Peace of Justice, Mercy, Righteousness,</l>
@@ -215,7 +210,7 @@
 </div2>
 
 <pb n="41"/>
-<div2 id="cunliffe0" type="poem" n="">
+<div2 id="cunliffe0" type="poem" n="The Return">
 <head rend="center">THE RETURN</head>
 
 <lg type="stanza">
@@ -271,7 +266,7 @@
 <l rend="indent"><hi rend="italic">"Silence, you dogs, until you're mustered out.</hi></l>
 <l rend="italic">Forward, to greet the Emperor."</l>
 <pb n="43"/>
-<l rend="indent29">The line</l>
+<l rend="indent30">The line</l>
 <l>Wavered and moaned and stumbled through the town</l>
 <l rend="indent">Like some dark serpent with a broken spine.</l>
 <l>Before the palace gate, in cloak and crown,</l>
@@ -282,4 +277,5 @@
 <l>Lifted his wasted eyes and looked at them.</l>
 <l rend="indent">"Ah !" said the Emperor, and smiled:</l>
 <l rend="indent4">"More toys!"</l></lg>
-<byline>--Dana Burnet.</l></byline><l>
+<byline>--Dana Burnet.</byline>
+</div2>

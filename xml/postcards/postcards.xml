@@ -1065,7 +1065,7 @@ Zoebel's uncle Will Zoebel is the one on the left".</figDesc>
 <figDesc>This postcard is a black and white photo of a long steam ship on the water. On reverse: blank.</figDesc>
 </figure>
 
-<figure entity="wwi_shipyard" ana="nat-us mil-na con-el im-ph t-post">
+<figure entity="shipyard" ana="nat-us mil-na con-el im-ph t-post">
 <head></head>
 <figDesc>This postcard is a black and white photo of a shipyard. On reverse: blank.</figDesc>
 </figure>
@@ -1309,7 +1309,7 @@ the crest on the right. On reverse: At bottom: "B.K.W.I. 259-176" and at left:
 <figDesc>This postcard is a sepia-toned photo of soldiers standing on a pier. On reverse: blank.</figDesc>
 </figure>
 
-<figure entity="wwi_westward" ana="con-v t-wwi t-post nat-us">
+<figure entity="westward" ana="con-v t-wwi t-post nat-us">
 <head>Westward Hoe!</head>
 <p><text><body>
 <lg><l>Full three hundred years ago</l>
@@ -1723,7 +1723,7 @@ illustration of a woman pushing a wheelbarrow full of flowers is on
 the front of the inserted card. Text at bottom of the inserted card: "Keep me in your heart". On reverse of postcard: a handwritten message; "Fabrication fran&ccedil;aise, vise Paris".</figDesc>
 </figure>
 
-<figure entity="there_is_a_face" ana="hf-w nat-us t-wwi con-v im-pa mil-a">
+<figure entity="a_face_i_see" ana="hf-w nat-us t-wwi con-v im-pa mil-a">
 <head>There is a face I seem to see</head>
 <figDesc>This postcard has a color illustration of a soldier and a
 woman in the foreground and a group of soldiers in the
@@ -1759,7 +1759,7 @@ divide.</l>
 <figDesc>This postcard is a black and white photo of a tower in ruins. Text at top center: "Guerre 1914-1918/81--Albert (Somme) - Le Clocher de N.-D. de Brebi&egrave;res/ apr&egrave;s plusieurs bombardements par les Allemands./ The steeple of N.-D. Brebi&egrave;res bombarded by the Germans." Text along left edge: "G. Lelong, 21, Rue St-Martin, Amiens". Text along right edge: "Vis&eacute; Paris no 87". On reverse: "Imp. Catala Fr&egrave;res, Paris."</figDesc>
 </figure>
 
-<figure entity="flowers_of_the_allies" ana="im-pa nat-us nat-brit
+<figure entity="allies_flowers" ana="im-pa nat-us nat-brit
 	nat-fr nat-it nat-ca nat-bel nat-jp t-wwi">
 <head>Flowers of the Allies</head>
 <figDesc>This postcard has a color illustration of flowers from France (Fleur de Lis), the United States (Golden-Rod), England (Rose), Scotland (Thistle), Portugal (Daffodil), Canada (Maple Leaf), Australia (Wattle), Belgium (Forget-Me-Not), Japan (Chrysanthemum), Cuba (Jasmine), and Ireland (Shamrock). Text at center: "Flowers of the Allies". Text at bottom center: "Copyright, 1918, by Curtice S. McCain". Text at bottom right: "Patent Pending". On reverse: "Printed in America"; "Curtice S. McCain 35 Warren Street, N.Y.C."</figDesc>
@@ -2392,11 +2392,11 @@ speeds your boy a word of cheer." Handwritten message.</figDesc>
 <figDesc>The postcard has a pencil illustration of a large hourglass. Instead of sand, the hourglass has men in the top portion and their blood in the bottom. Two men, one dressed in a robe and crown and the other as a captain or soldier, look on. Text at bottom center: "'Will they last?' / The grave question with Germany has long been one of man power." Text at bottom left of picture: "&ccedil; 1019". On reverse: "Raemaekers Post Card Series"; "Brown Robertson Co. N.Y."; handwritten message; postage date of April 16, 1918.</figDesc>
 </figure>
 
-<figure entity="I_wish" ana="hf-w hf-ro nat-us mil-f t-wwi">
+<figure entity="i_wish" ana="hf-w hf-ro nat-us mil-f t-wwi">
 <head>A letter from you</head>
 <figDesc>This postcard has a color illustration of a soldier smoking a pipe and looking through a stack of letters. At the top left is an inset of a woman handing  a letter to the postman. At the top right is an inset of soldiers at a camp site. Text at bottom right: "A letter from you / with good news and cheer / Makes Duty seem lighter / and home-coming near." On reverse: "&copy; Illustrated Postal Card and Nov. Co. N.Y."; "Printed in the U.S.A."</figDesc>
 </figure>
-<figure entity="wwi_imperialism" ana="nat-us nat-rus hf-p t-post2">
+<figure entity="imperialism" ana="nat-us nat-rus hf-p t-post2">
 <head>Imperialism is War!</head>
 <figDesc>This postcard has a color illustration of a woman holding a
 small child to her shoulder and pointing to bombs with "US" on them
@@ -2408,7 +2408,7 @@ at bottom right: "Translation: 'Imperialism is War!'" On reverse:
 1966."</figDesc>
 </figure>
 
-<figure entity="wwi_je_pense" ana="nat-fr im-s t-wwi">
+<figure entity="je_pense" ana="nat-fr im-s t-wwi">
 <head>Je Pense &agrave; toi</head>
 <figDesc>This postcard has embroidered flowers and "Je Pense &agrave; toi" embroidered across it diagonally. On reverse: "Marque d&eacute;posee Fabrication Fran&ccedil;aise"; handwritten message.</figDesc>
 </figure>
@@ -2706,7 +2706,7 @@ whispering love to me." At lower right is the number 1362. On reverse: "&copy; I
 <figDesc>This postcard is a black and white photo of a cemetery of white crosses. A large cannon is in the foreground. Text at top center: "274. Romagne-sous-Montfaucon -- Cimeti&egrave;re am&eacute;ricain de l'Argonne, 25.000 tombes, vue du c&ocirc;t&eacute; ouest -- American Cemetery, 25.000 graves, west side". On reverse: blank.</figDesc>
 </figure>
 
-<figure entity="wwi_Romagne_Cemetery_4" ana="nat-fr mil-a con-m im-ph t-wwi">
+<figure entity="Romagne_Cemetery_4" ana="nat-fr mil-a con-m im-ph t-wwi">
 <head>Romagne-sous-Montfaucon</head>
 <figDesc>This postcard is a black and white photo of a cemetery of white crosses with a large American flag on the pathway. Text at top center: "267. Romagne-sous-Montfaucon -- Cimeti&egrave;re am&eacute;ricain de l'Argonne, 25.000 tombes, all&eacute;e Centrale American Cemetery, 25.000 graves. View from center looking towards the entrance". On reverse: blank.</figDesc>
 </figure>
@@ -2898,7 +2898,7 @@ Leader's call,</l>
 <figDesc>This postcard has two American flags and the following dates around them: 1776, 1917, 1812, 1846, 1861, 1898. Text at top center: "The Stars and Stripes Forever." Text at bottom center: "'With firmness in the right, as God gives us to see the right.' --Lincoln. Inaugural Address." On reverse: "'Liberty and union, now and forever, one and inseparable.' --Daniel Webster."; "Published by Max Right. 37 50. Wabash Ave., Chicago".</figDesc>
 </figure>
 
-<figure entity="statue_of_liberty" ana="nat-us mil-a hf-h t-wwi">
+<figure entity="statue_liberty" ana="nat-us mil-a hf-h t-wwi">
 <head>Well Done Men America Greets You</head>
 <p>Statue of Liberty, New York City</p>
 <p>Statue of Liberty on Bedloe's Island in New York Bay 1 1/4 miles

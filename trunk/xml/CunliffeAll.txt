@@ -493,10 +493,8 @@ When last heard from, the author, who is a British officer, was on service at Kh
 <head rend="center">OR:</head>
 <head rend="center">"WHEN THE ASSAULT WAS INTENDED TO THE CITY"</head>
 <note>
-<l>(In honor of an Oxford Corps composed of those con-</l>
-<l>cerning whom it may be said most truly, in Mr. Belloc's</l>
-<l>words, that they are</l>
-<quote>
+(In honor of an Oxford Corps composed of those concerning whom it may be said most truly, in Mr. Belloc's words, that they are
+<quote rend="center">
 <l>"Dons admirable! Dons of Might!...</l>
 <l>Dons English, worthy of the land.")</l>
 </quote>
@@ -506,12 +504,10 @@ When last heard from, the author, who is a British officer, was on service at Kh
 <head rend="center">I</head>
 <l n="1">T<hi rend="smallcaps">he</hi> Regulars fight with all their might, the Navy keeps the seas,</l>
 <l>The Terrier<ref target="cunliffe009n1">1</ref> <note id="cunliffe009n1" place="foot" n="1">
-<l>Obsolete word signifying a mere voluntary fighter unfit</l>
-<l>even for adequate defence purposes.</note>
+Obsolete word signifying a mere voluntary fighter unfit even for adequate defence purposes.</note>
 sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 <l>K's keen recruit is learning to shoot, the Boy Scout scouteth still, --</l>
 <l>And after them all, the dons, the dons! -the ag&egrave;d dons do drill!</l></lg>
-
 
 <lg>
 <pb n="24"/>
@@ -808,10 +804,7 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 <pb n="38"/>
 <xptr doc="clarke.xml" from="clarke094"/>
 <note>
-<l rend="indent">(A sublieutenant in the volunteer Naval Reserve,</l>
-<l>Rupert Brooke died from sunstroke on his way to the</l>
-<l>Dardanelles on April 23, 1915, and was buried in the</l>
-<l>Greek island of Skyros.)</l>
+(A sublieutenant in the volunteer Naval Reserve, Rupert Brooke died from sunstroke on his way to the Dardanelles on April 23, 1915, and was buried in the Greek island of Skyros.)
 </note>
 
 
@@ -987,9 +980,7 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 <pb n="50"/>
 <xptr doc="clarke.xml" from="clarke046"/>
 <note>
-<l rend="indent">Editorial Note: A son of Mr. Wilfred Campbell, the</l>
-<l>poet, is now fighting at St. Eloi. He is Capt. Basil Camp-</l>
-<l>bell, of the Second Pioneers.</l>
+Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. Eloi. He is Capt. Basil Campbell, of the Second Pioneers.
 </note>
 
 <pb n="51"/>
@@ -1422,4 +1413,738 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
 </div2>
 
 
-021 last p. 71
+<pb n="72"/>
+<xptr doc="clarke.xml" from="clarke023"/>
+<pb n="73"/>
+
+
+<pb n="74"/>
+<div2 id="cunliffe022" type="poem" n="A Harrow Grave in Flanders">
+<head rend="center">A HARROW GRAVE IN FLANDERS</head>
+
+<lg type="stanza">
+<l n="1">H<hi rend="smallcaps">ere</hi> in the marshland, past the battered bridge,</l>
+<l rend="indent">One of a hundred grains untimely sown,</l>
+<l>Here, with his comrades of the hard-won ridge</l>
+<l rend="indent10">He rests, unknown.</l></lg>
+
+<lg>
+<l>His horoscope had seemed so plainly drawn,</l>
+<l rend="indent">School triumphs, earned apace in work and play;</l>
+<l>Friendships at will; then love's delightful dawn</l>
+<l rend="indent10">And mellowing day.</l></lg>
+
+<lg>
+<l>Home fostering hope; some service to the State;</l>
+<l rend="indent">Benignant age; then the long tryst to keep</l>
+<l>Where in the yew-tree shadow congregate</l>
+<l rend="indent10">His fathers sleep.</l></lg>
+
+<lg>
+<l>Was here the one thing needful to distil</l>
+<l rend="indent">From life's alembic, through this holier fate,</l>
+<l>The man's essential soul, the hero-will?</l>
+<l rend="indent10">We ask; and wait.</l></lg>
+<byline>-- Crewe.</byline>
+</div2>
+
+<pb n="75"/>
+<div2 id="cunliffe023" type="poem" n="When They Have Made an End">
+<head rend="center">WHEN THEY HAVE MADE AN END</head>
+
+<lg type="stanza">
+<l n="1"><l rend="indent">When they have made an end</l>
+<l>Of their importunate crying over you</l>
+<l rend="indent">"God speed," and "God defend,"</l>
+<l>And time is swift and there is nought to do</l>
+<l>But match with wilder hope our wild despair;</l>
+<l rend="indent">When there is quiet, bend</l>
+<l>Your lips to mine, and in the darkness there</l>
+<l rend="indent">Wish me good courage, friend.</l></lg>
+<byline>--Gerald H. Crow.</byline>
+</div2>
+
+<pb n="76"/>
+<xptr doc="clarke.xml" from="clarke147"/>
+
+
+<pb n="77"/>
+<div2 id="cunliffe024" type="poem" n="The Defenders">
+<head rend="center">THE DEFENDERS</head>
+
+<lg type="stanza">
+<l n="1">H<hi rend="smallcaps">is</hi> wage of rest at nightfall still</l>
+<l rend="indent">He takes, who sixty years has known</l>
+<l>Of ploughing over Cotsall hill</l>
+<l rend="indent">And keeping trim the Cotsall stone.</l></lg>
+
+<lg>
+<l>He meditates the dusk, and sees</l>
+<l rend="indent">Folds of his wonted shepherdings</l>
+<l>And lands of stubble and tall trees</l>
+<l rend="indent">Becoming insubstantial things.</l></lg>
+
+<lg>
+<l>And does he see on Cotsall hill --</l>
+<l rend="indent">Thrown even to the central shire --</l>
+<l>The funnelled shapes forbidding still</l>
+<l rend="indent">The stranger from his cottage fire?</l></lg>
+<byline>-- John Drinkwater.</byline>
+</div2>
+
+<pb n="78"/>
+<div2 id="cunliffe025" type="poem" n="The Metal Checks">
+<head rend="center">THE METAL CHECKS</head>
+
+<note>(The scene is a bare room, with two shaded windows at the back, and a fireplace between them with a fire burning low. The room is furnished scantily with a few plain chairs, and a rough wooden table on which are piled a great many small wooden trays. The Counter, who is Death, sits at the table. He wears a loose gray robe, and his face is partly concealed by a gray veil. He does not look at The Bearer, but works mechanically and speaks in a monotonous tone. The Bearer is the World, that bears the burden of War. He wears a soiled robe of brown and green and he carries on his back a gunny-bag with the little metal disks that have been used for the identification of the slain common soldiers.)</note>
+
+<lg type="stanza">
+<head>T<hi rend="smallcaps">HE</hi> B<hi rend="smallcaps"EARER</hi></head>
+<l n="1">H<hi rend="smallcaps">ere</hi> is a sack, a gunny sack,</l>
+<l rend="indent">A heavy sack I bring.</l>
+<l>Here is toll of many a soul --</l>
+<l rend="indent">But not the soul of a king.</l></lg>
+
+<lg>
+<l>This is the toll of common men,</l>
+<l rend="indent">Who lived in the common way;</l>
+<l>Lived upon bread and wine and love,</l>
+<l rend="indent">In the light of the common day.</l></lg>
+
+<lg>
+<l>This is the toll of working men,</l>
+<l rend="indent">Blood and brawn and brain.</l>
+<pb n="79"/>
+<l>Who shall render us again</l>
+<l rend="indent">The worth of all the slain?</l></lg>
+
+<note>(As the Counter speaks, the Bearer pours out the disks on the table. The Bearer obeys the Counter.)</note>
+
+<lg>
+<head>T<hi rend="smallcaps">HE</hi> C<hi rend="smallcaps">OUNTER</hi></head>
+<l>Pour them out on the table here.</l>
+<l>C l i c k e t y - c l i c k e t y - c l a c k !</l>
+<l>For every button a man went out,</l>
+<l>And who shall call him back?</l>
+<l>C l i c k e t y - c l i c k e t y - c l a c k !</l></lg>
+
+<lg>
+<l>One -- two -- three -- four --</l>
+<l rend="indent">Every disk a soul!</l>
+<l>Three score -- four score --</l>
+<l>So many boys went out to war.</l>
+<l>Pick up that one that fell on the floor --</l>
+<l rend="indent">Didn't you see it roll?</l>
+<l>That was a man a month ago.</l>
+<l>This was a man. Row upon row --</l>
+<l>Pile them in tens and count them so.</l></lg>
+
+<lg>
+<head>T<hi rend="smallcaps">HE</hi> B<hi rend="smallcaps"EARER</hi></head>
+<l>I have an empty sack.</l>
+<l rend="indent">It is not large. Would you have said</l>
+<l>That I could carry on my back</l>
+<l rend="indent">So great an army -- and all dead?</l></lg>
+
+
+<pb n="80"/>
+<note>(As the Counter speaks the Bearer lays the sack over his arm and helps count.)</note>
+
+<lg>
+<head>T<hi rend="smallcaps">HE</hi> C<hi rend="smallcaps">OUNTER</hi></head>
+<l>Put a hundred in each tray --</l>
+<l>We can tally them best that way.</l>
+<l>Careful -- do you understand</l>
+<l>You have ten men in your hand?</l>
+<l>There's another fallen -- there --</l>
+<l>Under that chair.</l></lg>
+
+<note>(The Bearer finds it and restores it.)</note>
+
+<lg>
+<l>That was a man a month ago;</l>
+<l>He could see and feel and know.</l>
+<l>Then, into his throat there sped</l>
+<l>A bit of lead.</l>
+<l>Blood was salt in his mouth; he fell</l>
+<l>And lay amid the battle wreck.</l>
+<l>Nothing was left but this metal check --</l>
+<l>And a wife and child, perhaps.</l></lg>
+
+<note>(The Bearer finds the bag on his arm troublesome. He holds it up, inspecting it.)</note>
+
+<lg>
+<head>T<hi rend="smallcaps">HE</hi> B<hi rend="smallcaps"EARER</hi></head>
+<l>What can one do with a thing like this?</l>
+<l>Neither of life nor death it is!</l>
+<l>For the dead serve not, though it served the dead.</l>
+<l>The wounds it carried were wide and red,</l>
+<l>Yet they stained it not. Can a man put food,</l>
+<pb n="81"/>
+<l>Potatoes or wheat, or even wood</l>
+<l>That is kind and burns with a flame to warm</l>
+<l>Living men who are comforted --</l>
+<l>In a thing that has served so many dead?</l>
+<l>There is no thrift in a graveyard dress,</l>
+<l>It's been shroud for too many men.</l>
+<l>I'll burn it and let the dead bless.</l></lg>
+
+<note>(He crosses himself and throws it into the fire. He watches it burn. The Counter continues to pile up the metal checks, and drop them by hundreds into the trays, which he piles one upon another. The Bearer turns from the fire and speaks more slowly than he has before. He indicates the metal checks.</note>
+
+<lg>
+<l>Would not the blood of these make a great sea</l>
+<l>For men to sail their ships on? It may be</l>
+<l>No fish would swim in it, and the foul smell</l>
+<l>Would make the sailors sick. Perhaps in Hell</l>
+<l>There's some such lake for men who rush to war</l>
+<l>Prating of glory, and upon the shore</l>
+<l>Will stand the wives and children and old men</l>
+<l>Bereft, to drive them back again</l>
+<l>When they seek haven. Some such thing</l>
+<l>I thought the while I bore it on my back</l>
+<l>And heard the metal pieces clattering.</l></lg>
+
+<lg>
+<head>T<hi rend="smallcaps">HE</hi> C<hi rend="smallcaps">OUNTER</hi></head>
+<l>Four score -- five score --</l>
+<l>These and many more.</l>
+<pb n="82"/>
+<l>Forward -- march! -- into the tray!</l>
+<l>No bugles blow to-day,</l>
+<l>No captains lead the way;</l>
+<l>But mothers and wives,</l>
+<l>Fathers, sisters, little sons,</l>
+<l>Count the cost</l>
+<l>Of the lost;</l>
+<l>And we count the unlived lives,</l>
+<l>The forever unborn ones</l>
+<l>Who might have been your sons.</l></lg>
+
+<lg>
+<head>T<hi rend="smallcaps">HE</hi> B<hi rend="smallcaps"EARER</hi></head>
+<l>Could not the hands of these rebuild</l>
+<l>That which has been destroyed?</l>
+<l>Oh, the poor hands! that once were strong and filled</l>
+<l>With implements of labor whereby they</l>
+<l>Served home and country through the peaceful day.</l>
+<l>When those who made the war stand face to face</l>
+<l>With these slain soldiers in that unknown place</l>
+<l>Whither the dead go, what will be the word</l>
+<l>By dead lips spoken and by dead ears heard?</l>
+<l>Will souls say King or Kaiser? Will souls prate</l>
+<l>Of earthly glory in that new estate?</l></lg>
+
+<lg>
+<head>T<hi rend="smallcaps">HE</hi> C<hi rend="smallcaps">OUNTER</hi></head>
+<l>One hundred thousand --</l>
+<l>One hundred and fifty thousand --</l>
+<l>Two hundred --</l></lg>
+
+<lg>
+<pb n="83"/>
+<head>T<hi rend="smallcaps">HE</hi> B<hi rend="smallcaps"EARER</hi></head>
+<l>Can this check plough?</l>
+<l rend="indent">Can it sow? can it reap?</l>
+<l>Can we arouse it?</l>
+<l rend="indent">Is it asleep?</l></lg>
+
+<lg>
+<l>Can it hear when a child cries? --</l>
+<l rend="indent">Comfort a wife?</l>
+<l>This little metal disk</l>
+<l rend="indent">Stands for a life.</l></lg>
+
+<lg>
+<l>Can this check build,</l>
+<l rend="indent">Laying stone upon stone?</l>
+<l>Once it was warm flesh</l>
+<l rend="indent">Folded on bone.</l></lg>
+
+<lg>
+<l>Sinew and muscle firm,</l>
+<l rend="indent">Look at it -- can</l>
+<l>This little metal check</l>
+<l rend="indent">Stand for a man?</l></lg>
+
+<lg>
+<head>T<hi rend="smallcaps">HE</hi> C<hi rend="smallcaps">OUNTER</hi></head>
+<l>One -- two -- three -- four --</l></lg>
+<byline>-- Louise Driscoll.</byline>
+</div2>
+
+
+
+<pb n="84"/>
+<div2 id="cunliffe026" type="poem" n="For Those at Sea">
+<head rend="center">"FOR THOSE AT SEA"</head>
+
+<note>(H.M.S. "Aboukir," "Cressy," "Hogue," September 22, 1914.)</note>
+
+<lg type="stanza">
+<l n="1">N<hi rend="smallcaps">ow</hi> all our English woodland sighs "October."</l>
+<l rend="indent">The mild sun going down behind the trees</l>
+<l>Doth bless a countryside as sweet and sober</l>
+<l rend="indent">As ever put on brown and red to please;</l>
+<l>The brooks run blood, but 'tis such blood as Heav'n,</l>
+<l rend="indent">Pierc&egrave;d with light, lets fall on field and village;</l>
+<l>England's dear breasts are still unbruised, unriv'n</l>
+<l rend="indent">The autumn peace on pastureland and tillage.</l>
+<l>Dear mother of us all, hast thou not heard?</l>
+<l rend="indent">Thou knowest how thy sons, our brothers, died</l>
+<l>Of late, and hast thou not a sorrowful word?</l>
+<l rend="indent">O no! Thou dost contain thyself in pride.</l>
+<l>Pity suits not for those, who guarding thee</l>
+<l>Guard more than their own lives, for those at sea.</l></lg>
+<byline>-- Geoffrey Faber.</byline>
+</div2>
+
+<pb n="85"/>
+<div2 id="cunliffe027" type="poem" n="The Man in the Trench">
+<head rend="center">THE MAN IN THE TRENCH</head>
+
+<lg type="stanza">
+<l n="1">C<hi rend="smallcaps">an</hi> you not hear me, young man in the street?</l>
+<l>Is it nothing to you who pass by,</l>
+<l>Who down the dim-lit ways in thousands roam?</l>
+<l>From here I watch you, through the driving sleet,</l>
+<l>Under the evening sky,</l>
+<l>Hurrying home.</l>
+<l>Home! -- how the word sounds like a bell --</l>
+<l>I wonder can you know, as I know well,</l>
+<l>That in this trench</l>
+<l>Of death and stench</l>
+<l>I stand between your home and hell.</l></lg>
+
+<lg>
+<l>I am the roof that shields you from the weather,</l>
+<l>I am the gate that keeps the brigand back,</l>
+<l>When pillage, fire, and murder come together,</l>
+<l>I am the wall that saves your home from sack.</l>
+<l>Man! when you look upon the girl you prize,</l>
+<l>Can you imagine horror in those eyes?</l>
+<l>You have not seen, you cannot understand,</l>
+<l>This trench is England, all this ruined land</l>
+<l>Is where you wander, street, or field, or strand,</l>
+<l>Save for God's grace, and for the guns that rest</l>
+<l>Upon this dripping mudbank of the west.</l></lg>
+
+<lg>
+<pb n="86"/>
+<l>Our blood has stained your threshold -- will you stain</l>
+<l>Your soul, give nothing and take all our gain?</l>
+<l>Why did I come? I ask not, nor repent;</l>
+<l>Something blazed up inside me, and I went.</l>
+<l>The khaki fringe is frayed, and now a rent</l>
+<l>Needs men -- needs men, and I am almost spent.</l>
+<l>Night, and the "ready"... so sleep well, my friend...</l>
+<l>The guns again are going... I must stick it to the end.</l></lg>
+<byline>--James Bernard Fagan.</byline>
+</div2>
+
+<pb n="87"/>
+<div2 id="cunliffe028" type="poem" n="Territorials">
+<head rend="center">TERRITORIALS</head>
+
+<lg type="stanza">
+<l n="1">W<hi rend="smallcaps">here</hi> are the lads who went out to the war?</l>
+<l rend="italic">This year, and last year and long, long ago --</l>
+<l>With eyes full of laughter and song on their lips --</l>
+<l>(Our sad hearts flew after as birds follow ships!)</l>
+<l rend="indent10"><hi rend="italic">Where are they now, do you know?</hi></l></lg>
+
+<lg>
+<l>Some sleep in Flanders and some sleep in France,</l>
+<l rend="italic">This year, and last year, and long years to come --</l>
+<l>And under the rampart that guards far Stamboul</l>
+<l>Some are camped in a rest deep and cool,</l>
+<l rend="indent10"><hi rend="italic">And they heed not the bugle and drum!</hi></l></lg>
+
+<lg>
+<l>They'll come, though not all! They will come from the war! --</l>
+<l rend="italic">This year or next year, or early or late --</l>
+<l>And come well or wounded, come many or few,</l>
+<l>They will bring back their honor, their faith high and true</l>
+<l rend="indent10"><hi rend="italic">Or will bear it to Paradise Gate.</hi></l></lg>
+<byline>-- Agnes S. Falconer.</byline>
+</div2>
+
+<pb n="88"/>
+<div2 id="cunliffe029" type="poem" n="Honor to France!">
+<head rend="center">HONOR TO FRANCE!</head>
+
+<lg type="stanza">
+<l n="1">I<hi rend="smallcaps">n</hi> peace we held thy worth in scant esteem;</l>
+<l rend="indent">Thy sons were dissolute, thy daughters frail;</l>
+<l>How light and fair and fickle didst thou seem</l>
+<l rend="indent">In time of need, alas, how sure to fail!</l>
+<l>But when war came, a war that was not thine --</l>
+<l rend="indent">And the flame seared thee, then thy heart we knew.</l>
+<l>In that dark tumult how thy soul did shine</l>
+<l rend="indent">Loyal and steadfast, pure and brave and true.</l>
+<l>Nay, thou art honored even by the foe,</l>
+<l rend="indent">In martyrdom transformed and glorified!</l>
+<l>And we who scorned (how little did we know!)</l>
+<l rend="indent">Stripped of the tattered mantle of our pride,</l>
+<l>Let us in self-abasement bend the knee</l>
+<l>And pray for God's grace to become like thee.</l></lg>
+<byline>-- William Dudley Foulke.</byline>
+</div2>
+
+<pb n="89"/>
+<div2 id="cunliffe030" type="poem" n="The Jewish Conscript">
+<head rend="center">THE JEWISH CONSCRIPT</head>
+
+<note>(There are nearly a quarter of a million Jews in the Czar's army alone. -- <hi rend="italic">Newspaper clipping</hi>.)</note>
+
+<lg type="stanza">
+<l n="1">T<hi rend="smallcaps">hey</hi> have dressed me up in a soldier's dress,</l>
+<l rend="indent">With a rifle in my hand,</l>
+<l>And have sent me bravely forth to shoot</l>
+<l rend="indent">My own in a foreign land.</l></lg>
+
+<lg>
+<l>Oh, many shall die for the fields of their homes,</l>
+<l rend="indent">And many in conquest wild,</l>
+<l>But I shall die for the fatherland</l>
+<l rend="indent">That murdered my little child.</l></lg>
+
+<lg>
+<l>How many hundreds of years ago --</l>
+<l rend="indent">The nations wax and cease! --</l>
+<l>Did the God of our fathers doom us to bear</l>
+<l rend="indent">The flaming message of peace!</l></lg>
+
+<lg>
+<l>We are the mock and the sport of time!</l>
+<l rend="indent">Yet why should I complain! --</l>
+<l>For a Jew that they hung on the bloody cross,</l>
+<l rend="indent">He also died in vain.</l></lg>
+<byline>-- Florence Kiper Frank.</byline>
+</div2>
+
+<pb n="90"/>
+<xptr doc="clarke.xml" from="clarke102"/>
+<pb n="91"/>
+
+
+
+
+<pb n="92"/>
+<xptr doc="clarke.xml" from="clarke079"/>
+
+
+<pb n="93"/>
+<div2 id="cunliffe031" type="poem" n="The Gift">
+<head rend="center">THE GIFT</head>
+
+<lg type="stanza">
+<l n="1">H<hi rend="smallcaps">is</hi> eyes are bright and eager, with the brightness of the sun,</l>
+<l rend="indent10">(England, he gives them you)</l>
+<l>His hands are strong for climbing and his feet are swift to run,</l>
+<l rend="indent10">(England, he gives them you)</l>
+<l>He has knowledge of the meadows, in the dreamy autumn days,</l>
+<l>The brown hill, and the gold hill, and the green forgotten ways,</l>
+<l rend="indent10">(But he leaves them now for you).</l>
+<l>There's a certain ancient city where he once was free and young,</l>
+<l rend="indent10">(But he leaves it now for you),</l>
+<l>Where Oxford tales are spoken, and Oxford ways are sung,</l>
+<l rend="indent10">(But he leaves them now for you)</l>
+<l>And his heart is often weary, for that dear old river shore,</l>
+<l>And he thinks a little sadly, of the days that come no more,</l>
+<l rend="indent10">(But he gives them up for you).</l>
+<pb n="94"/>
+<l>If his dust is one day lying, in an unfamiliar land,</l>
+<l rend="indent10">(England, he went for you)</l>
+<l>Oh, England, sometimes think of him, of thousands, only one,</l>
+<l>In the dawning, or the noonday, or the setting of the sun,</l>
+<l rend="indent10">(As once he thought of you).</l>
+<l>For to him and many like him, there seemed no other way</l>
+<l rend="indent10">(England, he asked not why)</l>
+<l>The giving up of all things, for ever and for aye,</l>
+<l rend="indent10">(England, he asked not why)</l>
+<l>And so he goes unshrinking, from those dearest paths of home,</l>
+<l>For he knows, great-hearted England, let whatever fate may come</l>
+<l>You will <hi rend="italic">never</hi> let him die!</l></lg>
+<byline>-- H. Rex Freston.</byline>
+<note>(Killed in action in France, Jan. 24, 1916.)</note>
+</div2>
+
+<pb n="95"/>
+<div2 id="cunliffe032" type="poem" n="Passover">
+<head rend="center">PASSOVER</head>
+
+<lg type="stanza">
+<l rend="indent" n="1">The doors of life are two;</l>
+<l rend="indent">And, on some midnight still,</l>
+<l>The Lord shall pass your way, and do</l>
+<l rend="indent">According to your will.</l></lg>
+
+<lg>
+<l rend="indent">For, lo, if your desire</l>
+<l rend="indent">Be set upon the hearth,</l>
+<l>There He will kindle you a fire,</l>
+<l rend="indent">Pleasant and of the earth;</l></lg>
+
+<lg>
+<l rend="indent">And you shall take delight</l>
+<l rend="indent">For ever in that flame,</l>
+<l>But not again shall come a night</l>
+<l rend="indent">When He will call your name.</l></lg>
+
+<lg>
+<l rend="indent">Or, if you count it sin</l>
+<l rend="indent">That darkness wrap His shrine,</l>
+<l>His breath shall light instead therein</l>
+<l rend="indent">The spark that is divine;</l></lg>
+
+<lg>
+<l rend="indent">No shelter from the cold,</l>
+<l rend="indent">No ease it shall afford --</l>
+<l>But by that gleam you shall behold</l>
+<l rend="indent">The glory of the Lord.</l></lg>
+
+<lg>
+<pb n="96"/>
+<l rend="indent">Now choose you!... nor forget,</l>
+<l rend="indent">Choosing this last alone,</l>
+<l>The blood upon your lintel set</l>
+<l rend="indent">For sign, must be your own.</l></lg>
+<byline>--V. H. Friedlaender.</byline>
+</div2>
+
+<pb n="97"/>
+<div2 id="cunliffe033" type="poem" n="Ireland">
+<head rend="center">IRELAND</head>
+
+<lg type="stanza">
+<head rend="indent4"><hi rend="italic">The Dreamers:</hi> --</head>
+<l n="1">O<hi rend="smallcaps">utpost</hi> of Europe, watcher of the seas,</l>
+<l rend="indent">Bulwark to part the dark Atlantic tide,</l>
+<l>Still in the sunset lost Hesperides</l>
+<l rend="indent">Raise peak on peak, and purple galleys glide,</l>
+<l>Kings for their oarsmen, queens for garnishing,</l>
+<l rend="indent">Gleam of their gold that sets the west afire,</l>
+<l>Till the night falls, that knows not any thing,</l>
+<l rend="indent">And the new day brings back the old desire.</l></lg>
+
+<lg>
+<head rend="indent4"><hi rend="italic">The Mediterraneans:</hi> --</head>
+<l>We are your seamen, seamen from the south:</l>
+<l rend="indent">We sought and found you ere the Tyrian sailed,</l>
+<l>Steered with glad shouting through the harbormouth,</l>
+<l rend="indent">Parted the woods, and left you half unveiled</l>
+<l>Ours, ours, that ventured through the forest-bars,</l>
+<l rend="indent">Saw the brown spate and sweetness of the glen,</l>
+<l>And the great breasts domed up against the stars,</l>
+<l rend="indent">Held you and loved you; we were first of men.</l></lg>
+
+<lg>
+<head rend="indent4"><hi rend="italic">The Northmen:</hi> --</head>
+<l>These were thy clansmen, dark with sun and toil,</l>
+<l rend="indent">These knew the Atlas, these the desert knew,</l>
+<pb n="98"/>
+<l>Builders of homesteads, thirsty for the soil,</l>
+<l rend="indent">Green lands and droughtless, carpeted with dew.</l>
+<l>We that came after, racing prow to prow,</l>
+<l rend="indent">Men of the grey lands, narrowing to the pole,</l>
+<l>Strangers and fair-haired -- none are strangers now;</l>
+<l rend="indent">We gave our heart's blood; you gave us back a soul.</l></lg>
+
+<lg>
+<head rend="indent4"><hi rend="italic">The Fighting Line:</hi> --</head>
+<l>Heart's blood of our blood, is the throb so weak,</l>
+<l rend="indent">Ireland, our Ireland, lost beyond the seas?</l>
+<l>Thousands of living, nay dead men, rise and speak,</l>
+<l rend="indent">From Flanders on to the ancestral Cyclades.</l>
+<l>These are from Ireland, these to Ireland calling,</l>
+<l rend="indent">Look to the sunrise, shaft on shaft unfurled,</l>
+<l>Look to the light once more on Valmy falling,</l>
+<l rend="indent">Where France in arms first clarioned the world.</l></lg>
+<byline>-- G. A. J. C.</byline>
+</div2>
+
+<pb n="99"/>
+<div2 id="cunliffe034" type="poem" n="Her Allowance!">
+<head rend="center">HER "ALLOWANCE!"</head>
+
+<lg type="stanza">
+<l n="1">'Er looked at me bunnet (I knows 'e aint noo!)</l>
+<l>'Er turned up 'er nose at the patch on me shoe!</l>
+<l>And 'er sez, pointed like, "Liza, what do 'e do</l>
+<l rend="indent10">With yer 'llowance?"</l></lg>
+
+<lg>
+<l>'Er looked at the children (they'm clean and they'm neat,</l>
+<l>But their clothes be as plain as the victuals they eat):</l>
+<l>And 'er sez, "Why not dress 'em up fine for a treat</l>
+<l rend="indent10">With yer 'llowance?"</l></lg>
+
+<lg>
+<l>I sees 'er long feather and trimmy-up gown:</l>
+<l>I sez, as I looks 'er quite square up and down,</l>
+<l>"Do 'e think us keeps 'oliday 'ere in the town</l>
+<l rend="indent10">With my 'llowance?"</l></lg>
+
+<lg>
+<l>"Not likely!" I sez. And I bids 'er "Good-day!"</l>
+<l>And I kneels on the shabby old canvas to pray</l>
+<l>For Bill, who's out fightin' such brave miles away.</l>
+<l>(And I put back a foo o' they coins for 'e may</l>
+<l>Be needin' a part -- may my Bill -- who can say? --</l>
+<l rend="indent10">Of my 'llowance!)</l></lg>
+<byline>-- Lillian Gard.</byline>
+
+<pb n="100"/>
+<xptr doc="clarke.xml" from="clarke138"/>
+<pb n="101"/>
+<pb n="102"/>
+<pb n="103"/>
+<pb n="104"/>
+<pb n="105"/>
+<pb n="106"/>
+
+
+
+
+<pb n="107"/>
+<div2 id="cunliffe035" type="poem" n="Ultimate Hell">
+<head rend="center">ULTIMATE HELL</head>
+
+<lg type="stanza">
+<l n="1">S<hi rend="smallcaps">atan</hi>? I am.</l>
+<l>The Other One? "The Great I am"?</l>
+<l>Who knows? Millenniums ago</l>
+<l>Some rumor ran that He existed yet!</l>
+<l>I half believed it true, as loath to think</l>
+<l>That He'd outwitted me, or suffered harm</l>
+<l>To rob me of a thrill. Eternity</l>
+<l>Is deadly now, I own.</l></lg>
+
+<lg>
+<l>His name, you say, was God.</l>
+<l>As I recall, it was. Priests mumbled it,</l>
+<l>And cutthroats bawled it for an oath,</l>
+<l>Then, all at once, the priests began to think,</l>
+<l>And ceased to pray.</l>
+<l>'Twas quite the oddest thing that I have known,</l>
+<l>And my dear Foe became thenceforth a myth,</l>
+<l>Or faded, like the morning cloud, with man's</l>
+<l>Immortal hope (poor Tyndall's, eke, whose word</l>
+<l>I'll not forget) into the azure past.</l></lg>
+
+<lg>
+<l>What of my kingdom now?</l>
+<l>I have no kingdom now. Long time ago</l>
+<l>I tired of kings, as God in His day tired.</l>
+<pb n="108"/>
+<l>They were too boist'rous in their wickedness,</l>
+<l>Too bloody and uncouth. They weren't well bred.</l>
+<l>I heard the last of them</l>
+<l>Reigned somewhere on the Baltic Sea,</l>
+<l>A sodden Hohenzollern prince,</l>
+<l>Descended from that self-drunk one</l>
+<l>Who made a War -- the only war</l>
+<l>That lately I had cared about.</l></lg>
+
+<lg>
+<l>It promised well, but soon went wrong.</l>
+<l>Ten million men, yea, twice ten million men,</l>
+<l>Swarmed forth to fight for what they called ideals:</l>
+<l>From Belgium's mills and mines, from England's marts,</l>
+<l>From fairest France and sun-warm Italy,</l>
+<l>From Serbia and the Russian steppe, to fight</l>
+<l>For Right! Oh God! (old habits rise in me)</l>
+<l>For Liberty! They left their little ones,</l>
+<l>Their wives, their gold! They flung away their lives</l>
+<l>As storms throw pearls of rain. They wearied me!</l>
+<l>They were too much like Christ, the crazy one</l>
+<l>Who died forgiving all, and took a thief</l>
+<l>With him to Paradise.</l></lg>
+
+<lg>
+<l>And so there is no Hel1? I'll not say that.</l>
+<l>The name is out of date, but things sometimes</l>
+<l>Survive their names, as names so oft live on</l>
+<pb n="109"/>
+<l>When things and men are dead. There is a land</l>
+<l>That once was dedicate to Liberty:</l>
+<l>A land that cast off kings and set slaves free.</l>
+<l>But when it gathered wealth, and fame, and power,</l>
+<l>And could have struck the blow that might have saved</l>
+<l>Throughout the world the things for which men died,</l>
+<l>The things for which long rows of graves were made,</l>
+<l>It would not strike.</l>
+<l>It let its own go gurgling down to death,</l>
+<l>And did not smite.</l></lg>
+
+<lg>
+<l>Self-made, self-damned, self-governing,</l>
+<l>It hammers now, and smelts;</l>
+<l>And ever, as it pounds, it sings,</l>
+<l>This Tubal Cain -- of Peace!</l>
+<l>And golden dollars jingle in the song,</l>
+<l>Beneath a sulphuring sky it dwells -- at peace --</l>
+<l>In riveless unity of self-content.</l></lg>
+
+<lg>
+<l>I'm growing old? I do not relish quite</l>
+<l>The modern way, a Democratic Hell?</l>
+<l>I'm growing old? I wonder if I sometimes wish</l>
+<l>That God would come again!</l></lg>
+<byline>-- Franklin H. Giddings.</byline>
+<dateline><date>New York, December 5, 1915.</date></dateline>
+
+<pb n="110"/>
+<div2 id="cunliffe036" type="poem" n="I Have No Ring">
+<head rend="center">"I HAVE NO RING"</head>
+
+<lg type="stanza">
+<l n="1">I w<hi rend="smallcaps">atch</hi> and listen with a dreadful fear,</l>
+<l>I wait and long and tremble in a breath;</l>
+<l>Though he is gone to fight, yet is he near;</l>
+<l>I have him always though he meet with Death:</l>
+<l>In the lone night time when my eyes are dim</l>
+<l>I cry with terror, yet my heart will sing;</l>
+<l>I long, I long with sickness, yet with dread:</l>
+<l>My fear is double -- more, far more, for him</l>
+<l>Who not yet lives than him who may be dead:</l>
+<l>I carry that which masters everything:</l>
+<l>And yet -- to have his face and not his name,</l>
+<l>To be so loved, so longed for, yet -- my shame!</l>
+<l>Gladness and dread alike my love to sting....</l>
+<l>I bear his burden -- but -- I have no ring.</l></lg>
+<byline>-- Bernard Gilbert.</byline>
+</div2>
+
+<pb n="111"/>
+<div2 id="cunliffe037" type="poem" n="The Dead">
+<head rend="center">THE DEAD</head>
+<head rend="center"><hi ref="smallcaps">TO ONE KILLED IN ACTION</hi></head>
+
+<lg type="stanza">
+<l n="1">D<hi rend="smallcaps">ear</hi> love, they say thou art at rest.</l>
+<l rend="indent">I heed them not, though thou art long,</l>
+<l rend="indent">Dreaming that thou, with heart still strong</l>
+<l>For fighting, followest some far quest.</l></lg>
+
+<lg>
+<l>They say, dear heart, I must forget.</l>
+<l rend="indent">Nay, though the agony be deep,</l>
+<l rend="indent">That memory can never sleep.</l>
+<l>Thy passioned kisses linger yet.</l></lg>
+
+<lg>
+<l>They say, dear love, the daisies blithe</l>
+<l rend="indent">Shall o'er thy head in summer spring.</l>
+<l rend="indent">Daisies!... I see thy body swing</l>
+<l>Lithe and strong-limbed, above the scythe.</l></lg>
+
+<lg>
+<l>Dear love, they say that in the light</l>
+<l rend="indent">Of Heaven's joy our souls shall meet.</l>
+<l rend="indent">Dear God! I want thee now, the sweet</l>
+<l>Sight of thee -- not in Heaven -- to-night!</l></lg>
+<byline>-- Violet Gillespie.</byline>
+</div2>
+
+037, p. 111

@@ -1,19 +1,19 @@
 <html>
   <head>
-    <link rel="stylesheet" type="text/css" href="../wwi.css">
+<!--    <link rel="stylesheet" type="text/css" href="../wwi.css"> -->
     <title>The Great War : Links : Browse</title>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-    <base href="http://reagan.library.emory.edu/rebecca/wwiweb/">
+<!--    <base href="http://reagan.library.emory.edu/rebecca/wwiweb/"> -->
   </head>
 <body>
 
 <?php
-// run everything as if one directory up
-chdir("..");
+include("../config.php");	
+
 include_once ("lib/alinkCollection.class.php");
 include_once("lib/mybreadcrumb.php");
 
-include("header.html");
+include("header.php");
 print "<p class='breadcrumbs'>" . $breadcrumb->show_breadcrumb() . "</p>";
 
 print '<div class="content">'; 
@@ -29,8 +29,8 @@ $args = array('host' => "vip.library.emory.edu",
 
 $linkset = new aLinkCollection($args);
 
-$linkset->printSortOptions("links/browse.php");
-$linkset->printSubjectOptions("links/browse.php", $subject);
+$linkset->printSortOptions("browse.php");
+$linkset->printSubjectOptions("browse.php", $subject);
 print "<hr width='50%'>";
 $linkset->printSummary();
 
@@ -38,7 +38,7 @@ $linkset->printSummary();
 print "</div>";
 
 print '<div class="sidebar">';
-include("links/nav.html");
+include("nav.html");
 include("searchbox.html");
 print "</div>";
 

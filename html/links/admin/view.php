@@ -43,7 +43,7 @@ if ($subject[0]) {
 print ".</p>";
 
 print "<p><table class='sortopts'><tr><td>";
-$linkset->printSortOptions($self);
+$linkset->printSortOptions($self, "admin");
 print "</td><td>";
 if ($show_edits) {
   print "<a href='$self?sort=$sort&show_edits=0&subj[]=$subject[0]'>Hide Edits</a>";

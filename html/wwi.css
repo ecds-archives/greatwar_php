@@ -130,3 +130,9 @@ table.linkStatus { width: 90%;  }
 tr.odd { background-color: #efefef;} */
 td.url { text-align: left; width: 80%; background-color: #efefef; }
 td.response_code { text-align: center; background-color: #efefef; }
+
+/* search form table formatting */
+table.searchform { width: 70%; }
+table.searchform th { text-align: right; width: 20%; }
+table.searchform th.label { text-align: center; }
+table.searchform td { text-align: left; vertical-align: middle; background-color: #e9e9e9; padding: 5;}

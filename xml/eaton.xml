@@ -96,8 +96,8 @@
 <pb n="13"/>
 <head rend="center">BEFORE ACTION</head>
 <byline rend="center"><docAuthor >Lieut. William Noel Hodgson</docAuthor><lb/>
-M<hi rend="smallcap">ilitary</hi><hi rend="smallcap">ross</hi>, D<hi rend="smallcap">evon</hi> R<hi rend="smallcap">egiment</hi>-K<hi rend="smallcap">illed</hi> IN B<hi rend="smallcap">attle</hi></byline>
-<bibl>From "Verse and Prose in Peace and War." John Murray, Publisher, London.  Permission to reproduce in this book.</bibl>
+<hi rend="smallcap">Military Cross, Devon Regiment-Killed in Battle</hi><lb/>
+From "Verse and Prose in Peace and War." John Murray, Publisher, London.  Permission to reproduce in this book.</byline>
 <lg type="stanza">
 <l n="1">By the glories of the day,</l>
 <l rend="indent2">And the cool evening's benison;</l>
@@ -130,8 +130,8 @@ M<hi rend="smallcap">ilitary</hi><hi rend="smallcap">ross</hi>, D<hi rend="small
 <pb n="14"/>
 <div2 id= "eaton003"   type="poem" n= "Alan Seeger">
 <head rend= "center">"ALAN SEEGER"</head>
-<byline rend= "center"><docAuthor>WASHINGTON VAN DUSEN</docAuthor></byline>
-<bibl rend="center"> IN T<hi rend="smallcap">he</hi> C<hi rend="smallcap">hicago</hi> T<hi rend="smallcap">ribune</hi></bibl>
+<byline rend= "center"><docAuthor>WASHINGTON VAN DUSEN</docAuthor>
+<hi rend="smallcap">in The Chicago Tribune</hi></byline>
 <lg>
 <l>No beauty could escape his loving eyes,</l> 
 <l rend="indent4">Not even ruthless war could hide from view</l>
@@ -151,8 +151,8 @@ M<hi rend="smallcap">ilitary</hi><hi rend="smallcap">ross</hi>, D<hi rend="small
 
 <div2 id="Eaton004"  type="poem" n="The Nurse">
 <head rend="center">THE NURSE</head>
-<bibl rend ="center">IN L<hi rend="smallcap">ondon</hi> P<hi rend="smallcap">unch</hi> <lb/>
-Reproduced by special permission of the Proprietors of "Punch"</bibl>
+<byline rend ="center"><hi rend="smallcap">in London Punch</hi> <lb/>
+Reproduced by special permission of the Proprietors of "Punch"</byline>
 <lg><l n="1">Here in the long white ward I stand, </l>
 <l rend="indent2">Pausing a little breathless space,</l>
 <l>Touching a restless fevered hand,</l>
@@ -173,9 +173,9 @@ these?</hi></l></lg><pb n="15"/></div2>
 
 <div2 id="Eaton005"  type="poem" n="The Little Home Paper">
 <head rend="center">THE LITTLE HOME PAPER</head>
-<byline rend="center"><docAuthor>CHARLES HANSON TOWNE</docAuthor></byline>
-<bibl rend ="center">IN T<hi rend="smallcap">he</hi> A<hi rend="smallcap">merican</hi> M<hi rend="smallcap">agazine</hi><lb/>
-Permission to reproduce in this book</bibl>
+<byline rend="center"><docAuthor>CHARLES HANSON TOWNE</docAuthor><lb/>
+<hi rend="smallcap">IN The American Magazine</hi><lb/>
+Permission to reproduce in this book</byline>
 <lg>
 <l n="1">The little home paper comes to me, </l>
 <l>As badly printed as it can be; </l>
@@ -229,7 +229,7 @@ Permission to reproduce in this book</bibl>
 <div2 id="Eaton006" type="poem" n="No Man's Land">
 <head rend="center">NO MAN'S LAND</head>
 <byline rend="center"><docAuthor> CAPT. JAMES
-H. KNIGHT-ADKIN</docAuthor> In T<hi rend="smallcap">he</hi> S<hi rend="smallcap">pectator</hi></byline>
+H. KNIGHT-ADKIN</docAuthor> In<hi rend="smallcap"> The Spectator</hi></byline>
 <lg>
 <l n="1">No Man's Land is an eerie sight</l>
 <l>At early dawn in the pale gray light.</l>
@@ -273,8 +273,8 @@ H. KNIGHT-ADKIN</docAuthor> In T<hi rend="smallcap">he</hi> S<hi rend="smallcap"
 
 <div2 id="Eaton007" type="poem" n="The Gold Star">
 <head rend="center">THE GOLD STAR</head>
-<byline rend="center"><docAuthor>EDGAR A. GUEST</docAuthor></byline>
-<bibl>Copyright, 1918, by Edgar A. Guest.  Special permission to reproduce in this book.</bibl>
+<byline rend="center"><docAuthor>EDGAR A. GUEST</docAuthor>
+Copyright, 1918, by Edgar A. Guest.  Special permission to reproduce in this book.</byline>
 <lg>
 <l n="1">T'he star upon their service flag has changed to gleaming gold;</l>
 <l>It speaks no more of hope and life, as once it did of old, </l>
@@ -298,9 +298,9 @@ H. KNIGHT-ADKIN</docAuthor> In T<hi rend="smallcap">he</hi> S<hi rend="smallcap"
 
 <div2 id="Eaton008" type="poem" n="Watchin' Out for Subs">
 <head rend="center">Watchin' Out For Subs</head>
-<byline rend="center">U. A. L.</byline>
-<bibl>From Bert Leston Taylor's column, "A Line o' Type or Two,"<lb/>
-<hi rend ="center">In The Chicago Tribune</hi></bibl>
+<byline rend="center">U. A. L.<lb/>
+From Bert Leston Taylor's column, "A Line o' Type or Two,"<lb/>
+<hi rend ="smallcap">in The Chicago Tribune</hi></byline>
 <lg>
 <l n="1">Bosun's whistle piping, "Starboard watch is on" </l>
 <l>Sleepy army officer, waked at crack o' dawn; </l>
@@ -320,9 +320,9 @@ H. KNIGHT-ADKIN</docAuthor> In T<hi rend="smallcap">he</hi> S<hi rend="smallcap"
 
 <div2 id="Eaton009" type="poem" n="French in the Trenches">
 <head rend="center">FRENCH IN THE TRENCHES</head>
-<byline rend="center"><docAuthor>WILLIAM J. ROBINSON</docAuthor></byline>
-<bibl rend="center">IN T<hi rend="smallcap">he</hi> S<hi rend="smallcap">an</hi> F<hi rend="smallcap">rancisco</hi> A<hi rend="smallcap">rgonaut</hi><lb/>
-Permission to reproduce in this book</bibl>
+<byline rend="center"><docAuthor>WILLIAM J. ROBINSON</docAuthor>
+ <hi rend="smallcap">IN The San Francisco Argonaut</hi><lb/>
+Permission to reproduce in this book</byline>
 <lg>
 <l n="1">I have a conversation book; I brought it out from home.</l>
 <l>It tells you the French for knife and fork and likewise brush and comb</l>
@@ -360,8 +360,9 @@ Permission to reproduce in this book</bibl>
 <l>If he'll ever see them kids of his--I never asked his name.</l></lg></div2>
 <div2 id="Eaton010"  type="poem" n="Litany">
 <head rend="center">LITANY</head>
-<byline rend="center"><docAuthor>ALLENE GREGORY</docAuthor> IN H<hi rend="smallcap">arriet</hi> M<hi rend="smallcap">onroe's</hi> P<hi rend="smallcap">oetry</hi> M<hi rend="smallcap">agazine</hi></byline>
-<bibl rend="center">Permission to reproduce in this book</bibl>
+<byline rend="center"><docAuthor>ALLENE GREGORY</docAuthor><lb/>
+<hi rend="smallcap"> IN Harriet Monroe's Poetry Magazine</hi><lb/>
+Permission to reproduce in this book</byline>
 <lg>
 <l n="1">Saint Genevieve, whose sleepless watch </l>
 <l rend="indent2">Saved threatened France of old.</l>
@@ -382,10 +383,9 @@ Permission to reproduce in this book</bibl>
 <pb n="21"/></div2>
 <div2 id="Eaton011"  type="poem" n=" Ragnarok">
 <head rend="center">RAGNAROK <lb/>
-T<hi rend="smallcap">he</hi> T<hi rend="smallcap">wilight</hi> OF T<hi rend="smallcap">he</hi> G<hi rend="smallcap">ods</hi></head>
+<hi rend="smallcap">The Twilight OF The Gods</hi></head>
 <byline rend="center"><docAuthor>Arthur Guiterman</docAuthor><lb/>
-IN T<hi rend="smallcap">he</hi> B<hi rend="smallcap">ellman</hi>, M<hi rend="smallcap">inneapolis</hi></byline>
-<bibl rend="center">Permission to reproduce in this book</bibl>
+<hi rend="smallcap">IN The Bellman</hi>,<hi rend="smallcap"> Minneapolis</hi><lb/>Permission to reproduce in this book</byline>
 <lg>
 <l n="1">HO! Heimdal sounds the Gjallar-horn: </l>
 <l>The hosts of Hel rush forth </l>
@@ -454,8 +454,8 @@ IN T<hi rend="smallcap">he</hi> B<hi rend="smallcap">ellman</hi>, M<hi rend="sma
 <div2 id="Eaton012"  type="poem" n="The Kid Has Gone To The Colors">
 <head rend="center">THE KID HAS GONE TO THE COLORS</head>
 <byline rend="center"><docAuthor>William Herschell</docAuthor><lb/>
-IN T<hi rend="smallcap">he</hi> I<hi rend="smallcap">ndianapolis</hi> N<hi rend="smallcap">ews</hi></byline>
-<bibl rend="center">Permission to reproduce in this book</bibl>
+<hi rend="smallcap">IN The Indianapolis News</hi><lb/>
+Permission to reproduce in this book</byline>
 <lg>
 <l n="1">The Kid has gone to the Colors</l>
 <l rend="indent2">And we don't know what to say;</l>
@@ -498,8 +498,7 @@ IN T<hi rend="smallcap">he</hi> I<hi rend="smallcap">ndianapolis</hi> N<hi rend=
 
 <div2 id="Eaton013" type="poem" n="A Scrap of Paper">
 <head rend="center">A SCRAP OF PAPER</head>
-<byline rend="center"><docAuthor>HERBERT KAUFMAN</docAuthor></byline>
-<bibl>From, Mr. Kaufman's book of poems. "The Hell-Gate of Soissons." T. Fisher Unwin,, Publishers (all rights reserved), London, England. Special permission to reproduce in this book</bibl>
+<byline rend="center"><docAuthor>HERBERT KAUFMAN</docAuthor><lb/>From, Mr. Kaufman's book of poems. "The Hell-Gate of Soissons." T. Fisher Unwin,, Publishers (all rights reserved), London, England. Special permission to reproduce in this book</byline>
 <p>"Just for a word, 'neutrality' . . just for a scrap of
 paper, Great Britain was going to make war."--The 
 German Chancellor to the British Ambassador in Berlin</p>
@@ -527,7 +526,7 @@ German Chancellor to the British Ambassador in Berlin</p>
 <div2 id="Eaton014" type="poem" n="Poppies">
 <head rend="center">POPPIES</head>
 <byline rend="center"><docAuthor>CAPT. JOHN MILLS HANSON, F.A.</docAuthor><lb/>
-IN T<hi rend="smallcap">he</hi> S<hi rend="smallcap">tars</hi> A<hi rend="smallcap">nd</hi> S<hi rend="smallcap">tripes</hi>, A.E.F., F<hi rend="smallcap">rance</hi></byline>
+<hi rend="smallcap">IN The Stars And Stripes</hi>, A.E.F.,<hi rend="smallcap"> France</hi></byline>
 
 <lg>
 <l n="1">POPPIES in the wheat fields on the pleasant hills of France,</l>
@@ -558,7 +557,7 @@ IN T<hi rend="smallcap">he</hi> S<hi rend="smallcap">tars</hi> A<hi rend="smallc
 <div2 id="Eaton015" type="poem" n="As The Trucks Go Rollin' By">
 <head rend="center">AS THE TRUCKS GO ROLLIN' BY</head>
 <byline rend="center"><docAuthor>LIEUT. L. W. SUCKERT. A.S., U.S.A.</docAuthor><lb/> 
-IN T<hi rend="smallcap">he</hi> S<hi rend="smallcap">tars</hi> A<hi rend="smallcap">nd</hi> S<hi rend="smallcap">tripes</hi>, A.E.F., F<hi rend="smallcap">rance</hi></byline>
+<hi rend="smallcap">IN The Stars And Stripes</hi>, A.E.F.,<hi rend="smallcap"> France</hi></byline>
 <lg>
 <l n="1">THERE'S a rumble an' a jumble an' a humpin' an' a thud,</l>
 <l>As I wakens from my restless sleep here in my bed o' mud,</l>
@@ -596,8 +595,7 @@ IN T<hi rend="smallcap">he</hi> S<hi rend="smallcap">tars</hi> A<hi rend="smallc
 <l>God 'less that Yankee cargo in the trucks a-rollin' by.</l></lg></div2>
 <div2 id="Eaton016" type="poem" n="The Graves Of Gallipoli">
 <head rend="center">THE GRAVES OF GALLIPOLI</head>
-<byline rend="center">L. L. (A. N. Z. A. C.)</byline>
-<bibl>From, 'The Anzac Book," Cassell &#x0026; Co., Ltd.. Publishers, London. Sprcial permission to reproduce in this book.</bibl>
+<byline rend="center">L. L. (A. N. Z. A. C.)<lb/>From, 'The Anzac Book," Cassell &#x0026; Co., Ltd.. Publishers, London. Special permission to reproduce in this book.</byline>
 <note>This poem is one of many that were written to commemorate the stubborn bravery of the Anzacs, the British soldiers from Australia and New Zealand. These indomitables came half way round the globe at Britain's first call. Their first appearance was in Egypt, where they drove the German--led Turks back into the desert and saved the Suez canal. They were and are officially designated the "Australian and New Zealand Army Corps," a title too long for common use. They have won fame and the world's admiration as the "Anzacs." a word made by running together the first letters of their official title. Australia's own name for her soldier is Bill--Jim. 'The Graves of Gallipoli" is one of the most noble and tender poems that have come to us out of the war</note>
 <lg>
 <l n="1">THE herdman wandering by the lonely rills</l>
@@ -681,8 +679,7 @@ they went</l>
 <div2 id="Eaton018" type="poem" n="Poor Old Ship">
 <head rend="center">"POOR OLD SHIP!"</head>
 <byline rend="center"><docAuthor>C. FOX SMITH </docAuthor><lb/>
-IN P<hi rend="smallcap">unch</hi></byline>
-<bibl rend="center">Reproduced by special permission of the Proprietors of "Punch"</bibl>
+<hi rend="smallcap">IN Punch</hi><lb/>Reproduced by special permission of the Proprietors of "Punch"</byline>
 <lg>
 <l n="1">SHE wasn't much to brag about, she wasn't much to see,</l>
 <l>A rusty, crusty hooker as a merchant ship could be;</l>
@@ -727,7 +724,7 @@ IN P<hi rend="smallcap">unch</hi></byline>
 <div2 id="Eaton019" type="poem" n="Passing The Buck">
 <head rend="center">PASSING THE BUCK</head>
 <byline rend="center"><docAuthor>SERGT. NORMAN E. NYGAARD, 313TH SN. TN.</docAuthor><lb/>
-IN T<hi rend="smallcap">he</hi> S<hi rend="smallcap">tars</hi> A<hi rend="smallcap">nd</hi> S<hi rend="smallcap">tripes</hi>, A.E.F., F<hi rend="smallcap">rance</hi></byline>
+<hi rend="smallcap">IN The Stars And Stripes</hi>, A.E.F.,<hi rend="smallcap"> France</hi></byline>
 
 <lg>
 <l n="1">THE Colonel has a job to do </l>
@@ -785,8 +782,7 @@ IN T<hi rend="smallcap">he</hi> S<hi rend="smallcap">tars</hi> A<hi rend="smallc
 <div2 id="Eaton020" type="poem" n="The Return">
 <head rend="center">THE RETURN</head>
 <byline rend="center"><docAuthor>THEODORE HOWARD BANKS, JR</docAuthor><lb/>
-IN E<hi rend="smallcap">verybody's</hi> M<hi rend="smallcap">agazine</hi></byline>
-<bibl rend="center">Permission to reproduce in this book</bibl>
+<hi rend="smallcap">IN Everybody's Magazine</hi><lb/>Permission to reproduce in this book</byline>
 <lg>
 <l n="1">WHEN I return, let us be very still;</l>
 <l>No mirth, and but one deep, soul-searching glance,</l>
@@ -795,8 +791,7 @@ IN E<hi rend="smallcap">verybody's</hi> M<hi rend="smallcap">agazine</hi></bylin
 <div2 id="Eaton021" type="poem" n="Bullington">
 <head rend="center"> BULLINGTON</head>
 <byline rend="center">C. FOX SMITH <lb/>
-IN P<hi rend="smallcap">unch</hi></byline>
-<bibl rend="center">Reproduced by special permission of the Proprietors of "Punch"</bibl>
+<hi rend="smallcap">IN Punch</hi><lb/>Reproduced by special permission of the Proprietors of "Punch"</byline>
 <lg>
 <l n="1">It was the high midsummer, and the sun was shining strong,</l>
 <l>And the lane was rather flinty, and the lane was rather long,</l>
@@ -921,7 +916,7 @@ IN P<hi rend="smallcap">unch</hi></byline>
 <div2 id="Eaton023" type="poem" n="Corp'rals Chevrons">
 <head rend="center">CORP'RAL'S CHEVRONS</head>
 <byline rend="center"><docAuthor>ANONYMOUS</docAuthor><lb/>
-IN T<hi rend="smallcap">he</hi> S<hi rend="smallcap">tars</hi> A<hi rend="smallcap">nd</hi> S<hi rend="smallcap">tripes</hi>, A.E.F., F<hi rend="smallcap">rance</hi></byline>
+<hi rend="smallcap">IN The Stars And Stripes</hi>, A.E.F.,<hi rend="smallcap"> France</hi></byline>
 
 <lg>
 <l n="1">OH, the General with his epaulets, leadin' a parade;</l>
@@ -1061,8 +1056,7 @@ The richest harvests grow, </l>
 <div2 id="Eaton027" type="poem" n="A Little Town In Senegal">
 <head rend="center">A LITTLE  TOWN IN SENEGAL </head>
 <byline rend="center"><docAuthor>WILL THOMPSON</docAuthor><lb/>
-IN E<hi rend="smallcap">verybody's</hi> M<hi rend="smallcap">agazine</hi></byline>
-<bibl rend="center">Permission reproduce in this book</bibl>
+<hi rend="smallcap">IN Everybody's Magazine</hi><lb/>Permission reproduce in this book</byline>
 
 <lg>
 <l n="1">I HEAR the throbbing music down the lanes of Afric rain:</l>
@@ -1084,8 +1078,7 @@ IN E<hi rend="smallcap">verybody's</hi> M<hi rend="smallcap">agazine</hi></bylin
 <div2 id="Eaton028" type="poem" n="A Little Grim-Fingerered Girl">
 <head rend="center">A LITTLE GRIMY--FINGERED GIRL</head>
 <byline rend="center"><docAuthor>LEE WILSON DODD</docAuthor><lb/> 
-IN T<hi rend="smallcap">he</hi> O<hi rend="smallcap">utlook</hi></byline>
-<bibl rend="center">Permission to reproduce in this book</bibl>
+<hi rend="smallcap">IN The Outlook</hi><lb/>Permission to reproduce in this book</byline>
 <note>In sending his permission to use this sharp flash of the spirit of France, Mr. Dodd wrote: "It may interest you to know that the little grimy-fingered girl is real, and that I bought L'Intrans' from her every evening for many months during the dark days of last springin Paris." The spring referred to being that of 1918, when the Germans were only a few miles from the city.</note>
 <lg>
 <l n="1">A LITTLE grimy--fingered girl</l>
@@ -1120,9 +1113,9 @@ Paris, February, 1918.</dateline>
 
 <div2 id="Eaton029" type="poem" n="Soldiers Of The Soil">
 <head rend="center">SOLDIERS OF THE SOIL</head>
-<byline rend="center"><docAuthor>EVERARD JACK APPLETON</docAuthor></byline>
-<bibl>By permission of Stewart &#x0026; Kidd Company, Cincinnati, Publishers
-of "With the Colors," by Everard Jack Appleton. Copyright. 1917.</bibl>
+<byline rend="center"><docAuthor>EVERARD JACK
+APPLETON</docAuthor><lb/>By permission of Stewart &#x0026; Kidd
+Company, Cincinnati, Publishers of "With the Colors," by Everard Jack Appleton. Copyright. 1917.</byline>
 <lg>
 <l n="1" >IT'S a high-falutin' title they have handed us;</l>
 <l>It's very complimentary and grand; </l>
@@ -1174,8 +1167,8 @@ of "With the Colors," by Everard Jack Appleton. Copyright. 1917.</bibl>
 <div2 id="Eaton030" type="poem" n="The Cross And The Flag">
 <head rend="center">THE CROSS AND THE FLAG </head>
 <byline rend="center">WILLIAM HENRY, CARDINAL O'CONNELL<lb/> 
-IN T<hi rend="smallcap">HE</hi> C<hi rend="smallcap">ATHOLIC</hi> S<hi
-rend="smallcap">CHOOL</hi> J<hi rend="smallcap">OURNAL</hi></byline>
+<hi rend="smallcap">IN THE CATHOLIC</hi> S<hi
+rend="smallcap">CHOOL JOURNAL</hi></byline>
 <lg>
 <l n="1">HAIL, banner of our holy faith,</l>
 <l rend="indent">Redemption's sacred sign,</l>
@@ -1199,8 +1192,7 @@ rend="smallcap">CHOOL</hi> J<hi rend="smallcap">OURNAL</hi></byline>
 
 <div2 id="Eaton031" type="poem" n="The Road To France">
 <head rend="center">THE ROAD TO FRANCE</head>
-<byline rend="center"><docAuthor>DANIEL M. HENDERSON</docAuthor></byline>
-<bibl rend="center">Permission to reproduce in this book</bibl>
+<byline rend="center"><docAuthor>DANIEL M. HENDERSON</docAuthor><lb/>Permission to reproduce in this book</byline>
 <note>The 1917 prize of the National Arts Club of New York was awarded to Mr. Henderson's poem. It was chosen out of more than four thousand that were submitted.</note>
 <lg>
 <l>THANK God, our liberating lance</l>
@@ -1275,9 +1267,9 @@ IN THE CHICAGO TRIBUNE</byline>
 <div2 id="Eaton033" type="poem" n="The Crimson Cross">
 <head rend="center">THE CRIMSON CROSS</head>
 <byline rend="center"><docAuthor>ELIZABETH BROWN DU BRIDGE</docAuthor><lb/>
-IN T<hi rend="smallcap">HE</hi> D<hi rend="smallcap">AILY</hi> N<hi
-rend="smallcap">EWS</hi>, S<hi rend="smallcap">AULT</hi> S<hi
-rend="smallcap">TE.</hi> M<hi rend="smallcap">ARIE</hi></byline>
+<hi rend="smallcap">IN THE DAILY</hi> N<hi
+rend="smallcap">EWS</hi>,<hi rend="smallcap"> SAULT</hi> S<hi
+rend="smallcap">TE. MARIE</hi></byline>
 <lg>
 <l n="1">OUTSIDE the ancient city's gate </l>
 <l rend="indent">Upon Golgotha's crest</l>
@@ -1323,8 +1315,7 @@ rend="smallcap">TE.</hi> M<hi rend="smallcap">ARIE</hi></byline>
 <div2 id="Eaton034" type="poem" n="Pierrot Goes">
 <head rend="center">PIERROT GOES</head>
 <byline rend="center"><docAuthor>CHARLOTTE BECKER</docAuthor><lb/>
-IN E<hi rend="smallcap">VERYBODY'S</hi>hi> M<hi rend="smallcap">AGAZINE</hi></byline>
-<bibl rend="center">Permission to reproduce in this book</bibl>
+<hi rend="smallcap">IN EVERYBODY'S</hi>hi><hi rend="smallcap"> MAGAZINE</hi><lb/>Permission to reproduce in this book</byline>
 
 <lg>
 <l n="1">UP among the chimneys tall</l>
@@ -1371,8 +1362,8 @@ IN E<hi rend="smallcap">VERYBODY'S</hi>hi> M<hi rend="smallcap">AGAZINE</hi></by
 <div2 id="Eaton036" type="poem" n="The Nightingales Of Flanders">
 <head rend="center">THE NIGHTINGALES OF FLANDERS</head>
 <byline rend="center"><docAuthor>GRACE HAZARD CONKLING</docAuthor><lb/>
-<hi rend="smallcap">in Everybody's Magazine</hi></byline>
-<bibl rend="center">Permission to reproduce in this book.</bibl>
+<hi rend="smallcap">in Everybody's Magazine</hi>
+<seg><bibl rend="center">Permission to reproduce in this book.</bibl></seg></byline>
 
 <epigraph><q>"Le rossignol n'est pas mobilise."</q><bibl>--A French
 Soldier</bibl></epigraph>
@@ -1404,8 +1395,7 @@ Soldier</bibl></epigraph>
 <div2 id="Eaton037" type="poem" n="The Widow">
 <head rend="center">THE WIDOW</head>
 <byline rend="center"><docAuthor>MISS C. M. MITCHELL</docAuthor><lb/>
- <hi rend="smallcap">In Punch</hi></byline>
-<bibl>Reproduced by special permission of the Proprietors of "Punch"</bibl>
+<hi rend="smallcap"> In Punch</hi><lb/>Reproduced by special permission of the Proprietors of "Punch"</byline>
 
 <lg>
 <l n="1">My heart is numb with sorrow;</l>
@@ -1449,9 +1439,7 @@ New York.  Special permission to reproduce in this book.</bibl>
 
 <div2 id="Eaton039" type="poem" n="Trains">
 <head rend="center">TRAINS</head>
-<byline rend="cneter"><docAuthor>LIEUT. JOHN PIERRE ROCHE</docAuthor></byline>
-<bibl>From Lieutenant Roche s book of poems, "Rimes in Olive Drab."
-Robert M. McBride &#x0026; Company, Publishers, New York. Copyright, 1918, Special permission to insert in this book.</bibl>
+<byline rend="cneter"><docAuthor>LIEUT. JOHN PIERRE ROCHE</docAuthor><lb/>From Lieutenant Roche s book of poems, "Rimes in Olive Drab."Robert M. McBride &#x0026; Company, Publishers, New York. Copyright, 1918, Special permission to insert in this book.</byline>
 <note>Lieutenant Roche has deftly caught and preserved in words the strange vision of unannounced trains that flashed now and then post towns and villages bearing American troops from unknown camps to unknown ports of embarkation--the flash of faces of men about whom it was known only that they came from the shops and fields of home and were going across the seas to fight somewhere, for those who stood and gazed as they whirled by. The mystery, the roar of wheels, the eddying dust and the silence that followed infuse these lines with picture and sound that will stay in the minds of any who saw such trains go hurrying away.</note>
 <lg>
 <l n="1">OVER thousands of miles </l>
@@ -1541,7 +1529,7 @@ Robert M. McBride &#x0026; Company, Publishers, New York. Copyright, 1918, Speci
 <div2 id="Eaton040" type="poem" n="Christ In Flanders">
 <head rend="center">CHRIST IN FLANDERS</head>
 <byline rend="cneter">L. W.<lb/>
- IN T<hi rend="smallcap">HE</hi> S<hi> rend="smallcap"PECTATOR</hi></byline>
+<hi rend="smallcap"> IN THE</hi> S<hi> rend="smallcap"PECTATOR</hi></byline>
 <lg>
 <l n="1">WE had forgotten You, or very nearly--</l>
 <l>You did not seem to touch us very nearly--</l>
@@ -1596,8 +1584,7 @@ Robert M. McBride &#x0026; Company, Publishers, New York. Copyright, 1918, Speci
 
 <div2 id="Eaton041" type="poem" n="An American Creed">
 <head rend="center">AN AMERICAN CREED</head>
-<byline rend="center"><docAuthor>EVERARD JACK APPLETON</docAuthor></byline>
-<bibl>By permission of Stewart &#x0026; Kidd Company, Cincinnati, Publishers of 'With the Colors," by Everard Jack Appleton. Copyright, 1918.</bibl>
+<byline rend="center"><docAuthor>EVERARD JACK APPLETON</docAuthor><lb/>By permission of Stewart &#x0026; Kidd Company, Cincinnati, Publishers of 'With the Colors," by Everard Jack Appleton. Copyright, 1918.</byline>
 <lg rend="indent8">
 <l n="1">STRAIGHT thinking, </l>
 <l>Straight talking, </l>
@@ -1618,11 +1605,8 @@ Robert M. McBride &#x0026; Company, Publishers, New York. Copyright, 1918, Speci
 </l></lg></div2>
 <div2 id="Eaton041a" type="poem" n="58">
 <head rend="center">RUNNER McGEE<lb/>
-(W<hi rend="smallcap">"HO</hi> H<hi rend="smallcap">AD</hi> "R<hi
-rend="smallcap">ETURN</hi> IF P<hi rend="smallcap">OSSIBLE</hi>" O<hi rend="smallcap">RDERS</hi>.)</head>
-<byline rend="center"><docAuthor>EDGAR A. GUEST</docAuthor></byline>
-<bibl>From Edgar A. Guest's book of war time rhymes, entitled "Over
-Here." Published and copyright, 1915, by The Reilly &#x0026; Britton Company, Chicago. Special permission to insert in this book.</bibl>
+(<hi rend="smallcap">Who Had "Return if Possible" Orders</hi>.)</head>
+<byline rend="center"><docAuthor>EDGAR A. GUEST</docAuthor><lb/>From Edgar A. Guest's book of war time rhymes, entitled "OverHere." Published and copyright, 1915, by The Reilly &#x0026; Britton Company, Chicago. Special permission to insert in this book.</byline>
 
 <lg>
 <l n="1">YOU'VE heard a good deal of the telephone wires,"</l>
@@ -1717,16 +1701,14 @@ Here." Published and copyright, 1915, by The Reilly &#x0026; Britton Company, Ch
 
 <div2 id="Eaton043" type="poem" n="Three Hills">
 <head rend="center">THREE TREES</head>
-<byline rend="center"><docAuthor>EVERARD OWEN</docAuthor></byline>
-<bibl>From Mr. Owen's book, "Three Hills and Other Poems." Sidwick
-&#x0026; Jackson, ltd., Publishers, London, England.  Special permission to inert in this book.</bibl>
+<byline rend="center"><docAuthor>EVERARD OWEN</docAuthor><lb/>From Mr. Owen's book, "Three Hills and Other Poems." Sidwick&#x0026; Jackson, ltd., Publishers, London, England.  Special permission to inert in this book.</byline>
 <lg>
 <l n="1">THERE is a hill in England</l>
 <l rend="indent">Green fields and a school I konw,</l>
 <l>Where the balls fly fast in summer,</l>
 <l rend="indent">And the whispering elm-trees grow,</l>
 <l rend="indent4">A little hill, a dear hill,</l>
-<l rend="indent">And the playing fields below.</l></lg><pn n="61"/>
+<l rend="indent">And the playing fields below.</l></lg><pb n="61"/>
 
 <lg>
 <l>There is a hill in Flanders,</l>
@@ -1744,7 +1726,7 @@ Here." Published and copyright, 1915, by The Reilly &#x0026; Britton Company, Ch
 <l rend="indent4">A little hill, a kind hill</l>
 <l rend="indent">To souls in jeopardy.</l></lg></div2>
 
-<div2 id="Eaton043a" type="poem" m="Mike Dillon, Doughboy">
+<div2 id="Eaton043a" type="poem" n="Mike Dillon, Doughboy">
 <head rend="center">MIKE DILLON, DOUGHBOY</head>
 <byline rend="center"><docAuthor>LIEUT. JOHN PIERRE ROCHE</docAuthor></byline>
 <bibl>From Lieutenant Roche's hook of poems, 'times in Olive Drab,"
@@ -1804,8 +1786,7 @@ Robert M. McBride &#x0026; Company, Publishers, New York. Copyright,
 
 <div2 id="Eaton044" type="poem" n="When The French Band Plays">
 <head rend="center">WHEN THE FRENCH BAND PLAYS</head>
-<byline rend="center"><docAuthor>ANONYMOUS</docAuthor></byline>
-<bibl rend="center"><hi rend="smallcap">The Stars And Stripes, A.E.F., France</hi></bibl>
+<byline rend="center"><docAuthor>ANONYMOUS</docAuthor><lb/><hi rend="smallcap">The Stars And Stripes, A.E.F., France</hi></byline>
 <lg>
 <l n="1">THERE'S a military band that plays, on Sunday afternoons,</l>
 <l rend="indent">In a certain nameless city's quaint old square.</l>
@@ -1839,8 +1820,7 @@ Robert M. McBride &#x0026; Company, Publishers, New York. Copyright,
 <div2 id="Eaton045" type="poem" n="The Old Gang On The Corner">
 <head rend="center">THE OLD GANG ON THE CORNER</head>
 <byline rend="center"><docAuthor>WILLIAM HERSCHELL</docAuthor><lb/>
-IN<hi rend="smallcap">Collier'S Weekly</hi></byline>
-<bibl rend="center">Permission to reproduce in this book</bibl>
+<hi rend="smallcap">INCollier'S Weekly</hi><lb/>Permission to reproduce in this book</byline>
 
 <lg>
 <l n="1">THE old gang on the Corner!  What an arrant tribe they were;</l>
@@ -1875,8 +1855,7 @@ IN<hi rend="smallcap">Collier'S Weekly</hi></byline>
 <div2 id="Eaton046" type="poem" n="The Battle-Line">
 <head rend="center">THE BATTLE-LINE</head>
 <byline rend="center"><docAuthor>J. B. DOLLARD</docAuthor><lb/>
-<hi rend="smallcap">IN The Globe, Toronto</hi></byline>
-<bibl rend="center">Permission to reproduce in this book</bibl>
+<hi rend="smallcap">IN The Globe, Toronto</hi><lb/>Permission to reproduce in this book</byline>
 
 <lg>
 <l n="1">ATHWART that land of bloss'ming vine </l>
@@ -1948,7 +1927,7 @@ IN<hi rend="smallcap">Collier'S Weekly</hi></byline>
 <div2 id="Eaton048" type="poem" n="The Drum">
 <head rend="center">THE DRUM</head>
 <byline rend="center"><docAuthor>JOSEPH LEE</docAuthor></byline>
-<epigraph>"Come to me, and I will give you flesh--Old Pibrochadh.</epigraph>
+<epigraph><q>"Come to me, and I will give you flesh--Old Pibrochadh.</q></epigraph>
 
 <lg>
 <l n="1">COME!</l>
@@ -2039,8 +2018,7 @@ IN<hi rend="smallcap">Collier'S Weekly</hi></byline>
 <div2 id="Eaton051" type="poem" n="To Somebody">
 <head rend="center">TO SOMEBODY</head>
 <byline rend="center"><docAuthor>HAROLD SETON</docAuthor><lb/>
-<hi rend="smallcap">In Munsey's Magazine</hi></byline>
-<bibl rend="center">Permission to reproduce in this book.</bibl>
+<hi rend="smallcap">In Munsey's Magazine</hi><lb/>Permission to reproduce in this book.</byline>
 
 <lg>
 <l n="1">THEY'VE put us through our paces; </l>
@@ -2289,8 +2267,7 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 <div2 id="Eaton058" type="poem" n="A Wayside In France">
 <head rend="center">A WAYSIDE IN FRANCE</head>
 <byline rend="center"><docAuthor>ADOLPHE E. SMYLIE</docAuthor><lb/> 
-<hi rend="smallcap">IN The New York Herald</hi></byline>
-<bibl rend="center">Permission to reproduce in this book</bibl>
+<hi rend="smallcap">IN The New York Herald</hi><lb/>Permission to reproduce in this book</byline>
 
 <lg>
 <l n="1">"COME shake hands, my little peach blossom. </l>
@@ -2482,8 +2459,7 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 <div2 id="Eaton063" type="poem" n="Columbia's Prayer">
 <head rend="center">COLUMBIA'S PRAYER</head>
 <byline rend="center"><docAuthor>THOMAS P. BASHAW</docAuthor> 
-<hi rend="smallcap">IN The Herald And Examiner, Chicago</hi></byline>
-<bibl rend="center">Permission to reproduce in this book</bibl>
+<hi rend="smallcap">IN The Herald And Examiner, Chicago</hi><lb/>Permission to reproduce in this book</byline>
 <lg>
 <l n="1">Boy in khaki, boy in blue,</l>
 <l>I am watching over you, </l>
@@ -2524,12 +2500,11 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 <div2 id="Eaton064" type="poem" n="Two Viewpoints">
 <head rend="center">TWO VIEWPOINTS</head>
 <byline rend="center"><docAuthor>AMELIA JOSEPHINE BURR</docAuthor><lb/>
-<hi rend="smallcap">OF The Vigilantes</hi></byline>
-<bibl rend="center">Permission to reproduce in this book.</bibl>
+<hi rend="smallcap">OF The Vigilantes</hi><lb/>Permission to reproduce in this book.</byline>
 
-<lg rend ="indent">
-<lg><l n="1"><head>A German soldier in his journal wrote:</head></l>
-<l>H E was a French Boy Scout--a little lad </l>
+<lg>
+<head>A German soldier in his journal wrote:</head>
+<lg rend ="indent"><l>H E was a French Boy Scout--a little lad </l>
 <l>No bigger than my Hansel. He refused </l>
 <l>To tell if any of his countrymen </l>
 <l>Were hidden thereabout. Fifty yards on </l>
@@ -2542,7 +2517,7 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 <l>Fool as he was. The pity...</l></lg>
 
 <lg>
-<l>Here there came</l>
+<l rend="center">Here there came</l>
 <l>A sudden shrapnel, and the writing stopped...</l></lg>
 
 <lg rend ="italic">
@@ -2852,7 +2827,7 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 <l>You are playing the game that is straight and true, </l>
 <l rend="indent7">Brother of mine,</l>
 <l>And I'd give my soul to stand next to you, </l>
-<l rend="indent7">Brother of mine.</l><ob n="92"/>
+<l rend="indent7">Brother of mine.</l><pb n="92"/>
 <l>The spirit, indeed is still the same;</l>
 <l>I would not shrink from the battle's flame, </l>
 <l>Yet here I stay--at the woman's game, </l>
@@ -2898,8 +2873,7 @@ COLLEGE, NAPERVILLE, ILL.</byline>
 <head rend="center">FRANCE</head>
 <byline rend="center"><docAuthor>CAPT. JOSEPH MEDILL PATTERSON</docAuthor><lb/>
 <hi rend="smallcap">IN The Chicago Tribune</hi><lb/>
-From the French of Armentier Ohanian </byline>
-<bibl rend="center">Permission to reproduce in this book</bibl>
+From the French of Armentier Ohanian <lb/>Permission to reproduce in this book</byline>
 
 <lg>
 <l n="1">I WAS an exile from my own country and wandered over the
@@ -2996,8 +2970,7 @@ then unknown to me, "Te Deumn" came from the throats of thousands of thousands.<
 
 <div2 id="Eaton077" type="poem" n="Australia's Men">
 <head rend="center">AUSTRALIA'S MEN</head>
-<byline rend="center"><docAuthor>DOROTHEA MACKELLAR</docAuthor></byline>
-<bibl>Miss Mackellar is the daughter of Sir Charles Mackellar Chairman New South Wales. Acknowledgment is due Dr. George Cooke--Adams, formerly an officer in the Australian naval forces, through whose courtesy her verses are presented here.</bibl>
+<byline rend="center"><docAuthor>DOROTHEA MACKELLAR</docAuthor><lb/>Miss Mackellar is the daughter of Sir Charles Mackellar Chairman New South Wales. Acknowledgment is due Dr. George Cooke--Adams, formerly an officer in the Australian naval forces, through whose courtesy her verses are presented here.</byline>
 <lg>
 <l n="1">THERE are some that go for love of a fight </l>
 <l rend="indent">And some for love of a land, </l>
@@ -3058,13 +3031,12 @@ then unknown to me, "Te Deumn" came from the throats of thousands of thousands.<
 <l rend="indent">To steam across von farm-land in the night;</l>
 <l>We'll take their blamed barbed wire in our stride,</l>
 <l rend="indent">And stamp a German trench line out of sight.
-</l></lg><ob n="98"/></div2>
+</l></lg><pb n="98"/></div2>
 
 <div2 id="Eaton079" type="poem" n="A Hymn Of Freedom">
 <head rend="center">A HYMN OF FREEDOM</head>
 <byline rend="center"><docAuthor>MARY PERRY KING</docAuthor><lb/>
-<hi rend="smallcap">IN Collier's Weekly </hi></byline>
-<bibl rend="center">Permission to reproduce in this book</bibl>
+<hi rend="smallcap">IN Collier's Weekly </hi><lb/>Permission to reproduce in this book</byline>
 
 <lg>
 <l n="1">UNFURL the flag of Freedom, </l>
@@ -3103,14 +3075,14 @@ then unknown to me, "Te Deumn" came from the throats of thousands of thousands.<
 <p>MORE than all the others put together the war poems of Alan Seeger, Lieutenant Colonel McCrae, and Lieut. Rupert Brooke, have touched and thrilled the heart of America. They are quiet, earnest, yet more powerful than trumpet blasts, for they rise triumphant from great depths, and as they sing, exalt.</p>
 <p>Most familiar is our own Alan Seeger's "I Have a Rendezvous with Death." He was studying in Paris when the war broke out. In the third week he enlisted in the Foreign Legion. Two arduous years later he was called on higher service. July 4, 1916, his squad was caught in an assault on the village of Belloy-en-Santerre, where the Germans received them with the fire of six machine guns. Seeger was severely wounded, but went forward with the others, and helped take the place. Next morning he died. He had kept the tryst.</p>
 <div3 id="Eaton081a" type="poem introduction" n="I Have A Rendezvous
-      With Death"><ptr target="Eaton081b"/>
+      With Death"><ab><ptr target="Eaton081b"/></ab>
 <p>Alan Seeger was a New York boy. He was born in that city June 22, 1888. In his short life he had written some twenty poems. This was his last. It was written in camp, shortly before his call came:</p>
 </div3>
-<div3 id="Eaton081b" type="poem" n="I Have A Rendezvous With Death"><ptr target="Eaton081a"/>
-<head rend="center">I HAVE A RENDEZVOUS WITH DEATH</head><ref
+<div3 id="Eaton081b" type="poem" n="I Have A Rendezvous With Death">
+<head rend="center">I HAVE A RENDEZVOUS WITH DEATH<ref
 target="Eaton081n1">*</ref><note id="Eaton081n1" place="foot" n="*">From
 "Poems," ny Alan Seeger/  Copyright, 1916, by Charles Scribner's
-Son's, Publishers, New York.  Permission to reproduce in this book.</note>
+Son's, Publishers, New York.  Permission to reproduce in this book.</note></head><ab><ptr target="Eaton081a"/></ab>
 <lg>
 <l n="1">I HAVE a rendezvous with Death </l>
 <l>At some disputed barricade </l>
@@ -3140,7 +3112,7 @@ Son's, Publishers, New York.  Permission to reproduce in this book.</note>
 <l>When Spring trips north again this year, </l>
 <l>And I to my pledged word am true. </l>
 <l>I shall not fail that rendezvous.</l></lg></div3>
-<div3 id="Eaton082a" type="poem introduction" n="In Flanders Fields"><ptr target="Eaton082b"/>
+<div3 id="Eaton082a" type="poem introduction" n="In Flanders Fields"><ab><ptr target="Eaton082b"/></ab>
 <p>
 Lieut. Col. John McCrae was a Canadian physician who served in the South African war as an artilleryman. He was on his way to Canada when the war began in 1914, and immediately upon landing he entered the Val Cartier training camp and was commissioned a Captain. Later he joined the McGill Hospital corps and went with it to France, where he rose to the rank of Lieutenant Colonel, and died in service, January 28, 1918.</p>
 <p>His poem, "In Flanders' Fields," was written on the Flanders front
@@ -3148,8 +3120,8 @@ in the Spring of 1915. Its inspiration is thus explained by Sergeant
 Charles F. Bisset, of the 19th Battlion, 1st Brigade, Canadian
 Infantry:</p><pb n="101"/>
 <p>"On the Flanders front in the early Spring of 1915, when the war had settled down to trench fighting, two of the most noticeable features of the field were, first, the luxuriant growth of red poppies appearing among the graves of the fallen soldiers, and second, that only one species of bird--the larks--remained on the field during the fighting. As soon as the cannonading ceased, they would rise in the air, singing."</p></div3>
-<div3 id="Eaton082b" type="poem" n="In Flanders' Fields"><ptr target="Eaton082a"/>
-<head rend="center">IN FLANDERS' FIELDS</head>
+<div3 id="Eaton082b" type="poem" n="In Flanders' Fields">
+<head rend="center">IN FLANDERS' FIELDS</head><ab><ptr target="Eaton082a"/></ab>
 <lg>
 <l n="1">IN Flanders' fields the poppies blow </l>
 <l>Between the crosses, row on row, </l>
@@ -3170,18 +3142,18 @@ Infantry:</p><pb n="101"/>
 <l>If ye break faith with us who die </l>
 <l>We shall not sleep, though poppies grow, </l>
 <l>In Flanders' fields.</l></lg></div3>
-<div3 id="Eaton083a" type="poem introduction" n="The Soldier"><ptr target="Eaton083b"/>
+<div3 id="Eaton083a" type="poem introduction" n="The Soldier"><ab><ptr target="Eaton083b"/></ab>
 <p>Rupert Brooke, a brilliant, impassioned young Englishman, was one
 of the first to take arms when Great Britain went to war. He died in
 the Dardanelles expe-<pb n="102"/>dition, April 23 , 1915.  A few days before, he had sent from the Aegean Sea to the English--speaking peoples the poem by which he is best known.</p></div3>
-<div3 id="Eaton083b" type="poem" n="The Soldier"><ptr
-target="Eaton083a"/>
+<div3 id="Eaton083b" type="poem" n="The Soldier">
 <docAuthor>Rupert Brooke</docAuthor>
 <head rend="center">THE SOLDIER<ref target="Eaton083n1">*</ref><note
 id="Eaton083n1" place ="foot" n="*"> "The Soldier," and "Not With Vain
 Tears" are from "The Collected Poems of Rupert Brooke," published and
 copyright, 1915, by John Lane Company, New York.  Special permission
-to reproduce in this book.</note></head>
+to reproduce in this book.</note></head><ab><ptr
+target="Eaton083a"/></ab>
 <lg>
 <l n="1">If I should die, think only this of me:</l>
 <l rend="indent">That there's some corner of a foreign field </l>
@@ -3197,12 +3169,12 @@ to reproduce in this book.</note></head>
 <l>Her sights and sounds; dreams happy as her day;</l>
 <l rend="indent">And laughter, learnt of friends; and gentleness,</l>
 <l rend="indent">In hearts at peace, under an English heaven.</l></lg></div3>
-<div3 id="Eaton084a" type="poem introduction" n="Not With Vain Tears"><ptr target="Eaton084b"/>
+<div3 id="Eaton084a" type="poem introduction" n="Not With Vain Tears"><ab><ptr target="Eaton084b"/></ab>
 <p>Lieutenant Brooke was a rare poet, having a serene faith, a knowledge of life as continuous. His bent of thought, the manner of his feeling, shine most clearly in this sonnet</p></div3>
-<div3 id="Eaton084b" type="poem" n="Not With Vain Tears"><ptr
-target="Eaton084b"/>
+<div3 id="Eaton084b" type="poem" n="Not With Vain Tears">
 <docAuthor>Rupert Brooke</docAuthor>
-<head rend="center">NOT WITH VAIN TEARS</head>
+<head rend="center">NOT WITH VAIN TEARS</head><ab><ptr
+target="Eaton084b"/></ab>
 <lg>
 <l n="1">NOT with vain tears, when we're beyond the sun, </l>
 <l>We'll beat on the substantial doors, nor tread </l>
@@ -3219,13 +3191,13 @@ target="Eaton084b"/>
 <l>And feel, who have laid our groping hands away;</l>
 <l rend="indent">And see, no longer blinded by our eyes.</l></lg></div3>
 <div3 id="Eaton085a" type="poem introduction" n="But A Short Time To
-      Live"><ptr target="Eaton085b"/>
+      Live"><ab><ptr target="Eaton085b"/></ab>
 <p>All of Rupert Brooke's work has been collected and issued, a rich though slender sheaf. The book is fervently commended to people whose own souls are in the key that responds to notes so spiritually fine and clear as those he sounds in all his lines.</p>
 <p>"But a Short Time to Live" was written by Serg't Leslie Coulson, whose "little hour" came to an end at Arras, in France, October 7, 1916:</p>
 </div3>
-<div3 id="Eaton085b" type="poem" n="But A Short Time To Live"><ptr target="Eaton085a"/>
+<div3 id="Eaton085b" type="poem" n="But A Short Time To Live">
 <docAuthor>Leslie Coulson</docAuthor>
-<head rend="center">BUT A SHORT TIME TO LIVE</head>
+<head rend="center">BUT A SHORT TIME TO LIVE</head><ab><ptr target="Eaton085a"/></ab>
 <lg>
 <l n="1">OUR little hour--how swift it flies--</l>
 <l rend="indent">When poppies flare and lilies smile;</l>
@@ -3235,7 +3207,7 @@ target="Eaton084b"/>
 <l rend="indent">To pick the fruit, to pluck the flower.</l>
 <l>The gods--they do not give us long</l>
 <l rend="indent">One little hour.</l>
-<l type="break" rend="*"/>
+<milestone unit="line" rend="*"/>
 <l>Our little hour--how soon it dies </l>
 <l rend="indent">How short a time to tell our beads,</l><pb n="104"/>
 <l>To chant our feeble litanies,</l>
@@ -3244,7 +3216,7 @@ target="Eaton084b"/>
 <l rend="indent">The bells hang silent in the tower--</l>
 <l>So passes with the dying hymn</l>
 <l rend="indent">Our little hour.</l></lg></div3>
-<div3 id="Eaton086a" type="poem introduction" n="The Lost Ones"><ptr target="Eaton086b"/> 
+<div3 id="Eaton086a" type="poem introduction" n="The Lost Ones"><ab><ptr target="Eaton086b"/></ab>
 <p>These songs, with others that have lilted so bravely, gravely,
 through the world's most bitter years of travail, will live long in
 literature, with many more as strong or as sweet. Had all the writers
@@ -3259,9 +3231,9 @@ something great if I am spared, but out here one may at any moment be
 hurled out of life." There is no doubt he would have done "something
 great," for here is a swan song not unworthy to bear his name to later
 times:</p> </div3>
-<div3 id="Eaton086b" type="poem" n="The Lost Ones"><ptr target="Eaton086a"/>
+<div3 id="Eaton086b" type="poem" n="The Lost Ones">
 <docAuthor>Francis Ledwidge</docAuthor>
-<head rend="center">THE LOST ONES</head>
+<head rend="center">THE LOST ONES</head><ab><ptr target="Eaton086a"/></ab>
 
 <lg>
 <l n="1">SOMEWHERE is music from the linnets' bills, </l>
@@ -3455,10 +3427,10 @@ times:</p> </div3>
 
 <div2 id="Eaton091" type="poem" n="Home">
 <head rend="center">HOME</head>
-<byline rend="center"><docAuthor>REGINALD WRIGHT KAUFFMAN</docAuthor></byline>
-<bibl>From Mr. Kauffman's book of poems, "Little Old Belgium."  Henry Altemus Company, Publishers, Philadelphia. Copyright, 1914. Reproduced in this book by special permission.</bibl>
+<byline rend="center"><docAuthor>REGINALD WRIGHT KAUFFMAN</docAuthor><lb/>
+From Mr. Kauffman's book of poems, "Little Old Belgium."  Henry Altemus Company, Publishers, Philadelphia. Copyright, 1914. Reproduced in this book by special permission.</byline>
 
-<epigraph>At a pillaged hamlet near Termonde, I asked a dying peasant woman into which of the houses still standing should assist her--which was her home? She pressed a withered hand to her bayonet-pierced side and answered: "The Germans have taken one home from me; but, without knowing it, they have given me another.  I am going there now."</epigraph>
+<epigraph><q>At a pillaged hamlet near Termonde, I asked a dying peasant woman into which of the houses still standing should assist her--which was her home? She pressed a withered hand to her bayonet-pierced side and answered: "The Germans have taken one home from me; but, without knowing it, they have given me another.  I am going there now."</q></epigraph>
 <lg>
 <l n="1">My house that I so soon shall own </l>
 <l rend="indent">Is builded in a silent place, </l>
@@ -3583,8 +3555,7 @@ World--</l><pb n="113"/>
 <div2 id="Eaton096" type="poem" n="The Spies Of Oxford">
 <head rend="center">THE SPIRES OF OXFORD<lb/>
 <hi rend="smallcap">(Seen From The Train)</hi></head>
-<byline rend="center"><docAuthor>WINIFRED M. LETTS</docAuthor></byline>
-<bibl>From "The Spires of Oxford and Other Poems," by Winifred M. Letts, copyright, 1917, by E. P. Dutton &#x0026; Company, New York.  Permission to reproduce in this book.</bibl>
+<byline rend="center"><docAuthor>WINIFRED M. LETTS</docAuthor><lb/>From "The Spires of Oxford and Other Poems," by Winifred M. Letts, copyright, 1917, by E. P. Dutton &#x0026; Company, New York.  Permission to reproduce in this book.</byline>
 <lg>
 <l n="1">I SAW the spires of Oxford </l>
 <l>As I was passing by, </l>
@@ -3677,8 +3648,7 @@ World--</l><pb n="113"/>
 <div2 id="Eaton098" type="poem" n="With The Same Pride">
 <head rend="center">WITH THE SAME PRIDE</head>
 <byline rend="center"><docAuthor>THEODOSIA GARRISON</docAuthor><lb/>
-<hi rend="smallcap">IN Everybody's Magazine</hi></byline>
-<bibl rend="center">Permission to reproduce in this book</bibl>
+<hi rend="smallcap">IN Everybody's Magazine</hi><lb/>Permission to reproduce in this book</byline>
 
 <lg>
 <l n="1">ONE star for all she had, </l>
@@ -3740,8 +3710,7 @@ World--</l><pb n="113"/>
 
 <div2 id="Eaton100" type="poem" n="The Lonely Garden">
 <head rend="center">THE LONELY GARDEN</head>
-<byline rend="center"><docAuthor>EDGAR A. GUEST</docAuthor></byline>
-<bibl>Copyright, 1918, by Edgar A. Guest. Special permission to reproduce in this book.</bibl>
+<byline rend="center"><docAuthor>EDGAR A. GUEST</docAuthor><lb/>Copyright, 1918, by Edgar A. Guest. Special permission to reproduce in this book.</byline>
 
 <lg>
 <l n="1">I WONDER what the trees will say,</l>
@@ -3849,10 +3818,11 @@ World--</l><pb n="113"/>
 <div2 id="Eaton103" type="essay" n="'Blighty' And 'Gone West'">
 <head rend="center">"BLIGHTY" AND "GONE WEST"</head>
 <p>BRITISH soldiers in France have developed a terminology that is plain to them, but confusing to civilians. They speak of "Blighty," for example, and of "Gone West." These two terms express hopes--Blighty meaning home; in common acceptance, home for rest and recuperation. "Gone West" means gone from the east with its conflict to the refuge of death, where peace waits in the glory of sunset.</p>
+<div3 id="Eaton103a" type="poem introduction" n="Blighty">
 <p>"Blighty" is of Hindu origin. British officers in South Africa who had served in India used the word, which is an Anglicized form of the Indian word "vilayti," meaning European. Englishmen being about the only Europeans the natives knew, its application narrowed down to England only; and the army fell into a way of using it as a synonym of home. When the troops from India came into action early in the war, their wounded were sent to the nearest English great hospital, at Brighton, just across the channel. The consonance of Brighton and vilayti or Blightv was so close that these men used their own word as a matter of course, and in this way it floated into general use.</p>
-<p>It has acquired a new sense of late. Casualties intermediate to those too severe for removal and those that can he treated in field hospitals, are sent to Englandt--to Blighty--and are themselves called Blightv, meaning Wounds that get a man home. Lieut. Siegfried Sassoon has woven the idea into a plaintively whimsical bit of verse which he calls</p>
+<p>It has acquired a new sense of late. Casualties intermediate to those too severe for removal and those that can he treated in field hospitals, are sent to Englandt--to Blighty--and are themselves called Blightv, meaning Wounds that get a man home. Lieut. Siegfried Sassoon has woven the idea into a plaintively whimsical bit of verse which he calls</p></div3>
 <div3 id="Eaton104" type="poem" n="Blighty">
-<head rend="center">BLIGHTY</head>
+<head rend="center">BLIGHTY</head><ab><ptr target="Eaton103a"/></ab>
 <lg>
 <l n="1">HE woke: the clank and racket of the train</l>
 <l>Kept time with angry throbbings in his brain, </l>
@@ -3881,16 +3851,16 @@ World--</l><pb n="113"/>
 <l>Trees, cows and hedges; skipping these he scanned, </l>
 <l>Large, friendly names that change net with the year, </l>
 <l>Lung Tonic, Mustard, Liver Pills and Beer.</l></lg></div3>
-
+<div3 id="eaton104b" type="poem introduction" n="Going West"><ab><ptr target="Eaton104a"/></ab>
 <p>Hugh Pendexter, in Adventure Magazine", says "going west," as used
 by the men overseas to mean death, is of peculiarly American origin. The Karok Indians of California believed the spirit of the good Karok went to the "happy western land." The Cherokee myths picture the west as the "ghost country," the twilight land where go the dead. The Shawnee tell of the boy who traveled west" to find his sister in the spirit land. The Chippewa believes the spirit "followed a wide, beaten path toward the west."  The spirit world of the Fox Indians<pb n="123"/> is at the setting of the sun. And so on, in the theology of many Indian nations we find the West as the storied abode of the great majority--who have passed over.</p>
 
 <p>The phrase traces hack to the Oedipus Tyrannus of Sophocles:
 <q rend ="center">Toward the Western shore<lb/>
 Soul after soul is known to take her flight.</q>
-Its later significance is tenderly sung by Eleanor Jewett in The Chicago Tribune</p>
+Its later significance is tenderly sung by Eleanor Jewett in The Chicago Tribune</p></div3>
 <div3 id="Eaton104a" type="poem" n="Going West">
-<head rend="center">GOING WEST</head>
+<head rend="center">GOING WEST</head><ab><ptr target="eaton104b"/></ab>
 <lg>
 <l n="1">WEST to the hills, the long, long trail that strikes </l>
 <l>Straight and away into the sunset's glow, </l>
@@ -3922,8 +3892,7 @@ Its later significance is tenderly sung by Eleanor Jewett in The Chicago Tribune
 <div2 id="Eaton106" type="poem" n="On His Own">
 <head rend="center">ON HIS OWN</head>
 <byline rend="center"><docAuthor>ADOLPHE E. SMYLIE</docAuthor><lb/>
-<hi rend="smallcap">OF The Vigilantes</hi></byline>
-<bibl rend="center">Permission to reproduce in this book</bibl>
+<hi rend="smallcap">OF The Vigilantes</hi><lb/>Permission to reproduce in this book</byline>
 <lg>
 <l n="1">"You see that young kid lying there </l>
 <l>Playing a game of solitaire? </l>
@@ -3988,8 +3957,7 @@ Its later significance is tenderly sung by Eleanor Jewett in The Chicago Tribune
 <div2 id="Eaton107" type="poem" n="They Shall Not Pass">
 <head rend="center">THEY SHALL NOT PASS</head>
 <byline rend="center"><docAuthor>ALISON BROWN</docAuthor><lb/>
-<hi rend="smallcap">OF The Vigilantes</hi></byline>
-<bibl rend="center">Permission to reproduce in this book</bibl>
+<hi rend="smallcap">OF The Vigilantes</hi><lb/>Permission to reproduce in this book</byline>
 
 <lg>
 <l n="1">THEY shall not pass, </l>
@@ -4001,7 +3969,7 @@ Its later significance is tenderly sung by Eleanor Jewett in The Chicago Tribune
 <lg>
 <l>They shall not pass--</l>
 <l>France knows no defeat, </l>
-<l rend="indent">Nor hesitates to nobly pay the price.</l><ob n="126"/>
+<l rend="indent">Nor hesitates to nobly pay the price.</l><pb n="126"/>
 <l>They shall not pass </l>
 <l>Till brave hearts cease to beat, </l>
 <l rend="indent">And none shall stand to fall in sacrifice.</l></lg>
@@ -4017,11 +3985,11 @@ Its later significance is tenderly sung by Eleanor Jewett in The Chicago Tribune
 
 <div2 id="Eaton107a" type="poem" n="Ships That Sail In The Night">
 <head rend="center">SHIPS THAT SAIL IN THE NIGHT</head>
-<byline rend="center"><docAuthor>DYSART McMULLEN</docAuthor>
-<hi rend="smallcap">IN Munsey's Magazine</hi></byline>
-<bibl rend="center">Permission to reproduce in this book</bibl>
+<byline rend="center"><docAuthor>DYSART McMULLEN</docAuthor><lb/>
+<hi rend="smallcap">IN Munsey's Magazine</hi><lb/>
+Permission to reproduce in this book</byline>
 
-<epigraph>"Not a light visible.  Not a man above the deck."-From a correspondent's description.</epigraph>
+<epigraph><q>"Not a light visible.  Not a man above the deck."-From a correspondent's description.</q></epigraph>
 
 <lg>
 <l n="1">HAIL and farewell,</l>
@@ -4234,8 +4202,7 @@ doom.</l></lg><pb n="130"/>
 <div2 id="Eaton112" type="poem" n="Somewhere In France, 1918">
 <head rend="center">SOMEWHERE IN FRANCE, 1918</head>
 <byline rend="center">ALMON HENSLEY<lb/>
-<hi rend="smallcap">Everybody's Magazine</hi></byline>
-<bibl rend="center">Permission to reproduce in this book</bibl>
+<hi rend="smallcap">Everybody's Magazine</hi><lb/>Permission to reproduce in this book</byline>
 
 <lg>
 <l n="1">LEAVE me alone here, proudly, with my dead, </l>
@@ -4298,8 +4265,7 @@ doom.</l></lg><pb n="130"/>
 
 <div2 id="Eaton114" type="poem" n="The Songs Of The Guns">
 <head rend="center">THE SONG OF THE GUNS</head>
-<byline rend="center"><docAuthor>HERBERT KAUFMAN</docAuthor></byline>
-<bibl>From Mr. Kaufman's book of poems, "The Hell Gate of Soissons." T. Fisher Unwin, Publishers (all rights reserved), London, England, Special permission to reproduce in this book.</bibl>
+<byline rend="center"><docAuthor>HERBERT KAUFMAN</docAuthor><lb/>From Mr. Kaufman's book of poems, "The Hell Gate of Soissons." T. Fisher Unwin, Publishers (all rights reserved), London, England, Special permission to reproduce in this book.</byline>
 <lg>
 <l n="1">HEAR the guns, hear the guns!</l>
 <l>High above the splutter-sputter </l>
@@ -4401,8 +4367,7 @@ coats</l><pb n="137"/>
 <div2 id="Eaton116" type="poem" n="The Retinue">
 <head rend="center">THE RETINUE</head>
 <byline rend="center"><docAuthor>KATHARINE LEE BATES</docAuthor><lb/>
-<hi rend="smallcap">IN The Atlantic Monthly</hi></byline>
-<bibl rend="center">Permission to reproduce in this book</bibl>
+<hi rend="smallcap">IN The Atlantic Monthly</hi><lb/>Permission to reproduce in this book</byline>
 
 <lg>
 <l n="1">ARCHDUKE FRANCIS FERDINAND, Austrian heir-apparent,</l>
@@ -4442,8 +4407,7 @@ alliance.</l></lg><pb n="138"/>
 </l></lg><pb n="139"/></div2>
 <div2 id="Eaton117" type="poem" n="Vive La France">
 <head rend="center">VIVE LA FRANCE!</head>
-<byline rend="center"><docAuthor>CHARLOTTE HOLMES CRAWFORD</docAuthor></byline>
-<bibl>>By permission: From Scribner's Magazine, copyright, 1916, by Charles Scribner's Sons.</bibl>
+<byline rend="center"><docAuthor>CHARLOTTE HOLMES CRAWFORD</docAuthor><lb/>>By permission: From Scribner's Magazine, copyright, 1916, by Charles Scribner's Sons.</byline>
 <lg>
 <l n="1">FRANCELINE rose in the dawning gray,</l>
 <l>And her heart would dance though she knelt to pray, </l>
@@ -4564,8 +4528,7 @@ alliance.</l></lg><pb n="138"/>
 <div2 id="Eaton119" type="poem" n="In The Front-line Desks">
 <head rend="center">IN THE FRONT-LINE DESKS</head>
 <byline rend="center"><docAuthor>LIEUT. ELMER FRANKLIN POWELL</docAuthor><lb/>
-<hi rend="smallcap">IN Adventure Magazine</hi></byline>
-<bibl rend="center">Permission to reproduce in this book</bibl>
+<hi rend="smallcap">IN Adventure Magazine</hi><lb/>Permission to reproduce in this book</byline>
 
 <lg>
 <l n="1">I TRIED to be a doughboy, but they said my feet were flat</l>
@@ -4671,8 +4634,7 @@ published and copyright, 1914, by The Macmillan Company, New York.  Special perm
 
 <div2 id="Eaton122" type="poem" n="Jean Desprez">
 <head rend="center">JEAN DESPREZ</head>
-<byline rend="center"><docAuthor>ROBERT W. SERVICE</docAuthor></byline>
-<bibl>From "Rhymes of a Red Cross Man," by Robert W. Service, published and copyright, 1916, by Barse &#x0026; Hopkins, New York. Special permission to reproduce in this book.</bibl>
+<byline rend="center"><docAuthor>ROBERT W. SERVICE</docAuthor><lb/>From "Rhymes of a Red Cross Man," by Robert W. Service, published and copyright, 1916, by Barse &#x0026; Hopkins, New York. Special permission to reproduce in this book.</byline>
 <lg>
 <l n="1">OH ye whose hearts are resonant, and ring to W'ar's romance,</l>
 <l>Hear ye the story of a boy, a peasant boy of France;</l>
@@ -4894,8 +4856,7 @@ Prussian Major dead!</hi></l></lg><pb n="151"/></div2>
 <div2 id="Eaton126" type="poem" n="The Service Flag">
 <head rend="center">THE SERVICE FLAG</head>
 <byline rend="center"><docAuthor>WILLIAM HERSCHELL</docAuthor><lb/>
-<hi rend="smallcap">IN The Indianapolis News</hi></byline>
-<bibl rend="center">Permission to reproduce in this hook</bibl>
+<hi rend="smallcap">IN The Indianapolis News</hi><lb/>Permission to reproduce in this hook</byline>
 
 <lg>
 <l n="1">DEAR little flag in the window there, </l>
@@ -4979,8 +4940,7 @@ Prussian Major dead!</hi></l></lg><pb n="151"/></div2>
 <div2 id="Eaton128" type="poem" n="Somewhere In France">
 <head rend="center">SOMEWHERE IN FRANCE</head>
 <byline rend="center"><docAuthor>LE ROY C. HENDERSON</docAuthor><lb/>
-<hi rend="smallcap">IN Cartoons Magazine</hi></byline>
-<bibl rend="center">Permission to reproduce in this book</bibl>
+<hi rend="smallcap">IN Cartoons Magazine</hi><lb/>Permission to reproduce in this book</byline>
 
 <lg>
 <l n="1">SHE stands alone beside the gate, </l>
@@ -5075,8 +5035,7 @@ hearts are touching."</l></lg></div2><pb n="160"/>
 <div2 id="Eaton131" type="poem" n="Men Of Heart And Mire">
 <head rend="center">MEN OF THE BLOOD AND MIRE</head>
 <byline rend="center"><docAuthor>DANIEL M. HENDERSON</docAuthor><lb/>
-<hi rend="smallcap">IN Everybody's Magazine</hi></byline>
-<bibl rend="center">Permission to reproduce in this book</bibl>
+<hi rend="smallcap">IN Everybody's Magazine</hi><lb/>Permission to reproduce in this book</byline>
 
 <lg>
 <l n="1">WE whom the draft rejected;</l>
@@ -5178,8 +5137,7 @@ hearts are touching."</l></lg></div2><pb n="160"/>
 <div2 id="Eaton134" type="poem" n="Song Of The Winds">
 <head rend="center">SONG OF THE WINDS</head>
 <byline rend="center"><docAuthor>MARY LANIER MAGRUDER</docAuthor><lb/>
-<hi rend="smallcap">IN The Saturday Evening Post</hi></byline>
-<bibl rend="center">Permission to reproduce in this book</bibl>
+<hi rend="smallcap">IN The Saturday Evening Post</hi><lb/>Permission to reproduce in this book</byline>
 
 <lg>
 <l n="1">SONG of the west wind whispering--listen </l>
@@ -5288,8 +5246,7 @@ hearts are touching."</l></lg></div2><pb n="160"/>
 <div2 id="Eaton136" type="poem" n="The Man Behind">
 <head rend="center">THE MAN BEHIND</head>
 <byline rend="center"><docAuthor>DOUGLAS MALLOCH</docAuthor><lb/>
-<hi rend="smallcap">IN The American Lumberman</hi></byline>
-<bibl rend="center">Permission to reproduce in this book</bibl>
+<hi rend="smallcap">IN The American Lumberman</hi><lb/>Permission to reproduce in this book</byline>
 
 <lg>
 <l n="1">THE band is on the quarter-deck, the starry flag unfurled;</l>
@@ -5398,8 +5355,8 @@ to the long, thin lines on either side. Here will we prove our right to life and
 <l>Over the clay-brown path,</l>
 <l rend="indent">All through the grass-lands,</l>
 <l>Glory of meadow flowers,</l>
-<l rend="indent">Over! Come over!</l></lg>>
-<l type ="break" n="."/>
+<l rend="indent">Over! Come over!</l></lg>
+<milestone unit="stanza" rend="."/>
 
 <lg>
 <l>On to the highway winding o'er the hill,</l>
@@ -5428,11 +5385,10 @@ to the long, thin lines on either side. Here will we prove our right to life and
 <l>All through the meadow flowers;</l>
 <l rend="indent">Over! Come over!</l></lg></div2>
 
-<div2 id="Eaton140" tpye="poem" n="There Will Be Dreams Again">
+<div2 id="Eaton140" type="poem" n="There Will Be Dreams Again">
 <head rend="center">THERE WILL BE DREAMS AGAIN</head>
 <byline rend="center"><docAuthor>MABEL HILLYER EASTMAN</docAuthor><lb/>
- In<hi rend="smallcap">Munsey's Magazine</hi></byline>
-<bibl rend="center">Permission to reproduce in this book</bibl>
+ In<hi rend="smallcap">Munsey's Magazine</hi><lb/>Permission to reproduce in this book</byline>
 <lg>
 <l>THERE will be dreams again! The grass will spread </l>
 <l rend="indent">Her velvet verdure over earth's torn breast;</l>
@@ -5459,8 +5415,7 @@ to the long, thin lines on either side. Here will we prove our right to life and
 <div2 id="Eaton141" type="poem" n="The Boy Next Door">
 <head rend="center">THE BOY NEXT DOOR</head>
 <byline rend="center"><docAuthor>S. E. KISER</docAuthor><lb/>
-<hi rend="smallcap">IN The Saturday Evening Post</hi></byline>
-<bibl rend="center">Permission to reproduce in this book</bibl>
+<hi rend="smallcap">IN The Saturday Evening Post</hi><lb/>Permission to reproduce in this book</byline>
 
 <lg>
 <l n="1">THERE used to be a boy next door</l>
@@ -5549,7 +5504,7 @@ to the long, thin lines on either side. Here will we prove our right to life and
 <byline rend="center"><docAuthor>LIEUT. L FLEMING, B. E. F., FRANCE</docAuthor></byline>
 <note>Shortly after the verses here following were received from France by the American Red Star Animal Relief, Lieutenant Fleming fell in action. His voice, coming to us as from a plane of life where dumb creatures do not suffer, is a call to civilization to do its duty by the animals whose kind were silent heroes of the war.</note>
 <lg>
-<l m="1">WHEN the shells are bursting round, </l>
+<l n="1">WHEN the shells are bursting round, </l>
 <l>Making craters in the ground,</l>
 <l>And the rifle fire's something awful cruel, </l>
 <l>When you 'ear them in the night</l>
@@ -5686,9 +5641,7 @@ Devil!</l></lg><pb n="178"/>
 
 <div2 id="Eaton146" type="poem" n="Edith Cavell">
 <head rend="center">EDITH CAVELL</head>
-<byline rend="center"><docAuthor>MCLANDBURGH WILSON</docAuthor></byline>
-<bibl>From Miss Wilson's book entitled "The Little Flag On Main
-Street," published and copyright, 1917, by The Macmillan Company, New York. Special permission to insert in this book.</bibl>
+<byline rend="center"><docAuthor>MCLANDBURGH WILSON</docAuthor><lb/>From Miss Wilson's book entitled "The Little Flag On MainStreet," published and copyright, 1917, by The Macmillan Company, New York. Special permission to insert in this book.</byline>
 <lg>
 <l n="1">ON law and love and mercy </l>
 <l> Was laid the German curse </l>
@@ -5783,8 +5736,7 @@ Street," published and copyright, 1917, by The Macmillan Company, New York. Spec
 <div2 id="Eaton150" type="poem" n="Vision">
 <head rend="center">VISION</head>
 <byline rend="center"><docAuthor>DOROTHY PAUL</docAuthor><lb/>
-<hi rend="smallcap">IN The Saturday Evening Post</hi></byline>
-<bibl rend="center">Permission to reproduce in this book</bibl>
+<hi rend="smallcap">IN The Saturday Evening Post</hi><lb/>Permission to reproduce in this book</byline>
 
 <lg>
 <l n="1">ABOVE the broken walls the apple boughs</l>
@@ -5876,7 +5828,7 @@ Street," published and copyright, 1917, by The Macmillan Company, New York. Spec
 <l>Lovers watching the phosphorescent waves, </l>
 <l>Now gaping guns, a whistling shell; and after </l>
 <l>So mans wandering graves.
-</l></lg><PB N="184"/></div2>
+</l></lg><pb n="184"/></div2>
 
 <div2 id="Eaton153" type="poem" n="There Are Crocuses At Nottingham">
 <head rend="center">THERE ARE CROCUSES AT NOTTINGHAM</head>
@@ -6018,8 +5970,7 @@ Flanders, spring of 1917. Authorship unknown.</byline>
 <div2 id="Eaton156" type="poem" n="Mules">
 <head rend="center">MULES</head>
 <byline rend="center"><docAuthor>C. FOX SMITH</docAuthor><lb/>
-<hi rend="smallcap">IN London Punch</hi></byline>
-<bibl rend="center">Reproduced by special permission of the Proprietors of "Punch"</bibl>
+<hi rend="smallcap">IN London Punch</hi><lb/>Reproduced by special permission of the Proprietors of "Punch"</byline>
 
 <lg>
 <l n="1">I NEVER would 'ave done it if I'd known what it would be.</l>
@@ -6102,9 +6053,7 @@ mule.</l></lg><pb n="189"/></div2>
 
 <div2 id="Eaton158" type="poem" n="A Song Of The Air">
 <head rend="center">A SONG OF THE AIR</head>
-<byline rend="center"><docAuthor>>GORDON ALCHIN</docAuthor></byline>
-<bibl>From "Oxford and Flanders." B.H, Blackwell, Publishers, Oxford,
-England.  Special permission to reproduce in this book.</bibl>
+<byline rend="center"><docAuthor>>GORDON ALCHIN</docAuthor><lb/>From "Oxford and Flanders." B.H, Blackwell, Publishers, Oxford,England.  Special permission to reproduce in this book.</byline>
 <lg>
 <l n="1">THIS is the song of the Plane--</l>
 <l>The creaking, shrieking plane, </l>
@@ -6145,8 +6094,7 @@ England.  Special permission to reproduce in this book.</bibl>
 <div2 id="Eaton159" type="poem" n="Victory!">
 <head rend="center">VICTORY!</head>
 <byline rend="center"><docAuthor>S. J. DUNCAN-CLARK</docAuthor><lb/>
-<hi rend="smallcap">IN The Chicago Evening Post, November</hi> 11, 1918</byline>
-<bibl rend="center">Permission to reproduce in this book</bibl>
+<hi rend="smallcap">IN The Chicago Evening Post, November</hi> 11, 1918<lb/>Permission to reproduce in this book</byline>
 
 <lg>
 <l n="1">OUT of the night it leaped the seas--</l>
@@ -6291,8 +6239,7 @@ then,</l></lg><pb n="194"/>
 <div2 id="Eaton162" type="poem" n="Our Soldier Dead">
 <head rend="center">OUR SOLDIER DEAD</head>
 <byline rend="center"><docAuthor>ANNETTE KOHN</docAuthor><lb/>
-<hi rend="smallcap">IN The New York Times</hi></byline>
-<bibl rend="center">Permission to reproduce in this book</bibl>
+<hi rend="smallcap">IN The New York Times</hi><lb/>Permission to reproduce in this book</byline>
 
 <lg>
 <l n="1">"IN Flanders fields, where poppies blow," </l>
@@ -6346,8 +6293,7 @@ Three thousand miles of cheerless space </l>
 <div2 id="Eaton163" type="poem" n="Let There be Light!">
 <head rend="center">LET THERE BE LIGHT!</head>
 <byline rend="center"><docAuthor>RUTH WRIGHT KAUFFMAN</docAuthor><lb/>
-<hi rend="smallcap">IN The Red Cross Magazine</hi></byline>
-<bibl rend="center">Permission to reproduce in this book</bibl>
+<hi rend="smallcap">IN The Red Cross Magazine</hi><lb/>Permission to reproduce in this book</byline>
 
 <lg>
 <l n="1">B LACK with the blackness of hell and despair </l>
@@ -6457,8 +6403,7 @@ Three thousand miles of cheerless space </l>
 <div2 id="Eaton166" type="poem" n="Old Jim">
 <head rend="center">OLD JIM</head>
 <byline rend="center"><docAuthor>NORMAN SHANNON HALL</docAuthor><lb/>
-<hi rend="smallcap">IN The Stars And Stripes</hi></byline>
-<bibl rend="center">Permission to reproduce in this book</bibl>
+<hi rend="smallcap">IN The Stars And Stripes</hi><lb/>Permission to reproduce in this book</byline>
 
 <lg>
 <l n="1">OUT in that vague, vast "somewhere" of The Line </l>
@@ -6506,8 +6451,7 @@ Three thousand miles of cheerless space </l>
 <head rend="center">THE UNKNOWN SOLDIER<lb/>
 ARMISTICE DAY AT ARLINGTON</head>
 <byline rend="center"><docAuthor>GRANTLAND RICE</docAuthor><lb/> 
-<hi rend="smallcap">IN The New York Tribune</hi></byline>
-<bibl rend="center">Permission to reproduce in this book</bibl>
+<hi rend="smallcap">IN The New York Tribune</hi><lb/>Permission to reproduce in this book</byline>
 
 <lg>
 <l n="1">THE wind to-day is full of ghosts with ghostly bugles blowing,</l>
@@ -6565,8 +6509,7 @@ ages, </l>
 <div2 id="Eaton168" type="poem" n="Epitaph For The Unknown Soldier">
 <head rend="center">EPITAPH FOR THE UNKNOWN SOLDIER</head>
 <byline rend="center"><docAuthor>ANNETTE KOHN</docAuthor><lb/>
-<hi rend="smallcap">IN The Washington Star</hi></byline>
-<bibl rend="center">Permission to reproduce in this book</bibl>
+<hi rend="smallcap">IN The Washington Star</hi><lb/>Permission to reproduce in this book</byline>
 
 <lg>
 <l n="1">WITHIN this nation-hallowed tomb </l>

@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
+<text>
+
 <front>
 <pb n="ii"/>
 
@@ -23,7 +24,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 </div1>
 
 <pb n="v"/>
-<div1 id="lane003" type="chapter" n="Introduction">
+<div1 id="lane004" type="chapter" n="Introduction">
 <head rend="center">INTRODUCTION</head>
 
 <p>I<hi rend="smallcaps">n</hi> the stress of a nation's peril some of its greatest songs are born. In the stress of a nation's peril the poet at last comes into his own again, and with clarion call he rouses the sleeping soul of the empire. Prophet he is, champion and consoler.</p>
@@ -47,7 +48,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="vii"/>
-<div1 id="lane004" type="chapter" n="Publisher's Note">
+<div1 id="lane005" type="chapter" n="Publisher's Note">
 <head rend="center">PUBLISHER'S NOTE</head>
 
 <p>O<hi rend="smallcaps">f</hi> our poets who have been inspired to write and publish separate volumes of war poems during the actual progress of a campaign, we can only recall one -- the late Sydney Dobell, whose "Sonnets on the War," and "England in Time of War," both dealt with the Crimea. Mr. William Watson's "The Purple East" was read and quoted the world over during the Armenian atrocities: indeed, "Abdul the Damned" has passed into the language. Although this famous sonnet sequence sprang out of events which could not be called a campaign in the accepted and legitimate sense of the word, yet it may be fairly argued that the Kaiser has surpassed the Turk in inflicting suffering on defenceless people.</p>
@@ -58,7 +59,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 <p>Viscount Dillon sends me the following, taken from <hi rend="italic">La France du Nord</hi> of August 23. These lines, by a poetic ally, who remains anonymous, are as correct in feeling as they are ingenious in adapting themselves to the rhythm of our own National Anthem.</p>
 
 <pb n="ix"/>
-<div2 id="lane005" type="poem" n="Welcome to You, Gallant Britons">
+<div2 id="lane006" type="poem" n="Welcome to You, Gallant Britons">
 <head rend="center">WELCOME TO YOU, GALLANT BRITONS</head>
 
 <lg type="stanza">
@@ -93,7 +94,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 <pb n="x"/>
 <p>I have also been favoured with another poem which has an added interest from the fact that the writer has for many years been well acquainted with German politics and German statesmen.</p>
 
-<div2 id="lane006" type="poem" n="A Partnership">
+<div2 id="lane007" type="poem" n="A Partnership">
 <head rend="center">A PARTNERSHIP</head>
 
 <lg type="stanza">
@@ -146,10 +147,10 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 <body>
 
-<div1 id="lane007" type="anthology" n="Songs &amp; Sonnets For England in War Time">
+<div1 id="lane008" type="anthology" n="Songs &amp; Sonnets For England in War Time">
 
 <pb n="1"/>
-<div2 id="lane008" type="poem" n="To the Troubler of the World">
+<div2 id="lane009" type="poem" n="To the Troubler of the World">
 <head rend="center">TO THE TROUBLER OF THE WORLD</head>
 
 <lg type="stanza">
@@ -175,7 +176,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="2"/>
-<div2 id="lane009" type="poem" n="To Britian">
+<div2 id="lane010" type="poem" n="To Britian">
 <head rend="center">TO BRITAIN</head>
 <head rend="center">(BEFORE HER DECLARATION OF WAR)</head>
 
@@ -197,7 +198,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="3"/>
-<div2 id="lane010" type="poem" n="Armageddon">
+<div2 id="lane011" type="poem" n="Armageddon">
 <head rend="center">ARMAGEDDON</head>
 
 <lg type="stanza">
@@ -223,7 +224,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="4"/>
-<div2 id="lane011" type="poem" n="A Prayer for Peace">
+<div2 id="lane012" type="poem" n="A Prayer for Peace">
 <head rend="center">A PRAYER FOR PEACE</head>
 
 <lg type="stanza">
@@ -251,7 +252,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="5"/>
-<div2 id="lane012" type="poem" n="The Song of the Britons">
+<div2 id="lane013" type="poem" n="The Song of the Britons">
 <head rend="center">THE SONG OF THE BRITONS</head>
 
 <lg type="stanza">
@@ -295,15 +296,17 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="7"/>
-<xptr doc="Clarke.xml" from="clarke015"/>
+<div2 id="lane014" type="poem" n="The Vigil">
+<xptr doc="Clarke.xml" from="clarke019"/>
 <pb n="8"/>
 <bibl>
 <publisher>Times</publisher>, <date value="">August 5, 1914</date>
 </bibl> 
+</div2>
 
 
 <pb n="9"/>
-<div2 id="lane013" type="poem" n="War">
+<div2 id="lane015" type="poem" n="War">
 <head rend="center">WAR</head>
 
 <lg type="stanza">
@@ -336,7 +339,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="10"/>
-<div2 id="lane014" type="poem" n="Hymn After Battle">
+<div2 id="lane016" type="poem" n="Hymn After Battle">
 <head rend="center">HYMN AFTER BATTLE</head>
 <note>[The Kaiser has been thanking God for his successes; and whilst the Christian nations of Europe are engaged in murdering each other, the heathen, whom they have failed to convert, remain so ignorant of the gospel that they are still living together in peace.]</note>
 
@@ -399,7 +402,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="13"/>
-<div2 id="lane015" type="poem" n="Britannia">
+<div2 id="lane017" type="poem" n="Britannia">
 <head rend="center">BRITANNIA</head>
 
 <lg type="stanza">
@@ -440,7 +443,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="15"/>
-<div2 id="lane016" type="poem" n="The Answer">
+<div2 id="lane018" type="poem" n="The Answer">
 <head rend="center">THE ANSWER</head>
 <note>["...It would be a disgrace for us to make this bargain with Germany at the expense of France, a disgrace from which the good name of this country would never recover." -- S<hi rend="smallcaps">ir</hi> E<hi rend="smallcaps">dward</hi> G<hi rend="smallcaps">rey</hi> to S<hi rend="smallcaps">ir</hi> E. G<hi rend="smallcaps">oschen</hi>.]</note>
 
@@ -507,19 +510,23 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="18"/>
-<xptr doc="Clarke.xml" from="clarke049"/>
+<div2 id="lane019" type="poem" n="The Kaiser and Belgium">
+<xptr doc="Clarke.xml" from="clarke053"/>
 <bibl>
 <publisher>Daily Chronicle</publisher>, <date value="August 8, 1914">August 8, 1914</date></bibl>
+</div2>
 
 
 <pb n="19"/>
-<xptr doc="Clarke.xml" from="clarke045"/>
+<div2 id="lane020" type="poem" n="Canada to England">
+<xptr doc="Clarke.xml" from="clarke049"/>
 <bibl>
 <publisher>Times</publisher>, <date value="August 10, 1914">August 10, 1914</date></bibl>
+</div2>
 
 
 <pb n="20"/>
-<div2 id="lane017" type="poem" n="To 'Little' Belgium">
+<div2 id="lane021" type="poem" n="To 'Little' Belgium">
 <head rend="center">TO "LITTLE" BELGIUM</head>
 
 <lg type="stanza">
@@ -569,7 +576,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="22"/>
-<div2 id="lane018" type="poem" n="The Tribute">
+<div2 id="lane022" type="poem" n="The Tribute">
 <head rend="center">THE TRIBUTE</head>
 
 <lg type="stanza">
@@ -609,7 +616,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="24"/>
-<div2 id="lane019" type="poem" n="In the Red Dawn">
+<div2 id="lane023" type="poem" n="In the Red Dawn">
 <head rend="center">IN THE RED DAWN</head>
 
 <lg type="stanza">
@@ -651,14 +658,16 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="26"/>
-<xptr doc="Clarke.xml" from="clarke018"/>
+<div2 id="lane024" type="poem" n="Pro Patria">
+<xptr doc="Clarke.xml" from="clarke022"/>
 <pb n="27"/>
 <bibl>
 <publisher>Punch</publisher>, <date value="August 12, 1914">August 12, 1914</date></bibl>
+</div2>
 
 
 <pb n="28"/>
-<div2 id="lane020" type="poem" n="The War Cry">
+<div2 id="lane025" type="poem" n="The War Cry">
 <head rend="center">THE WAR CRY</head>
 
 <lg type="stanza">
@@ -719,21 +728,25 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="31"/>
-<xptr doc="Clarke.xml" from="clarke021"/>
+<div2 id="lane026" type="poem" n="France">
+<xptr doc="Clarke.xml" from="clarke025"/>
 <pb n="32"/>
 <bibl>
 <publisher>New Witness</publisher>, <date value="August 13, 1914">August 13, 1914</date></bibl>
+</div2>
 
 
 <pb n="33"/>
-<xptr doc="Clarke.xml" from="clarke026"/>
+<div2 id="lane027" type="poem" n="To France">
+<xptr doc="Clarke.xml" from="clarke030"/>
 <pb n="34"/>
 <bibl>
 <publisher>Westminster Gazette</publisher>, <date value="August 13, 1914">August 13, 1914</date></bibl>
+</div2>
 
 
 <pb n="35"/>
-<div2 id="lane021" type="poem" n="The Hush">
+<div2 id="lane028" type="poem" n="The Hush">
 <head rend="center">THE HUSH</head>
 
 <lg type="stanza">
@@ -758,7 +771,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="36"/>
-<div2 id="lane022" type="poem" n="Alliterativism">
+<div2 id="lane029" type="poem" n="Alliterativism">
 <head rend="center">ALLITERATIVISM</head>
 <head rend="center">(THE LATEST SCHOOL)</head>
 <note>[French airmen have been flying over Baden and Bavaria, violating Belgian neutrality. -- Stated, on German authority, in "Westminster Gazette."]</note>
@@ -802,7 +815,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="38"/>
-<div2 id="lane023" type="poem" n="To the Aggressor">
+<div2 id="lane030" type="poem" n="To the Aggressor">
 <head rend="center">TO THE AGGRESSOR</head>
 
 <lg type="stanza">
@@ -827,7 +840,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="39"/>
-<div2 id="lane024" type="poem" n="Evening Prayer of a People">
+<div2 id="lane031" type="poem" n="Evening Prayer of a People">
 <head rend="center">EVENING PRAYER OF A PEOPLE</head>
 <head rend="center">SUNDAY, AUGUST 9, 1914</head>
 
@@ -874,7 +887,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="41"/>
-<div2 id="lane025" type="poem" n="The Man Forsworn">
+<div2 id="lane032" type="poem" n="The Man Forsworn">
 <head rend="center">THE MAN FORSWORN</head>
 
 <lg type="stanza">
@@ -990,7 +1003,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="45"/>
-<div2 id="lane026" type="poem" n="To the King of the Belgians">
+<div2 id="lane033" type="poem" n="To the King of the Belgians">
 <head rend="center">TO THE KING OF THE BELGIANS</head>
 
 <lg type="stanza">
@@ -1017,7 +1030,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="46"/>
-<div2 id="lane027" type="poem" n="The Vindication">
+<div2 id="lane034" type="poem" n="The Vindication">
 <head rend="center">THE VINDICATION</head>
 <note>[It is announced that all the Territorial battalions are already at full strength, and that Lord Kitchener's "second army" is now in course of formation.]</note>
 
@@ -1089,7 +1102,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="49"/>
-<div2 id="lane028" type="poem" n="The Spirit of England">
+<div2 id="lane035" type="poem" n="The Spirit of England">
 <head rend="center">THE SPIRIT OF ENGLAND</head>
 
 <lg type="stanza">
@@ -1147,7 +1160,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="51"/>
-<div2 id="lane029" type="poem" n="The Naval Reserve">
+<div2 id="lane036" type="poem" n="The Naval Reserve">
 <head rend="center">THE NAVAL RESERVE</head>
 
 <lg type="stanza">
@@ -1189,7 +1202,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="53"/>
-<div2 id="lane030" type="poem" n="Iconoclastes">
+<div2 id="lane037" type="poem" n="Iconoclastes">
 <head rend="center">ICONOCLASTES</head>
 
 <lg type="stanza">
@@ -1274,9 +1287,9 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 <lg>
 <l>Hierarchies of priests before him</l>
-<l>Moved through ponderous <hi rend="italic">Kriegs-Manöver</hi>,</l>
+<l>Moved through ponderous <hi rend="italic">Kriegs-Man⁄∂er</hi>,</l>
 <l>Headed by the Archimandrite</l>
-<l rend="indent4">Of the far-famed Mailëd Fist.</l></lg>
+<l rend="indent4">Of the far-famed Mail-§ Fist.</l></lg>
 
 <lg>
 <pb n="56"/>
@@ -1325,12 +1338,12 @@ The entire profits from the sale of this volume will be given to the Prince of W
 <lg>
 <l>Saying, "Let us smash the Idol,</l>
 <l>Pulverize the Moloch-image,</l>
-<l>Exorcize the accursëd vampire --</l>
+<l>Exorcize the accurs-§ vampire --</l>
 <l rend="indent4">From its menace free the world:</l></lg>
 
 <lg>
 <l>"Free ourselves, and free the noble,</l>
-<l>Richly dowered, <hi rend="italic">gemütlich</hi> nation,</l>
+<l>Richly dowered, <hi rend="italic">gemﬂ¥lich</hi> nation,</l>
 <l>Doomed by some malign enchantment</l>
 <l rend="indent4">To this dire idolatry:</l></lg>
 
@@ -1355,7 +1368,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="59"/>
-<div2 id="lane031" type="poem" n="The Call to Arms in Our Street">
+<div2 id="lane038" type="poem" n="The Call to Arms in Our Street">
 <head rend="center">THE CALL TO ARMS IN OUR STREET</head>
 
 <lg type="stanza">
@@ -1406,7 +1419,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="61"/>
-<div2 id="lane032" type="poem" n="To the Crew of H.M.S. Birmingham">
+<div2 id="lane039" type="poem" n="To the Crew of H.M.S. Birmingham">
 <head rend="center">TO THE CREW OF H.M.S. <hi rend="italic">BIRMINGHAM</hi></head>
 
 <lg type="stanza">
@@ -1448,7 +1461,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="63"/>
-<div2 id="lane033" type="poem" n="Germania">
+<div2 id="lane040" type="poem" n="Germania">
 <head rend="center">GERMANIA</head>
 
 <lg type="stanza">
@@ -1490,7 +1503,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="65"/>
-<div2 id="lane034" type="poem" n="The Call">
+<div2 id="lane041" type="poem" n="The Call">
 <head rend="center">THE CALL</head>
 
 <lg type="stanza">
@@ -1554,14 +1567,14 @@ The entire profits from the sale of this volume will be given to the Prince of W
 <l>Hark once more to the clarion call --</l>
 <l rend="indent">Sounded by him who deathless died --</l>
 <l>"This day England expects you all."</l></lg>
-<byline>R. E. VERNÈDE</byline>
+<byline>R. E. VERNÈÑÖ</byline>
 <bibl>
 <publisher>Times</publisher>, <date value="August 19, 1914">August 19, 1914</date></bibl>
 </div2>
 
 
 <pb n="68"/>
-<div2 id="lane035" type="poem" n="Dies Irae">
+<div2 id="lane042" type="poem" n="Dies Irae">
 <head rend="center">DIES IRAE</head>
 <head rend="center">TO THE GERMAN KAISER</head>
 
@@ -1633,7 +1646,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="71"/>
-<div2 id="lane036" type="poem" n="To Women">
+<div2 id="lane043" type="poem" n="To Women">
 <head rend="center">TO WOMEN</head>
 
 <lg type="stanza">
@@ -1679,7 +1692,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="73"/>
-<div2 id="lane037" type="poem" n="Towards the Light">
+<div2 id="lane044" type="poem" n="Towards the Light">
 <head rend="center">TOWARDS THE LIGHT</head>
 
 <lg type="stanza">
@@ -1702,7 +1715,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="74"/>
-<div2 id="lane038" type="poem" n="Roll Up!">
+<div2 id="lane045" type="poem" n="Roll Up!">
 <head rend="center">ROLL UP!</head>
 
 <lg type="stanza">
@@ -1752,7 +1765,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="76"/>
-<div2 id="lane039" type="poem" n="[Untitled]">
+<div2 id="lane046" type="poem" n="[Untitled]">
 
 <lg type="stanza">
 <l n="1">N<hi rend="smallcaps">ot</hi> for passion or for power,</l>
@@ -1797,7 +1810,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="78"/>
-<div2 id="lane040" type="poem" n="To the British Army">
+<div2 id="lane047" type="poem" n="To the British Army">
 <head rend="center">TO THE BRITISH ARMY</head>
 
 <lg type="stanza">
@@ -1839,7 +1852,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="80"/>
-<div2 id="lane041" type="poem" n="Redemption">
+<div2 id="lane048" type="poem" n="Redemption">
 <head rend="center">REDEMPTION</head>
 
 <lg type="stanza">
@@ -1864,7 +1877,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="81"/>
-<div2 id="lane042" type="poem" n="A Battle-Song">
+<div2 id="lane049" type="poem" n="A Battle-Song">
 <head rend="center">A BATTLE-SONG</head>
 
 <lg type="stanza">
@@ -1922,15 +1935,17 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="83"/>
-<xptr doc="Clarke.xml" from="clarke075"/>
+<div2 id="lane050" type="poem" n="The Kaiser and God">
+<xptr doc="Clarke.xml" from="clarke079"/>
 <pb n="84"/>
 <pb n="85"/>
 <bibl>
 <publisher>Times</publisher>, <date value="August 28, 1914">August 28, 1914</date></bibl>
+</div2>
 
 
 <pb n="86"/>
-<div2 id="lane043" type="poem" n="The Shirker">
+<div2 id="lane051" type="poem" n="The Shirker">
 <head rend="center">THE SHIRKER</head>
 <note>[Suggested by Mr. Robert Blatchford's article in <hi rend="italic">The Daily Mail</hi>.]</note>
 
@@ -1955,7 +1970,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="87"/>
-<div2 id="lane044" type="poem" n="Ghosts at Boulogne">
+<div2 id="lane052" type="poem" n="Ghosts at Boulogne">
 <head rend="center">GHOSTS AT BOULOGNE</head>
 
 <lg type="stanza">
@@ -1980,7 +1995,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="88"/>
-<div2 id="lane045" type="poem" n="To the Belgians">
+<div2 id="lane053" type="poem" n="To the Belgians">
 <head rend="center">TO THE BELGIANS</head>
 <head rend="center">FROM ENGLAND</head>
 
@@ -1988,9 +2003,9 @@ The entire profits from the sale of this volume will be given to the Prince of W
 <l n="1">O <hi rend="smallcaps">men</hi> of mickle heart and little speech,</l>
 <l>Slow, stubborn countrymen of heath and plain,</l>
 <l>Now have ye shown these insolent again</l>
-<l>That which to CÊsar's legions ye could teach,</l>
+<l>That which to CÊ≥°r's legions ye could teach,</l>
 <l>That slow-provok'd is long-provok'd. May each</l>
-<l>Crass CÊsar learn this of the Keltic grain,</l>
+<l>Crass CÊ≥°r learn this of the Keltic grain,</l>
 <l>Until at last they reckon it in vain</l>
 <l>To browbeat us who hold the Western reach.</l>
 <l>For even as you, so we are, ill to rouse,</l>
@@ -2006,7 +2021,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="89"/>
-<div2 id="lane046" type="poem" n="Song of the Soldiers">
+<div2 id="lane054" type="poem" n="Song of the Soldiers">
 <head rend="center">SONG OF THE SOLDIERS</head>
 
 <lg type="stanza">
@@ -2061,7 +2076,7 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="91"/>
-<div2 id="lane047" type="poem" n="A Cap to Fit the Kaiser">
+<div2 id="lane055" type="poem" n="A Cap to Fit the Kaiser">
 <head rend="center">A CAP TO FIT THE KAISER</head>
 <quote rend="italic">
 <l>Impiger, iracundus, inexorabilis, acer,</l>
@@ -2079,15 +2094,17 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 
 <pb n="92"/>
-<xptr doc="Clarke.xml" from="clarke016"/>
+<div2 id="lane056" type="poem" n="For All We Have and Are">
+<xptr doc="Clarke.xml" from="clarke020"/>
 <pb n="93"/>
 <pb n="94"/>
 <bibl>
 <publisher>Times</publisher>, <date value="September 2, 1914">September 2, 1914</date></bibl>
+</div2>
 
 
 <pb n="95"/>
-<div2 id="lane048" type="poem" n="The Battle of the Bight">
+<div2 id="lane057" type="poem" n="The Battle of the Bight">
 <head rend="center">THE BATTLE OF THE BIGHT</head>
 
 <lg type="stanza">
@@ -2137,4 +2154,5 @@ The entire profits from the sale of this volume will be given to the Prince of W
 
 </div1>
 </body>
+</text>
 

@@ -16,6 +16,7 @@
   <xsl:choose>
     <xsl:when test="$mode='thumbnail'">
        <xsl:apply-templates select="//figure" mode="thumbnail"/>
+       <p class="endfloats"/>
     </xsl:when>
     <xsl:when test="$mode='thumbdesc'">
       <table class="thumbnail">
@@ -34,8 +35,9 @@
 
 <!-- thumbnail and title only -->
 <xsl:template match="figure" mode="thumbnail">
-  <table class="thumbnail">
-   <tr><td>
+<!--  <table class="thumbnail">
+   <tr><td> -->
+  <p class="thumbnail">
     <a class="img">
       <xsl:attribute name="href">postcards/view.php?id=<xsl:value-of select="@entity"/></xsl:attribute>
     <xsl:element name="img">
@@ -43,10 +45,12 @@
 	<xsl:attribute name="src">http://chaucer.library.emory.edu/wwi/images/thumbnail/<xsl:value-of select="@entity"/>.jpg</xsl:attribute>
     </xsl:element>
     </a>
-   </td></tr>
-   <tr><td class="title">
+<!--   </td></tr>
+   <tr><td class="title"> -->
+  <br/>
 	<xsl:value-of select="head"/>
-   </td></tr></table>
+  </p>
+<!--   </td></tr></table> -->
 </xsl:template>
 
 <!-- thumbnail and full text description, side by side -->

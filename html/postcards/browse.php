@@ -1,12 +1,14 @@
 <?php
 include("../config.php");	
 
-print "<html>
+print " 
+<!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 4.01 Transitional//EN'>
+<html>
   <head> 
-    $csslink
     <title>The Great War : Postcards : Thumbnails</title>
-    <meta http-equiv='Content-Type' content='text/html; charset=iso-8859-1'>
+    <meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
     <base href='$base_url'>
+    $csslink
   </head> 
 <body> 
 "; 
@@ -54,7 +56,8 @@ $let = 'let $b := input()/TEI.2/:text/back/:div//interpGrp ';
 if ($cat) { $where = "where tf:containsText(\$a/@ana, '$cat') "; }
 else { $where = ""; }
 $return = "return <div> { \$a } <total>{ count($for $where return \$a) }</total> {\$b} </div>";
-$query = "$declare $for $let $where $return ";
+$sort = "sort by (figure/head)";
+$query = "$declare $for $let $where $return $sort";
 
 $xsl_file = "figures.xsl";
 
@@ -66,6 +69,7 @@ return $a';
 $cat_xsl = "interp.xsl"; 
 
 include("header.html");
+
 
 print "<p class='breadcrumbs'>" . $breadcrumb->show_breadcrumb();
 print " (Thumbnails";
@@ -84,24 +88,14 @@ if ($desc == 'yes') {
 if ($cat) { print " | <a href='postcards/browse.php?desc=$desc&max=$maxdisplay'>View all</a>"; }
 print "</p>";
 
+
 // FIXME: add a special case for count = 1 ?
 // FIXME: add a case for count = 0 -> no matches
 if ($tamino->count > 0) {
 
-print "<table class='maxdisplay'><tr><td>Postcards per page:
-<form action='postcards/browse.php'>
-<select name='max'>";
-foreach (array(5,10,15,20,25) as $i) {
-  ($i == $maxdisplay) ? $status = " selected" : $status = "";
-  print "<option value='$i'$status>$i</option> ";
-}
-print "</select>
-<input type='hidden' name='desc' value='$desc'>
-<input type='hidden' name='cat' value='$cat'>
-<input type='submit' value='Go'>
-</form>";
-print "</td></tr></table>";
+  print '<div class="content">'; 
 
+  print "<table class='postcardnav'><tr><td>";
 print "<p>Displaying postcards " . $tamino->position . " - " . ($tamino->quantity + $tamino->position - 1) . " of " . $tamino->count . "</p>";
 
 // links to more results
@@ -129,10 +123,29 @@ if ($tamino->count > $maxdisplay) {
   }
 }
 
+ 
 print $result_links;
+
+ print "</td><td class='maxdisplay'>"; 
+ //print "<table class='maxdisplay'><tr><td>";
+print " Postcards per page:
+<form action='postcards/browse.php'>
+<select name='max'>";
+foreach (array(5,10,15,20,25) as $i) {
+  ($i == $maxdisplay) ? $status = " selected" : $status = "";
+  print "<option value='$i'$status>$i</option> ";
+}
+print "</select>
+<input type='hidden' name='desc' value='$desc'>
+<input type='hidden' name='cat' value='$cat'>
+<input type='submit' value='Go'>
+</form>";
+//print "</td></tr></table>";
+// table maxdisplay 
+
+ print "</td></tr></table>";
  
 
-print '<div class="content">'; 
 
 $tamino->xslTransform($xsl_file, $xsl_params); 
 //$tamino->xslTransform($xsl_file);

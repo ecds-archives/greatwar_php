@@ -12,8 +12,7 @@ $breadcrumb->dirformat = 'ucwords'; // Show the names in this style (first lette
 $breadcrumb->showfile = true;       // show the file name in the path
 $breadcrumb->hideFileExt = true;    // don't show filename extension
 
-//$breadcrumb->changeName = array('wwiweb'=>'Home');
-$breadcrumb->changeName = array('greatwar'=>'Home');
+$breadcrumb->changeName = array('wwiweb'=>'Home');
 $breadcrumb->changeFileName = array("$base_path/searchall.php" => "Keyword Search",
 				    "$base_path/postcards/searchform.php" => "Advanced Search",
   				    "$base_path/postcards/search.php" => "Search Results",
@@ -33,11 +32,12 @@ $breadcrumb->changeDirLink = array("$base_path/postcards/" => "index.php",
 				   "$base_path/poetry/" => "browse.php",
 				   "$base_path/links/" => "browse.php",
 				   "$base_path/admin/links/" => "view.php",
+   				   "$base_path/admin/" => "login.php",
 				   );
 
 /* TEMPORARY:
   This mapping will change when the site moves to a more permanent home
 */
-//$breadcrumb->removeDirs = array('rebecca');
+$breadcrumb->removeDirs = array('rebecca');
 
 ?>

@@ -57,7 +57,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
    <text TEIform="text">
       <body TEIform="body">
          <div1 TEIform="div1" n="Flower of Youth: Poems in War Time" org="uniform" part="N" sample="complete" type="poetry">
-            <docAuthor TEIform="docAuthor">Katharine Tynan</docAuthor>
+            <docAuthor TEIform="docAuthor" n="Tynan, Katharine">Katharine Tynan</docAuthor>
             <head TEIform="head" rend="center">Flower of Youth: Poems in War Time</head>
             <docDate TEIform="docDate">1915</docDate>
             <bibl TEIform="bibl" default="NO">London: Sidgwick and Johnson, LTD.</bibl>

@@ -1,5 +1,7 @@
 <?php
 include("../config.php");	
+include_once("lib/mybreadcrumb.php");
+include_once ("lib/alinkCollection.class.php");
 
 print "<html>
   <head> 
@@ -10,17 +12,15 @@ print "<html>
 <body> 
 "; 
 
-include_once("lib/mybreadcrumb.php");
-include_once ("lib/alinkCollection.class.php");
+include("header.php");
+print "<p class='breadcrumbs'>" . $breadcrumb->show_breadcrumb();
+
 $args = array('host' => $tamino_server,
 	      'db' => $tamino_db,
 	      'coll' => $tamino_coll['links'],
 	      'debug' => false);
 $linkset = new aLinkCollection($args);
 
-include("header.php");
-
-print "<p class='breadcrumbs'>" . $breadcrumb->show_breadcrumb();
 
 print '
 <div class="content">

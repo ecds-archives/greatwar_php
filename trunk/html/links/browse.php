@@ -31,7 +31,7 @@ $linkset = new aLinkCollection($args);
 
 $linkset->printSortOptions("browse.php");
 $linkset->printSubjectOptions("browse.php", $subject);
-print "<hr width='50%'>";
+if ($linkset->count) { print "<hr width='50%'>"; }
 $linkset->printSummary();
 
 

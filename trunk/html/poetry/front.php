@@ -34,12 +34,7 @@ return $a';
 $xsl_file = "poetry.xsl";
 $xsl_params = array("mode" => "frontmatter");
 
-$rval = $tamino->xquery($query, $pos, $maxdisplay); 
-if ($rval) {       // tamino Error code (0 = success) 
-  print "<p>Error: failed to retrieve contents.<br>";
-  print "(Tamino error code $rval)</p>";
-  exit();
-}
+$tamino->xquery($query, $pos, $maxdisplay); 
 
 print '<div class="content">';
 $tamino->xslTransform($xsl_file, $xsl_params);
@@ -48,7 +43,7 @@ print "</div>";
 
 print '<div class="sidebar">';
 include("nav.html");
-include("searchbox.html");
+include("searchbox.php");
 print "</div>";
 
 include("footer.html");

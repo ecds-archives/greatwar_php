@@ -37,7 +37,7 @@ print '</div>';
 
 print '<div class="sidebar">';
 include("nav.html");
-include("searchbox.html");
+include("searchbox.php");
 print '</div>';
 
 include("footer.html");

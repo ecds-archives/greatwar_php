@@ -53,22 +53,16 @@ print '<p class="breadcrumbs">
 print '<div class="content">'; 
 
 // need to add an option to use cursor... 
-$rval = $tamino->xquery($query); 
-if ($rval) {       // tamino Error code (0 = success) 
-  print "<p>Error: failed to retrieve contents.<br>";
-  print "(Tamino error code $rval)</p>";
-  exit();
-}
+$tamino->xquery($query); 
 
 $tamino->xslTransform($xsl_file, $xsl_params); 
-//$tamino->xslTransform($xsl_file);
 $tamino->printResult();
 
 print '</div>';
 
 print '<div class="sidebar">';
 include("postcards/nav.html");
-include("searchbox.html");
+include("searchbox.php");
 
 print '</div>';
 

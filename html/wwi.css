@@ -138,9 +138,9 @@ td.url { text-align: left; width: 80%; background-color: #efefef; }
 td.response_code { text-align: center; background-color: #efefef; }
 
 /* search form table formatting */
-table.searchform { width: 70%; }
+table.searchform { width: 75%; }
 table.searchform th { text-align: right; width: 20%; }
-table.searchform th.label { text-align: center; }
+table.searchform th.label { text-align: center; vertical-align: top;}
 table.searchform td { text-align: left; vertical-align: middle; background-color: #e9e9e9; padding: 5;}
 
 /* poetry - contents of single volume */
@@ -169,3 +169,15 @@ span.term1 { background-color: #d1e1f9; }
 span.term2 { background-color: #fffc7f; }
 span.term3 { background-color: #b4f7aa; }
 span.term4 { background-color: #f4b7aa; }
+
+
+/* Horizontal lists -- display inline, with lines between */
+ul.horiz { display: inline; }
+li.horiz { 
+     display:inline; 
+     padding-left: 7px;
+     padding-right: 7px;
+     border-left: double #aaae9f;
+  }
+/* (no left border on first item) */
+li.horiz#first { border-left: none; }

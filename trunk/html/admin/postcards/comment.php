@@ -19,7 +19,7 @@ include_once("lib/mybreadcrumb.php");
 include("header.php");
 print "<p class='breadcrumbs'>" . $breadcrumb->show_breadcrumb() . "</p>";
 
-$entity = $_GET["entity"]; 
+$entity = $_GET["id"]; 
 
 print '<div class="content"> 
           <h3>Add Comments to Postcard</h3>';
@@ -29,14 +29,24 @@ $args = array('host' => $tamino_server,
 	      'coll' => $tamino_coll['postcards'],
 	      'entity' => $entity,
 	      'imgpath' => 'http://chaucer.library.emory.edu/wwi/images/thumbnail/',
+	      'name' => $_SESSION['name'],
 	      'debug' => false);
 $fc = new figureComment($args);
 
-$fc->taminoGetRecord();
+//$fc->taminoGetRecord();
+$fc->getFigureInfo();
 $fc->printform("add_comment.php");
 
-print "</div>
-</body>
+
+print "</div>";
+
+print '<div class="sidebar">';
+include("nav.html");
+include("searchbox.php");
+print "</div>";
+
+include("footer.html");
+print "</body>
 </html>";
 
 ?>

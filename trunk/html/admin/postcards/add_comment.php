@@ -46,24 +46,34 @@ $args = array('host' => $tamino_server,
               'name' => $name,
 	      'date' => $date,
 	      'imgpath' => 'http://chaucer.library.emory.edu/wwi/images/thumbnail/',
-	      'debug' => true);
+	      'debug' => false);
 $fc = new figureComment($args);
 
 if ($mode == "preview") {
   print "<p>Preview</p>";
   $fc->display();
   print "<hr>";
-  print "<p>Edit</p>";
+  print "<p>Continue Editing</p>";
   $fc->printform("add_comment.php");
+
 } else if ($mode == "submit") {
   $fc->display();
-  print "DEBUGGING... xmlstring is " . htmlentities($fc->XMLstring()) . "<br>\n";
-  $fc->taminoAdd();
+  $fc->taminoAdd("admin");	// add comment in admin mode
+
+  // link to the postcard detailed view
+  print "<a href='${base_url}postcards/view.php?id=$entity'>View Postcard</a><br>\n";
 }
 
 
-print "</div>
-</body>
+print "</div>";
+
+print '<div class="sidebar">'; 
+include("nav.html"); 
+include("searchbox.php"); 
+print '</div>'; 
+include("footer.html"); 
+
+print "</body>
 </html>";
 
 ?>

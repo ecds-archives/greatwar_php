@@ -4,6 +4,7 @@ include_once("taminoConnection.class.php");
 include_once("subjectList.class.php");
 include_once("phpDOM/classes/include.php");
 import("org.active-link.xml.XML");
+include_once("lib/HTTP/Request.php");	// for testing urls
 
 class linkRecord {
 
@@ -19,6 +20,7 @@ class linkRecord {
   var $lastModified;
   var $edit;
   var $all_subjects;
+  var $httpResponse;
   /* original date / date last modified ? */
 
 
@@ -235,7 +237,7 @@ class linkRecord {
 
   // print all the values in a nice HTML table
   function printHTML ($show_edits = 1) {
-    print "<p><table border='1' width='100%'>";
+    print "<table class='fullLinkRecord'>";
     print "<tr><th width='20%'>Title:</th><td>$this->title</td></tr>";
     print "<tr><th>ID:</th><td>$this->id</td></tr>";    
     print "<tr><th>URL:</th><td><a href='$this->url'>$this->url</a></td></tr>";
@@ -244,10 +246,10 @@ class linkRecord {
     print "</td></tr>";
     print "<tr><th>Description:</th><td>$this->description</td></tr>";
     print "<tr><th>Contributor:</th><td>$this->contributor</td></tr>";
-    print "<tr><th>Date Submitted:</th><td>$this->date</td></tr>";
+    print "<tr><th>Submitted:</th><td>$this->date</td></tr>";
     if ($this->date != $this->lastModified) {
       // only print last modified if it is different than submitted
-      print "<tr><th>Date Last Modified:</th><td>$this->lastModified</td></tr>";
+      print "<tr><th>Last Modified:</th><td>$this->lastModified</td></tr>";
     }
     if ($show_edits && (count($this->edit) > 0)) {
       print "<tr><th>Modifications</th><td>";
@@ -256,7 +258,7 @@ class linkRecord {
       }
       print "</td></tr>";
     }
-    print "</table></p>";
+    print "</table>";
   }
 
   // create an HTML form, with initial values set (if defined)
@@ -265,7 +267,7 @@ class linkRecord {
     $textinput  = "input type='text' size='50'";
     $hiddeninput = "input type='hidden'";
     $readonlyinput = "input type='text' readonly='yes' size='50'";
-    print "<table border='1' align='center'>\n";
+    print "<table class='fullLinkRecord' border='1' align='center'>\n";
     print "<form action='do_$mode.php' method='get'>\n";
     print "<tr><th>Title:</th><td><$textinput name='title' value='$this->title'></td></tr>\n";
     print "<tr><th>URL:</th><td>\n";
@@ -307,7 +309,7 @@ class linkRecord {
     // Fields to keep track of changes to a record
     if ($mode == 'modify') {
 
-      print "<tr><th colspan='2'>Modification Data</th></tr>\n";
+      print "<tr><th class='label' colspan='2'>Modification Data</th></tr>\n";
 
       if (count($this->edit) > 0) {
 	print "<tr><th>Previous edits:</th><td>\n";
@@ -320,7 +322,7 @@ class linkRecord {
 	print "</td></tr>";
       }
 
-      print "<tr><th colspan='2'>Current Edit</th></tr>\n";
+      print "<tr><th class='label' colspan='2'>Current Edit</th></tr>\n";
 
       print "<tr><th>Edited by:</th><td><$textinput name='mod_contrib'></td></tr>\n";
       print "<tr><th>Description of change:</th>\n";
@@ -340,6 +342,55 @@ class linkRecord {
     array_push($this->edit, $myedit);
   }
 
+  // check if a url is still valid 
+  function testUrl () {
+    $req = & new HTTP_Request("");
+    $req->setURL($this->url);
+    $req->sendRequest();
+    $this->httpResponse = $req->getResponseCode();
+  }
+
+  // print out a readable version of the url status
+  // by default, each link will be in its own table, unless requested otherwise
+  function printUrlStatus ($show_table = true) {
+    if (!(isset($this->httpResponse))) {
+      $this->testUrl();		// if response is not set, test the url first
+    }
+    
+    $code = array("404" => "Not Found",
+	       	  "403" => "Forbidden",
+	          "401" => "Unauthorized",
+	          "301" => "Moved Permanently",
+	          "302" => "Redirected",
+	          "200" => "OK");
+
+    if ($show_table) { print "<table class='linkStatus'>"; }
+    print "<tr>";
+    print "<td class='url'><a href='$this->url'>$this->title</a><br>";
+    print "<font size='-1'>$this->url</font></td>"; 
+    print "<td class='response_code'>";
+    switch ($this->httpResponse) {
+    case 404:		/* 400s - errors */ 
+    case 403:
+    case 401:
+        print "<font class='error'>" . $code[$this->httpResponse] . "</font><br>\n";
+        break;
+    case 301:		/* 300s - warnings */
+    case 302:
+        print "<font class='warning'>" . $code[$this->httpResponse] . "</font><br>\n";
+        break;
+    case 200:		/* 200 - OK */
+      print "<font class='ok'>" . $code[$this->httpResponse] . "</font><br>\n";
+        break;
+    default:
+      print "Response code: $this->httpResponse <br>\n";
+    }
+    print "</td></tr>";
+    if ($show_table) print "</table>";
+    
+  }
+		     
+
 }
 
 
@@ -358,7 +409,7 @@ class linkEdit {
   
   // print edit information in a nice table
   function printEdit () {
-    print "<table border='1' width='80%'>";
+    print "<table class='linkEdit'>";
     print "<tr><th width='20%'>Editor:</th><td>$this->contributor</td></tr>";
      print "<tr><th>Description:</th><td>$this->description</td></tr>";
     print "<tr><th>Date:</th><td>$this->date</td></tr>";

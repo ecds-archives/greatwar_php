@@ -2004,8 +2004,6 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <pb n="106"/>
 
 
-
-
 <pb n="107"/>
 <div2 id="cunliffe035" type="poem" n="Ultimate Hell">
 <head rend="center">ULTIMATE HELL</head>
@@ -2094,6 +2092,7 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <byline>-- Franklin H. Giddings.</byline>
 <dateline><date>New York, December 5, 1915.</date></dateline>
 
+
 <pb n="110"/>
 <div2 id="cunliffe036" type="poem" n="I Have No Ring">
 <head rend="center">"I HAVE NO RING"</head>
@@ -2147,4 +2146,721 @@ Editorial Note: A son of Mr. Wilfred Campbell, the poet, is now fighting at St. 
 <byline>-- Violet Gillespie.</byline>
 </div2>
 
-037, p. 111
+
+<pb n="112"/>
+<div2 id="cunliffe038" type="poem" n="Sure, It's Fun!">
+<head rend="center">SURE, IT'S FUN!</head>
+
+<note rend="center">What fun to be a soldier!
+<byline>-- Everykid.</byline></note>
+
+<lg type="stanza">
+<l n="1">S<hi rend="smallcaps">ure</hi>, it's fun to be a soldier! Oh, it's fun, fun, fun,</l>
+<l>Upon an iron shoulder-blade to tote a feather gun;</l>
+<l>To hike with other brave galoots in easy-going army-boots;</l>
+<l>To pack along a one-ounce sack, the commissary on your track;</l>
+<l>To tramp, tramp, tramp, to a right-and-ready camp!</l>
+<l>Fun? -- Sure, it's fun, just the finest ever, son!</l></lg>
+
+<lg>
+<l>Yes, it's fun to be a soldier! Oh, it's fun, fun, fun,</l>
+<l>To loaf along a level road beneath a cloudless sun</l>
+<l>Or over fields of golden grain, kept cool by puffs of wind and rain;</l>
+<l>Then richly, more-than-fully, fed, to stretch upon a downy bed</l>
+<l>And sleep, sleep, sleep, while the stay-at-homes weep!</l>
+<l>Fun? -- Sure, it's fun, just the finest ever, son!</l></lg>
+
+<lg>
+<l>Oh, it's fun to be a soldier! Oh, it's fun, fun, fun,</l>
+<l>To catch the silly enemy and get 'em on the run;</l>
+<pb n="113"/>
+<l>To here and there blow off a head with just a bit of chuckling lead;</l>
+<l>To bayonet a foolish bloke at hide-and-seek in trench and smoke;</l>
+<l>To shoot, shoot, shoot, till they've got no 1egs to scoot!</l>
+<l>Fun? -- Sure, it's fun, just the finest ever, son!</l></lg>
+
+<lg>
+<l>God, it's fun to be a soldier! Oh, it's fun, fun, fun</l>
+<l>To lie out still and easy when your day's sport's done;</l>
+<l>With not a thing to worry for, nor anything to hurry for;</l>
+<l>Not hungry, thirsty, tired, but a hero much-admired;</l>
+<l>Just dead, dead, dead, like Jack and Bill and Fred!</l>
+<l>Fun? -- Sure, it's fun, just the finest ever, son!</l></lg>
+<byline>-- Richard Butler Glaenzer.</byline>
+</div2>
+
+<pb n="114"/>
+<div2 id="cunliffe039" type="poem" n="The Airman">
+<head rend="center">THE AIRMAN</head>
+
+<lg type="stanza">
+<l n="1">W<hi rend="smallcaps">ild</hi> wind, and drear, beneath the pale stars blowing,</l>
+<l rend="indent">Whom do you hunt to-night?</l>
+<l>Out of the west into the storm-cloud glowing</l>
+<l rend="indent">A biplane wings her flight.</l></lg>
+
+<lg>
+<l>In the grey day-dawn was there no returning,</l>
+<l rend="indent">No homewards for the dead: --</l>
+<l>Only a broken wing, a biplane burning,</l>
+<l rend="indent">A shattered airship shed!</l></lg>
+
+<lg>
+<l>O Nation proud, on whose red altar gladly</l>
+<l rend="indent">One more young Life is laid,</l>
+<l>Scatter the news -- flutter the posters madly --</l>
+<l rend="indent">"Triumph of British raid!"</l></lg>
+
+<lg>
+<l>What of the Cross they brought to her -- his Mother?</l>
+<l rend="indent">Wanly her dumb lips smiled,</l>
+<l>Then whispered: "Give back <hi rend="italic">him</hi> -- I had no other --</l>
+<l rend="indent">My Son -- my only child."</l></lg>
+<byline>-- Gregg Goddard.</byline>
+</div2>
+
+<pb n="115"/>
+<div2 id="cunliffe040" type="poem" n="Brothers In Arms">
+<head rend="center">BROTHERS IN ARMS</head>
+
+<lg type="stanza">
+<l n="1">W<hi rend="smallcaps">hen</hi> behind her violated border,</l>
+<l rend="indent">With unflinching bayonet and gun,</l>
+<l>Belgium, in heroic battle order,</l>
+<l rend="indent">Met the savage onset of the Hun;</l>
+<l>When o'er league on league of peaceful tillage,</l>
+<l rend="indent">Under screaming showers of shot and shell,</l>
+<l>Into open town, defenceless village,</l>
+<l rend="indent">He let loose his shameless hounds of Hell;</l>
+<l>When Li&egrave;ge, henceforth a name immortal!</l>
+<l rend="indent">Perished fighting at his cannons' mouth,</l>
+<l>When he seized Namur, and through her portal,</l>
+<l rend="indent">Drunk with fury, still went surging south;</l>
+<l>When with murderous rapine still unsated,</l>
+<l rend="indent">Sworn to bend them to his bloody yoke,</l>
+<l>On the French and British Arms belated</l>
+<l rend="indent">Wave on wave his braggart legions broke;</l>
+<l>When, outmarched before him, into distance,</l>
+<l rend="indent">Frank and Briton steadfastly withdrew,</l>
+<l>Though he could not pierce our proud resistance,</l>
+<l rend="indent">Break our firm-linked, friendly phalanx through;</l></lg>
+
+<lg>
+<l>Then our country, roused to righteous reason</l>
+<l rend="indent">By the battle-thunder at her gate,</l>
+<pb n="116"/>
+<l>Flung abroad no foolish cry of treason</l>
+<l rend="indent">At the Rulers of her arms and State --</l>
+<l>Pardoned those whose eyes were proven blinder</l>
+<l rend="indent">Than was Wisdom to the approach of war --</l>
+<l>Put her unpreparedness behind her,</l>
+<l rend="indent">Only bade us look, henceforth, before.</l></lg>
+
+<lg>
+<l>Therefore, every cry of party faction</l>
+<l rend="indent">Into patriot silence fell away;</l>
+<l>Britain summoned all her sons to action --</l>
+<l rend="indent">Suffering Britain -- could we but obey?</l></lg>
+
+<lg>
+<l>Then the adamantine cable stretching,</l>
+<l rend="indent">Python-like across the ocean floor,</l>
+<l>Aid on aid from her far children fetching,</l>
+<l rend="indent">Bade her heart with hope beat high once more;</l>
+<l>Till the friends and foes whose fine derision</l>
+<l rend="indent">Long had flouted her Imperial dream,</l>
+<l>Stood at gaze to mark the stately vision</l>
+<l rend="indent">Rise incarnate o'er the ocean stream;</l>
+<l>Marvelling, while above the pine-fringed waters,</l>
+<l rend="indent">While above the palm-set Austral earth</l>
+<l>At their Mother's call, her mighty daughters,</l>
+<l rend="indent">Sprang, as Pallas sprang, full-armed to birth;</l>
+<l>While, O proudest Page in all the story</l>
+<l rend="indent">Of Imperial India's book of life!</l>
+<l>One by one each Princely Feudatory</l>
+<l rend="indent">In our service arms him for the strife.</l>
+<pb n="117"/>
+<l>Our retreat is stayed, and Frank and Briton,</l>
+<l rend="indent">Reinforced, leap forth to the attack --</l>
+<l>Now the smiter hip and thigh is smitten;</l>
+<l rend="indent">In defeat we roll him roughly back.</l>
+<l>Now again in anger dour he rallies,</l>
+<l rend="indent">And again assaults us flank and front;</l>
+<l>While his dead and ours o'er hills and valleys</l>
+<l rend="indent">Mix amid the dreadful battle brunt.</l>
+<l>Up the slopes his batteries are crowning,</l>
+<l rend="indent">Foot by foot we dig our trenches in;</l>
+<l>Rise and charge and seize his cannon frowning,</l>
+<l rend="indent">Though we fall in swaths one gun to win.</l>
+<l>Trusting surely that how oft soever</l>
+<l rend="indent">Back and forth War's crimson waves may flow,</l>
+<l>On our faithful, chivalrous endeavor</l>
+<l rend="indent">Victory's full-orbed sun at last shall glow.</l></lg>
+<byline>-- Alfred Perceval Graves.</byline>
+</div2>
+
+<pb n="118"/>
+<xptr doc="Clarke.xml" from="clarke097"/>
+<pb n="119"/>
+<pb n="120"/>
+<note>Captain the Hon. Julian Henry Francis Grenfell, D.S.O, of the 1st (Royal) Dragoons, was wounded in the trenches in front of Ypres on May 13, and died in hospital at Boulogne on May 26, 1915. He was the eldest son of Lord Desborough, by whose consent the poem is here reprinted. Lord Desborough writes: "Not many men would have knocked out two professional boxers and written those verses in one week."</note>
+
+
+<pb n="121"/>
+<div2 id="cunliffe041" type="poem" n="The Wykhamist">
+<head rend="center">THE WYKHAMIST</head>
+
+<lg type="stanza">
+<l n="1">I<hi rend="smallcaps">n</hi> the wake of the yellow sunset one pale star</l>
+<l>Hangs over the darkening city's purple haze.</l>
+<l>An errand-boy in the street beneath me plays</l>
+<l>On a penny whistle. Very faint and far</l>
+<l>Comes the scroop of tortured gear on a battered car.</l>
+<l>A hyacinth nods pallid blooms on the window sill,</l>
+<l>Swayed by the tiny wind. St. Catherine's Hill</l>
+<l>Is a place of mystery, a land of dreams.</l>
+<l>The tramp of soldiers, barrack-marching, seems</l>
+<l>A thing remote, untouched by fate or time.</l>
+<l>...A year ago you heard Cathedral's chime,</l>
+<l>You hurried up to books -- a year ago;</l>
+<l>-- Shouted for "Houses" in New Field below.</l>
+<l>...You... "died of wounds"... they told me</l>
+<l rend="indent10">...yet your feet</l>
+<l>Pass with the others down the twilit street.</l></lg>
+<byline>-- Nora Griffiths.</byline>
+</div2>
+
+
+
+
+<pb n="122"/>
+<div2 id="cunliffe042" type="poem" n="The Pyres">
+<head rend="center">THE PYRES</head>
+
+<lg type="stanza">
+<l n="1">P<hi rend="smallcaps">yres</hi> in the night, in the night!</l>
+<l rend="indent">And the roaring yellow and red.</l>
+<l>Trooper, trooper, why so white?</l>
+<l rend="indent">We are out to gather our dead.</l>
+<l>We have brought dry boughs from the bloody wood</l>
+<l rend="indent">And the torn hill-side;</l>
+<l>We have felled great trunks, wet with blood</l>
+<l rend="indent">Of brothers that died;</l>
+<l>We have piled them high for a flaming bed,</l>
+<l>Hemlock and ash and pine for a bed,</l>
+<l>A throne in the night, a throne for a bed --</l>
+<l>And we go to gather our dead.</l></lg>
+
+<lg>
+<l>There where the oaks loom, dark and high,</l>
+<l rend="indent">Over the sombre hill,</l>
+<l rend="indent">Body on body, cold and still,</l>
+<l>Under the stars they lie.</l>
+<l>There where the silver river runs,</l>
+<l rend="indent">Careless and calm as fate,</l>
+<l>Mowed, mowed by the terrible guns,</l>
+<l rend="indent">The stricken brothers wait.</l>
+<l>There by the smoldering house, and there</l>
+<l>Where the red smoke hangs on the heavy air,</l>
+<pb n="123"/>
+<l>Under the ruins, under the hedge,</l>
+<l>Cheek by cheek at the forest-edge;</l>
+<l>Back to breast, three men deep,</l>
+<l rend="indent">Hearing not bugle or drum,</l>
+<l>In the desperate trench they died to keep,</l>
+<l>Under the starry dome they sleep,</l>
+<l rend="indent">Murmuring, "Brothers, come!"</l></lg>
+
+<lg>
+<l>This way! I heard a call</l>
+<l rend="indent">Like a stag's when he dies.</l>
+<l>Under the willows I saw him fall.</l>
+<l rend="indent">Under the willows he lies.</l>
+<l>Give me your hand. Raise him up.</l>
+<l rend="indent">Lift his head. Strike a light.</l>
+<l>This morning we shared a crust and a cup.</l>
+<l rend="indent">He wants no supper to-night.</l>
+<l>Take his feet. Here the shells</l>
+<l rend="indent">Broke all day long,</l>
+<l>Moaning and shrieking hell's</l>
+<l rend="indent">Bacchanalian song!</l>
+<l>Last night he helped me bear</l>
+<l rend="indent">Men to hell's f&ecirc;ting.</l>
+<l>To-morrow, maybe, somewhere,</l>
+<l rend="indent">We, too, shall lie waiting.</l></lg>
+
+<lg>
+<l>Pyres in the night, in the night!</l>
+<l rend="indent">Weary and sick and dumb,</l>
+<pb n="124"/>
+<l>Under the flickering, faint starlight</l>
+<l rend="indent">The drooping gleaners come.</l>
+<l>Out of the darkness, dim</l>
+<l rend="indent">Shadowy shadow-bearers,</l>
+<l>Dragging into the bale-fire's rim</l>
+<l rend="indent">Pallid death-farers.</l></lg>
+
+<lg>
+<l>Pyres in the night, in the night!</l>
+<l rend="indent">In the plain, on the hill.</l>
+<l>No volleys for their last rite.</l>
+<l rend="indent">We need our powder -- to kill.</l>
+<l>High on their golden bed,</l>
+<l>Pile up the dead!</l></lg>
+
+<lg>
+<l>Pyres in the night, in the night!</l>
+<l rend="indent">Torches, piercing the gloom!</l>
+<l>Look! How the sparks take flight!</l>
+<l rend="indent">Stars, stars, make room!</l></lg>
+
+<lg>
+<l>Smoke, that was bone and blood!</l>
+<l rend="indent">Hark! The deep roar.</l>
+<l>It is the souls telling God</l>
+<l rend="indent">The glory of <hi rend="smallcaps">war</hi>!</l></lg>
+<byline>-- Hermann Hagedorn.</byline>
+</div2>
+
+<pb n="125"/>
+<div2 id="cunliffe043" type="poem" n="Non-Combatant">
+<head rend="center">NON-COMBATANT</head>
+
+<lg type="stanza">
+<l n="1">B<hi rend="smallcaps">efore</hi> one drop of angry blood was shed</l>
+<l rend="indent">I was sore hurt and beaten to my knee;</l>
+<l>Before one fighting man reeled back and died</l>
+<l rend="indent">The War-Lords struck at me.</l></lg>
+
+<lg>
+<l>They struck me down -- an idle, useless mouth,</l>
+<l rend="indent">As cumbrous -- nay, more cumbrous -- than the dead,</l>
+<l>With life and heart afire to give and give</l>
+<l rend="indent">I take a dole instead.</l></lg>
+
+<lg>
+<l>With life and heart afire to give and give</l>
+<l rend="indent">I take and eat the bread of charity.</l>
+<l>In all the length of all this eager land,</l>
+<l rend="indent">No man has need of me.</l></lg>
+
+<lg>
+<l>That is my hurt -- my burning, beating wound;</l>
+<l rend="indent">That is the spear-thrust driven through my pride!</l>
+<l>With aimless hands, and mouth that must be fed,</l>
+<l rend="indent">I wait and stand aside.</l></lg>
+
+<lg>
+<l>Let me endure it, then, with stiffened lip:</l>
+<l rend="indent">I, even I, have suffered in the strife!</l>
+<l>Let me endure it then -- I give my pride</l>
+<l rend="indent">Where others give a life.</l></lg>
+<byline>-- Cicely Hamilton.</byline>
+</div2>
+
+<pb n="126"/>
+<xptr doc="Clarke.xml" from="clarke064"/>
+<pb n="127"/>
+
+<pb n="128"/>
+<div2 id="cunliffe044" type="poem" n="From the Youth of All Nations">
+<head rend="center">FROM THE YOUTH OF ALL NATIONS</head>
+
+<lg type="stanza">
+<l n="1">T<hi rend="smallcaps">hink</hi> not, my elders, to rejoice</l>
+<l rend="indent">When from the nations' wreck we rise,</l>
+<l>With a new thunder in our voice</l>
+<l rend="indent">And a new lightning in our eyes.</l></lg>
+
+<lg>
+<l>You called with patriotic sneers,</l>
+<l rend="indent">And drums and sentimental songs.</l>
+<l>We came from out the vernal years</l>
+<l rend="indent">Thus bloodily to right your wrongs.</l></lg>
+
+<lg>
+<l>The sins of many centuries,</l>
+<l rend="indent">Sealed by your indolence and fright,</l>
+<l>Have earned us these our agonies:</l>
+<l rend="indent">The thunderous appalling night</l></lg>
+
+<lg>
+<l>When from the lurid darkness came</l>
+<l rend="indent">The pains of poison and of shell,</l>
+<l>The broken heart, the world's ill-fame,</l>
+<l rend="indent">The lonely arrogance of hell.</l></lg>
+
+<lg>
+<l>Faintly, as from a game afar,</l>
+<l rend="indent">Your wrangles and your patronage</l>
+<l>Come drifting to the work of war</l>
+<l rend="indent">Which you have made our heritage.</l></lg>
+
+<lg>
+<pb n="129"/>
+<l>Oh, chide us not. Not ours the crime.</l>
+<l rend="indent">Oh, praise us not. It is not won,</l>
+<l>The fight which we shall make sublime</l>
+<l rend="indent">Beneath an unaccustomed sun.</l></lg>
+
+<lg>
+<l>The simple world of childhood fades</l>
+<l rend="indent">Beyond the Styx that all have passed;</l>
+<l>This is a novel land of shades,</l>
+<l rend="indent">Wherein no ancient glories last.</l></lg>
+
+<lg>
+<l>A land of desolation, blurred</l>
+<l rend="indent">By mists of penitence and woe,</l>
+<l>Where every hope must be deferred</l>
+<l rend="indent">And every river backward flow.</l></lg>
+
+<lg>
+<l>Not on this grey and ruined plain</l>
+<l rend="indent">Shall we obedient recall</l>
+<l>Your cities to rebuild again</l>
+<l rend="indent">For their inevitable fall.</l></lg>
+
+<lg>
+<l>We kneel at no ancestral shrine.</l>
+<l rend="indent">With admirable blasphemy</l>
+<l>We desecrate the old divine</l>
+<l rend="indent">And dream a new eternity.</l></lg>
+
+<lg>
+<l>Destroy the history of men,</l>
+<l rend="indent">The weary cycle of decay.</l>
+<l>We shall not pass that way again,</l>
+<l rend="indent">We tread a new untrodden way.</l></lg>
+
+<lg>
+<pb n="130"/>
+<l>Though scattered wider yet our youth</l>
+<l rend="indent">On every sea and continent,</l>
+<l>There shall come bitter with the truth</l>
+<l rend="indent">A fraction of the sons you sent.</l></lg>
+
+<lg>
+<l>When slowly with averted head,</l>
+<l rend="indent">Some darkly, some with halting feet,</l>
+<l>And bowed with mourning for the dead</l>
+<l rend="indent">We walk the cheering, fluttering street,</l></lg>
+
+<lg>
+<l>A music terrible, austere</l>
+<l rend="indent">Shall rise from our returning ranks</l>
+<l>To change your merriment to fear,</l>
+<l rend="indent">And slay upon your lips your thanks;</l></lg>
+
+<lg>
+<l>And on the brooding weary brows</l>
+<l rend="indent">Of stronger sons, close enemies,</l>
+<l>Are writ the ruin of your house</l>
+<l rend="indent">And swift usurping dynasties.</l></lg>
+<byline>-- H. C. Harwood.</byline>
+</div2>
+
+<pb n="131"/>
+<div2 id="cunliffe045" type="poem" n="Soldier, Soldier">
+<head rend="center">SOLDIER, SOLDIER</head>
+
+<lg type="stanza">
+<l n="1">S<hi rend="smallcaps">oldier</hi>, soldier, off to the war,</l>
+<l>Take me a letter to my sweetheart O.</l>
+<l>He's gone away to France</l>
+<l>With his carbine and his lance,</l>
+<l>And a lock of brown hair of his sweetheart O.</l></lg>
+
+<lg>
+<l>Fair maid of London, happy may you be</l>
+<l>To know so much of your sweetheart O.</l>
+<l>There's not a handsome lad,</l>
+<l>To get the chance he's had,</l>
+<l>But would skip, with a kiss for his sweetheart O.</l></lg>
+
+<lg>
+<l>Soldier, soldier, whatever shall I do</l>
+<l>If the cruel Germans take my sweetheart O?</l>
+<l>They'll pen him in the sail</l>
+<l>And starve him thin and pale,</l>
+<l>With never a kind word from his sweetheart O.</l></lg>
+
+<lg>
+<l>Fair maid of London, is that all you see</l>
+<l>Of the lad you've taken for your sweetheart O?</l>
+<l>He'll make his prison ring</l>
+<l>With his God Save the King</l>
+<l>And his God bless the blue eyes of my sweetheart O!</l></lg>
+
+<lg>
+<pb n="132"/>
+<l>Soldier, soldier, if by shot or shell</l>
+<l>They wound him, my dear lad, my sweetheart O,</l>
+<l>He'll lie bleeding in the rain</l>
+<l>And call me, all in vain,</l>
+<l>Crying for the fingers of his sweetheart O.</l></lg>
+
+<lg>
+<l>Pretty one, pretty one, now take a word from me:</l>
+<l>Don't you grudge the life-blood of your sweetheart O.</l>
+<l>For you must understand</l>
+<l>He gives it to our land,</l>
+<l>And proud should fly the colors of his sweetheart O.</l></lg>
+
+<lg>
+<l>Soldier, soldier, my heart is growing cold --</l>
+<l>If a German shot kill my sweetheart O!</l>
+<l>I could not lift my head</l>
+<l>If my dear love lay dead</l>
+<l>With his wide eyes waiting for his sweetheart O.</l></lg>
+
+<lg>
+<l>Poor child, poor child, go to church and pray,</l>
+<l>Pray God to spare you your sweetheart O.</l>
+<l>But if he live or die</l>
+<l>The English flag must fly,</l>
+<l>And England take care of his sweetheart O!</l></lg>
+<byline>-- Maurice Hewlett.</byline>
+</div2>
+
+
+<pb n="133"/>
+<div2 id="cunliffe046" type="poem" n="April in England">
+<head rend="center">APRIL IN ENGLAND</head>
+
+<lg type="stanza">
+<l n="1">A<hi rend="smallcaps">pril</hi> in England. Daffodils are growing</l>
+<l rend="indent">By every wayside, golden, tall and fair;</l>
+<l>April -- and all the little winds are blowing</l>
+<l rend="indent">The scents of springtime through the sunny air.</l>
+<l>April in England. God, that we were there.</l></lg>
+
+<lg>
+<l>April in England. And her sons are lying</l>
+<l rend="indent">On these red fields and dreaming of her shore;</l>
+<l>April -- we hear the thrushes' songs replying</l>
+<l rend="indent">Each unto each, above the cannons' roar.</l>
+<l>April in England. Shall we see it more?</l></lg>
+
+<lg>
+<l>April in England. There's the cuckoo calling</l>
+<l rend="indent">Down in her meadows, where the cowslip gleams,</l>
+<l>April -- and little showers are softly falling,</l>
+<l rend="indent">Dimpling the surface of her babbling streams.</l>
+<l>April in England. How the shrapnel screams.</l></lg>
+
+<lg>
+<l>April in England. Blood and dust and smother,</l>
+<l rend="indent">Screaming of horses, men in agony,</l>
+<l>April -- full many of thy sons, O Mother,</l>
+<l rend="indent">Never again those dewy dawns shall see</l>
+<l>April in England. God keep England free.</l></lg>
+<byline>-- Norah M. Holland.</byline>
+</div2>
+
+<pb n="134"/>
+<div2 id="cunliffe047" type="poem" n="Things That Were Yours">
+<head rend="center">THINGS THAT WERE YOURS</head>
+
+<lg type="stanza">
+<l n="1">T<hi rend="smallcaps">hese</hi> things were yours, these little simple things;</l>
+<l rend="indent">You touched them, used them one time, loved them well.</l>
+<l>Now you are gone, but still about them clings</l>
+<l rend="indent">The fragrance of your hands adorable.</l>
+<l>These childish books; these learned works well-thumbed;</l>
+<l rend="indent">These time-stained prints; these comfortable chairs;</l>
+<l>This music, and this album where you gummed</l>
+<l rend="indent">Your childhood's treasure; these Italian jars;</l>
+<l>This little cup blue-patterned; this old bed;</l>
+<l rend="indent">These sheets that whitely wrapt you slumbering;</l>
+<l>These garden-walks and autumn-tinted trees,</l>
+<l rend="indent">That knew your laughter, and past numbering</l>
+<l>These blades of grass that bent beneath your tread:</l>
+<l rend="indent">Because they once were yours, I love all these.</l></lg>
+<byline>-- Dyneley Hussey.</byline>
+<note rend="center">(Lieut., 13th Bn. Lancashire Fusiliers.)</note>
+</div2>
+
+<pb n="135"/>
+<div2 id="cunliffe048" type="poem" n="Joan of France to an English Sister">
+<head rend="center">JOAN OF FRANCE TO AN ENGLISH SISTER</head>
+<head rend="center">I. M. EDITH CAVELL, NURSE</head>
+
+<epigraph rend="center"><hi rend="italic">Piti&eacute; que estoit au royaume de France."</hi></epigraph>
+
+<lg type="stanza">
+<l n="1">P<hi rend="smallcaps">ity</hi> had I for my France my land</l>
+<l rend="indent">In the days so far that be,</l>
+<l>Pity of heart and pity of hand --</l>
+<l rend="indent">And who had pity on me?</l>
+<l>England's daughter, led out to die</l>
+<l rend="indent">For a deed of mercy and truth,</l>
+<l>Guerdon of helper thou hast as I</l>
+<l rend="indent">From the men that have murdered ruth.</l>
+<l>Sister of Joan by the pity, the spite,</l>
+<l rend="indent">Joy yet in the pain be thine:</l>
+<l>We have armed our folk with a quenchless might,</l>
+<l rend="indent">Fire of thy bosom and mine.</l></lg>
+<byline>-- J. H. S.</byline>
+</div2>
+
+<pb n="136"/>
+<div2 id="cunliffe049" type="poem" n="The Twa Weelums">
+<head rend="center">THE TWA WEELUMS</head>
+
+<lg type="stanza">
+<l n="1">I<hi rend="smallcaps">'m</hi> Sairgeant Weelum Henderson frae Pairth,</l>
+<l rend="indent4">That's wha I am!</l>
+<l>There's just ae regimint in a' the airth</l>
+<l rend="indent4">That's worth a damn;</l>
+<l>An' gin the bonniest fechter o' the lot</l>
+<l rend="indent4">Ye seek to see,</l>
+<l>Him that's the best -- <hi rend="italic">whaur ilka man's a Scot</hi> --</l>
+<l rend="indent4">Speir you at me!</l></lg>
+
+<lg>
+<l>Gin there's a hash o' Gairmans pitten oot</l>
+<l rend="indent4">By aichts an' tens,</l>
+<l>That Wully Henderson's been thereaboot</l>
+<l rend="indent4">A'body kens;</l>
+<l>Fegs-aye ! Yon Weelum that's in Gairmanie,</l>
+<l rend="indent4">He hadna' reckoned</l>
+<l>Wi' Sairgint Weelum Henderson an' wi'</l>
+<l rend="indent4">The Forty-Second!</l></lg>
+
+<lg>
+<l>Yon day we lichtit on the shores o' France,</l>
+<l rend="indent4">The lassies standin'</l>
+<l>Trod ilk on ither's taes to get the chance</l>
+<l rend="indent4">To see us landin'.</l>
+<pb n="137"/>
+<l>The besoms! O they smiled to me -- an' yet</l>
+<l rend="indent4">They couldna' help it.</l>
+<l>(Mysel', I just was thinkin' foo we'd get</l>
+<l rend="indent4">They Gairmans skelpit.)</l></lg>
+
+<lg>
+<l>I'm wearied wi' them, for it's aye the same</l>
+<l rend="indent4">Whaure'er we gang,</l>
+<l>Oor Captain thinks we've got his een to blame,</l>
+<l rend="indent4">But man! he's wrang!</l>
+<l>I winna say he's no as smairt a lad</l>
+<l rend="indent4">As ye micht see</l>
+<l>Atween twa Sawbiths -- aye, he's no sae bad,</l>
+<l rend="indent4">But he's no me!</l></lg>
+
+<lg>
+<l>Weel, let the limmers bide; their bonnie lips</l>
+<l rend="indent4">Are fine an' reid,</l>
+<l>But me an' Weelum's got to get to grips</l>
+<l rend="indent4">Afore we're deid,</l>
+<l>An' gin he thinks he hasna' met his match</l>
+<l rend="indent4">He'll sune be wiser --</l>
+<l>Here's to mysel'! Here's to the auld Black Watch!</l>
+<l rend="indent4">An' damn the Kaiser!</l></lg>
+<byline>-- Violet Jacob.</byline>
+</div2>
+
+<pb n="138"/>
+<div2 id="cunliffe050" type="poem" n="A Legend of Ypres">
+<head rend="center">A LEGEND OF YPRES</head>
+
+<lg type="stanza">
+<l n="1">Before the throne the spirits of the slain</l>
+<l rend="indent">With a loud voice importunately cried,</l>
+<l rend="indent">"O Lord of Hosts, whose name be glorified,</l>
+<l>Scarce may the line one onslaught more sustain</l>
+<l>Wanting our help. Let it not be in vain,</l>
+<l rend="indent">Not all in vain, O God, that we have died."</l>
+<l rend="indent">And smiling on them our good Lord replied,</l>
+<l>"Begone then, foolish ones, and fight again."</l></lg>
+
+<lg>
+<l>Our eyes were holden, that we saw them not;</l>
+<l rend="indent">Disheartened foes beheld -- our prisoners said --</l>
+<l>Behind us massed, a mighty host indeed,</l>
+<l>Where no host was. On comrades unforgot</l>
+<l rend="indent">We thought, and knew that all those valiant dead</l>
+<l>Forwent their rest to save us at our need.</l></lg>
+<byline>-- Elinor Jenkins.</byline>
+<note>(See note on "The First Battle of Ypres," by Mrs. Margaret L. Woods, p. 290 of this volume.)</note>
+</div2> 
+
+
+<pb n="139"/>
+<div2 id="cunliffe051" type="poem" n="In Memoriam">
+<head rend="center">IN MEMORIAM</head>
+
+<note>(To Field-Marshal Lord Roberts of Kandahar, died November, 1914)</note>
+
+<lg type="stanza">
+<l n="1">R<hi rend="smallcaps">est</hi>, though the clamorous surge of war</l>
+<l rend="indent">Follow thy peace to the great doors of Death;</l>
+<l>As in thy fearless life, so now, the cannons' roar,</l>
+<l rend="indent">The roll of drums, at thy last breath</l>
+<l>Proclaim thee Conqueror!</l></lg>
+
+<lg>
+<l>The prophets and the warriors who have passed</l>
+<l rend="indent">That way before thy coming, welcome thee;</l>
+<l>The Angel's trumpet sounds a nobler blast,</l>
+<l rend="indent">And kings and knights of the old chivalry</l>
+<l>Now hail thee at the last.</l></lg>
+
+<lg>
+<l>Thy days, thy deeds, thy words of proven gold,</l>
+<l rend="indent">Thy son, and last of all, thyself did give</l>
+<l>For Country's sake, and now the tale is told</l>
+<l rend="indent">Thy splendid memory shall breathe and live</l>
+<l>Till all men's hearts lie cold.</l></lg>
+<byline>-- Edmund John.</byline>
+</div2>
+
+<pb n="140"/>
+<div2 id="cunliffe052" type="poem" n="India to England">
+<head rend="center">INDIA TO ENGLAND</head>
+
+<lg type="stanza">
+<l n="1">O E<hi rend="smallcaps">ngland</hi>! in thine hour of need,</l>
+<l>When Faith's reward and valor's meed</l>
+<l rend="indent4">Is death or glory,</l>
+<l>When Faith indites, with biting brand,</l>
+<l>Clasped in each warrior's stiffening hand,</l>
+<l rend="indent4">A nation's story;</l></lg>
+
+<lg>
+<l>Though weak our hands, which fain would clasp</l>
+<l>The warrior's sword with warrior's grasp</l>
+<l rend="indent4">On victory's field;</l>
+<l>Yet turn, O mighty Mother! turn</l>
+<l>Unto the million hearts that burn</l>
+<l rend="indent4">To be thy shield.</l></lg>
+
+<lg>
+<l>Thine equal justice, mercy, grace</l>
+<l>Have made a distant alien race</l>
+<l rend="indent4">A part of thee.</l>
+<l>'Twas thine to bid their souls rejoice</l>
+<l>When first they heard the living voice</l>
+<l rend="indent4">Of Liberty.</l></lg>
+
+<lg>
+<l>Unmindful of their a ancient name,</l>
+<l>And lost to honor -- glory -- fame,</l>
+<l rend="indent4">And sunk in strife,</l>
+<pb n="141"/>
+<l>Thou found them, whom thy touch hath made</l>
+<l>Men, and to whom thy breath conveyed</l>
+<l rend="indent4">A nobler life.</l></lg>
+
+<lg>
+<l>They, whom thy love hath guarded long;</l>
+<l>They, whom thy care bath rendered strong</l>
+<l rend="indent4">In love and faith,</l>
+<l>Their heartstrings round thy heart entwine,</l>
+<l>They are, they ever will be, thine</l>
+<l rend="indent4">In life -- in death.</l></lg>
+<byline>-- Nizamat Jung.</byline>
+<note rend="center">(Native Judge of the High Court of Hyderabad.)</note>
+
+051 p. 141

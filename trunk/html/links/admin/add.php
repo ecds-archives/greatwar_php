@@ -1,7 +1,7 @@
 <html>
   <head>
 <!--    <link rel="stylesheet" type="text/css" href="../wwi.css"> -->
-    <title>The Great War : Links : Admin : Approve Links</title>
+    <title>The Great War : Links : Admin : Add a New Link</title>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <!--    <base href="http://reagan.library.emory.edu/rebecca/wwiweb/"> -->
   </head>
@@ -9,22 +9,24 @@
 
 <?php
 include("../../config.php");
-include_once ("lib/alinkCollection.class.php");
+include_once ("lib/alinkRecord.class.php");
 include_once("lib/mybreadcrumb.php");
 
 include("header.php");
 print "<p class='breadcrumbs'>" . $breadcrumb->show_breadcrumb() . "</p>";
 
+print '<div class="content">'; 
+
 $args = array('host' => "vip.library.emory.edu",
 	      'db' => "WW1",
 	      'coll' => 'links',
-	      'limit_subject' => $subject[0],
-	      'sort' => $sort);
+	      'debug' => false);
+$link = new aLinkRecord($args);
 
-$linkset = new aLinkCollection($args);
+print "<h3>Submit a new link</h3>";
 
-print '<div class="content">'; 
-$linkset->printApprovalForm("do_approve.php");
+$link->printHTMLForm("add");
+
 print "</div>";
 
 print '<div class="sidebar">';

@@ -103,7 +103,7 @@ table.postcardnav td { text-align: left; }
 table.postcardnav td.maxdisplay { text-align: right; }
 p.postcardnav { font-size: 85%; }
 
-div.random_postcard { float: right; }
+div.random_postcard { float: right; width: 175px; }
 
 table.maxdisplay { float: right; margin-right: 215px; font-size: 85%; }
 table.maxdisplay td { text-align: right; }

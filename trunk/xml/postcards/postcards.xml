@@ -89,7 +89,7 @@ Baon<lb/>4 Feldkompagnie</figDesc>
 
 <figure entity="America_for_ever" ana="im-s nat-us nat-fr con-f">
 <head>America for ever</head>
-<figDesc>The phrase "America for ever" is embroidered beneath an embroidered American flag and green branches.  On reverse:  "Fabrication fran&ccedil;aise, vise Paris".</figDesc>
+<figDesc>The phrase "America for ever" is embroidered beneath an embroidered American flag and green branches.  On reverse:  "Fabrication fran&#x00E7;aise, vise Paris".</figDesc>
 </figure>
 
 <figure entity="anniversary" ana="nat-it nat-fr hf-p con-h im-ca t-wwi">
@@ -779,11 +779,12 @@ now assembled as God's happy warriors on the Plains of Peace.</p>
 </figure>
 
 <figure entity="liege_soldiers" ana="nat-fr mil-a hf-p con-h im-ca t-wwi">
-<head></head>
+<head>Liege</head>
 <figDesc>This postcard is a black and white cartoon of two soldiers walking with their chests stuck out. Text at bottom right of picture: "Pierre". Text at bottom center: "--Ils cherchent leur &eacute;tendard qu'ils ont &eacute;gar&eacute;/dans les environs de Li&egrave;ge./--They are looking for their flag and they have/mislaid somewhere about Liege." On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="loading_cannon" ana="mil-na im-ph t-pre">
+<head>Loading a cannon</head>
 <figDesc>This postcard is a black and white photo of sailors loading a cannon. Text at bottom left: "Copyright 1909 by G.W. Stilb." On reverse: blank.</figDesc>
 </figure>
 
@@ -855,7 +856,8 @@ Boulogne, Paris/Vis Paris, No. ad verso."</figDesc>
 <figDesc>This postcard is a color-tinted picture of a soldier and a woman with her arms around him. In the bottom center is a poem entitled "Nobody Else But You (1)". On reverse: "Reproduced by kind permission of B. Feldman &#x0026; Co., 2,3, and 4 Arthur Street, New Oxford Street, London, W.C., Valentine's Series"; "British Manufacture".</figDesc>
 </figure>
 
-<figure entity="wwi_ocean" ana="nat-us mil-na con-el im-ph t-post">
+<figure entity="ocean" ana="nat-us mil-na con-el im-ph t-post">
+<head>Ship's Wake</head>
 <figDesc>This postcard is a black and white photo of the ocean, a
 ship's wake and a plume of water. On reverse: blank.</figDesc>
 </figure>
@@ -1133,10 +1135,12 @@ R.I.CO.  Camp -- Grant Sleeping Quarters". On reverse: "Published by the Photo-P
 
 <figure entity="soldier_sailor" ana="nat-us mil-a con-v con-f hf-p
 	im-dr t-wwi">
+<head>To our Soldiers and Sailors</head>
 <figDesc>This postcard has an inset of two soldiers aiming their rifles, one in a boat and one in the water beside it. Text at bottom center: "To our Soldiers and Sailors--/Let us all sing their praise,/To the Blue and the Brown/Our hats let us raise." On reverse: "Pub by Christy Col Print. Eng. Inc Rochester N.Y. Series No 1."</figDesc>
 </figure>
 
 <figure entity="soldier_in_cross" ana="nat-de mil-f mil-p t-wwi">
+<head>Zur Erinnerung An Unsere Gefallenen Kameraden</head>
 <figDesc>This postcard is a black and white drawing of a cross with a picture of a soldier in a trench inside the cross. There are names and dates written all around the cross. Text to left of cross: "Zur Erinnerung An Unsere Gefallenen"; "Kameraden". Text to right of cross: "Und Zum Wohle Der Witwen"; "Waisen". Text at bottom of cross: "K.K.LIR. 1914/16". On reverse: handwritten message.</figDesc>
 </figure>
 
@@ -1146,10 +1150,12 @@ R.I.CO.  Camp -- Grant Sleeping Quarters". On reverse: "Published by the Photo-P
 </figure>
 
 <figure entity="soldier_tomb" ana="nat-de mil-a con-m im-ph">
+<head>Kriegerdenkmal</head>
 <figDesc>This postcard is a black and white photo of a tomb which has a stone covering shaped like a soldier. Text at bottom left: "M&uuml;nchen. Kriegerdenkmal." On reverse: "No 13025 August Zerle, M&uuml;nchen, Viktoriastr.1.Nachdruck verboten."; "Echte Photographie".</figDesc>
 </figure>
 
 <figure entity="soldiers_letter" ana="nat-us mil-a hf-h con-v im-dr t-wwi">
+<head>A letter</head>
 <figDesc>This postcard is a color drawing of three soldiers reading a letter. Two of them are smoking pipes and in the smoke is a picture of a home. Text at bottom right: "A letter from one so far away/Makes the outlook Brighter,/Clears the way and cheers the day/And makes our Tasks the lighter." On reverse: "&copy; Illustrated Postal Card &#x0026; Nov. Co. N.Y."; "Printed in the U.S.A."</figDesc>
 </figure>
 
@@ -1294,10 +1300,12 @@ the crest on the right. On reverse: At bottom: "B.K.W.I. 259-176" and at left:
 </figure>
 
 <figure entity="warriors" ana="im-po nat-de t-pre">
+<head>Bismark quote</head>
 <figDesc>This postcard is a color drawing of warriors. Text at bottom center: "Wir werden mit eisernem Schritte zermalmen was der herstellung deutscher Nation in ihrer herrlichkeit und Macht entgegensteht! Bismark am 23 Marz 1870 in Reichstage". On reverse: "K&uuml;nstlerkarten 'Deutsche Art', erste Reihe, Nr. 3, herausgegeben von der Buchhandlung des Deutschnationalen handlungsgehilfen-Verbaudes in Hamburg, Holstenwall 4"; handwritten message.</figDesc>
 </figure>
 
 <figure entity="waterfront" ana="nat-us mil-na con-el im-ph t-wwi">
+<head>Waterfront</head>
 <figDesc>This postcard is a sepia-toned photo of soldiers standing on a pier. On reverse: blank.</figDesc>
 </figure>
 
@@ -1626,6 +1634,7 @@ kilt. On reverse: faint printing "Wall Studios Edinburgh".</figDesc>
 </figure>
 
 <figure entity="two_soldiers_in_trench" ana="nat-de mil-a mil-f im-ph t-wwi">
+<head>Soldiers in a Trench</head>
 <figDesc>This postcard is a black and white photo of two soldiers in a well-hidden trench. On reverse: handwritten message.</figDesc>
 </figure>
 

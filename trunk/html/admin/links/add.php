@@ -1,6 +1,7 @@
 <?php
 include("../../config.php");	
 
+
 print "<html>
   <head>
     $csslink
@@ -21,6 +22,7 @@ print '<div class="content">';
 $args = array('host' => $tamino_server,
 	      'db' => $tamino_db,
 	      'coll' => $tamino_coll['links'],
+       	      'contributor' => $_SESSION['name'],
 	      'debug' => false);
 $link = new aLinkRecord($args);
 

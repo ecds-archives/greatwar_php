@@ -21,6 +21,7 @@ $id = $_GET["id"];
 $args = array('host' => $tamino_server,
 	      'db' => $tamino_db,
 	      'coll' => $tamino_coll['links'],
+     	      'ed_contributor' => $_SESSION['name'],
 	      'id' => $id);
 $link = new aLinkRecord($args);
 $link->taminoGetRecord();

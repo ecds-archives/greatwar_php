@@ -276,7 +276,7 @@ class taminoConnection {
        $_term = str_replace("*", "\w+", $term[$i]);
      // Note: regexp is constructed to avoid matching/highlighting the terms in a url or img tag
        // FIXME: breaking words at end of tag (</h4>, </li>... )
-       $this->xsl_result = preg_replace("/([^=|']\b)($_term)(\b[^\.])/i",
+       $this->xsl_result = preg_replace("/([^=|']\/\b)($_term)(\b[^\.])/i",
 	      "$1" . $this->begin_hi[$i] . "$2$this->end_hi$3", $this->xsl_result);
      }
    }

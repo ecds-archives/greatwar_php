@@ -11,6 +11,7 @@ class linkCollection {
   var $ids;
   var $sort;         // sort linkRecords by: title|contrib|date 
   var $sort_opts;
+  var $user_sort_opts;
   var $pretty_sort_opts;
   var $sortfield;
 
@@ -25,6 +26,7 @@ class linkCollection {
     $this->subject = new subjectList($argArray);
 
     $this->sort_opts = array("title", "date","contrib");
+    $this->user_sort_opts = $this->sort_opts;
     $this->pretty_sort_opts['date'] = "Date Submitted";
     $this->pretty_sort_opts['title'] = "Title";
     $this->pretty_sort_opts['contrib'] = "Contributor";
@@ -107,19 +109,25 @@ class linkCollection {
 
 
   // print sort options linked to the url passed in
-  // FIXME: may need some kind of mode-- user vs. admin ?
-  function printSortOptions ($url) {
+  // mode-- user vs. admin ?
+  function printSortOptions ($url, $mode = "user") {
     print "<p align='center'><b>Sort by:</b> ";
-    foreach ($this->sort_opts as $s) {
-      if ($s != $this->sort_opts[0]) {
-	// print a separator between terms
-	print " | ";
+    if ($mode == "user") {
+      $sort = $this->user_sort_opts;
+    } else if ($mode == "admin") {
+      $sort = $this->sort_opts;
+    }
+
+    foreach ($sort as $s) {
+      if ($s != $sort[0]) {
+	 // print a separator between terms
+	 print " | ";
       }
       if ($s == $this->sort) {
 	print "&nbsp;" . $this->pretty_sort_opts[$s] . "&nbsp;";
       } else {
 	print "&nbsp;<a href='$url?sort=$s'>" . 
-	  $this->pretty_sort_opts[$s] . "</a>&nbsp;";
+	$this->pretty_sort_opts[$s] . "</a>&nbsp;";
       }
     }
     print "</p>";

@@ -27,7 +27,11 @@ $kw = $_GET["keyword"];
 $title = $_GET["title"];
 $author = $_GET["author"];
 $date = $_GET["date"];
-$terms = explode(" ", $kw);    // there can be multiple search terms, divided by spaces
+// clean up input so explode will work properly
+$kw = preg_replace("/\s+/", " ", $kw);  // multiple white spaces become one space
+$kw = preg_replace("/\s$/", "", $kw);	// ending white space is removed
+$terms = explode(" ", $kw);    // multiple search terms, divided by spaces
+
 // construct the query, based on which terms are set
 $declare ='declare namespace tf="http://namespaces.softwareag.com/tamino/TaminoFunction" ';
 $for = ' for $a in input()/TEI.2/:text/body/div1/div2 ';
@@ -44,7 +48,7 @@ $return = ' return <div2> {$a/@type} {$a/@id} {$a/@n} {$a/byline} {$a/../docAuth
 if ($terms[0]) {
    $return .= " {for \$l in \$a//l where ";
    foreach ($terms as $t) {
-     if ($t != $terms[0]) { $query .= " or "; }
+     if ($t != $terms[0]) { $return .= " or "; }
      $return .= " tf:containsText(\$l, '$t') ";
    }
    $return .= " return \$l }  ";
@@ -62,28 +66,22 @@ $xsl_file = "poetry.xsl";
 $pos = 1;
 $maxdisplay = 50;
 
-$rval = $tamino->xquery($query, $pos, $maxdisplay); 
-if ($rval) {       // tamino Error code (0 = success) 
-  print "<p>Error: failed to retrieve contents.<br>";
-  print "(Tamino error code $rval)</p>";
-  exit();
-}
-$tamino->getXQueryCursor();
+$tamino->xquery($query, $pos, $maxdisplay); 
 
 include("header.php");
 print "<p class='breadcrumbs'>" . $breadcrumb->show_breadcrumb() . "</p>";
 
-
 print '<div class="content">'; 
-
-print "<p>Found " . $tamino->count . " matches</p>";
+print "<p align='center'>Found " . $tamino->count . " match";
+if ($tamino->count != 1) { print "es"; }
+print " </p>";
 $tamino->xslTransform($xsl_file, $xsl_params);
 $tamino->printResult($terms);
 print '</div>';
 
 print '<div class="sidebar">';
 include("nav.html");
-include("searchbox.html");
+include("searchbox.php");
 print '</div>';
 
 include("footer.html");

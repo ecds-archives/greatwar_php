@@ -28,7 +28,7 @@ $breadcrumb->changeFileName = array("$base_path/searchall.php" => "Keyword Searc
        				    "$base_path/admin/links/do_modify.php" => "Process Modification",
 				  );
 
-$breadcrumb->changeDirLink = array("$base_path/postcards/" => "browse.php",
+$breadcrumb->changeDirLink = array("$base_path/postcards/" => "index.php",
 				   "$base_path/poetry/" => "browse.php",
 				   "$base_path/links/" => "browse.php",
 				   "$base_path/admin/links/" => "view.php",

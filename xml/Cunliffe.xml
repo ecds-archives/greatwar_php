@@ -2941,7 +2941,6 @@ message, see!</l>
 <div2 id="cunliffe066" type="poem" n="India to England">
 <docAuthor n="Jung, Nizamat">Nizamat Jung</docAuthor>
 <head rend="center">INDIA TO ENGLAND</head>
-<ab><ptr target="cunliffe066note" targOrder="U"/></ab>
 <lg type="stanza">
 <l n="1">O <hi rend="smallcap">England</hi>! in thine hour of need,</l>
 <l>When Faith's reward and valor's meed</l>
@@ -2982,9 +2981,7 @@ message, see!</l>
 <l>Their heartstrings round thy heart entwine,</l>
 <l>They are, they ever will be, thine</l>
 <l rend="indent4">In life -- in death.</l></lg>
-<byline>-- Nizamat Jung.</byline>
-</div2>
-<div2 type="notes" id="cunliffe066note"><ab><ptr target="cunliffe066" targOrder="U"/></ab><note rend="center" anchored="yes">(Native Judge of the High Court of Hyderabad.)</note>
+<byline>-- Nizamat Jung.<lb/>(Native Judge of the High Court of Hyderabad.)</byline>
 </div2>
 
 

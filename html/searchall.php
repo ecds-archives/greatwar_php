@@ -20,6 +20,11 @@ $dosearch["poetry"] = $_GET["poetry"];		// which searches to do
 $dosearch["postcards"] = $_GET["postcards"];
 $dosearch["links"] = $_GET["links"];
 
+// clean up input so explode will work properly
+$kw = preg_replace("/\s+/", " ", $kw);  // multiple white spaces become one space
+$kw = preg_replace("/\s$/", "", $kw);	// ending white space is removed
+$terms = explode(" ", $kw);    // multiple search terms, divided by spaces
+
 // base settings used by all three searches
 $args = array('host' => $tamino_server,
 	      'db' => $tamino_db,
@@ -44,11 +49,27 @@ $query = $for = $return = $xsl_file =  $xsl_params = array();
 $declare = 'declare namespace tf="http://namespaces.softwareag.com/tamino/TaminoFunction" ';
 $for["postcards"] = 'for $a in input()/TEI.2/:text/body/p/figure ';
 $for["poetry"] = 'for $a in input()/TEI.2/:text/body/div1/div2[@type="poem"] ';
-$where = "where tf:containsText(\$a, '$kw') ";
+//$where = "where tf:containsText(\$a, '$kw') ";
+$where = "where";
+if ($terms[0]) {
+  foreach ($terms as $t) {
+    if ($t != $terms[0]) { $where .= " and "; }
+    $where .= " tf:containsText(\$a, '$t') ";
+  }
+}
+
 $return["postcards"] = "return <div> {\$a} <total> {count(" . $for["postcards"] . " $where return \$a)}</total> </div>";
-$return["poetry"] = ' return <div><div2> {$a/@type} {$a/@id} {$a/@n} {$a/byline} {$a/../docAuthor} 
-{for $l in $a//l where tf:containsText($l, ' . "'$kw'" . ') return $l }
-<linecount> { count($a//l) } </linecount> </div2><total> {count(' . $for["poetry"] . " $where return \$a)}</total></div> sort by (@n) ";  
+$return["poetry"] = ' return <div><div2> {$a/@type} {$a/@id} {$a/@n} {$a/byline} {$a/../docAuthor} ';
+if ($terms[0]) {
+   $return["poetry"] .= " {for \$l in \$a//l where ";
+   foreach ($terms as $t) {
+     if ($t != $terms[0]) { $return["poetry"] .= " or "; }
+     $return["poetry"] .= " tf:containsText(\$l, '$t') ";
+   }
+   $return["poetry"] .= " return \$l }  ";
+}
+// {for $l in $a//l where tf:containsText($l, ' . "'$kw'" . ') return $l }
+$return["poetry"] .= '<linecount> { count($a//l) } </linecount> </div2><total> {count(' . $for["poetry"] . " $where return \$a)}</total></div> sort by (@n) ";  
 
 foreach ($search as $s) {
   if ($s == "links") next;
@@ -88,7 +109,8 @@ foreach ($search as $s) {
       $db[$s]->printSummary();
     } else {
       $db[$s]->xslTransform($xsl_file[$s], $xsl_params[$s]); 
-      $db[$s]->printResult(array($kw));
+      //      $db[$s]->printResult(array($kw));
+      $db[$s]->printResult($terms);
     }
   }
 } 

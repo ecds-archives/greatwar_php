@@ -25,11 +25,13 @@ $args = array('host' => $tamino_server,
 
 $linkset = new aLinkCollection($args);
 
-print '<div class="content">'; 
+print '<div class="content">';
+
+print "<p>Testing URL responses...</p>\n";
 
 $linkset->printUrlStatus($id);
 
-print "</div>";
+print "</div>\n";
 
 print '<div class="sidebar">';
 include("nav.html");

@@ -40,8 +40,10 @@ class alinkRecord extends linkRecord {
   }
 
   function printHTML ($show_edits = 1) {
-      parent::printHTML($show_edits);	// call base class function first
-      print "<p>Approved: " . $this->approved . "</p>";
+    print "<p class='alinkRecord'>";
+    parent::printHTML($show_edits);	// call base class function first
+    $astatus = ($this->approved == "yes") ? "Yes" : "Pending";
+    print "Approved: $astatus</p>";
   }
 
   //mark a record as approved

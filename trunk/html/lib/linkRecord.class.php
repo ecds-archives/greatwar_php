@@ -16,6 +16,7 @@ class linkRecord {
   var $subject;  
   var $description;
   var $contributor;
+  var $ed_contributor;
   var $date;
   var $lastModified;
   var $edit;
@@ -37,6 +38,7 @@ class linkRecord {
     $this->title = $argArray['title'];
     $this->description = $argArray['description'];
     $this->contributor = $argArray['contributor'];
+    $this->ed_contributor = $argArray['ed_contributor'];
     $this->date = $argArray['date'];
     // initialize lastModified to same as date, at first
     $this->lastModified = $argArray['date'];
@@ -108,6 +110,8 @@ class linkRecord {
       print "(Tamino error code $rval)</p>";
     } else {            // xquery succeeded
       $xmlRecord = $this->tamino->xml->getBranches("ino:response/xq:result/linkRecord");
+//      $id = $this->tamino->xml->getBranches("ino:response/xq:result/linkRecord/dc:identifier");
+//      print "TESTING: simple xml url is $id<br>\n";
 
       // id should be set initially (key value)
       //      $this->id = $this->tamino->xml->getTagAttribute("id", "ino:response/xq:result/linkRecord");
@@ -130,7 +134,6 @@ class linkRecord {
 	  }       
 	}
 	// get any editing information
-
 
 	$edits = $this->tamino->xml->getBranches("ino:response/xq:result/linkRecord/edit");
 	//	$edits = $xmlRecord[0]->getBranches("edit");
@@ -324,7 +327,13 @@ class linkRecord {
 
       print "<tr><th class='label' colspan='2'>Current Edit</th></tr>\n";
 
-      print "<tr><th>Edited by:</th><td><$textinput name='mod_contrib'></td></tr>\n";
+      print "<tr><th>Edited by:</th><td>";
+      if (isset($this->contributor)) {
+        print "<$textinput name='mod_contrib' value='$this->ed_contributor'>\n";
+      } else {
+        print "<$textinput name='mod_contrib'>\n";
+      }
+      print "</td></tr>\n";
       print "<tr><th>Description of change:</th>\n";
       print "<td><textarea cols='50' rows='4' name='mod_desc'></textarea></td></tr>\n";
       print "<tr><th>Date Modified:</th><td><$textinput name='mod_date' value='" . date("Y-m-d g:i A") . "'></td></tr>\n";

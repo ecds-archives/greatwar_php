@@ -15,7 +15,11 @@ class linkCollection {
   var $pretty_sort_opts;
   var $sortfield;
 
+  var $count;
+
+  // limit by subject or keyword
   var $limit_subject;
+  var $search;
 
   var $dcns;
   var $xquery;
@@ -37,20 +41,36 @@ class linkCollection {
     $this->sort = $argArray['sort'];
     $this->limit_subject = $argArray['limit_subject'];
 
+    // keyword search term
+    $this->search["keyword"] = $argArray['keyword'];
+
     if ($this->sort == '') { $this->sort = "title"; }  // default
 
     // Dublin Core namespace
     $this->dcns = "dc='http://purl.org/dc/elements/1.1/'";
     // xquery to retrieve all linkRecord identifiers from tamino
-    $this->xquery = "declare namespace $this->dcns" . 
-      'for $b in input()/linkCollection/linkRecord/@id';
+    $declare = "declare namespace $this->dcns 
+	declare namespace tf='http://namespaces.softwareag.com/tamino/TaminoFunction'"; 
+    $for =  'for $b in input()/linkCollection/linkRecord/@id';
+    $cond_i = 0;	// condition index/count
     if (isset($this->limit_subject) && ($this->limit_subject != '') 
 	&& ($this->limit_subject != 'all')) {
-      $this->xquery .= " where \$b/../dc:subject = '$this->limit_subject' ";
+      $cond[$cond_i] = " \$b/../dc:subject = '$this->limit_subject' ";
+      $cond_i++;
     }
-    $this->xquery .= ' return $b ';
-    $this->xquery .= " sort by (../" . $this->sortfield[$this->sort] . ")"; 
-    // return \$b sort by (../" . $this->sortfield[$this->sort] . ")";  
+    if (isset($this->search["keyword"]) && ($this->search["keyword"] != '')) {
+      $cond[$cond_i] = ' tf:containsText($b/.., "' . $this->search["keyword"] . '") ';
+      $cond_i++;
+    }
+    if ($cond_i > 0) {		// there is at least one condition set
+      $where = "where $cond[0]";
+      for ($i = 1; $i < $cond_i; $i++) {	// add any more conditions
+        $where .= " and $cond[$i]";
+      }
+    } else { $where = ""; }
+    $return = 'return $b';
+    $sort = " sort by (../" . $this->sortfield[$this->sort] . ")";
+    $this->xquery = "$declare $for $where $return $sort";
 
     // initialize id list from Tamino  
     $this->taminoGetIds(); 
@@ -61,6 +81,7 @@ class linkCollection {
       $this->link[$i] = new linkRecord($linkargs);
       $this->link[$i]->taminoGetRecord();
     }
+    $this->count = count($this->link);
   }
 
   // retrieve all the linkRecord ids

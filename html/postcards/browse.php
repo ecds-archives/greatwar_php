@@ -3,6 +3,7 @@
     <link rel="stylesheet" type="text/css" href="wwi.css">
     <title>The Great War : Postcards : Thumbnails</title>
     <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+    <base href="http://reagan.library.emory.edu/rebecca/ilnweb/">
   </head>
 <body>
 

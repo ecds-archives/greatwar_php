@@ -63,6 +63,7 @@ class taminoConnection {
       print "DEBUG: In function taminoConnection::xquery, url is $myurl.<p>";
     }
 
+    
     $this->xmlContent = file_get_contents($myurl);
     if ($this->debug) {
       $copy = $this->xmlContent;
@@ -71,34 +72,39 @@ class taminoConnection {
       print "DEBUG: in taminoConnection::xquery, xmlContent is <pre>$copy</pre>"; 
     }
 
-    $length = strlen($this->xmlContent);
-    if ($length < 500000) {
-      // phpDOM can only handle xmlContent within certain size limits
-      $this->xml = new XML($this->xmlContent);
-      if (!($this->xml)) {        ## call failed
-	print "TaminoConnection::xquery Error: unable to retrieve xml content, or result size is too large.<br>";
-      }
-      $error = $this->xml->getTagAttribute("ino:returnvalue", 
+    if ($this->xmlContent) {		// if xquery was successful
+      $length = strlen($this->xmlContent);
+      if ($length < 500000) {
+        // phpDOM can only handle xmlContent within certain size limits
+        $this->xml = new XML($this->xmlContent);
+        if (!($this->xml)) {        ## call failed
+  	print "TaminoConnection::xquery Error: unable to retrieve xml content, or result size is too large.<br>";
+        }
+        $error = $this->xml->getTagAttribute("ino:returnvalue", 
 					   "ino:response/ino:message");
-    } else {
-      // not really a tamino error.... might have unexpected results
-      $this->xml = 0;
-      $error = 0;
-    }
-
-    if (!($error)) {    // tamino Error code (0 = success)
-      $this->getXQueryCursor();
-    } else if ($error == "8306") {	    // invalid cursor position (also returned when there are no matches)
-      $this->count = $this->position = $this->quantity = 0;
-      if ($debug) {
-	print "DEBUG: Tamino error 8306 = invalid cursor position<br>\n";
+      } else {
+        // not really a tamino error.... might have unexpected results
+        $this->xml = 0;
+        $error = 0;
       }
-    } else if ($error) {
-       $this->count = $this->position = $this->quantity = 0;
-       print "<p>Error: failed to retrieve contents.<br>";
-       print "(Tamino error code $error)</p>";
-    }
 
+      if (!($error)) {    // tamino Error code (0 = success)
+       $this->getXQueryCursor();
+      } else if ($error == "8306") {	    // invalid cursor position (also returned when there are no matches)
+        $this->count = $this->position = $this->quantity = 0;
+        if ($debug) {
+  	print "DEBUG: Tamino error 8306 = invalid cursor position<br>\n";
+        }
+      } else if ($error) {
+         $this->count = $this->position = $this->quantity = 0;
+         print "<p>Error: failed to retrieve contents.<br>";
+         print "(Tamino error code $error)</p>";
+      }
+
+    } else {
+      print "<p><b>Error:</b> unable to access database.</p>";
+      $error = -1;
+    }
     return $error;	// return tamino error code, in case user wants to check it
   }
 
@@ -225,25 +231,29 @@ class taminoConnection {
    
 
    // transform the tamino XML with a specified stylesheet
-   function xslTransform ($xsl_file, $xsl_params = NULL) { 
-     // create xslt handler
-     $xh = xslt_create();
-     // specify file base so that xsl includes will work
-     // Note: last / on end of fileBase is important!
-     $fileBase = "file://$this->basedir/xsl/";
-     //  print "file base is $fileBase<br>";
-     xslt_set_base($xh, $fileBase);
+   function xslTransform ($xsl_file, $xsl_params = NULL) {
+     if ($this->xmlContent) {	// xquery succeeded, there is xml to process
+       // create xslt handler
+       $xh = xslt_create();
+       // specify file base so that xsl includes will work
+       // Note: last / on end of fileBase is important!
+       $fileBase = "file://$this->basedir/xsl/";
+       //  print "file base is $fileBase<br>";
+       xslt_set_base($xh, $fileBase);
 
-     $args = array('/_xml' => $this->xmlContent);
-     $this->xsl_result = xslt_process($xh, 'arg:/_xml', $xsl_file, NULL, $args, $xsl_params);
+       $args = array('/_xml' => $this->xmlContent);
+       $this->xsl_result = xslt_process($xh, 'arg:/_xml', $xsl_file, NULL, $args, $xsl_params);
      
-     if ($this->xsl_result) {
-       // Successful transformation
-     } else {
-       print "Transformation failed.<br>";
-       print "Error: " . xslt_error($xh) . " (error code " . xslt_errno($xh) . ")<br>";
+       if ($this->xsl_result) {
+         // Successful transformation
+       } else {
+         print "Transformation failed.<br>";
+         print "Error: " . xslt_error($xh) . " (error code " . xslt_errno($xh) . ")<br>";
+       }
+       xslt_free($xh);
+     } else {	// xquery failed, no xml to process
+       if ($debug) { print "<p><b>Warning:</b> XML content unavailable to transform.</p>"; }
      }
-     xslt_free($xh);
    }
 
    function printResult ($term = NULL) {

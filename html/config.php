@@ -2,9 +2,13 @@
 
 /* Configuration settings for entire site */
 
+// pick up login/authorization information
+session_start();
+
 // set level of php error reporting --  ONLY display errors
 // (will hide ugly warnings if databse goes offline/is unreachable)
 error_reporting(E_ERROR);
+//error_reporting(E_ERROR | E_PARSE);    // for development
 
 // root directory and url where the website resides
 $basedir = "/home/httpd/html/cti/greatwar";
@@ -28,4 +32,5 @@ $tamino_db = "WW1";
 $tamino_coll["poetry"] = "poetry";
 $tamino_coll["links"] = "links";
 $tamino_coll["postcards"] = "postcards";
+//$tamino_coll["postcards"] = "postcards-test";
 ?>

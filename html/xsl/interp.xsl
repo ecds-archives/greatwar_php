@@ -7,6 +7,7 @@
 
 
 <xsl:param name="desc"/>
+<xsl:param name="max"/>
 <xsl:param name="mode"/>	
 <!-- default mode: output pretty linked list; form mode: select box -->
 
@@ -61,7 +62,7 @@ select="@type"/>')</xsl:attribute>
   <li>
    <xsl:element name="a">
      <xsl:attribute name="href">postcards/browse.php?cat=<xsl:value-of
-select="@id"/>&amp;desc=<xsl:value-of select="$desc"/></xsl:attribute>
+select="@id"/>&amp;desc=<xsl:value-of select="$desc"/>&amp;max=<xsl:value-of select="$max"/></xsl:attribute>
      <xsl:value-of select="@value"/>
    </xsl:element>
   </li>

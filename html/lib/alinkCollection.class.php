@@ -34,6 +34,17 @@ class aLinkCollection extends linkCollection {
     }
    }
 
+  // return the number of links needing approval
+  function approveCount () {
+    $count = 0;
+    foreach ($this->ids as $i) {
+      if ($this->link[$i]->approved == "no") {
+	$count++;
+      }
+    }
+    return $count;
+  }
+  
   // print out an approval form to approve submitted links
   function printApprovalForm ($url) {
     $count = 0;

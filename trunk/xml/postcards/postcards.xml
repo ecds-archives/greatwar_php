@@ -3301,7 +3301,11 @@ Soldatenliederpostkarte No. 8 von Paul Hen.
 
 <figure entity="armistice_souvenir_7" ana="nat-fr mil-a im-ph t-wwi">
 <head>Souvenir De L'Armistice: le Monument du "Matin"</head>
-<figDesc>This postcard is the seventh in a set of ten miniature postcards from Paris labeled "Souvenir De L'Armistice". It is a black and white photo of a large stone monument. In the bottom right corner of the picture is a "7". On the outside of the enclosing envelope is "7. -- Le Monument du <<Matin>>." On reverse: blank.</figDesc>
+<figDesc>This postcard is the seventh in a set of ten miniature
+postcards from Paris labeled "Souvenir De L'Armistice". It is a black
+and white photo of a large stone monument. In the bottom right corner
+of the picture is a "7". On the outside of the enclosing envelope is
+"7. -- Le Monument du &#x00AB;Matin&#x00BB;." On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="armistice_souvenir_8" ana="nat-fr mil-a im-ph t-wwi">

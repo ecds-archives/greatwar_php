@@ -14,6 +14,8 @@
 
 <xsl:param name="mode"/>
 <xsl:param name="selflink"/>	<!-- for use with footnotes -->	
+<xsl:param name="max"/>
+<xsl:param name="position"/>
 
 <!-- options:
      browse = list of titles with author/editor
@@ -38,9 +40,25 @@
         <xsl:attribute name="language">Javascript</xsl:attribute>
         <xsl:attribute name="src">toggle-list.js</xsl:attribute>
       </xsl:element> <!-- script -->
+	<p>Displaying poets 
+	<xsl:call-template name="lastname">
+   	<xsl:with-param name="author"><xsl:value-of select="//div[1]/docAuthor/@n"/></xsl:with-param>
+ 	</xsl:call-template>
+	- 
+	<xsl:call-template name="lastname">
+   	<xsl:with-param name="author"><xsl:value-of select="//div[last()]/docAuthor/@n"/></xsl:with-param>
+ 	</xsl:call-template>
+<br/>
+<!-- link to next and previous -->
+<xsl:call-template name="poetlinks"/>
+	</p>
+
       <ul>
         <xsl:apply-templates select="//div" mode="poetbrowse"/>
      </ul>
+<!-- also link at the bottom of the list  -->
+<p><xsl:call-template name="poetlinks"/></p>
+
     </xsl:when>
     <xsl:when test="$mode='contents'">
       <xsl:apply-templates select="//div" mode="contents"/>
@@ -82,7 +100,8 @@
   <xsl:choose>
     <xsl:when test="docAuthor/@n = preceding-sibling::div[1]/docAuthor/@n">
     </xsl:when>
-    <xsl:otherwise>
+      <!-- only print if docAuthor is actually defined -->
+    <xsl:when test="docAuthor/@n">
     <div class="toggle">
 	<!-- added position to lastname to ensure uniqueness -->
     <xsl:variable name="lastname">
@@ -99,10 +118,35 @@
         <xsl:apply-templates select="key('poetkey', docAuthor/@n)" mode="poetbrowsetitle"/>
       </ul>
      </div>
-    </xsl:otherwise>
+    </xsl:when>
+    <xsl:otherwise/>
   </xsl:choose>
 
 </xsl:template>
+
+
+<xsl:template name="poetlinks">
+<!-- FIXME: this count still seems a bit off -->
+<xsl:variable name="poetcount"><xsl:value-of select="count(//div/docAuthor/@n[not(preceding-sibling::div/docAuthor/@n = .)])"/></xsl:variable>
+
+  <!-- links to next & previous sets of poets -->
+  <xsl:if test="$position != 1"> 		<!-- if not the first set, link back -->
+   <a>
+   <xsl:attribute name="href"><xsl:value-of select="concat($selflink,
+'?max=', $max, '&amp;position=')"/><xsl:value-of select="$position - $max"/></xsl:attribute>
+   &lt; Previous</a>
+   </xsl:if>
+   <!-- if displaying both links, put a little divider -->
+   <xsl:if test="$position != 1 and $poetcount >= $max"><xsl:text> | </xsl:text></xsl:if>
+   <!-- if # of poets = maxdisplay, there are (probably) more poets -->
+   <xsl:if test="$poetcount >= $max">
+   <a>
+   <xsl:attribute name="href"><xsl:value-of select="concat($selflink,
+'?max=', $max, '&amp;position=')"/><xsl:value-of select="$position + $max"/></xsl:attribute>
+   Next &gt;</a>
+   </xsl:if>
+</xsl:template>
+
 
 <!-- poems should link to the poem page -->
 <xsl:template match="div[@type='poem']" mode="poetbrowsetitle">
@@ -373,5 +417,18 @@
 </xsl:template>
 
 
+<xsl:template name="lastname">
+  <xsl:param name="author"/>
+  
+  <xsl:choose>
+    <xsl:when test="contains($author, ',')">
+	<xsl:value-of select="substring-before($author, ',')"/>
+    </xsl:when>
+    <xsl:otherwise>
+	<xsl:value-of select="$author"/>
+    </xsl:otherwise>
+  </xsl:choose>
+
+</xsl:template>
 
 </xsl:stylesheet>

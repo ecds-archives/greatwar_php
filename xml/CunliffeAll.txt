@@ -1,0 +1,655 @@
+<pb n="1"/>
+<div1 id="cunliffe001" type="anthology" n="Poems of the Great War">
+<head rend="center">POEMS OF THE GREAT WAR</head>
+
+<div2 id="cunliffe002" type="poem" n="Writen on Service in Egypt">
+<head rend="center">WRITTEN ON SERVICE IN EGYPT</head>
+<ref target="cunliffe002n1">1</ref>
+<note id="cunliffe002n1" place="foot" n="1">
+When last heard from, the author, who is a British officer, was on service at Khartoum.</note>
+
+<lg type="stanza">
+<l n="1">B<hi rend="smallcaps">ehind</hi> us in vermilion state</l>
+<l>The sun fell to the rustling sea,</l>
+<l>The grey-green twilight came and went,</l>
+<l>And night involved my friend and me.</l></lg>
+
+<lg>
+<l>Now Egypt donned her fairest robes</l>
+<l>Of glimmering moonshine cool and clear:</l>
+<l>No more we talked, and silently</l>
+<l>Made o'er the waste to Abu Qir.</l></lg>
+
+<lg>
+<l>For, with the twilight, twilight dreams</l>
+<l>Had come and borne our souls away,</l>
+<l>Though still our bodies onward fared</l>
+<l>Toward the palm-trees and the bay.</l></lg>
+
+<lg>
+<l>And my companion now, I think,</l>
+<l>With brother-artists once again</l>
+<l>Was painting in the atelier,</l>
+<l>Or down some dear Parisian lane</l></lg>
+
+<lg>
+<pb n="2"/>
+<l>Was seeking with a motley throng</l>
+<l>That well-remembered brasserie,</l>
+<l>And Trilby, hanging on his arm,</l>
+<l>Was laughing at him merrily.</l></lg>
+
+<lg>
+<l>But I, ah, where was I? Afar</l>
+<l>I'd flown to that enchanted shore,</l>
+<l>Where o'er white-flashing waves the wind</l>
+<l>From Donegal to Mullaghmore</l>
+<l>Comes gallivanting bold and free --</l>
+<l rend="indent">God grant again I there may be,</l>
+<l rend="indent">At Mullaghmore, with Rosalind.</l></lg>
+</div2>
+
+
+<pb n="3"/>
+<div2 id="cunliffe003" type="poem" n="War Yawp">
+<head rend="center">WAR YAWP</head>
+
+<lg type="stanza">
+<l n="1" rend="italic">America!</l>
+<l rend="italic">England's cheeky kid brother,</l>
+<l rend="italic">Who bloodily assaulted your august elder</l>
+<l rend="italic">At Bunker Hill and similar places</l>
+<l rend="italic">(Not mentioned in our history books),</l>
+<l rend="italic">What can I tell you of war or of peace?</l>
+<l rend="italic">Say, have you forgotten 1861?</l>
+<l rend="italic">Bull Run, Gettysburg, Fredericksburg?</l>
+<l rend="italic">Your million dead?</l>
+<l rend="italic">Tell me,</l>
+<l rend="italic">Was that the greatest time of your lives</l>
+<l rend="italic">Or the most disastrous?</l>
+<l rend="italic">Who knows? Not you; not I.</l>
+<l rend="italic">Who can tell the end of this war?</l>
+<l rend="italic">And say, brother Jonathan,</l>
+<l rend="italic">D'you know what it's all about?</l>
+<l rend="italic">Let me whisper you a secret -- we don't!</l>
+<l rend="italic">We were all too fat with peace,</l>
+<l rend="italic">Or perhaps we didn't quite know how good peace was,</l>
+<l rend="italic">And so here we are,</l>
+<l rend="italic">And we're going to win....</l></lg>
+
+<lg>
+<l>It's fine to be a soldier,</l>
+<l>To get accepted by the recruiting sergeant,</l>
+<pb n="4"/>
+<l>Be trained, fitted with a uniform and a gun,</l>
+<l>Say good-bye to your girl,</l>
+<l>And go off to the front</l>
+<l>Whistling, "It's a long way to Tipperary."</l>
+<l>It's good to march forty miles a day,</l>
+<l>Carrying ninety-one pounds on your back,</l>
+<l>To eat good coarse food, get blistered, tired out, wounded,</l>
+<l>Thirst, starve, fight like a devil</l>
+<l>(<hi rend="italic">i.e.</hi>, like you an' me, Jonathan),</l>
+<l>With the Maxims zip-zipping</l>
+<l>And the shrapnel squealing,</l>
+<l>And the howitzers rumbling like the traffic in Piccadilly.</l></lg>
+
+<lg>
+<l>Civilization? --</l>
+<l>Jonathan, if you could hear them</l>
+<l>Whistling the <hi rend="italic">Marseillaise</hi> or <hi rend="italic">Marching Through Georgia</hi>,</l>
+<l>You'd want to go too.</l>
+<l>Twenty thousand a day, Jonathan!</l>
+<l>Perhaps you're more civilized just now than we are,</l>
+<l>Perhaps we've only forgotten civilization for a moment,</l>
+<l>Perhaps we're really fighting for peace.</l>
+<l>And after all it will be more fun afterwards --</l>
+<l>More fun for the poets and the painters --</l>
+<l>When the cheering's all over</l>
+<pb n="5"/>
+<l>And the dead men buried</l>
+<l>And the rest gone back to their jobs.</l>
+<l>It'll be more fun for them to make their patterns,</l>
+<l>Their word-patterns and color-patterns.</l>
+<l>And after all, there is always war and always peace,</l>
+<l>Always the war of the crowds,</l>
+<l>Always the great peace of the arts.</l></lg>
+
+<lg>
+<l>Even now,</l>
+<l>With the war beating in great waves overhead,</l>
+<l>Beating and roaring like great winds and mighty waters,</l>
+<l>The sea-gods still pattern the red seaweed fronds,</l>
+<l>Still chip the amber into neck-chains</l>
+<l>For Leucothea and Thetis.</l>
+<l>Even now,</l>
+<l>When the <hi rend="italic">Marseillaise</hi> screams like a hurt woman,</l>
+<l>And Paris -- grisette among cities -- trembles with fear,</l>
+<l>The poets still make their music</l>
+<l>Which nobody listens to,</l>
+<l>Which hardly anyone ever listened to.</l></lg>
+
+<lg>
+<l>The great crowds go by,</l>
+<l>Fighting over each other's bodies in peace-time,</l>
+<l>Fighting over each other's bodies in war-time.</l>
+<l>Something of the strife comes to them</l>
+<l>In their little, high rock-citadel of art,</l>
+<pb n="6"/>
+<l>Where they hammer their dreams in gold and copper,</l>
+<l>Where they cut them in pine-wood, in Parian stone, in wax,</l>
+<l>Where they sing them in sweet bizarre words</l>
+<l>To the sound of antiquated shrill instruments;</l>
+<l>And they are happy.</l></lg>
+
+<lg>
+<l>The little rock-citadel of the artists</l>
+<l>Is always besieged;</l>
+<l>There, though they have beauty and silence,</l>
+<l>They have always tears and hunger and despair.</l>
+<l>But that little citadel has held out</l>
+<l>Against all the wars of the world</l>
+<l>Like England, brother Jonathan.</l>
+<l>It will not fall during the great war.</l></lg>
+
+<lg>
+<l>There is always war and always peace;</l>
+<l>Always the war of the crowds,</l>
+<l>Always the great peace of the arts.</l>
+<dateline><date>1914.</date></dateline>
+<byline>-- Richard Aldington.</byline>
+<note align="right">(No. 24,965, "E" Company, 11th Devons.)</note>
+</div2>
+
+
+<pb n="7"/>
+<div2 id="cunliffe004" type="poem" n="A Neglected Garden">
+<head rend="center">A NEGLECTED GARDEN</head>
+
+<lg type="stanza">
+<l n="1">B<hi rend="smallcaps">arren</hi> the garden lies, undressed;</l>
+<l>Long weeds like serpents coil and squeeze</l>
+<l>Forsaken loves of faithless bees,</l>
+<l>Boughs broken, to the ground are pressed;</l>
+<l>Columbines, heartsease, picotees</l>
+<l>No more greet evening from the West,</l>
+<l>Nor lilies give their beauty to the night --</l>
+<l>Where are the roses of our lost delight?</l></lg>
+
+<lg>
+<l>Deep rooted, to the sun they glow</l>
+<l>In a new world's eternal Spring;</l>
+<l>Low at our feet the tendrils cling,</l>
+<l>High as the Himalayan snow</l>
+<l>The birds among their branches sing;</l>
+<l>From crag and strand and plain they grow,</l>
+<l>France, utmost Africa, the cold North Sea,</l>
+
+<l>Mesopotamia and Gallipoli.</l></lg>
+
+<lg>
+<l>Let the neglected garden lie</l>
+<l>There is no need for English flowers,</l>
+<l>These, by a right divine, are ours,</l>
+<l>These bloom forever under every sky,</l>
+<l>Droop in no drought, thirst for no showers,</l>
+<pb n="8"/>
+<l>These by no frosts of Autumn die,</l>
+<l>Immortal loveliness for the bleak years,</l>
+<l>Fed with our heart's blood, watered with our tears.</l>
+<byline>-- Eleanor Alexander.</byline>
+</div2>
+
+
+<pb n="9"/>
+<div2 id="cunliffe005" type="poem" n="">
+<head rend="center">YOUNG AND OLD</head>
+
+<lg type="stanza">
+<l n="1"><hi rend="italic">Young.</hi> W<hi rend="smallcaps">hat</hi> makes the dale so strange, my dear?</l>
+<l rend="indent10">What makes the dale so strange?</l>
+<l><hi rend="italic">Old.</hi> The men have gone from the dale, my dear,</l>
+<l rend="indent10">And that makes all the change.</l></lg>
+
+<lg>
+<l><hi rend="italic">Young.</hi> The lanes and glens are still at night,</l>
+<l rend="indent10">No laughter or songs I hear.</l>
+<l><hi rend="italic">Old.</hi> Our lover-lads have marched to the fight</l>
+<l rend="indent10">And maidens are lonely, my dear.</l></lg>
+
+<lg>
+<l><hi rend="italic">Young.</hi> The kine are slow to come to the call</l>
+<l rend="indent10">That once were all so quick.</l>
+<l><hi rend="italic">Old.</hi> They miss the voice known best of all,</l>
+<l rend="indent10">Of John or brother Dick.</l></lg>
+
+<lg>
+<l><hi rend="italic">Young.</hi> And will the dale be always strange</l>
+<l rend="indent10">And dull and sad, my dear?</l>
+<l><hi rend="italic">Old.</hi> Ay, lassie, we shall feel the change</l>
+<l rend="indent10">For many a mournful year.</l>
+<byline>-- Henry Allsopp.</byline>
+</div2>
+
+
+<pb n="10"/>
+<xptr doc="Clarke.xml" from="Clarke154"/>
+
+
+<pb n="11"/>
+<div2 id="cunliffe006" type="poem" n="Unser Gott">
+<head rend="center">UNSER GOTT</head>
+
+<lg type="stanza">
+<l n="1">T<hi rend="smallcaps">hey</hi> held a great prayer-service in Berlin,</l>
+<l>And augured German triumph from some words</l>
+<l>Said to be spoken by the Jewish God</l>
+<l>To Gideon, which signified that He</l>
+<l>Was staunchly partial to the Israelites.</l>
+<l>The aisles were thronged; and in the royal box</l>
+<l>(I had it from a tourist who was there,</l>
+<l>Clutching her passport, anxious, like the rest),</l>
+<l>There sat the Kaiser, looking "very sad."</l>
+<l>And then they sang; she said it shook the heart.</l>
+<l>The women sobbed; tears salted bearded lips</l>
+<l>Unheeded; and my friend looked back and saw</l>
+<l>A young girl crumple in her mother's arms.</l>
+<l>They carried out a score of them, she said,</l>
+<l>While German hearts, through bursting German throats</l>
+<l>Poured out, <hi rend="italic">Ein Feste Burg Ist Unser Gott!</hi></l></lg>
+
+<lg>
+<l>(Yea, "Unser Gott! Our strength is <hi rend="italic">Unser</hi> Gott!</l>
+<l>Not that light-minded Bon Dieu of France!")</l></lg>
+
+<lg>
+<l>I think we all have made our God too small.</l>
+<l>There was a young man, a good while ago,</l>
+<pb n="12"/>
+<l>Who taught that doctrine... but they murdered him</l>
+<l>Because he wished to share the Jewish God</l>
+<l>With other folk.</l>
+<l rend="indent18">They are long-lived, these fierce</l>
+<l>Old hating Gods of nations; but at last</l>
+<l>There surely will be spilled enough of blood</l>
+<l>To drown them all! The deeps of sea and air,</l>
+<l>Of old the seat of gods, no more are safe,</l>
+<l>For mines and monoplanes. The Germans, now,</l>
+<l>Can surely find and rout the God of France</l>
+<l>With Zeppelins, or some slim mother's son</l>
+<l>Of Paris, or of Tours, or Brittany,</l>
+<l>Can drop a bomb into the <hi rend="italic">Feste Burg</hi>,</l>
+<l>And, having crushed the source of German strength,</l>
+<l>Die happy in his blazing monoplane.</l></lg>
+
+<lg>
+<l>Sad jesting! If there be no God at all,</l>
+<l>Save in the heart of man, why, even so --</l>
+<l>Yea, all the more, -- since we must make our God,</l>
+<l>Oh, let us make Him large enough for all,</l>
+<l>Or cease to prate of Him! If kings must fight,</l>
+<l>Let them fight for their glory, openly,</l>
+<l>And plain men for their lands and for their homes,</l>
+<l>And heady youths, who go to see the fun,</l>
+<l>Blaspheme not God. True, maybe we might leave</l>
+<l>The God of Germany to some poor frau</l>
+<l>Who cannot go, who can but wait and mourn,</l>
+<pb n="13"/>
+<l>Except that she will teach Him to her sons --</l>
+<l>A God quite scornful of the Slavic soul,</l>
+<l>And much concerned to keep Alsace-Lorraine.</l>
+<l>They should go godless, too -- the poor, benumbed</l>
+<l>Crushed, anguished women, till their hearts can hold</l>
+<l>A greater Comforter!</l></lg>
+
+<lg>
+<l rend="indent22">(Yet it is hard</l>
+<l>To make Him big enough! For me, I like</l>
+<l>The English and the Germans and the French,</l>
+<l>The Russians, too; and Servians, I should think,</l>
+<l>Might well be very interesting to God.</l>
+<l>But, do the best I may, my God is white,</l>
+<l>And hardly takes a nigger seriously</l>
+<l>This side of Africa. Not those, at least</l>
+<l>Who steal my wood, and of a summer night</l>
+<l>Keep me awake with shouting, where they sit</l>
+<l>With monkey-like fidelity and glee</l>
+<l>Grinding through their well-oiled sausage-mill --</l>
+<l>The dead machinery of the white man's church --</l>
+<l>Raw jungle-fervor, mixed with scraps sucked dry</l>
+<l>Of Israel's old sublimities: not those.</l>
+<l>And when they threaten us, the Higher Race,</l>
+<l>Think you, which side is God's? Oh, let us pray</l>
+<l>Lest blood yet spurt to wash that black skin white,</l>
+<l>As now it flows because a German hates</l>
+<l>A Cossack, and an Austrian a Serb!)</l>
+<pb n="14"/>
+<l>What was it that he said so long ago,</l>
+<l>The young man who outgrew the Jewish God --</l>
+<l>"Not a sparrow falleth --?" Ah, God, God,</l>
+<l>And there shall fall a million murdered men!</l>
+<byline>-- Karle Wilson Baker.</l></lg></byline>
+</div2>
+
+<pb n="15"/>
+<div2 id="cunliffe007" type="poem" n="Neutral?">
+<head rend="center">NEUTRAL?</head>
+<head rend="center">T<hi rend="smallcaps">o the</hi> H<hi rend="smallcaps">umanity of</hi> A<hi rend="smallcaps">merica</hi></head>
+
+<lg type="stanza">
+<l n="1">W<hi rend="smallcaps">hen</hi> men are told in years ahead</l>
+<l rend="indent">How Fury forced the Belgian door</l>
+<l>And ravished maids, struck children dead,</l>
+<l rend="indent">And fired the houses of the poor,</l>
+<l>Will none, if still that nation lives</l>
+<l rend="indent">Our sires with blood and sweat begat,</l>
+<l>Ask with the pride your greatness gives,</l>
+<l rend="indent">"What said America to that?"</l></lg>
+
+<lg>
+<l>Your children -- taught how Belgium stood</l>
+<l rend="indent">In flames that once were called Louvain,</l>
+<l>And dashing from her eyes the blood</l>
+<l rend="indent">Struck at her foe and struck again --</l>
+<l>Shall feel their hearts within them burn</l>
+<l rend="indent">To know that righteous word you said;</l>
+<l>God! When the silent truth they learn,</l>
+<l rend="indent">Surely your sons will hang the head.</l></lg>
+
+<lg>
+<l>We ask not that of all your hosts</l>
+<l rend="indent">One man, one sword be sacrificed:</l>
+<l>Your cousins guard these ancient coasts,</l>
+<l rend="indent">Your kinsmen charge this Antichrist:</l>
+<pb n="16"/>
+<l>But we expect your mighty voice</l>
+<l rend="indent">With judgment through the world to run,</l>
+<l>O land of freedom, make your choice,</l>
+<l rend="indent">Are you for Belgium or the Hun?</l></lg>
+
+<lg>
+<l>We ask not that your shells should shriek</l>
+<l rend="indent">Above the flaming hills we climb,</l>
+<l>But speak, O sons of Lincoln, speak!</l>
+<l rend="indent">Silence in such an hour is crime.</l>
+<l>Your children judge you if you stand</l>
+<l rend="indent">In hearing of the Belgian cry,</l>
+<l>Not only with the folded hand,</l>
+<l rend="indent">But with the cold, averted eye!</l></lg>
+
+<lg>
+<l>The soul has got its piercing steel,</l>
+<l rend="indent">The heart its fierce consuming fire,</l>
+<l>Oh, make your voice like thunder peal,</l>
+<l rend="indent">All nations of the earth inspire!</l>
+<l>We know your heart for Belgium bleeds,</l>
+<l rend="indent">But speak your soul, declare your mind,</l>
+<l>Speak till the sin-red tyrant heeds</l>
+<l rend="indent">The voice of God and all mankind.</l></lg>
+<byline>-- Harold Begbie.</byline>
+</div2>
+
+<pb n="17"/>
+<div2 id="cunliffe008" type="poem" n="The Red Country">
+<head rend="center">THE RED COUNTRY</head>
+
+<lg type="stanza">
+<l n="1">I<hi rend="smallcaps">n</hi> the red country</head>
+<head rend="center">The sky flowers</l>
+<l>All day.</l>
+<l>Strange mechanical birds</l>
+<l>With struts of wire and glazed wings</l>
+<l>Cross the impassive sky</l>
+<l>Which burgeons ever and again</l>
+<l>With ephemeral unfolding flowers,</l>
+<l>White and yellow and brown,</l>
+<l>That spread and dissolve.</l>
+<l>And smaller rapid droning birds go by,</l>
+<l>And bright metallic bees whose sting is death.</l></lg>
+
+<lg>
+<l>Behind the hills,</l>
+<l>Behind the whispering woods whose leaves are falling</l>
+<l>Yellow and red to cover the red clay,</l>
+<l>Misshapen monsters squat with wide black maws</l>
+<l>Gulping smoke and belching flame.</l>
+<l>From the mirk reed beds of the age of coal,</l>
+<l>Wallowing out of their sleep in the earlier slime,</l>
+<l>They are resurrected and stagger forth to slay --</l>
+<l>The prehistoric Beasts we thought were dead.</l></lg>
+
+<lg>
+<pb n="18"/>
+<l>They are blinded with long sleep,</l>
+<l>But men with clever weapons</l>
+<l>Goad them to fresh pastures.</l>
+<l>Beside still waters</l>
+<l>They drink of blood and neigh a horrible laughter,</l>
+<l>And their ponderous tread shakes happy cities down,</l>
+<l>And the thresh of their flail-like tails</l>
+<l>Makes acres smoulder and smoke</l>
+<l>Blackened of golden harvest.</l></lg>
+
+<lg>
+<l>The Beasts are back,</l>
+<l>And men, in their spreading shadow,</l>
+<l>Inhale the odor of their nauseous breath.</l>
+<l>Inebriate with it they fashion other gods</l>
+<l>Than the gods of day-dream.</l>
+<l>Of iron and steel are little images</l>
+<l>Made of the Beasts.</l>
+<l>And men rush forth and fling themselves for ritual</l>
+<l>Before these gods, before the lumbering Beasts, --</l>
+<l>And some make long obeisance.</l></lg>
+
+<lg>
+<l>Umber and violet flowers of the sky,</l>
+<l>The sun, like a blazing Mars, clanks across the blue</l>
+<l>And plucks you, to fashion into a nosegay</l>
+<l>To offer Venus, his old-time paramour.</l>
+<l>But now she shrinks</l>
+<pb n="19"/>
+<l>And pales</l>
+<l>Like Cynthia, her more ascetic sister...</l>
+<l>Vulcan came to her arms in the grimy garb</l>
+<l>Of toil, he smelt of the forge and the racketing workshop,</l>
+<l>But not of blood.</l>
+<l>And, if she smells these flowers, they bubble ruby blood</l>
+<l>That trickles between her fingers.</l></lg>
+
+<lg>
+<l>Yet is a dream flowing over the red country,</l>
+<l>Yet is a light growing, for all the black furrows of the red country...</l>
+<l>The machines are foe or friend</l>
+<l>As the world desires.</l>
+<l>The Beasts shall sleep again.</l>
+<l>And in that sleep, when the land is twilight-still</l>
+<l>And men take thought among the frozen waves of the dead,</l>
+<l>The Sowers go forth once more,</l>
+<l>Sowers of vision, sowers of the seed</l>
+<l>Of peace or war.</l>
+<l>Shall it be peace indeed?</l>
+<l>Great shadowy figures moving from hill to hill</l>
+<l>Of tangled bodies, with rhythmic stride and cowled averted head,</l>
+<l>What do you sow with hands funereal --</l>
+<l>New savageries imperial,</l>
+<pb n="20"/>
+<l>Unthinking pomps for arrogant, witless men?</l>
+<l>Or seed for the people in strong democracy?</l>
+<l>What do you see</l>
+<l>With your secret eyes, and sow for us, that we must reap again?</l></lg>
+<byline>-- William Rose Ben&eacute;t.</byline>
+</div2>
+
+
+<pb n="21"/>
+<xptr doc="clarke.xml" from="clarke145"/>
+<pb n="22"/>
+
+
+<pb n="23"/>
+<div2 id="cunliffe009" type="poem" n="">
+<head rend="center">A BALLAD OF DEATHLESS DONS</head>
+<head rend="center">OR:</head>
+<head rend="center">"WHEN THE ASSAULT WAS INTENDED TO THE CITY"</head>
+<note>
+<l>(In honor of an Oxford Corps composed of those con-</l>
+<l>cerning whom it may be said most truly, in Mr. Belloc's</l>
+<l>words, that they are</l>
+<quote>
+<l>"Dons admirable! Dons of Might!...</l>
+<l>Dons English, worthy of the land.")</l>
+</quote>
+</note>
+
+<lg type="stanza">
+<head rend="center">I</head>
+<l n="1">T<hi rend="smallcaps">he</hi> Regulars fight with all their might, the Navy keeps the seas,</l>
+<l>The Terrier<ref target="cunliffe009n1">1</ref> <note id="cunliffe009n1" place="foot" n="1">
+<l>Obsolete word signifying a mere voluntary fighter unfit</l>
+<l>even for adequate defence purposes.</note>
+sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
+<l>K's keen recruit is learning to shoot, the Boy Scout scouteth still, --</l>
+<l>And after them all, the dons, the dons! -the ag&egrave;d dons do drill!</l></lg>
+
+
+<lg>
+<pb n="24"/>
+<l>They know, they know how well things go on the Merton fields of France;</l>
+<l>But the S.C.R.'s must be fields of Mars -- they dare leave nought to chance;</l>
+<l>"Louvain!" is the word, and their souls are stirred; for they think of their matchless tuns,</l>
+<l>And the ground shall be dusted ere Oxford's crusted port shall be broached by Huns.</l></lg>
+
+<lg>
+<head rend="center">II</head>
+<l>The proud Professors toe the line</l>
+<l>And turn to the left for right incline.</l>
+<l>Forgot, forgot are their divers lores</l>
+<l>In the patriot stress of forming fours.</l>
+<l>Their mortar-boards are a hive for bees</l>
+<l>(Which they often were) as they stand at ease.</l>
+<l>Though every morn they are wisdom's fount</l>
+<l>In matters which nowadays hardly count,</l>
+<l>Each afternoon each neophyte</l>
+<l>Gets totally mixed between left and right</l>
+<l>(And a don at maths. and a logic don</l>
+<l>Turn each to each and are pounced upon).</l>
+<l>At the terrible voice of the tu -- the sergeant</l>
+<l>Their gills go gules and their locks more argent.</l>
+<l>And still as the breath comes short, and the knees</l>
+<l>Wobble in places, and many a wheeze</l>
+<l>Is torn from the depth of complaining tums,</l>
+<l>Down the weak line the whisper comes:</l>
+<pb n="25"/>
+<l>"<hi rend="italic">Memento</hi> Louvain!" -- or "Rheims, &mu;&#x03AD;&mu;&nu;&eta;&sigma;&theta;&epsilon;!"</l>
+<l>"Oxford!" they cry, "shall beer-swillers fleece thee?"</l>
+<l>And still -- though their breath comes yet more short --</l>
+<l>They drill like mad to preserve her port.</l></lg>
+
+<lg>
+<head rend="center">III</head>
+<l>See, in the foremost rank,</l>
+<l>His brow with <hi rend="italic">sudor</hi> dank,</l>
+<l>His gown unpipeclayed in his loyal hurry,</l>
+<l>Private Professor G<hi rend="smallcaps">ilbert</hi> M<hi rend="smallcaps">urray</hi>! --</l>
+<l>Hear, oh, hear,</l>
+<l>With almost swooning ear,</l>
+<l>The sergeant (Chiron in disguise),</l>
+<l>With how sarcastic drawl he</l>
+<l>Damneth the eyes</l>
+<l>Of Private Prof. Eng. Lit. S<hi rend="smallcaps">ir</hi> W<hi rend="smallcaps">alter</hi> R<hi rend="smallcaps">aleigh</hi>! --</l>
+<l>See yet again</l>
+<l>With uncontroll&egrave;d pleasure</l>
+<l>There, marking time amain</l>
+<l>As with such feet as make a lyric measure,</l>
+<l>Like &Aelig;schylus upon the Marathon day, --</l>
+<l>Next to that nice ex-proctor, --</l>
+<l>Private and Poet Laureate D<hi rend="smallcaps">r</hi>.</l>
+<l>B<hi rend="smallcaps">ridges</hi>, M.A.! --</l>
+<l>And see -- but let your eyes with pride be dim! --</l>
+<l>Him who professes Art and Arch&aelig;ology</l>
+<l>Standing as rear-rank man to him</l>
+<l>Of Anthropology.</l>
+<pb n="26"/>
+<l>(Well knows the latter how to dodge,</l>
+<l>That bullets in no deadly place may lodge!) --</l>
+<l>Him of Eng. Law behold,</l>
+<l>Not overbold</l>
+<l>To reason why when sergeants bid him charge:</l>
+<l>Him of Greek History, him of Geography,</l>
+<l>All very fine and large,</l>
+<l>This, swift to seize advantage of topography,</l>
+<l>That, to announce how ne'er a corps did train</l>
+<l>So well since Sparta went upon the wane.</l>
+<l>And there be others:</l>
+<l>A publisher and sundry heads of houses,</l>
+<l>Spurred by North Oxford spouses,</l>
+<l>Bidden go forth by yet more ag&egrave;d mothers;</l>
+<l>And, standing desperately at attention</l>
+<l>(But looking forward to their tea and scones),</l>
+<l>Innumerable dons</l>
+<l>And parsons beyond mention.</l></lg>
+
+<lg>
+<head rend="center">IV</head>
+<l>They are not afraid of the Boys' Brigade, for they've taken the kiddies' guns,</l>
+<l>Which shoot nohow -- but they've learnt by now to depend on the end that stuns.</l>
+<l>And all the rules of the Final Schools combine in a splendid spur,</l>
+<l>When the Pyrrhic phalanx does right-about-turn and the order is "As you were!"</l>
+<pb n="27"/>
+<l rend="italic">Oh, K's recruit is learning to shoot, the Boy Scout scouteth still, --</l>
+<l rend="italic">But after them all, the dons, the dons! -- the deathless dons do drill!</l>
+<l rend="italic">"Louvain!" is the word, and their souls are stirred; for they think of their matchless tuns,</l>
+<l rend="italic">And the ground shall be dusted ere Oxford's crusted port shall be broached by Huns!</l></lg>
+<byline>-- Wilfrid Blair.</byline>
+</div2>
+
+<pb n="28"/>
+<div2 id="cunliffe010" type="poem" n="Any Friend to Any Friend">
+<head rend="center">"ANY FRIEND TO ANY FRIEND"</head>
+
+<lg type="stanza">
+<l n="1">E<hi rend="smallcaps">v'n</hi> as I thought of you your soul had sped,</head>
+<head rend="center">Friend of old, happy, far-off boyhood days,</l>
+<l>And, as across the sea I turned my gaze,</l>
+<l>The soil of France with your brave blood was red!</l>
+<l>Blame not the shears that slit the thin yarn thread.</l>
+<l>Though life be lost, immortal is the praise!</l>
+<l>Would I were with you crowned with victory's bays,</l>
+<l>O Happy Warrior 'midst our English dead!</l></lg>
+
+<lg>
+<l>Yea! God of Battles, what a time to die!</l>
+<l>Thy Courts are echoing to the tuck of drum,</l>
+<l>The wide days flame with comet souls that fly</l>
+<l>Triumphant, at a bound, from Earth to Heaven,</l>
+<l>The nights ablaze, with their white passage riven,</l>
+<l>As, trailing clouds of glory, swift they come.</l></lg>
+<byline>-- H. W. Bliss.</byline>
+</div2>
+
+<pb n="29"/>
+<div2 id="cunliffe011" type="poem" n="The Camp-Follower">
+<head rend="center">THE CAMP-FOLLOWER</head>
+
+<lg type="stanza">
+<l n="1">W<hi rend="smallcaps">e</hi> spoke, the camp-follower and I.</l>
+<l>About us was a cold, pungent odor --</l>
+<l>Gun-powder, stale wine, wet earth, and the smell of thousands of men.</l>
+<l>She said it reminded her of the scent</l>
+<l>In the house of prostitutes she had lived in.</l>
+<l>About us were soldiers -- hordes of scarlet women, stupidly, smilingly giving up their bodies</l>
+<l>To a putrid-lipped, chuckling lover -- Death;</l>
+<l>While their mistress in tinsel whipped them on....</l>
+<l>She spoke of a woman she had known in Odessa,</l>
+<l>Owner of a huge band of girls,</l>
+<l>Who had pocketed their earnings for years,</l>
+<l>Only to be used, swindled and killed by some nobleman....</l>
+<l>She said she thought of this grinning woman</l>
+<l>Whenever she saw an officer brought back from battle, dead....</l>
+<l>And I sat beside her and wondered.</l></lg>
+<byline>-- Maxwell Bodenheim.</byline>
+</div2>
+
+
+011 LAST

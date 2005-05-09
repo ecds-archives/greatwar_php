@@ -1,4 +1,5 @@
 <text>
+
 <front>
 
 <pb n="7"/>
@@ -25,7 +26,7 @@
 <div1 id="moresongs002" type="anthology" n="More Songs by the Fighting Men">
 
 <div2 id="moresongs003" type="poem" n="The Gift">
-<byline><docAuthor n="De Banzie, Eric">ERIC DE BANZIE</docAuthor></lb>
+<byline><docAuthor n="De Banzie, Eric">ERIC DE BANZIE</docAuthor><lb/>
 <hi rend="smallcaps">Sapper, R.E.</hi></byline>
 
 <head rend="center">The Gift</head>
@@ -51,14 +52,14 @@
 
 <pb n="16"/>
 <div2 id="moresongs004" type="poem" n="The Dawn Patrol">
-<byline><docAuthor n="Bewsher, Paul">PAUL BEWSHER</docAuthor></lb>
+<byline><docAuthor n="Bewsher, Paul">PAUL BEWSHER</docAuthor><lb/>
 <hi rend="smallcaps">D.S.C., Sub-Lieut., R.N.A.S., France</hi></byline>
 
 <head rend="center">The Dawn Patrol</head>
 
 <lg type="stanza">
-<l n="1">SOMETIMES I fly at dawn above the sea,</l></l>
-<l>Where, underneath, the restless waters flow -</l>
+<l n="1">SOMETIMES I fly at dawn above the sea,</l>
+<l>Where, underneath, the restless waters flow --</l>
 <l rend="indent">Silver, and cold, and slow.</l>
 <l>Dim in the east there burns a new-born sun,</l>
 <l>Whose rosy gleams along the ripples run,</l>
@@ -106,7 +107,7 @@
 
 <pb n="18"/>
 <div2 id="moresongs005" type="poem" n="To Another Poor Poet">
-<byline><docAuthor n="Brooks, Collin">COLLIN BROOKS</docAuthor></lb>
+<byline><docAuthor n="Brooks, Collin">COLLIN BROOKS</docAuthor><lb/>
 <hi rend="smallcaps">Sergeant, Machine Gun Corps</hi></byline>
 
 <head rend="center">To Another Poor Poet</head>
@@ -133,7 +134,7 @@
 
 <pb n="19"/>
 <div2 id="moresongs006" type="poem" n="Death in France">
-<byline><docAuthor n="Carstairs, Carroll">CARROLL CARSTAIRS</docAuthor></lb>
+<byline><docAuthor n="Carstairs, Carroll">CARROLL CARSTAIRS</docAuthor><lb/>
 <hi rend="smallcaps">Lieut., Grenadier Guards</hi></byline>
 
 <head rend="center">Death in France</head>
@@ -185,7 +186,7 @@
 
 <pb n="21"/>
 <div2 id="moresongs009" type="poem" n="The Harvest">
-<byline><docAuthor n="Challenger, Ernest K.">ERNEST K. CHALLENGER</docAuthor></lb>
+<byline><docAuthor n="Challenger, Ernest K.">ERNEST K. CHALLENGER</docAuthor><lb/>
 <hi rend="smallcaps">Corporal, R.E.</hi></byline>
 
 <head rend="center">The Harvest</head>
@@ -358,7 +359,7 @@
 
 <pb n="27"/>
 <div2 id="moresongs010" type="poem" n="After-days">
-<byline><docAuthor n="Chilman, Eric">ERIC CHILMAN</docAuthor></lb>
+<byline><docAuthor n="Chilman, Eric">ERIC CHILMAN</docAuthor><lb/>
 <hi rend="smallcaps">Private, East Yorks</hi></byline>
 
 <head rend="center">After-days</head>
@@ -385,7 +386,7 @@
 
 <pb n="28"/>
 <div2 id="moresongs011" type="poem" n="Supermen">
-<byline><docAuthor n="Choyce, A. Newberry">A. NEWBERRY CHOYCE</docAuthor></lb>
+<byline><docAuthor n="Choyce, A. Newberry">A. NEWBERRY CHOYCE</docAuthor><lb/>
 <hi rend="smallcaps">Lieut., Leicestershire Regiment</hi></byline>
 
 <head rend="center">Supermen</head>
@@ -435,7 +436,7 @@
 
 
 <div2 id="moresongs012" type="poem" n="Reincarnation">
-<docAuthor n="Choyce, A. Newberry"></docAuthor></lb>
+<docAuthor n="Choyce, A. Newberry"></docAuthor><lb/>
 <head rend="center">Reincarnation</head>
 
 <lg type="stanza">
@@ -523,7 +524,7 @@
 
 <pb n="33"/>
 <div2 id="moresongs014" type="poem" n="Immortality">
-<byline><docAuthor n="Clements, Reginald F.">REGINALD F. CLEMENTS</docAuthor></lb>
+<byline><docAuthor n="Clements, Reginald F.">REGINALD F. CLEMENTS</docAuthor><lb/>
 <hi rend="smallcaps">2nd Lieut., Royal Sussex Regiment</hi></byline>
 
 <head rend="center">Immortality</head>
@@ -589,7 +590,7 @@
 
 <pb n="35"/>
 <div2 id="moresongs016" type="poem" n="Plymouth Sound">
-<byline><docAuthor n="Cook, Leonard Niell">LEONARD NIELL COOK</docAuthor></lb>
+<byline><docAuthor n="Cook, Leonard Niell">LEONARD NIELL COOK</docAuthor><lb/>
 <hi rend="smallcaps">M.C., 2nd Lieut., Royal Lancs Regt.</hi></byline>
 <note rend="center">(A Rugby and Oxford boy. Killed in action July 7, 1917)</note>
 
@@ -617,7 +618,7 @@
 
 <pb n="36"/>
 <div2 id="moresongs017" type="poem" n="Sonnets">
-<byline><docAuthor n="Cooper, Gerald M.">GERALD M. COOPER</docAuthor></lb>
+<byline><docAuthor n="Cooper, Gerald M.">GERALD M. COOPER</docAuthor><lb/>
 <hi rend="smallcaps">2nd Lieut., Scots Guards</hi></byline>
 
 <head rend="center">Sonnets</head>
@@ -664,12 +665,12 @@
 
 
 <pb n="38"/>
-<xptr doc="Clarke.xml" from="clarke118" n="--But a Short Time to Live">
+<xptr doc="Clarke.xml" from="clarke118" n="--But a Short Time to Live"/>
 <pb n="39"/>
 
 
 <div2 id="moresongs018" type="poem" n="From the Somme">
-<byline><docAuthor n="Coulson, Leslie">LESLIE COULSON</docAuthor></lb>
+<byline><docAuthor n="Coulson, Leslie">LESLIE COULSON</docAuthor><lb/>
 <hi rend="smallcaps">Sergt., London Regiment, R.F.</hi></byline>
 <note rend="center">(Died of wounds in France, October, 1916)</note>
 
@@ -729,7 +730,7 @@
 
 <pb n="41"/>
 <div2 id="moresongs020" type="poem" n="The Wind in the Trees">
-<byline><docAuthor n="Cox, S. Donald">S. DONALD COX</docAuthor></lb>
+<byline><docAuthor n="Cox, S. Donald">S. DONALD COX</docAuthor><lb/>
 <hi rend="smallcaps">Private, Rifle Brigade, B.E.F., France</hi></byline>
 
 <head rend="center">The Wind in the Trees</head>
@@ -819,7 +820,7 @@
 
 <pb n="44"/>
 <div2 id="moresongs023" type="poem" n="The Dream-path">
-<byline><docAuthor n="Crombie, John Eugene">JOHN EUGENE CROMBIE</docAuthor></lb>
+<byline><docAuthor n="Crombie, John Eugene">JOHN EUGENE CROMBIE</docAuthor><lb/>
 <hi rend="smallcaps">Catain, Gordon Highlanders</hi></byline>
 <note rend="center">(Killed in Action, St. George's Day, 1917)</note>
 
@@ -1000,7 +1001,7 @@
 
 <pb n="51"/>
 <div2 id="moresongs030" type="poem" n="God">
-<byline><docAuthor n="Crump, Geoffrey H.">GEOFFREY H. CRUMP</docAuthor></lb>
+<byline><docAuthor n="Crump, Geoffrey H.">GEOFFREY H. CRUMP</docAuthor><lb/>
 <hi rend="smallcaps">Major, Essex Regiment</hi></byline>
 
 <head rend="center">God</head>
@@ -1156,7 +1157,7 @@
 
 <pb n="56"/>
 <div2 id="moresongs034" type="poem" n="A Soldier's Question: Spring, 1917">
-<byline><docAuthor n="Dartford, R. C. G.">R. C. G. DARTFORD</docAuthor></lb>
+<byline><docAuthor n="Dartford, R. C. G.">R. C. G. DARTFORD</docAuthor><lb/>
 <hi rend="smallcaps">Captain, attached to Portuguese Expeditionary Force, France</hi></byline>
 
 <head rend="center">A Soldier's Question: Spring, 1917</head>
@@ -1209,7 +1210,7 @@
 <head rend="center">Welcome Death</head>
 
 <lg type="stanza">
-<l n="1">WHEN you've been dead beat, and had to go on</l></l>
+<l n="1">WHEN you've been dead beat, and had to go on</l>
 <l>While others died; when your turn to be gone</l>
 <l>Is overdue; when you're pushed ahead</l>
 <l>("Go on till you die" is all they said),</l>
@@ -1219,7 +1220,7 @@
 
 <pb n="58"/>
 <div2 id="moresongs037" type="poem" n="Forecast">
-<byline><docAuthor n="Druce, Clifford J.">CLIFFORD J. DRUCE</docAuthor></lb>
+<byline><docAuthor n="Druce, Clifford J.">CLIFFORD J. DRUCE</docAuthor><lb/>
 <hi rend="smallcaps">2nd Lieut., Gloucester Regiment</hi></byline>
 
 <head rend="center">Forecast</head>
@@ -1354,7 +1355,7 @@
 
 <pb n="62"/>
 <div2 id="moresongs040" type="poem" n="The Seers">
-<byline><docAuthor n="Graham, H. S.">H. S. GRAHAM</docAuthor></lb>
+<byline><docAuthor n="Graham, H. S.">H. S. GRAHAM</docAuthor><lb/>
 <hi rend="smallcaps">Capt., R.E.T.</hi></byline>
 
 <head rend="center">The Seers</head>
@@ -1411,7 +1412,7 @@
 
 <pb n="64"/>
 <div2 id="moresongs042" type="poem" n="'An Unknown British Soldier'">
-<byline><docAuthor n="Halliday, Wilfrid J.">WILFRID J. HALLIDAY</docAuthor></lb>
+<byline><docAuthor n="Halliday, Wilfrid J.">WILFRID J. HALLIDAY</docAuthor><lb/>
 <hi rend="smallcaps">2nd Lieut., West Yorks</hi></byline>
 
 <head rend="center">"An Unknown British Soldier"</head>
@@ -1473,7 +1474,7 @@
 
 <pb n="66"/>
 <div2 id="moresongs043" type="poem" n="The New Year">
-<byline><docAuthor n="Hemphrey, Malcolm">MALCOLM HEMPHREY</docAuthor></lb>
+<byline><docAuthor n="Hemphrey, Malcolm">MALCOLM HEMPHREY</docAuthor><lb/>
 <hi rend="smallcaps">Corporal, Army Ordnance Corps</hi></byline>
 
 <head rend="center">The New Year<ref target="moresongs043n1">*</ref></head>
@@ -1545,7 +1546,7 @@
 
 <pb n="68"/>
 <div2 id="moresongs044" type="poem" n="Salonika in November">
-<byline><docAuthor n="Hill, Brian">BRIAN HILL</docAuthor></lb>
+<byline><docAuthor n="Hill, Brian">BRIAN HILL</docAuthor><lb/>
 <hi rend="smallcaps">2ND Lieut., Durham Light Infantry</hi></byline>
 
 <head rend="center">Salonika in November</head>
@@ -1579,7 +1580,7 @@
 
 <pb n="70"/>
 <div2 id="moresongs045" type="poem" n="On Seeing the Coast of England from Boulogne">
-<byline><docAuthor n="Hill, Martin">MARTIN HILL</docAuthor></lb>
+<byline><docAuthor n="Hill, Martin">MARTIN HILL</docAuthor><lb/>
 <hi rend="smallcaps">Corporal, R.A.M.C.</hi></byline>
 
 <head rend="center">On Seeing the Coast of England from Boulogne</head>
@@ -1683,7 +1684,7 @@
 
 <pb n="73"/>
 <div2 id="moresongs047" type="poem" n="Dulce et Decorum est Pro Patria Mori">
-<byline><docAuthor n="Jarvis, Harold John">HAROLD JOHN JARVIS</docAuthor></lb>
+<byline><docAuthor n="Jarvis, Harold John">HAROLD JOHN JARVIS</docAuthor><lb/>
 <hi rend="smallcaps">Corporal, The Duke of Cornwall's Light Infantry</hi></byline>
 
 <head rend="center">Dulce et Decorum est Pro Patri&acirc; Mori</head>
@@ -1768,7 +1769,7 @@
 <l rend="indent">To rise above blind Hate</l>
 <l rend="indent">Of Foes -- Her Flag unfurled,</l>
 <l rend="indent">God's England to the world,</l>
-<l rend="indent14>For aye to be.</l></lg>
+<l rend="indent14">For aye to be.</l></lg>
 
 <pb n="76"/>
 <lg>
@@ -1889,7 +1890,7 @@
 
 <pb n="80"/>
 <div2 id="moresongs049" type="poem" n="Flint">
-<byline><docAuthor n="Jones, D. T.">D. T. JONES</docAuthor></lb>
+<byline><docAuthor n="Jones, D. T.">D. T. JONES</docAuthor><lb/>
 <hi rend="smallcaps">2nd Lieut., M.G.C., France</hi></byline>
 
 <head rend="center">Flint</head>
@@ -1922,7 +1923,7 @@
 
 <lg>
 <l>What wilt thou sing? What story wilt thou tell?</l>
-<l>Where dwells thy fate -- in Heaven or in Hell?</l><lg>
+<l>Where dwells thy fate -- in Heaven or in Hell?</l></lg>
 <dateline><name type="place"><hi rend="smallcaps">B.E.F., France </hi>,
 </name><date><hi rend="italic">August 16</hi>, 1917.</date></dateline>
 </div2>
@@ -1930,7 +1931,7 @@
 
 <pb n="81"/>
 <div2 id="moresongs051" type="poem" n="Sounds by Night">
-<byline><docAuthor n="Kerr, R. Watson">R. WATSON KERR</docAuthor></lb>
+<byline><docAuthor n="Kerr, R. Watson">R. WATSON KERR</docAuthor><lb/>
 <hi rend="smallcaps">2nd Lieut., Tank Corps</hi></byline>
 
 <head rend="center">Sounds by Night</head>
@@ -2050,7 +2051,7 @@
 
 
 <div2 id="moresongs056" type="poem" n="Left Alone">
-<byline><docAuthor n="Harris, Dudley H.">DUDLEY H. HARRIS</docAuthor></lb>
+<byline><docAuthor n="Harris, Dudley H.">DUDLEY H. HARRIS</docAuthor><lb/>
 <hi rend="smallcaps">Cadet, Tank Corps</hi></byline>
 
 <head rend="center">Left Alone</head>
@@ -2100,7 +2101,7 @@
 
 <pb n="86"/>
 <div2 id="moresongs057" type="poem" n="Belgium, 1914">
-<byline><docAuthor n="Lewis, Frank C.">FRANK C. LEWIS</docAuthor></lb>
+<byline><docAuthor n="Lewis, Frank C.">FRANK C. LEWIS</docAuthor><lb/>
 <hi rend="smallcaps">Flight Sub-Lieut., R.N.A.S.</hi></byline>
 
 <head rend="center">Belgium, 1914</head>
@@ -2225,12 +2226,12 @@ Flight Sub-Lieut. Frank C. Lewis, R.N.A.S., was killed in aerial combat in Franc
 <l>Wind: and the heights whence one may see</l>
 <l>The littleness of man: and we</l>
 <l>There feel at last that we are free.</l></lg>
-<div2>
+</div2>
 
 
 <pb n="91"/>
 <div2 id="moresongs060" type="poem" n="Requiem">
-<byline><docAuthor n="Lyon, P. H. B.">P. H. B. LYON</docAuthor></lb>
+<byline><docAuthor n="Lyon, P. H. B.">P. H. B. LYON</docAuthor><lb/>
 <hi rend="smallcaps">Lieut., Durham Light Infantry</hi></byline>
 
 <head rend="center">Requiem</head>
@@ -2353,7 +2354,7 @@ Flight Sub-Lieut. Frank C. Lewis, R.N.A.S., was killed in aerial combat in Franc
 
 <pb n="95"/>
 <div2 id="moresongs062" type="poem" n="Desire">
-<byline><docAuthor n="Mackenzie, Ian H. T.">IAN H. T. MACKENZIE</docAuthor></lb>
+<byline><docAuthor n="Mackenzie, Ian H. T.">IAN H. T. MACKENZIE</docAuthor><lb/>
 <hi rend="smallcaps">2nd Lieut., Highland Light Infantry</hi></byline>
 
 <head rend="center">Desire</head>
@@ -2467,7 +2468,7 @@ Flight Sub-Lieut. Frank C. Lewis, R.N.A.S., was killed in aerial combat in Franc
 
 <pb n="99"/>
 <div2 id="moresongs064" type="poem" n="Enlisted, or The Recruits">
-<byline><docAuthor n="Masefield, Charles John Beech">CHARLES JOHN BEECH MASEFIELD</docAuthor></lb>
+<byline><docAuthor n="Masefield, Charles John Beech">CHARLES JOHN BEECH MASEFIELD</docAuthor><lb/>
 M.C., Acting Capt., 5th North Staffs Regt.</byline>
 <note rend="center">(Killed in Action, July, 1917)</note>
 
@@ -2569,7 +2570,7 @@ M.C., Acting Capt., 5th North Staffs Regt.</byline>
 <l>Given England's swords to keep her honour clean.</l>
 <l>Which they shall be which pierce, and which be broken,</l>
 <l rend="indent">We know not, but we know that every hour</l>
-<l>We must shine brighter, take an edge more keen.</l>
+<l>We must shine brighter, take an edge more keen.</l></lg>
 <dateline><date><hi rend="italic">July</hi>, 1915.</date></dateline>
 </div2>
 
@@ -2611,7 +2612,7 @@ M.C., Acting Capt., 5th North Staffs Regt.</byline>
 
 <pb n="105"/>
 <div2 id="moresongs068" type="poem" n="My Country">
-<byline><docAuthor n="Mason, John">JOHN MASON</docAuthor></lb>
+<byline><docAuthor n="Mason, John">JOHN MASON</docAuthor><lb/>
 Captain, Royal Scots</byline>
 
 <head rend="center">My Country</head>
@@ -2654,7 +2655,7 @@ Captain, Royal Scots</byline>
 
 <pb n="107"/>
 <div2 id="moresongs069" type="poem" n="Homeward">
-<byline><docAuthor n="Matthews, Harley">HARLEY MATTHEWS</docAuthor></lb>
+<byline><docAuthor n="Matthews, Harley">HARLEY MATTHEWS</docAuthor><lb/>
 Private, A.I.F.</byline>
 
 <head rend="center">Homeward</head>
@@ -2700,7 +2701,7 @@ Private, A.I.F.</byline>
 
 <pb n="109"/>
 <div2 id="moresongs070" type="poem" n="God's Acre">
-<byline><docAuthor n="McClymont, Murray">MURRAY McCLYMONT</docAuthor></lb>
+<byline><docAuthor n="McClymont, Murray">MURRAY McCLYMONT</docAuthor><lb/>
 <hi rend="smallcaps">2nd Lieut., 2/10th (Scottish) K.L.R.</hi></byline>
 
 <head rend="center">God's Acre</head>
@@ -2794,7 +2795,7 @@ Private, A.I.F.</byline>
 <l>I looked upon the fields and trees and hedges</l>
 <l rend="indent">And saw before mine eyes a world reborn,</l>
 <l>And on beyond the green world's utmost edges...</l>
-<l rend="indent"><hi rend="italic>Where Hope retreated bleeding and forlorn!</hi></l></lg>
+<l rend="indent"><hi rend="italic">Where Hope retreated bleeding and forlorn!</hi></l></lg>
 
 <pb n="112"/>
 <lg>
@@ -2808,7 +2809,7 @@ Private, A.I.F.</byline>
 
 <pb n="113"/>
 <div2 id="moresongs073" type="poem" n="Con Amore">
-<byline><docAuthor n="Negroz, Rudolphe Louis">RUDOLPHE LOUIS N&Egrave;GROZ</docAuthor></lb>
+<byline><docAuthor n="Negroz, Rudolphe Louis">RUDOLPHE LOUIS N&Egrave;GROZ</docAuthor><lb/>
 <hi rend="smallcaps">Lance-Corporal, West Yorks</hi></byline>
 
 <head rend="center">Con Amore</head>
@@ -3000,7 +3001,7 @@ Private, A.I.F.</byline>
 
 <pb n="120"/>
 <div2 id="moresongs074" type="poem" n="Violet">
-<byline><docAuthor n="O'Connor, Armel">ARMEL O'CONNOR</docAuthor></lb>
+<byline><docAuthor n="O'Connor, Armel">ARMEL O'CONNOR</docAuthor><lb/>
 <hi rend="smallcaps">Private, East Anglian Field Ambulance</hi></byline>
 
 <head rend="center">Violet</head>
@@ -3044,7 +3045,7 @@ Private, A.I.F.</byline>
 
 <pb n="122"/>
 <div2 id="moresongs075" type="poem" n="May-Day">
-<byline><docAuthor n="Osborne, David Cox McEwen">DAVID COX McEWEN OSBORNE</docAuthor></lb>
+<byline><docAuthor n="Osborne, David Cox McEwen">DAVID COX McEWEN OSBORNE</docAuthor><lb/>
 <hi rend="smallcaps">Lance-Corporal, 1st Middlesex</hi></byline>
 
 <head rend="center">May-Day</head>
@@ -3108,7 +3109,7 @@ Private, A.I.F.</byline>
 
 <pb n="124"/>
 <div2 id="moresongs077" type="poem" n="Peace">
-<byline><docAuthor n="Peterson, J.">J. PETERSON</docAuthor></lb>
+<byline><docAuthor n="Peterson, J.">J. PETERSON</docAuthor><lb/>
 <hi rend="smallcaps">Private, Seaforth Highlanders</hi></byline>
 
 <head rend="center">Peace</head>
@@ -3182,7 +3183,7 @@ Private, A.I.F.</byline>
 
 <pb n="127"/>
 <div2 id="moresongs079" type="poem" n="A Solder's Litany">
-<byline><docAuthor type=pseud n="Raleigh, Richard">"RICHARD RALEIGH"</docAuthor></lb>
+<byline><docAuthor type="pseud" n="Raleigh, Richard">"RICHARD RALEIGH"</docAuthor><lb/>
 <hi rend="smallcaps">2nd Lieut., O. and B.L.I., France</hi></byline>
 
 <head rend="center">A Soldier's Litany</head>
@@ -3225,7 +3226,7 @@ Private, A.I.F.</byline>
 
 <pb n="129"/>
 <div2 id="moresongs080" type="poem" n="Lunae">
-<byline><docAuthor n="Scobie, K. M.">K. M. SCOBIE</docAuthor></lb>
+<byline><docAuthor n="Scobie, K. M.">K. M. SCOBIE</docAuthor><lb/>
 <hi rend="smallcaps">2nd Lieut., R.G.A.</hi></byline>
 
 <head rend="center">Lunae</head>
@@ -3265,7 +3266,7 @@ Private, A.I.F.</byline>
 
 <pb n="131"/>
 <div2 id="moresongs081" type="poem" n="Hic Jacet">
-<byline><docAuthor n="Spring, R. Howard">R. HOWARD SPRING</docAuthor></lb>
+<byline><docAuthor n="Spring, R. Howard">R. HOWARD SPRING</docAuthor><lb/>
 <hi rend="smallcaps">Corporal, A.S.C., France</hi></byline>
 
 <head rend="center">Hic Jacet</head>
@@ -3298,7 +3299,7 @@ Private, A.I.F.</byline>
 
 <pb n="132"/>
 <div2 id="moresongs082" type="poem" n="Knowledge">
-<docAuthor n="Sring, R. Howard"></docAuthor>
+<docAuthor n="Spring, R. Howard"></docAuthor>
 
 <head rend="center">Knowledge</head>
 
@@ -3333,7 +3334,7 @@ Private, A.I.F.</byline>
 <l n="1">O LIVING beauty of the dying day!</l>
 <l>All the ungathered splendour of the hours</l>
 <l>Is folded in your heart, as all the wealth</l>
-<l>Of June lies perfect in a crimson rose,</lg>
+<l>Of June lies perfect in a crimson rose,</l>
 <pb n="133"/>
 <l>We who, unheeding, watched the little pools</l>
 <l>Of rippling light that underlay the trees,</l>
@@ -3342,8 +3343,8 @@ Private, A.I.F.</byline>
 <l>Kneel to the regal miracle which lends</l>
 <l>To death the august mystery life forbade.</l></lg>
 
-<lg></l>
-<l><l>And now upon these fields are gathered up</l>
+<lg>
+<l>And now upon these fields are gathered up</l>
 <l>In one great blood-red rose of sacrifice</l>
 <l>All unremembered buds of love and faith</l>
 <l>That shy young lives erst offered Freedom's crowns</l>
@@ -3429,7 +3430,7 @@ Private, A.I.F.</byline>
 
 <pb n="136"/>
 <div2 id="moresongs085" type="poem" n="Before Action">
-<byline><docAuthor n="Stewart, J. E.">J. E. STEWART</docAuthor></lb>
+<byline><docAuthor n="Stewart, J. E.">J. E. STEWART</docAuthor><lb/>
 <hi rend="smallcaps">M.C., Capt., Border Regiment</hi></byline>
 
 <head rend="center">Before Action</head>
@@ -3538,7 +3539,7 @@ Private, A.I.F.</byline>
 
 <pb n="139"/>
 <div2 id="moresongs088" type="poem" n="To a Choir of Birds">
-<byline><docAuthor n="Wilkinson, Eric Fitzwalter">ERIC FITZWALTER WILKINSON</docAuthor></lb>
+<byline><docAuthor n="Wilkinson, Eric Fitzwalter">ERIC FITZWALTER WILKINSON</docAuthor><lb/>
 <hi rend="smallcaps">M.C., Capt., West Yorkshires, B.E.F., France</hi></byline>
 <note rend="center">(Killed in Action, October 9, 1917)</note>
 
@@ -3565,7 +3566,7 @@ Private, A.I.F.</byline>
 
 <pb n="140"/>
 <div2 id="moresongs089" type="poem" n="A Lament from the Dead">
-<byline><docAuthor n="Wilkinson, Walter Lightowler">WALTER LIGHTOWLER WILKINSON</docAuthor></lb>
+<byline><docAuthor n="Wilkinson, Walter Lightowler">WALTER LIGHTOWLER WILKINSON</docAuthor><lb/>
 <hi rend="smallcaps">Lieut., 8th Argyll and Sutherland Highlanders</hi></byline>
 <note rend="center">(Killed on Vimy Ridge, April 9, 1917)</note>
 

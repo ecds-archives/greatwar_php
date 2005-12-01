@@ -1,8 +1,6 @@
 <?php
 
-include_once("taminoConnection.class.php");
-include_once("phpDOM/classes/include.php");
-import("org.active-link.xml.XML");
+include_once("xmlDbConnection.class.php");
 
 class subjectList {
   var $tamino;
@@ -16,7 +14,7 @@ class subjectList {
   // constructor
   function subjectList($argArray) {
     // pass host/db/collection settings to tamino object
-    $this->tamino = new taminoConnection($argArray);
+    $this->tamino = new xmlDbConnection($argArray);
 
     // initialize subject list from Tamino
     $this->taminoGetSubjects();
@@ -63,15 +61,13 @@ class subjectList {
     } else {       
       // convert xml subjects into a php array 
       $this->subjects = array();
-      $this->xml_result = $this->tamino->xml->getBranches("ino:response/xq:result");
-      if ($this->xml_result) {
-	// Cycle through all of the branches 
-	foreach ($this->xml_result as $branch) {
-	  if ($val = $branch->getTagContent("dc:subject")) {
-	    array_push($this->subjects, $val);
-	  }
-	} /* end foreach */
-      }
+
+      $subj = $this->tamino->xpath->query("//dc:subject");
+      for ($j=0; $j < $subj->length; $j++) {
+	array_push($this->subjects, $subj->item($j)->textContent);
+	print "DEBUG: subject is " . $subj->item($j)->textContent . "<br>\n";
+      } 
+
     } /* end else */
   }  /* end taminoGetSubjects() */
 

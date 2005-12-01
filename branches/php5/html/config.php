@@ -12,9 +12,9 @@ error_reporting(E_ERROR);
 
 // root directory and url where the website resides
 // development version
-$basedir = "/home/httpd/html/rebecca/wwiweb";
-$server = "reagan.library.emory.edu";
-$base_path = "/rebecca/wwiweb";
+$basedir = "/home/httpd/html/rebecca/greatwar";
+$server = "biliku.library.emory.edu";
+$base_path = "/rebecca/greatwar";
 $base_url = "http://$server$base_path/";
 
 // root directory and url where the website resides

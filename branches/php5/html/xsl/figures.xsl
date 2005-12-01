@@ -13,7 +13,7 @@
 <!-- base url for linking to images -->
 <xsl:variable name="image_baseurl">http://chaucer.library.emory.edu/wwi/images/</xsl:variable>
 
-<xsl:output method="html"/>  
+<xsl:output method="xml"/>  
 
 <xsl:template match="/"> 
 

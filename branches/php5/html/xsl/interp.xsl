@@ -12,7 +12,7 @@
 <!-- default mode: output pretty linked list; form mode: select box -->
 <xsl:param name="showtitle">1</xsl:param> <!-- by default, display -->
 
-<xsl:output method="html"/>  
+<xsl:output method="xml"/>  
 
 <xsl:template match="/"> 
 

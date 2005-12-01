@@ -12,15 +12,16 @@ print "
 <body>
 ";
 
-include_once("lib/taminoConnection.class.php");
+include_once("lib/xmlDbConnection.class.php");
 include_once("lib/mybreadcrumb.php");
+
 $args = array('host' => $tamino_server,
 	      'db' => $tamino_db,
 	      'coll' => $tamino_coll['poetry'],
       	      'basedir' => $basedir,
 	      'debug' => false,
 	     );
-$tamino = new taminoConnection($args);
+$tamino = new xmlDbConnection($args);
 
 // search terms
 $kw = $_GET["keyword"];

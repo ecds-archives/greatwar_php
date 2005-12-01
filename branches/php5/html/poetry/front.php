@@ -12,7 +12,7 @@ print "<html>
 "; 
 
 
-include_once("lib/taminoConnection.class.php");
+include_once("lib/xmlDbConnection.class.php");
 include_once("lib/mybreadcrumb.php");
 
 include("header.php");
@@ -29,7 +29,7 @@ $args = array('host' => $tamino_server,
       	      'basedir' => $basedir,
       	      'debug' => false, 
 	     );
-$tamino = new taminoConnection($args);
+$tamino = new xmlDbConnection($args);
 $query = 'declare namespace xf="http://www.w3.org/2002/08/xquery-functions"
 for $a in input()/TEI.2/:text/front/div1
 let $root := xf:root($a)

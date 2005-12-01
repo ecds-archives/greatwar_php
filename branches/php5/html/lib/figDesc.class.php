@@ -1,6 +1,6 @@
 <?php
 
-include_once("taminoConnection.class.php");
+include_once("xmlDbConnection.class.php");
 
 class figDesc {
 
@@ -17,7 +17,7 @@ class figDesc {
   // Constructor 
   function figDesc($argArray) {
     // pass host/db/collection settings to tamino object
-    $this->tamino = new taminoConnection($argArray);
+    $this->tamino = new xmlDbConnection($argArray);
 
     $this->entity = $argArray['entity'];
     $this->title = $argArray['title'];
@@ -62,18 +62,16 @@ class figDesc {
   // retrieve a record from tamino by entity value
   function taminoGetRecord() {
     $rval = $this->tamino->xquery($this->xquery('getRecord'));
-    if ($rval) {
-      print "<p>figDesc Error: failed to retrieve figure description from Tamino.<br>";
-      print "(Tamino error code $rval)</p>";
-      $this->description = "";		// load failed; set to null string
-    } else {            // xquery succeeded
-      $val = $this->tamino->xml->getTagContent("ino:response/xq:result/figure/head");
-      if ($val) { $this->title = $val; }
-      $val = $this->tamino->xml->getTagContent("ino:response/xq:result/figure/figDesc");
-      if ($val) { $this->description = $val; }
-      $this->ana = $this->tamino->xml->getTagAttribute("ana", "ino:response/xq:result/figure");
-      $this->interp = explode(" ", $this->ana);		// interp group keywords, separated by spaces
-
+    if (!$rval) {        // xquery succeeded
+      $val = $this->tamino->xpath->query("//figure/head");
+      if ($val) { $this->title = $val->item(0)->textContent; }
+      $val = $this->tamino->xpath->query("//figure/figDesc");
+      if ($val) { $this->description = $val->item(0)->textContent; }
+      $val = $this->tamino->xpath->query("//figure");
+      if ($val) { 
+	$this->ana = $val->item(0)->getAttribute("ana"); 
+	$this->interp = explode(" ", $this->ana);
+      }
     }
   }
 
@@ -105,24 +103,28 @@ class figDesc {
     print "</td></tr></table>";
 
     if (isset($this->tamino->xml)) {
-      $interpGrps = $this->tamino->xml->getBranches("ino:response/xq:result/figure", "interpGrp");
+
+
+      //      if ($val) { $this->description = $val->item(0)->textContent; }
+
+      $ig_nlist = $this->tamino->xpath->query("//figure/interpGrp");
+      //      $interpGrps = $this->tamino->xml->getBranches("ino:response/xq:result/figure", "interpGrp");
       print "<table class='figDesc'>\n";
-      print "<tr><th colspan='" . count($interpGrps) . "'>Categories</th></tr>\n<tr>";
+      print "<tr><th colspan='" . $ig_nlist->length . "'>Categories</th></tr>\n<tr>";
       // display categories, with the appropriate ones selected
-      foreach ($interpGrps as $ig) {
-        $cat = $ig->getTagAttribute("type");
+      for ($x = 0; $x < $ig_nlist->length; $x++) {	// loop through nodelist of interpGrps
+        //convert interpGrp node to simple xml object
+        $ig = simplexml_import_dom($ig_nlist->item($x));
+	$cat = $ig["type"];
         print "<td><h4>$cat</h4>\n";
         $cat = str_replace("\w", "-", $cat);	// replace whitespace with - for form input name
-        $interp = $ig->getBranches();
-        if ($interp) {
-          foreach ($interp as $i) {
-            $id = $i->getTagAttribute("id");
-	    $value = $i->getTagAttribute("value");
-  	    if (preg_match("/$id/", $this->ana)) { $status = "checked"; }
-  	    else { $status = ""; }
-    	    print "<input type='checkbox' name='$cat" . '[]' . "' value='$id'$status> $value<br>\n";
-          }
-        }
+	foreach ($ig->interp as $i) {
+	  $id = $i["id"];
+	  $value = $i["value"];
+          if (preg_match("/$id/", $this->ana)) { $status = "checked"; }
+          else { $status = ""; }
+          print "<input type='checkbox' name='$cat" . '[]' . "' value='$id'$status> $value<br>\n";
+	}
         print "</td>\n";
       }
     }

@@ -11,7 +11,7 @@ print "<html>
 <body> 
 "; 
 
-include_once("lib/taminoConnection.class.php");
+include_once("lib/xmlDbConnection.class.php");
 include_once("lib/alinkCollection.class.php");
 include_once("lib/mybreadcrumb.php");
 
@@ -38,7 +38,7 @@ foreach ($search as $s) {
     $args["keyword"] = $kw;
     $db[$s] = new aLinkCollection($args);    
   } else {
-    $db[$s] =  new taminoConnection($args);
+    $db[$s] =  new xmlDbConnection($args);
   }
 }
 

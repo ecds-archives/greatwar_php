@@ -13,7 +13,7 @@ print "
 <body> 
 "; 
 
-include_once("lib/taminoConnection.class.php");
+include_once("lib/xmlDbConnection.class.php");
 include_once("lib/interpGrp.class.php");
 include_once("lib/mybreadcrumb.php");
 
@@ -23,7 +23,7 @@ $args = array('host' => $tamino_server,
               'basedir' => $basedir,
 	      'debug' => false,
 	      );
-$tamino = new taminoConnection($args);
+$tamino = new xmlDbConnection($args);
 // xquery & xsl for category labels 
 $cat_query = 'for $a in input()/TEI.2/:text/back/:div//interpGrp 
 return $a'; 
@@ -33,6 +33,7 @@ $cat_params = array("showtitle" => 0);
 $total_query = "<total>{count(input()/TEI.2/:text/body/p/figure)}</total>";
 $tamino->xquery($total_query);		// get count of postcards loaded
 $count = $tamino->count;
+// get a random index between 1 and the total number of postcards
 $rand_index = rand(1, $count);
 $random_pcard = "for \$a in input()/TEI.2/:text/body/p/figure[$rand_index] return \$a";
 $pcard_xsl = "figures.xsl";

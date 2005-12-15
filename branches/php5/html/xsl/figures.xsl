@@ -158,7 +158,9 @@
 
 
 <xsl:template match="head">
-  <h4><xsl:apply-templates/></h4>
+  <xsl:if test=". != ''">	<!-- handle case where head exists but is empty -->
+    <h4><xsl:apply-templates/></h4>
+  </xsl:if>
 </xsl:template>
 
 <xsl:template match="figDesc">

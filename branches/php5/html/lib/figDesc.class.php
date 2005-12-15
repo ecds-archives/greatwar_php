@@ -123,6 +123,7 @@ class figDesc {
 	  $value = $i["value"];
           if (preg_match("/$id/", $this->ana)) { $status = "checked"; }
           else { $status = ""; }
+	  $cat = preg_replace("/ /", "-", $cat);
           print "<input type='checkbox' name='$cat" . '[]' . "' value='$id'$status> $value<br>\n";
 	}
         print "</td>\n";

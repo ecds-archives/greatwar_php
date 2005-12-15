@@ -99,6 +99,7 @@ div.search h3 { text-align: center; border-bottom: double; padding: 2px;}
 div.search h4 { margin-top: 0; margin-bottom: 0; padding-top: 2px;}
 div.search input { font-size: 85%; margin-left: 2px; padding: 0; }
 div.search hr { width: 75%; }
+p.searchdiv { background-color:#dfe3df;padding-left:15px;}
 
 /* index search box needs slightly different formatting */
 div.indexsearch { background-color: #aaae9f; font-size: 90%;
@@ -239,7 +240,7 @@ li.horiz {
 li.horiz#first { border-left: none; }
 
 /* table for figure description (admin section) */
-table.figDesc { border: none; width: 100%; font-size: 90%; padding-bottom: 0;}
+table.figDesc { border: none; width: 80%; font-size: 90%; padding-bottom: 0;}
 table.figDesc td { text-align: left; background-color: #e9e9e9; padding:
 5px;}
 table.figDesc th { text-align: center; padding: 5px; border-bottom: double;}

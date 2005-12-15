@@ -20,7 +20,7 @@ $comment_id = $_GET["id"];
 $action = array();
 foreach ($comment_id as $c) {
   $action[$c] = $_GET[$c];
-  print "DEBUG: id=$c, action = $action[$c]<br>\n";
+  //  print "DEBUG: id=$c, action = $action[$c]<br>\n";
 }
 
 $args = array('host' => $tamino_server,
@@ -28,7 +28,7 @@ $args = array('host' => $tamino_server,
 	      'coll' => $tamino_coll['postcards'],
 	      'imgpath' => 'http://chaucer.library.emory.edu/wwi/images/thumbnail/',
 	      'name' => $_SESSION['name'],
-	      'debug' => true);
+	      'debug' => false);
 
 foreach ($comment_id as $c) {
   $args['id'] = $c;

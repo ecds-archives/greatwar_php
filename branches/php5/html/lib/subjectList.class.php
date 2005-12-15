@@ -62,10 +62,10 @@ class subjectList {
       // convert xml subjects into a php array 
       $this->subjects = array();
 
+      $this->tamino->xpath->registerNamespace("dc","http://purl.org/dc/elements/1.1/");
       $subj = $this->tamino->xpath->query("//dc:subject");
       for ($j=0; $j < $subj->length; $j++) {
-	array_push($this->subjects, $subj->item($j)->textContent);
-	print "DEBUG: subject is " . $subj->item($j)->textContent . "<br>\n";
+ 	array_push($this->subjects, $subj->item($j)->textContent);
       } 
 
     } /* end else */

@@ -71,7 +71,9 @@ select="@id"/><xsl:if test="$desc">&amp;desc=<xsl:value-of select="$desc"/></xsl
 <!-- only pass along display-description setting and max display if defined -->
      <xsl:value-of select="@value"/>
    </xsl:element>
+   <xsl:if test="@n != ''">	 <!-- display nothing if there is no count value -->
     <font class="count">(<xsl:value-of select="@n"/>)</font>
+   </xsl:if>
   </li>
 </xsl:template>
 

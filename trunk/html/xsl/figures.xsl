@@ -13,7 +13,7 @@
 <!-- base url for linking to images -->
 <xsl:variable name="image_baseurl">http://chaucer.library.emory.edu/wwi/images/</xsl:variable>
 
-<xsl:output method="html"/>  
+<xsl:output method="xml"/>  
 
 <xsl:template match="/"> 
 
@@ -158,7 +158,9 @@
 
 
 <xsl:template match="head">
-  <h4><xsl:apply-templates/></h4>
+  <xsl:if test=". != ''">	<!-- handle case where head exists but is empty -->
+    <h4><xsl:apply-templates/></h4>
+  </xsl:if>
 </xsl:template>
 
 <xsl:template match="figDesc">

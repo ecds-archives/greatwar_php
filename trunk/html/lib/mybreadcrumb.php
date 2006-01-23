@@ -12,7 +12,10 @@ $breadcrumb->dirformat = 'ucwords'; // Show the names in this style (first lette
 $breadcrumb->showfile = true;       // show the file name in the path
 $breadcrumb->hideFileExt = true;    // don't show filename extension
 
+// development version:
 $breadcrumb->changeName = array('wwiweb'=>'Home');
+// production version:
+//$breadcrumb->changeName = array('greatwar'=>'Home');
 $breadcrumb->changeFileName = array("$base_path/searchall.php" => "Keyword Search",
 				    "$base_path/postcards/searchform.php" => "Advanced Search",
   				    "$base_path/postcards/search.php" => "Search Results",

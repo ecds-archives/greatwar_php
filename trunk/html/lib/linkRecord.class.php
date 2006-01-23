@@ -1,9 +1,7 @@
 <?php
 
-include_once("taminoConnection.class.php");
+include_once("xmlDbConnection.class.php");
 include_once("subjectList.class.php");
-include_once("phpDOM/classes/include.php");
-import("org.active-link.xml.XML");
 include_once("lib/HTTP/Request.php");	// for testing urls
 
 class linkRecord {
@@ -28,7 +26,7 @@ class linkRecord {
   // Constructor 
   function linkRecord($argArray, $subjArray = NULL) {
     // pass host/db/collection settings to tamino object
-    $this->tamino = new taminoConnection($argArray);
+    $this->tamino = new xmlDbConnection($argArray);
 
     $this->id = $argArray['id'];
     $this->url = $argArray['url'];
@@ -109,63 +107,38 @@ class linkRecord {
       print "<p>LinkRecord Error: failed to retrieve linkRecord from Tamino.<br>";
       print "(Tamino error code $rval)</p>";
     } else {            // xquery succeeded
-      $xmlRecord = $this->tamino->xml->getBranches("ino:response/xq:result/linkRecord");
-//      $id = $this->tamino->xml->getBranches("ino:response/xq:result/linkRecord/dc:identifier");
-//      print "TESTING: simple xml url is $id<br>\n";
-
-      // id should be set initially (key value)
-      //      $this->id = $this->tamino->xml->getTagAttribute("id", "ino:response/xq:result/linkRecord");
-      if ($xmlRecord) {
-	// Cycle through all of the branches (so order won't matter)
-	foreach ($xmlRecord as $branch) {
-	  if ($val = $branch->getTagContent("dc:identifier")) {
-	    $this->url = $val;
-	  } else if ($val = $branch->getTagContent("dc:title")) {
-	    $this->title = $val;
-	  } else if ($val = $branch->getTagContent("dc:description")) {
-	    $this->description = $val;
-	  } else if ($val = $branch->getTagContent("dc:date")) {
-	    $this->date = $val;
-	    $this->lastModified = $this->date;
-	  } else if ($val = $branch->getTagContent("dc:contributor")) {
-	    $this->contributor = $val;
-	  } else if ($val = $branch->getTagContent("dc:subject")) {
-	    array_push($this->subject, $val);
-	  }       
+      $this->tamino->xpath->registerNamespace("xq","http://namespaces.softwareag.com/tamino/XQuery/result");
+      $dc_list = $this->tamino->xpath->query("//linkRecord/*");	// should return nodelist
+      for ($j=0; $j < $dc_list->length; $j++) {
+	switch ($dc_list->item($j)->localName) {
+  	case "identifier"  : $this->url = $dc_list->item($j)->textContent; break;
+  	case "title"       : $this->title = $dc_list->item($j)->textContent; break;
+	case "description" : $this->description = $dc_list->item($j)->textContent; break;
+	case "date"        : $this->date = $dc_list->item($j)->textContent; break;
+	case "contributor" : $this->contributor = $dc_list->item($j)->textContent; break;
+	case "subject"     : array_push($this->subject, $dc_list->item($j)->textContent); break;
 	}
-	// get any editing information
-
-	$edits = $this->tamino->xml->getBranches("ino:response/xq:result/linkRecord/edit");
-	//	$edits = $xmlRecord[0]->getBranches("edit");
-	if ($edits) {
+      }
+      $edits = $this->tamino->xpath->query("//linkRecord/edit");
+      if ($edits) {
 	  // arrays to store values temporarily, to get into linkEdit objects
 	  $mydate = array();
 	  $mycontrib = array();
 	  $mydesc = array();
-	  
-	  foreach ($edits as $branch) {
-	    if ($val = $branch->getTagContent("dc:date")) { 
-	      array_push($mydate, $val);
-	      // compare dates & save most recent
-	      if ($val > $this->lastModified) {
-		$this->lastModified = $val;
-	      }
-	    } else if ($val = $branch->getTagContent("dc:description")) {
-	      array_push($mydesc,$val);
-	    } else if ($val = $branch->getTagContent("dc:contributor")) {
-	      array_push($mycontrib, $val);
-	    }
-	  }
-	  for ($i=0; $i < count($mydate); $i++) {
-	    $edit_args = array('date' => $mydate[$i], 
-			       'contributor' => $mycontrib[$i],
-			       'description' => $mydesc[$i]);
-	    $this->addEdit($edit_args);
+        for ($j=0; $j < $edits->length; $j++) {
+  	  switch ($edits->item($j)->localName) {
+    	  case "date" : array_push($mydate, $edits->item($j)->textContent); break;
+    	  case "description" : array_push($mydesc, $edits->item($j)->textContent); break;
+    	  case "contributor" : array_push($mycontrib, $edits->item($j)->textContent); break;
 	  }
 	}
-
-      } else {
-	print "<p>LinkRecord Error: no linkRecord found in XML response.<br>";
+	
+        for ($i=0; $i < count($mydate); $i++) {
+	  $edit_args = array('date' => $mydate[$i], 
+			       'contributor' => $mycontrib[$i],
+			       'description' => $mydesc[$i]);
+	  $this->addEdit($edit_args);
+	}
       }
     }
   }

@@ -1,7 +1,7 @@
 <?php
 include("../config.php");	
 
-include_once("lib/taminoConnection.class.php");
+include_once("lib/xmlDbConnection.class.php");
 include_once("lib/mybreadcrumb.php");
 
 $id = $_GET['id'];
@@ -12,7 +12,7 @@ $args = array('host' => $tamino_server,
        	      'basedir' => $basedir,
       	      'debug' => false,
 	      );
-$tamino = new taminoConnection($args);
+$tamino = new xmlDbConnection($args);
 $query = 'declare namespace tf="http://namespaces.softwareag.com/tamino/TaminoFunction"
 declare namespace xf="http://www.w3.org/2002/08/xquery-functions"
 for $a in input()/TEI.2

@@ -1,7 +1,7 @@
 <?php
 include("../config.php");
 
-include_once("lib/taminoConnection.class.php");
+include_once("lib/xmlDbConnection.class.php");
 include_once("lib/mybreadcrumb.php");
 
 $args = array('host' => $tamino_server,
@@ -10,7 +10,7 @@ $args = array('host' => $tamino_server,
 	      'basedir' => $basedir,
 	      'debug' => false,
 	      );
-$tamino = new taminoConnection($args);
+$tamino = new xmlDbConnection($args);
 
 $id = $_GET["id"];
 $zoom = $_GET["zoom"];

@@ -107,7 +107,8 @@ print "</ul></p>";
 
 foreach ($search as $s) {
   if (($dosearch[$s] == "on") && ($db[$s]->count > 0)) {
-    print "<hr class='floatright'><p><a name='$s'>" . ucfirst($s) . "</a></p>";
+    //    print "<hr class='floatright'><p><a name='$s'>" . ucfirst($s) . "</a></p>";
+    print "<p class='searchdiv'><a name='$s'>" . ucfirst($s) . "</a></p>";
     if ($s == "links") {
       $db[$s]->printSummary();
     } else {

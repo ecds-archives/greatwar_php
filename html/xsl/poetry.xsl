@@ -26,7 +26,7 @@
      search = search results (list of poems)
 -->
 
-<xsl:output method="html"/>  
+<xsl:output method="xml"/>  
 
 <xsl:template match="/"> 
   <xsl:choose>
@@ -237,9 +237,12 @@
 	<br/> 
   <xsl:value-of select="docAuthor"/> <xsl:value-of select="docDate"/> <xsl:value-of select="bibl"/>
    
-  <ul>
-    <xsl:apply-templates select="div2" mode="contents"/>
-  </ul>
+  <xsl:if test="count(div2) > 0">
+    <ul>
+      <xsl:apply-templates select="div2" mode="contents"/>
+    </ul>
+  </xsl:if>
+
 </li>
 </xsl:template>
 
@@ -293,9 +296,12 @@
 
     <font class="type">(<xsl:value-of select="@type"/>)</font>
   
-    <ul>
-      <xsl:apply-templates select="div3" mode="contents"/>
-    </ul>
+    <xsl:if test="count(div3) > 0">
+      <ul>
+        <xsl:apply-templates select="div3" mode="contents"/>
+      </ul>
+    </xsl:if>
+
 
   </li>
 </xsl:template>

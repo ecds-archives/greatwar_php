@@ -11,7 +11,7 @@ print "<html>
 <body> 
 "; 
 
-include_once("lib/taminoConnection.class.php");
+include_once("lib/xmlDbConnection.class.php");
 include_once("lib/alinkCollection.class.php");
 include_once("lib/mybreadcrumb.php");
 
@@ -38,7 +38,7 @@ foreach ($search as $s) {
     $args["keyword"] = $kw;
     $db[$s] = new aLinkCollection($args);    
   } else {
-    $db[$s] =  new taminoConnection($args);
+    $db[$s] =  new xmlDbConnection($args);
   }
 }
 
@@ -107,7 +107,8 @@ print "</ul></p>";
 
 foreach ($search as $s) {
   if (($dosearch[$s] == "on") && ($db[$s]->count > 0)) {
-    print "<hr class='floatright'><p><a name='$s'>" . ucfirst($s) . "</a></p>";
+    //    print "<hr class='floatright'><p><a name='$s'>" . ucfirst($s) . "</a></p>";
+    print "<p class='searchdiv'><a name='$s'>" . ucfirst($s) . "</a></p>";
     if ($s == "links") {
       $db[$s]->printSummary();
     } else {

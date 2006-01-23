@@ -14,7 +14,8 @@ class alinkRecord extends linkRecord {
 
   function taminoGetRecord() {
     parent::taminoGetRecord();	// call base class function first, fill in all values
-    $this->approved = $this->tamino->xml->getTagAttribute("approved", "ino:response/xq:result/linkRecord");
+    $rec = $this->tamino->xpath->query("//linkRecord");
+    $this->approved = $rec->item(0)->getAttribute("approved"); 
   }
 
   // overload the parent class (there must be a better way to do this!)

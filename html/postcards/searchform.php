@@ -12,7 +12,7 @@ print "<html>
 "; 
 
 include_once("lib/mybreadcrumb.php");
-include_once("lib/taminoConnection.class.php");
+include_once("lib/xmlDbConnection.class.php");
 
 include("header.php");
 
@@ -25,7 +25,7 @@ $args = array('host' => $tamino_server,
 	      'basedir' => $basedir,
 	      'debug' => false,
 	      );
-$tamino = new taminoConnection($args);
+$tamino = new xmlDbConnection($args);
 
 $cat_query = 'for $a in input()/TEI.2/:text/back/:div//interpGrp 
 return $a'; 

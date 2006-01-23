@@ -11,7 +11,7 @@ print "<html>
 <body> 
 "; 
 
-include_once("lib/taminoConnection.class.php");
+include_once("lib/xmlDbConnection.class.php");
 include_once("lib/interpGrp.class.php");
 include_once("lib/mybreadcrumb.php");
 
@@ -21,7 +21,7 @@ $args = array('host' => $tamino_server,
 	      'basedir' => $basedir,
 	      'debug' => false,
 	      );
-$tamino = new taminoConnection($args);
+$tamino = new xmlDbConnection($args);
 $ig = new interpGrp($args);
 
 // search terms
@@ -104,6 +104,7 @@ print "<p class='breadcrumbs'>" . $breadcrumb->show_breadcrumb() . "</p>";
 print '<div class="content">'; 
 
 $searchterms = array();
+
 print "<p class='postcardnav'>Search results for ";
 // FIXME: maybe put this in an unordered list?  might be cleaner...
 // also make text smaller, as it is in browse.php...  highlight search terms to match text?
@@ -111,28 +112,22 @@ if ($title) { array_push($searchterms, "'$title' in title"); }
 if ($figdesc) { array_push($searchterms, "'$figdesc' in figure description"); }
 foreach ($category as $c) {
   if (($c != "null") && ($c != '')) {  	// if null, skip
-       array_push($searchterms, $ig->group($c) . " - " . $ig->name($c));
+       array_push($searchterms, $ig->group($c) . " = " . $ig->name($c));
   }
 }
-foreach ($kwterms as $t) {
-  array_push($searchterms, $t); 
-}
+
+if ($kw) {
+  $kwstring = "keyword"; 
+  if(count($kwterms) > 1) { $kwstring .= "s"; }
+  $kwstring .= ": " . implode($kwterms, ", ");
+  array_push($searchterms, "$kwstring"); 
+} 
 
 
-$stcount = count($searchterms);
-switch ($stcount) {
- case 1 : print " $searchterms[0]"; break;
- case 2 : print " $searchterms[0] and $searchterms[1]"; break;
- default :
-   foreach ($searchterms as $st) {
-     if ($st == $searchterms[$stcount-1]) { print " and $st"; }
-     else { print "$st, "; }
-   }
-}
+// print out search terms with comma and space between
+print implode($searchterms, ", ");
 
 print "</p>";
-
-
 print "<p>Displaying postcard";
 ($tamino->quantity > 1) ? print "s " : print " ";
 print $tamino->position;

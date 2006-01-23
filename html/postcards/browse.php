@@ -13,7 +13,7 @@ print "
 <body> 
 "; 
 
-include_once("lib/taminoConnection.class.php");
+include_once("lib/xmlDbConnection.class.php");
 include_once("lib/interpGrp.class.php");
 include_once("lib/mybreadcrumb.php");
 
@@ -31,7 +31,7 @@ $args = array('host' => $tamino_server,
               'basedir' => $basedir,
 	      'debug' => false,
 	      );
-$tamino = new taminoConnection($args);
+$tamino = new xmlDbConnection($args);
 
 $cat = $_GET["cat"];		// optionally limit postcards by category
 $desc = $_GET["desc"];

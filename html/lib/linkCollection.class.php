@@ -1,6 +1,6 @@
 <?php
 
-include_once("taminoConnection.class.php");
+include_once("xmlDbConnection.class.php");
 include_once("subjectList.class.php");
 include_once("linkRecord.class.php");
 
@@ -26,7 +26,7 @@ class linkCollection {
   
   function linkCollection ($argArray) {
     // pass host/db/collection settings to member objects
-    $this->tamino = new taminoConnection($argArray);
+    $this->tamino = new xmlDbConnection($argArray);
     $this->subject = new subjectList($argArray);
 
     $this->sort_opts = array("title", "date","contrib");
@@ -94,15 +94,21 @@ class linkCollection {
     } else {       
       // convert xml ids into a php array 
       $this->ids = array();
-      $this->xml_result = $this->tamino->xml->getBranches("ino:response/xq:result");
-      if ($this->xml_result) {
+      $this->tamino->xpath->registerNamespace("xq","http://namespaces.softwareag.com/tamino/XQuery/result");
+      $id_list = $this->tamino->xpath->query("//xq:attribute");	// should return nodelist
+      for ($j=0; $j < $id_list->length; $j++) {
+      	array_push($this->ids, $id_list->item($j)->getAttribute("id"));
+      }
+
+      //      $this->xml_result = $this->tamino->xml->getBranches("ino:response/xq:result");
+      //      if ($this->xml_result) {
 	// Cycle through all of the branches 
-	foreach ($this->xml_result as $branch) {
-	  if ($att = $branch->getTagAttribute("id", "xq:attribute")) {
-	    array_push($this->ids, $att);
-	  }
-	}    /* end foreach */
-      } 
+      //	foreach ($this->xml_result as $branch) {
+      //	  if ($att = $branch->getTagAttribute("id", "xq:attribute")) {
+      //	    array_push($this->ids, $att);
+      //	  }
+      //	}    /* end foreach */
+      //      } 
     }
 
   }     /* end taminoGetIds() */

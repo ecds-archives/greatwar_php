@@ -57,14 +57,9 @@ print "<html>
     <title>The Great War : Poetry : Contents - $title</title>
     <meta http-equiv='Content-Type' content='text/html; charset=iso-8859-1'>"; 
 $tamino->xslTransform($header_xsl1);
-// backup xml from tamino
-$realxml = $tamino->xmlContent;
-//copy xsl_result to xml object for next xsl transform
-$tamino->xmlContent = $tamino->xsl_result;
-$tamino->xslTransform($header_xsl2);
+$tamino->xslTransformResult($header_xsl2);
 $tamino->printResult();
 //restore tamino xml
-$tamino->xmlContent = $realxml;
 print "<base href='$base_url'> 
   </head> 
 <body>

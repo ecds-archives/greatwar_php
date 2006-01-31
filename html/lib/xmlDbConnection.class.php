@@ -116,7 +116,7 @@ class xmlDbConnection {
    function xslTransformResult ($xsl_file, $xsl_params = NULL) {
      /* load xsl & xml as DOM documents */
      $xsl = new DomDocument();
-     $xsl->load("xsl/$xsl_file");
+     $xsl->load("$this->basedir/xsl/$xsl_file");
 
      /* create processor & import stylesheet */
      $proc = new XsltProcessor();

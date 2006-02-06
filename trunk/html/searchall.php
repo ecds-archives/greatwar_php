@@ -60,8 +60,9 @@ if ($terms[0]) {
   }
 }
 
-$return["postcards"] = "return <div> {\$a} <total> {count(" . $for["postcards"] . " $where return \$a)}</total> </div>";
-$return["poetry"] = ' return <div><div2> {$a/@type} {$a/@id} {$a/@n} {$a/byline} {$a/../docAuthor} ';
+$return["postcards"] = "return \$a";
+$total["postcards"] = "<total> {count(" . $for["postcards"] . " $where return \$a)}</total> ";
+$return["poetry"] = ' return <div2> {$a/@type} {$a/@id} {$a/@n} {$a/docAuthor} {$a/../docAuthor} ';
 /* if ($terms[0]) {
    $return["poetry"] .= " {for \$l in \$a//l where "; 
    foreach ($terms as $t) { 
@@ -71,12 +72,12 @@ $return["poetry"] = ' return <div><div2> {$a/@type} {$a/@id} {$a/@n} {$a/byline}
    $return["poetry"] .= " return \$l }  "; 
 } */
 // {for $l in $a//l where tf:containsText($l, ' . "'$kw'" . ') return $l }
-$return["poetry"] .= '<linecount> { count($a//l) } </linecount> </div2><total> {count(' . $for["poetry"] . " $where return \$a)}</total></div> sort by (@n) ";  
-
+$return["poetry"] .= '<linecount> { count($a//l) } </linecount> </div2> sort by (@n)';  
+$total["poetry"] = "<total> {count(" . $for["poetry"] . " $where return \$a)}</total>"; 
 
 foreach ($search as $s) {
   if ($s == "links") next;
-  $query[$s] ="$declare " . $for[$s]  . " $where " . $return[$s];  
+  $query[$s] ="$declare <div>{(" . $for[$s]  . " $where " . $return[$s] . ")[position() >= 1 and position() <= 10] } " . $total[$s] . "</div>";  
 }
 
 $xsl_file["postcards"] = "figures.xsl";

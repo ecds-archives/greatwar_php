@@ -44,19 +44,18 @@
 <h4>
    <!-- create toggle image -->
    <xsl:element name="a">
+       <xsl:attribute name="onclick">javascript:toggle_ul('<xsl:value-of select="@type"/>')</xsl:attribute>
 <!--      <xsl:attribute name="onclick">toggle_ul('list<xsl:value-of select="$num"/>')</xsl:attribute> -->
      <xsl:element name="img">
-       <xsl:attribute
-name="onclick">javascript:toggle_ul('<xsl:value-of
-select="@type"/>')</xsl:attribute>
        <xsl:attribute name="alt">.</xsl:attribute>
        <xsl:attribute name="href">javascript:toggle_ul('<xsl:value-of select="@type"/>')</xsl:attribute>
        <xsl:attribute name="src">images/closed.gif</xsl:attribute>
        <xsl:attribute name="id"><xsl:value-of select="concat(@type,'-gif')"/></xsl:attribute>
      </xsl:element> <!-- img -->
+
+     <xsl:value-of select="@type"/>
    </xsl:element> <!-- a -->
 
-  <xsl:value-of select="@type"/>
 </h4>
 
   <ul>

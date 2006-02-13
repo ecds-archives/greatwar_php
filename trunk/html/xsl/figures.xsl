@@ -220,7 +220,11 @@
 
      <xsl:if test="$id != ''">
         <li><xsl:value-of select="key('interp-cat', $id)"/>: 
-	    <xsl:value-of select="key('interp-name', $id)"/></li>
+        <xsl:element name="a">
+          <xsl:attribute name="href">postcards/browse.php?cat=<xsl:value-of select="$id"/></xsl:attribute>
+	    <xsl:value-of select="key('interp-name', $id)"/>
+        </xsl:element>
+	</li>
      </xsl:if>
 
 </xsl:template>

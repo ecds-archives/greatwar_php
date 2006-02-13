@@ -7,11 +7,14 @@ print "
   <head> 
     <title>The Great War : Postcards : Thumbnails</title>
     <meta http-equiv='Content-Type' content='text/html; charset=utf-8'>
+    <script language='Javascript' type='text/javascript' src='../toggle-list.js'></script>
     <base href='$base_url'>
     $csslink
   </head> 
 <body> 
 "; 
+
+/* NOTE: IE (6.0) seems to choke if javascript is included using any other syntax than the above. */
 
 include_once("lib/xmlDbConnection.class.php");
 include_once("lib/interpGrp.class.php");

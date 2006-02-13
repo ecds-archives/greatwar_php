@@ -12,7 +12,7 @@
 <!-- default mode: output pretty linked list; form mode: select box -->
 <xsl:param name="showtitle">1</xsl:param> <!-- by default, display -->
 
-<xsl:output method="xml"/>  
+<xsl:output method="xml" omit-xml-declaration="yes"/>  
 
 <xsl:template match="/"> 
 
@@ -21,11 +21,13 @@
       <xsl:apply-templates select="//interpGrp" mode="form"/>
    </xsl:when> 
    <xsl:otherwise>
-      <xsl:element name="script">
+  <!-- NOTE: putting the javascript NOT in the header kills any content after this for Internet Explorer.  
+	Any page that uses this *MUST* have the toggle-list.js included for functionality. --> 
+     <!--      <xsl:element name="script">
         <xsl:attribute name="type">text/javascript</xsl:attribute>
         <xsl:attribute name="language">Javascript</xsl:attribute>
         <xsl:attribute name="src">toggle-list.js</xsl:attribute>
-      </xsl:element> <!-- script -->
+      </xsl:element>  --> <!-- script -->
 
      <xsl:if test="$showtitle = 1">
       <h3>Categories</h3>

@@ -1,5 +1,6 @@
 <?php
-include("../config.php");
+chdir("..");	// behave as if we were in the root directory, because all paths are relative to it (xsl, etc.)
+include("config.php");
 
 print " 
 <!DOCTYPE HTML PUBLIC '-//W3C//DTD HTML 4.01 Transitional//EN'>
@@ -16,7 +17,7 @@ print "
 
 /* NOTE: IE (6.0) seems to choke if javascript is included using any other syntax than the above. */
 
-include_once("lib/xmlDbConnection.class.php");
+include_once("CTI/xmlDbConnection.class.php");
 include_once("lib/interpGrp.class.php");
 include_once("lib/mybreadcrumb.php");
 

@@ -1,5 +1,6 @@
 <?php
-include("../config.php");	
+chdir("..");	// behave as if we were in the root directory, because all paths are relative to it (xsl, etc.)
+include("config.php");	
 
 print "
 <html>

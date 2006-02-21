@@ -1,5 +1,6 @@
 <?php
-include("../config.php");	
+chdir("..");	// behave as if we were in the root directory, because all paths are relative to it (xsl, etc.)
+include("config.php");	
 
 print "<html>
   <head> 
@@ -12,7 +13,7 @@ print "<html>
 "; 
 
 
-include_once("lib/xmlDbConnection.class.php");
+include_once("CTI/xmlDbConnection.class.php");
 include_once("lib/mybreadcrumb.php");
 
 include("header.php");

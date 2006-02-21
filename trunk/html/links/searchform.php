@@ -1,5 +1,6 @@
 <?php
-include("../config.php");	
+chdir("..");	// behave as if we were in the root directory, because all paths are relative to it (xsl, etc.)
+include("config.php");	
 include_once("lib/mybreadcrumb.php");
 include_once ("lib/alinkCollection.class.php");
 

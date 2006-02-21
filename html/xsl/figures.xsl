@@ -65,7 +65,7 @@
 	<xsl:attribute name="src"><xsl:value-of select="concat($image_baseurl, 'thumbnail/', @entity, '.jpg')"/></xsl:attribute>
     </xsl:element>
     </a>
-   <xsl:if test="$authlevel">
+   <xsl:if test="$authlevel != 0">
      <p class='admin'>
       Admin<br/>
       <a>

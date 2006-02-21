@@ -1,6 +1,6 @@
 <?php
 
-include_once("xmlDbConnection.class.php");
+include_once("CTI/xmlDbConnection.class.php");
 
 class subjectList {
   var $tamino;

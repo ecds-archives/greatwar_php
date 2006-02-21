@@ -1,6 +1,6 @@
 <?php
 
-include_once("xmlDbConnection.class.php");
+include_once("CTI/xmlDbConnection.class.php");
 include_once("subjectList.class.php");
 include_once("lib/HTTP/Request.php");	// for testing urls
 

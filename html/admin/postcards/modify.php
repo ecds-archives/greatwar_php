@@ -31,7 +31,7 @@ $args = array('host' => $tamino_server,
 	      'db' => $tamino_db,
 	      'coll' => $tamino_coll['postcards'],
 	      'entity' => $entity,
-	      'imgpath' => 'http://chaucer.library.emory.edu/wwi/images/thumbnail/',
+	      'imgpath' => 'http://beck.library.emory.edu/greatwar/postcard-images/thumbnail/',
 	      'debug' => false);
 $desc = new figDesc($args);
 $desc->taminoGetRecord();

@@ -48,7 +48,7 @@ $args = array('host' => $tamino_server,
       	      'title' => $title,
 	      'ana' => $ana,
               'description' => $description,
-	      'imgpath' => 'http://chaucer.library.emory.edu/wwi/images/thumbnail/',
+	      'imgpath' => 'http://beck.library.emory.edu/greatwar/postcard-images/thumbnail/',
 	      'debug' => false);
 $desc = new figDesc($args);
 

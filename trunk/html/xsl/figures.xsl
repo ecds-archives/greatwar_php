@@ -11,7 +11,7 @@
 <xsl:param name="authlevel">0</xsl:param>  
 
 <!-- base url for linking to images -->
-<xsl:variable name="image_baseurl">http://chaucer.library.emory.edu/wwi/images/</xsl:variable>
+<xsl:variable name="image_baseurl">http://beck.library.emory.edu/greatwar/postcard-images/</xsl:variable>
 
 <xsl:output method="xml"/>  
 

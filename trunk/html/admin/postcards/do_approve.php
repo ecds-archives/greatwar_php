@@ -26,7 +26,7 @@ foreach ($comment_id as $c) {
 $args = array('host' => $tamino_server,
 	      'db' => $tamino_db,
 	      'coll' => $tamino_coll['postcards'],
-	      'imgpath' => 'http://chaucer.library.emory.edu/wwi/images/thumbnail/',
+	      'imgpath' => 'http://beck.library.emory.edu/greatwar/postcard-images/thumbnail/',
 	      'name' => $_SESSION['name'],
 	      'debug' => true);
 

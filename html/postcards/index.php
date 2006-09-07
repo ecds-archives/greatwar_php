@@ -17,7 +17,7 @@ print "
 
 /* NOTE: IE (6.0) seems to choke if javascript is included using any other syntax than the above. */
 
-include_once("CTI/xmlDbConnection.class.php");
+include_once("lib/xmlDbConnection.class.php");
 include_once("lib/interpGrp.class.php");
 include_once("lib/mybreadcrumb.php");
 

@@ -11,7 +11,7 @@ print "<html>
 <body> 
 "; 
 
-include_once("CTI/xmlDbConnection.class.php");
+include_once("lib/xmlDbConnection.class.php");
 include_once("lib/alinkCollection.class.php");
 include_once("lib/mybreadcrumb.php");
 

@@ -13,7 +13,7 @@ print "
 <body>
 ";
 
-include_once("CTI/xmlDbConnection.class.php");
+include_once("lib/xmlDbConnection.class.php");
 include_once("lib/mybreadcrumb.php");
 
 $args = array('host' => $tamino_server,

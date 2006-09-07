@@ -12,7 +12,7 @@ print "<html>
 <body>
 ";
 
-include_once("CTI/xmlDbConnection.class.php");
+include_once("lib/xmlDbConnection.class.php");
 include_once("lib/mybreadcrumb.php");
 
 include("header.php");

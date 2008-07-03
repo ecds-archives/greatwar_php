@@ -75,12 +75,20 @@
       <profileDesc></profileDesc>
       <revisionDesc>
 	<change>
-	  <date></date>
+	  <date>February 2005</date>
 	  <respStmt>
-	    <name></name>
-	    <resp></resp>
+	    <name>Alice Hickcox</name>
+	    <resp>Electronic Text Specialist</resp>
 	  </respStmt>
-	    <item></item>
+	    <item>completed proof and encode; spell-check and validated.</item>
+	</change>
+	<change>
+	  <date>November 2004</date>
+	  <respStmt>
+	    <name>Amy Parker</name>
+	    <resp>Student Assistant</resp>
+	  </respStmt>
+	    <item>proof and encode</item>
 	</change>
       </revisionDesc>
    </teiHeader>

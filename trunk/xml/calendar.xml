@@ -67,12 +67,32 @@
 	<p></p>
 	</refsDecl>
 	<classDecl>
-	  <taxonomy>
-	  <category><catDesc></catDesc></category>
+	  <taxonomy id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
 	  </taxonomy>
 	</classDecl>
       </encodingDesc>
-      <profileDesc></profileDesc>
+      <profileDesc>
+         <creation>
+	   <rs type="collection">poetry</rs>
+	   <rs type="language">English</rs>
+            <rs type="ethnicity">Caucasian</rs>
+            <rs type="form">Unedited</rs>
+            <rs type="genre">Poetry</rs>
+            <rs type="geography">Great Britain</rs>
+            <date>1900-1999</date>
+         </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>World War, 1914-1918--Poetry.</item>
+	       <item>English poetry--20th Century.</item>
+	       <item>War.</item>
+	     </list>
+	   </keywords>
+	 </textClass></profileDesc>
       <revisionDesc>
 	<change>
 	  <date>2004</date>

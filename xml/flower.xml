@@ -33,6 +33,22 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
          <projectDesc>
             <p>This digital text is produced from a first edition volume of Katharine Tynan's <hi rend="italic">Flower of Youth: Poems in War Time</hi> generously loaned to the Beck Center by Professor Harry Rusche.  The production of this digital text was undertaken by the Beck Center for the Emory Women Writers Resource Project.</p>
          </projectDesc>
+	<tagsDecl>
+	  <rendition id="quote">Paragraphs including q or quote
+	  elements indicate material that is in a block
+	  quote.</rendition>
+	  <rendition id="title">Where the title of a work is
+	  italicized, it is marked with a title element, both in the
+	  text and in footnotes.</rendition>
+	  <tagUsage gi="q" render="quote">blockquote</tagUsage>
+	  <tagUsage gi="quote" render="quote">blockquote</tagUsage>
+	  <tagUsage gi="title" render="title">italic</tagUsage>
+	</tagsDecl>
+	<refsDecl><p>The page numbers of the volumes are indicated by
+	page break elements</p>
+	<p></p>
+	</refsDecl>
+
 	<classDecl>
 	  <taxonomy id="lcsh">
 	    <bibl>
@@ -43,8 +59,7 @@ download, transmit, or otherwise reproduce, distribute or display the contributi
       </encodingDesc>
       <profileDesc>
          <creation>
-	   <rs type="collection">World War I</rs>
-	   <rs type="collection">Early 20th Century Literature</rs>
+	   <rs type="collection">poetry</rs>
 	   <rs type="language">English</rs>
             <rs type="ethnicity">Caucasian</rs>
             <rs type="form">Unedited</rs>

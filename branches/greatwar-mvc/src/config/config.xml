@@ -1,13 +1,15 @@
 <config>
 	<development>
 		<timezone>America/New_York</timezone>
+		<session_name>greatwar-mvc-ah</session_name> <!-- PHP session name -->
 		<database>
-			<adapter>Pdo_Mysql</adapter>
+			<adapter>exist</adapter>
 			<params>
-				<host>localhost</host>
-				<username></username>
-				<password></password>
-				<dbname></dbname>
+				<host>wilson.library.emory.edu</host>
+				<port>8080</port>
+				<username>ahickco</username>
+				<password>uioJKL89</password>
+				<dbname>greatwar</dbname>
 			</params>
 		</database>
 	</development>

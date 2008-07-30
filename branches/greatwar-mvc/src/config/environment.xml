@@ -36,6 +36,6 @@ http://reservesdirect.org
 <config>
 	<environment>
 		<mode>development</mode>
-		<display_exception>true</display_exception>
+		<display_exception>1</display_exception>
 	</environment>	
 </config>

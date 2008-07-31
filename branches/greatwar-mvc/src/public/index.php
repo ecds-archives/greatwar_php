@@ -43,6 +43,12 @@ Zend_Layout::startMvc(array(
     "layoutPath" => "../app/views/layouts",	// layout scripts directory
     ));
 
+// add local helper path to view
+$viewRenderer = Zend_Controller_Action_HelperBroker::getStaticHelper('ViewRenderer');
+$viewRenderer->initView();
+$viewRenderer->view->addHelperPath('Emory/View/Helper', 'Emory_View_Helper');
+
+
 //set internal error handler
 $front->throwExceptions($env_config->display_exception);
 

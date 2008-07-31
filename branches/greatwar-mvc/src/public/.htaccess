@@ -4,6 +4,6 @@ Options -MultiViews
 
 RewriteEngine on
 #edit this url path to point to your project relative to the webroot
-RewriteBase /home/ahickco/public_html/greatwar/branches/greatwar-mvc/greatwar/public
+RewriteBase /~ahickco/greatwarmvc
 
 RewriteRule !\.(js|ico|gif|jpg|png|css)$ index.php 

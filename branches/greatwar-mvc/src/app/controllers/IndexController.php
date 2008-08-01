@@ -11,7 +11,7 @@ class IndexController extends Zend_Controller_Action {
      $this->initView();
    }
 	public function indexAction() {	
-		$this->view->assign("title", "Welcome to greatwar");
+		$this->view->assign("title", "Poetry and Postcards");
 	}
 
 	public function listAction() {

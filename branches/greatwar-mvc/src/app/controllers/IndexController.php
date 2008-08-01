@@ -6,14 +6,15 @@ class IndexController extends Zend_Controller_Action {
 
   protected $_flashMessenger = null;
 
-   public function init() {
-     $this->_flashMessenger = $this->_helper->getHelper('FlashMessenger');
-     $this->initView();
+   public function indexAction() {	
+     $this->view->assign("title", "Poetry and Postcards");
    }
-	public function indexAction() {	
-		$this->view->assign("title", "Poetry and Postcards");
-	}
 
+  public function aboutAction() {
+    $this->view->assign("title", "About this Site");
+  }
+
+   
 	public function listAction() {
 	}
 

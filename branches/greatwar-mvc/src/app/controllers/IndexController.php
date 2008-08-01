@@ -8,6 +8,9 @@ class IndexController extends Zend_Controller_Action {
 
    public function indexAction() {	
      $this->view->assign("title", "Poetry and Postcards");
+
+     // will use views/layouts/frontpage.phtml instead of site.phtml
+     //$this->_helper->layout->setLayout("frontpage");
    }
 
   public function aboutAction() {

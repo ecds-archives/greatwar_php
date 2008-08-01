@@ -1,0 +1,16 @@
+<?= $this->img("images/topbanner.jpg", array('alt' => 'The Great War top image', 'width' => '800', 'height' => '90', 'borders' => '0' )) ?>
+<table class="indexlinks">
+<tr>
+
+     <td><a href="<?= $this->url(array("controller" => "postcards")) ?>">Postcards</a></td>
+     <td class="separator">&bull;</td>
+     <td><a href="<?= $this->url(array("controller" => "poetry")) ?>">Poetry</a></td>
+     <td class="separator">&bull;</td>
+     <td><a href="<?= $this->url(array("controller" => "links")) ?>">Links</a></td>
+     <td class="separator">&bull;</td>
+     <td><a href="<?= $this->url(array("controller" => "index", "action" => "about")) ?>">About the Site</a></td>
+     <td class="separator">&bull;</td>
+     <td><a href="<?= $this->url(array("controller" => "index", "action" => "credits")) ?>">Credits</a></td>
+</tr>
+
+</table>

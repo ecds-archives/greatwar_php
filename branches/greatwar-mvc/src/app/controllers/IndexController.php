@@ -12,7 +12,7 @@ class IndexController extends Zend_Controller_Action {
      // will use views/layouts/frontpage.phtml instead of site.phtml
      $this->_helper->layout->setLayout("frontpage");
    }
-
+   // These use site.phtml
   public function aboutAction() {
     $this->view->assign("title", "About this Site");
   }

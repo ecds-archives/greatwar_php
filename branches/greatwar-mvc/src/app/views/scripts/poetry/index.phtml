@@ -1,0 +1,9 @@
+<h2>Poetry</h2>
+
+<? foreach ($this->list as $item): ?>
+<p>
+<a href="<?= $this->url(array('action' => 'view', 'id' => $item->id)) ?>">
+   <?= $item->title ?></a><? if (isset($item->author) && $item->author): ?>, by $item->author ?><?endif ?>
+</p>
+
+<? endforeach ?>

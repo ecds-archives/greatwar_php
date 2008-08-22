@@ -23,9 +23,10 @@ function __autoload($class) {
 $env_config	= new Zend_Config_Xml("../config/environment.xml", "environment");
 $config 	= new Zend_Config_Xml("../config/config.xml", $env_config->mode);
 
-//Create DB object
-//$db = Zend_Db::factory($config->database->adapter, $config->database->params->toArray());
-//Zend_Db_Table_Abstract::setDefaultAdapter($db);
+//Create eXist DB object
+// FIXME: check DB adapter type in config?
+$db = new Emory_Db_Adapter_Exist($config->database->params->toArray());
+Zend_Registry::set('exist-db', $db);
 
 //set default timezone
 date_default_timezone_set($config->timezone);

@@ -1,0 +1,9 @@
+<h2>Contents</h2>
+
+<ul>
+foreach ($this->list as $item)
+<li>
+<a href="<? $this->url(array('action' => 'poem', 'id' => $item->id)) ?>"><?= $item->title ?></a> <font class="type">(<?= $item->type ?>)</li>
+</ul>
+
+?>

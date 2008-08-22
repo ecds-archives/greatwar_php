@@ -2,8 +2,10 @@
 
 <? foreach ($this->list as $item): ?>
 <p>
-<a href="<?= $this->url(array('action' => 'view', 'id' => $item->id)) ?>">
-   <?= $item->title ?></a><? if (isset($item->author) && $item->author): ?>, by $item->author ?><?endif ?>
+<a href="<?= $this->url(array('action' => 'content', 'id' => $item->id)) ?>">
+   <?= $item->title ?></a><? if (isset($item->author) && $item->author): ?>, by <?= $item->author ?><?endif ?><? if (isset($item->editor) && $item->editor): ?>, edited by <?= $item->editor ?><?endif ?>
 </p>
 
 <? endforeach ?>
+
+  <pre><?// print_r($this->list) ?></pre> 

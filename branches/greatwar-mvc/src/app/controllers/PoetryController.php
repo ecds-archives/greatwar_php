@@ -1,12 +1,16 @@
 <?php
+
+require_once("models/Tei.php");
+
 class PoetryController extends Zend_Controller_Action {
 
   public function indexAction() {
-    //$this->view->assign("title", "Poetry");
-    $list = Tei::getPoetryTitle($id);
+    $TeiSet = Tei::getPoetryTitle();
+    $this->view->list = $TeiSet->docs;
   }
-  public function viewAction() {
-    $items = Tei::getPoetryContent();
+  public function contentAction() {
+    $items = Tei::getPoetryContent($id);
+    $this->view->list = $Tei->docs;
 
   }
 

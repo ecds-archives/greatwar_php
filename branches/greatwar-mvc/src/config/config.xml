@@ -7,6 +7,7 @@
 			<params>
 				<host>wilson.library.emory.edu</host>
 				<port>8080</port>
+				<webapp>exist</webapp>
 				<username>ahickco</username>
 				<password>uioJKL89</password>
 				<dbname>greatwar</dbname>

@@ -9,8 +9,8 @@ class PoetryController extends Zend_Controller_Action {
     $this->view->list = $TeiSet->docs;
   }
   public function contentAction() {
-    $items = Tei::getPoetryContent($id);
-    $this->view->list = $Tei->docs;
+    $id = $this->_getParam("id");
+    $this->view->item = Tei::getPoetryContent("$id");
 
   }
 

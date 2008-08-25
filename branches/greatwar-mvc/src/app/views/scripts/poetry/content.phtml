@@ -1,9 +1,14 @@
 <h2>Contents</h2>
 
 <ul>
-foreach ($this->list as $item)
 <li>
-<a href="<? $this->url(array('action' => 'poem', 'id' => $item->id)) ?>"><?= $item->title ?></a> <font class="type">(<?= $item->type ?>)</li>
+<a href="<?= $this->url(array('action' => 'poem', 'id' => 'fdiv->id')) ?>"><?= $this->item->title ?></a> <font class="type">(<?= $this->item->type ?>)</li>
+   <? if (isset($this->item->div1)): ?><ul>
+     <li><a href="<?= $this->url(array('action' => 'poem', 'id' => 'div1->id')) ?>"><?= $this->item->title ?></a> <font class="type">(<?= $this->item->type ?>)</li>
+</ul>
+<? endif ?>
+
 </ul>
 
-?>
+ <pre><? print_r($this->item) ?></pre> 
+

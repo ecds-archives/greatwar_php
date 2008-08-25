@@ -150,16 +150,16 @@ for $a in document("' . $path . '")/TEI.2
            {$fileDesc}
          </teiHeader>
       { for $fdiv in $a/text/front/div1
-        return <front><div1> {$fdiv/@id} {$fdiv/@n} {$fdiv/@type} {$fdiv/head} </div1></front> }
+        return <text><front><div1> {$fdiv/@id} {$fdiv/@n} {$fdiv/@type} {$fdiv/head} </div1></front></text> }
       { for $div1 in $a/text/body/div1 
-        return <div1> {$div1/@id} {$div1/@n} {$div1/@type}
+        return <text><body><div1> {$div1/@id} {$div1/@n} {$div1/@type}
           {$div1/head} {$div1/p[1]}
       { for $div2 in $div1/div2 
         return <div2> {$div2/@id} {$div2/@n} {$div2/@type} 
            {$div2/docAuthor}
       { for $div3 in $div2/div3 return <div3>{$div3/@id} {$div3/@n} {$div3/@type}</div3> }
           </div2> }
-        </div1> }
+        </div1></body></text> }
      </TEI.2>';
     $xml = $exist->query($query, 50, 1);
     $dom = new DOMDocument();

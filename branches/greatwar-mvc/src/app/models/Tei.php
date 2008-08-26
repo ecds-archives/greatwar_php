@@ -22,6 +22,12 @@ class Tei extends XmlObject {
 
 
 	  "text" => array("xpath" => "text", "class_name" => "TeiText"),
+	  "front" => array("xpath" => "text/front"),
+	  "body" => array("xpath" => "text/body"),
+	  "fdiv" => array("xpath" => "text/front/div1"),
+	  "div1" => array("xpath" => "text/body/div1"),
+	  "div2" => array("xpath" => "text/body/div1/div2"),
+	  "div3" => array("xpath" => "text/body/div1/div2/div3"),
 				  ));
     parent::__construct($xml, $config);
 
@@ -130,11 +136,13 @@ for $a in document("' . $path . '")/TEI.2
        order by($a/title)
        return <TEI.2 id="{$docname}"> <teiHeader><fileDesc>{$a}</fileDesc></teiHeader> </TEI.2>';
     $xml = $exist->query($query, 50, 1);
-
     $dom = new DOMDocument();
     $dom->loadXML($xml);
     return new TeiSet($dom);
   }
+
+
+  /* FIXME: this query returns a single object, but wrapped in exist result tags. So the object doesn't show. Returning the 1st object of the TeiSet array is a workaround */
 
   public static function getPoetryContent($id) {
     $exist = Zend_Registry::get("exist-db");
@@ -164,7 +172,10 @@ for $a in document("' . $path . '")/TEI.2
     $xml = $exist->query($query, 50, 1);
     $dom = new DOMDocument();
     $dom->loadXML($xml);
-    return new Tei($dom);
+    print $xml;
+    $tei = new TeiSet($dom);
+    return $tei->docs[0];
+    //return new Tei($dom);
   }
 
   public function getByPoet()  {

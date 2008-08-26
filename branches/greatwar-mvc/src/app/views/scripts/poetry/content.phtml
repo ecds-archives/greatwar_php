@@ -1,14 +1,29 @@
-<h2>Contents</h2>
+<h2>Contents: <?= $this->booktoc->title ?></h2>
+   <h3><? if (isset($this->booktoc->editor)): ?> <?= $this->booktoc->editor ?> <? endif ?><? if (isset($this->booktoc->author)): ?><?= $this->booktoc->author ?><? endif ?></h3>
+<pre>
+<?//= $this->booktoc->saveXML() ?>  <!-- DEBUG outputs plain text -->
+</pre>
 
 <ul>
-<li>
-<a href="<?= $this->url(array('action' => 'poem', 'id' => 'fdiv->id')) ?>"><?= $this->item->title ?></a> <font class="type">(<?= $this->item->type ?>)</li>
-   <? if (isset($this->item->div1)): ?><ul>
-     <li><a href="<?= $this->url(array('action' => 'poem', 'id' => 'div1->id')) ?>"><?= $this->item->title ?></a> <font class="type">(<?= $this->item->type ?>)</li>
+    <? if (isset($this->booktoc->fdiv)): ?>
+        <li>
+          <a href="<?= $this->url(array('action' => 'poem', 'id' => '$this->booktoc->fdiv->id')) ?>"><?= $this->booktoc->fdiv->head ?></a> <font class="type">(<?= $this->booktoc->fdiv->type ?>)</li>
+    <? endif ?>
+    <? if (isset($this->booktoc->div1)): ?>
+	   <ul>
+	      <li><a href="<?= $this->url(array('action' => 'poem', 'id' => '$this->booktoc->>div1->id')) ?>"><?= $this->booktoc->div1->n ?></a> <font class="type">(<?= $this->booktoc->div1->type ?>)
+	      </li>
+	      
+    <? endif ?>
+    <? if (isset($this->booktoc->div2)): ?>
+	   <ul>
+	      <li><a href="<?= $this->url(array('action' => 'poem', 'id' => '$this->booktoc-div2->id')) ?>"><?= $this->booktoc->div2->n ?></a> <font class="type">(<?= $this->booktoc->div2->type ?>)
+	      </li>
+	      </ul>
+    <? endif ?>
 </ul>
-<? endif ?>
-
+						<?// endforeach ?>
 </ul>
 
- <pre><? print_r($this->item) ?></pre> 
+						<pre><?// print_r($this->booktoc) ?></pre> <!-- outputs the array; view source for xml -->
 

@@ -10,7 +10,7 @@ class PoetryController extends Zend_Controller_Action {
   }
   public function contentAction() {
     $id = $this->_getParam("id");
-    $this->view->item = Tei::getPoetryContent("$id");
+    $this->view->booktoc = Tei::getPoetryContent($id);
 
   }
 

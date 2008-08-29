@@ -1,4 +1,4 @@
-<?php
+i<?php
 
 require_once("xml-utilities/XmlObject.class.php");
 
@@ -138,7 +138,7 @@ for $a in document("' . $path . '")/TEI.2
     $dom = new DOMDocument();
     $dom->loadXML($xml);
     print $xml; //DEBUG: outputs xml to source view.
-    return new TeiSet($dom);
+    return new GWTeiSet($dom);
   }
 
 
@@ -169,11 +169,11 @@ for $a in document("' . $path . '")/TEI.2
           </div2> }
         </div1> }
      </TEI.2>';
-    $xml = $exist->query($query, 50, 1);
+    $xml = $exist->query($query, 50, 1, array("wrap" => false));
     $dom = new DOMDocument();
     $dom->loadXML($xml);
     print $xml;                 //DEBUG: outputs xml to source to view
-    $tei = new TeiSet($dom);
+    $tei = new GWTeiSet($dom);
     return $tei->docs[0];
     //return new Tei($dom);
   }
@@ -205,6 +205,21 @@ for $a in document("' . $path . '")/TEI.2
 
 
 
+
+
+/**
+ * group of TEI documents (e.g., grouped in a result set returned by eXist)
+ */
+class GWTeiSet extends XmlObject {
+  
+  public function __construct($xml) {
+    $config = $this->config(array(
+	"docs" => array("xpath" => "//TEI.2",
+			"is_series" => true, "class_name" => "Tei"),
+	));
+    parent::__construct($xml, $config);
+  }
+}
 
 
 // group of TEI documents (e.g., grouped in a result set returned by eXist)

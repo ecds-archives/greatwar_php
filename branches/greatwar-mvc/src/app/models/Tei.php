@@ -3,33 +3,33 @@
 require_once("xml-utilities/XmlObject.class.php");
 
   
-class Tei extends XmlObject { 
+class Tei extends Emory_Xml_Tei { 
   
-  public function __construct($xml) {
-    $config = $this->config(array(
-	  "id" => array("xpath" => "@id"),		       //  in use?
-	  "docname" => array("xpath" => "document-name"),
-	  "title" => array("xpath" => "teiHeader/fileDesc/titleStmt/title"),
-	  "short_title" => array("xpath" => "teiHeader/fileDesc/titleStmt/title/seg[@type='short-title']"),
-	  "author" => array("xpath" => "teiHeader/fileDesc/titleStmt/author"),
-	  "editor" => array("xpath" => "teiHeader/fileDesc/titleStmt/editor"),
-	  "summary" => array("xpath" => "teiHeader//note[@type='summary']"),
-
-	  // profile description
-	  "collection" => array("xpath" => "teiHeader/profileDesc/creation/rs[@type='collection']"),
-
-				  // will need more mappings...
-
-
-	  "text" => array("xpath" => "text", "class_name" => "TeiText"),
-	  "front" => array("xpath" => "text/front"),
+  protected function configure() {
+    parent::configure();
+    $this->xmlconfig['author']['xpath'] =  "teiHeader/fileDesc/titleStmt/author/name";
+    $this->xmlconfig = array(
+	  "editor" => array("xpath" => "teiHeader/fileDesc/titleStmt/editor/name"),
+	  "text" => array("xpath" => "text", 
+			  "is_series" => "true", 
+			  "class_name" => "TeiText"),
+	  "front" => array("xpath" => "text/front", 
+			   "is_series" => "true",
+			   "class_name" => "TeiDiv"),
 	  "body" => array("xpath" => "text/body"),
-	  "fdiv" => array("xpath" => "text/front/div1"),
-	  "div1" => array("xpath" => "text/body/div1"),
-	  "div2" => array("xpath" => "text/body/div1/div2"),
-	  "div3" => array("xpath" => "text/body/div1/div2/div3"),
-				  ));
-    parent::__construct($xml, $config);
+	  "fdiv" => array("xpath" => "text/front/div1", 
+			   "is_series" => "true",
+			   "class_name" => "TeiDiv"),
+	  "div1" => array("xpath" => "text/body/div1", 
+			   "is_series" => "true",
+			   "class_name" => "TeiDiv"),
+	  "div2" => array("xpath" => "text/body/div1/div2", 
+			   "is_series" => "true",
+			   "class_name" => "TeiDiv"),
+	  "div3" => array("xpath" => "text/body/div1/div2/div3", 
+			   "is_series" => "true",
+			   "class_name" => "TeiDiv"),
+				  );
 
   }
 
@@ -138,6 +138,7 @@ for $a in document("' . $path . '")/TEI.2
     $xml = $exist->query($query, 50, 1);
     $dom = new DOMDocument();
     $dom->loadXML($xml);
+    print $xml; //DEBUG: outputs xml to source view.
     return new TeiSet($dom);
   }
 
@@ -157,22 +158,22 @@ for $a in document("' . $path . '")/TEI.2
          <teiHeader>
            {$fileDesc}
          </teiHeader>
-      { for $fdiv in $a/text/front/div1
-        return <text><front><div1> {$fdiv/@id} {$fdiv/@n} {$fdiv/@type} {$fdiv/head} </div1></front></text> }
-      { for $div1 in $a/text/body/div1 
+      { for $fdiv in $a/text/front/div
+        return <text><front><div> {$fdiv/@id} {$fdiv/@n} {$fdiv/@type} {$fdiv/head} </div></front></text> }
+      { for $div1 in $a/text/body/div 
         return <text><body><div1> {$div1/@id} {$div1/@n} {$div1/@type}
           {$div1/head} {$div1/p[1]}
-      { for $div2 in $div1/div2 
+      { for $div2 in $div1/div 
         return <div2> {$div2/@id} {$div2/@n} {$div2/@type} 
            {$div2/docAuthor}
-      { for $div3 in $div2/div3 return <div3>{$div3/@id} {$div3/@n} {$div3/@type}</div3> }
+      { for $div3 in $div2/div return <div3>{$div3/@id} {$div3/@n} {$div3/@type}</div3> }
           </div2> }
         </div1></body></text> }
      </TEI.2>';
     $xml = $exist->query($query, 50, 1);
     $dom = new DOMDocument();
     $dom->loadXML($xml);
-    print $xml;
+    print $xml;                 //DEBUG: outputs xml to source to view
     $tei = new TeiSet($dom);
     return $tei->docs[0];
     //return new Tei($dom);
@@ -208,7 +209,7 @@ for $a in document("' . $path . '")/TEI.2
 
 
 // group of TEI documents (e.g., grouped in a result set returned by eXist)
-class TeiSet extends XmlObject {
+/* class TeiSet extends XmlObject {
   
   public function __construct($xml) {
     $config = $this->config(array(
@@ -218,9 +219,9 @@ class TeiSet extends XmlObject {
     parent::__construct($xml, $config);
   }
 }
-
+*/
 /* mappings for TEI.2/text */
-class TeiText extends XmlObject {
+/* class TeiText extends XmlObject {
   public function __construct($xml) {
     $config = $this->config(array(
 	"front" => array("xpath" => "front", "class_name" => "TeiFront"),
@@ -231,10 +232,10 @@ class TeiText extends XmlObject {
 	));
     parent::__construct($xml, $config);
   }
-}
+  } */
 
 /* front matter */ 
-class TeiFront extends XmlObject {
+/* class TeiFront extends XmlObject {
   public function __construct($xml) {
     $config = $this->config(array(
 	"id" => array("xpath" => "@id"),
@@ -245,9 +246,9 @@ class TeiFront extends XmlObject {
 	));
     parent::__construct($xml, $config);
   }
-}
+  } */
 /* generic div */ 
-class TeiDiv extends XmlObject {
+/* class TeiDiv extends XmlObject {
   public function __construct($xml) {
     $config = $this->config(array(
 	"id" => array("xpath" => "@id"),
@@ -259,10 +260,10 @@ class TeiDiv extends XmlObject {
     parent::__construct($xml, $config);
   }
   
-}
+  } */
 
 /* back matter */ 
-class TeiBack extends XmlObject {
+/* class TeiBack extends XmlObject {
   public function __construct($xml) {
     $config = $this->config(array(
 				  "id" => array("xpath" => "@id"),
@@ -273,4 +274,4 @@ class TeiBack extends XmlObject {
     parent::__construct($xml, $config);
   }
   
-}
+  } */

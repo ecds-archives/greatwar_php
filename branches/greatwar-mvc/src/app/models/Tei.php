@@ -8,28 +8,27 @@ class Tei extends Emory_Xml_Tei {
   protected function configure() {
     parent::configure();
     $this->xmlconfig['author']['xpath'] =  "teiHeader/fileDesc/titleStmt/author/name";
-    $this->xmlconfig = array(
-	  "editor" => array("xpath" => "teiHeader/fileDesc/titleStmt/editor/name"),
-	  "text" => array("xpath" => "text", 
-			  "is_series" => "true", 
-			  "class_name" => "TeiText"),
-	  "front" => array("xpath" => "text/front", 
-			   "is_series" => "true",
-			   "class_name" => "TeiDiv"),
-	  "body" => array("xpath" => "text/body"),
-	  "fdiv" => array("xpath" => "text/front/div1", 
-			   "is_series" => "true",
-			   "class_name" => "TeiDiv"),
-	  "div1" => array("xpath" => "text/body/div1", 
-			   "is_series" => "true",
-			   "class_name" => "TeiDiv"),
-	  "div2" => array("xpath" => "text/body/div1/div2", 
-			   "is_series" => "true",
-			   "class_name" => "TeiDiv"),
-	  "div3" => array("xpath" => "text/body/div1/div2/div3", 
-			   "is_series" => "true",
-			   "class_name" => "TeiDiv"),
-				  );
+    $this->xmlconfig['editor']['xpath'] =  "teiHeader/fileDesc/titleStmt/editor/name";
+    $this->xmlconfig['front']['xpath'] =  "text/front"; 
+    $this->xmlconfig['front']['is_series'] = "true";
+    $this->xmlconfig['front']['class_name'] = "TeiDiv";
+    $this->xmlconfig['body']['xpath'] = "text/body";
+    $this->xmlconfig['fdiv']['id'] = "@id";
+    $this->xmlconfig['fdiv']['xpath'] = "text/front/div1";
+    $this->xmlconfig['fdiv']['is_series'] = "true";
+    $this->xmlconfig['fdiv']['class_name'] = "TeiDiv";
+    $this->xmlconfig['div1']['id'] = "@id";
+    $this->xmlconfig['div1']['xpath'] = "text/body/div1";
+    $this->xmlconfig['div1']['is_series'] = "true";
+    $this->xmlconfig['div1']['class_name'] = "TeiDiv";
+    $this->xmlconfig['div2']['id'] = "@id";
+    $this->xmlconfig['div2']['xpath'] = "text/body/div1/div2";
+    $this->xmlconfig['div2']['is_series'] = "true";
+    $this->xmlconfig['div2']['class_name'] = "TeiDiv";
+    $this->xmlconfig['div3']['id'] = "@id";
+    $this->xmlconfig['div3']['xpath'] = "text/body/div1/div2/div3";
+    $this->xmlconfig['div3']['is_series'] = "true";
+    $this->xmlconfig['div3']['class_name'] = "TeiDiv";
 
   }
 
@@ -159,16 +158,16 @@ for $a in document("' . $path . '")/TEI.2
            {$fileDesc}
          </teiHeader>
       { for $fdiv in $a/text/front/div
-        return <text><front><div> {$fdiv/@id} {$fdiv/@n} {$fdiv/@type} {$fdiv/head} </div></front></text> }
+        return <fdiv> {$fdiv/@id} {$fdiv/@n} {$fdiv/@type} {$fdiv/head} </fdiv> }
       { for $div1 in $a/text/body/div 
-        return <text><body><div1> {$div1/@id} {$div1/@n} {$div1/@type}
+        return <div1> {$div1/@id} {$div1/@n} {$div1/@type}
           {$div1/head} {$div1/p[1]}
       { for $div2 in $div1/div 
         return <div2> {$div2/@id} {$div2/@n} {$div2/@type} 
            {$div2/docAuthor}
       { for $div3 in $div2/div return <div3>{$div3/@id} {$div3/@n} {$div3/@type}</div3> }
           </div2> }
-        </div1></body></text> }
+        </div1> }
      </TEI.2>';
     $xml = $exist->query($query, 50, 1);
     $dom = new DOMDocument();

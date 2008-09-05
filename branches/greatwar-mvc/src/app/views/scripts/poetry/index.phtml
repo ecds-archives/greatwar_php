@@ -4,10 +4,10 @@
 <p>
 <a href="<?= $this->url(array('action' => 'content', 'id' => $item->id)) ?>">
    <?= $item->title ?></a><? if (isset($item->author) && $item->author): ?>, by <?= $item->author ?>
-   <? elseif ($item->editor): ?>, edited by <?= $item->editor ?>
+   <? elseif (isset($item->editor) && $item->editor): ?>, edited by <?= $item->editor ?>
    <? endif ?>
 </p>
 
 <? endforeach ?>
 
-  <pre><? print_r($this->list) ?></pre> 
+									       <pre><?// print_r($this->list) ?></pre> 

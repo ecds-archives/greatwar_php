@@ -3,37 +3,27 @@
        <? elseif (isset($this->booktoc->editor) && $this->booktoc->editor): ?><?= $this->booktoc->editor ?>
     <? endif ?>
 </h3>
-<pre>
-<?//= $this->booktoc->saveXML() ?>  <!-- DEBUG outputs plain text -->
-</pre>
 
-    <ul>
-    <? if (isset($this->booktoc->fdiv) && $this->booktoc->fdiv): ?>
-      <? foreach ($this->booktoc->fdiv as $fdiv): ?>
-        <li>
-          <a href="<?= $this->url(array('action' => 'poem', 'id' => '$this->booktoc->fdiv->id')) ?>"><?= $this->booktoc->fdiv->head ?></a> <font class="type">(<?= $this->booktoc->fdiv->type ?>)</li> <? endforeach ?>
-	 
-    <? endif ?>
-    <? if (isset($this->booktoc->div1) && $this->booktoc->div1): ?>
-	    <? foreach ($this->booktoc->div1 as $div1): ?>
-	      <li><a href="<?= $this->url(array('action' => 'poem', 'id' => '$this->div1->id')) ?>"><?= $this->div1->n ?></a> <font class="type">(<?= $this->div1->type ?>)<? endforeach ?>
-	      
-    <? endif ?>
-    <? if (isset($this->booktoc->div2) && $this->booktoc->div2): ?>
-	   <ul>
-	      <? foreach ($this->booktoc->div2 as $div2): ?>
-	      <li><a href="<?= $this->url(array('action' => 'poem', 'id' => '$this->div2->id')) ?>"><?= $this->div2->n ?></a> <font class="type">(<?= $this->div2->type ?>)
-	      </li><? endforeach ?>
-    <? endif ?>
-	      <? if (isset($this->booktoc->div3) && $this->booktoc->div3): ?>
-	      <ul>
-		 <li><a href="<?= $this->url(array('action' => 'poem', 'id' => '$this->booktoc->div3->id')) ?>"><?= $this->booktoc->div3->n ?></a> <font class="type">(<?= $this->booktoc->div3->type ?>)
-		 <? endif ?>
-   <? if ($this->booktoc->div3): ?></li></ul><? endif ?>
-   <? if ($this->booktoc->div2): ?></li></ul><? endif ?>
-   <? if ($this->booktoc->div1): ?></ul><? endif ?>
+
+<ul class="toc">
+     <? if (isset($this->booktoc->fdiv)): ?>
+	<? foreach ($this->booktoc->fdiv as $fdivs): ?>
+	     <li><a href="<?= $this->url(array('id' => $fdivs->id)) ?>">
+<? if (isset($fdivs->title)): ?><?= $fdivs->title ?></a> <font class="type">(<?= $fdivs->type ?>)</font> 
+<? elseif (isset($fdivs->type)): ?><?= $fdivs->type ?></a>
+<?endif ?></li>
+	     <? endforeach ?>
+     <? endif ?>
+     <? foreach ($this->booktoc->div as $div): ?>
+		<?= $this->partial("poetry/_toc_div.phtml", array("div" => $div)) ?>
+     <? endforeach ?>
+    <? if (isset($this->booktoc->text->back)): ?>
+         <li><a href="<?= $this->url(array('id' => $this->doc->text->back->id)) ?>">back matter</a></li>			       
+  <? endif ?>				      
+</ul>  
+
 						
 
 
-					      <pre><? print_r($this->booktoc) ?></pre> <!-- outputs the array; view source for xml -->
+       <pre><? //print_r($this->booktoc) ?></pre> <!-- outputs the array; view source for xml -->
 

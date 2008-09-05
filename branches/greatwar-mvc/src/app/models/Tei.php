@@ -1,4 +1,4 @@
-i<?php
+<?php
 
 require_once("xml-utilities/XmlObject.class.php");
 
@@ -7,29 +7,25 @@ class Tei extends Emory_Xml_Tei {
   
   protected function configure() {
     parent::configure();
-    $this->xmlconfig['author']['xpath'] =  "teiHeader/fileDesc/titleStmt/author/name";
-    $this->xmlconfig['editor']['xpath'] =  "teiHeader/fileDesc/titleStmt/editor/name";
+    //$this->xmlconfig['author']['xpath'] =  "teiHeader/fileDesc/titleStmt/author/name";
+    //$this->xmlconfig['editor']['xpath'] =  "teiHeader/fileDesc/titleStmt/editor/name";
     $this->xmlconfig['front']['xpath'] =  "text/front"; 
     $this->xmlconfig['front']['is_series'] = "true";
     $this->xmlconfig['front']['class_name'] = "TeiDiv";
     $this->xmlconfig['body']['xpath'] = "text/body";
-    $this->xmlconfig['fdiv']['id'] = "@id";
-    $this->xmlconfig['fdiv']['xpath'] = "text/front/div1";
+    $this->xmlconfig['fdiv']['xpath'] = "text/front/div";
     $this->xmlconfig['fdiv']['is_series'] = "true";
     $this->xmlconfig['fdiv']['class_name'] = "TeiDiv";
-    $this->xmlconfig['div1']['id'] = "@id";
-    $this->xmlconfig['div1']['xpath'] = "text/body/div1";
-    $this->xmlconfig['div1']['is_series'] = "true";
-    $this->xmlconfig['div1']['class_name'] = "TeiDiv";
-    $this->xmlconfig['div2']['id'] = "@id";
-    $this->xmlconfig['div2']['xpath'] = "text/body/div1/div2";
+    $this->xmlconfig['div']['xpath'] = "text/body/div";
+    $this->xmlconfig['div']['is_series'] = "true";
+    $this->xmlconfig['div']['class_name'] = "TeiDiv";
+    $this->xmlconfig['div2']['xpath'] = "text/body/div/div";
     $this->xmlconfig['div2']['is_series'] = "true";
     $this->xmlconfig['div2']['class_name'] = "TeiDiv";
-    $this->xmlconfig['div3']['id'] = "@id";
-    $this->xmlconfig['div3']['xpath'] = "text/body/div1/div2/div3";
-    $this->xmlconfig['div3']['is_series'] = "true";
-    $this->xmlconfig['div3']['class_name'] = "TeiDiv";
-
+    //$this->xmlconfig['div3']['xpath'] = "text/body/div/div/div";
+    //$this->xmlconfig['div3']['is_series'] = "true";
+    //$this->xmlconfig['div3']['class_name'] = "TeiDiv";
+    //$this->xmlconfig['docAuthor']['xpath'] = "text/body//div/docAuthor";
   }
 
   /**
@@ -158,25 +154,57 @@ for $a in document("' . $path . '")/TEI.2
            {$fileDesc}
          </teiHeader>
       { for $fdiv in $a/text/front/div
-        return <fdiv> {$fdiv/@id} {$fdiv/@n} {$fdiv/@type} {$fdiv/head} </fdiv> }
+        return <text><front><div> {$fdiv/@id} {$fdiv/@n} {$fdiv/@type} {$fdiv/head} </div></front></text> }
       { for $div1 in $a/text/body/div 
-        return <div1> {$div1/@id} {$div1/@n} {$div1/@type}
+        return <text><body><div> {$div1/@id} {$div1/@n} {$div1/@type}
           {$div1/head} {$div1/p[1]}
       { for $div2 in $div1/div 
-        return <div2> {$div2/@id} {$div2/@n} {$div2/@type} 
+        return <div> {$div2/@id} {$div2/@n} {$div2/@type} 
            {$div2/docAuthor}
-      { for $div3 in $div2/div return <div3>{$div3/@id} {$div3/@n} {$div3/@type}</div3> }
-          </div2> }
-        </div1> }
+      { for $div3 in $div2/div return <div>{$div3/@id} {$div3/@n} {$div3/@type}</div> }
+          </div> }
+        </div></body></text> }
      </TEI.2>';
     $xml = $exist->query($query, 50, 1, array("wrap" => false));
     $dom = new DOMDocument();
     $dom->loadXML($xml);
     print $xml;                 //DEBUG: outputs xml to source to view
-    $tei = new GWTeiSet($dom);
-    return $tei->docs[0];
+    $tei = new GWTeiSet($dom);  //Custom GWTeiSet to load changes to Emory Lib Tei model by this doc
+    return $tei->docs[0];  //Use the TeiSet instead of Tei to get around the exist result wrapper problem
     //return new Tei($dom);
   }
+
+  public static function getPoem ($id) {
+    $exist = Zend_Registry::get("exist-db");
+    $path = $exist->getDbPath();
+    $query = 'for $a in collection("' . $path . '")/TEI.2[text//div/@id = ' . "'$id'" . ']
+       let $docname := util:document-name($a)
+       let $titlestmt := $a/teiHeader/fileDesc/titleStmt
+       let $fileDesc := $a/teiHeader/fileDesc
+       let $bibl := $a/teiHeader/fileDesc/sourceDesc/bibl
+       return <TEI.2>
+              <teiHeader>
+              <fileDesc> {$titlestmt}
+              <sourceDesc>
+                {$bibl}
+              </sourceDesc>
+              </fileDesc>
+              </teiHeader>
+             {$a/text//div}
+             <siblings>
+             { for $s in /TEI.2/text/body/div/div
+               return <div> {$s/@id} {$s/@n} {$s/docAuthor} </div> }
+            </siblings>
+         </TEI.2>';
+    $xml = $exist->query($query, 50, 1, array("wrap" => false));
+    $dom = new DOMDocument();
+    $dom->loadXML($xml);
+    print $xml;                 //DEBUG: outputs xml to source to view
+    $tei = new GWTeiSet($dom);  //Custom GWTeiSet to load changes to Emory Lib Tei model by this doc
+    return $tei->docs;  //Use the TeiSet instead of Tei to get around the exist result wrapper problem
+    //return new Tei($dom);
+   }
+  
 
   public function getByPoet()  {
     $query = 'for $a in collection("' . $path . '")/TEI.2/text/body//docAuthor

@@ -25,9 +25,10 @@ class Tei extends Emory_Xml_Tei {
     $this->xmlconfig['lg']['is_series'] = "true";
     $this->xmlconfig['l']['xpath'] = "text/body//div/lg/l";
     $this->xmlconfig['l']['is_series'] = "true";
-    // $this->xmlconfig['div2']['xpath'] = "text/body/div/div";
+    $this->xmlconfig['docAuthor']['xpath'] = "text/body/div/docAuthor";
+    //$this->xmlconfig['div2']['xpath'] = "text/body/div/div";
     //$this->xmlconfig['div2']['is_series'] = "true";
-    // $this->xmlconfig['div2']['class_name'] = "TeiDiv";
+    //$this->xmlconfig['div2']['class_name'] = "TeiDiv";
     //$this->xmlconfig['div3']['xpath'] = "text/body/div/div/div";
     //$this->xmlconfig['div3']['is_series'] = "true";
     //$this->xmlconfig['div3']['class_name'] = "TeiDiv";
@@ -197,7 +198,7 @@ for $a in document("' . $path . '")/TEI.2
               </sourceDesc>
               </fileDesc>
               </teiHeader>
-             {$b}
+             <text><body>{$b}</body></text>
              <siblings>
              { for $s in doc("' . $path . '/$docname")/TEI.2/text/body//div
                return <div> {$s/@id} {$s/@n} {$s/docAuthor} </div> }

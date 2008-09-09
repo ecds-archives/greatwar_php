@@ -199,8 +199,8 @@ table.searchform td { text-align: left; vertical-align: middle; background-color
 font.type { color: #b9b9b9; padding-left: 10px; font-size: 80%;vertical-align: middle;}
 p.copyright { color: #666666; margin-top: 25px; border-top: double;
 padding: 5px; }
-table.poem { margin: 25px; }
-table.poem td { text-align: left; }
+div.poem { margin: 25px; }
+div.poem td { text-align: left; }
 p.head { font-weight: bold; font-size: 115%; }
 p.subhead { font-weight: bold; font-size: 105%; }
 p.argument { width: 60%; }

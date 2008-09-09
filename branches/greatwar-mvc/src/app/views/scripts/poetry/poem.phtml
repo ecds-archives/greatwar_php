@@ -1,13 +1,14 @@
-<h2><?= $this->poem->div->n ?></h2>
-   <h3><? if (isset($this->poem->div->docAuthor) && $this->poem->div->docAuthor): ?><?= $this->poem->div->docAuthor ?>
-     <? endif ?>
-</h3>
-    <p><?= $this->poem->div->byline ?></p>
-	  <? foreach ($this->poem->div->lg as $group): ?><p>
-		<? foreach ($group->l as $line): ?><?= $line ?><br/>
-                <?endforeach ?>
+<div class="poem">
+<p class="head"><?= $this->poem->n ?></p>
+   <p class="subhead"><? if (isset($this->poem->docAuthor) && $this->poem->docAuthor): ?><?= $this->poem->docAuthor ?>
+   <? endif ?>
+</p>
+   
+	  <? foreach ($this->poem->lg as $group): ?><p>
+		<? $this->partial("poetry/_poem_line.phtml", array("group" => $group)) ?>
+											  <?// endforeach ?>
           </p><? endforeach ?>
 
-
-
- <pre><? print_r($this->poem) ?></pre> <!-- outputs the array; view source for xml -->
+ <? if (isset($this->poem->byline) && $this->poem->byline): ?><p class="byline"><?= $this->poem->byline ?></p><? endif ?>
+</div>
+											  <pre><? //print_r($this->poem) ?></pre> <!-- outputs the array; view source for xml -->

@@ -16,12 +16,18 @@ class Tei extends Emory_Xml_Tei {
     $this->xmlconfig['fdiv']['xpath'] = "text/front/div";
     $this->xmlconfig['fdiv']['is_series'] = "true";
     $this->xmlconfig['fdiv']['class_name'] = "TeiDiv";
-    $this->xmlconfig['div']['xpath'] = "text/body/div";
+    $this->xmlconfig['div']['xpath'] = "text/body//div";       //can use path //?
     $this->xmlconfig['div']['is_series'] = "true";
     $this->xmlconfig['div']['class_name'] = "TeiDiv";
-    $this->xmlconfig['div2']['xpath'] = "text/body/div/div";
-    $this->xmlconfig['div2']['is_series'] = "true";
-    $this->xmlconfig['div2']['class_name'] = "TeiDiv";
+    $this->xmlconfig['n']['xpath'] = "text/body//div/@n";
+    $this->xmlconfig['byline']['xpath'] = "text/body//div/byline";
+    $this->xmlconfig['lg']['xpath'] = "text/body//div//lg";
+    $this->xmlconfig['lg']['is_series'] = "true";
+    $this->xmlconfig['l']['xpath'] = "text/body//div/lg/l";
+    $this->xmlconfig['l']['is_series'] = "true";
+    // $this->xmlconfig['div2']['xpath'] = "text/body/div/div";
+    //$this->xmlconfig['div2']['is_series'] = "true";
+    // $this->xmlconfig['div2']['class_name'] = "TeiDiv";
     //$this->xmlconfig['div3']['xpath'] = "text/body/div/div/div";
     //$this->xmlconfig['div3']['is_series'] = "true";
     //$this->xmlconfig['div3']['class_name'] = "TeiDiv";
@@ -178,6 +184,7 @@ for $a in document("' . $path . '")/TEI.2
     $exist = Zend_Registry::get("exist-db");
     $path = $exist->getDbPath();
     $query = 'for $a in collection("' . $path . '")/TEI.2[text//div/@id = ' . "'$id'" . ']
+       let $b := $a/text//div[@id = ' . "'$id'" . ']
        let $docname := util:document-name($a)
        let $titlestmt := $a/teiHeader/fileDesc/titleStmt
        let $fileDesc := $a/teiHeader/fileDesc
@@ -190,9 +197,9 @@ for $a in document("' . $path . '")/TEI.2
               </sourceDesc>
               </fileDesc>
               </teiHeader>
-             {$a/text//div}
+             {$b}
              <siblings>
-             { for $s in /TEI.2/text/body/div/div
+             { for $s in doc("' . $path . '/$docname")/TEI.2/text/body//div
                return <div> {$s/@id} {$s/@n} {$s/docAuthor} </div> }
             </siblings>
          </TEI.2>';
@@ -201,7 +208,7 @@ for $a in document("' . $path . '")/TEI.2
     $dom->loadXML($xml);
     print $xml;                 //DEBUG: outputs xml to source to view
     $tei = new GWTeiSet($dom);  //Custom GWTeiSet to load changes to Emory Lib Tei model by this doc
-    return $tei->docs;  //Use the TeiSet instead of Tei to get around the exist result wrapper problem
+    return $tei->docs[0];  //Use the TeiSet instead of Tei to get around the exist result wrapper problem
     //return new Tei($dom);
    }
   

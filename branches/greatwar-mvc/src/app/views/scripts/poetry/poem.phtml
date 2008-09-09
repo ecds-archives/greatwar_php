@@ -1,4 +1,13 @@
-<h2><?= $this->poem->title ?></h2>
-<h3><? if (isset($this->poem->docAuthor) && $this->poem->docAuthor): ?><?= $this->poem->docAuthor ?>
+<h2><?= $this->poem->div->n ?></h2>
+   <h3><? if (isset($this->poem->div->docAuthor) && $this->poem->div->docAuthor): ?><?= $this->poem->div->docAuthor ?>
      <? endif ?>
 </h3>
+    <p><?= $this->poem->div->byline ?></p>
+	  <? foreach ($this->poem->div->lg as $group): ?><p>
+		<? foreach ($group->l as $line): ?><?= $line ?><br/>
+                <?endforeach ?>
+          </p><? endforeach ?>
+
+
+
+ <pre><? print_r($this->poem) ?></pre> <!-- outputs the array; view source for xml -->

@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "teixlite.dtd"> 
 <TEI.2>
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>The Holy War: Electronic Edition</title>
-            <author>Katharine Tynan</author>
+            <author><name type="person" reg="Tynan, Katharine, 1861-1931">Katharine Tynan</name></author>
          </titleStmt>
 	 <publicationStmt>
 	   <publisher>Lewis H. Beck Center for Electronic Collections
@@ -118,7 +116,7 @@
 <front>
 
 <pb n="5"/>
-<div1 id="holywar001" type="dedication" n="Dedication">
+<div id="holywar001" type="dedication" n="Dedication">
 <head rend="center">DEDICATION</head>
 
 <lg type="stanza">
@@ -150,17 +148,17 @@
 <l rend="indent">My bundle of woundwort's plucked again</l>
 <l>In this most glorious day and year</l>
 <l rend="indent">That gives your man to die for men.</l></lg>
-</div1>
+</div>
 </front>
 
 <body>
 <pb n="6"/>
-<div1 id="holywar002" type="anthology" n="The Holy War">
+<div id="holywar002" type="anthology" n="The Holy War">
 <docAuthor n="Tynan, Katherine">Katherine Tynan</docAuthor>
 <pb n="7"/>
 <pb n="8"/>
 <pb n="9"/>
-<div2 id="holywar003" type="poem" n="The Vision">
+<div id="holywar003" type="poem" n="The Vision">
 <head rend="center">THE VISION</head>
 
 <lg type="stanza">
@@ -267,11 +265,11 @@
 <l rend="indent">He smiles and prays the live-long day.</l>
 <l>He who has seen the living Lord</l>
 <l rend="indent">Has Light upon the darkest way.</l></lg>
-</div2>
+</div>
 
 
 <pb n="13"/>
-<div2 id="holywar004" type="poem" n="The Wall Between">
+<div id="holywar004" type="poem" n="The Wall Between">
 <head rend="center">THE WALL BETWEEN</head>
 
 <lg type="stanza">
@@ -310,11 +308,11 @@
 <l rend="indent">Your tears will all be dried,</l>
 <l>For souls so bright that walk in white</l>
 <l rend="indent">Dear bliss on the other side.</l></lg>
-</div2>
+</div>
 
 
 <pb n="15"/>
-<div2 id="holywar005" type="poem" n="To the Others">
+<div id="holywar005" type="poem" n="To the Others">
 <head rend="center">TO THE OTHERS</head>
 
 <lg type="stanza">
@@ -353,11 +351,11 @@
 <l>Your man and my man and now the Lord's!</l>
 <l>Your son and my son for the Great Crusade,</l>
 <l>With the banner of Christ over them -- our knights, new-made.</l></lg>
-</div2>
+</div>
 
 
 <pb n="17"/>
-<div2 id="holywar006" type="poem" n="They Who Return">
+<div id="holywar006" type="poem" n="They Who Return">
 <head rend="center">THEY WHO RETURN</head>
 <head rend="center"><hi rend="italic">To Mrs. Weigall</hi></head>
 
@@ -391,11 +389,11 @@
 <l rend="indent">There's a face in the doorway, a foot on the floor.</l>
 <l>They sit down beside us in the shadows grey,</l>
 <l rend="indent">Lay their heads on our breasts as oft before.</l></lg>
-</div2>
+</div>
 
 
 <pb n="19"/>
-<div2 id="holywar007" type="poem" n="The Heart of a Boy">
+<div id="holywar007" type="poem" n="The Heart of a Boy">
 <head rend="center">THE HEART OF A BOY</head>
 <head rend="center"><hi rend="italic">To Mrs. Guy Wyndham</hi></head>
 
@@ -429,11 +427,11 @@
 <l rend="indent">A sword for the weak against the strong,</l>
 <l>A young knight riding forth to the War</l>
 <l rend="indent">Who dies to right the wrong.</l></lg>
-</div2>
+</div>
 
 
 <pb n="21"/>
-<div2 id="holywar008" type="poem" n="The Convent Garden">
+<div id="holywar008" type="poem" n="The Convent Garden">
 <head rend="center">THE CONVENT GARDEN</head>
 
 <lg type="stanza">
@@ -503,11 +501,11 @@
 <l rend="indent">Her heart is proud and high,</l>
 <l>To think that men should die for her --</l>
 <l rend="indent">And the marching feet go by.</l></lg>
-</div2>
+</div>
 
 
 <pb n="24"/>
-<div2 id="holywar009" type="poem" n="Emptiness">
+<div id="holywar009" type="poem" n="Emptiness">
 <head rend="center">EMPTINESS</head>
 
 <lg type="stanza">
@@ -540,11 +538,11 @@
 <l rend="indent">Because her dearest Love is dead,</l>
 <l>The Lord of Life comes in and takes</l>
 <l rend="indent">Warm to His arms the piteous head.</l></lg>
-</div2>
+</div>
 
 
 <pb n="26"/>
-<div2 id="holywar010" type="poem" n="The Broken Soldier">
+<div id="holywar010" type="poem" n="The Broken Soldier">
 <head rend="center">THE BROKEN SOLDIER</head>
 <head rend="center"><hi rend="italic">To Earl Grey</hi></head>
 
@@ -571,11 +569,11 @@
 <l rend="indent">The soul in the broken man is beautiful and brave;</l>
 <l>And while he weeds the pansies and the bright hours pass</l>
 <l rend="indent">The bird caught in the cage whistles its joyous stave.</l></lg>
-</div2>
+</div>
 
 
 <pb n="27"/>
-<div2 id="holywar011" type="poem" n="The Gardener">
+<div id="holywar011" type="poem" n="The Gardener">
 <head rend="center">THE GARDENER</head>
 <head rend="center"><hi rend="italic">For Violet</hi></head>
 
@@ -615,11 +613,11 @@
 <l rend="indent">Ladders-to-Heaven scale the skies;</l>
 <l>While the dear forget-me-not</l>
 <l rend="indent">Brightens her eyes.</l></lg>
-</div2>
+</div>
 
 
 <pb n="29"/>
-<div2 id="holywar012" type="poem" n="The Perfect Playmate">
+<div id="holywar012" type="poem" n="The Perfect Playmate">
 <head rend="center">THE PERFECT PLAYMATE</head>
 <head rend="center"><hi rend="italic">Roger Charles Noel Bellingham. Before Ypres, March 4th, 1915</hi></head>
 
@@ -655,11 +653,11 @@
 <l>His youth unwithered, smiling all the way,</l>
 <l>Into the land of youth, the Spring of Day.</l>
 <l rend="italic">The Perfect Playmate will return no more.</l></lg>
-</div2>
+</div>
 
 
 <pb n="31"/>
-<div2 id="holywar013" type="poem" n="The Comrades">
+<div id="holywar013" type="poem" n="The Comrades">
 <head rend="center">THE COMRADES</head>
 
 <lg type="stanza">
@@ -685,11 +683,11 @@
 <l rend="indent">Michael and a poor soldier are comrades twain!</l>
 <l>Oh, in the noise of battle, the red roar and the rattle,</l>
 <l rend="indent12">The angels walk with men!</l></lg>
-</div2>
+</div>
 
 
 <pb n="32"/>
-<div2 id="holywar014" type="poem" n="The Widow">
+<div id="holywar014" type="poem" n="The Widow">
 <head rend="center">THE WIDOW</head>
 
 <lg type="stanza">
@@ -715,11 +713,11 @@
 <l rend="indent">Patience high and heavenly mirth,</l>
 <l>That her soldier may return</l>
 <l rend="indent">To his own hearth.</l></lg>
-</div2>
+</div>
 
 
 <pb n="33"/>
-<div2 id="holywar015" type="poem" n="Starling">
+<div id="holywar015" type="poem" n="Starling">
 <head rend="center">STARLING</head>
 
 <lg type="stanza">
@@ -764,11 +762,11 @@
 <l rend="indent">Bidding the boy arise;</l>
 <l>And the door's opening on the latch</l>
 <l rend="indent">To show -- his mother's eyes.</l></lg>
-</div2>
+</div>
 
 
 <pb n="35"/>
-<div2 id="holywar016" type="poem" n="The Trust">
+<div id="holywar016" type="poem" n="The Trust">
 <head rend="center">THE TRUST</head>
 
 <lg type="stanza">
@@ -799,11 +797,11 @@
 <l rend="indent5">Pluck the robe of Heaven, O Dear,</l>
 <l rend="indent5">So the Heart of Heaven may hear,</l>
 <l>That never yet was hardened to your cry!</l></lg>
-</div2>
+</div>
 
 
 <pb n="37"/>
-<div2 id="holywar017" type="poem" n="The Colonists">
+<div id="holywar017" type="poem" n="The Colonists">
 <head rend="center">THE COLONISTS</head>
 
 <lg type="stanza">
@@ -848,11 +846,11 @@
 <l>This little land of their desire</l>
 <l>Seen in a mirage far away</l>
 <l>With light upon her night and day.</l></lg>
-</div2>
+</div>
 
 
 <pb n="39"/>
-<div2 id="holywar018" type="poem" n="Speeding">
+<div id="holywar018" type="poem" n="Speeding">
 <head rend="center">SPEEDING</head>
 <head rend="center"><hi rend="italic">To Ivo Alan Charteris, October 17th, 1915</hi></head>
 
@@ -879,11 +877,11 @@
 <l>Heaven be full of new life and play for you!</l>
 <l>Swift as an arrow, light as a swallow,</l>
 <l>So may we find you, boy, when we follow.</l></lg>
-</div2>
+</div>
 
 
 <pb n="40"/>
-<div2 id="holywar019" type="poem" n="Haymaking">
+<div id="holywar019" type="poem" n="Haymaking">
 <head rend="center">HAYMAKING</head>
 <head rend="center"><hi rend="italic">In Connaught, 1915</hi></head>
 
@@ -927,11 +925,11 @@
 <l rend="indent">I wouldn't care if he'd come.</l>
 <l>But the heart o' me's cryin' this minit,</l>
 <l rend="indent">For the boy that'll never come home!</l></lg>
-</div2>
+</div>
 
 
 <pb n="42"/>
-<div2 id="holywar020" type="poem" n="The Truce of God">
+<div id="holywar020" type="poem" n="The Truce of God">
 <head rend="center">THE TRUCE OF GOD</head>
 <head rend="center"><hi rend="italic">After Suvla</hi></head>
 
@@ -958,11 +956,11 @@
 <l rend="indent">Is the quiet peace,</l>
 <l>He carries His lamb in His arms,</l>
 <l rend="indent">The blood on her fleece.</l></lg>
-</div2>
+</div>
 
 
 <pb n="43"/>
-<div2 id="holywar021" type="poem" n="High Summer">
+<div id="holywar021" type="poem" n="High Summer">
 <head rend="center">HIGH SUMMER</head>
 
 <lg type="stanza">
@@ -988,11 +986,11 @@
 <l>The dappled sky and the stream that sings as it passes --</l>
 <l>These are bought with a price, a bitter fee --</l>
 <l rend="italic">They die in Flanders to keep these for me.</l></lg>
-</div2>
+</div>
 
 
 <pb n="44"/>
-<div2 id="holywar022" type="poem" n="The Last Parting">
+<div id="holywar022" type="poem" n="The Last Parting">
 <head rend="center">THE LAST PARTING</head>
 <head rend="center"><hi rend="italic">To Violet</hi></head>
 
@@ -1019,11 +1017,11 @@
 <l rend="indent">Wonder at her pale joy: the while</l>
 <l>She in the lightest fear or doubt</l>
 <l rend="indent">Turns to his smile.</l></lg>
-</div2>
+</div>
 
 
 <pb n="45"/>
-<div2 id="holywar023" type="poem" n="The Long Vacation">
+<div id="holywar023" type="poem" n="The Long Vacation">
 <head rend="center">THE LONG VACATION</head>
 <head rend="center"><hi rend="italic">To Amy Wainwright</hi></head>
 
@@ -1044,11 +1042,11 @@
 <l rend="indent">The mothers watch the road till set of sun;</l>
 <l>But nevermore the birds fly back to the nest.</l>
 <l rend="indent"><hi rend="italic">The roads of the world run Heavenward every one.</hi></l></lg>
-</div2>
+</div>
 
 
 <pb n="46"/>
-<div2 id="holywar024" type="poem" n="Missing">
+<div id="holywar024" type="poem" n="Missing">
 <head rend="center">MISSING</head>
 <head rend="center"><hi rend="italic">To Leucha Mary Warner</hi></head>
 
@@ -1094,11 +1092,11 @@
 <l rend="indent">Still the Mighty Lover goes,</l>
 <l>Seeks the beloved o'er many a hill.</l>
 <l rend="indent">Be at rest, dear child! <hi rend="italic">He</hi> knows!</l></lg>
-</div2>
+</div>
 
 
 <pb n="48"/>
-<div2 id="holywar025" type="poem" n="New Heaven">
+<div id="holywar025" type="poem" n="New Heaven">
 <head rend="center">NEW HEAVEN</head>
 <head rend="center"><hi rend="italic">To Sir William Haldane</hi></head>
 
@@ -1125,11 +1123,11 @@
 <l rend="indent">Their own country its shining sod,</l>
 <l>Comrades all in a merry band;</l>
 <l rend="indent">And the young Knights' laughter pleaseth God.</l></lg>
-</div2>
+</div>
 
 
 <pb n="49"/>
-<div2 id="holywar026" type="poem" n="Riding Home">
+<div id="holywar026" type="poem" n="Riding Home">
 <head rend="center">RIDING HOME</head>
 
 <lg type="stanza">
@@ -1162,11 +1160,11 @@
 <l>With soft cries, wet eyes, and fond arms around;</l>
 <l>Lead them in to begin New Life, to which all loves</l>
 <l rend="indent14">Home like a flock of doves.</l></lg>
-</div2>
+</div>
 
 
 <pb n="51"/>
-<div2 id="holywar027" type="poem" n="His Footstep">
+<div id="holywar027" type="poem" n="His Footstep">
 <head rend="center">HIS FOOTSTEP</head>
 <head rend="center"><hi rend="italic">To Lady Wemyss</hi></head>
 
@@ -1193,11 +1191,11 @@
 <l rend="indent">That's singing early and soon,</l>
 <l>His foot had the music in it</l>
 <l rend="indent">Like an old tune.</l></lg>
-</div2>
+</div>
 
 
 <pb n="52"/>
-<div2 id="holywar028" type="poem" n="Lament">
+<div id="holywar028" type="poem" n="Lament">
 <head rend="center">LAMENT</head>
 <head rend="center"><hi rend="italic">To the Immortal Tenth (Irish) Division</hi></head>
 
@@ -1233,11 +1231,11 @@
 <l rend="indent">All our beautiful, our young</l>
 <l>Dear dead darlings sacrificed?</l>
 <l>Thou, -- wilt <hi rend="italic">Thou</hi> repay, Lord Christ?</l></lg>
-</div2>
+</div>
 
 
 <pb n="54"/>
-<div2 id="holywar029" type="poem" n="The Mother of Three">
+<div id="holywar029" type="poem" n="The Mother of Three">
 <head rend="center">THE MOTHER OF THREE</head>
 
 <lg type="stanza">
@@ -1282,11 +1280,11 @@
 <l rend="indent">Under the golden thatch so bright,</l>
 <l>And the little boys safe home from harm</l>
 <l rend="indent">Shut in with me at night!</l></lg>
-</div2>
+</div>
 
 
 <pb n="56"/>
-<div2 id="holywar030" type="poem" n="The Father">
+<div id="holywar030" type="poem" n="The Father">
 <head rend="center">THE FATHER</head>
 <head rend="center"><hi rend="italic">Captain Patrick Tobin, R.D.F. Suvla, August 15th, 1915</hi></head>
 
@@ -1313,11 +1311,11 @@
 <l rend="indent">The Father sees him, splendid and laughing still,</l>
 <l>Leaping like a young deer, calling his men.</l>
 <l rend="indent">The glory dazzles! The boy's keeping the hill!</l></lg>
-</div2>
+</div>
 
 
 <pb n="57"/>
-<div2 id="holywar031" type="poem" n="All Souls' Night">
+<div id="holywar031" type="poem" n="All Souls' Night">
 <head rend="center">ALL SOULS' NIGHT</head>
 
 <lg type="stanza">
@@ -1362,11 +1360,11 @@
 <l rend="indent">There's light in her window-pane</l>
 <l>Where she and her Love the watch keep</l>
 <l rend="indent">This night again.</l></lg>
-</div2>
+</div>
 
 
 <pb n="59"/>
-<div2 id="holywar032" type="poem" n="The Great Sorrow">
+<div id="holywar032" type="poem" n="The Great Sorrow">
 <head rend="center">THE GREAT SORROW</head>
 
 <lg type="stanza">
@@ -1392,11 +1390,11 @@
 <l rend="indent">This grief, this grief has wings --</l>
 <l>Blood on her breast, but through the groves immortal</l>
 <l rend="indent">Her song of triumph rings.</l></lg>
-</div2>
+</div>
 
 
 <pb n="60"/>
-<div2 id="holywar033" type="poem" n="The Dear Brown Head">
+<div id="holywar033" type="poem" n="The Dear Brown Head">
 <head rend="center">THE DEAR BROWN HEAD</head>
 <head rend="center"><hi rend="italic">James Cecil Johnston. Suvla. August 9th, 1915</hi></head>
 
@@ -1423,11 +1421,11 @@
 <l>Full of the young coming home by the bitter ways.</l>
 <l>Their beds are made near God, and the table spread,</l>
 <l>And you lying down, sitting down with them, dear brown head!</l></lg>
-</div2>
+</div>
 
 
 <pb n="61"/>
-<div2 id="holywar034" type="poem" n="Unfit">
+<div id="holywar034" type="poem" n="Unfit">
 <head rend="center">UNFIT</head>
 
 <lg type="stanza">
@@ -1478,11 +1476,11 @@
 <l rend="indent">Shambling and blear-eyed and alone</l>
 <l>He goes, and darkness covers him,</l>
 <l>Who saw the glory and the gleam.</l></lg>
-</div2>
+</div>
 
 
 <pb n="63"/>
-<div2 id="holywar035" type="poem" n="What She Said">
+<div id="holywar035" type="poem" n="What She Said">
 <head rend="center">WHAT SHE SAID</head>
 
 <lg type="stanza">
@@ -1521,11 +1519,11 @@
 <l>Would I and the bulbs together,</l>
 <l>For Spring lay quietly waiting;</l>
 <l>I and the bulbs together.</l></lg>
-</div2>
+</div>
 
 
 <pb n="65"/>
-<div2 id="holywar036" type="poem" n="The Wild Geese">
+<div id="holywar036" type="poem" n="The Wild Geese">
 <head rend="center">THE WILD GEESE</head>
 
 <lg type="stanza">
@@ -1564,11 +1562,11 @@
 <l rend="indent">The bogs and the mountains lone,</l>
 <l>The souls new-home from the battle</l>
 <l rend="indent">Cry their love and are flown.</l></lg>
-</div2>
+</div>
 
 
 <pb n="67"/>
-<div2 id="holywar037" type="poem" n="The New Recruit">
+<div id="holywar037" type="poem" n="The New Recruit">
 <head rend="center">THE NEW RECRUIT</head>
 
 <lg type="stanza">
@@ -1632,11 +1630,11 @@
 <l rend="indent">The glory tasted sweet,</l>
 <l>And the eyes of the girls all doating</l>
 <l rend="indent">As we marched down the street.</l></lg>
-</div2>
+</div>
 
 
 <pb n="70"/>
-<div2 id="holywar038" type="poem" n="The Only Son">
+<div id="holywar038" type="poem" n="The Only Son">
 <head rend="center">THE ONLY SON</head>
 
 <lg type="stanza">
@@ -1687,9 +1685,9 @@
 <l>Her cup of Heaven's untasted till</l>
 <l>God's messenger returns to say:</l>
 <l>"He fell in action yesterday."</l></lg>
-</div2>
+</div>
 
-</div1>
+</div>
 </body>
 </text>
 </TEI.2>

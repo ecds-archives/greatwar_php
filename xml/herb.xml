@@ -1,11 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "teixlite.dtd">
 <TEI.2>
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Herb o' Grace: Electronic Edition</title>
-            <author>Katharine Tynan</author>
+            <author><name type="person" reg="Tynan, Katharine, 1861-1931">Katharine Tynan</name></author>
          </titleStmt>
 	 <publicationStmt>
 	   <publisher>Lewis H. Beck Center for Electronic Collections
@@ -113,14 +111,14 @@
 <body>
 
 <pb n="9"/>
-<div1 id="herb001" type="chapter" n="Myrrh and Amaranth">
+<div id="herb001" type="chapter" n="Myrrh and Amaranth">
 <head>MYRRH AND AMARANTH</head>
 <docAuthor n="Tynan, Katharine">Katharine Tynan</docAuthor>
 <pb n="10"/>
 
 
 <pb n="11"/>
-<div2 id="herb002" type="poem" n="Herbal">
+<div id="herb002" type="poem" n="Herbal">
 <head rend="center">HERBAL</head>
 
 <lg>
@@ -151,11 +149,11 @@
 <lg>
 <l>Ladders-to-heaven may be found</l>
 <l>Now in any common ground.</l></lg>
-</div2>
+</div>
 
 
 <pb n="13"/>
-<div2 id="herb003" type="poem" n="Telling the Bees">
+<div id="herb003" type="poem" n="Telling the Bees">
 <head rend="center">TELLING THE BEES</head>
 <head rend="center"><hi rend="italic">(For Edward Tennant)</hi></head>
 
@@ -182,11 +180,11 @@
 <l>Tell them that the boy they knew</l>
 <l>Sleeps out under rain and dew</l>
 <l rend="indent">In the night, ah, in the night!</l></lg>
-</div2>
+</div>
 
 
 <pb n="14"/>
-<div2 id="herb004" type="poem" n="No Man's Land">
+<div id="herb004" type="poem" n="No Man's Land">
 <head rend="center">NO MAN'S LAND</head>
 
 <lg type="stanza">
@@ -237,11 +235,11 @@
 <l>Than in the dear, remembered day:</l>
 <l>God sent no angel, but a friend</l>
 <l>To save him at the bitter end.</l></lg>
-</div2>
+</div>
 
 
 <pb n="16"/>
-<div2 id="herb005" type="poem" n="Quiet Eyes">
+<div id="herb005" type="poem" n="Quiet Eyes">
 <head rend="center">QUIET EYES</head>
 
 <lg type="stanza">
@@ -274,11 +272,11 @@
 <l rend="indent">Oh, there's no all-heal, no wound-wort!</l>
 <l>The soul looks from its hidden place</l>
 <l rend="indent">Unharmed, unflawed, unhurt.</l></lg>
-</div2>
+</div>
 
 
 <pb n="18"/>
-<div2 id="herb006" type="poem" n="The Short Road to Heaven">
+<div id="herb006" type="poem" n="The Short Road to Heaven">
 <head rend="center">THE SHORT ROAD TO HEAVEN</head>
 
 <lg type="stanza">
@@ -311,11 +309,11 @@
 <l>The short road to Heaven's a green and pleasant way;</l>
 <l>They run singing and leaping, they will be in before</l>
 <l>The night darkens on them -- and there's God at the door.</l></lg>
-</div2>
+</div>
 
 
 <pb n="20"/>
-<div2 id="herb007" type="poem" n="A Connaught Man">
+<div id="herb007" type="poem" n="A Connaught Man">
 <head rend="center">A CONNAUGHT MAN</head>
 <head rend="center"><hi rend="italic">(For Hugh Maguire)</hi></head>
 
@@ -349,11 +347,11 @@
 <l rend="indent">Give each man his desire!</l>
 <l>Give him the soft wind and the rain</l>
 <l rend="indent">And the reek of the turf fire.</l></lg>
-</div2>
+</div>
 
 
 <pb n="22"/>
-<div2 id="herb008" type="poem" n="The Brothers">
+<div id="herb008" type="poem" n="The Brothers">
 <head rend="center">THE BROTHERS</head>
 <head rend="center"><hi rend="italic">(For Arnold and Donald Fletcher.)</hi></head>
 
@@ -399,11 +397,11 @@
 <l rend="indent8">Donald's o'ertaken;</l>
 <l>Up to the highest peaks they climb unspent,</l>
 <l rend="indent8">Footing the bracken.</l></lg>
-</div2>
+</div>
 
 
 <pb n="24"/>
-<div2 id="herb009" type="poem" n="The Secret Foe">
+<div id="herb009" type="poem" n="The Secret Foe">
 <head rend="center">THE SECRET FOE</head>
 
 <lg type="stanza">
@@ -442,11 +440,11 @@
 <l rend="indent">Michael and the White Maid,</l>
 <l>Lest in his splendid hour, at last,</l>
 <l rend="indent">The soldier be afraid.</l></lg>
-</div2>
+</div>
 
 
 <pb n="26"/>
-<div2 id="herb010" type="poem" n="A Song of Spring">
+<div id="herb010" type="poem" n="A Song of Spring">
 <head rend="center">A SONG OF SPRING</head>
 
 <lg type="stanza">
@@ -484,11 +482,11 @@
 <l>The trees are out in Heaven they say.</l>
 <l rend="indent6">Slowly, slowly,</l>
 <l>The Spring comes slowly up our way.</l></lg>
-</div2>
+</div>
 
 
 <pb n="28"/>
-<div2 id="herb011" type="poem" n="The Vestal">
+<div id="herb011" type="poem" n="The Vestal">
 <head rend="center">THE VESTAL</head>
 
 <lg type="stanza">
@@ -527,11 +525,11 @@
 <l rend="indent">He sleeps too sound for any fret</l>
 <l>At their lost kisses, or the dream</l>
 <l rend="indent">Of the poor girl he never met.</l></lg>
-</div2>
+</div>
 
 
 <pb n="30"/>
-<div2 id="herb012" type="poem" n="The Old House">
+<div id="herb012" type="poem" n="The Old House">
 <head rend="center">THE OLD HOUSE</head>
 
 <lg type="stanza">
@@ -562,11 +560,11 @@
 <l>Of the grey house and firelit room</l>
 <l rend="indent">They are fain, they are fain:</l>
 <l>They are come home from the night and rain.</l></lg>
-</div2>
+</div>
 
 
 <pb n="32"/>
-<div2 id="herb013" type="poem" n="When You Come Home">
+<div id="herb013" type="poem" n="When You Come Home">
 <head rend="center">WHEN YOU COME HOME</head>
 
 <lg type="stanza">
@@ -609,11 +607,11 @@
 <l rend="indent">Of that poor girl. Maybe 'twas but a dream.</l>
 <l>When you come home the shadows will depart,</l>
 <l rend="indent">The lonesome dreams die off in morning gleam.</l></lg>
-</div2>
+</div>
 
 
 <pb n="34"/>
-<div2 id="herb014" type="poem" n="The Last Question">
+<div id="herb014" type="poem" n="The Last Question">
 <head rend="center">THE LAST QUESTION</head>
 <head rend="center"><hi rend="italic">(For B. A. Bingham)</hi></head>
 
@@ -636,11 +634,11 @@
 <l>So smiling, smiling all the way,</l>
 <l rend="indent">To the undying Dead hew went</l>
 <l>As to a heavenly holiday.</l></lg>
-</div2>
+</div>
 
 
 <pb n="35"/>
-<div2 id="herb015" type="poem" n="A Holy Week Song, 1918">
+<div id="herb015" type="poem" n="A Holy Week Song, 1918">
 <head rend="center">A HOLY WEEK SONG, 1918</head>
 
 <lg type="stanza">
@@ -673,11 +671,11 @@
 <l rend="indent6"><hi rend="italic">Let nothing you dismay,</hi></l>
 <l rend="indent4"><hi rend="italic">For life is born and Death is slain</hi></l>
 <l rend="indent6"><hi rend="italic">Upon the Easter Day.</hi></l></lg>
-</div2>
+</div>
 
 
 <pb n="37"/>
-<div2 id="herb016" type="poem" n="Flower O' the Year">
+<div id="herb016" type="poem" n="Flower O' the Year">
 <head rend="center">FLOWER O' THE YEAR</head>
 
 <lg type="stanza">
@@ -708,11 +706,11 @@
 <l rend="indent">The lambs frolic in pastures gold,</l>
 <l rend="indent">But since they come not it is cold.</l>
 <l>Cold the primrose and daffodil weather.</l></lg>
-</div2>
+</div>
 
 
 <pb n="39"/>
-<div2 id="herb017" type="poem" n="The Great May">
+<div id="herb017" type="poem" n="The Great May">
 <head rend="center">THE GREAT MAY</head>
 
 <lg type="stanza">
@@ -755,19 +753,19 @@
 <l rend="indent">Your hours are on the wing</l>
 <l>To the loves that wait you yet,</l>
 <l rend="indent">Raised up and triumphing.</l></lg>
-</div2>
+</div>
 
 
-</div1>
+</div>
 <pb n="41"/>
-<div1 id="herb018" type="chapter" n="Love-Lies-Bleeding with Wound-Wort">
+<div id="herb018" type="chapter" n="Love-Lies-Bleeding with Wound-Wort">
 <head>LOVE-LIES-BLEEDING WITH WOUND-WORT</head>
 <docAuthor n="Tynan, Katharine">Katharine Tynan</docAuthor>
 <pb n="42"/>
 
 
 <pb n="43"/>
-<div2 id="herb019" type="poem" n="Recompense">
+<div id="herb019" type="poem" n="Recompense">
 <head rend="center">RECOMPENSE</head>
 <head rend="center"><hi rend="italic">(For Lord Kilhacken)</hi></head>
 
@@ -813,11 +811,11 @@
 <l rend="indent6">This one lamb of the fold;</l>
 <l>And he will need his mother to the end</l>
 <l rend="indent6">And never will grow old.</l></lg>
-</div2>
+</div>
 
 
 <pb n="45"/>
-<div2 id="herb020" type="poem" n="A Birth-Night Song">
+<div id="herb020" type="poem" n="A Birth-Night Song">
 <head rend="center">A BIRTH-NIGHT SONG</head>
 
 <lg type="stanza">
@@ -852,11 +850,11 @@
 <l rend="indent">Here is your ancient peace restored!</l>
 <l>"<hi rend="italic">Lullalay-loo</hi>," sings Mary mild,</l>
 <l>Kissing her God, her Lamb, her Child.</l></lg>
-</div2>
+</div>
 
 
 <pb n="47"/>
-<div2 id="herb021" type="poem" n="The Crown">
+<div id="herb021" type="poem" n="The Crown">
 <head rend="center">THE CROWN</head>
 
 <lg type="stanza">
@@ -899,11 +897,11 @@
 <l rend="indent">Redder than roses in a wreath,</l>
 <l>Doth she wear in a coronal</l>
 <l>Under the lights that rise and fall?</l></lg>
-</div2>
+</div>
 
 
 <pb n="49"/>
-<div2 id="herb022" type="poem" n="A Woman Commends Her Little Son">
+<div id="herb022" type="poem" n="A Woman Commends Her Little Son">
 <head rend="center">A WOMAN COMMENDS HER LITTLE SON</head>
 
 <lg type="stanza">
@@ -954,11 +952,11 @@
 <l rend="indent">To the Trinity Three in One,</l>
 <l>To the Blood spilled out, unpriced,</l>
 <l rend="indent">For love of my little son.</l></lg>
-</div2>
+</div>
 
 
 <pb n="51"/>
-<div2 id="herb023" type="poem" n="The Young Soldier">
+<div id="herb023" type="poem" n="The Young Soldier">
 <head rend="center">THE YOUNG SOLDIER</head>
 
 <lg type="stanza">
@@ -991,11 +989,11 @@
 <l>God knows my little son hath ease --</l>
 <l>And I, his mother, may go sleep</l>
 <l>And pray for them who wake and weep.</l></lg>
-</div2>
+</div>
 
 
 <pb n="53"/>
-<div2 id="herb024" type="poem" n="The Boys of the House">
+<div id="herb024" type="poem" n="The Boys of the House">
 <head rend="center">THE BOYS OF THE HOUSE</head>
 <head rend="center"><hi rend="italic">(For Valentine and Hubert Blake)</hi></head>
 
@@ -1031,11 +1029,11 @@
 <l>To do, to bear, to attain</l>
 <l>To your glory and your gain --</l>
 <l rend="indent6">By what steep hill?</l></lg>
-</div2>
+</div>
 
 
 <pb n="55"/>
-<div2 id="herb025" type="poem" n="Alienation">
+<div id="herb025" type="poem" n="Alienation">
 <head rend="center">ALIENATION</head>
 
 <lg type="stanza">
@@ -1074,11 +1072,11 @@
 <lg>
 <l rend="italic">God pity mothers when their sons</l>
 <l rend="italic">Grow cold, that were their little ones!</l></lg>
-</div2>
+</div>
 
 
 <pb n="57"/>
-<div2 id="herb026" type="poem" n="Any Mother">
+<div id="herb026" type="poem" n="Any Mother">
 <head rend="center">ANY MOTHER</head>
 
 <lg type="stanza">
@@ -1119,11 +1117,11 @@
 <l rend="indent">One bright head tossed hither, thither;</l>
 <l>Oh, if he goes down the seas</l>
 <l rend="indent">Whelm her and the world together!</l></lg>
-</div2>
+</div>
 
 
 <pb n="59"/>
-<div2 id="herb027" type="poem" n="Prayer at Night">
+<div id="herb027" type="poem" n="Prayer at Night">
 <head rend="center">PRAYER AT NIGHT</head>
 
 <lg type="stanza">
@@ -1158,11 +1156,11 @@
 <l>The poorest, Love's own prisoner,</l>
 <l>Who comforts as his mother might,</l>
 <l>Rocking him into sleep at night.</l></lg>
-</div2>
+</div>
 
 
 <pb n="61"/>
-<div2 id="herb028" type="poem" n="The Vision">
+<div id="herb028" type="poem" n="The Vision">
 <head rend="center">THE VISION</head>
 <head rend="center"><hi rend="italic">(Katia: Easter Sunday, 1916)</hi></head>
 
@@ -1208,11 +1206,11 @@
 <l rend="indent">When by the moon asleep she lay --</l>
 <l>And woke to singing birds and dew,</l>
 <l rend="indent">And knew that it was Easter Day.</l></lg>
-</div2>
+</div>
 
 
 <pb n="63"/>
-<div2 id="herb029" type="poem" n="A Colloquy">
+<div id="herb029" type="poem" n="A Colloquy">
 <head rend="center">A COLLOQUY</head>
 <head rend="center"><hi rend="italic">(For M. W.)</hi></head>
 
@@ -1252,11 +1250,11 @@
 <l rend="indent">God who kissed His Mother dear, a Babe in Nazareth,</l>
 <l>Knows how they need mother-love, the dear and precious young,</l>
 <l rend="indent6">In the new Life where is no Death."</l></lg>
-</div2>
+</div>
 
 
 <pb n="65"/>
-<div2 id="herb030" type="poem" n="Palestine: 1917">
+<div id="herb030" type="poem" n="Palestine: 1917">
 <head rend="center">PALESTINE: 1917</head>
 
 <lg type="stanza">
@@ -1301,11 +1299,11 @@
 <l>The might of Heathenesse be undone,</l>
 <l rend="indent">The strong towers down, the gate unfast,</l>
 <l>Lord Christ come to His own, His own.</l></lg>
-</div2>
+</div>
 
 
 <pb n="67"/>
-<div2 id="herb031" type="poem" n="Pilgrims to the East">
+<div id="herb031" type="poem" n="Pilgrims to the East">
 <head rend="center">PILGRIMS TO THE EAST</head>
 
 <lg type="stanza">
@@ -1340,11 +1338,11 @@
 <l rend="indent">Yet if God will not have it so</l>
 <l>At least my son, in His high Name,</l>
 <l>Has travelled towards Jerusalem.</l></lg>
-</div2>
+</div>
 
 
 <pb n="69"/>
-<div2 id="herb032" type="poem" n="Comfort">
+<div id="herb032" type="poem" n="Comfort">
 <head rend="center">COMFORT</head>
 
 <lg type="stanza">
@@ -1379,11 +1377,11 @@
 <l>And she his one felicity.</l>
 <l>Her little son, as when he lay</l>
 <l>Small in her arms one heavenly day.</l></lg>
-</div2>
+</div>
 
 
 <pb n="71"/>
-<div2 id="herb033" type="poem" n="The Refreshment">
+<div id="herb033" type="poem" n="The Refreshment">
 <head rend="center">THE REFRESHMENT</head>
 
 <lg type="stanza">
@@ -1416,11 +1414,11 @@
 <l rend="indent">Ere the deep seas are over my head,</l>
 <l>I shall have had, O Beautiful!</l>
 <l rend="indent">This hour joy-filled and comforted.</l></lg>
-</div2>
+</div>
 
 
 <pb n="73"/>
-<div2 id="herb034" type="poem" n="The Promise">
+<div id="herb034" type="poem" n="The Promise">
 <head rend="center">THE PROMISE</head>
 
 <lg type="stanza">
@@ -1446,20 +1444,20 @@
 <l>Your dead son shall come in alive,</l>
 <l rend="indent4">As once came Mary's Son;</l>
 <l>The lost, the incredible Heaven be won.</l></lg>
-</div2>
+</div>
 
 
-</div1>
+</div>
 <pb n="74"/>
 <pb n="75"/>
-<div1 id="herb035" type="chapter" n="Pansies">
+<div id="herb035" type="chapter" n="Pansies">
 <head>PANSIES</head>
 <docAuthor n="Tynan, Katharine">Katharine Tynan</docAuthor>
 <pb n="76"/>
 
 
 <pb n="77"/>
-<div2 id="herb036" type="poem" n="The Dream">
+<div id="herb036" type="poem" n="The Dream">
 <head rend="center">THE DREAM</head>
 <head rend="center"><hi rend="italic">(For my Father)</hi></head>
 
@@ -1493,11 +1491,11 @@
 <l rend="indent">Ah, why would it haunt me if it wasn't true?</l>
 <l>I am travelling home to you by the last red gleam,</l>
 <l rend="indent">In the quiet evening I am finding you.</l></lg>
-</div2>
+</div>
 
 
 <pb n="79"/>
-<div2 id="herb037" type="poem" n="The Mother Gives Up Her Daughter">
+<div id="herb037" type="poem" n="The Mother Gives Up Her Daughter">
 <head rend="center">THE MOTHER GIVES UP HER DAUGHTER</head>
 
 <lg type="stanza">
@@ -1523,11 +1521,11 @@
 <l rend="indent">You shall not have her childhood sweeter still,</l>
 <l>Gone with the dancing daffodils and daisies,</l>
 <l rend="indent">Where she was mine upon a heavenly hill.</l></lg>
-</div2>
+</div>
 
 
 <pb n="80"/>
-<div2 id="herb038" type="poem" n="The Little Old Woman">
+<div id="herb038" type="poem" n="The Little Old Woman">
 <head rend="center">THE LITTLE OLD WOMAN</head>
 
 <lg type="stanza">
@@ -1560,11 +1558,11 @@
 <l rend="indent">And the dreams and the longing stir in the blood.</l>
 <l>Sweet to be poor with her, yea, death is sweet,</l>
 <l rend="indent">For the Dear Rose of Beauty in the beggar's hood.</l></lg>
-</div2>
+</div>
 
 
 <pb n="82"/>
-<div2 id="herb039" type="poem" n="Vigil">
+<div id="herb039" type="poem" n="Vigil">
 <head rend="center">VIGIL</head>
 
 <lg type="stanza">
@@ -1603,11 +1601,11 @@
 <l rend="indent">The furniture's awake, aware,</l>
 <l>The floor complaining of its load,</l>
 <l rend="indent">And <hi rend="italic">what</hi> a creaking of the stair!</l></lg>
-</div2>
+</div>
 
 
 <pb n="84"/>
-<div2 id="herb040" type="poem" n="The Garden">
+<div id="herb040" type="poem" n="The Garden">
 <head rend="center">THE GARDEN</head>
 
 <lg type="stanza">
@@ -1658,11 +1656,11 @@
 <l>Elude you, calling backward still,</l>
 <l>A silver echo -- a sweet child,</l>
 <l>Demure and lovesome, gay and wild.</l></lg>
-</div2>
+</div>
 
 
 <pb n="86"/>
-<div2 id="herb041" type="poem" n="Wind">
+<div id="herb041" type="poem" n="Wind">
 <head rend="center">WIND</head>
 
 <lg type="stanza">
@@ -1707,11 +1705,11 @@
 <l rend="indent">There are no miracles. O Wing</l>
 <l>Confute him when you fly apart</l>
 <l rend="indent">Close-felt, beloved, invisible Thing.</l></lg>
-</div2>
+</div>
 
 
 <pb n="88"/>
-<div2 id="herb042" type="poem" n="Menace">
+<div id="herb042" type="poem" n="Menace">
 <head rend="center">MENACE</head>
 
 <lg type="stanza">
@@ -1756,11 +1754,11 @@
 <l>Oh, loved beyond the sceptred queen,</l>
 <l rend="indent">Dark Rosaleen for whom men die!</l>
 <l>And loved till death, Dark Rosaleen.</l></lg>
-</div2>
+</div>
 
 
 <pb n="90"/>
-<div2 id="herb043" type="poem" n="Wings in the Night">
+<div id="herb043" type="poem" n="Wings in the Night">
 <head rend="center">WINGS IN THE NIGHT</head>
 
 <lg type="stanza">
@@ -1805,11 +1803,11 @@
 <l rend="indent">Flown from the fields of slaughter,</l>
 <l>Home to the mother's arms</l>
 <l rend="indent">Over the wild grey water.</l></lg>
-</div2>
+</div>
 
 
 <pb n="92"/>
-<div2 id="herb044" type="poem" n="The Refuge">
+<div id="herb044" type="poem" n="The Refuge">
 <head rend="center">THE REFUGE</head>
 
 <lg type="stanza">
@@ -1842,11 +1840,11 @@
 <l rend="indent">As a lamb that runs with the ewe,</l>
 <l>The warmth of the mother shall enfold me,</l>
 <l rend="indent">I shall have milk and dew.</l></lg>
-</div2>
+</div>
 
 
 <pb n="94"/>
-<div2 id="herb045" type="poem" n="Evening">
+<div id="herb045" type="poem" n="Evening">
 <head rend="center">EVENING</head>
 <head rend="center"><hi rend="italic">(In Connaught)</hi></head>
 
@@ -1880,11 +1878,11 @@
 <l rend="indent6">Drenches, with golden rain</l>
 <l>The Dark Rose in her splendour, dreaming, brooding,</l>
 <l rend="indent6">That she is crowned again.</l></lg>
-</div2>
+</div>
 
 
 <pb n="96"/>
-<div2 id="herb046" type="poem" n="After Ascension">
+<div id="herb046" type="poem" n="After Ascension">
 <head rend="center">AFTER ASCENSION</head>
 
 <lg type="stanza">
@@ -1927,11 +1925,11 @@
 <l rend="indent">Comforted with soft rain and dew;</l>
 <l>Till it's full-grown and she is free</l>
 <l>For the long bliss that is to be.</l></lg>
-</div2>
+</div>
 
 
 <pb n="98"/>
-<div2 id="herb047" type="poem" n="Colours">
+<div id="herb047" type="poem" n="Colours">
 <head rend="center">COLOURS</head>
 
 <lg type="stanza">
@@ -1978,11 +1976,11 @@
 <lg>
 <l>Blues and greens and a white bough</l>
 <l>Turn the earth to Heaven now.</l></lg>
-</div2>
+</div>
 
 
 <pb n="100"/>
-<div2 id="herb048" type="poem" n="Epiphany">
+<div id="herb048" type="poem" n="Epiphany">
 <head rend="center">EPIPHANY</head>
 <head rend="center"><hi rend="italic">(For Dora, 1918)</hi></head>
 
@@ -2016,11 +2014,11 @@
 <l rend="indent">In silk and miniver;</l>
 <l>The gold, the frankincense she brings,</l>
 <l rend="indent4">The sharp-sweet myrrh.</l></lg>
-</div2>
+</div>
 
 
 <pb n="102"/>
-<div2 id="herb049" type="poem" n="The Image">
+<div id="herb049" type="poem" n="The Image">
 <head rend="center">THE IMAGE</head>
 
 <lg type="stanza">
@@ -2059,11 +2057,11 @@
 <l rend="indent">Kindness and quietness, moon and stars and sun,</l>
 <l>Gardens and woods, the bird in the new-fledged tree</l>
 <l rend="indent">And sleep, O Kindest One!</l></lg>
-</div2>
+</div>
 
 
 <pb n="104"/>
-<div2 id="herb050" type="poem" n="The Aerodrome">
+<div id="herb050" type="poem" n="The Aerodrome">
 <head rend="center">THE AERODROME</head>
 
 <lg type="stanza">
@@ -2102,11 +2100,11 @@
 <l rend="indent">I felt such piercing pain,</l>
 <l>They tore my heart up with the tree</l>
 <l rend="indent">That will not leaf again.</l></lg>
-</div2>
+</div>
 
 
 <pb n="106"/>
-<div2 id="herb051" type="poem" n="A Song of Going">
+<div id="herb051" type="poem" n="A Song of Going">
 <head rend="center">A SONG OF GOING</head>
 
 <lg type="stanza">
@@ -2132,19 +2130,19 @@
 <l rend="indent">And while my birds still sing,</l>
 <l>Lest leafless, birdless, my dull heart forget</l>
 <l rend="indent">That ever it had Spring.</l></lg>
-</div2>
+</div>
 
 
-</div1>
+</div>
 <pb n="107"/>
-<div1 id="herb052" type="chapter" n="Ladders to Heaven">
+<div id="herb052" type="chapter" n="Ladders to Heaven">
 <head>LADDERS TO HEAVEN</head>
 <docAuthor n="Tynan, Katharine">Katharine Tynan</docAuthor>
 <pb n="108"/>
 
 
 <pb n="109"/>
-<div2 id="herb053" type="poem" n="Good Friday, A.D. 33">
+<div id="herb053" type="poem" n="Good Friday, A.D. 33">
 <head rend="center">GOOD FRIDAY, A.D. 33</head>
 
 <lg type="stanza">
@@ -2189,11 +2187,11 @@
 <l>Whom they held five days ago more than a King's treasure,</l>
 <l rend="indent">Shouting Hosannas, flinging many a wreath</l>
 <l rend="indent10">For this Jesus of Nazareth.</l></lg>
-</div2>
+</div>
 
 
 <pb n="111"/>
-<div2 id="herb054" type="poem" n="Distraction">
+<div id="herb054" type="poem" n="Distraction">
 <head rend="center">DISTRACTION</head>
 
 <lg type="stanza">
@@ -2232,11 +2230,11 @@
 <l rend="indent">On small things meet for such as she!</l>
 <l>O love! O loyalty! O wonder!</l>
 <l rend="indent">That in the darkness gropes for Me.</l></lg>
-</div2>
+</div>
 
 
 <pb n="113"/>
-<div2 id="herb055" type="poem" n="The Deserted">
+<div id="herb055" type="poem" n="The Deserted">
 <head rend="center">THE DESERTED</head>
 
 <lg type="stanza">
@@ -2296,11 +2294,11 @@
 <l>The broken hearts come home to Thee,</l>
 <l>And bear Thine anguish and Thy grief</l>
 <l>Till the Third Day shall bring relief.</l></lg>
-</div2>
+</div>
 
 
 <pb n="116"/>
-<div2 id="herb056" type="poem" n="Lenten Communion">
+<div id="herb056" type="poem" n="Lenten Communion">
 <head rend="center">LENTEN COMMUNION</head>
 
 <lg type="stanza">
@@ -2348,11 +2346,11 @@
 <l>So soon, so soon, the hour's flown!</l>
 <l>The glory's dying: Thou art gone</l>
 <l>Out on Thy lonely way, alone.</l></lg>
-</div2>
+</div>
 
 
 <pb n="118"/>
-<div2 id="herb057" type="poem" n="The Test">
+<div id="herb057" type="poem" n="The Test">
 <head rend="center">THE TEST</head>
 
 <lg type="stanza">
@@ -2391,11 +2389,11 @@
 <l rend="indent">If it is Love's test to swing</l>
 <l>'Twixt the earth and Heaven still set --</l>
 <l rend="indent">I -- I ask no other thing.</l></lg>
-</div2>
+</div>
 
 
 <pb n="120"/>
-<div2 id="herb058" type="poem" n="Noel">
+<div id="herb058" type="poem" n="Noel">
 <head rend="center">NO&Euml;L</head>
 
 <lg type="stanza">
@@ -2421,9 +2419,9 @@
 <l>For the full heart and the heart forlorn</l>
 <l>He signs His Peace upon Christmas Morn:</l>
 <l rend="indent6"><hi rend="italic">Adeste Fidelis!</hi></l></lg>
-</div2>
+</div>
 
-</div1>
+</div>
 </body>
 </text>
 </TEI.2>

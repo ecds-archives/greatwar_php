@@ -1,4 +1,3 @@
-<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "teixlite.dtd">
 <TEI.2>
    <teiHeader>
       <fileDesc>
@@ -114,28 +113,28 @@
 <front>
 <pb n="ii"/>
 
-<div1 id="lane001" type="dedication">
+<div id="lane001" type="dedication">
 <p>The entire profits from the sale of this volume will be given to the Prince of Wales's National Relief Fund</p>
-</div1>
+</div>
 
 
 <pb n="iii"/>
-<div1 id="lane002" type="title page">
+<div id="lane002" type="title page">
 <head rend="center">SONGS &amp; SONNETS FOR ENGLAND IN WAR TIME</head>
 <head rend="center">BEING A COLLECTION OF LYRICS BY VARIOUS AUTHORS INSPIRED BY THE GREAT WAR</head>
 
-<div2 id="lane003" type="epigraph">
+<div id="lane003" type="epigraph">
 <q rend="center">
 <l rend="italic">Sound, sound the clarion, fill the fife!</l>
 <l rend="indent4"><hi rend="italic">To all the sensual world proclaim,</hi></l>
 <l rend="italic">One crowded hour of glorious life</l>
 <l rend="indent4"><hi rend="italic">Is worth an age without a name.</hi></l></q>
 <bibl rend="right"><hi rend="smallcap">Sir Walter Scott</hi>, "Old Mortality"</bibl>
-</div2>
-</div1>
+</div>
+</div>
 
 <pb n="v"/>
-<div1 id="lane004" type="chapter" n="Introduction">
+<div id="lane004" type="chapter" n="Introduction">
 <head rend="center">INTRODUCTION</head>
 
 <p><hi rend="smallcap">In</hi> the stress of a nation's peril some of its greatest songs are born. In the stress of a nation's peril the poet at last comes into his own again, and with clarion call he rouses the sleeping soul of the empire. Prophet he is, champion and consoler.</p>
@@ -155,11 +154,11 @@
 <l>And kings a dubious legend of their reign;</l>
 <l>The swords of C&#x00E6;sars, they are less than rust:</l>
 <l>The poet doth remain."</l></q>
-</div1>
+</div>
 
 
 <pb n="vii"/>
-<div1 id="lane005" type="chapter" n="Publisher's Note">
+<div id="lane005" type="chapter" n="Publisher's Note">
 <head rend="center">PUBLISHER'S NOTE</head>
 
 <p><hi rend="smallcap">Of</hi> our poets who have been inspired to write and publish separate volumes of war poems during the actual progress of a campaign, we can only recall one -- the late Sydney Dobell, whose "Sonnets on the War," and "England in Time of War," both dealt with the Crimea. Mr. William Watson's "The Purple East" was read and quoted the world over during the Armenian atrocities: indeed, "Abdul the Damned" has passed into the language. Although this famous sonnet sequence sprang out of events which could not be called a campaign in the accepted and legitimate sense of the word, yet it may be fairly argued that the Kaiser has surpassed the Turk in inflicting suffering on defenceless people.</p>
@@ -261,16 +260,16 @@
 
 <byline>JOHN LANE</byline>
 <dateline rend="smallcap">The Bodley Head.</dateline>
-</div1>
+</div>
 
 </front>
 
 <body>
 
-<div1 id="lane008" type="anthology" n="Songs &#x0026; Sonnets For England in War Time">
+<div id="lane008" type="anthology" n="Songs &#x0026; Sonnets For England in War Time">
 
 <pb n="1"/>
-<div2 id="lane009" type="poem" n="To the Troubler of the World">
+<div id="lane009" type="poem" n="To the Troubler of the World">
 <docAuthor n="Watson, William">William Watson</docAuthor>
 <head rend="center">TO THE TROUBLER OF THE WORLD</head>
 
@@ -291,11 +290,11 @@
 <l>Who lit the fire accurst that flames to-day.</l></lg>
 <byline>WILLIAM WATSON</byline>
 <closer><hi rend="italic">Times, August</hi> 6, 1914</closer>
-</div2>
+</div>
 
 
 <pb n="2"/>
-<div2 id="lane010" type="poem" n="To Britain">
+<div id="lane010" type="poem" n="To Britain">
 <docAuthor n="Coutts, Francis">Francis Coutts</docAuthor>
 <head rend="center">TO BRITAIN</head>
 <head rend="center">(BEFORE HER DECLARATION OF WAR)</head>
@@ -314,11 +313,11 @@
 <l>Slumber no more, in foolish dream secure;</l>
 <l rend="indent">With blood and sweat anneal thy sword anew.</l></lg>
 <byline>FRANCIS COUTTS</byline>
-</div2>
+</div>
 
 
 <pb n="3"/>
-<div2 id="lane011" type="poem" n="Armageddon">
+<div id="lane011" type="poem" n="Armageddon">
 <docAuthor n="McCarthy, Justin Huntly">Justin Huntly McCarthy</docAuthor>
 <head rend="center">ARMAGEDDON</head>
 
@@ -338,11 +337,11 @@
 <l>As crowns and C&#x00E6;sars shall at last make way</l>
 <l>Before mankind's Republic, ending war.</l></lg><byline>JUSTIN HUNTLY McCARTHY</byline>
 <closer><hi rend="italic">Daily Chronicle, August</hi> 3 ,1914</closer> 
-</div2>
+</div>
 
 
 <pb n="4"/>
-<div2 id="lane012" type="poem" n="A Prayer for Peace">
+<div id="lane012" type="poem" n="A Prayer for Peace">
 <docAuthor n="Rawnsley, H. D. (Hardwicke Drummond)">H. D. Rawnsley</docAuthor>
 <head rend="center">A PRAYER FOR PEACE</head>
 
@@ -365,11 +364,11 @@
 <l>Know Peace on earth in Heaven hath great allies.</l></lg>
 <byline>H. D. RAWNSLEY</byline>
 <closer><hi rend="italic">Westminster Gazette, August</hi> 4, 1914</closer> 
-</div2>
+</div>
 
 
 <pb n="5"/>
-<div2 id="lane013" type="poem" n="The Song of the Britons">
+<div id="lane013" type="poem" n="The Song of the Britons">
 <docAuthor n="Gill, Anthony Kirby">Anthony Kirby Gill</docAuthor>
 <head rend="center">THE SONG OF THE BRITONS</head>
 
@@ -408,13 +407,13 @@
 <l>Lord God of Hosts!</l></lg>
 <byline>ANTHONY KIRBY GILL</byline>
 <closer><hi rend="italic">Pall Mall Gazelle, August</hi> 5, 1914</closer> 
-</div2>
+</div>
 
 
 <pb n="7"/>
 <pb n="8"/>
 <pb n="9"/>
-<div2 id="lane015" type="poem" n="War">
+<div id="lane015" type="poem" n="War">
 <docAuthor n="Jourdain, M">M Jourdain</docAuthor>
 <head rend="center">WAR</head>
 
@@ -442,11 +441,11 @@
 <l>Was silence for the space of half an hour.</l></lg>
 <byline>M JOURDAIN</byline>
 <closer><hi rend="italic">Westminster Gazette, August</hi> 6, 1914</closer>
-</div2>
+</div>
 
 
 <pb n="10"/>
-<div2 id="lane016" type="poem" n="Hymn After Battle">
+<div id="lane016" type="poem" n="Hymn After Battle">
 <docAuthor n="Adcock, A. St. John">A. St. John Adcock</docAuthor>
 <head rend="center">HYMN AFTER BATTLE</head>
 <note anchored="yes">[The Kaiser has been thanking God for his successes; and whilst the Christian nations of Europe are engaged in murdering each other, the heathen, whom they have failed to convert, remain so ignorant of the gospel that they are still living together in peace.]</note>
@@ -504,11 +503,11 @@
 <l>And lapse into our ancient slime.</l></lg>
 <byline>A. ST. JOHN ADCOCK.</byline>
 <closer><hi rend="italic">Daily Herald, August</hi> 6, 1914</closer> 
-</div2>
+</div>
 
 
 <pb n="13"/>
-<div2 id="lane017" type="poem" n="Britannia">
+<div id="lane017" type="poem" n="Britannia">
 <docAuthor n="Stacpoole, H. De Vere">H. De Vere Stacpoole</docAuthor>
 <head rend="center">BRITANNIA</head>
 
@@ -544,11 +543,11 @@
 <l rend="indent">Who dream that Drake is dead.</l></lg>
 <byline>H. DE VERE STACPOOLE</byline>
 <closer><hi rend="italic">Daily Express, August</hi> 7, 1914</closer> 
-</div2>
+</div>
 
 
 <pb n="15"/>
-<div2 id="lane018" type="poem" n="The Answer">
+<div id="lane018" type="poem" n="The Answer">
 <docAuthor n="Colvin, Ian">Ian Colvin</docAuthor>
 <head rend="center">THE ANSWER</head>
 <note anchored="yes">["...It would be a disgrace for us to make this bargain with
@@ -613,13 +612,13 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <l>As then so now, twice armed are we since Honour backs the blow!</l></lg>
 <byline>IAN COLVIN</byline>
 <closer><hi rend="italic">Morning Post, August</hi> 8, 1914</closer>
-</div2>
+</div>
 
 
 <pb n="18"/>
 <pb n="19"/>
 <pb n="20"/>
-<div2 id="lane021" type="poem" n="To 'Little' Belgium">
+<div id="lane021" type="poem" n="To 'Little' Belgium">
 <docAuthor n="Kernahan, Coulson">Coulson Kernahan</docAuthor>
 <head rend="center">TO "LITTLE" BELGIUM</head>
 
@@ -665,11 +664,11 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <l>Rather than this, in God's own name, be war!</l></lg>
 <byline>COULSON KERNAHAN</byline>
 <closer><hi rend="italic">Daily Chronicle, August</hi> 10, 1914</closer>
-</div2>
+</div>
 
 
 <pb n="22"/>
-<div2 id="lane022" type="poem" n="The Tribute">
+<div id="lane022" type="poem" n="The Tribute">
 <docAuthor n="Begbie, Harold">Harold Begbie</docAuthor>
 <head rend="center">THE TRIBUTE</head>
 
@@ -705,11 +704,11 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <l>Whether your hand is worthy to wrest from our hand that flag.</l></lg>
 <byline>HAROLD BEGBIE</byline>
 <closer><hi rend="italic">Daily Chronicle, August</hi> 11, 1914</closer>
-</div2>
+</div>
 
 
 <pb n="24"/>
-<div2 id="lane023" type="poem" n="In the Red Dawn">
+<div id="lane023" type="poem" n="In the Red Dawn">
 <docAuthor n="Stuart, Dorothy Margaret">Dorothy Margaret Stuart</docAuthor>
 <head rend="center">IN THE RED DAWN</head>
 
@@ -747,7 +746,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <l>Flags of hope and victory.</l></lg>
 <byline>DOROTHY MARGARET STUART</byline>
 <closer><hi rend="italic">Evening Standard, August</hi> 11, 1914</closer>
-</div2>
+</div>
 
 
 <pb n="26"/>
@@ -756,7 +755,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 
 <pb n="28"/>
-<div2 id="lane025" type="poem" n="The War Cry">
+<div id="lane025" type="poem" n="The War Cry">
 <docAuthor n="Freeman, R. M.">R. M. Freeman</docAuthor>
 <head rend="center">THE WAR CRY</head>
 
@@ -813,7 +812,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <l rend="indent"><hi rend="italic">Britons, we WILL see it through!</hi></l></lg>
 <byline>R. M. FREEMAN</byline>
 <closer><hi rend="italic">Truth, August</hi> 12, 1914</closer>
-</div2>
+</div>
 
 
 <pb n="31"/>
@@ -824,7 +823,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 
 <pb n="35"/>
-<div2 id="lane028" type="poem" n="The Hush">
+<div id="lane028" type="poem" n="The Hush">
 <docAuthor n="Phillips, Stephen">Stephen Phillips</docAuthor>
 <head rend="center">THE HUSH</head>
 
@@ -845,11 +844,11 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <l>Vainly they fight, if first they cannot feel.</l></lg>
 <byline>STEPHEN PHILLIPS</byline>
 <closer><hi rend="italic">Times, August</hi> 13, 1914</closer>
-</div2>
+</div>
 
 
 <pb n="36"/>
-<div2 id="lane029" type="poem" n="Alliterativism">
+<div id="lane029" type="poem" n="Alliterativism">
 <docAuthor n="Chesterton, G. K. (Gilbert Keith)">G. K. Chesterton</docAuthor>
 <head rend="center">ALLITERATIVISM</head>
 <head rend="center">(THE LATEST SCHOOL)</head>
@@ -889,11 +888,11 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <l>You are violating Belgian neutrality.</l></lg>
 <byline>G. K. CHESTERTON</byline>
 <closer><hi rend="italic">New Witness, August</hi> 13, 1914</closer>
-</div2>
+</div>
 
 
 <pb n="38"/>
-<div2 id="lane030" type="poem" n="To the Aggressor">
+<div id="lane030" type="poem" n="To the Aggressor">
 <docAuthor n="Buckley, Reginald R.">Reginald R. Buckley</docAuthor>
 <head rend="center">TO THE AGGRESSOR</head>
 
@@ -914,11 +913,11 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <l rend="italic">Aye! by the Bible in thy hand!</l></lg>
 <byline>REGINALD R. BUCKLEY</byline>
 <closer><hi rend="italic">T. P.'s Weekly, August</hi> 13, 1914</closer>
-</div2>
+</div>
 
 
 <pb n="39"/>
-<div2 id="lane031" type="poem" n="Evening Prayer of a People">
+<div id="lane031" type="poem" n="Evening Prayer of a People">
 <docAuthor n="Munro, Neil">Neil Munro</docAuthor>
 <head rend="center">EVENING PRAYER OF A PEOPLE</head>
 <head rend="center">SUNDAY, AUGUST 9, 1914</head>
@@ -961,11 +960,11 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <l rend="indent">We pray Thee, God of Hosts!</l></lg>
 <byline>NEIL MUNRO</byline>
 <closer><hi rend="italic">Glasgow Evening News, August</hi> 9, 1914</closer>
-</div2>
+</div>
 
 
 <pb n="41"/>
-<div2 id="lane032" type="poem" n="The Man Forsworn">
+<div id="lane032" type="poem" n="The Man Forsworn">
 <docAuthor n="Watson, William">William Watson</docAuthor>
 <head rend="center">THE MAN FORSWORN</head>
 
@@ -1077,11 +1076,11 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <l>Shall guard the fortress of the world.</l></lg>
 <byline>WILLIAM WATSON</byline>
 <closer><hi rend="italic">Daily Chronicle, August</hi> 14, 1914</closer>
-</div2>
+</div>
 
 
 <pb n="45"/>
-<div2 id="lane033" type="poem" n="To the King of the Belgians">
+<div id="lane033" type="poem" n="To the King of the Belgians">
 <docAuthor n="M., H.">H. M</docAuthor>
 <head rend="center">TO THE KING OF THE BELGIANS</head>
 
@@ -1104,11 +1103,11 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <l>An Equal here, and thank the men who died.</l></lg>
 <byline>H. M.</byline>
 <closer><hi rend="italic">Times,  August</hi> 14, 1914</closer>
-</div2>
+</div>
 
 
 <pb n="46"/>
-<div2 id="lane034" type="poem" n="The Vindication">
+<div id="lane034" type="poem" n="The Vindication">
 <docAuthor n="Bussy, Philip">Philip Bussy</docAuthor>
 <head rend="center">THE VINDICATION</head>
 <note anchored="yes">[It is announced that all the Territorial battalions are already at full strength, and that Lord Kitchener's "second army" is now in course of formation.]</note>
@@ -1176,11 +1175,11 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <l rend="indent14">The God of Wars stand by you!</l></lg>
 <byline>PHILIP BUSSY</byline>
 <closer><hi rend="italic">Westminster Gazette, August</hi> 14, 1914</closer>
-</div2>
+</div>
 
 
 <pb n="49"/>
-<div2 id="lane035" type="poem" n="The Spirit of England">
+<div id="lane035" type="poem" n="The Spirit of England">
 <docAuthor n="Cannan, Gilbert">Gilbert Cannan</docAuthor>
 <head rend="center">THE SPIRIT OF ENGLAND</head>
 
@@ -1234,11 +1233,11 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <l>My Freedom from pole to pole.</l></lg>
 <byline>GILBERT CANNAN</byline>
 <closer><hi rend="italic">Saturday Review, August</hi> 15, 1914</closer>
-</div2>
+</div>
 
 
 <pb n="51"/>
-<div2 id="lane036" type="poem" n="The Naval Reserve">
+<div id="lane036" type="poem" n="The Naval Reserve">
 <docAuthor n="Underhill, Evelyn">Evelyn Underhill</docAuthor>
 <head rend="center">THE NAVAL RESERVE</head>
 
@@ -1276,11 +1275,11 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <l rend="indent4">Those who live and those who died.</l></lg>
 <byline>EVELYN UNDERHILL</byline>
 <closer><hi rend="italic">New Weekly, August</hi> 15, 1914</closer>
-</div2>
+</div>
 
 
 <pb n="53"/>
-<div2 id="lane037" type="poem" n="Iconoclastes">
+<div id="lane037" type="poem" n="Iconoclastes">
 <docAuthor n="Archer, William">William Archer</docAuthor>
 <head rend="center">ICONOCLASTES</head>
 
@@ -1442,11 +1441,11 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <l rend="indent4">And its name is NEMESIS.</l></lg>
 <byline>WILLIAM ARCHER</byline>
 <closer><hi rend="italic">Daily News, August</hi> 15, 1914</closer>
-</div2>
+</div>
 
 
 <pb n="59"/>
-<div2 id="lane038" type="poem" n="The Call to Arms in Our Street">
+<div id="lane038" type="poem" n="The Call to Arms in Our Street">
 <docAuthor n="Letts, Winifred M.">W. M. Letts</docAuthor>
 <head rend="center">THE CALL TO ARMS IN OUR STREET</head>
 
@@ -1493,11 +1492,11 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <l rend="indent8">To the war.</l></lg>
 <byline>W. M. LETTS</byline>
 <closer><hi rend="italic">Saturday Westminster, August</hi> 15, 1914</closer>
-</div2>
+</div>
 
 
 <pb n="61"/>
-<div2 id="lane039" type="poem" n="To the Crew of H.M.S. Birmingham">
+<div id="lane039" type="poem" n="To the Crew of H.M.S. Birmingham">
 <docAuthor n="Forster, R. H.">R. H. Forster</docAuthor>
 <head rend="center">TO THE CREW OF H.M.S. <hi rend="italic">BIRMINGHAM</hi></head>
 
@@ -1535,11 +1534,11 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <l>You win your immortality.</l></lg>
 <byline>R. H. FORSTER</byline>
 <closer><hi rend="italic">Yorkshire Post, August</hi> 16, 1914</closer>
-</div2>
+</div>
 
 
 <pb n="63"/>
-<div2 id="lane040" type="poem" n="Germania">
+<div id="lane040" type="poem" n="Germania">
 <docAuthor n="Phillpotts, Eden">Eden Phillpotts</docAuthor>
 <head rend="center">GERMANIA</head>
 
@@ -1577,11 +1576,11 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <l rend="indent10">By blood and iron no more.</l></lg>
 <byline>EDEN PHILLPOTTS</byline>
 <closer><hi rend="italic">Daily Chronicle, August</hi> 17, 1914</closer>
-</div2>
+</div>
 
 
 <pb n="65"/>
-<div2 id="lane041" type="poem" n="The Call">
+<div id="lane041" type="poem" n="The Call">
 <docAuthor n="Vernede, R. E. (Robert Ernest)">R. E. Vern&#x00c8;de</docAuthor>
 <head rend="center">THE CALL</head>
 
@@ -1648,11 +1647,11 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <l>"This day England expects you all."</l></lg>
 <byline>R. E. VERN&#x00C8;DE</byline>
 <closer><hi rend="italic">Times, August</hi> 19, 1914</closer>
-</div2>
+</div>
 
 
 <pb n="68"/>
-<div2 id="lane042" type="poem" n="Dies Irae">
+<div id="lane042" type="poem" n="Dies Irae">
 <docAuthor n="Seaman, Owen">Sir Owen Seaman</docAuthor>
 <head rend="center">DIES IRAE</head>
 <head rend="center">TO THE GERMAN KAISER</head>
@@ -1720,11 +1719,11 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <l rend="indent10">Yourself be broken.</l></lg>
 <byline>SIR OWEN SEAMAN</byline>
 <closer><hi rend="italic">Punch, August</hi> 19, 1914</closer>
-</div2>
+</div>
 
 
 <pb n="71"/>
-<div2 id="lane043" type="poem" n="To Women">
+<div id="lane043" type="poem" n="To Women">
 <docAuthor n="Binyon, Laurence">Laurence Binyon</docAuthor>
 <head rend="center">TO WOMEN</head>
 
@@ -1766,11 +1765,11 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <l>To bear, to break, but not to fail.</l></lg>
 <byline>LAURENCE BINYON</byline>
 <closer><hi rend="italic">Times, August</hi> 20, 1914</closer>
-</div2>
+</div>
 
 
 <pb n="73"/>
-<div2 id="lane044" type="poem" n="Towards the Light">
+<div id="lane044" type="poem" n="Towards the Light">
 <docAuthor n="Sichel, Walter">Walter Sichel</docAuthor>
 <head rend="center">TOWARDS THE LIGHT</head>
 
@@ -1789,11 +1788,11 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <l rend="indent4">Praying that God defend the right.</l></lg>
 <byline>WALTER SICHEL</byline>
 <closer><hi rend="italic">Westminster Gazette, August</hi> 10, 1914</closer>
-</div2>
+</div>
 
 
 <pb n="74"/>
-<div2 id="lane045" type="poem" n="Roll Up!">
+<div id="lane045" type="poem" n="Roll Up!">
 <docAuthor n="Hutchinson, W. M. L.">W. M. L. Hutchinson</docAuthor>
 <head rend="center">ROLL UP!</head>
 
@@ -1839,11 +1838,11 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <l rend="indent"><hi rend="italic">An' they're rollin' up all round.</hi></l></lg>
 <byline>W. M. L. HUTCHINSON</byline>
 <closer><hi rend="italic">Pall Mall Gazette, August</hi> 20, 1914</closer>
-</div2>
+</div>
 
 
 <pb n="76"/>
-<div2 id="lane046" type="poem" n="[Untitled]">
+<div id="lane046" type="poem" n="[Untitled]">
 <docAuthor n="Rhoades, James">James Rhoades</docAuthor>
 
 <lg type="stanza">
@@ -1884,11 +1883,11 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <l rend="indent">By my Spirit,' saith the Lord."</l></lg>
 <byline>JAMES RHOADES</byline>
 <closer><hi rend="italic">Times, August</hi> 21, 1914</closer>
-</div2>
+</div>
 
 
 <pb n="78"/>
-<div2 id="lane047" type="poem" n="To the British Army">
+<div id="lane047" type="poem" n="To the British Army">
 <docAuthor n="Barnes, R. Gorell">R. Gorell Barnes</docAuthor>
 <head rend="center">TO THE BRITISH ARMY</head>
 
@@ -1926,11 +1925,11 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <l>Yield their soul to strengthen you!</l></lg>
 <byline>R. GORELL BARNES</byline>
 <closer><hi rend="italic">Times, August</hi> 22, 1914</closer>
-</div2>
+</div>
 
 
 <pb n="80"/>
-<div2 id="lane048" type="poem" n="Redemption">
+<div id="lane048" type="poem" n="Redemption">
 <docAuthor n="Goad, Harold E.">Harold E. Goad</docAuthor>
 <head rend="center">REDEMPTION</head>
 
@@ -1951,11 +1950,11 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <l rend="indent">Redeemed in one brief ecstasy of fire!</l></lg>
 <byline>HAROLD E. GOAD</byline>
 <closer><hi rend="italic">Times, August</hi> 26, 1914</closer>
-</div2>
+</div>
 
 
 <pb n="81"/>
-<div2 id="lane049" type="poem" n="A Battle-Song">
+<div id="lane049" type="poem" n="A Battle-Song">
 <docAuthor n="Courtney, W. L.">W. L. Courtney</docAuthor>
 <head rend="center">A BATTLE-SONG</head>
 
@@ -2009,14 +2008,14 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <l>Strike for liberty and life!</l></lg>
 <byline>W. L. COURTNEY</byline>
 <closer><hi rend="italic">Daily Telegraph, August</hi> 27, 1914</closer>
-</div2>
+</div>
 
 
 <pb n="83"/>
 <pb n="84"/>
 <pb n="85"/>
 <pb n="86"/>
-<div2 id="lane051" type="poem" n="The Shirker">
+<div id="lane051" type="poem" n="The Shirker">
 <docAuthor n="Phillips, Stephen">Stephen Phillips</docAuthor>
 <head rend="center">THE SHIRKER</head>
 <note anchored="yes">[Suggested by Mr. Robert Blatchford's article in <hi rend="italic">The Daily Mail</hi>.]</note>
@@ -2036,11 +2035,11 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <l>Tomlinson lights another cigarette.</l></lg>
 <byline>STEPHEN PHILLIPS</byline>
 <closer><hi rend="italic">Daily Mail, August</hi> 30, 1914</closer>
-</div2>
+</div>
 
 
 <pb n="87"/>
-<div2 id="lane052" type="poem" n="Ghosts at Boulogne">
+<div id="lane052" type="poem" n="Ghosts at Boulogne">
 <docAuthor n="McCarthy, Justin Huntly">Justin Huntly McCarthy</docAuthor>
 <head rend="center">GHOSTS AT BOULOGNE</head>
 
@@ -2061,11 +2060,11 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <l>Against the Worm. St. Denis and St. George!</l></lg>
 <byline>JUSTIN HUNTLY McCARTHY</byline>
 <closer><hi rend="italic">Daily Chronicle, August</hi> 30, 1914</closer>
-</div2>
+</div>
 
 
 <pb n="88"/>
-<div2 id="lane053" type="poem" n="To the Belgians">
+<div id="lane053" type="poem" n="To the Belgians">
 <docAuthor n="Hewlett, Maurice">Maurice Hewlett</docAuthor>
 <head rend="center">TO THE BELGIANS</head>
 <head rend="center">FROM ENGLAND</head>
@@ -2087,11 +2086,11 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <l>Than land or blood -- and that thing Liberty.</l></lg>
 <byline>MAURICE HEWLETT</byline>
 <closer><hi rend="italic">Westminster Gazette, September</hi> 9, 1914</closer>
-</div2>
+</div>
 
 
 <pb n="89"/>
-<div2 id="lane054" type="poem" n="Song of the Soldiers">
+<div id="lane054" type="poem" n="Song of the Soldiers">
 <docAuthor n="Hardy, Thomas">Thomas Hardy</docAuthor>
 <head rend="center">SONG OF THE SOLDIERS</head>
 
@@ -2142,11 +2141,11 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <l rend="indent4">Men who march away.</l></lg>
 <byline>THOMAS HARDY</byline>
 <closer><hi rend="italic">Times, September</hi> 9, 1914</closer>
-</div2>
+</div>
 
 
 <pb n="91"/>
-<div2 id="lane055" type="poem" n="A Cap to Fit the Kaiser">
+<div id="lane055" type="poem" n="A Cap to Fit the Kaiser">
 <docAuthor n="The Bishop Of Lincoln">The Bishop Of Lincoln</docAuthor>
 <head rend="center">A CAP TO FIT THE KAISER</head>
 <q rend="italic">
@@ -2161,7 +2160,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <l>He laughs at laws and plighted word,</l>
 <l>His sole arbitrament the sword.</l></lg>
 <byline>THE BISHOP OF LINCOLN</byline>
-</div2>
+</div>
 
 
 <pb n="92"/>
@@ -2171,7 +2170,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 
 <pb n="95"/>
-<div2 id="lane057" type="poem" n="The Battle of the Bight">
+<div id="lane057" type="poem" n="The Battle of the Bight">
 <docAuthor n="Watson, William">William Watson</docAuthor>
 <head rend="center">THE BATTLE OF THE BIGHT</head>
 
@@ -2217,9 +2216,9 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <l rend="indent">Nor shall they shame their sire.</l></lg>
 <byline>WILLIAM WATSON</byline>
 <closer><hi rend="italic">Times</hi></closer>
-</div2>
+</div>
 
-</div1>
+</div>
 </body>
 </text>
 </TEI.2>

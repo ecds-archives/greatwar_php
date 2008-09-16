@@ -1,10 +1,9 @@
-<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "teixlite.dtd">
 <TEI.2>
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Late Songs: Electronic Edition</title>
-            <author n="Tynan, Katharine">Katharine Tynan</author>
+            <author><name type="person" reg="Tynan, Katharine, 1861-1931">Katharine Tynan</name></author>
          </titleStmt>
 	 <publicationStmt>
 	   <publisher>Lewis H. Beck Center for Electronic Collections
@@ -31,8 +30,7 @@
 	   <title>The Great War</title>
 	 </seriesStmt>
 	 <notesStmt><note></note></notesStmt>
-         <sourceDesc><!-- put the actual publication data for the book
-	   in this section --> 
+         <sourceDesc>
             <bibl>
 	     <title>Late Songs</title>
 	     <author>Katharine Tynan</author>
@@ -114,9 +112,9 @@
    </teiHeader>
 <text id="latesongs">
 <body>
-<div1 type="chapter" id="latesongs_001" n="In War Time">
+<div type="chapter" id="latesongs_001" n="In War Time">
 <head>IN WAR TIME</head>
-<div2 type="poem" id="latesongs_002" n="The Children's War">
+<div type="poem" id="latesongs_002" n="The Children's War">
 <head>THE CHILDREN'S WAR</head>
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">This</hi> is the Children's War, because</l>
@@ -149,9 +147,9 @@
 <l rend="indent">To Percivale and Galahad</l>
 <l>Who have won earth and taken Heaven.</l>
 <l rend="indent">By violence! <hi rend="italic">Weep not, but be
-glad.</hi></l></lg></div2>
+glad.</hi></l></lg></div>
 <pb n="13"/>
-<div2 type="poem" id="latesongs_003" n="After Jutland">
+<div type="poem" id="latesongs_003" n="After Jutland">
 <head>AFTER JUTLAND</head>
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">The</hi> City of God is late become a seaport town</l> 
@@ -174,9 +172,9 @@ glad.</hi></l></lg></div2>
 <l>And the little midshipmen boys are shouting at their</l>
 <l rend="indent">play;</l>
 <l>There's a soft sound of waters lapping on the shore,</l>
-<l>The sailor he is home from sea to go back no more.</l></lg></div2>
+<l>The sailor he is home from sea to go back no more.</l></lg></div>
 <pb n="14"/>
-<div2 type="poem" id="latesongs_004" n="The Mother">
+<div type="poem" id="latesongs_004" n="The Mother">
 <head>THE MOTHER</head>
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">Her</hi> boys are not shut out. They come</l>
@@ -203,9 +201,9 @@ glad.</hi></l></lg></div2>
 <l>Oh, not like lonely ghosts in mist</l>
 <l rend="indent">Her boys come from the night and rain,</l>
 <l>But to be clasped, but to be kissed,</l>
-<l rend="indent">And not go out again.</l></lg></div2>
+<l rend="indent">And not go out again.</l></lg></div>
 <pb n="16"/>
-<div2 type="poem" id="latesongs_005" n="At Parting">
+<div type="poem" id="latesongs_005" n="At Parting">
 <head>AT PARTING</head>
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">It</hi> was sad weather when you went away,</l>
@@ -225,9 +223,9 @@ glad.</hi></l></lg></div2>
 <l rend="indent">Shall in my dreams make music exquisite</l>
 <l rend="indent">And all my happy sleep be drenched with it;</l>
 <l>And you coming home, home through the hours of</l>
-<l rend="indent">sleep.</l></lg></div2>
+<l rend="indent">sleep.</l></lg></div>
 <pb n="17"/>
-<div2 type="poem" id="latesongs_006" n="The Tears">
+<div type="poem" id="latesongs_006" n="The Tears">
 <head>THE TEARS</head>
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">Amid</hi> the Alleluias</l> 
@@ -264,9 +262,9 @@ glad.</hi></l></lg></div2>
 <l>Amid the Alleluias</l>
 <l>Small joy of Heaven he had, alas!</l>
 <l>From all the bliss of Heaven apart,</l>
-<l>Because her tears fell on his heart.</l></lg></div2>
+<l>Because her tears fell on his heart.</l></lg></div>
 <pb n="19"/>
-<div2 type="poem" id="latesongs_007" n="The Nurse">
+<div type="poem" id="latesongs_007" n="The Nurse">
 <head>THE NURSE</head>
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">A year</hi> before the war God sent</l>
@@ -298,9 +296,9 @@ glad.</hi></l></lg></div2>
 <l>She plies her lovely business,</l>
 <l rend="indent">Goes hither and thither like a light.</l>
 <l>To yours, to mine, she may give ease;</l>
-<l rend="indent">A King's nurse now goes clad in white.</l></lg></div2>
+<l rend="indent">A King's nurse now goes clad in white.</l></lg></div>
 <pb n="21"/>
-<div2 type="poem" id="latesongs_008" n="All Souls">
+<div type="poem" id="latesongs_008" n="All Souls">
 <head>ALL SOULS</head>
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">The</hi> door of Heaven is on the latch</l>
@@ -327,9 +325,9 @@ glad.</hi></l></lg></div2>
 <l>They sit down and they stay a while,</l>
 <l rend="indent">Kisses and comfort none shall lack;</l>
 <l>At morn they steal forth with a smile</l>
-<l rend="indent">And a long look back.</l></lg></div2>
+<l rend="indent">And a long look back.</l></lg></div>
 <pb n="23"/>
-<div2 type="poem" id="latesongs_009" n="Colonists">
+<div type="poem" id="latesongs_009" n="Colonists">
 <head>COLONISTS</head>
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">What</hi> new star now in the sky</l>
@@ -371,9 +369,9 @@ glad.</hi></l></lg></div2>
 <l>Young and fond and fair and brave,</l>
 <l>What new planet now may crave</l>
 <l>All these starry colonists</l>
-<l>From the rains and from the mists?</l></lg></div2>
+<l>From the rains and from the mists?</l></lg></div>
 <pb n="25"/>
-<div2 type="poem" id="latesongs_010" n="The Welcome">
+<div type="poem" id="latesongs_010" n="The Welcome">
 <head>THE WELCOME</head>
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">We</hi> will not banish them as they were
@@ -400,9 +398,9 @@ lost,</l>
 <lg>
 <l>So glad because you are not put away</l>
 <l>Out of familiar things of every day,</l>
-<l>Like a sad ghost dreaming that he is dead.</l></lg></div2>
+<l>Like a sad ghost dreaming that he is dead.</l></lg></div>
 <pb n="27"/>
-<div2 type="poem" id="latesongs_011" n="The Message">
+<div type="poem" id="latesongs_011" n="The Message">
 <head>THE MESSAGE</head>
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">Dear</hi> angel friend, speak to his angel for her;</l>
@@ -434,9 +432,9 @@ lost,</l>
 <l>Shout to his angel if he should be roaming</l>
 <l rend="indent">That her one little son's lost if he fail.</l>
 <l>Bid him be quick and splendid at his coming,</l>
-<l rend="indent">Dreadful with beauty so that he prevail.</l></lg></div2>
+<l rend="indent">Dreadful with beauty so that he prevail.</l></lg></div>
 <pb n="29"/>
-<div2 type="poem" id="latesongs_012" n="For an Airman">
+<div type="poem" id="latesongs_012" n="For an Airman">
 <head>FOR AN AIRMAN</head>
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">Having</hi> found wings, he tossed, light as a feather,</l>
@@ -463,9 +461,9 @@ lost,</l>
 <l>He has o'erflown return in the wild rapture.</l>
 <l rend="indent">What rumour of him in the unending space?</l>
 <l>Flying so far, so fast, beyond recapture;</l>
-<l rend="indent">The flying ecstasy bright in his face.</l></lg></div2>
+<l rend="indent">The flying ecstasy bright in his face.</l></lg></div>
 <pb n="31"/>
-<div2 type="poem" id="latesongs_013" n="The Prayer">
+<div type="poem" id="latesongs_013" n="The Prayer">
 <head>THE PRAYER</head>
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">She</hi> drew the grey shawl round her head;</l>
@@ -486,9 +484,9 @@ lost,</l>
 <l>And as I went my way I heard</l>
 <l>Her call like a lamenting bird:</l>
 <l>"I used to fret that had no son."</l>
-<l rend="indent"><hi rend="italic">God help the mothers of the world!</hi></l></lg></div2>
+<l rend="indent"><hi rend="italic">God help the mothers of the world!</hi></l></lg></div>
 <pb n="32"/>
-<div2 type="poem" id="latesongs_014" n="In Thy Likeness">
+<div type="poem" id="latesongs_014" n="In Thy Likeness">
 <head>IN THY LIKENESS</head>
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">Now</hi> those who would and who would not</l>
@@ -525,12 +523,12 @@ lost,</l>
 <l>When with Ascension Thou dost rise</l>
 <l rend="indent">Shall these not rise and go,</l>
 <l>To find once more the Paradise</l>
-<l rend="indent">They lost so long ago?</l></lg></div2></div1>
+<l rend="indent">They lost so long ago?</l></lg></div></div>
 <pb n="35"/>
-<div1 type="chapter" id="latesongs_015" n="The Other Side">
+<div type="chapter" id="latesongs_015" n="The Other Side">
 <head>THE OTHER SIDE</head>
 <pb n="37"/>
-<div2 type="poem" id="latesongs_016" n="The Fulfilment">
+<div type="poem" id="latesongs_016" n="The Fulfilment">
 <head>THE FULFILMENT</head>
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">Who</hi> are these that go with our girl white as snow,</l>
@@ -574,9 +572,9 @@ lost,</l>
 <l rend="indent">The Rose of Sharon's budded and Jesse's Rod in</l>
 <l rend="indent">flower,</l>
 <l>Magnificat she is singing and her song soaring, winging,</l>
-<l rend="indent">Sets all the roses swinging in Heaven's bower.</l></lg></div2>
+<l rend="indent">Sets all the roses swinging in Heaven's bower.</l></lg></div>
 <pb n="39"/>
-<div2 type="poem" id="latesongs_017" n="The Sleep">
+<div type="poem" id="latesongs_017" n="The Sleep">
 <head>THE SLEEP</head>
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">God</hi> thought of sleep, so that He might</l>
@@ -608,9 +606,9 @@ lost,</l>
 <l>Man's but a toddling child, stripped bare</l>
 <l>Of all the countless years that were;</l>
 <l>Little and low: God's art to keep</l>
-<l>A youngling thing in His arms asleep.</l></lg></div2>
+<l>A youngling thing in His arms asleep.</l></lg></div>
 <pb n="41"/>
-<div2 type="poem" id="latesongs_018" n="The Tryst">
+<div type="poem" id="latesongs_018" n="The Tryst">
 <head>THE TRYST</head>
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">Lest</hi> that His love should nod asleep,</l>
@@ -640,9 +638,9 @@ lost,</l>
 <l>Come, all ye wounded, and be healed.</l>
 <l rend="indent">Come, all ye broken hearts, and rest.</l>
 <l>Come home, come home, black sheep and white,</l>
-<l>In from the darkness to the light.</l></lg></div2>
+<l>In from the darkness to the light.</l></lg></div>
 <pb n="43"/>
-<div2 type="poem" id="latesongs_019" n="Loneliness">
+<div type="poem" id="latesongs_019" n="Loneliness">
 <head>LONELINESS</head>
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">He</hi> who had all else Heaven and earth</l>
@@ -672,9 +670,9 @@ lost,</l>
 <l>Heaven's as it was, serene, unflawed.</l>
 <l>For the first time the Heart of God,</l>
 <l>Lately made man, hath little ease,</l>
-<l>For loneliness, for loneliness.</l></lg></div2>
+<l>For loneliness, for loneliness.</l></lg></div>
 <pb n="45"/>
-<div2 type="poem" id="latesongs_020" n="The Soul Praises the Body">
+<div type="poem" id="latesongs_020" n="The Soul Praises the Body">
 <head>THE SOUL PRAISES THE BODY</head>
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">This</hi> holy body where Thou hast kept</l>
@@ -701,9 +699,9 @@ lost,</l>
 <l>This body is now Thy holy house</l>
 <l rend="indent">Where Thou didst come and sit at feast,</l>
 <l>While all the golden birds in boughs</l>
-<l rend="indent">Acclaimed the Day-Star and my Guest.</l></lg></div2>
+<l rend="indent">Acclaimed the Day-Star and my Guest.</l></lg></div>
 <pb n="47"/>
-<div2 type="poem" id="latesongs_021" n="The Vision of Mary">
+<div type="poem" id="latesongs_021" n="The Vision of Mary">
 <head>THE VISION OF MARY</head>
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">There's</hi> a white rose on the thorn,</l>
@@ -756,9 +754,9 @@ lost,</l>
 <l>The sword turns in her heart,</l>
 <l rend="indent">She clasps Him warm and close,</l>
 <l>With lullaby-loo His fret unto</l>
-<l rend="indent">She lulls her Destined Rose.</l></lg></div2>
+<l rend="indent">She lulls her Destined Rose.</l></lg></div>
 <pb n="50"/>
-<div2 type="poem" id="latesongs_022" n="The Pasch">
+<div type="poem" id="latesongs_022" n="The Pasch">
 <head>THE PASCH</head>
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">Not</hi> yet, not yet has He arisen,</l>
@@ -788,9 +786,9 @@ lost,</l>
 <l>There's a white table spread apart:</l>
 <l rend="indent">While Heaven awaits the Star in the East,</l>
 <l>And the poor garden sleeps in shade,</l>
-<l>He lifts the graceless heart He made.</l></lg></div2>
+<l>He lifts the graceless heart He made.</l></lg></div>
 <pb n="52"/>
-<div2 type="poem" n="The Grey Country">
+<div type="poem" id="latesongs_0221" n="The Grey Country">
 <head>THE GREY COUNTRY</head>
 <lg type="stanza">
 <l n="1">I <hi rend="smallcap">dreamt</hi> a dream on November Night</l>
@@ -832,9 +830,9 @@ lost,</l>
 <l>As a green tree in a bird's flight</l>
 <l rend="indent">I saw Mary amid her flock,</l>
 <l>Carrying souls in her veil white,</l>
-<l rend="indent">Hiding them warm in her blue cloak.</l></lg></div2>
+<l rend="indent">Hiding them warm in her blue cloak.</l></lg></div>
 <pb n="54"/>
-<div2 type="poem" id="latesongs_023" n="The Little Brothers">
+<div type="poem" id="latesongs_023" n="The Little Brothers">
 <head>THE LITTLE BROTHERS</head>
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">God</hi> the Son in Paradise,</l>
@@ -881,8 +879,8 @@ lost,</l>
 <l>Son, there is a day to come</l>
 <l rend="indent">And Thy cry shakes Heaven that day,</l>
 <l>While Thy Father's bowed in gloom;</l>
-<l rend="indent">Yet-I would not bid Thee stay.</l></lg></div2>
-<div2 type="poem" id="latesongs_024" n="The Dreams">
+<l rend="indent">Yet-I would not bid Thee stay.</l></lg></div>
+<div type="poem" id="latesongs_024" n="The Dreams">
 <head>THE DREAMS</head>
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">When</hi> I am sleeping I go in dreams</l>
@@ -913,9 +911,9 @@ lost,</l>
 <l>They come to me in my dreams, not cold and lone.</l>
 <l rend="indent">Oh, never sad ghosts they come to fret my sleep,</l>
 <l>But just as I knew them in the days long gone.</l>
-<l rend="indent">When I wake from my dreams I wake to weep.</l></lg></div2>
+<l rend="indent">When I wake from my dreams I wake to weep.</l></lg></div>
 <pb n="61"/>
-<div2 type="poem" id="latesongs_025" n="After Years">
+<div type="poem" id="latesongs_025" n="After Years">
 <head>AFTER YEARS</head>
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">I give</hi> God glory and grace</l>
@@ -953,9 +951,9 @@ lost,</l>
 <l>All my beloveds of yore</l>
 <l rend="indent">Of talk shall take their fill</l>
 <l>Till the grey dawn's at the door</l>
-<l rend="indent">And the grey wind at the sill.</l></lg></div2>
+<l rend="indent">And the grey wind at the sill.</l></lg></div>
 <pb n="63"/>
-<div2 type="poem" id="latesongs_026" n="The Little Old Woman">
+<div type="poem" id="latesongs_026" n="The Little Old Woman">
 <head>THE LITTLE OLD WOMAN</head>
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">The</hi> Little Old Woman has found you at last,</l>
@@ -977,9 +975,9 @@ drouth.</l></lg>
 <l>Were you forgetting her for These or Those?</l>
 <l rend="indent">Shall you forget her to the last heart-beat?</l>
 <l>Dark Rose of Tenderness, and the One Rose</l>
-<l rend="indent">To turn Life bitter and to make Death sweet.</l></lg></div2>
+<l rend="indent">To turn Life bitter and to make Death sweet.</l></lg></div>
 <pb n="64"/>
-<div2 type="poem" id="latesongs_027" n="Sanctuaries">
+<div type="poem" id="latesongs_027" n="Sanctuaries">
 <head>SANCTUARIES</head>
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">Thou</hi> givest me greenest sanctuaries</l>
@@ -1016,9 +1014,9 @@ drouth.</l></lg>
 <l>Thine angel walks with me.</l>
 <l>Thine angel! Nay, but Thou dost walk</l>
 <l>With me and talk.</l></lg>
-</div2>
+</div>
 <pb n="66"/>
-<div2 type="poem" id="latesongs_028" n="An Abiding City">
+<div type="poem" id="latesongs_028" n="An Abiding City">
 <head>AN ABIDING CITY</head>
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">My</hi> city walls are builded sure</l>
@@ -1051,9 +1049,9 @@ drouth.</l></lg>
 <l rend="indent">My sentries go in white,</l>
 <l>The years long and the seasons long</l>
 <l rend="indent">Pass in a dream of light.</l></lg>
-</div2>
+</div>
 <pb n="68"/>
-<div2 type="poem" id="latesongs_029" n="Anniversary">
+<div type="poem" id="latesongs_029" n="Anniversary">
 <head>ANNIVERSARY</head>
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">There</hi> were so many to pray for, O dear grey head,</l>
@@ -1078,9 +1076,9 @@ door.</l></lg>
 <l>All night long you stayed with me, fond and kind;</l>
 <l rend="indent">All night long you grieved with me until the day.</l>
 </lg>
-</div2>
+</div>
 <pb n="69"/>
-<div2 type="poem" id="latesongs_030" n="The Last Quarrel">
+<div type="poem" id="latesongs_030" n="The Last Quarrel">
 <head>THE LAST QUARREL</head>
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">As</hi> I lay sleeping on my bed,</l>
@@ -1097,9 +1095,9 @@ door.</l></lg>
 <l rend="indent">And the fierce thrust thereof&#x2014;</l>
 <l>I had forgotten the last word</l>
 <l rend="indent">Wherewith I sped my Love.</l></lg>
-</div2>
+</div>
 <pb n="70"/>
-<div2 type="poem" id="latesongs_031" n="The Tree">
+<div type="poem" id="latesongs_031" n="The Tree">
 <head>THE TREE</head>
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">Think</hi> of her when she shall be dead</l>
@@ -1163,14 +1161,14 @@ door.</l></lg>
 <l rend="indent">She was merry and gave grace.</l>
 <l>And some were sorry when she died </l>
 <l rend="indent">Who lost a resting place.</l></lg>
-</div2>
-</div1>
+</div>
+</div>
 <pb n="73"/>
-<div1 type="chapter" id="latesongs_032" n="In Peace Time">
+<div type="chapter" id="latesongs_032" n="In Peace Time">
 <head>IN PEACE TIME</head>
 <pb n="[74]"/>
 <pb n="75"/>
-<div2 type="poem" id="latesongs_033" n="The Story of Bambino">
+<div type="poem" id="latesongs_033" n="The Story of Bambino">
 <head>THE STORY OF THE BAMBINO</head>
 <lg type="couplet">
 <l n="1"><hi rend="smallcap">What</hi> is it like a light that goes</l> 
@@ -1315,8 +1313,8 @@ door.</l></lg>
 <lg>
 <l rend="italic">The shrine in Ara C&#x0153;li hath </l>
 <l rend="italic">Many new cradles, many a wreath.</l></lg>
-</div2>
-<div2 type="poem" id="latesongs_034" n="Magic">
+</div>
+<div type="poem" id="latesongs_034" n="Magic">
 <head>MAGIC</head>
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">A god</hi>, a god sits on my hearth, </l>
@@ -1358,9 +1356,9 @@ door.</l></lg>
 <l>The Lord Sun's dear companion, </l>
 <l>Who toils and plays upon my hearth, </l>
 <l>Nor yet forgets his starry birth.</l></lg>
-</div2>
+</div>
 <pb n="83"/>
-<div2 type="poem" id="latesongs_035" n="Caldra">
+<div type="poem" id="latesongs_035" n="Caldra">
 <head>CALDRA<lb/>
 (<hi rend="italic">On a Tyrone hillside</hi>)</head>
 <lg type="stanza">
@@ -1441,8 +1439,8 @@ door.</l></lg>
 <l rend="indent">He keeps from eve till morn </l>
 <l>The little orphaned ones of God</l>
 <l rend="indent">That died ere they were born.</l></lg>
-</div2>
-<div2 type="poem" id="latesongs_036" n="The Recompense">
+</div>
+<div type="poem" id="latesongs_036" n="The Recompense">
 <head>THE RECOMPENSE</head>
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">God</hi> made a Garden first for Man</l>
@@ -1482,9 +1480,9 @@ door.</l></lg>
 <l rend="indent">With children, and the hearth-fires burning,</l>
 <l>And with her bosom for his bed</l>
 <l rend="indent">My Adam praise Me night and morning.</l></lg>
-</div2>
+</div>
 <pb n="89"/>
-<div2 type="poem" id="latesongs_037" n="The Immortal">
+<div type="poem" id="latesongs_037" n="The Immortal">
 <head>THE IMMORTAL</head>
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">Here</hi>, where I went in and out,</l>
@@ -1515,9 +1513,9 @@ door.</l></lg>
 <l rend="indent">There I shall grow a tree, a tree </l>
 <l>Where in calm and shining weather, </l>
 <l>My birds and I shall be together.</l></lg>
-</div2>
+</div>
 <pb n="91"/>
-<div2 type="poem" id="latesongs_038" n="The House of Life">
+<div type="poem" id="latesongs_038" n="The House of Life">
 <head>THE HOUSE OF LIFE</head>
 <lg>
 <l n="1"><hi rend="smallcap">The</hi> life of the body's a cage,</l>
@@ -1547,9 +1545,9 @@ door.</l></lg>
 <l rend="indent">Frightened, undone, </l>
 <l>The soul calls to another,</l>
 <l rend="indent">be not alone.</l></lg>
-</div2>
+</div>
 <pb n="93"/>
-<div2 type="poem" id="latesongs_039" n="Summer Airs">
+<div type="poem" id="latesongs_039" n="Summer Airs">
 <head>SUMMER AIRS</head>
 <lg>
 <l n="1"><hi rend="smallcap">This</hi> air's a lovely thing: it blows</l>
@@ -1572,9 +1570,9 @@ door.</l></lg>
 <l rend="indent">That I might live and thrive, O kind!</l>
 <l>Fed on the very Breath of Thee.</l>
 </lg>
-</div2>
+</div>
 <pb n="94"/>
-<div2 type="poem" id="latesongs_040" n="The Newly-born">
+<div type="poem" id="latesongs_040" n="The Newly-born">
 <head>THE NEWLY-BORN</head>
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">The</hi> little soul looked out</l>
@@ -1597,7 +1595,7 @@ door.</l></lg>
 <l>The little white soul but looked in&#x2014;</l>
 <l rend="indent">Flew back to God.</l>
 </lg>
-</div2></div1>
+</div></div>
 </body>
 <back>
 <div type="note" id="latesongs_041" n="Author's Note">

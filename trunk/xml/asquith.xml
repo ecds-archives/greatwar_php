@@ -1,10 +1,9 @@
-<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "teixlite.dtd">
 <TEI.2>
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>The Volunteer and Other Poems: Electronic Edition</title>
-            <author>Herbert Asquith</author>
+            <author><name type="person" reg="Asquith, Herbert">Herbert Asquith</name></author>
          </titleStmt>
 	 <publicationStmt>
 	   <publisher>Lewis H. Beck Center for Electronic Collections
@@ -109,13 +108,13 @@
    </teiHeader>
 <text>
 <body>
-<div1 id="asquith01" type="anthology" n ="The Volunteer And Other Poems">
+<div id="asquith01" type="anthology" n ="The Volunteer And Other Poems">
    <docAuthor n="Asquith, Herbert">Herbert Asquith</docAuthor>
    <head>The Volunteer And Other Poems</head>
    <docDate>1917</docDate>
    <bibl>London: Sidgwick &#x0026; Jackson.</bibl>
 
-<div2 id="asquith02" type="poem" n="The Volunteer">
+<div id="asquith02" type="poem" n="The Volunteer">
 <head rend="center">THE VOLUNTEER</head>
 
 <lg><l n="1">HERE lies a clerk who half his life had spent</l>
@@ -134,10 +133,10 @@
 <l>And falling thus, he wants no recompense, </l>
 <l>Who found his battle in the last resort </l>
 <l>Nor needs he any hearse to bear him hence, </l>
-<l>Who goes to join the men of Agincourt.<pb n="10"/></l></lg></div2>
+<l>Who goes to join the men of Agincourt.<pb n="10"/></l></lg></div>
 
 
-<div2 id="asquith03" type="poem" n="War's Cataract, 1915">
+<div id="asquith03" type="poem" n="War's Cataract, 1915">
 <head rend="center">WAR'S CATARACT, 1915</head>
 
 <lg><l n="1">In this red havoc of the patient earth,</l>
@@ -154,10 +153,10 @@
 <l>And tossing high their manes of gleaming spray</l>
 <l>The crested chargers leap from rock to rock,</l>
 <l>While over all, dark though the thunder frown,</l>
-<l>The rainbows climb above to meet the day.<pb n="11"/></l></lg></div2>
+<l>The rainbows climb above to meet the day.<pb n="11"/></l></lg></div>
 
 
-<div2 id="asquit04h" type="poem" n="On A Troopship">
+<div id="asquit04h" type="poem" n="On A Troopship">
 <head rend="center">ON A TROOPSHIP, 1915</head>
 
 <lg><l n="1">FAREWELL, the village leaning to the hill,</l>
@@ -179,10 +178,10 @@
 <l>We come to harbour in the breath of wars; </l>
 <l>Welcome again, the land of our farewells </l>
 <l>In this strange ruin, open to the stars, </l>
-<l>We find the haven, where her spirit dwells.<pb n="13"/></l></lg></div2>
+<l>We find the haven, where her spirit dwells.<pb n="13"/></l></lg></div>
 
 
-<div2 id="asquith05" type="poem" n="Ares, God Of War">
+<div id="asquith05" type="poem" n="Ares, God Of War">
 <head rend="center">ARES, GOD OF WAR</head>
 
 <lg><l n="1">UNDER the stars the armies lie asleep: </l>
@@ -254,10 +253,10 @@
 <l>And mounted on the horses of the gale,</l>
 <l>Death is a nothing, life an empty name:</l>
 <l>Arise and lead us ere our blood be tame, </l>
-<l>O lord of thunder, Arcs of the crimson mail !<pb n="17"/>"</l></lg></div2>
+<l>O lord of thunder, Arcs of the crimson mail !<pb n="17"/>"</l></lg></div>
 
 
-<div2 id="asquith06" type="poem" n="The Western Line">
+<div id="asquith06" type="poem" n="The Western Line">
 <head rend="center">THE WESTERN</head>
 <byline rend="center">FLANDERS, 1915.</byline>
 
@@ -324,10 +323,10 @@
 <lg><l>Above the cloud what lights are gleaming? </l>
 <l rend="indent">God's batteries are those,</l>
 <l>Or souls of soldiers, homeward streaming </l>
-<l rend="indent">To banquet with their foes?<pb n="20"/></l></lg></div2>
+<l rend="indent">To banquet with their foes?<pb n="20"/></l></lg></div>
 
 
-<div2 id="asquith07" type="poem" n="Sunset.">
+<div id="asquith07" type="poem" n="Sunset.">
 <head rend="center">SUNSET.</head>
 
 <lg><l n="1">HOODED in angry mist, the sun goes down:</l>
@@ -337,10 +336,10 @@
 <l>Though from the blackened grasses of the spring</l>
 <l>The dead look up to where the swallow flies:</l>
 <l>And in this woodland never a bird will sing--</l>
-<l>The laughter lives within the sentry's eyes.<pb n="21"/></l></lg></div2>
+<l>The laughter lives within the sentry's eyes.<pb n="21"/></l></lg></div>
 
 
-<div2 id="asquith08" type="poem" n="After The Salvo">
+<div id="asquith08" type="poem" n="After The Salvo">
 <head rend="center">AFTER THE SALVO.</head>
 
 <lg><l n="1">UP and down, up and down </l>
@@ -375,10 +374,10 @@
 <l>They go, the gray rat and the brown: </l>
 <l>A pistol cracks: they too are dead.</l></lg>
 
-<lg><l>The nightwind rustles overhead.<pb n="23"/></l></lg></div2>
+<lg><l>The nightwind rustles overhead.<pb n="23"/></l></lg></div>
 
 
-<div2 id="asquith09" type="poem" n="The Fallen Subaltern">
+<div id="asquith09" type="poem" n="The Fallen Subaltern">
 <head rend="center">THE FALLEN SUBALTERN.</head>
 
 <lg><l n="1">THE starshells float above, the bayonets glisten</l>
@@ -404,10 +403,10 @@
 <lg><l>One last salute; the bayonets clash and glisten; </l>
 <l>With arms reversed we go without a sound:</l>
 <l>One more has joined the men who lie and listen </l>
-<l>To us, who march upon their burial-ground.<pb n="25"/></l></lg></div2>
+<l>To us, who march upon their burial-ground.<pb n="25"/></l></lg></div>
 
 
-<div2 id="asquith10" type="poem" n="The Fallen Spire">
+<div id="asquith10" type="poem" n="The Fallen Spire">
 <head rend="center">THE FALLEN SPIRE.<lb/>
 (A FLEMISH VILLAGE).</head>
 
@@ -429,10 +428,10 @@
 <lg><l>And silence follows fast: no evening peace,</l>
 <l rend="indent">But leaden stillness, when the thunder wanes,</l>
 <l>Haunting the slender branches of the trees,</l>
-<l rend="indent">And settling low upon the listless plains.<pb n="26"/></l></lg></div2>
+<l rend="indent">And settling low upon the listless plains.<pb n="26"/></l></lg></div>
 
 
-<div2 id="asquith11" type="poem" n="The Fallen Poet">
+<div id="asquith11" type="poem" n="The Fallen Poet">
 <head rend="center">THE FALLEN POET</head>
 
 <lg><l n="1">NOW that the soul has left its throne</l>
@@ -451,10 +450,10 @@
 <l>But falling low between the stars,</l>
 <l rend="indent">So soon as I had such a fear,</l>
 <l>At dusk and dawn a whisper came :</l>
-<l rend="indent">"The dead are near: the dead are near."<pb n="27"/></l></lg></div2>
+<l rend="indent">"The dead are near: the dead are near."<pb n="27"/></l></lg></div>
 
 
-<div2 id="asquith12" type="poem" n="Soldiers At Peace">
+<div id="asquith12" type="poem" n="Soldiers At Peace">
 <head rend="center">SOLDIERS AT PEACE</head>
 <lg><l n="1">Mourn not for these, the children of the spring :</l>
 <l>On Flemish plains and far Aegean sand,</l>
@@ -470,11 +469,11 @@
 <l>Deep in the shadow of the rainwashed hill,</l>
 <l>A lustre and a quietude art shed,</l>
 <l>When all the valley streams are glimmering,</l>
-<l>And the moon swims from the storm-wrack overhead.<pb n="31"/></l></lg></div2>
+<l>And the moon swims from the storm-wrack overhead.<pb n="31"/></l></lg></div>
 
 
 
-<div2 id="asquith13" type="poem" n="To A Baby Found Paddling Near The Lines">
+<div id="asquith13" type="poem" n="To A Baby Found Paddling Near The Lines">
 <head rend="center">TO A BABY FOUND PADDLING NEAR THE </head>
 
 <lg><l n="1">HAIL! O Baby of the May </l>
@@ -527,18 +526,18 @@
 <l>Though the world be full of sadness, </l>
 <l>You may still have fun and gladness, </l>
 <l>And be happy for a day, </l>
-<l>Playing where the cannon play.<pb n="34"/></l></lg></div2>
+<l>Playing where the cannon play.<pb n="34"/></l></lg></div>
 
 
-<div2 id="asquith14" type="poem" n=" Fortune Of War">
+<div id="asquith14" type="poem" n=" Fortune Of War">
 <head rend="center">FORTUNE OF WAR.</head>
 <lg><l n="1">THE far guns boom: shell-struck the church is rolled </l>
 <l>Skyward athunder, dust of rose and gold:</l>
 <l>The staring villa stands. So goes the War: </l>
-<l>The limelight lives: extinguished is the star.<pb n="35"/></l></lg></div2>
+<l>The limelight lives: extinguished is the star.<pb n="35"/></l></lg></div>
 
 
-<div2 id="asquith15" type="poem" n="Jewels. A Young Man To A Merchant">
+<div id="asquith15" type="poem" n="Jewels. A Young Man To A Merchant">
 <head rend="center">JEWELS.<lb/>
 A YOUNG MAN TO A MERCHANT.</head>
 
@@ -575,10 +574,10 @@ A YOUNG MAN TO A MERCHANT.</head>
 <lg><l>Old Man, your pearls are not for us, </l>
 <l rend="indent">Your rubies die too soon:</l>
 <l>Have you the pearls of Sirius,</l>
-<l rend="indent">Or opals of the moon<pb n="37"/></l></lg></div2>
+<l rend="indent">Or opals of the moon<pb n="37"/></l></lg></div>
 
 
-<div2 id="asquith16" type="poem" n="Love And Humour">
+<div id="asquith16" type="poem" n="Love And Humour">
 <head rend="center">LOVE AND HUMOUR.</head>
 <lg><l n="1">WHEN first I saw you, in eclipse,</l>
 <l rend="indent">A veil about your head, </l>
@@ -599,10 +598,10 @@ A YOUNG MAN TO A MERCHANT.</head>
 <l>A woodland fairy, silver-mailed,</l>
 <l rend="indent">Lightwinged upon the dew:</l>
 <l>Then did I pay a heavy cost,</l>
-<l>For love, a world of laughter lost.<pb n="38"/></l></lg></div2>
+<l>For love, a world of laughter lost.<pb n="38"/></l></lg></div>
 
 
-<div2 id="asquith17" type="poem" n="The Bather">
+<div id="asquith17" type="poem" n="The Bather">
 <head rend="center">l>THE BATHER.</head>
 
 <lg><l n="1"> THE sea-breeze beating on her brow, </l>
@@ -610,10 +609,10 @@ A YOUNG MAN TO A MERCHANT.</head>
 <l>She stood,--a silver Victory, </l>
 <l>Poised high on some Athenian prow, </l>
 <l>Leading against a tyrant fleet </l>
-<l>The winged vanguard of the free.<pb n="39"/></l></lg></div2>
+<l>The winged vanguard of the free.<pb n="39"/></l></lg></div>
 
 
-<div2 id="asquith18" type="poem" n="The Charioteer">
+<div id="asquith18" type="poem" n="The Charioteer">
 <head rend="center">THE CHARIOTEER</head>
 <byline rend="center">(TO A CHILD).</byline>
 
@@ -643,10 +642,10 @@ A YOUNG MAN TO A MERCHANT.</head>
 <l>If die thou must, </l>
 <l>With wine and crust, </l>
 <l>Through flow'rs to dust, </l>
-<l>Be thou so charioted!<pb n="41"/></l></lg></div2>
+<l>Be thou so charioted!<pb n="41"/></l></lg></div>
 
 
-<div2 id="asquith19" type="poem" n="The Silver Birch">
+<div id="asquith19" type="poem" n="The Silver Birch">
 <head rend="center">THE SILVER BIRCH.</head>
 
 <lg><l n="1"> O SILVER one, O silver one,</l>
@@ -667,10 +666,10 @@ A YOUNG MAN TO A MERCHANT.</head>
 <lg><l>But I must ever be travelling </l>
 <l>From sea to sea, from shoal to shoal: </l>
 <l>Farewell ! O still and beautiful, </l>
-<l>I would thy valley were my goal!<pb n="42"/></l></lg></div2>
+<l>I would thy valley were my goal!<pb n="42"/></l></lg></div>
 
 
-<div2 id="asquith20" type="poem" n="Riding">
+<div id="asquith20" type="poem" n="Riding">
 <head rend="center">RIDING</head>
 
 <lg><l n="1"> FILL up, fill up the stirrup-cup!</l>
@@ -692,10 +691,10 @@ A YOUNG MAN TO A MERCHANT.</head>
 <l>And onward through the upland, </l>
 <l rend="indent">To see the plains unfurled,</l>
 <l>And armies of the stars go down </l>
-<l rend="indent">Over the brink of the world.<pb n="43"/></l></lg></div2>
+<l rend="indent">Over the brink of the world.<pb n="43"/></l></lg></div>
 
 
-<div2 id="asquith21" type="poem" n="The Fairy Lover">
+<div id="asquith21" type="poem" n="The Fairy Lover">
 <head rend="center">THE FAIRY LOVER.</head>
 
 <lg><l n="1"> SHE lay beneath an appletree,</l>
@@ -711,19 +710,19 @@ A YOUNG MAN TO A MERCHANT.</head>
 <lg><l>Then lightly, where the lashes fall,</l>
 <l rend="indent">Entered the chamber of her soul;</l>
 <l>And, finding there a silver bell,</l>
-<l rend="indent">He made it toll.<pb n="44"/></l></lg></div2>
+<l rend="indent">He made it toll.<pb n="44"/></l></lg></div>
 
 
-<div2 id="asquith22" type="poem" n="A Dedication">
+<div id="asquith22" type="poem" n="A Dedication">
 <head rend="center">A DEDICATION</head>
 
 <lg><l n="1"> FRIEND if all these verses die:</l>
 <l>Soon will you, and soon will I</l>
 <l>But, if any word should live, </l>
-<l>Then that word to you I give.<pb n="45"/></l></lg></div2>
+<l>Then that word to you I give.<pb n="45"/></l></lg></div>
 
 
-<div2 id="asquith23" type="poem" n="Venice">
+<div id="asquith23" type="poem" n="Venice">
 <head rend="center">VENICE</head>
 
 <lg><l n="1"> IN domes of dim and ancient gold, </l>
@@ -781,8 +780,8 @@ A YOUNG MAN TO A MERCHANT.</head>
 <l rend="indent">Above the ripple silver-green, </l>
 <l>Upon the wavelet violet-crowned,</l>
 <l>My boat and I are outward bound!</l></lg>
-</div2>
-</div1>
+</div>
+</div>
 </body>
 </text>
 </TEI.2>

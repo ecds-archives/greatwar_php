@@ -1,10 +1,9 @@
-<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "teixlite.dtd">
 <TEI.2>
    <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>A Treasury of War Poetry: Electronic Edition</title>
-            <editor n="Clarke, George Herbert">George Herbert Clarke</editor>
+            <editor><name type="person" reg="Clarke, George Herbert">George Herbert Clarke</name></editor>
          </titleStmt>
 	 <publicationStmt>
 	   <publisher>Lewis H. Beck Center for Electronic Collections
@@ -114,14 +113,14 @@
 <front>
 
 <pb n="v"/>
-<div1 id="clarke001" type="dedication">
+<div id="clarke001" type="dedication">
 <p rend="center">To All Those Who
 <lb/>Fight for Freedom</p>
-</div1>
+</div>
 <pb n="vi"/>
 
 <pb n="vii"/>
-<div1 id="clarke002" type="epigraph">
+<div id="clarke002" type="epigraph">
 <epigraph>
 
 <q>
@@ -143,10 +142,10 @@
 
 </epigraph>
 <p/>
-</div1>
+</div>
 
 <pb n="xxv"/>
-<div1 id="clarke003" type="Chapter" n="Introduction">
+<div id="clarke003" type="Chapter" n="Introduction">
 <head rend="center">Introduction</head>
 
 <p><hi rend="smallcap">Because</hi> man is both militant and pacific, he has expressed in literature, as indeed in the other forms of art, his pacific and militant moods. Nor are these moods, of necessity, incompatible. War may become the price of peace, and peace may so decay as inevitably to bring about war. Of the dully unresponsive pacifist and the jingo patriot, quick to anger, the latter no doubt is the more dangerous to the cause of true freedom, yet both are "undesirable citizens." He who believes that peace is illusory and spurious, unless it be based upon justice and liberty, will be proud to battle, if battle he must, for the sake of those foundations.</p>
@@ -205,19 +204,19 @@ rifices that may be required to win success for this most righteous cause, is an
 They ratify also the spirit of those poems in the present volume which seek to interpret to Britons and Americans their deepening friendship. "Poets," said Shelley, "are the unacknowledged legislators of the world," and he meant by legislation the guidance and determination of the verdicts of the human soul.</p>
 <byline>G. H. C.</byline>
 <dateline><date>August, 1917</date></dateline>
-</div1>
+</div>
 </front>
 
 
 <body>
 
 <pb n="1"/>
-<div1 id="clarke005" type="Chapter" n="America">
+<div id="clarke005" type="Chapter" n="America">
 <head rend="center">AMERICA</head>
 
 <pb n="2"/>
 <pb n="3"/>
-<div2 id="clarke006" type="poem" n="The Choice"><docAuthor n="Kipling, Rudyard">Rudyard Kipling</docAuthor>
+<div id="clarke006" type="poem" n="The Choice"><docAuthor n="Kipling, Rudyard">Rudyard Kipling</docAuthor>
 
 <head rend="center">THE CHOICE</head>
 
@@ -258,11 +257,11 @@ They ratify also the spirit of those poems in the present volume which seek to i
 <l>Who bade us choose that the Flesh should die</l>
 <l rend="indent">And not the living Soul!</l></lg>
 <byline>Rudyard Kipling</byline>
-</div2>
+</div>
 
 
 <pb n="4"/>
-<div2 id="clarke007" type="poem" n="Liberty Enlightening the World">
+<div id="clarke007" type="poem" n="Liberty Enlightening the World">
 <docAuthor n="Van Dyke, Henry">Henry van Dyke</docAuthor>
 <head rend="center">"LIBERTY ENLIGHTENING THE WORLD"</head>
 
@@ -300,10 +299,10 @@ They ratify also the spirit of those poems in the present volume which seek to i
 <dateline>
 <date>April 10, 1917</date>
 </dateline>
-</div2>
+</div>
 
 
-<div2 id="clarke008" type="poem" n="To the United States of America"><docAuthor n="Bridges, Robert">Robert Bridges</docAuthor>
+<div id="clarke008" type="poem" n="To the United States of America"><docAuthor n="Bridges, Robert">Robert Bridges</docAuthor>
 <head rend="center">TO THE UNITED STATES OF AMERICA</head>
 
 <lg type="stanza">
@@ -325,11 +324,11 @@ They ratify also the spirit of those poems in the present volume which seek to i
 <l rend="indent4">Freedom and Honour and sweet Lovingkindness.</l></lg>
 <byline>Robert Bridges</byline>
 <dateline><date>April 30, 1917</date></dateline>
-</div2>
+</div>
 
 
 <pb n="6"/>
-<div2 id="clarke009" type="poem" n="Abraham Lincoln Walks at Midnight"><docAuthor n="Lindsay, Vachel">Vachel Lindsay</docAuthor>
+<div id="clarke009" type="poem" n="Abraham Lincoln Walks at Midnight"><docAuthor n="Lindsay, Vachel">Vachel Lindsay</docAuthor>
 <head rend="center"> ABRAHAM LINCOLN WALKS AT MIDNIGHT </head>
 <head rend="center">(<hi rend="smallcap">IN SPRINGFIELD, ILLINOIS</hi>)</head>
 
@@ -382,10 +381,10 @@ They ratify also the spirit of those poems in the present volume which seek to i
 <l>Seem yet in vain. And who will bring white peace</l>
 <l>That he may sleep upon his hill again?</l></lg>
 <byline>Vachel Lindsay</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke010" type="poem" n="The William P. Frye"><docAuthor n="Foster, Jeanne Robert">Jeanne Robert Foster</docAuthor>
+<div id="clarke010" type="poem" n="The William P. Frye"><docAuthor n="Foster, Jeanne Robert">Jeanne Robert Foster</docAuthor>
 <head rend="center">THE "WILLIAM P. FRYE"</head>
 
 <lg type="stanza">
@@ -445,17 +444,17 @@ They ratify also the spirit of those poems in the present volume which seek to i
 <l>And ride in safe beyond the Boston Light,</l>
 <l>To make the harbor glad because she's come.</l></lg>
 <byline>Jeanne Robert Foster</byline>
-</div2>
+</div>
 
-</div1>
+</div>
 
 <pb n="9"/>
-<div1 id="clarke011" type="Chapter" n="England and America">
+<div id="clarke011" type="Chapter" n="England and America">
 <head rend="center">ENGLAND AND AMERICA</head>
 <pb n="10"/>
 
 <pb n="11"/>
-<div2 id="clarke012" type="poem" n="England and America"><docAuthor n="Holt, Florence T.">Florence T. Holt</docAuthor>
+<div id="clarke012" type="poem" n="England and America"><docAuthor n="Holt, Florence T.">Florence T. Holt</docAuthor>
 <head rend="center">ENGLAND AND AMERICA</head>
 
 <lg type="stanza">
@@ -476,10 +475,10 @@ They ratify also the spirit of those poems in the present volume which seek to i
 <l>Men perished for their dream of Liberty</l>
 <l>Whose lives were given for this larger life.</l></lg>
 <byline>Florence T. Holt</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke013" type="poem" n="To America"><docAuthor n="Morgan, Charles Langbridge">Charles Langbridge Morgan</docAuthor>
+<div id="clarke013" type="poem" n="To America"><docAuthor n="Morgan, Charles Langbridge">Charles Langbridge Morgan</docAuthor>
 <head rend="center">TO AMERICA</head>
 
 <lg type="stanza">
@@ -513,10 +512,10 @@ They ratify also the spirit of those poems in the present volume which seek to i
 <l>Incredible discoveries and inherit</l>
 <l>The fruits of hope, and love shall be awake.</l></lg>
 <byline>Charles Langbridge Morgan</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke014" type="poem" n="A Chant of Love for England"><docAuthor n="Cone, Helen Gray">Helen Gray Cone</docAuthor>
+<div id="clarke014" type="poem" n="A Chant of Love for England"><docAuthor n="Cone, Helen Gray">Helen Gray Cone</docAuthor>
 <head rend="center">A CHANT OF LOVE FOR ENGLAND</head>
 
 <lg type="stanza">
@@ -563,11 +562,11 @@ They ratify also the spirit of those poems in the present volume which seek to i
 <l>Spirit supernal, Splendour eternal,</l>
 <l rend="center">ENGLAND!</l></lg>
 <byline>Helen Gray Cone</byline>
-</div2>
+</div>
 
 
 <pb n="14"/>
-<div2 id="clarke015" type="poem" n="At St. Paul's">
+<div id="clarke015" type="poem" n="At St. Paul's">
 <docAuthor n="Rawnsley, H. D. (Hardwicke Drummond)">Hardwicke Drummond Rawnsley</docAuthor>
 <head rend="center">AT ST. PAUL'S</head>
 <head rend="center"><hi rend="smallcap">April</hi> 20, 1917</head>
@@ -590,10 +589,10 @@ They ratify also the spirit of those poems in the present volume which seek to i
 <l rend="indent">To-clay is hope of brotherhood's bond increased,</l>
 <l rend="indent4">And Christ, not Odin, is acclaimed the Lord.</l></lg>
 <byline>Hardwicke Drummond Rawnsley</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke016" type="poem" n="Jimmy Doane"><docAuthor n="Thirlmere, Rowland">Rowland Thirlmere</docAuthor>
+<div id="clarke016" type="poem" n="Jimmy Doane"><docAuthor n="Thirlmere, Rowland">Rowland Thirlmere</docAuthor>
 <head rend="center">JIMMY DOANE</head>
 
 <lg type="stanza">
@@ -698,11 +697,11 @@ They ratify also the spirit of those poems in the present volume which seek to i
 <l>And seeing on some momentous pact</l>
 <l>Your vision upbuilt as a deathless fact.</l></lg>
 <byline>Rowland Thirlmere</byline>
-</div2>
+</div>
 
 
 <pb n="17"/>
-<div2 id="clarke017" type="poem" n="Princeton, May, 1917"><docAuthor n="Noyes, Alfred">Alfred Noyes</docAuthor>
+<div id="clarke017" type="poem" n="Princeton, May, 1917"><docAuthor n="Noyes, Alfred">Alfred Noyes</docAuthor>
 <head rend="center">PRINCETON, MAY, 1917</head>
 
 <epigraph>
@@ -777,16 +776,16 @@ Revolutionary War who fell on the Princeton battlefield and were buried in one g
 <l>They see you piercing like gray swords through flowers,</l>
 <l rend="indent">And smile, from souls at peace.</l></lg>
 <byline>Alfred Noyes</byline>
-</div2>
-</div1>
+</div>
+</div>
 
 <pb n="19"/>
-<div1 id="clarke018" type="Chapter" n="England">
+<div id="clarke018" type="Chapter" n="England">
 <head rend="center">ENGLAND</head>
 <pb n="20"/>
 
 <pb n="21"/>
-<div2 id="clarke019" type="poem" n="The Vigil"><docAuthor n="Newbolt, Henry">Henry Newbolt</docAuthor>
+<div id="clarke019" type="poem" n="The Vigil"><docAuthor n="Newbolt, Henry">Henry Newbolt</docAuthor>
 <head rend="center">THE VIGIL</head>
 
 <lg type="stanza">
@@ -830,10 +829,10 @@ Revolutionary War who fell on the Princeton battlefield and were buried in one g
 <l>Gird thee with thine ancient might,</l>
 <l>Forth! and God defend the Right!</l></lg>
 <byline>Henry Newbolt</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke020" type="poem" n="For All We Have and Are"><docAuthor n="Kipling, Rudyard">Rudyard Kipling</docAuthor>
+<div id="clarke020" type="poem" n="For All We Have and Are"><docAuthor n="Kipling, Rudyard">Rudyard Kipling</docAuthor>
 <head rend="center">"FOR ALL WE HAVE AND ARE"</head>
 
 <lg type="stanza">
@@ -889,10 +888,10 @@ Revolutionary War who fell on the Princeton battlefield and were buried in one g
 <l>Who stands if freedom fall?</l>
 <l>Who dies if England live?</l></lg>
 <byline>Rudyard Kipling</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke021" type="poem" n="England to Free Men"><docAuthor n="Galsworthy, John">John Galsworthy</docAuthor>
+<div id="clarke021" type="poem" n="England to Free Men"><docAuthor n="Galsworthy, John">John Galsworthy</docAuthor>
 <head rend="center">ENGLAND TO FREE MEN</head>
 
 <lg type="stanza">
@@ -926,10 +925,10 @@ Revolutionary War who fell on the Princeton battlefield and were buried in one g
 <l>O ye who count and ye who delve,</l>
 <l>Come in -- before my clock strikes twelve!</l></lg>
 <byline>John Galsworthy</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke022" type="poem" n="Pro Patria"><docAuthor n="Seaman, Owen">Owen Seaman</docAuthor>
+<div id="clarke022" type="poem" n="Pro Patria"><docAuthor n="Seaman, Owen">Owen Seaman</docAuthor>
 <head rend="center"><hi rend="italic">PRO PATRIA</hi></head>
 
 <lg type="stanza">
@@ -982,10 +981,10 @@ Revolutionary War who fell on the Princeton battlefield and were buried in one g
 <l rend="indent6">Our fortunes we confide.</l></lg>
 <byline>Owen Seaman</byline>
 <dateline><date>August 12, 1914</date></dateline>
-</div2>
+</div>
 
 
-<div2 id="clarke023" type="poem" n="Lines Written in Surrey, 1917"><docAuthor n="Clarke, George Herbert">George Herbert Clarke</docAuthor>
+<div id="clarke023" type="poem" n="Lines Written in Surrey, 1917"><docAuthor n="Clarke, George Herbert">George Herbert Clarke</docAuthor>
 <head rend="center">LINES WRITTEN IN SURREY, 1917</head>
 
 <lg type="stanza">
@@ -1010,16 +1009,16 @@ Revolutionary War who fell on the Princeton battlefield and were buried in one g
 <l rend="indent">Of English daisies dancing in English
 dells.</l></lg>
 <byline>George Herbert Clarke</byline>
-</div2>
-</div1>
+</div>
+</div>
 
 <pb n="27"/>
-<div1 id="clarke024" type="Chapter" n="France">
+<div id="clarke024" type="Chapter" n="France">
 <head rend="center">FRANCE</head>
 <pb n="28"/>
 
 <pb n="29"/>
-<div2 id="clarke025" type="poem" n="France"><docAuthor n="Chesterton, Cecil">Cecil Chesterton</docAuthor>
+<div id="clarke025" type="poem" n="France"><docAuthor n="Chesterton, Cecil">Cecil Chesterton</docAuthor>
 <head rend="center">FRANCE</head>
 
 <lg type="stanza">
@@ -1052,11 +1051,11 @@ dells.</l></lg>
 <l>As once again her hands in high surprise</l>
 <l rend="indent">Take hold upon the battlements of Hell.</l></lg>
 <byline>Cecil Chesterton</byline>
-</div2>
+</div>
 
 
 <pb n="30"/>
-<div2 id="clarke026" type="poem" n="The Name of France"
+<div id="clarke026" type="poem" n="The Name of France"
 sample="complete" org="uniform">
 <docAuthor n="Van Dyke, Henry">Henry van Dyke</docAuthor>
 <head rend="center">THE NAME OF FRANCE</head>
@@ -1096,11 +1095,11 @@ sample="complete" org="uniform">
 <l>A name like a vow, a name like a prayer.</l>
 <l rend="center">I give you <hi rend="italic">France!</hi></l></lg>
 <byline>Henry van Dyke</byline>
-</div2>
+</div>
 
 
 <pb n="31"/>
-<div2 id="clarke027" type="poem" n="Vive La France!"><docAuthor n="Crawford, Charlotte Holmes">Charlotte Holmes Crawford</docAuthor>
+<div id="clarke027" type="poem" n="Vive La France!"><docAuthor n="Crawford, Charlotte Holmes">Charlotte Holmes Crawford</docAuthor>
 <head rend="center"><hi rend="italic">VIVE LA FRANCE!</hi></head>
 
 <lg type="stanza">
@@ -1170,10 +1169,10 @@ sample="complete" org="uniform">
 <l>As she lifted her boy to the flag, and sobbed:</l>
 <l rend="center"><hi rend="italic">"Vive la France!"</hi></l></lg>
 <byline>Charlotte Holmes Crawford</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke028" type="poem" n="The Soul of Jeanne D'Arc"><docAuthor n="Garrison, Theodosia">Theodosia Garrison</docAuthor>
+<div id="clarke028" type="poem" n="The Soul of Jeanne D'Arc"><docAuthor n="Garrison, Theodosia">Theodosia Garrison</docAuthor>
 <head rend="center">THE SOUL OF JEANNE D'ARC</head>
 
 <lg>
@@ -1224,11 +1223,11 @@ sample="complete" org="uniform">
 <l>So might I glow, a torch to show the path my heroes tread;</l>
 <l><hi rend="italic">My Captain! Oh, my Captain, let me go back!"</hi> she said.</l></lg>
 <byline>Theodosia Garrison</byline>
-</div2>
+</div>
 
 
 <pb n="35"/>
-<div2 id="clarke029" type="poem" n="O Glorious France"><docAuthor n="Masters, Edgar Lee">Edgar Lee Masters</docAuthor>
+<div id="clarke029" type="poem" n="O Glorious France"><docAuthor n="Masters, Edgar Lee">Edgar Lee Masters</docAuthor>
 <head rend="center">O GLORIOUS FRANCE</head>
 
 <lg type="stanza">
@@ -1309,10 +1308,10 @@ sample="complete" org="uniform">
 <l>Down to the dusty end where pitiful Time</l>
 <l>Grown weary cries Enough!</l></lg>
 <byline>Edgar Lee Masters</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke030" type="poem" n="To France"><docAuthor n="Jones, Herbert">Herbert Jones</docAuthor>
+<div id="clarke030" type="poem" n="To France"><docAuthor n="Jones, Herbert">Herbert Jones</docAuthor>
 <head rend="center">TO FRANCE</head>
 
 <lg type="stanza">
@@ -1335,10 +1334,10 @@ sorrow.</l></lg>
 <l>Fall what befalls: in this hour all those who are near thee</l>
 <l>And all who have loved thee, they rise and salute and revere thee!</l></lg>
 <byline>Herbert Jones</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke031" type="poem" n="Place de la Concorde"><docAuthor n="Coates, Florence Earle">Florence Earle Coates</docAuthor>
+<div id="clarke031" type="poem" n="Place de la Concorde"><docAuthor n="Coates, Florence Earle">Florence Earle Coates</docAuthor>
 <head rend="center">PLACE DE LA CONCORDE</head>
 <head rend="center"><hi rend="smallcap">August</hi> 14, 1914</head>
 <note anchored="yes" place="inline">
@@ -1401,10 +1400,10 @@ mourning by the French people.]
 <l>Placed the Tricolor in her hand,</l>
 <l>And kissed her on both cheeks!</l></lg>
 <byline>Florence Earle Coates</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke032" type="poem" n="To France"><docAuthor n="Scott, Frederick George">Frederick George Scott</docAuthor>
+<div id="clarke032" type="poem" n="To France"><docAuthor n="Scott, Frederick George">Frederick George Scott</docAuthor>
 <head rend="center">TO FRANCE</head>
 
 <lg type="stanza">
@@ -1432,10 +1431,10 @@ mourning by the French people.]
 <l>We who are chastened by sorrow and anguish</l>
 <l rend="indent">Hail thee as sister and queen evermore.</l></lg>
 <byline>Frederick George Scott</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke033" type="poem" n="Qui Vive?"><docAuthor n="Channing, Grace Ellery">Grace Ellery Channing</docAuthor>
+<div id="clarke033" type="poem" n="Qui Vive?"><docAuthor n="Channing, Grace Ellery">Grace Ellery Channing</docAuthor>
 <head rend="center"><hi rend="italic">QUI VIVE?</hi></head>
 
 <lg type="stanza">
@@ -1505,16 +1504,16 @@ mourning by the French people.]
 <byline>Grace Ellery Channing</byline>
 <dateline><name type="place">Paris, </name>
 <date>1917</date></dateline>
-</div2>
-</div1>
+</div>
+</div>
 
 <pb n="43"/>
-<div1 id="clarke034" type="Chapter" n="Belgium">
+<div id="clarke034" type="Chapter" n="Belgium">
 <head rend="center">BELGIUM</head>
 <pb n="44"/>
 
 <pb n="45"/>
-<div2 id="clarke035" type="poem" n="To the Belgians"><docAuthor n="Binyon, Laurence">Laurence Binyon</docAuthor>
+<div id="clarke035" type="poem" n="To the Belgians"><docAuthor n="Binyon, Laurence">Laurence Binyon</docAuthor>
 <head rend="center">TO THE BELGIANS</head>
 
 <lg type="stanza">
@@ -1578,10 +1577,10 @@ mourning by the French people.]
 <l>Your little, stubborn land's</l>
 <l>Nameless, immortal dead.</l></lg>
 <byline>Laurence Binyon</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke036" type="poem" n="Belgium"><docAuthor n="Wharton, Edith">Edith Wharton</docAuthor>
+<div id="clarke036" type="poem" n="Belgium"><docAuthor n="Wharton, Edith">Edith Wharton</docAuthor>
 <head rend="center">BELGIUM</head>
 <epigraph rend="center"><l rend="italic">La Belgique ne regrette rien</l></epigraph>
 
@@ -1597,11 +1596,11 @@ mourning by the French people.]
 <l>And homeless, to great nations be</l>
 <l>The home of all that makes them great.</l></lg>
 <byline>Edith Wharton</byline>
-</div2>
+</div>
 
 
 <pb n="47"/>
-<div2 id="clarke037" type="poem" n="To Belgium"><docAuthor n="Phillpotts, Eden">Eden Phillpotts</docAuthor>
+<div id="clarke037" type="poem" n="To Belgium"><docAuthor n="Phillpotts, Eden">Eden Phillpotts</docAuthor>
 <head rend="center">TO BELGIUM</head>
 
 <lg type="stanza">
@@ -1622,10 +1621,10 @@ mourning by the French people.]
 <l>You shine a star above this stormy night</l>
 <l rend="indent">Little no more, but infinitely great.</l></lg>
 <byline>Eden Phillpotts</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke038" type="poem" n="To Belgium in Exile"><docAuthor n="Seaman, Owen">Owen Seaman</docAuthor>
+<div id="clarke038" type="poem" n="To Belgium in Exile"><docAuthor n="Seaman, Owen">Owen Seaman</docAuthor>
 <head rend="center">TO BELGIUM IN EXILE</head>
 <note anchored="yes" place="inline">
 [Lines dedicated to one of her priests, by whose words they were prompted.]
@@ -1657,10 +1656,10 @@ mourning by the French people.]
 <l>And come with Honour to your own again.</l></lg>
 <byline>Owen Seaman</byline>
 <dateline><date>May 19, 1915</date></dateline>
-</div2>
+</div>
 
 
-<div2 id="clarke039" type="poem" n="The Wife of Flanders">
+<div id="clarke039" type="poem" n="The Wife of Flanders">
 <docAuthor n="Chesterton, G. K. (Gilbert Keith)">Gilbert Keith Chesterton</docAuthor>
 <head rend="center">THE WIFE OF FLANDERS</head>
 
@@ -1707,17 +1706,17 @@ mourning by the French people.]
 <l>You have no word to break: no heart to harden.</l>
 <l rend="indent">Ride on and prosper. You have lost your spurs.</l></lg>
 <byline>Gilbert Keith Chesterton</byline>
-</div2>
+</div>
 <pb n="50"/>
-</div1>
+</div>
 
 <pb n="51"/>
-<div1 id="clarke040" type="Chapter" n="Russia and America">	
+<div id="clarke040" type="Chapter" n="Russia and America">	
 <head rend="center">RUSSIA AND AMERICA</head>
 <pb n="52"/>
 
 <pb n="53"/>
-<div2 id="clarke041" type="poem" n="Russia -- America"><docAuthor n="Galsworthy, John">John Galsworthy</docAuthor>
+<div id="clarke041" type="poem" n="Russia -- America"><docAuthor n="Galsworthy, John">John Galsworthy</docAuthor>
 <head rend="center">RUSSIA -- AMERICA</head>
 
 <lg type="stanza">
@@ -1759,11 +1758,11 @@ pany</l>
 <l>Vision doth move at last, and Freedom stands</l>
 <l>With brightened wings, and smiles and beckons home!</l></lg>
 <byline>John Galsworthy</byline>
-</div2>
+</div>
 
 
 <pb n="54"/>
-<div2 id="clarke042" type="poem" n="To Russia New and Free"><docAuthor n="Johnson, Robert Underwood">Robert Underwood Johnson</docAuthor>
+<div id="clarke042" type="poem" n="To Russia New and Free"><docAuthor n="Johnson, Robert Underwood">Robert Underwood Johnson</docAuthor>
 <head rend="center">TO RUSSIA NEW AND FREE</head>
 
 <lg type="stanza">
@@ -1824,17 +1823,17 @@ pany</l>
 <l>And hear thy chanted hymns of hope for Russia new and free.</l></lg>
 <byline>Robert Underwood Johnson</byline>
 <dateline><date>April, 1917</date></dateline>
-</div2>
+</div>
 <pb n="56"/>
-</div1>
+</div>
 
 <pb n="57"/>
-<div1 id="clarke043" type="Chapter" n="Italy">
+<div id="clarke043" type="Chapter" n="Italy">
 <head rend="center">ITALY</head>
 <pb n="58"/>
 
 <pb n="59"/>
-<div2 id="clarke044" type="poem" n="Italy in Arms"><docAuthor n="Scollard, Clinton">Clinton Scollard</docAuthor>
+<div id="clarke044" type="poem" n="Italy in Arms"><docAuthor n="Scollard, Clinton">Clinton Scollard</docAuthor>
 <head rend="center">ITALY IN ARMS</head>
 
 <lg type="stanza">
@@ -1903,11 +1902,11 @@ pany</l>
 <l>Against iconoclastic might</l>
 <l rend="indent9">In this grim hour must wish thee well!</l></lg>
 <byline>Clinton Scollard</byline>
-</div2>
+</div>
 
 
 <pb n="61"/>
-<div2 id="clarke045" type="poem" n="On the Italian Front, MCMXVI"><docAuthor n="Woodberry, George Edward">George Edward Woodberry</docAuthor>
+<div id="clarke045" type="poem" n="On the Italian Front, MCMXVI"><docAuthor n="Woodberry, George Edward">George Edward Woodberry</docAuthor>
 <head rend="center">ON THE ITALIAN FRONT, MCMXVI</head>
 
 <lg type="stanza">
@@ -1928,17 +1927,17 @@ pany</l>
 <l>'<hi rend="italic">Ecco!</hi> though heaven has made my skies divine,</l>
 <l rend="indent">My sons' love sanctifies my soil for aye!'"</l></lg>
 <byline>George Edward Woodberry</byline>
-</div2>
+</div>
 <pb n="62"/>
-</div1>
+</div>
 
 <pb n="63"/>
-<div1 id="clarke046" type="Chapter" n="Australia">
+<div id="clarke046" type="Chapter" n="Australia">
 <head rend="center">AUSTRALIA</head>
 <pb n="64"/>
 
 <pb n="65"/>
-<div2 id="clarke047" type="poem" n="Australia to England"><docAuthor n="Strong, Archibald T.">Archibald T. Strong</docAuthor>
+<div id="clarke047" type="poem" n="Australia to England"><docAuthor n="Strong, Archibald T.">Archibald T. Strong</docAuthor>
 <head rend="center">AUSTRALIA TO ENGLAND</head>
 
 <lg type="stanza">
@@ -1960,17 +1959,17 @@ pany</l>
 <l rend="indent">Thy sons may stand beside Thee strong and free.</l></lg>
 <byline>Archibald T. Strong</byline>
 <dateline><date>August, 1914</date></dateline>
-</div2>
+</div>
 <pb n="66"/>
-</div1>
+</div>
 
 <pb n="67"/>
-<div1 id="clarke048" type="Chapter" n="Canada">
+<div id="clarke048" type="Chapter" n="Canada">
 <head rend="center">CANADA</head>
 <pb n="68"/>
 
 <pb n="69"/>
-<div2 id="clarke049" type="poem" n="Canada to England"
+<div id="clarke049" type="poem" n="Canada to England"
 sample="complete" org="uniform"><docAuthor n="Pickthall, Marjorie L. C.">Marjorie L. C. Pickthall</docAuthor>
 <head rend="center">CANADA TO ENGLAND</head>
 
@@ -1992,10 +1991,10 @@ sample="complete" org="uniform"><docAuthor n="Pickthall, Marjorie L. C.">Marjori
 <l rend="indent">Behold, behold the invulnerable ghosts</l>
 <l rend="indent4">Of all past greatnesses about thee stand.</l></lg>
 <byline>Marjorie L. C. Pickthall</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke050" type="poem" n="Langemarck at Ypres"><docAuthor n="Campbell, Wilfred">Wilfred Campbell</docAuthor>
+<div id="clarke050" type="poem" n="Langemarck at Ypres"><docAuthor n="Campbell, Wilfred">Wilfred Campbell</docAuthor>
 <head rend="center">LANGEMARCK AT YPRES</head>
 
 <lg type="stanza"> 
@@ -2160,10 +2159,10 @@ sample="complete" org="uniform"><docAuthor n="Pickthall, Marjorie L. C.">Marjori
 <l>Of the vast Hun horde, and Canada's part</l>
 <l rend="indent">In the great, grim fight.</l></lg>
 <byline>Wilfred Campbell</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke051" type="poem" n="Canadians"><docAuthor n="Ogilvie, Will H.">Will H. Ogilvie</docAuthor>
+<div id="clarke051" type="poem" n="Canadians"><docAuthor n="Ogilvie, Will H.">Will H. Ogilvie</docAuthor>
 <head rend="center">CANADIANS</head>
 
 <lg type="stanza">
@@ -2191,16 +2190,16 @@ sample="complete" org="uniform"><docAuthor n="Pickthall, Marjorie L. C.">Marjori
 <l>But till war hath need of them, lightly lie their reins,</l>
 <l>Softly fall the feet of them along the English lanes.</l></lg>
 <byline>Will H. Ogilvie</byline>
-</div2>
-</div1>
+</div>
+</div>
 
 <pb n="75"/>
-<div1 id="clarke052" type="Chapter" n="Liege">
+<div id="clarke052" type="Chapter" n="Liege">
 <head rend="center">LIEGE</head>
 <pb n="76"/>
 
 <pb n="77"/>
-<div2 id="clarke053" type="poem" n="The Kaiser and Belgium"><docAuthor n="Phillips, Stephen">Stephen Phillips</docAuthor>
+<div id="clarke053" type="poem" n="The Kaiser and Belgium"><docAuthor n="Phillips, Stephen">Stephen Phillips</docAuthor>
 <head rend="center">THE KAISER AND BELGIUM</head>
 
 <lg type="stanza">
@@ -2225,10 +2224,10 @@ sample="complete" org="uniform"><docAuthor n="Pickthall, Marjorie L. C.">Marjori
 <l>If him whom God destroys He maddens first,</l>
 <l>Then thy destruction slake thy madman's thirst.</l></lg>
 <byline>Stephen Phillips</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke054" type="poem" n="The Battle of Li&#x00E8;ge"><docAuthor n="Burnet, Dana">Dana Burnet</docAuthor>
+<div id="clarke054" type="poem" n="The Battle of Li&#x00E8;ge"><docAuthor n="Burnet, Dana">Dana Burnet</docAuthor>
 <head rend="center">THE BATTLE OF LI&#x00C8;GE</head>
 
 <lg type="stanza">
@@ -2331,16 +2330,16 @@ died....</l>
 <l>And the King came out with his bodyguard at the day's departing gleam --</l>
 <l>And the moon rode up behind the smoke and showed the King his dream.</l></lg>
 <byline>Dana Burnet</byline>
-</div2>
-</div1>
+</div>
+</div>
 
 <pb n="81"/>
-<div1 id="clarke055" type="Chapter" n="Verdun">
+<div id="clarke055" type="Chapter" n="Verdun">
 <head rend="center">VERDUN</head>
 <pb n="82"/>
 
 <pb n="83"/>
-<div2 id="clarke056" type="poem" n="Men of Verdun"><docAuthor n="Binyon, Laurence">Laurence Binyon</docAuthor>
+<div id="clarke056" type="poem" n="Men of Verdun"><docAuthor n="Binyon, Laurence">Laurence Binyon</docAuthor>
 <head rend="center">MEN OF VERDUN</head>
 
 <lg type="stanza">
@@ -2406,10 +2405,10 @@ died....</l>
 <l>Verdun, the name of thunder,</l>
 <l rend="indent">Is written on their flesh.</l></lg>
 <byline>Laurence Binyon</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke057" type="poem" n="Verdun">
+<div id="clarke057" type="poem" n="Verdun">
 <docAuthor n="Phillpotts, Eden">Eden Phillpots</docAuthor>
 <head rend="center">VERDUN</head>
 
@@ -2449,10 +2448,10 @@ died....</l>
 <l>Thank-offering and bend the reverent knee,</l>
 <l>Thou star upon the crown of Liberty!</l></lg>
 <byline>Eden Phillpots</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke058" type="poem" n="Guns of Verdun"><docAuthor n="Chalmers, Patrick R.">Patrick R. Chalmers</docAuthor>
+<div id="clarke058" type="poem" n="Guns of Verdun"><docAuthor n="Chalmers, Patrick R.">Patrick R. Chalmers</docAuthor>
 <head rend="center">GUNS OF VERDUN</head>
 
 <lg type="stanza">
@@ -2480,16 +2479,16 @@ died....</l>
 <l>"Sisters, when to guard Lorraine</l>
 <l>Gunners lay you East again!"</l></lg>
 <byline>Patrick R. Chalmers</byline>
-</div2>
-</div1>
+</div>
+</div>
 
 <pb n="87"/>
-<div1 id="clarke059" type="Chapter" n="Oxford">
+<div id="clarke059" type="Chapter" n="Oxford">
 <head rend="center">OXFORD</head>
 <pb n="88"/>
 
 <pb n="89"/>
-<div2 id="clarke060" type="poem" n="The Spires of Oxford"><docAuthor n="Letts, Winifred M.">Winifred M. Letts</docAuthor>
+<div id="clarke060" type="poem" n="The Spires of Oxford"><docAuthor n="Letts, Winifred M.">Winifred M. Letts</docAuthor>
 <head rend="center">THE SPIRES OF OXFORD</head>
 
 <lg type="stanza">
@@ -2524,11 +2523,11 @@ died....</l>
 <l>God bring you to a fairer place</l>
 <l rend="indent">Than even Oxford town.</l></lg>
 <byline>Winifred M. Letts</byline>
-</div2>
+</div>
 
 
 <pb n="90"/>
-<div2 id="clarke061" type="poem" n="Oxford in War-Time"><docAuthor n="Snow, W.">W. Snow</docAuthor>
+<div id="clarke061" type="poem" n="Oxford in War-Time"><docAuthor n="Snow, W.">W. Snow</docAuthor>
 <head rend="center">OXFORD IN WAR-TIME</head>
 <note anchored="yes" place="inline">
 [The Boat Race will not be held this year (1915). The whole of last
@@ -2568,11 +2567,11 @@ teams are serving the King.]
 <l>Only the thought of you can grieve her,</l>
 <l rend="indent">You who have fought and died.</l></lg>
 <byline>W. Snow</byline>
-</div2>
+</div>
 
 
 <pb n="91"/>
-<div2 id="clarke062" type="poem" n="Oxford Revisited in War-Time">
+<div id="clarke062" type="poem" n="Oxford Revisited in War-Time">
 <docAuthor n="Van Dyke, Tertius">Tertius van Dyke</docAuthor>
 <head rend="center">OXFORD REVISITED IN WAR-TIME</head>
 
@@ -2641,16 +2640,16 @@ teams are serving the King.]
 <name type="place">Magdalen College,</name>
 <lb/><date rend="indent">January, 1917</date>
 </dateline>
-</div2>
-</div1>
+</div>
+</div>
 
 <pb n="93"/>
-<div1 id="clarke063" type="Chapter" n="Reflections">
+<div id="clarke063" type="Chapter" n="Reflections">
 <head rend="center">REFLECTIONS</head>
 <pb n="94"/>
 
 <pb n="95"/>
-<div2 id="clarke064" type="poem" n="Sonnets Written in the Fall of 1914"><docAuthor n="Woodberry, George Edward">George Edward Woodberry</docAuthor>
+<div id="clarke064" type="poem" n="Sonnets Written in the Fall of 1914"><docAuthor n="Woodberry, George Edward">George Edward Woodberry</docAuthor>
 <head rend="center">SONNETS WRITTEN IN THE FALL OF 1914</head>
 
 <lg type="stanza">
@@ -2789,10 +2788,10 @@ teams are serving the King.]
 <l>For those ideals for which, since Homer sang,</l>
 <l rend="indent">The hosts of thirty centuries have died.</l></lg>
 <byline>George Edward Woodberry</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke065" type="poem" n="The War Films"><docAuthor n="Newbolt, Henry">Henry Newbolt</docAuthor>
+<div id="clarke065" type="poem" n="The War Films"><docAuthor n="Newbolt, Henry">Henry Newbolt</docAuthor>
 <head rend="center">THE WAR FILMS</head>
 
 <lg type="stanza">
@@ -2820,10 +2819,10 @@ teams are serving the King.]
 <l>Thou knowest my heart is bowed in me</l>
 <l rend="indent">To take their death for mine.</l></lg>
 <byline>Henry Newbolt</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke066" type="poem" n="The Searchlights"><docAuthor n="Noyes, Alfred">Alfred Noyes</docAuthor>
+<div id="clarke066" type="poem" n="The Searchlights"><docAuthor n="Noyes, Alfred">Alfred Noyes</docAuthor>
 <head rend="center">THE SEARCHLIGHTS</head>
 <note anchored="yes" place="inline">
 [Political morality differs from individual morality, because there is
@@ -2888,11 +2887,11 @@ Bernhardi</hi>.]
 <l>Once more, redeemed and healed and whole,</l>
 <l>She moves to the Eternal Goal.</l></lg>
 <byline>Alfred Noyes</byline>
-</div2>
+</div>
 
 
 <pb n="101"/>
-<div2 id="clarke067" type="poem" n="Christmas: 1915"><docAuthor n="Mackaye, Percy">Percy Mackaye</docAuthor>
+<div id="clarke067" type="poem" n="Christmas: 1915"><docAuthor n="Mackaye, Percy">Percy Mackaye</docAuthor>
 <head rend="center">CHRISTMAS: 1915</head>
 
 <lg type="stanza">
@@ -2913,10 +2912,10 @@ Bernhardi</hi>.]
 <l rend="indent">From her racked flesh? -- What splendour from the smother?</l>
 <l>What new-wing'd world, or mangled god stillborn?</l></lg>
 <byline>Percy MacKaye</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke068" type="poem" n="Men Who March Away"><docAuthor n="Hardy, Thomas">Thomas Hardy</docAuthor>
+<div id="clarke068" type="poem" n="Men Who March Away"><docAuthor n="Hardy, Thomas">Thomas Hardy</docAuthor>
 <head rend="center">"MEN WHO MARCH AWAY"</head>
 <head rend="center">(<hi rend="smallcap">SONG OF THE SOLDIERS</hi>)</head>
 
@@ -2967,11 +2966,11 @@ Bernhardi</hi>.]
 <l rend="indent">Men who march away.</l></lg>
 <byline>Thomas Hardy</byline>
 <dateline><date>September 5, 1914</date></dateline>
-</div2>
+</div>
 
 
 <pb n="103"/>
-<div2 id="clarke069" type="poem" n="We Willed It Not"><docAuthor n="Drinkwater, John">John Drinkwater</docAuthor>
+<div id="clarke069" type="poem" n="We Willed It Not"><docAuthor n="Drinkwater, John">John Drinkwater</docAuthor>
 <head rend="center">WE WILLED IT NOT</head>
 
 <lg type="stanza">
@@ -3017,10 +3016,10 @@ Bernhardi</hi>.]
 <l>We rise, and, by the yet ungathered dead,</l>
 <l>Not lightly shall the treason be atoned.</l></lg>
 <byline>John Drinkwater</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke070" type="poem" n="The Death of Peace"><docAuthor n="Ross, Ronald">Ronald Ross</docAuthor>
+<div id="clarke070" type="poem" n="The Death of Peace"><docAuthor n="Ross, Ronald">Ronald Ross</docAuthor>
 <head rend="center">THE DEATH OF PEACE</head>
 
 <lg type="stanza">
@@ -3192,10 +3191,10 @@ Bernhardi</hi>.]
 <l>She fell and died -- in all the tale of time</l>
 <l>The direst deed e'er done, the most accurs&#x00E8;d crime.</l></lg>
 <byline>Ronald Ross</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke071" type="poem" n="In War-Time"><docAuthor n="Coates, Florence Earle">Florence Earle Coates</docAuthor>
+<div id="clarke071" type="poem" n="In War-Time"><docAuthor n="Coates, Florence Earle">Florence Earle Coates</docAuthor>
 <head rend="center">IN WAR-TIME</head>
 <head rend="center">(<hi rend="smallcap">An</hi> A<hi rend="smallcap">merican Homeward</hi>-<hi rend="smallcap">Bound</hi>)</head>
 
@@ -3230,10 +3229,10 @@ Bernhardi</hi>.]
 <l>Would I hurry on, with a homesick cry --</l>
 <l rend="indent">Or hasten back?</l></lg>
 <byline>Florence Earle Coates</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke072" type="poem" n="The Anvil"><docAuthor n="Binyon, Laurence">Laurence Binyon</docAuthor>
+<div id="clarke072" type="poem" n="The Anvil"><docAuthor n="Binyon, Laurence">Laurence Binyon</docAuthor>
 <head rend="center">THE ANVIL</head>
 
 <lg type="stanza">
@@ -3252,11 +3251,11 @@ Bernhardi</hi>.]
 <l>Beat out the iron, edge it keen,</l>
 <l>And shape us to the end we mean!</l></lg>
 <byline>Laurence Binyon</byline>
-</div2>
+</div>
 
 
 <pb n="110"/>
-<div2 id="clarke073" type="poem" n="The Fool Rings His Bells"><docAuthor n="De la Mare, Walter">Walter de la Mare</docAuthor>
+<div id="clarke073" type="poem" n="The Fool Rings His Bells"><docAuthor n="De la Mare, Walter">Walter de la Mare</docAuthor>
 <head rend="center">THE FOOL RINGS HIS BELLS</head>
 
 <lg type="stanza">
@@ -3345,10 +3344,10 @@ Bernhardi</hi>.]
 <l>Nodding that drowsy head,</l>
 <l>'T is time thy prayers were said!</l></lg>
 <byline>Walter de la Mare</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke074" type="poem" n="The Road to Dieppe"><docAuthor n="Finley, John">John Finley</docAuthor>
+<div id="clarke074" type="poem" n="The Road to Dieppe"><docAuthor n="Finley, John">John Finley</docAuthor>
 <head rend="center">THE ROAD TO DIEPPE</head>
 <note anchored="yes" place="inline">
 [Concerning the experiences of a journey on foot through the night of
@@ -3460,10 +3459,10 @@ England and Germany), from a town near Amiens, in France, to Dieppe, a distance 
 <l>Teuton, Italian, Gallic, English, Slav,</l>
 <l>Forget long hates in one consummate faith.</l></lg>
 <byline>John Finley</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke075" type="poem" n="To Fellow Travellers in Greece"><docAuthor n="Dixon, W. Macneile">W. Macneile Dixon</docAuthor>
+<div id="clarke075" type="poem" n="To Fellow Travellers in Greece"><docAuthor n="Dixon, W. Macneile">W. Macneile Dixon</docAuthor>
 <head rend="center">TO FELLOW TRAVELLERS IN GREECE</head>
 <head><hi rend="smallcap">March</hi>-<hi rend="smallcap">September</hi>, 1914</head>
 
@@ -3510,10 +3509,10 @@ England and Germany), from a town near Amiens, in France, to Dieppe, a distance 
 <l>And the recurrent heavens decree</l>
 <l>A Periclean dynasty.</l></lg>
 <byline>W. Macneile Dixon</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke076" type="poem" n="When There is Peace"><docAuthor n="Dobson, Austin">Austin Dobson</docAuthor>
+<div id="clarke076" type="poem" n="When There is Peace"><docAuthor n="Dobson, Austin">Austin Dobson</docAuthor>
 <head rend="center">"WHEN THERE IS PEACE"</head>
 
 <lg>
@@ -3538,10 +3537,10 @@ England and Germany), from a town near Amiens, in France, to Dieppe, a distance 
 <l>Grow stronger, nobler, than before,</l>
 <l rend="indent7">When there is Peace.</l></lg>
 <byline>Austin Dobson</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke077" type="poem" n="A Prayer in Time of War"><docAuthor n="Noyes, Alfred">Alfred Noyes</docAuthor>
+<div id="clarke077" type="poem" n="A Prayer in Time of War"><docAuthor n="Noyes, Alfred">Alfred Noyes</docAuthor>
 <head rend="center">A PRAYER IN TIME OF WAR</head>
 <note anchored="yes" place="inline">
 [The war will change many things in art and life, and among them, it
@@ -3585,10 +3584,10 @@ is to be hoped, many of our own ideas as to what is, and what is not, "intellect
 <l>For, while our souls in darkness dwell,</l>
 <l rend="indent">We know that Thou art there.</l></lg>
 <byline>Alfred Noyes</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke078" type="poem" n="Then and Now"><docAuthor n="Hardy, Thomas">Thomas Hardy</docAuthor>
+<div id="clarke078" type="poem" n="Then and Now"><docAuthor n="Hardy, Thomas">Thomas Hardy</docAuthor>
 <head rend="center">THEN AND NOW</head>
 
 <lg type="stanza">
@@ -3622,10 +3621,10 @@ is to be hoped, many of our own ideas as to what is, and what is not, "intellect
 <l rend="indent7">Overhead, under water,</l>
 <l rend="indent9">Stab first."</l></lg>
 <byline>Thomas Hardy</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke079" type="poem" n="The Kaiser and God"><docAuthor n="Pain, Barry">Barry Pain</docAuthor>
+<div id="clarke079" type="poem" n="The Kaiser and God"><docAuthor n="Pain, Barry">Barry Pain</docAuthor>
 <head rend="center">THE KAISER AND GOD</head>
 <note anchored="yes" place="inline">
 ["I rejoice with you in Wilhelm's first victory. How magnificently God
@@ -3692,11 +3691,11 @@ Crown Princess</hi>.]
 <l rend="italic">To Whom, whichever way the combat rolls,</l>
 <l rend="italic">We, fighting to the end, commend our souls.</l></lg>
 <byline>Barry Pain</byline>
-</div2>
+</div>
 
 
 <pb n="121"/>
-<div2 id="clarke080" type="poem" n="The Superman"><docAuthor n="Grant, Robert">Robert Grant</docAuthor>
+<div id="clarke080" type="poem" n="The Superman"><docAuthor n="Grant, Robert">Robert Grant</docAuthor>
 <head rend="center">THE SUPERMAN</head>
 
 <lg type="stanza">
@@ -3742,10 +3741,10 @@ Crown Princess</hi>.]
 <l>Should Prussian power enslave the world and arrogance prevail,</l>
 <l>Let chaos come, let Moloch rule, and Christ give place to Baal.</l></lg>
 <byline>Robert Grant</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke081" type="poem" n="Three Hills"><docAuthor n="Owen, Everard">Everard Owen</docAuthor>
+<div id="clarke081" type="poem" n="Three Hills"><docAuthor n="Owen, Everard">Everard Owen</docAuthor>
 <head rend="center">THREE HILLS</head>
 
 <lg type="stanza">
@@ -3777,16 +3776,16 @@ Crown Princess</hi>.]
 <date>December, 1915</date>
 </dateline>
 <pb n="124"/>
-</div2>
-</div1>
+</div>
+</div>
 
 <pb n="125"/>
-<div1 id="clarke082" type="Chapter" n="Incidents and Aspects">
+<div id="clarke082" type="Chapter" n="Incidents and Aspects">
 <head rend="center">Incidents and Aspects</head>
 <pb n="126"/>
 
 <pb n="127"/>
-<div2 id="clarke083" type="poem" n="The Return"><docAuthor n="Freeman, John">John Freeman</docAuthor>
+<div id="clarke083" type="poem" n="The Return"><docAuthor n="Freeman, John">John Freeman</docAuthor>
 <head rend="center">THE RETURN</head>
 
 <lg type="stanza">
@@ -3801,10 +3800,10 @@ Crown Princess</hi>.]
 <l>Then slowly crept a triumph on the dark --</l>
 <l rend="indent">And I heard Beauty singing up the hill.</l></lg>
 <byline>John Freeman</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke084" type="poem" n="The Mobilization in Brittany"><docAuthor n="Norton, Grace Fallow">Grace Fallow Norton</docAuthor>
+<div id="clarke084" type="poem" n="The Mobilization in Brittany"><docAuthor n="Norton, Grace Fallow">Grace Fallow Norton</docAuthor>
 <head rend="center">THE MOBILIZATION IN BRITTANY</head>
 
 <lg><head rend="center">I</head>
@@ -3901,10 +3900,10 @@ Crown Princess</hi>.]
 <l>Rough and strong they are, proud and gay they are.</l>
 <l>So this is the way of war...</l></lg>
 <byline>Grace Fallow Norton</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke085" type="poem" n="The Toy Band"><docAuthor n="Newbolt, Henry">Henry Newbolt</docAuthor>
+<div id="clarke085" type="poem" n="The Toy Band"><docAuthor n="Newbolt, Henry">Henry Newbolt</docAuthor>
 <head rend="center">THE TOY BAND</head>
 <head>(A <hi rend="smallcap">Song of the</hi> G<hi rend="smallcap">reat Retreat</hi>)</head>
 
@@ -3949,10 +3948,10 @@ Crown Princess</hi>.]
 <l>You that mean to fight it out, wake and take your load again,</l>
 <l rend="indent">Fall in! Fall in! Follow the fife and drum!</l></lg>
 <byline>Henry Newbolt</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke086" type="poem" n="Thomas of the Light Heart"><docAuthor n="Seaman, Owen">Owen Seaman</docAuthor>
+<div id="clarke086" type="poem" n="Thomas of the Light Heart"><docAuthor n="Seaman, Owen">Owen Seaman</docAuthor>
 <head rend="center">THOMAS OF THE LIGHT HEART</head>
 
 <lg type="stanza">
@@ -3989,10 +3988,10 @@ Crown Princess</hi>.]
 <l>Nor play what is n't cricket. There's his creed.</l></lg>
 <byline>Owen Seaman</byline>
 <dateline><date>October, 1914</date></dateline>
-</div2>
+</div>
 
 
-<div2 id="clarke087" type="poem" n="In the Trenches"><docAuthor n="Hewlett, Maurice">Maurice Hewlett</docAuthor>
+<div id="clarke087" type="poem" n="In the Trenches"><docAuthor n="Hewlett, Maurice">Maurice Hewlett</docAuthor>
 <head rend="center">IN THE TRENCHES</head>
 
 <lg type="stanza">
@@ -4057,10 +4056,10 @@ Crown Princess</hi>.]
 <l>Must fall, he longs as dearly,</l>
 <l>With heart as full as mine.</l></lg>
 <byline>Maurice Hewlett</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke088" type="poem" n="The Guards Came Through"><docAuthor n="Doyle, Arthur Conan">Arthur Conan Doyle</docAuthor>
+<div id="clarke088" type="poem" n="The Guards Came Through"><docAuthor n="Doyle, Arthur Conan">Arthur Conan Doyle</docAuthor>
 <head rend="center">THE GUARDS CAME THROUGH</head>
 
 <lg type="stanza">
@@ -4134,10 +4133,10 @@ Crown Princess</hi>.]
 <l>But I'll tell 'em in Blighty, wherever I be,</l>
 <l rend="indent">How the Guards came through.</l></lg>
 <byline>Arthur Conan Doyle</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke089" type="poem" n="The Passengers of a Retarded Submersible"><docAuthor n="Howells, William Dean">William Dean Howells</docAuthor>
+<div id="clarke089" type="poem" n="The Passengers of a Retarded Submersible"><docAuthor n="Howells, William Dean">William Dean Howells</docAuthor>
 <head rend="center">THE PASSENGERS OF A RETARDED SUBMERSIBLE</head>
 <head rend="center"><hi rend="smallcap">November</hi>, 1916</head>
 
@@ -4184,10 +4183,10 @@ Crown Princess</hi>.]
 <l>But hasten, Captain, hasten! The wreck that lies under the sea</l>
 <l>Shall be ever the home for us this land can never be.</l></lg>
 <byline>William Dean Howells</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke090" type="poem" n="Edith Cavell"><docAuthor n="Binyon, Laurence">Laurence Binyon</docAuthor>
+<div id="clarke090" type="poem" n="Edith Cavell"><docAuthor n="Binyon, Laurence">Laurence Binyon</docAuthor>
 <head rend="center">EDITH CAVELL</head>
 
 <lg type="stanza">
@@ -4276,11 +4275,11 @@ Crown Princess</hi>.]
 <l>But because she stept to her star right on through death</l>
 <l rend="indent">It is Victory speaks her name.</l></lg>
 <byline>Laurence Binyon</byline>
-</div2>
+</div>
 
 
 <pb n="141"/>
-<div2 id="clarke091" type="poem" n="The Hell-Gate of Soissons"><docAuthor n="Kaufman, Herbert">Herbert Kaufman</docAuthor>
+<div id="clarke091" type="poem" n="The Hell-Gate of Soissons"><docAuthor n="Kaufman, Herbert">Herbert Kaufman</docAuthor>
 <head rend="center">THE HELL-GATE OF SOISSONS</head>
 
 <lg type="stanza">
@@ -4359,10 +4358,10 @@ have heard? <hi rend="italic">Oui, Com&#x00E9;die Fran&#x00E7;aise</hi>.</l>
 <l>Screams of rage! <hi rend="italic">Fusillade!</hi> They have killed him! Too late, though, the good work is done.</l>
 <l>By the valor of twelve English martyrs, the Hell-Gate of Soissons is won!</l></lg>
 <byline>Herbert Kaufman</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke092" type="poem" n="The Virgin of Albert"><docAuthor n="Clarke, George Herbert">George Herbert Clarke</docAuthor>
+<div id="clarke092" type="poem" n="The Virgin of Albert"><docAuthor n="Clarke, George Herbert">George Herbert Clarke</docAuthor>
 <head rend="center">THE VIRGIN OF ALBERT</head>
 <head>(<hi rend="smallcap">Notre Dame de </hi><hi rend="smallcap">Brebi&#x00E8;res</hi>)</head>
 
@@ -4384,11 +4383,11 @@ have heard? <hi rend="italic">Oui, Com&#x00E9;die Fran&#x00E7;aise</hi>.</l>
 <l>"Women are woe for them! let Me be theirs,</l>
 <l>And comfort them, and hearken all their prayers!"</l></lg>
 <byline>George Herbert Clarke</byline>
-</div2>
+</div>
 
 
 <pb n="145"/>
-<div2 id="clarke093" type="poem" n="Retreat"><docAuthor n="Gibson, Wilfrid Wilson">Wilfrid Wilson Gibson</docAuthor>
+<div id="clarke093" type="poem" n="Retreat"><docAuthor n="Gibson, Wilfrid Wilson">Wilfrid Wilson Gibson</docAuthor>
 <head rend="center">RETREAT</head>
 
 <lg type="stanza">
@@ -4409,10 +4408,10 @@ have heard? <hi rend="italic">Oui, Com&#x00E9;die Fran&#x00E7;aise</hi>.</l>
 <l rend="indent">Until he babbled like a child again --</l>
 <l>"All-heal and willow-herb and meadow-sweet."</l></lg>
 <byline>Wilfrid Wilson Gibson</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke094" type="poem" n="A Letter From the Front"><docAuthor n="Newbolt, Henry">Henry Newbolt</docAuthor>
+<div id="clarke094" type="poem" n="A Letter From the Front"><docAuthor n="Newbolt, Henry">Henry Newbolt</docAuthor>
 <head rend="center">A LETTER FROM THE FRONT</head>
 
 <lg type="stanza">
@@ -4448,10 +4447,10 @@ have heard? <hi rend="italic">Oui, Com&#x00E9;die Fran&#x00E7;aise</hi>.</l>
 <l>I may be wrong, and I may have told it badly,</l>
 <l>But it struck <hi rend="italic">me</hi> as being extremely ludicrous.</l></lg>
 <byline>Henry Newbolt</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke095" type="poem" n="Rheims Cathedral"><docAuthor n="Conkling, Grace Hazard">Grace Hazard Conkling</docAuthor>
+<div id="clarke095" type="poem" n="Rheims Cathedral"><docAuthor n="Conkling, Grace Hazard">Grace Hazard Conkling</docAuthor>
 <head rend="center">RHEIMS CATHETRAL -- 1914</head>
 
 <lg type="stanza">
@@ -4473,12 +4472,12 @@ have heard? <hi rend="italic">Oui, Com&#x00E9;die Fran&#x00E7;aise</hi>.</l>
 <l rend="indent">Like faithful sunset, warm immortally!</l>
 <l rend="indent4">Thy bells live on, and Heaven is in their tone!</l></lg>
 <byline>Grace Hazard Conkling</byline>
-</div2>
+</div>
 <pb n="148"/>
-</div1>
+</div>
 
 <pb n="149"/>
-<div1 id="clarke096" type="Chapter" n="Poets Militant">
+<div id="clarke096" type="Chapter" n="Poets Militant">
 <head rend="center">POETS MILITANT</head>
 <note anchored="yes" place="inline">
 (The authors of the poems included in this section are or were on active service.)
@@ -4486,7 +4485,7 @@ have heard? <hi rend="italic">Oui, Com&#x00E9;die Fran&#x00E7;aise</hi>.</l>
 <pb n="150"/>
 
 <pb n="151"/>
-<div2 id="clarke097" type="poem" n="I Have a Rendezvous With Death"><docAuthor n="Seeger, Alan">Alan Seeger</docAuthor>
+<div id="clarke097" type="poem" n="I Have a Rendezvous With Death"><docAuthor n="Seeger, Alan">Alan Seeger</docAuthor>
 <head rend="center">I HAVE A RENDEZVOUS WITH DEATH...</head>
 
 <lg type="stanza">
@@ -4519,11 +4518,11 @@ have heard? <hi rend="italic">Oui, Com&#x00E9;die Fran&#x00E7;aise</hi>.</l>
 <l>And I to my pledged word am true,</l>
 <l>I shall not fail that rendezvous.</l></lg>
 <byline>Alan Seeger</byline>
-</div2>
+</div>
 
 
 <pb n="152"/>
-<div2 id="clarke098" type="poem" n="The Soldier"><docAuthor n="Brooke, Rupert">Rupert Brooke</docAuthor>
+<div id="clarke098" type="poem" n="The Soldier"><docAuthor n="Brooke, Rupert">Rupert Brooke</docAuthor>
 <head rend="center">THE SOLDIER</head>
 
 <lg type="stanza">
@@ -4544,10 +4543,10 @@ have heard? <hi rend="italic">Oui, Com&#x00E9;die Fran&#x00E7;aise</hi>.</l>
 <l rend="indent">And laughter, learnt of friends; and gentleness,</l>
 <l rend="indent4">In hearts at peace, under an English heaven.</l></lg>
 <byline>Rupert Brooke</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke099" type="poem" n="Expectans Expectavi"><docAuthor n="Sorley, Charles Hamilton">Charles Hamilton Sorley</docAuthor>
+<div id="clarke099" type="poem" n="Expectans Expectavi"><docAuthor n="Sorley, Charles Hamilton">Charles Hamilton Sorley</docAuthor>
 <head rend="center"><hi rend="italic">EXPECTANS EXPECTAVI</hi></head>
 
 <lg type="stanza">
@@ -4582,10 +4581,10 @@ have heard? <hi rend="italic">Oui, Com&#x00E9;die Fran&#x00E7;aise</hi>.</l>
 <l>To Thy great service dedicate.</l></lg>
 <byline>Charles Hamilton Sorley</byline>
 <dateline><date>May, 1915</date></dateline>
-</div2>
+</div>
 
 
-<div2 id="clarke100" type="poem" n="The Volunteer"><docAuthor n="Asquith, Herbert">Herbert Asquith</docAuthor>
+<div id="clarke100" type="poem" n="The Volunteer"><docAuthor n="Asquith, Herbert">Herbert Asquith</docAuthor>
 <head rend="center">THE VOLUNTEER</head>
 
 <lg type="stanza">
@@ -4608,11 +4607,11 @@ have heard? <hi rend="italic">Oui, Com&#x00E9;die Fran&#x00E7;aise</hi>.</l>
 <l>Nor needs he any hearse to bear him hence,</l>
 <l>Who goes to join the men of Agincourt.</l></lg>
 <byline>Herbert Asquith</byline>
-</div2>
+</div>
 
 
 <pb n="154"/>
-<div2 id="clarke101" type="poem" n="Into Battle"><docAuthor n="Grenfell, Julian">Julian Grenfell</docAuthor>
+<div id="clarke101" type="poem" n="Into Battle"><docAuthor n="Grenfell, Julian">Julian Grenfell</docAuthor>
 <head rend="center">INTO BATTLE</head>
 
 <lg type="stanza">
@@ -4684,10 +4683,10 @@ have heard? <hi rend="italic">Oui, Com&#x00E9;die Fran&#x00E7;aise</hi>.</l>
 <byline>Julian Grenfell</byline>
 <dateline><name type="place">Flanders, </name>
 <date>April, 1915</date></dateline>
-</div2>
+</div>
 
 
-<div2 id="clarke102" type="poem" n="The Cricketers of Flanders"><docAuthor n="Hall, James Norman">James Norman Hall</docAuthor>
+<div id="clarke102" type="poem" n="The Cricketers of Flanders"><docAuthor n="Hall, James Norman">James Norman Hall</docAuthor>
 <head rend="center">THE CRICKETERS OF FLANDERS</head>
 
 <lg type="stanza">
@@ -4742,10 +4741,10 @@ have heard? <hi rend="italic">Oui, Com&#x00E9;die Fran&#x00E7;aise</hi>.</l>
 <l>And others say, as we have said:</l>
 <l>"A sportsman and a soldier still!"</l></lg>
 <byline>James Norman Hall</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke103" type="poem" n="All the Hills and Vales Along"><docAuthor n="Sorley, Charles Hamilton">Charles Hamilton Sorley</docAuthor>
+<div id="clarke103" type="poem" n="All the Hills and Vales Along"><docAuthor n="Sorley, Charles Hamilton">Charles Hamilton Sorley</docAuthor>
 <head rend="center">"ALL THE HILLS AND VALES ALONG"</head>
 
 <lg type="stanza">
@@ -4801,10 +4800,10 @@ have heard? <hi rend="italic">Oui, Com&#x00E9;die Fran&#x00E7;aise</hi>.</l>
 <l rend="indent">Strew your gladness on earth's bed,</l>
 <l rend="indent">So be merry, so be dead.</l></lg>
 <byline>Charles Hamilton Sorley</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke104" type="poem" n="No Man's Land"><docAuthor n="Knight-Adkin, James H.">James H. Knight-Adkin</docAuthor>
+<div id="clarke104" type="poem" n="No Man's Land"><docAuthor n="Knight-Adkin, James H.">James H. Knight-Adkin</docAuthor>
 <head rend="center">NO MAN'S LAND</head>
 
 <lg type="stanza">
@@ -4848,11 +4847,11 @@ have heard? <hi rend="italic">Oui, Com&#x00E9;die Fran&#x00E7;aise</hi>.</l>
 <l>For the lone patrol, with his life in his hand,</l>
 <l>Is hunting for blood in No Man's Land.</l></lg>
 <byline>James H. Knight-Adkin</byline>
-</div2>
+</div>
 
 
 <pb n="160"/>
-<div2 id="clarke105" type="poem" n="Champagne, 1914-15"><docAuthor n="Seeger, Alan">Alan Seeger</docAuthor>
+<div id="clarke105" type="poem" n="Champagne, 1914-15"><docAuthor n="Seeger, Alan">Alan Seeger</docAuthor>
 <head rend="center">CHAMPAGNE, 1914-15</head>
 
 <lg type="stanza">
@@ -4961,10 +4960,10 @@ have heard? <hi rend="italic">Oui, Com&#x00E9;die Fran&#x00E7;aise</hi>.</l>
 <byline>Alan Seeger</byline>
 <dateline><name type="place">Champagne, France</name>
 <date>July, 1915</date></dateline>
-</div2>
+</div>
 
 
-<div2 id="clarke106" type="poem" n="Headquarters"><docAuthor n="Frankau, Gilbert">Gilbert Frankau</docAuthor>
+<div id="clarke106" type="poem" n="Headquarters"><docAuthor n="Frankau, Gilbert">Gilbert Frankau</docAuthor>
 <head rend="center">HEADQUARTERS</head>
 
 <lg type="stanza">
@@ -4998,11 +4997,11 @@ have heard? <hi rend="italic">Oui, Com&#x00E9;die Fran&#x00E7;aise</hi>.</l>
 <l>In the garden beyond my windows, where the twilight shadows blur</l>
 <l>The blaze of some woman's roses.... "Bombardment orders, sir."</l></lg>
 <byline>Gilbert Frankau</byline>
-</div2>
+</div>
 
 
 <pb n="164"/>
-<div2 id="clarke107" type="poem" n="Home Thoughts From Laventie"><docAuthor n="Tennant, E. Wyndham">E. Wyndham Tennant</docAuthor>
+<div id="clarke107" type="poem" n="Home Thoughts From Laventie"><docAuthor n="Tennant, E. Wyndham">E. Wyndham Tennant</docAuthor>
 <head rend="center">HOME THOUGHTS FROM LAVENTIE</head>
 
 <lg type="stanza">
@@ -5070,11 +5069,11 @@ have heard? <hi rend="italic">Oui, Com&#x00E9;die Fran&#x00E7;aise</hi>.</l>
 <l>And meadows, with their glittering streams -- and silver-scurrying dace --</l>
 <l rend="indent4">Home, what a perfect place!</l></lg>
 <byline>E. Wyndham Tennant</byline>
-</div2>
+</div>
 
 
 <pb n="166"/>
-<div2 id="clarke108" type="poem" n="A Petition">
+<div id="clarke108" type="poem" n="A Petition">
 <docAuthor n="Vernede, R. E. (Robert Ernest)">Robert Ernest Vern&#x00e8;de</docAuthor>
 <head rend="center">A PETITION</head>
 
@@ -5096,10 +5095,10 @@ have heard? <hi rend="italic">Oui, Com&#x00E9;die Fran&#x00E7;aise</hi>.</l>
 <l>May in thy ranks be deemed not unworthy,</l>
 <l rend="indent">England, for thee to die.</l></lg>
 <byline>Robert Ernest Vern&#x00E8;de</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke109" type="poem" n="Fulfilment"><docAuthor n="Nichols, Robert">Robert Nichols</docAuthor>
+<div id="clarke109" type="poem" n="Fulfilment"><docAuthor n="Nichols, Robert">Robert Nichols</docAuthor>
 <head rend="center">FULFILMENT</head>
 
 <lg type="stanza">
@@ -5133,10 +5132,10 @@ have heard? <hi rend="italic">Oui, Com&#x00E9;die Fran&#x00E7;aise</hi>.</l>
 <l>O loved, living, dying, heroic soldier,</l>
 <l>All, all my joy, my grief, my love, are thine.</l></lg>
 <byline>Robert Nichols</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke110" type="poem" n="The Day's March"><docAuthor n="Nichols, Robert">Robert Nichols</docAuthor>
+<div id="clarke110" type="poem" n="The Day's March"><docAuthor n="Nichols, Robert">Robert Nichols</docAuthor>
 <head rend="center">THE DAY'S MARCH</head>
 
 <lg type="stanza">
@@ -5207,10 +5206,10 @@ have heard? <hi rend="italic">Oui, Com&#x00E9;die Fran&#x00E7;aise</hi>.</l>
 <lg>
 <l>I lift my head and smile.</l></lg>
 <byline>Robert Nichols</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke111" type="poem" n="the Sign"><docAuthor n="Manning, Frederic">Frederic Manning</docAuthor>
+<div id="clarke111" type="poem" n="the Sign"><docAuthor n="Manning, Frederic">Frederic Manning</docAuthor>
 <head rend="center">THE SIGN</head>
 
 <lg type="stanza">
@@ -5243,11 +5242,11 @@ have heard? <hi rend="italic">Oui, Com&#x00E9;die Fran&#x00E7;aise</hi>.</l>
 <l>One bough of clear promise</l>
 <l>Across the moon.</l></lg>
 <byline>Frederic Manning</byline>
-</div2>
+</div>
 
 
 <pb n="170"/>
-<div2 id="clarke112" type="poem" n="The Trenches"><docAuthor n="Manning, Frederic">Frederic Manning</docAuthor>
+<div id="clarke112" type="poem" n="The Trenches"><docAuthor n="Manning, Frederic">Frederic Manning</docAuthor>
 <head rend="center">THE TRENCHES</head>
 
 <lg type="stanza">
@@ -5296,10 +5295,10 @@ have heard? <hi rend="italic">Oui, Com&#x00E9;die Fran&#x00E7;aise</hi>.</l>
 <l>And the sentry moves not, searching</l>
 <l>Night for menace with weary eyes.</l></lg>
 <byline>Frederic Manning</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke113" type="poem" n="Sonnets"><docAuthor n="Hutchinson, Henry William">Henry William Hutchinson</docAuthor>
+<div id="clarke113" type="poem" n="Sonnets"><docAuthor n="Hutchinson, Henry William">Henry William Hutchinson</docAuthor>
 <head rend="center">SONNETS</head>
 
 <lg>
@@ -5341,10 +5340,10 @@ have heard? <hi rend="italic">Oui, Com&#x00E9;die Fran&#x00E7;aise</hi>.</l>
 <l rend="indent">So they are gone; and sometimes we must weep,</l>
 <l>And sometimes, smiling, murmur, "Be it so!"</l></lg>
 <byline>Henry William Hutchinson</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke114" type="poem" n="The Messines Road"><docAuthor n="Stewart, J. E.">J. E. Stewart</docAuthor>
+<div id="clarke114" type="poem" n="The Messines Road"><docAuthor n="Stewart, J. E.">J. E. Stewart</docAuthor>
 <head rend="center">THE MESSINES ROAD</head>
 
 <lg>
@@ -5406,10 +5405,10 @@ have heard? <hi rend="italic">Oui, Com&#x00E9;die Fran&#x00E7;aise</hi>.</l>
 <l>Over and thro' all else between</l>
 <l rend="indent4">And give the highway back its state.</l></lg>
 <byline>J. E. Stewart</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke115" type="poem" n="The Challenge of the Guns"><docAuthor n="Field, A. N.">A. N. Field</docAuthor>
+<div id="clarke115" type="poem" n="The Challenge of the Guns"><docAuthor n="Field, A. N.">A. N. Field</docAuthor>
 <head rend="center">THE CHALLENGE OF THE GUNS</head>
 
 <lg type="stanza">
@@ -5426,10 +5425,10 @@ have heard? <hi rend="italic">Oui, Com&#x00E9;die Fran&#x00E7;aise</hi>.</l>
 <l>But bred of English bone, and reared on Freedom's wine,</l>
 <l>All that we have and are we lay on England's shrine.</l></lg>
 <byline>A. N. Field</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke116" type="poem" n="The Beach Road by the Wood"><docAuthor n="Howard, Geoffrey">Geoffrey Howard</docAuthor>
+<div id="clarke116" type="poem" n="The Beach Road by the Wood"><docAuthor n="Howard, Geoffrey">Geoffrey Howard</docAuthor>
 <head rend="center">THE BEACH ROAD BY THE WOOD</head>
 
 <lg type="stanza">
@@ -5492,10 +5491,10 @@ have heard? <hi rend="italic">Oui, Com&#x00E9;die Fran&#x00E7;aise</hi>.</l>
 <l>The song that I could never sing</l>
 <l rend="indent4">And the face I never found.</l></lg>
 <byline>Geoffrey Howard</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke117" type="poem" n="German Prisoners"><docAuthor n="Lee, Joseph">Joseph Lee</docAuthor>
+<div id="clarke117" type="poem" n="German Prisoners"><docAuthor n="Lee, Joseph">Joseph Lee</docAuthor>
 <head rend="center">GERMAN PRISONERS</head>
 
 <lg type="stanza">
@@ -5514,10 +5513,10 @@ have heard? <hi rend="italic">Oui, Com&#x00E9;die Fran&#x00E7;aise</hi>.</l>
 <l>I knew that we had suffered each as other,</l>
 <l>And could have grasped your hand and cried, "My brother!"</l></lg>
 <byline>Joseph Lee</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke118" type="poem" n="-- But a Short Time to Live"><docAuthor n="Coulson, Leslie">Leslie Coulson</docAuthor>
+<div id="clarke118" type="poem" n="-- But a Short Time to Live"><docAuthor n="Coulson, Leslie">Leslie Coulson</docAuthor>
 <head rend="center">"-- BUT A SHORT TIME TO LIVE"</head>
 
 <lg type="stanza">
@@ -5561,11 +5560,11 @@ have heard? <hi rend="italic">Oui, Com&#x00E9;die Fran&#x00E7;aise</hi>.</l>
 <l>So passes with the dying hymn</l>
 <l rend="indent">Our little hour.</l></lg>
 <byline>Leslie Coulson</byline>
-</div2>
+</div>
 
 
 <pb n="178"/>
-<div2 id="clarke119" type="poem" n="Before Action">
+<div id="clarke119" type="poem" n="Before Action">
 <docAuthor n="Hodgson, William Noel">W. N. Hodgson ("Edward Melbourne")</docAuthor>
 <head rend="center">BEFORE ACTION</head>
 
@@ -5599,11 +5598,11 @@ have heard? <hi rend="italic">Oui, Com&#x00E9;die Fran&#x00E7;aise</hi>.</l>
 <l>By all delights that I shall miss,</l>
 <l>Help me to die, O Lord.</l></lg>
 <byline>W. N. Hodgson ("Edward Melbourne")</byline>
-</div2>
+</div>
 
 
 <pb n="179"/>
-<div2 id="clarke120" type="poem" n="Courage"><docAuthor n="Hussey, Dyneley">Dyneley Hussey</docAuthor>
+<div id="clarke120" type="poem" n="Courage"><docAuthor n="Hussey, Dyneley">Dyneley Hussey</docAuthor>
 <head rend="center">COURAGE</head>
 
 <lg type="stanza">
@@ -5624,10 +5623,10 @@ have heard? <hi rend="italic">Oui, Com&#x00E9;die Fran&#x00E7;aise</hi>.</l>
 <l>And she doth calm our sorrow, soothe our pain,</l>
 <l>And she shall lead us back to peace again.</l></lg>
 <byline>Dyneley Hussey</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke121" type="poem" n="Optimism"><docAuthor n="Ratcliffe, A. Victor">A. Victor Ratcliffe</docAuthor>
+<div id="clarke121" type="poem" n="Optimism"><docAuthor n="Ratcliffe, A. Victor">A. Victor Ratcliffe</docAuthor>
 <head rend="center">OPTIMISM</head>
 
 <lg type="stanza">
@@ -5655,10 +5654,10 @@ have heard? <hi rend="italic">Oui, Com&#x00E9;die Fran&#x00E7;aise</hi>.</l>
 <l>Fell year unpitiful, slow days of scorn,</l>
 <l>Your kind shall die, and sweeter days be born.</l></lg>
 <byline>A. Victor Ratcliffe</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke122" type="poem" n="The Battlefield"><docAuthor n="Oswald, Sydney">Sydney Oswald</docAuthor>
+<div id="clarke122" type="poem" n="The Battlefield"><docAuthor n="Oswald, Sydney">Sydney Oswald</docAuthor>
 <head rend="center">THE BATTLEFIELD</head>
 
 <lg type="stanza">
@@ -5679,11 +5678,11 @@ have heard? <hi rend="italic">Oui, Com&#x00E9;die Fran&#x00E7;aise</hi>.</l>
 <l>To one grand theme, and through all barriers break</l>
 <l rend="indent">To guard from hurt his faithful sleeping friend.</l></lg>
 <byline>Sydney Oswald</byline>
-</div2>
+</div>
 
 
 <pb n="181"/>
-<div2 id="clarke123" type="poem" n="'On Les Aura!'"><docAuthor n="Knight-Adkin, James H.">James H. Knight-adkin</docAuthor>
+<div id="clarke123" type="poem" n="'On Les Aura!'"><docAuthor n="Knight-Adkin, James H.">James H. Knight-adkin</docAuthor>
 <head rend="center">"ON LES AURA!"</head>
 
 <lg type="stanza">
@@ -5712,10 +5711,10 @@ have heard? <hi rend="italic">Oui, Com&#x00E9;die Fran&#x00E7;aise</hi>.</l>
 <l><hi rend="italic">"On les aura!"</hi> See there! and there! soaked heaps of huddled grey!</l>
 <l>My fields shall laugh -- enriched by those who sought them for a prey.</l></lg>
 <byline>James H. Knight-Adkin</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke124" type="poem" n="To an Old Lady Seen at a Guesthouse for Soldiers"><docAuthor n="Robertson, Alexander">Alexander Robertson</docAuthor>
+<div id="clarke124" type="poem" n="To an Old Lady Seen at a Guesthouse for Soldiers"><docAuthor n="Robertson, Alexander">Alexander Robertson</docAuthor>
 <head rend="center">TO AN OLD LADY SEEN AT A GUESTHOUSE FOR SOLDIERS</head>
 
 <lg type="stanza">
@@ -5732,10 +5731,10 @@ have heard? <hi rend="italic">Oui, Com&#x00E9;die Fran&#x00E7;aise</hi>.</l>
 <l>Blest who have seen, for they shall ever see</l>
 <l>The radiance of thy benignity.</l></lg>
 <byline>Alexander Robertson</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke125" type="poem" n="The Casualty Clearing Station"><docAuthor n="Waterhouse, Gilbert">Gilbert Waterhouse</docAuthor>
+<div id="clarke125" type="poem" n="The Casualty Clearing Station"><docAuthor n="Waterhouse, Gilbert">Gilbert Waterhouse</docAuthor>
 <head rend="center">THE CASUALTY CLEARING STATION</head>
 
 <lg type="stanza">
@@ -5763,10 +5762,10 @@ have heard? <hi rend="italic">Oui, Com&#x00E9;die Fran&#x00E7;aise</hi>.</l>
 <l>And having crept beneath them slept</l>
 <l>Secure from war's alarms.</l></lg>
 <byline>Gilbert Waterhouse</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke126" type="poem" n="Hills of Home"><docAuthor n="Hemphrey, Malcolm">Malcolm Hemphrey</docAuthor>
+<div id="clarke126" type="poem" n="Hills of Home"><docAuthor n="Hemphrey, Malcolm">Malcolm Hemphrey</docAuthor>
 <head rend="center">HILLS OF HOME</head>
 
 <lg type="stanza">
@@ -5789,16 +5788,16 @@ sunlight, and the green leaves paled to gold,</l>
 <l>There, a bright face and a clear hearth will be waiting when I come,</l>
 <l>And my heart is throbbing wildly for those distant hills of home.</l></lg>
 <byline>Malcolm Hemphrey</byline>
-</div2>
-</div1>
+</div>
+</div>
 
 <pb n="185"/>
-<div1 id="clarke127" type="Chapter" n="Auxiliaries">
+<div id="clarke127" type="Chapter" n="Auxiliaries">
 <head rend="center">AUXILIARIES</head>
 <pb n="186"/>
 
 <pb n="187"/>
-<div2 id="clarke128" type="poem" n="The Red Cross Spirit Speaks"><docAuthor n="Finley, John">John Finley</docAuthor>
+<div id="clarke128" type="poem" n="The Red Cross Spirit Speaks"><docAuthor n="Finley, John">John Finley</docAuthor>
 <head rend="center">THE RED CROSS SPIRIT SPEAKS</head>
 
 <lg type="stanza">
@@ -5850,10 +5849,10 @@ sunlight, and the green leaves paled to gold,</l>
 <l>Who suffers on the hellish rim</l>
 <l rend="indent4">Of war's red line.</l></lg>
 <byline>John Finley</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke129" type="poem" n="Chaplain to the Forces"><docAuthor n="Letts, Winifred M.">Winifred M. Letts</docAuthor>
+<div id="clarke129" type="poem" n="Chaplain to the Forces"><docAuthor n="Letts, Winifred M.">Winifred M. Letts</docAuthor>
 <head rend="center">CHAPLAIN TO THE FORCES</head>
 <note anchored="yes" place="inline">
 ["I have once more to remark upon the devotion to
@@ -5911,10 +5910,10 @@ French, in the Nueve Chapelle dispatch</hi>.]
 <l>Above the anguish and the loss</l>
 <l>Still floats the ensign of His Cross.</l></lg>
 <byline>Winifred M. Letts</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke130" type="poem" n="Song of the Red Cross"><docAuthor n="Phillpotts, Eden">Eden Phillpotts</docAuthor>
+<div id="clarke130" type="poem" n="Song of the Red Cross"><docAuthor n="Phillpotts, Eden">Eden Phillpotts</docAuthor>
 <head rend="center">SONG OF THE RED CROSS</head>
 
 <lg type="stanza">
@@ -5940,10 +5939,10 @@ French, in the Nueve Chapelle dispatch</hi>.]
 <l>Sons of a morning to be born shall sing</l>
 <l rend="indent">The radiant Cross of Red.</l></lg>
 <byline>Eden Phillpotts</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke131" type="poem" n="The Healers"><docAuthor n="Binyon, Laurence">Laurence Binyon</docAuthor>
+<div id="clarke131" type="poem" n="The Healers"><docAuthor n="Binyon, Laurence">Laurence Binyon</docAuthor>
 <head rend="center">THE HEALERS</head>
 
 <lg type="stanza">
@@ -6001,11 +6000,11 @@ French, in the Nueve Chapelle dispatch</hi>.]
 <l>What song shall be worthy to sing of them --</l>
 <l rend="indent4">Braver than the brave?</l></lg>
 <byline>Laurence Binyon</byline>
-</div2>
+</div>
 
 
 <pb n="192"/>
-<div2 id="clarke132" type="poem" n="The Red Cross Nurses"><docAuthor n="Masson, Thomas L.">Thomas L. Masson</docAuthor>
+<div id="clarke132" type="poem" n="The Red Cross Nurses"><docAuthor n="Masson, Thomas L.">Thomas L. Masson</docAuthor>
 <head rend="center">THE RED CROSS NURSES</head>
 
 <lg type="stanza">
@@ -6028,16 +6027,16 @@ French, in the Nueve Chapelle dispatch</hi>.]
 <l>God looking through their gentle eyes,</l>
 <l>The Red Cross nurses stand.</l></lg>
 <byline>Thomas L. Masson</byline>
-</div2>
-</div1>
+</div>
+</div>
 
 <pb n="193"/>
-<div1 id="clarke133" type="Chapter" n="Keeping the Seas">
+<div id="clarke133" type="Chapter" n="Keeping the Seas">
 <head rend="center">KEEPING THE SEAS</head>
 <pb n="194"/>
 
 <pb n="195"/>
-<div2 id="clarke134" type="poem" n="Kilmeny"><docAuthor n="Noyes, Alfred">Alfred Noyes</docAuthor>
+<div id="clarke134" type="poem" n="Kilmeny"><docAuthor n="Noyes, Alfred">Alfred Noyes</docAuthor>
 <head rend="center">KILMENY</head>
 <head rend="center">(A <hi rend="smallcap">Song of the Trawlers</hi>)</head>
 
@@ -6078,10 +6077,10 @@ French, in the Nueve Chapelle dispatch</hi>.]
 <l>Late, late in the evening <hi rend="italic">Kilmeny</hi> came home,</l>
 <l rend="indent">And nobody knew where <hi rend="italic">Kilmeny</hi> had been.</l></lg>
 <byline>Alfred Noyes</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke135" type="poem" n="The Mine-Sweepers"><docAuthor n="Kipling, Rudyard">Rudyard Kipling</docAuthor>
+<div id="clarke135" type="poem" n="The Mine-Sweepers"><docAuthor n="Kipling, Rudyard">Rudyard Kipling</docAuthor>
 <head rend="center">THE MINE-SWEEPERS</head>
 
 <lg type="stanza">
@@ -6112,10 +6111,10 @@ French, in the Nueve Chapelle dispatch</hi>.]
 <l rend="indent">No more mines remain.</l>
 <l>Sent back <hi rend="italic">Unity</hi>, <hi rend="italic">Claribel</hi>, <hi rend="italic">Assyrian</hi>, <hi rend="italic">Stormcock</hi>, and <hi rend="italic">Golden Gain</hi>."</l></lg>
 <byline>Rudyard Kipling</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke136" type="poem" n="Mare Liberum"
+<div id="clarke136" type="poem" n="Mare Liberum"
 sample="complete" org="uniform"><docAuthor n="Van Dyke, Henry">Henry van Dyke</docAuthor>
 <head rend="center"><hi rend="italic">MARE LIBERUM</hi></head>
 
@@ -6157,10 +6156,10 @@ sample="complete" org="uniform"><docAuthor n="Van Dyke, Henry">Henry van Dyke</d
 <l>Till Liberty is safe on sea and shore.</l></lg>
 <byline>Henry van Dyke</byline>
 <dateline><date>February 11, 1917</date></dateline>
-</div2>
+</div>
 
 
-<div2 id="clarke137" type="poem" n="The Dawn Patrol"><docAuthor n="Bewsher, Paul">Paul Bewsher</docAuthor>
+<div id="clarke137" type="poem" n="The Dawn Patrol"><docAuthor n="Bewsher, Paul">Paul Bewsher</docAuthor>
 <head rend="center">THE DAWN PATROL</head>
 
 <lg type="stanza">
@@ -6209,10 +6208,10 @@ sample="complete" org="uniform"><docAuthor n="Van Dyke, Henry">Henry van Dyke</d
 <l rend="indent">Then bow my humble head,</l>
 <l>In thanks to Him Who brings me safely home.</l></lg>
 <byline>Paul Bewsher</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke138" type="poem" n="Destroyers Off Jutland"><docAuthor n="Cleveland, Reginald Mcintosh">Reginald Mcintosh Cleveland</docAuthor>
+<div id="clarke138" type="poem" n="Destroyers Off Jutland"><docAuthor n="Cleveland, Reginald Mcintosh">Reginald Mcintosh Cleveland</docAuthor>
 <head rend="center">DESTROYERS OFF JUTLAND</head>
 <note anchored="yes" place="inline">
 ["If lost hounds could speak when they cast up next
@@ -6239,10 +6238,10 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l rend="indent">Staunch-hearted through the hunt, as they were born,</l>
 <l rend="indent4">These hounds that England suckled at the birth.</l></lg>
 <byline>Reginald McIntosh Cleveland</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke139" type="poem" n="British Merchant Service"><docAuthor n="Smith, C. Fox">C. Fox Smith</docAuthor>
+<div id="clarke139" type="poem" n="British Merchant Service"><docAuthor n="Smith, C. Fox">C. Fox Smith</docAuthor>
 <head rend="center">BRITISH MERCHANT SERVICE</head>
 
 <lg type="stanza">
@@ -6294,16 +6293,16 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l>And what or where he won't much care, nor ask what the risk may be ...</l>
 <l>For a tight place is the right place when it's wild weather at sea!</l></lg>
 <byline>C. Fox Smith</byline>
-</div2>
-</div1>
+</div>
+</div>
 
 <pb n="203"/>
-<div1 id="clarke140" type="Chapter" n="The Wounded">
+<div id="clarke140" type="Chapter" n="The Wounded">
 <head rend="center">THE WOUNDED</head>
 <pb n="204"/>
 
 <pb n="205"/>
-<div2 id="clarke141" type="poem" n="To a Soldier in Hospital"><docAuthor n="Letts, Winifred M.">Winifred M. Letts</docAuthor>
+<div id="clarke141" type="poem" n="To a Soldier in Hospital"><docAuthor n="Letts, Winifred M.">Winifred M. Letts</docAuthor>
 <head rend="center">TO A SOLDIER IN HOSPITAL</head>
 
 <lg type="stanza">
@@ -6371,11 +6370,11 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l>Since God made man so good -- here stands my creed --</l>
 <l rend="indent9">God's good indeed.</l></lg>
 <byline>Winifred M. Letts</byline>
-</div2>
+</div>
 
 
 <pb n="207"/>
-<div2 id="clarke142" type="poem" n="Between the Lines"><docAuthor n="Gibson, Wilfrid Wilson">Wilfrid Wilson Gibson</docAuthor>
+<div id="clarke142" type="poem" n="Between the Lines"><docAuthor n="Gibson, Wilfrid Wilson">Wilfrid Wilson Gibson</docAuthor>
 <head rend="center">BETWEEN THE LINES</head>
 
 <lg type="stanza">
@@ -6566,10 +6565,10 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l>Faded at last, and as the darkness fell</l>
 <l>He rose, and crawled away into the night.</l></lg>
 <byline>Wilfrid Wilson Gibson</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke143" type="poem" n="The White Comrade"><docAuthor n="Schauffler, Robert Haven">Robert Haven Schauffler</docAuthor>
+<div id="clarke143" type="poem" n="The White Comrade"><docAuthor n="Schauffler, Robert Haven">Robert Haven Schauffler</docAuthor>
 <head rend="center">THE WHITE COMRADE</head>
 <head rend="center">(<hi rend="smallcap">After</hi> W. H. <hi rend="smallcap">Leatham's</hi> <hi rend="italic">The Comrade in White</hi>)</head>
 
@@ -6672,10 +6671,10 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l>"These are old wounds," said he,</l>
 <l>"But of late they have troubled me."</l></lg>
 <byline>Robert Haven Schauffler</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke144" type="poem" n="Fleurette"><docAuthor n="Service, Robert W.">Robert W. Service</docAuthor>
+<div id="clarke144" type="poem" n="Fleurette"><docAuthor n="Service, Robert W.">Robert W. Service</docAuthor>
 <head rend="center">FLEURETTE</head>
 
 <lg type="stanza">
@@ -6817,11 +6816,11 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l>Can you wonder now I am gay?</l>
 <l>God bless her, that little Fleurette!</l></lg>
 <byline>Robert W. Service</byline>
-</div2>
+</div>
 
 
 <pb n="219"/>
-<div2 id="clarke145" type="poem" n="Not to Keep"><docAuthor n="Frost, Robert">Robert Frost</docAuthor>
+<div id="clarke145" type="poem" n="Not to Keep"><docAuthor n="Frost, Robert">Robert Frost</docAuthor>
 <head rend="center">NOT TO KEEP</head>
 
 <lg type="stanza">
@@ -6849,17 +6848,17 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l>And with his eyes he asked her not to ask.</l>
 <l>They had given him back to her, but not to keep.</l></lg>
 <byline>Robert Frost</byline>
-</div2>
-</div1>
+</div>
+</div>
 <pb n="220"/>
 
 <pb n="221"/>
-<div1 id="clarke146" type="Chapter" n="The Fallen">
+<div id="clarke146" type="Chapter" n="The Fallen">
 <head rend="center">THE FALLEN</head>
 <pb n="222"/>
 
 <pb n="223"/>
-<div2 id="clarke147" type="poem" n="The Dead"><docAuthor n="Brooke, Rupert">Rupert Brooke</docAuthor>
+<div id="clarke147" type="poem" n="The Dead"><docAuthor n="Brooke, Rupert">Rupert Brooke</docAuthor>
 <head rend="center">THE DEAD</head>
 
 <lg type="stanza">
@@ -6901,10 +6900,10 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l>Unbroken glory, a gathered radiance,</l>
 <l rend="indent">A width, a shining peace, under the night.</l></lg>
 <byline>Rupert Brooke</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke148" type="poem" n="The Island of Skyros"><docAuthor n="Masefield, John">John Masefield</docAuthor>
+<div id="clarke148" type="poem" n="The Island of Skyros"><docAuthor n="Masefield, John">John Masefield</docAuthor>
 <head rend="center">THE ISLAND OF SKYROS</head>
 
 <lg type="stanza">
@@ -6940,10 +6939,10 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l>While I, who pass, a little obscure thing,</l>
 <l>War with this force, and breathe, and am its king."</l></lg>
 <byline>John Masefield</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke149" type="poem" n="For the Fallen"><docAuthor n="Binyon, Laurence">Laurence Binyon</docAuthor>
+<div id="clarke149" type="poem" n="For the Fallen"><docAuthor n="Binyon, Laurence">Laurence Binyon</docAuthor>
 <head rend="center">FOR THE FALLEN</head>
 
 <lg type="stanza">
@@ -6989,10 +6988,10 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l>As the stars that are starry in the time of our darkness,</l>
 <l>To the end, to the end, they remain.</l></lg>
 <byline>Laurence Binyon</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke150" type="poem" n="Two Sonnets"><docAuthor n="Sorley, Charles Hamilton">Charles Hamilton Sorley</docAuthor>
+<div id="clarke150" type="poem" n="Two Sonnets"><docAuthor n="Sorley, Charles Hamilton">Charles Hamilton Sorley</docAuthor>
 <head rend="center">TWO SONNETS</head>
 
 <lg>
@@ -7037,10 +7036,10 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l>And blossoms and is you, when you are dead.</l></lg>
 <byline>Charles Hamilton Sorley</byline>
 <dateline><date>June 12, 1915</date></dateline>
-</div2>
+</div>
 
 
-<div2 id="clarke151" type="poem" n="How Sleep the Brave"><docAuthor n="De la Mare, Walter">Walter de la Mare</docAuthor>
+<div id="clarke151" type="poem" n="How Sleep the Brave"><docAuthor n="De la Mare, Walter">Walter de la Mare</docAuthor>
 <head rend="center">"HOW SLEEP THE BRAVE"</head>
 
 <lg type="stanza">
@@ -7062,10 +7061,10 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l>Be it for joy that those who sleep</l>
 <l rend="indent">Only thy joy could share.</l></lg>
 <byline>Walter de la Mare</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke152" type="poem" n="The Debt"><docAuthor n="Lucas, E. V.">E. V. Lucas</docAuthor>
+<div id="clarke152" type="poem" n="The Debt"><docAuthor n="Lucas, E. V.">E. V. Lucas</docAuthor>
 <head rend="center">THE DEBT</head>
 
 <lg type="stanza">
@@ -7137,10 +7136,10 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l>And all our lives go on the same</l>
 <l>(Although to live is almost shame).</l></lg>
 <byline>E. V. Lucas</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke153" type="poem" n="Requiescant"><docAuthor n="Scott, Frederick George">Frederick George Scott</docAuthor>
+<div id="clarke153" type="poem" n="Requiescant"><docAuthor n="Scott, Frederick George">Frederick George Scott</docAuthor>
 <head rend="center"><hi rend="italic">REQUIESCANT</hi></head>
 
 <lg type="stanza">
@@ -7169,11 +7168,11 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <byline>Frederick George Scott</byline>
 <dateline><name type="place">In a Field near Ypres</name>
 <lb/><date>April, 1915</date></dateline>
-</div2>
+</div>
 
 
 <pb n="231"/>
-<div2 id="clarke154" type="poem" n="To Our Fallen">
+<div id="clarke154" type="poem" n="To Our Fallen">
 <docAuthor n="Vernede, R. E. (Robert Ernest)">Robert Ernest Vern&#x00e8;de</docAuthor>
 <head rend="center">TO OUR FALLEN</head>
 
@@ -7207,11 +7206,11 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l>Is this the thing you died for?</l>
 <l rend="indent">Oh, Brothers, sleep in peace!</l></lg>
 <byline>Robert Ernest Vern&#x00E8;de</byline>
-</div2>
+</div>
 
 
 <pb n="232"/>
-<div2 id="clarke155" type="poem" n="The Old Soldier"><docAuthor n="Tynan, Katharine">Katharine Tynan</docAuthor>
+<div id="clarke155" type="poem" n="The Old Soldier"><docAuthor n="Tynan, Katharine">Katharine Tynan</docAuthor>
 <head rend="center">THE OLD SOLDIER</head>
 
 <lg type="stanza">
@@ -7232,10 +7231,10 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l>Dear is the friend's face, honest and comely,</l>
 <l rend="indent">Waiting to welcome them by the strange door.</l></lg>
 <byline>Katharine Tynan</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke156" type="poem" n="Lord Kitchener"><docAuthor n="Bridges, Robert">Robert Bridges</docAuthor>
+<div id="clarke156" type="poem" n="Lord Kitchener"><docAuthor n="Bridges, Robert">Robert Bridges</docAuthor>
 <head rend="center">LORD KITCHENER</head>
 
 <lg type="stanza">
@@ -7258,10 +7257,10 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l rend="indent">By the lone Orkneys, at the set of sun.</l></lg>
 <byline>Robert Bridges</byline>
 <dateline><date>June 8, 1916</date></dateline>
-</div2>
+</div>
 
 
-<div2 id="clarke157" type="poem" n="Kitchener"><docAuthor n="Helston, John">John Helston</docAuthor>
+<div id="clarke157" type="poem" n="Kitchener"><docAuthor n="Helston, John">John Helston</docAuthor>
 <head rend="center">KITCHENER</head>
 
 <lg type="stanza">
@@ -7313,10 +7312,10 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l>He would not be gainsaid....</l>
 <l>Though where his bones are, no man knows, not one!"</l></lg>
 <byline>John Helston</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke158" type="poem" n="The Fallen Subaltern"><docAuthor n="Asquith, Herbert">Herbert Asquith</docAuthor>
+<div id="clarke158" type="poem" n="The Fallen Subaltern"><docAuthor n="Asquith, Herbert">Herbert Asquith</docAuthor>
 <head rend="center">THE FALLEN SUBALTERN</head>
 
 <lg type="stanza">
@@ -7351,10 +7350,10 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l rend="indent">To us, who march upon their burial-ground.</l></lg>
 <byline>Herbert Asquith</byline>
 <dateline><date>1915</date></dateline>
-</div2>
+</div>
 
 
-<div2 id="clarke159" type="poem" n="The Debt Unpayable"><docAuthor n="Bourdillon, F. W.">F. W. Bourdillon</docAuthor>
+<div id="clarke159" type="poem" n="The Debt Unpayable"><docAuthor n="Bourdillon, F. W.">F. W. Bourdillon</docAuthor>
 <head rend="center">THE DEBT UNPAYABLE</head>
 
 <lg type="stanza">
@@ -7382,10 +7381,10 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l>It withereth</l>
 <l rend="indent">(God grant) all weeds in ours.</l></lg>
 <byline>F. W. Bourdillon</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke160" type="poem" n="The Messages"><docAuthor n="Gibson, Wilfrid Wilson">Wilfrid Wilson Gibson</docAuthor>
+<div id="clarke160" type="poem" n="The Messages"><docAuthor n="Gibson, Wilfrid Wilson">Wilfrid Wilson Gibson</docAuthor>
 <head rend="center">THE MESSAGES</head>
 
 <lg type="stanza">
@@ -7413,11 +7412,11 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l>Dropt dead beside me in the trench -- and three</l>
 <l>Whispered their dying messages to me...."</l></lg>
 <byline>Wilfrid Wilson Gibson</byline>
-</div2>
+</div>
 
 
 <pb n="237"/>
-<div2 id="clarke161" type="poem" n="A Cross in Flanders"><docAuthor n="Hamilton, G. Rostrevor">G. Rostrevor Hamilton</docAuthor>
+<div id="clarke161" type="poem" n="A Cross in Flanders"><docAuthor n="Hamilton, G. Rostrevor">G. Rostrevor Hamilton</docAuthor>
 <head rend="center">A CROSS IN FLANDERS</head>
 
 <lg type="stanza">
@@ -7444,11 +7443,11 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l>Yes, he was brave, most brave, with laughter on his lips</l>
 <l rend="indent">The braver for his fear!</l></lg>
 <byline>G. Rostrevor Hamilton</byline>
-</div2>
+</div>
 
 
 <pb n="238"/>
-<div2 id="clarke162" type="poem" n="Resurrection"><docAuthor n="Hagedorn, Hermann">Hermann Hagedorn</docAuthor>
+<div id="clarke162" type="poem" n="Resurrection"><docAuthor n="Hagedorn, Hermann">Hermann Hagedorn</docAuthor>
 <head rend="center">RESURRECTION</head>
 
 <lg type="stanza">
@@ -7478,10 +7477,10 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l>And watched the starlight perish in pale flame</l>
 <l>Wondering what God would look like when He came.</l></lg>
 <byline>Hermann Hagedorn</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke163" type="poem" n="To a Hero"><docAuthor n="Child, Oscar C. A.">Oscar C. A. Child</docAuthor>
+<div id="clarke163" type="poem" n="To a Hero"><docAuthor n="Child, Oscar C. A.">Oscar C. A. Child</docAuthor>
 <head rend="center">TO A HERO</head>
 
 <lg type="stanza">
@@ -7502,10 +7501,10 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l>The grail of death; that, touched by valor's flame,</l>
 <l rend="indent">The kindled spirit burned the body up.</l></lg>
 <byline>Oscar C. A. Child</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke164" type="poem" n="Rupert Brooke"><docAuthor n="Dalton, Moray">Moray Dalton</docAuthor>
+<div id="clarke164" type="poem" n="Rupert Brooke"><docAuthor n="Dalton, Moray">Moray Dalton</docAuthor>
 <head rend="center">RUPERT BROOKE</head>
 <head rend="center">(<hi rend="smallcap">In Memoriam</hi>)</head>
 
@@ -7522,10 +7521,10 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l>A hero of the great new Odyssey,</l>
 <l rend="indent">And God has laid His finger on your lips.</l></lg>
 <byline>Moray Dalton</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke165" type="poem" n="The Players"><docAuthor n="Bickley, Francis">Francis Bickley</docAuthor>
+<div id="clarke165" type="poem" n="The Players"><docAuthor n="Bickley, Francis">Francis Bickley</docAuthor>
 <head rend="center">THE PLAYERS</head>
 
 <lg type="stanza">
@@ -7534,10 +7533,10 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l>Being recompensed beyond our sacrifice</l>
 <l rend="indent">With that nor Death nor Time can take away.</l></lg>
 <byline>Francis Bickley</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke166" type="poem" n="A Song"><docAuthor n="Richmond, Charles Alexander">Charles Alexander Richmond</docAuthor>
+<div id="clarke166" type="poem" n="A Song"><docAuthor n="Richmond, Charles Alexander">Charles Alexander Richmond</docAuthor>
 <head rend="center">A SONG</head>
 
 <lg type="stanza">
@@ -7558,16 +7557,16 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l>So red, and a lily of France so pale,</l>
 <l>Will grow for a love that never and never can fail.</l></lg>
 <byline>Charles Alexander Richmond</byline>
-</div2>
-</div1>
+</div>
+</div>
 
 <pb n="241"/>
-<div1 id="clarke167" type="Chapter" n="Women and the War">
+<div id="clarke167" type="Chapter" n="Women and the War">
 <head rend="center">WOMEN AND THE WAR</head>
 <pb n="242"/>
 
 <pb n="243"/>
-<div2 id="clarke168" type="poem" n="Harvest Moon"><docAuthor n="Peabody, Josephine Preston">Josephine Preston Peabody</docAuthor>
+<div id="clarke168" type="poem" n="Harvest Moon"><docAuthor n="Peabody, Josephine Preston">Josephine Preston Peabody</docAuthor>
 <head rend="center">HARVEST MOON</head>
 
 <lg type="stanza">
@@ -7623,10 +7622,10 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l>She looked; and went her way,</l>
 <l>The Harvest Moon.</l></lg>
 <byline>Josephine Preston Peabody</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke169" type="poem" n="Harvest Moon: 1916"><docAuthor n="Peabody, Josephine Preston">Josephine Preston Peabody</docAuthor>
+<div id="clarke169" type="poem" n="Harvest Moon: 1916"><docAuthor n="Peabody, Josephine Preston">Josephine Preston Peabody</docAuthor>
 <head rend="center">HARVEST MOON: 1916</head>
 
 <lg type="stanza">
@@ -7672,10 +7671,10 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l rend="italic">And let light perpetual shine upon them;</l>
 <l rend="indent14"><hi rend="italic">Light, everlasting.</hi></l></lg>
 <byline>Josephine Preston Peabody</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke170" type="poem" n="My Son"><docAuthor n="Tyrrell, Ada">Ada Tyrrell</docAuthor>
+<div id="clarke170" type="poem" n="My Son"><docAuthor n="Tyrrell, Ada">Ada Tyrrell</docAuthor>
 <head rend="center">MY SON</head>
 
 <lg type="stanza">
@@ -7715,10 +7714,10 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l>I only pray that God may shield</l>
 <l rend="indent4">My son, and bring him safely back to me!</l></lg>
 <byline>Ada Tyrrell</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke171" type="poem" n="To the Others"><docAuthor n="Tynan, Katharine">Katharine Tynan</docAuthor>
+<div id="clarke171" type="poem" n="To the Others"><docAuthor n="Tynan, Katharine">Katharine Tynan</docAuthor>
 <head rend="center">TO THE OTHERS</head>
 
 <lg type="stanza">
@@ -7758,10 +7757,10 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l>Your son and my son for the Great Crusade,</l>
 <l>With the banner of Christ over them -- our knights new-made.</l></lg>
 <byline>Katharine Tynan</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke172" type="poem" n="The Journey"><docAuthor n="Norton, Grace Fallow">Grace Fallow Norton</docAuthor>
+<div id="clarke172" type="poem" n="The Journey"><docAuthor n="Norton, Grace Fallow">Grace Fallow Norton</docAuthor>
 <head rend="center">THE JOURNEY</head>
 
 <lg type="stanza">
@@ -7844,10 +7843,10 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l>I turn unto my homeland,</l>
 <l>All my journey sung!</l></lg>
 <byline>Grace Fallow Norton</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke173" type="poem" n="A Mother's Dedication"><docAuthor n="Peterson, Margaret">Margaret Peterson</docAuthor>
+<div id="clarke173" type="poem" n="A Mother's Dedication"><docAuthor n="Peterson, Margaret">Margaret Peterson</docAuthor>
 <head rend="center">A MOTHER'S DEDICATION</head>
 
 <lg type="stanza">
@@ -7869,10 +7868,10 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l>You are my all, I give you to the Nation,</l>
 <l>God shall uphold you that you fight aright.</l></lg>
 <byline>Margaret Peterson</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke174" type="poem" n="To a Mother"><docAuthor n="Phillpotts, Eden">Eden Phillpotts</docAuthor>
+<div id="clarke174" type="poem" n="To a Mother"><docAuthor n="Phillpotts, Eden">Eden Phillpotts</docAuthor>
 <head rend="center">TO A MOTHER</head>
 
 <lg type="stanza">
@@ -7893,10 +7892,10 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l>Content you; for the dawn this night restores</l>
 <l>Shall be the dayspring of his soul and yours.</l></lg>
 <byline>Eden Phillpotts</byline>
-</div2>
+</div>
 
 
-<div2 id="clarke175" type="poem" n="Spring in War-Time"><docAuthor n="Teasdale, Sara">Sara Teasdale</docAuthor>
+<div id="clarke175" type="poem" n="Spring in War-Time"><docAuthor n="Teasdale, Sara">Sara Teasdale</docAuthor>
 <head rend="center">SPRING IN WAR-TIME</head>
 
 <lg type="stanza">
@@ -7928,9 +7927,9 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <l rend="indent4">Parted by Death,</l>
 <l rend="indent4">Grey Death?</l></lg>
 <byline>Sara Teasdale</byline>
-</div2>
+</div>
 <pb n="252"/>
-</div1>
+</div>
 
 </body>
 
@@ -7939,7 +7938,7 @@ would talk much as our destroyers do." -- <hi rend="italic">Rudyard Kipling</hi>
 <back>
 
 <pb n="253"/>
-<div1 id="Clarke176" type="notes" n="Occasional Notes">
+<div id="Clarke176" type="notes" n="Occasional Notes">
 <head rend="center">OCCASIONAL NOTES</head>
 <pb n="254"/>
 
@@ -8129,7 +8128,7 @@ Somme in September of the following year, but returned to the front <pb n="261"/
 <p>
 <hi rend="smallcap">Wharton, Edith</hi>. She has written <hi rend="italic">Fighting France</hi>, etc.</p>
 
-</div1>
+</div>
 </back>
 </text>
 </TEI.2>

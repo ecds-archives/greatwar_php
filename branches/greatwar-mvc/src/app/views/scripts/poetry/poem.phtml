@@ -1,14 +1,14 @@
-<div class="poem">
-<p class="head"><?= $this->poem->n ?></p>
-   <p class="subhead"><? if (isset($this->poem->docAuthor) && $this->poem->docAuthor): ?><?= $this->poem->docAuthor ?>
-   <? endif ?>
-</p>
-   
-	  <? foreach ($this->poem->lg as $group): ?><p>
-		<? $this->partial("poetry/_poem_line.phtml", array("group" => $group)) ?>
-											  <?// endforeach ?>
-          </p><? endforeach ?>
+<? $base = $this->linkTo('self');  
+ $xsl_opts = array('mode' => "poem");
+if (isset($this->self)) $xsl_opts["selflink"] = $this->self;
+if (isset($this->base)) $xsl_opts["base"] = $this->base; ?>
+<? if (preg_match("/poem/i", $this->poem->type)): ?><div class="poem">
+<? else :?><div class="essay"><? endif ?>
+      
+    <?= $this->xslTransform($this->poem->text->saveXML(), "poetry.xsl", $xsl_opts); ?>
+    </div>
 
- <? if (isset($this->poem->byline) && $this->poem->byline): ?><p class="byline"><?= $this->poem->byline ?></p><? endif ?>
-</div>
-											  <pre><? //print_r($this->poem) ?></pre> <!-- outputs the array; view source for xml -->
+
+
+
+  <pre><? //print_r($this->poem) ?></pre> <!-- outputs the array; view source for xml -->

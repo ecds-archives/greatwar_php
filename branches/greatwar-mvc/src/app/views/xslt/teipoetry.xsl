@@ -5,6 +5,8 @@
 	xmlns:ino="http://namespaces.softwareag.com/tamino/response2" 
 	xmlns:xql="http://metalab.unc.edu/xql/">
 
+
+
 <!-- templates to transform & display TEI poetry -->
 
 
@@ -75,7 +77,7 @@
 <!-- line group -->
 <xsl:template match="lg">
   <xsl:element name="p">
-     <xsl:attribute name="class"><xsl:value-of select="@type"/></xsl:attribute>
+     <xsl:attribute name="class">stanza</xsl:attribute>
     <xsl:apply-templates />
   </xsl:element>
 </xsl:template>

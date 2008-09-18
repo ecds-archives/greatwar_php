@@ -2,14 +2,13 @@
 
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0"
 	xmlns:html="http://www.w3.org/TR/REC-html40" 
-	xmlns:ino="http://namespaces.softwareag.com/tamino/response2" 
 	xmlns:xql="http://metalab.unc.edu/xql/">
 
 <!-- Note: all links in this stylesheet should be relative to the root
      directory of the entire site. -->
 
 <xsl:include href="teipoetry.xsl"/>
-<xsl:include href="teinote.xsl"/>
+<xsl:include href="footnotes.xsl"/>
 <xsl:include href="convertcase.xsl"/>
 
 <xsl:param name="mode"/>
@@ -371,6 +370,7 @@
   <p><xsl:apply-templates/></p>
 </xsl:template>
 
+<!-- set url in poem.phtml
 <xsl:template match="div" mode="poem">
 
   <p class="source">Contents - 
@@ -381,7 +381,7 @@
   </p>
 
 
-  <xsl:apply-templates select="div2" mode="poem"/>
+  <xsl:apply-templates select="div" mode="poem"/>
 
   <p class="source"> from 
   <a>
@@ -399,28 +399,23 @@
 
   <xsl:apply-templates select="teiHeader"/>
 </xsl:template>
+-->
+<xsl:template match="div" mode="poem">
 
-<xsl:template match="div2" mode="poem">
- <table class="poem">
-  <tr><td>
    <!-- ignore docAuthor in poem mode -->
    <xsl:apply-templates select="*[not(self::docAuthor)]"/>
-  </td></tr>
- </table>
 
   <xsl:call-template name="endnotes"/>
 </xsl:template>
 
 <!-- offset div3 poems a little, and give them a name anchor to link to -->
-<xsl:template match="div3[@type='poem']">
- <table class="poem">
-  <tr><td>
-  <a>
+<xsl:template match="div/div[@type='poem']">
+ <div class="poem">
+    <a>
    <xsl:attribute name="name"><xsl:value-of select="@id"/></xsl:attribute>
   </a>
   <xsl:apply-templates select="*[not(self::docAuthor)]"/>  
-  </td></tr>
- </table>
+ </div>
 
 </xsl:template>
 

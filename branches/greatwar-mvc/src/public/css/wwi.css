@@ -126,8 +126,9 @@ table.maxdisplay select,input,submit { font-size: 85%; padding: 0; }
 
 div.index { margin: auto; text-align: center; width: 600px;}
 table.indexlinks { width: 750px; padding: 0; }
-table.indexlinks td { width: 24%; text-align: center; vertical-align: middle; }
+table.indexlinks td { width: 17%; text-align: center; vertical-align: middle; }
 table.indexlinks td.separator { width: 2%;}
+
 
 
 /* index search - on the front page */
@@ -199,8 +200,8 @@ table.searchform td { text-align: left; vertical-align: middle; background-color
 font.type { color: #b9b9b9; padding-left: 10px; font-size: 80%;vertical-align: middle;}
 p.copyright { color: #666666; margin-top: 25px; border-top: double;
 padding: 5px; }
-div.poem { margin: 25px; }
-div.poem td { text-align: left; }
+div.poem { margin: 25px; text-align: left; width: 800px; }
+div.poem td {  }
 p.head { font-weight: bold; font-size: 115%; }
 p.subhead { font-weight: bold; font-size: 105%; }
 p.argument { width: 60%; }

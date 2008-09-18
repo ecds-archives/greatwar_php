@@ -7,32 +7,24 @@ class Tei extends Emory_Xml_Tei {
   
   protected function configure() {
     parent::configure();
-    //$this->xmlconfig['author']['xpath'] =  "teiHeader/fileDesc/titleStmt/author/name";
-    //$this->xmlconfig['editor']['xpath'] =  "teiHeader/fileDesc/titleStmt/editor/name";
-    $this->xmlconfig['front']['xpath'] =  "text/front"; 
-    $this->xmlconfig['front']['is_series'] = "true";
-    $this->xmlconfig['front']['class_name'] = "TeiDiv";
-    $this->xmlconfig['body']['xpath'] = "text/body";
-    $this->xmlconfig['fdiv']['xpath'] = "text/front/div";
-    $this->xmlconfig['fdiv']['is_series'] = "true";
-    $this->xmlconfig['fdiv']['class_name'] = "TeiDiv";
-    $this->xmlconfig['div']['xpath'] = "text/body//div";       //can use path //?
-    $this->xmlconfig['div']['is_series'] = "true";
-    $this->xmlconfig['div']['class_name'] = "TeiDiv";
-    $this->xmlconfig['n']['xpath'] = "text/body//div/@n";
-    $this->xmlconfig['byline']['xpath'] = "text/body//div/byline";
-    $this->xmlconfig['lg']['xpath'] = "text/body//div//lg";
-    $this->xmlconfig['lg']['is_series'] = "true";
-    $this->xmlconfig['l']['xpath'] = "text/body//div/lg/l";
-    $this->xmlconfig['l']['is_series'] = "true";
-    $this->xmlconfig['docAuthor']['xpath'] = "text/body/div/docAuthor";
-    //$this->xmlconfig['div2']['xpath'] = "text/body/div/div";
-    //$this->xmlconfig['div2']['is_series'] = "true";
-    //$this->xmlconfig['div2']['class_name'] = "TeiDiv";
-    //$this->xmlconfig['div3']['xpath'] = "text/body/div/div/div";
-    //$this->xmlconfig['div3']['is_series'] = "true";
-    //$this->xmlconfig['div3']['class_name'] = "TeiDiv";
-    //$this->xmlconfig['docAuthor']['xpath'] = "text/body//div/docAuthor";
+    $this->xmlconfig = array(
+		   "front" => array("xpath" =>  "text/front", "is_series" => "true", "class_name" => "TeiFront"),
+                   "body" => array("xpath" => "text/body"),
+		   "fdiv" => array("xpath" => "text/front/div", "is_series" => "true", "class_name" => "TeiDiv"),
+		   "div" => array("xpath" => "text/body/div", "is_series" => "true", "class_name" => "TeiDiv"),
+		   "title" => array('xpath' => "teiHeader/fileDesc/titleStmt/title"),
+		   "author" => array("xpath" => "teiHeader/fileDesc/titleStmt/author"),
+		   "editor" => array("xpath" => "teiHeader/fileDesc/titleStmt/editor"),
+		   "id" => array("xpath" => "@id"),
+		   "text" => array("xpath" => "text", "class_name" => "TeiText"),
+		   "n" => array("xpath" => "@n"),
+		   "head" => array("xpath" => "head"),
+		   "byline" => array("xpath" => "byline"),
+		   "type" => array("xpath" => "@type"),
+		   "div2" => array("xpath" => "text/body/div/div", "is_series" => "true", "class_name" => "TeiDiv"),
+		   "div3" => array("xpath" => "text/body/div/div/div", "is_series" => "true", "class_name" => "TeiDiv"),
+		   "docAuthor" => array("xpath" => "div/docAuthor"),
+				);
   }
 
   /**
@@ -190,6 +182,8 @@ for $a in document("' . $path . '")/TEI.2
        let $titlestmt := $a/teiHeader/fileDesc/titleStmt
        let $fileDesc := $a/teiHeader/fileDesc
        let $bibl := $a/teiHeader/fileDesc/sourceDesc/bibl
+       let $prev := $b/preceding-sibling::div[1]
+       let $next := $b/following-sibling::div[1]
        return <TEI.2>
               <teiHeader>
               <fileDesc> {$titlestmt}
@@ -199,10 +193,16 @@ for $a in document("' . $path . '")/TEI.2
               </fileDesc>
               </teiHeader>
              <text><body>{$b}</body></text>
-             <siblings>
-             { for $s in doc("' . $path . '/$docname")/TEI.2/text/body//div
-               return <div> {$s/@id} {$s/@n} {$s/docAuthor} </div> }
-            </siblings>
+             <prev>
+               {$prev/@id}
+               {$prev/head}
+               {$prev/docAuthor}
+             </prev>
+             <next>
+               {$next/@id}
+               {$next/head}
+               {$next/docAuthor}
+             </next>
          </TEI.2>';
     $xml = $exist->query($query, 50, 1, array("wrap" => false));
     $dom = new DOMDocument();
@@ -242,9 +242,8 @@ for $a in document("' . $path . '")/TEI.2
 
 
 
-
 /**
- * group of TEI documents (e.g., grouped in a result set returned by eXist)
+ * group of TEI documents (e.g., grouped in a result set returned by eXist) plus this one for local function
  */
 class GWTeiSet extends XmlObject {
   
@@ -256,6 +255,10 @@ class GWTeiSet extends XmlObject {
     parent::__construct($xml, $config);
   }
 }
+
+
+
+
 
 
 // group of TEI documents (e.g., grouped in a result set returned by eXist)

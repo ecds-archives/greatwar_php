@@ -1,12 +1,20 @@
-//from searchbox.php
-<?php
+<? //from searchbox.php ?>
 
-/* Note: the variable $base_url must be set (by config.php) before including this file */
 
-print "<div class='searchbox'>
+<? /* FIXME: Note: the variable $base_url must be set (by config.php) before including this file */ ?>
+<div class="sidebar">
+<div class='nav'>
+<h3>Navigation</h3>
+<p>
+<a href="<?= $this->url(array("controller" => "poetry", "action" => "content")) ?>">Browse Volumes</a><br/>
+<a href="<?= $this->url(array("controller" => "poetry", "action" => "index")) ?>">Poetry</a><br/><!-- get by poet-->
+<a href="<?= $this->url(array("controller" => "poetry", "action" => "index")) ?>">Advanced Search</a>
+</p>
+</div>
+<div class='search'>
 <h3>Search</h3> 
 
-<form action='${base_url}searchall.php'>
+<form action='searchall.php'>
 <input type='text' name='keyword' size='15'>
 <input type='submit' value='Go'>
 <font size='-1'>
@@ -18,6 +26,5 @@ print "<div class='searchbox'>
 </font>
 </form>
 
-</div>";
-
-?>
+</div>
+</div>

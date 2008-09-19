@@ -17,13 +17,23 @@ class Tei extends Emory_Xml_Tei {
 		   "editor" => array("xpath" => "teiHeader/fileDesc/titleStmt/editor"),
 		   "id" => array("xpath" => "@id"),
 		   "text" => array("xpath" => "text", "class_name" => "TeiText"),
-		   "n" => array("xpath" => "@n"),
-		   "head" => array("xpath" => "head"),
+		   "n" => array("xpath" => "text/body//div/@n"),
+		   "head" => array("xpath" => "text/body//div/head"),
 		   "byline" => array("xpath" => "byline"),
-		   "type" => array("xpath" => "@type"),
+		   "type" => array("xpath" => "text/body//div/@type"),
 		   "div2" => array("xpath" => "text/body/div/div", "is_series" => "true", "class_name" => "TeiDiv"),
 		   "div3" => array("xpath" => "text/body/div/div/div", "is_series" => "true", "class_name" => "TeiDiv"),
 		   "docAuthor" => array("xpath" => "div/docAuthor"),
+		   "prev" => array("xpath" => "prev"),
+		   "prevn" => array("xpath" => "prev/@n"),
+		   "phead" => array("xpath" => "prev/head"),
+		   "pdoc" => array("xpath" => "prev/docAuthor"),
+		   "previd" => array("xpath" => "prev/@id"),
+		   "next" => array("xpath" => "next"),
+		   "nextn" => array("xpath" => "next/@n"),
+		   "nhead" => array("xpath" => "next/head"),
+		   "ndoc" => array("xpath" => "next/docAuthor"),
+		   "nextid" => array("xpath" => "next/@id"),
 				);
   }
 
@@ -195,11 +205,13 @@ for $a in document("' . $path . '")/TEI.2
              <text><body>{$b}</body></text>
              <prev>
                {$prev/@id}
+               {$prev/@n}
                {$prev/head}
                {$prev/docAuthor}
              </prev>
              <next>
                {$next/@id}
+               {$next/@n}
                {$next/head}
                {$next/docAuthor}
              </next>

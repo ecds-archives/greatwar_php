@@ -1,3 +1,4 @@
+
 <? $base = $this->linkTo('self');  
  $xsl_opts = array('mode' => "poem");
 if (isset($this->self)) $xsl_opts["selflink"] = $this->self;
@@ -8,7 +9,10 @@ if (isset($this->base)) $xsl_opts["base"] = $this->base; ?>
     <?= $this->xslTransform($this->poem->text->saveXML(), "poetry.xsl", $xsl_opts); ?>
     </div>
 
-
-
+    <p><b>Continue browsing this volume:</b><br/>
+    <? if ($this->poem->prev): ?>
+Previous poem: <a href="<? $this->url(array('action' => 'content', 'id' => $this->poem->previd), null, true) ?>"><?= $this->poem->prevn ?></a><? if ($this->poem->pdoc): ?>, <?= $this->poem->pdoc ?><? endif ?><? endif ?></p>
+    <? if ($this->poem->next): ?>
+Next poem: <a href="<? $this->url(array('action' => 'content', 'id' => $this->nextid), null, true) ?>"><?= $this->poem->nextn ?></a><? if ($this->poem->ndoc): ?>, <?= $this->poem->ndoc ?><? endif ?><? endif ?></p>
 
   <pre><? //print_r($this->poem) ?></pre> <!-- outputs the array; view source for xml -->

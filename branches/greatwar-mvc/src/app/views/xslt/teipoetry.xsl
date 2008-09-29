@@ -2,7 +2,6 @@
 
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="1.0"
 	xmlns:html="http://www.w3.org/TR/REC-html40" 
-	xmlns:ino="http://namespaces.softwareag.com/tamino/response2" 
 	xmlns:xql="http://metalab.unc.edu/xql/">
 
 
@@ -55,12 +54,6 @@
   </xsl:element>  <!-- p -->
 </xsl:template>
 
-<xsl:template match="byline">
-  <xsl:element name="p">
-    <xsl:attribute name="class">byline</xsl:attribute>
-    <xsl:apply-templates />
-  </xsl:element>  <!-- p -->
-</xsl:template>
 
 <!-- dedication -->
 <xsl:template match="dedicat">
@@ -124,6 +117,12 @@
   </p>
 </xsl:template>
 
+<xsl:template match="byline">
+  <xsl:element name="p">
+    <xsl:attribute name="class">byline</xsl:attribute>
+    <xsl:apply-templates />
+  </xsl:element>  <!-- p -->
+</xsl:template>
 
 
 <!-- convert rend tags to their html equivalents 

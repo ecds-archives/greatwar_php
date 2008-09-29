@@ -1,4 +1,4 @@
-
+<div class ="content">
 <? $base = $this->linkTo('self');  
  $xsl_opts = array('mode' => "poem");
 if (isset($this->self)) $xsl_opts["selflink"] = $this->self;
@@ -8,11 +8,22 @@ if (isset($this->base)) $xsl_opts["base"] = $this->base; ?>
       
     <?= $this->xslTransform($this->poem->text->saveXML(), "poetry.xsl", $xsl_opts); ?>
     </div>
+<p class="source">
+  from <a href="<?= $this->url(array('action' => "content", 'id' => $this->poem->docname . '.xml'), null) ?>"><?= $this->poem->title ?></a><? if (isset($this->poem->author) && $this->poem->author): ?>, <?= $this->poem->author ?><? elseif  (isset($this->poem->editor) && $this->poem->editor): ?>, <?= $this->poem->editor ?><? endif ?></p>
 
-    <p><b>Continue browsing this volume:</b><br/>
+<p class="next-prev">
+    Continue browsing this volume:<br/>
     <? if ($this->poem->prev): ?>
-Previous poem: <a href="<? $this->url(array('action' => 'content', 'id' => $this->poem->previd), null, true) ?>"><?= $this->poem->prevn ?></a><? if ($this->poem->pdoc): ?>, <?= $this->poem->pdoc ?><? endif ?><? endif ?></p>
+	Previous poem: <a href="<?= $this->url(array('id' => $this->poem->previd)) ?>"><?= $this->poem->prevn ?></a><? if (isset($this->poem->pdoc) && $this->poem->pdoc): ?>, <?= $this->poem->pdoc ?><? endif ?><? endif ?><br/>
     <? if ($this->poem->next): ?>
-Next poem: <a href="<? $this->url(array('action' => 'content', 'id' => $this->nextid), null, true) ?>"><?= $this->poem->nextn ?></a><? if ($this->poem->ndoc): ?>, <?= $this->poem->ndoc ?><? endif ?><? endif ?></p>
+	Next poem: <a href="<?= $this->url(array('id' => $this->poem->nextid)) ?>"><?= $this->poem->nextn ?></a><? if (isset($this->poem->ndoc) && $this->poem->ndoc): ?>, <?= $this->poem->ndoc ?><? endif ?><? endif ?></p>
+
+
+<p class="copyright">
+    <? if (isset($this->poem->biblauth) && $this->poem->biblauth): ?><?= $this->poem->biblauth . "," ?>
+   <? elseif (isset($this->poem->bibled) && $this->poem->bibled): ?><?= $this->poem->bibled . ", ed.," ?><? endif ?>
+ <i><?= $this->poem->bibltitle ?><i>. <?= $this->poem->biblpubp ?>: <?= $this->poem->biblpub ?>, <?= $this->poem->bibldate ?>.
+</p>
+</div>
 
   <pre><? //print_r($this->poem) ?></pre> <!-- outputs the array; view source for xml -->

@@ -8,6 +8,8 @@ class Tei extends Emory_Xml_Tei {
   protected function configure() {
     parent::configure();
     $this->xmlconfig = array(
+           	   "docname" => array("xpath" => "@docname"),
+		   "bibl" => array("xpath" => "teiHeader/fileDesc/sourceDesc"),
 		   "front" => array("xpath" =>  "text/front", "is_series" => "true", "class_name" => "TeiFront"),
                    "body" => array("xpath" => "text/body"),
 		   "fdiv" => array("xpath" => "text/front/div", "is_series" => "true", "class_name" => "TeiDiv"),
@@ -15,6 +17,12 @@ class Tei extends Emory_Xml_Tei {
 		   "title" => array('xpath' => "teiHeader/fileDesc/titleStmt/title"),
 		   "author" => array("xpath" => "teiHeader/fileDesc/titleStmt/author"),
 		   "editor" => array("xpath" => "teiHeader/fileDesc/titleStmt/editor"),
+		   "biblauth" => array("xpath" => "teiHeader/fileDesc/sourceDesc/bibl/author"),
+		   "bibled" => array("xpath" => "teiHeader/fileDesc/sourceDesc/bibl/editor"),
+		   "bibltitle" => array("xpath" => "teiHeader/fileDesc/sourceDesc/bibl/title"),
+		   "biblpubp" => array("xpath" => "teiHeader/fileDesc/sourceDesc/bibl/pubPlace"),
+		   "biblpub" => array("xpath" => "teiHeader/fileDesc/sourceDesc/bibl/publisher"),
+		   "bibldate" => array("xpath" => "teiHeader/fileDesc/sourceDesc/bibl/date"),		   
 		   "id" => array("xpath" => "@id"),
 		   "text" => array("xpath" => "text", "class_name" => "TeiText"),
 		   "n" => array("xpath" => "text/body//div/@n"),
@@ -137,7 +145,7 @@ for $a in document("' . $path . '")/TEI.2
     $path = $exist->getDbPath();
     $query =  'for $a in collection("' . $path . '")/TEI.2/teiHeader/fileDesc/titleStmt
        let $docname := util:document-name($a)
-       order by($a/title)
+       order by($a//name[1]/@reg)
        return <TEI.2 id="{$docname}"> <teiHeader><fileDesc>{$a}</fileDesc></teiHeader> </TEI.2>';
     $xml = $exist->query($query, 50, 1);
     $dom = new DOMDocument();
@@ -192,9 +200,9 @@ for $a in document("' . $path . '")/TEI.2
        let $titlestmt := $a/teiHeader/fileDesc/titleStmt
        let $fileDesc := $a/teiHeader/fileDesc
        let $bibl := $a/teiHeader/fileDesc/sourceDesc/bibl
-       let $prev := $b/preceding-sibling::div[1]
-       let $next := $b/following-sibling::div[1]
-       return <TEI.2>
+       let $prev := $b/preceding::div[@type = "poem"][1]
+       let $next := $b/following::div[@type = "poem"][1]
+       return <TEI.2 docname = "{$docname}">
               <teiHeader>
               <fileDesc> {$titlestmt}
               <sourceDesc>
@@ -225,8 +233,10 @@ for $a in document("' . $path . '")/TEI.2
     //return new Tei($dom);
    }
   
-
+  //FIXME: this is not implemented yet.
   public function getByPoet()  {
+    $exist = Zend_Registry::get("exist-db");
+    $path = $exist->getDbPath();
     $query = 'for $a in collection("' . $path . '")/TEI.2/text/body//docAuthor
       let $div := $a/..
       let $docname := util:document-name(root($a))
@@ -236,8 +246,8 @@ for $a in document("' . $path . '")/TEI.2
       {$div/@id}
       {$div/@type}
       {$a}
-      {for $div2 in $div/div2
-         return <TEI.2> {$div2/@id} {$div2/@n} {$div2/@type} {$div2/docAuthor}
+      {for $div2 in $div/div
+         return <TEI.2><text><body> {$div2/@id} {$div2/@n} {$div2/@type} {$div2/docAuthor}
        </TEI.2> }
       order by (docAuthor/@n, @n)
       </div>';
@@ -246,7 +256,10 @@ for $a in document("' . $path . '")/TEI.2
 
     $dom = new DOMDocument();
     $dom->loadXML($xml);
-    return new Tei($dom);
+    print $xml;                 //DEBUG: outputs xml to source to view
+    $tei = new GWTeiSet($dom);  //Custom GWTeiSet to load changes to Emory Lib Tei model by this doc
+    return $tei->docs[0];  //Use the TeiSet instead of Tei to get around the exist result wrapper problem
+    //return new Tei($dom);
   }
 
 }   

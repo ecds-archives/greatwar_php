@@ -1,3 +1,4 @@
+<div class="content">
 <h2>Contents: <?= $this->booktoc->title ?></h2>
    <h3><? if (isset($this->booktoc->author) && $this->booktoc->author): ?><?= $this->booktoc->author ?>
        <? elseif (isset($this->booktoc->editor) && $this->booktoc->editor): ?><?= $this->booktoc->editor ?>
@@ -23,7 +24,7 @@
   <? endif ?>				      
 </ul>  
 
-						
+</div>						
 
 
 	    <pre><?// print_r($this->booktoc) ?></pre> <!-- outputs the array; view source for xml -->

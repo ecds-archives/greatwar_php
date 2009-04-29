@@ -3,7 +3,7 @@
       <fileDesc>
          <titleStmt n="THE FIERY CROSS">
             <title>THE FIERY CROSS: An Anthology of War Poems</title>
-            <editor><name type="person" reg="Edwards, Mabel C.">Mabel C. Edwards</name> and <name type="person" reg="Booth, Mary">Mary Booth</name>, eds.</editor>
+            <editor><name type="person" reg="Edwards, Mabel C.">Mabel C. Edwards</name> and <name type="person" reg="Booth, Mary">Mary Booth</name></editor>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Beck Center</name>
@@ -25,7 +25,7 @@
             <title>Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl><editor>Edwards, Mabel C. and Mary Booth</editor> <title>THE FIERY CROSS: An Anthology of War Poems.</title><pubPlace>London</pubPlace><publisher>Grant Richards Ltd.</publisher><date>1915.</date>  96 pages. Sold for the benefit of the funds of the Red Cross.</bibl>
+            <bibl><editor>Edwards, Mabel C. and Mary Booth</editor> <title>THE FIERY CROSS: An Anthology of War Poems</title><pubPlace>London</pubPlace><publisher>Grant Richards Ltd.</publisher><date>1915</date>  96 pages. Sold for the benefit of the funds of the Red Cross.</bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>

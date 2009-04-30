@@ -147,10 +147,11 @@ Its author was killed at Aix Noulette, 26 May, 1915.</p>
 
 <pb n="11"/>
 
-<div id="binns001." type="poem" >
+<div id="binns001" type="poem" n="1">
 <head rend="center">November<lb/>
 FIVE PRELUDES</head>
 
+<div id="binns100" type="section" n="1">
 <lg type="stanza">
 <head rend="center">I</head>
 <l>UP dripping from the sea</l>
@@ -158,10 +159,8 @@ FIVE PRELUDES</head>
 <l>She dashed against the windows as she came</l>
 <l>The fringy hem of her wet</l>
 <l>Cloak, and set</l>
-
 <l>Me shivering closer to the genial flame.</l>
 <l>Bleak was her face, turned westward from the</l>
-
 <l rend="indent">grey</l>
 <l>Uncompromising dawn of a grim day,</l>
 <l>As though she would not countenance</l>
@@ -171,104 +170,90 @@ FIVE PRELUDES</head>
 <l>Her heart of hope already had stopped beating.</l>
 <l>Grey woman, going by my door.</l>
 <l>There's nothing can remind her</l>
-<l>Of colour any more!</l></lg>
+<l>Of colour any more!</l></lg></div>
 
-<lg>
+
+<div id="binns101" type="section" n="2">
+<lg type="stanza">
 
 <head rend="center">II</head>
 
 <l>O BUT a wood on a November day!--</l>
 <l rend="left">Do you know the thing I say?</l>
 <l>Do you see the russet bracken</l>
-<l>That the sunlight lies among?--</l></lg>
+<l>That the sunlight lies among?--</l>
 
 
-<pb n="NOVEMBER"/>
+<pb n="NOVEMBER  12"/>
 
-<l>NOVEMBER</l>
+
 
 <l>See the shafts of brass among the dreamy grey</l>
-<l>Pillars, where the low sun strikes, flashing?</l>
+<l>Pillars, where the low sun strikes, flashing?</l></lg>
 
+<lg type="stanza">
 <l>Above the cold still under-air</l>
-
 <l>In the morning, pale above you,</l>
-
 <l>Can you hear the north-wind passing</l>
-
 <l>Over with his wingy flight?</l>
-
 <l>Can you feel the quiet glee</l>
+<l>Of the world's untroubled heart?--</l></lg>
 
-<l>Of the world's untroubled heart?—</l>
-
+<lg type="stanza">
 <l>Summer's dead, the bracken's dead:</l>
 <l>In the earth the trees have buried</l>
 <l>Safely with their sap their treasure:</l>
-<l>All for wrestling, all for mirth.</l>
-<l>They stand ready.</l>
+<l>All for wrestling, all for mirth,</l>
+<l>They stand ready.</l></lg>
 
+<lg type="stanza">
 <l>Do you see how glad and gay</l>
 <l>Is the Earth with all her trees?</l>
 <l>How they welcome in the season</l>
 <l>Rude and gruff ?   How they give</l>
 <l>Themselves to the November</l>
 <l>Day, and to the rough</l>
-<l>Hands of winter?—</l>
+<l>Hands of winter?--</l></lg>
 
+<lg type="stanza">
 <l>They have humour to enjoy</l>
 <l>The changing moods of time:</l>
 <l>To smile with the cold light and say</l>
-<l>"I take you, too, November!"</l>
-
-<l>12</l>
+<l>"I take you, too, November!"</l></lg></div>
 
 
 
-<pb n=""/>
+<pb n="NOVEMBER 13"/>
 
-
-
-<l>NOVEMBER</l>
-
-
-
-
-
-<l>III</l>
-
-
-
-
+<div id="binns102" type="section" n="3">
+<lg type="stanza">
+<head rend="center">III</head>
 
 <l>HOW lovelily the larches bear their dead</l>
-<l>And the young oaks carry their widow-</l>
-<l>weeds !</l>
-<l>Gladder than Spring It is to see their glory</l>
-<l>When the air Is cold above the snow.</l>
+<l rend="inline">And the young oaks carry their widow-
+weeds !</l>
+<l>Gladder than Spring it is to see their glory</l>
+<l>When the air Is cold above the snow.</l></lg>
 
+<lg type="stanza">
 <l>I say it's a glad thing to see that tall young larch</l>
 <l>Standing all maiden-stately in gold apparel</l>
 <l>To welcome him who now shall strip her bare.</l>
 <l>Or yon, her sister, lovelier In thinner gossamer,</l>
 <l>As it were sunny gleaming dew-drops veiling</l>
+<l rend="inline">her:</l>
+<l>And to know Winter laments naught but hath
+his own pure splendour.</l></lg>
 
-<l>her:</l>
-<l>And to know Winter laments naught but hath</l>
+<lg type="stanza">
+<l>Winter!--when you stand here amid the wood,</l>
+<l>There's some sublime gladness that summer
+could not tell</l>
+<l>Comes forth to praise you! Among these comrades</l>
+<l>I hear another mightier word of freedom
+spoken.</l></lg>
 
-<l>his own pure splendour.</l>
-
-<l>Winter!—when you stand here amid the wood.</l>
-
-<l>There's some sublime gladness that summer</l>
-<l>could not tell</l>
-
-<l>Comes forth to praise you! Among these com¬</l>
-<l>rades</l>
-
-<l>I hear another mightier word of freedom</l>
-<l>spoken.</l>
-
+<lg type="Stanza">
 <l>They weep, but not corrosive tears.</l>
 <l>They let grief go, it also frees them.</l>
 
@@ -276,159 +261,119 @@ FIVE PRELUDES</head>
 
 
 
-<pb n=""/>
+<pb n="NOVEMBER 14"/>
 
+<l>Stedfast, evading naught, from life they withhold nothing.</l>
+<l>Even their grief is presently a toy</l>
+<l>For the spirit of young laughter.</l></lg></div>
 
+<div id="binns103" type="essay" n="4">
+<head rend="center">IV</head>****wasnt sure whether to format as paragraphs or as stanzas.
 
-<l>NOVEMBER</l>
+<p>WHEN joy escapes me, it is not this sin
+or that I have committed, but, longing
+after some unattalned delight, I have forgotten
+my Divine Companion.</p>
 
-<l>Stedfast, evading naught, from life they with¬</l>
-<l>hold nothing.</l>
-<l>Even their grief Is presently a toy</l>
-<l>For the spirit of young laughter.</l>
+<p>Numb to His touch, what can I know of joy?
+It Is only In His presence that my spirit ventures
+forth from Its shadowy lair:--only responding
+to His touch my spirit ventures.</p>
 
+<p>But I forget, and unaccountably my busy day
+Is empty: meaningless seem the dear greetings
+of my friends.</p>
 
+<p>In His love is my meaning: vainly I seek my
+self elsewhere !--I have outgrown my mind and
+body. My spirit is no more at home except
+in His companionship.</p>
 
-
-
-<l>w</l>
-
-
-
-
-
-<l>IV</l>
-
-<l>HEN joy escapes me, It Is not this sin</l>
-<l>or that I have committed, but, longing</l>
-<l>after some unattalned delight, I have forgotten</l>
-<l>my Divine Companion.</l>
-
-<l>Numb to His touch, what can I know of joy?</l>
-<l>It Is only In His presence that my spirit ventures</l>
-<l>forth from Its shadowy lair:—only responding</l>
-<l>to His touch my spirit ventures.</l>
-
-<l>But I forget, and unaccountably my busy day</l>
-<l>Is empty: meaningless seem the dear greetings</l>
-<l>of my friends.</l>
-
-<l>In His love Is my meaning: vainly I seek my</l>
-<l>self elsewhere 1—I have outgrown my mind and</l>
-<l>body. My spirit Is no more at home except</l>
-<l>in His companionship.</l>
-
-<l>There only, Is health for me, purpose and</l>
-<l>happiness. But I forget: I recognise Him not:</l>
-<l>I am no longer part of His delight, but my own</l>
-<l>burden: my body and soul heavy with a forget¬</l>
-<l>fulness that cuts me off from knowing Him at</l>
-
-<l>hand: that, looking in His face, Is still alone,</l>
-<l>and lying In His bosom, desolate.</l>
+<p>There only, is health for me, purpose and
+happiness. But I forget: I recognise Him not:
+I am no longer part of His delight, but my own
+burden: my body and soul heavy with a forgetfulness that cuts me off from knowing Him at hand: that, looking in His face, is still alone,
+and lying In His bosom, desolate.</p></div>
 
 <l>14</l>
 
 
 
-<pb n=""/>
+<pb n="NOVEMBER 15"/>
 
+<div id="binns104" type="section" n="5">
 
-
-<l>NOVEMBER</l>
-
-
-
-
-
+<head rend="center">V</head>
+<lg type="stanza">
 <l>IF we withheld thee not, O thou divine delight,</l>
-<l>Thou radiance, whom we hide in our un-</l>
-<l>happiness,</l>
-<l>Our days would shine like gold thread in the</l>
-<l>woof of night.</l>
-<l>And God would take their labour for his</l>
-<l>comely dress.</l>
+<l rend="inline">Thou radiance, whom we hide in our un-
+happiness,</l>
+<l>Our days would shine like gold thread in the
+woof of night.</l>
+<l>And God would take their labour for his
+comely dress.</l></lg>
 
-
-
-
-
-<l>O thou divine delight, did we withhold thee</l>
-<l>never</l>
-<l>But dared with every breath to give thee</l>
-<l>utterance,</l>
-<l>Fear would have lost his foothold on the earth</l>
-<l>for ever.</l>
+<lg type="stanza">
+<l>O thou divine delight, did we withhold thee
+never</l>
+<l>But dared with every breath to give thee
+utterance,</l>
+<l>Fear would have lost his foothold on the earth
+for ever.</l>
 <l>All of it caught again into the starry dance.</l>
 
-<l>Aloof from thee, the oppressor holds himself, a</l>
-<l>stranger;</l>
-<l>The   unjust   shelters him   from   thee   with</l>
-<l>shields of scorn:</l>
-<l>MIghtest thou but rejoice in these, thou wouldst</l>
-<l>endanger</l>
-<l>The last withholding thrones that keep thee</l>
-<l>yet unborn.</l>
+<l>Aloof from thee, the oppressor holds himself, a
+stranger;</l>
+<l>The   unjust   shelters him   from   thee   with
+shields of scorn:</l>
+<l>Mightest thou but rejoice in these, thou wouldst
+endanger</l>
+<l>The last withholding thrones that keep thee
+yet unborn.</l>
 
 <l>15</l>
 
 
 
-<pb n=""/>
+<pb n="NOVEMBER 16"/>
+
+<l>Thou art not childish glee, nor gladness only
+art thou:</l>
+<l>Thou art Creative Power whom we have disobeyed :</l>
+<l>Thou art the pulse of God within us here and now:</l>
+<l>'Tis not of Death—of thee O life, we are afraid.</l>
+</lg></div></div>
+
+<pb n="17"/>
 
 
+<div id="binnns002" type="poem" n="2">
+<head>Freedom's Fellowship</head>
 
-<l>NOVEMBER</l>
-
-<l>Thou art not childish glee, nor gladness only</l>
-<l>art thou:</l>
-<l>Thou art Creative Power whom we have dis¬</l>
-<l>obeyed :</l>
-<l>Thou art the pulse of God within us here and</l>
-<l>now:</l>
-<l>'Tis not of Death—of thee O life, we are</l>
-<l>afraid.</l>
-
-
-
-
-
-<l>i6</l>
-
-
-
-<pb n=""/>
-
-
-
-<l>Freedom's Fellowship</l>
-
-
-
-
-
+<div id="binns106" type="section" n="1">
+<head rend="center">I</head>
+<lg type="stanza">
 <l>SEATED in the World's Playhouse, I beheld</l>
-<l>The Great Piece playing. Often I rebelled</l>
+<l rend="inline">The Great Piece playing. Often I rebelled</l>
 <l>At watching, and was fain to disobey</l>
 <l>The Voice that held me at that Passion Play</l>
 <l>Of Man's Redemption, a spectator, far</l>
 <l>Removed from the actual agonists of a war</l>
 <l>Wherein myself was mixed.   Till onlooking,</l>
-<l>There woke within me the aeonlan Thing</l>
+<l>There woke within me the &#x00E6;onian Thing</l>
 <l>Displayed in all that action.   I was 'ware</l>
 <l>Of Him whom I beheld: the Actor there</l>
 <l>Across the footlights, the Protagonist.</l>
 <l>As one who had looked upon a glass and wist</l>
-<l>Not that it was a mirror, nor whom he saw—</l>
+<l>Not that it was a mirror, nor whom he saw--</l>
 <l>So gazing, suddenly, I knew with awe</l>
 <l>It was no stranger, nor that Piece of Strife</l>
-<l>Another than the substance of my life. . . .</l>
+<l>Another than the substance of my life. . . .</l></lg>
 
-<l>Often on that Playhouse I'ld turn my back</l>
-<l>To wander In the woods of Goodly Stack</l>
-<l>And squirrel-haunted Squerryes.    There,  the</l>
-
-<l>trees</l>
+<lg type="Stanza">
+<l>Often on that Playhouse <sic>I'ld</sic> turn my back</l>
+<l>To wander in the woods of Goodly Stack</l>
+<l>And squirrel-haunted Squerryes.    There,  the trees</l>
 <l>Showed me the sense of the ancient prophecies</l>
 <l>That foretell a strange breaklng-forth of power</l>
 <l>Beautiful as the unfolding of that flower</l>
@@ -437,25 +382,21 @@ FIVE PRELUDES</head>
 
 
 
-<pb n=""/>
+<pb n="FREEDOM'S FELLOWSHIP 18"/>
 
-
-
-<l>FREEDOM'S FELLOWSHIP</l>
-
-<l>Whose bud Is this mysterious Earth, that keeps</l>
-<l>The glory so enfolded In her deeps</l>
+<l>Whose bud is this mysterious Earth, that keeps</l>
+<l>The glory so enfolded in her deeps</l>
 <l>No man, however nimble be his wit,</l>
 <l>Guessing at Its delight can image it.</l>
+</lg></div>
 
 
 
-
-
-<l>II</l>
-
+<div id="binns107" type="section" n="2">
+<head rend="center">II</head>
+<lg type="stanza">
 <l>AS a tall pine, grappling the rock below</l>
-<l>To climb the unsubstantial air, will grow</l>
+<l rend="center">To climb the unsubstantial air, will grow</l>
 <l>On a hand's breadth of the hill-shoulder, so</l>
 <l>On a mere span of space, therein set firm,</l>
 <l>Shall rise that royal spirit that hath its term</l>
@@ -463,7 +404,7 @@ FIVE PRELUDES</head>
 <l>Passion and patience to become one sole</l>
 <l>Substance for it, that he may stand sublime</l>
 <l>Upon a shoulder of the Hill of Time</l>
-<l>Witnessing to the Timeless;—may rise up</l>
+<l>Witnessing to the Timeless;--may rise up</l>
 <l>Erect, to dare the lightning with his top:</l>
 <l>Wrestle with wanton tempests, and not break</l>
 <l>In any of their capricious clutches: take</l>
@@ -473,18 +414,14 @@ FIVE PRELUDES</head>
 <l>Dizzily up he climbs, but he thrusts down</l>
 <l>More than a pine Into the secret place</l>
 <l>Forbidden to the light, beneath the face</l>
-<l>Of Earth that looks on Heaven.   There Is the</l>
-<l>fount</l>
+<l>Of Earth that looks on Heaven.   There is the
+fount</l>
 
-<l>i8</l>
-
-
-
-<pb n=""/>
+<l>18</l>
 
 
 
-<l>FREEDOM'S FELLOWSHIP</l>
+<pb n="FREEDOM'S FELLOWSHIP 19"/>
 
 <l>Of the ever-urgent impulse that doth mount</l>
 <l>Up in the sap and out into the light,</l>
@@ -492,14 +429,11 @@ FIVE PRELUDES</head>
 <l>That enigmatic power, which is the mirth</l>
 <l>Vibrant in all the Body of the Earth,</l>
 <l>The gladness of Her being, whereof all</l>
-<l>Things that are Hers partake. .</l>
-
-<l>High in the tall</l>
+<l>Things that are Hers partake. .  .</l>
+<l rend="inline">High in the tall</l>
 <l>Pine's upper fork, the kestrel hath his seat;</l>
 <l>While up and down its shaft with clattering feet</l>
-<l>The nut-brown squirrel scrambles: screams the</l>
-
-<l>jay:</l>
+<l>The nut-brown squirrel scrambles: screams the jay:</l>
 <l>The mild wood-pigeon all the livelong day</l>
 <l>Flutes to his lady.   But the unexpressed</l>
 <l>Residue of delight within the breast</l>
@@ -510,11 +444,9 @@ FIVE PRELUDES</head>
 <l>Anguish of her unbearable delay</l>
 <l>Till he respond to her, and She can say</l>
 <l>That without which her joy is yet unspoken,</l>
-<l>That   which   without   him   must   remain   but</l>
-
-<l>broken</l>
+<l>That   which   without   him   must   remain   but broken</l>
 <l>Fragments and enigmatic words. O when</l>
-<l>That which already Is half awake In men</l>
+<l>That which already is half awake In men</l>
 <l>Bewildering their days with Impulses</l>
 <l>Mysterious that they know not to appraise</l>
 
@@ -522,16 +454,10 @@ FIVE PRELUDES</head>
 
 
 
-<pb n=""/>
+<pb n="FREEDOM'S FELLOWSHIP  20"/>
 
-
-
-<l>FREEDOM'S FELLOWSHIP</l>
-
-<l>And so seek to evade—when It shall gain</l>
-<l>Them wholly, and they serve with might and</l>
-
-<l>main</l>
+<l>And so seek to evade--when It shall gain</l>
+<l>Them wholly, and they serve with might andmain</l>
 <l>Its divine purpose to bestow on Man</l>
 <l>God's meaning, they shall utter, for they can,</l>
 <l>That Life on whose appearing Earth attends,</l>
@@ -543,12 +469,12 @@ FIVE PRELUDES</head>
 <l>Among them all, and they shall understand.</l>
 <l>Can you not feel the wonder close at hand!</l>
 <l>The Earth is quick with it beneath my feet,</l>
-<l>So nearly is the whole of life complete.</l>
+<l>So nearly is the whole of life complete.</l></lg></div>
 
-<l>Ill</l>
-
-<l>A ROOT was I, and burrowed down my</l>
-<l>way</l>
+<div id="binns108" type="letter" n="3">
+<head rend="center">III</head>
+<lg type="stanza">
+<l>A ROOT was I, and burrowed down my way</l>
 <l>Year after year through sorry coloured clay;</l>
 <l>And it was liker death than life to me</l>
 <l>Through all that miry age of misery.</l>
@@ -563,33 +489,27 @@ FIVE PRELUDES</head>
 
 
 
-<pb n=""/>
-
-
-
-<l>FREEDOM'S FELLOWSHIP</l>
+<pb n="FREEDOM'S FELLOWSHIP 21"/>
 
 <l>Enter some little into God's design,</l>
 <l>Echo his windy words, and even divine</l>
 <l>The informing joy, clear, lucid, beautiful,</l>
-<l>That lurks within all substance as a soul.</l>
+<l>That lurks within all substance as a soul.</l></lg>
 
+<lg type="stanza">
 <l>I strove, I sulked, I struggled for my breath</l>
 <l>In that dark under-life that was like death,</l>
 <l>So strange to any enfranchisement it seemed.</l>
-<l>And I grew strong in the dark and stubborn-</l>
-<l>limbed</l>
+<l>And I grew strong in the dark and stubborn-limbed</l>
 <l>In that unkindness: yet withal I knew</l>
 <l>My stubborn strength was of itself untrue</l>
-<l>To   something   in   me,   though   it   was   fuU-</l>
-
-<l>vigoured:</l>
+<l>To   something   in   me,   though   it   was   full-vigoured:</l>
 <l>For, nourished on resistance and the niggard</l>
 <l>Diet of strife, I could not tell the whole</l>
-<l>Truth that was kept a secret in my soul.</l>
+<l>Truth that was kept a secret in my soul.</l></lg>
 
-<l>Somewhere—^but far beyond hearing or see¬</l>
-<l>ing—</l>
+<lg type="stanza">
+<l>Somewhere--but far beyond hearing or seeing--</l>
 <l>Somewhere upon the utter brink of being,</l>
 <l>There dwelt another me, in other fashion</l>
 <l>Occupied, fed upon a generous ration</l>
@@ -603,31 +523,17 @@ FIVE PRELUDES</head>
 
 
 
-<pb n=""/>
-
-
-
-<l>FREEDOM'S FELLOWSHIP</l>
+<pb n="FREEDOM'S FELLOWSHIP 22"/>
 
 <l>Buoyed up on their aerial liberty.</l>
-
 <l>But stranger than to know them anchored there</l>
-
 <l>Almost within my reach—should I but dare</l>
-
 <l>Reach up a moment from my groping toil,</l>
-
 <l>Lift myself but a little from the soil</l>
-
 <l>Into the sun—a voice familiar bade</l>
-
 <l>My heart leave off its striving and be glad</l>
-
 <l>In the translucent blessedness above me:</l>
-
-<l>For these bright presences were they that love</l>
-
-<l>me,</l>
+<l>For these bright presences were they that love me,</l>
 <l>And I their kin, companion and compeer.</l>
 <l>Inhabitant already of their sphere</l>
 <l>Of iridescent light, was I, unknowing:</l>
@@ -635,11 +541,10 @@ FIVE PRELUDES</head>
 <l>Upward into a leafy-headed tree</l>
 <l>That floated even now upon that sea</l>
 <l>Of windy light, and was companion with</l>
-<l>Those earth-born joys that breathe immortal</l>
+<l>Those earth-born joys that breathe immortal breath.</l></lg>
 
-<l>breath.</l>
-
-<l>I lifted up my heart: I was hft up</l>
+<lg type="stanza">
+<l>I lifted up my heart: I was lift up</l>
 <l>So upon gladness that I could not stop</l>
 <l>Uttering twiggy praises full of leaf</l>
 <l>Into that wondrous light as though all grief</l>
@@ -652,38 +557,33 @@ FIVE PRELUDES</head>
 
 
 
-<pb n=""/>
-
-
-
-<l>FREEDOM'S FELLOWSHIP</l>
+<pb n="FREEDOM'S FELLOWSHIP 23"/>
 
 <l>Lonely urge of my blind will down and down</l>
 <l>Pulsed up out of my trunk into a crown</l>
 <l>Of heavenly leaves: my stubbornness became</l>
 <l>Gentle with gladness: I shook off the shame</l>
 <l>Of my frustrated will, frustrated now</l>
-<l>No longer, but achieved in every bough.</l>
+<l>No longer, but achieved in every bough.</l></lg>
 
+<lg type="stanza">
 <l>Now I have franchise both of sun and earth,</l>
 <l>Till my last root is merry with the mirth</l>
 <l>Of March, and I outstretch my branches bold</l>
-<l>To joy, in the stubborn strength of that root-</l>
-<l>hold.</l>
+<l>To joy, in the stubborn strength of that root-hold.</l>
 <l>I live in the earth: I am no flickering wraith</l>
-<l>Of fancy but the embodiment of faith.</l>
+<l>Of fancy but the embodiment of faith.</l></lg></div>
 
-<l>IV</l>
-
-<l>THERE are great spirits that stand up</l>
-<l>alone</l>
+<div id="binns109" type="section" n="4">
+<head rend="center">IV</head>
+<lg type="stanza">
+<l>THERE are great spirits that stand up alone</l>
 <l>As here and there an oak stands in a zone</l>
 <l>Of corn and ample meadows: hero trees</l>
 <l>Staunch in themselves against all enemies</l>
 <l>And royal to small creatures in bad weather:</l>
-<l>And there are spirits as great that stand to¬</l>
-<l>gether</l>
-<l>In an Inseparable fellowship.</l>
+<l>And there are spirits as great that stand together</l>
+<l>In an inseparable fellowship.</l>
 <l>Like the high pines on a hill-slope that's deep</l>
 <l>In their long-fallen needles: spirits that are</l>
 <l>As the high pines erect and columnar,</l>
@@ -692,67 +592,57 @@ FIVE PRELUDES</head>
 
 
 
-<pb n=""/>
-
-
-
-<l>FREEDOM'S FELLOWSHIP</l>
+<pb n="FREEDOM'S FELLOWSHIP  24"/>
 
 <l>Because for many a lustre diey have stood</l>
-
 <l>Rank upon rank together in the wood,</l>
-
 <l>Until each one is not so much a tree</l>
-
 <l>As member of that great society</l>
-
 <l>Of friends in whose association dwells</l>
+<l>A presence I discover nowhere else.</l></lg>
 
-<l>A presence I discover nowhere else.</l>
-
+<lg type="stanza">
 <l>And I have known a Quaker meeting when</l>
 <l>The strangely still, intensely real men</l>
 <l>And women ranked about me in the deep</l>
 <l>Silence, were like a group of trees that keep</l>
 <l>In their mysterious circle the untold</l>
 <l>First and last secret of the manifold</l>
-<l>Wonder of the world: a group of druld trees</l>
+<l>Wonder of the world: a group of druid trees</l>
 <l>Still haunted by the primal mysteries,</l>
 <l>The elemental presences that are</l>
-<l>Ever about us unfamiliar.</l>
+<l>Ever about us unfamiliar.</l></lg>
 
+<lg type="stanza">
 <l>I was in a great grove of mighty thewed</l>
 <l>Storm-challengers, that make a solitude</l>
 <l>By their august companionship.  Apart</l>
 <l>Spaciously set with magisterial art</l>
-<l>To entertain In mutuality</l>
+<l>To entertain in mutuality</l>
 <l>Those vast emotions that could never be</l>
 <l>The guests, even of comrades, If they stood</l>
-<l>Crowded together In a thicket wood.</l>
+<l>Crowded together in a thicket wood.</l></lg>
 
-<l>I found a freedom In that company</l>
+<lg type="stanza">
+<l>I found a freedom in that company</l>
 <l>Elsewhere I had not found.   For to be free</l>
 
 <l>24</l>
 
 
 
-<pb n=""/>
-
-
-
-<l>FREEDOM'S FELLOWSHIP</l>
+<pb n="FREEDOM'S FELLOWSHIP  25"/>
 
 <l>You must be rooted In the rock, and keep</l>
 <l>Your proper distance for the swing and sweep</l>
 <l>Of the impassioning rhythm to vibrate through</l>
-<l>Your being and make music out of you,—</l>
+<l>Your being and make music out of you,--</l>
 <l>One clear note of that full spontaneous speech</l>
 <l>That no man sings alone, but many, each</l>
-<l>Exulting in a wonder wherelnto</l>
+<l>Exulting in a wonder whereinto</l>
 <l>Life pours the impetuous current of its blood</l>
 <l>Pulsing from its one heart.  Upwells the flood</l>
-<l>Of joy in them out of Its reservoir</l>
+<l>Of joy in them out of its reservoir</l>
 <l>Through every root that has gone groping far</l>
 <l>Down through the soil to catch In the still deep</l>
 <l>Bosom of the under-earth, that seems to sleep</l>
@@ -763,111 +653,79 @@ FIVE PRELUDES</head>
 <l>Out of the marrow of the world they draw</l>
 <l>Their sustenance.   The everlasting Law</l>
 <l>Vibrating like a voice through all earth's frame</l>
-<l>Vibrates In each, and every one of them</l>
-<l>Shares its authority.    Strangers to fear.</l>
+<l>Vibrates in each, and every one of them</l>
+<l>Shares its authority.    Strangers to fear,</l>
 <l>Most royally they give what Is most dear</l>
 <l>To them.   Rooted in God and independent,</l>
 <l>The ardour of their passion shines resplendent</l>
 <l>As the moon's raiment when her beamy light</l>
-<l>Clings round her dewily In the winter night.</l>
+<l>Clings round her dewily In the winter night.</l></lg>
 
 <l>25</l>
 
 
 
-<pb n=""/>
+<pb n="FREEDOM'S FELLOWSHIP   26"/>
 
-
-
-<l>FREEDOM'S FELLOWSHIP</l>
-
-
-
-
-
-<l>WHO strays among them, let him have a</l>
-<l>care</l>
+<div id="binns110" type="section" n="5">
+<head rend="center">V</head>
+<lg type="stanza">
+<l>WHO strays among them, let him have a care</l>
 <l>With what companionship he enters there:</l>
 <l>For there are hours in which you cannot hide</l>
-<l>Aught from the Trees: when you must open-</l>
-<l>eyed</l>
+<l>Aught from the Trees: when you must open-eyed</l>
 <l>Behold the shapes of dream you carry about</l>
-<l>The world with you—^your dark or shining rout</l>
-<l>Of dreaded or desired Imagining.</l>
+<l>The world with you--your dark or shining rout</l>
+<l>Of dreaded or desired imagining.</l>
 <l>To life about you leaps the Magic Ring</l>
 <l>Your feet can never step out of, because</l>
 <l>It Is your self that the dark circle draws</l>
 <l>Enclosing you in the curve of its occult</l>
 <l>Desire, against whose logic you revolt</l>
-<l>With   half  your   will  in   vain.    Darkling,   it</l>
-
-<l>sweeps</l>
+<l>With   half  your   will  in   vain.    Darkling,   it sweeps</l>
 <l>Its compass, and within securely keeps</l>
 <l>You prisoner of the line invisible</l>
 <l>Traced by the rebel half of your own will:</l>
-<l>Invisible, till In this solitude</l>
-<l>Of Great Trees It become strangely Indued</l>
-<l>With substance,  and confront you with your</l>
-<l>fate.</l>
+<l>Invisible, till in this solitude</l>
+<l>Of Great Trees it become strangely indued</l>
+<l>With substance,  and confront you with your fate.</l></lg>
 
-<l>Ay, but the Wood Is not confederate</l>
-<l>Against   you!—These   are   comrades   among</l>
-<l>whom</l>
+<lg type="stanza">
+<l>Ay, but the Wood is not confederate</l>
+<l>Against   you!--These are comrades among whom</l>
 
 <l>26</l>
 
 
 
-<pb n=""/>
+<pb n="FREEDOM'S FELLOWSHIP  27"/>
 
-
-
-<l>FREEDOM'S FELLOWSHIP</l>
-
-<l>The secret that is In your heart may come</l>
-
-<l>Venturing forth out of Its secrecy</l>
-
-<l>Into the worship that they make with me—</l>
-
+<l>The secret that is in your heart may come</l>
+<l>Venturing forth out of its secrecy</l>
+<l>Into the worship that they make with me--</l>
 <l>A spacious living silence underneath</l>
-
-<l>A spread of branches Interwoven with</l>
-
+<l>A spread of branches interwoven with</l>
 <l>Slant sunbeams, in whose wide beneficence</l>
-
 <l>Our spirits have no more need of defence:</l>
-
 <l>A space of sunshine that dictates to none</l>
-
 <l>The joy wherewith he shall be clothed upon,</l>
-
 <l>But only bids him free his spirit wholly</l>
-
-<l>Of chattering care and murderous melancholy.</l>
-
-<l>And give It to delight: sunshine that quickens</l>
-
+<l>Of chattering care and murderous melancholy,</l>
+<l>And give it to delight: sunshine that quickens</l>
 <l>That singing of the heart that flags and sickens</l>
-
 <l>Where love's a prisoner and hath not yet</l>
-
 <l>Climbed up on to the windy parapet</l>
-
 <l>Of boundary cliff that gives upon the vast</l>
-
 <l>Expanse of life, nor yet had heart to cast</l>
-
 <l>Forth trusting to the waters of the sea</l>
+<l>Of faith's incredible immensity.</l></lg></div>
 
-<l>Of faith's incredible Immensity.</l>
-
-<l>VI</l>
-
-<l>I  AM myself at last, with now no more</l>
-<l>Fluttering against the pane, at the locked</l>
-<l>door</l>
-<l>No more entreaty.    Now with bitterness</l>
+<div id="binns111" type="section" n="6">
+<head rend="center">VI</head>
+<lg type="stanza">
+<l>I AM myself at last, with now no more</l>
+<l>Fluttering against the pane, at the locked door</l>
+<l>No more entreaty. Now with bitterness</l>
 <l>I claim no more forgiveness or redress:</l>
 <l>The battle-cries that echo about me cease</l>
 <l>To nerve me or unnerve me: I have peace.</l>
@@ -876,51 +734,43 @@ FIVE PRELUDES</head>
 
 
 
-<pb n=""/>
-
-
-
-<l>FREEDOM'S FELLOWSHIP</l>
+<pb n="FREEDOM'S FELLOWSHIP 28"/>
 
 <l>My spirit from his age-long strife arose:</l>
 <l>He stood no more contending with his foes:</l>
-<l>Flung down his sword and shield: put off his</l>
-
-<l>mask</l>
+<l>Flung down his sword and shield: put off his mask</l>
 <l>Of warrior, and to his proper task</l>
 <l>Turning with a quick gesture seemed no longer</l>
-<l>The self I knew: wiser he was and younger.</l>
+<l>The self I knew: wiser he was and younger.</l></lg>
 
+<lg type="stanza">
 <l>I felt my body quicken with that might</l>
 <l>Of mastery that is the soul's delight</l>
-<l>When, from its secret chamber Issuing,</l>
+<l>When, from its secret chamber issuing,</l>
 <l>Clad in the candour of a May-morning,</l>
 <l>Comes the Almighty Fiat forth that changes</l>
-<l>The aspect of the world in all Its ranges</l>
+<l>The aspect of the world in all its ranges</l>
 <l>With a new rhythm, whereto all circumstance</l>
 <l>Responds, and the eternal atoms dance.</l>
 <l>Comes a new pattern, comes another norm</l>
 <l>Into creation, and the subtle form</l>
 <l>Of every creature answering to it, wins</l>
-<l>Fresh meaning, and another age begins.</l>
+<l>Fresh meaning, and another age begins.</l></lg>
 
-<l>The peace I enter Into is alive</l>
+<lg type="stanza">
+<l>The peace I enter into is alive</l>
 <l>With living life, that needs no longer strive</l>
-<l>Because It is triumphant as a flower</l>
-<l>Whereof the air admits the sovereign power.</l>
+<l>Because it is triumphant as a flower</l>
+<l>Whereof the air admits the sovereign power,</l>
 <l>The substance of whose delicacy carries</l>
 <l>Magic that with the power creative marries</l>
-<l>So that Its ecstasy, and it alone,</l>
+<l>So that its ecstasy, and it alone,</l>
 
 <l>28</l>
 
 
 
-<pb n=""/>
-
-
-
-<l>FREEDOM'S FELLOWSHIP</l>
+<pb n="FREEDOM'S FELLOWSHIP  29"/>
 
 <l>Brings to the earth a hitherto unknown</l>
 <l>Henceforth eternally recurrent joy.</l>
@@ -938,79 +788,53 @@ FIVE PRELUDES</head>
 <l>That Is so capable of joy its cells</l>
 <l>Conspire together against whatever else</l>
 <l>Usurps its government, but all their will</l>
-<l>Is Gladness, his commandments to fulfil.</l>
+<l>Is Gladness, his commandments to fulfil.</l></lg></div>
 
-
-
-
-
-<l>VII</l>
-
-<l>O LARGE Is life!—The life I come Into</l>
+<div id="binns112" type="section" n="7">
+<head rend="center">VII</head>
+<lg type="stanza">
+<l>O LARGE is life!--The life I come into</l>
 <l>Stretches so large about me as I go</l>
 <l>Upon my errands, that I seem to be</l>
-<l>Already a dweller In that Liberty</l>
-<l>That Is itself the immortal blessedness</l>
+<l>Already a dweller in that Liberty</l>
+<l>That is itself the immortal blessedness</l>
 <l>I sought, but dared not deem I could possess.</l>
 <l>I move about in it as in the temple</l>
-<l>Built by my spirit for Its worship: ample</l>
+<l>Built by my spirit for its worship: ample</l>
 
 <l>29</l>
 
 
 
-<pb n=""/>
-
-
-
-<l>FREEDOM'S FELLOWSHIP</l>
+<pb n="FREEDOM'S FELLOWSHIP  30"/>
 
 <l>For it as the whole starry-raftered Night,</l>
-
 <l>But not too lonely-wide for my delight</l>
-
 <l>To fill it, as the worshipping fulfils</l>
-
-<l>All some vast minster, when, crossing Its sills,</l>
-
+<l>All some vast minster, when, crossing its sills,</l>
 <l>You enter from the noisy stranger street</l>
-
 <l>And on the instant are a part of it:</l>
-
-<l>So, when out of the trafllc I come in</l>
-
+<l>So, when out of the traffic I come in</l>
 <l>To mine own freedom, once again I win</l>
+<l>The great horizon of Reality--</l>
+<l>To know in everything I hear and see</l>
+<l>My fellowship, as it were all one life with me.</l></lg>
 
-<l>The great horizon of Reality—</l>
-
-<l>To know In everything I hear and see</l>
-
-<l>My fellowship, as it were all one life with me.</l>
-
-<l>More than myself It is I: In It alone</l>
-
+<lg type="stanza">
+<l>More than myself it is I: In It alone</l>
 <l>I am the master of the fully-grown</l>
-
 <l>Faculties of my spirit, incorporate</l>
-
-<l>Only In Its high purpose to create</l>
-
+<l>Only in its high purpose to create</l>
 <l>A body for my joy, a consciousness</l>
-
 <l>That my delight shall hold against distress</l>
-
 <l>If but for an hour: only in it I know</l>
-
 <l>The Imperative command, that bade me go</l>
-
 <l>Forth into birth and being, justified:</l>
-
-<l>Only In it, Immortal, I abide</l>
-
+<l>Only in it, immortal, I abide</l>
 <l>Set in my place, as in the firmament</l>
+<l>Of godhood, till its purpose be forspent.</l></lg>
 
-<l>Of godhood, till Its purpose be forspent.</l>
-
+<lg type="stanza">
 <l>For this my larger life is that wherein</l>
 <l>I enter into Freedom, and begin</l>
 <l>Participating in the power that flows</l>
@@ -1019,11 +843,7 @@ FIVE PRELUDES</head>
 
 
 
-<pb n=""/>
-
-
-
-<l>FREEDOM'S FELLOWSHIP</l>
+<pb n="FREEDOM'S FELLOWSHIP 31"/>
 
 <l>Through all the living fellowship of those</l>
 <l>That are Its members and embody it.</l>
@@ -1033,25 +853,28 @@ FIVE PRELUDES</head>
 <l>Declares God's Glory, filling up the span</l>
 <l>Of worship, since the dark of death began,</l>
 <l>With the inseparable company</l>
-<l>Of them that enter into Liberty.</l>
+<l>Of them that enter into Liberty.</l></lg></div>
 
-<l>VIII</l>
-
-<l>1AM among my comrades: my delight</l>
+<div id="binns113" type="section" n="8">
+<head rend="center">VIII</head>
+<lg type="stanza">
+<l>I AM among my comrades: my delight</l>
 <l>Is all about me like a starry bright</l>
 <l>Company.    All the wonder in the air</l>
 <l>Is actual communion that I share</l>
 <l>With that great fellowship in whom I am</l>
-<l>Enkindled from a coal Into a flame.</l>
+<l>Enkindled from a coal into a flame.</l></lg>
 
+<lg type="stanza">
 <l>Often when I am most alone that joy</l>
 <l>Encircles me with friends: and they convoy</l>
 <l>The ship of my desire safe through the shoal-</l>
 <l>Waters into the open sea: my whole</l>
 <l>Being is theirs because they set me free</l>
 <l>Who catch me up into their company</l>
-<l>And carry me out to the Open Sea.</l>
+<l>And carry me out to the Open Sea.</l></lg>
 
+<lg type="stanza">
 <l>When I am left with my defeated gladness,</l>
 <l>And am beset about by sullen madness</l>
 <l>That battens upon misery, and my numb</l>
@@ -1060,15 +883,11 @@ FIVE PRELUDES</head>
 
 
 
-<pb n=""/>
+<pb n="FREEDOM'S FELLOWSHIP 32"/>
 
-
-
-<l>FREEDOM'S FELLOWSHIP</l>
-
-<l>Spirit cries out for succour—then they come</l>
+<l>Spirit cries out for succour--then they come</l>
 <l>Thronging about me, and I feel the anguish</l>
-<l>That ate Into my soul begin to languish</l>
+<l>That ate into my soul begin to languish</l>
 <l>Because of them: I know again the strong</l>
 <l>Arms of that joy whereunto I belong.</l>
 <l>Anew each day with all my will I break</l>
@@ -1083,17 +902,15 @@ FIVE PRELUDES</head>
 <l>To know my comrades of eternity</l>
 <l>Sharing the moment of delight with me,</l>
 <l>Respiring with me that Immortal breath</l>
-<l>Fhat is one life beyond despair and death.</l>
+<l>That is one life beyond despair and death.</l></lg></div>
 
-<l>IX</l>
-
-<l>FELLOWSHIP Is a  grove of trees that</l>
-<l>stand</l>
+<div id="binns114" type="section" n="9">
+<head rend="center">IX</head>
+<lg type="stanza">
+<l>FELLOWSHIP Is a  grove of trees that stand</l>
 <l>Taller than the thick wood on either hand</l>
-<l>As heroes stand than men.    The heart lifts</l>
-
-<l>higher</l>
-<l>Entering here.   It ventures to aspire</l>
+<l>As heroes stand than men. The heart lifts higher</l>
+<l>Entering here. It ventures to aspire</l>
 <l>To its full manhood: rises up above</l>
 
 <l>32</l>

@@ -1221,13 +1221,13 @@ fount</l>
 
 <pb n="47"/>
 
-<div id="binns006" type="poem" n="6">****Is it alright to format this poem this way: as a series of quotations?
+<div id="binns006" type="poem" n="6">****Is it alright to format the poem this way: as a series of quotations?
 <head rend="center">THE EXILE</head>
 
 <p>Heribert Freimuth, hyphenated American, writes:</p>
 
-<div id="binns115" type="section" n="1">
-<q><head type="sub">I.  OF GERMANY</head>
+<q><div id="binns115" type="section" n="1">
+<head type="sub">I.  OF GERMANY</head>
 <lg type="stanza">
 
 <l>SHE had a place midmost among the nations--</l>
@@ -1333,9 +1333,9 @@ fount</l>
 <l>How loving Liberty a little, to his foe</l>
 <l>She yielded up herself with wicked meekness;</l>
 <l>For when her love of him brought her to peril, she</l>
-<l>Failed in her little love and grew ashamed she had loved liberty.</l></lg></q></div>
+<l>Failed in her little love and grew ashamed she had loved liberty.</l></lg></div></q>
 
-<div id="binns116" type="section" n="2">
+<q><div id="binns116" type="section" n="2">
 <head type="sub">2.    OF HIS YOUTH</head>
 <lg type="stanza">
 <l>ALWAYS I see you, Mother, as a fair</l>
@@ -1497,9 +1497,9 @@ fount</l>
 <l>Ever that sinister &#x00c6;gisthean form</l>
 <l>That pursues Freedom if he may</l>
 <l>Seduce his bride from him once more:</l>
-<l>And here in this New World, wrestling with him, we threw him.</l></lg></div>
+<l>And here in this New World, wrestling with him, we threw him.</l></lg></div></q>
 
-<div id="binns117" type="section" n="3">
+<q><div id="binns117" type="section" n="3">
 <head type="sub">3.    TO THE ALLIES</head>
 <lg type="stanza">
 <l>O NOT because ye are guiltless, but because</l>
@@ -1572,113 +1572,69 @@ fount</l>
 <l>For like the sun in his uprising,</l>
 <l>He cannot help but must</l>
 
-<l>57</l>
 
-
-
-<pb n=""/>
-
-
-
-<l>THE EXILE</l>
+<pb n="THE EXILE  58"/>
 
 <l>Evoke with magic ray</l>
-
 <l>The myrladlcity of joy, surprising</l>
-
 <l>Out of each indistinguishable clod of clay</l>
-
 <l>A different flower:</l>
-
 <l>She too, awake, shall say</l>
+<l>"I can no more contend against this power."</l></lg>
 
-<l>"I can no more contend against this power."</l>
-
+<lg type="stanza">
 <l>Ye shall shock her wide-eyed,</l>
-<l>Because,  awakened from your own  so-heavy</l>
-
-<l>dreams of pride,</l>
-<l>Already In yourselves</l>
+<l>Because, awakened from your own so-heavy dreams of pride,</l>
+<l>Already in yourselves</l>
 <l>Ye begin to know the quick thrill</l>
 <l>That is like the little feet of elves</l>
 <l>Merry in a hill:</l>
 <l>Already the numb, the cold</l>
 <l>Separate molecules of your earth</l>
-<l>Have begun stirring toward the summer, and</l>
-
-<l>grown bold</l>
+<l>Have begun stirring toward the summer, and grown bold</l>
 <l>With February mirth</l>
 <l>To conspire together and loose the hold</l>
 <l>Of separation: ye commence</l>
 <l>Telling, among the astonished rocks and roots</l>
 <l>With eager, brave inconsequence.</l>
 <l>Of the April shoots</l>
-<l>That are to issue thence.</l>
+<l>That are to issue thence.</l></lg>
 
+<lg type="stanza">
 <l>Among you is beginning</l>
 <l>Another year, another age!</l>
-<l>And she,—</l>
-
-<l>58</l>
+<l>And she,--</l>
 
 
+<pb n="THE EXILE  59"/>
 
-<pb n=""/>
-
-
-
-<l>THE EXILE</l>
-
-<l>Her false fond dream irrevocably fled.</l>
-
+<l>Her false fond dream irrevocably fled,</l>
 <l>The Furies she invited having spent their rage</l>
-
-<l>And sunk exhausted on their leagues of dead—</l>
-
+<l>And sunk exhausted on their leagues of dead--</l>
 <l>She shall awake, but first to see</l>
-
-<l>In the blank dawning of disaster.</l>
-
+<l>In the blank dawning of disaster,</l>
 <l>Her cannon grinning</l>
-
-<l>Upon her, with delight Insane</l>
-
-<l>Of that first crime, preluding vaster.</l>
-
+<l>Upon her, with delight insane</l>
+<l>Of that first crime, preluding vaster,</l>
 <l>Wherein, betraying a little people's trust</l>
-
 <l>By the mere sacrilege of Power,</l>
-
 <l>She trod its valour for an hour</l>
-
-<l>Into the nameless dust.</l>
-
+<l>Into the nameless dust,</l>
 <l>And branded in her brain</l>
-
 <l>For all eternity</l>
-
-<l>Belgium—challenge forever</l>
-
+<l>BELGIUM--challenge forever</l>
 <l>To whoso would endeavour</l>
-
 <l>Henceforward to seduce</l>
-
 <l>Her spirit: there, blazing behind her eyes,</l>
-
 <l>With inartlculable agonies</l>
-
 <l>Fiery to wither and annihilate</l>
-
 <l>Any least creeping shadow of thought</l>
-
 <l>Ere it can whisper an excuse</l>
-
 <l>That might abate</l>
-
 <l>The horror of her soul</l>
+<l>For this, unspeakable, that she hath wrought.</l></lg>
 
-<l>For this, unspeakable, that she hath wrought.</l>
-
+<lg type="stanza">
 <l>O, presently across this trampled slough</l>
 <l>Of bloody hours,</l>
 
@@ -1686,275 +1642,184 @@ fount</l>
 
 
 
-<pb n=""/>
+<pb n="THE EXILE  60"/>
 
-
-
-<l>THE EXILE</l>
-
-<l>Will he the reconciling light.</l>
-
+<l>Will lie the reconciling light,</l>
 <l>And grass and gracious meadow flowers</l>
-
 <l>Will cover it from sight:</l>
-
 <l>To her too, will return the blessed days</l>
-
 <l>Of vision: Life's amaze</l>
-
-<l>Will kindle In that brow,</l>
-
+<l>Will kindle in that brow,</l>
 <l>And deep within that tortured brain</l>
-
 <l>There will well-up anew the healing spring</l>
-
 <l>Of music, for whose mighty murmuring</l>
+<l>The heart o' the earth is fain.</l></lg>
 
-<l>The heart o' the earth Is fain.</l>
-
-
-
-
-
-<l>Presently!—O but first,</l>
-
-<l>(There is no cure else for this obscene posses¬</l>
-<l>sion)</l>
-
+<lg type="stanza">
+<l>Presently!--O but first,</l>
+<l>(There is no cure else for this obscene possession)</l>
 <l>Down must she go under defeat</l>
-
 <l>And fling her boasting down.</l>
-
 <l>Either herself must perish</l>
-
 <l>With her deceit,</l>
-
 <l>Or she shall cease to cherish</l>
-
 <l>This shadowy Thing accurst</l>
-
 <l>This Hell-begotten Hope,</l>
-
 <l>That she crowned with the high crown</l>
-
 <l>Of her pride.</l>
-
 <l>On no side</l>
-
 <l>Evasion: no new scope</l>
-
-<l>Left It: but blank surrender and abject con¬</l>
-<l>fession.     . .</l>
+<l>Left it: but blank surrender and abject confession. . .</l>
 
 <l>60</l>
 
 
 
-<pb n=""/>
+<pb n="THE EXILE  61"/>
 
-
-
-<l>THE EXILE</l>
-
-<l>Then with the end of strife</l>
-<l>Comes knowledge of her need—^</l>
+<l rend="indent">Then with the end of strife</l>
+<l>Comes knowledge of her need--</l>
 <l>To repent: to take the oath</l>
 <l>To Liberty: to plead</l>
-<l>—If such a thing might be—</l>
+<l>--If such a thing might be--</l>
 <l>That, after final rout,</l>
 <l>With all the battle won.</l>
-<l>Truth should lay by now sword for surgeon's</l>
-
-<l>knife:</l>
+<l>Truth should lay by now sword for surgeon's knife:</l>
 <l>Discover in his hiding, and pluck out</l>
-<l>Of his hold In the quick of the brain</l>
+<l>Of his hold in the quick of the brain</l>
 <l>That greedy, that malignant growth</l>
 <l>Which like a heaven-obscuring tree</l>
-<l>Shadowed her days,  and shut her  from  the</l>
+<l>Shadowed her days, and shut her from the Sun</l>
+<l>That shining upon all the lands shone upon hers in vain.</l></lg></div>
 
-<l>Sun</l>
-<l>That shining upon all the lands shone upon</l>
+<l>61</l>
 
-<l>hers in vain.</l>
-
-
+</q></div>
 
 
 
-<l>6i</l>
+<pb n="Siegesallee Fantasia  62"/>
 
-
-
-<pb n=""/>
-
-
-
-<l>Siegesallee Fantasia</l>
-
-<l>The Avenue of Hohenzollerns near Berlin.</l>
-<l>Enter, in full fig, his scabbard dragging at</l>
-<l>his heels, the Kaiser, talking to himself:</l>
+<div id="binns007" type="poem" n="7">
+<p><hi rend="italic">The Avenue of Hohenzollerns near Berlin.
+Enter, in full fig, his scabbard dragging at
+his heels, the KAISER, talking to himself:</hi></p>
 
 <l>I'LD like to pack these ancestors of mine</l>
-<l>To Konigsberg or somewhere over-Rhine</l>
+<l>To K&#x00F6;nigsberg or somewhere over-Rhine</l>
 <l>Where they could not keep watch upon me!</l>
-
 <l>How,</l>
 <l>With them about me, can I face the now</l>
 <l>Obvious fact I need not specify?</l>
 <l>Old William with his grandpaternal look</l>
-<l>Seems always to be calling me to book:—</l>
+<l>Seems always to be calling me to book:--</l>
 <l>Bismarck made fun of him: why cannot I?</l>
-<l>And these huge Fredericks in a double row.</l>
+<l>And these huge Fredericks in a double row,</l>
 <l>Electors, kings and what-nots: I could go</l>
 <l>Crazy, seeing them stand, week after week</l>
-<l>Glaring at me I   I've got a mind to tweak</l>
-<l>That Frederick-William's beard, and make him</l>
-
-<l>speak.</l>
-<l>Pompous old marble Idiot!   If they'ld only</l>
+<l>Glaring at me ! I've got a mind to tweak</l>
+<l>That Frederick-William's beard, and make him speak,</l>
+<l>Pompous old marble idiot!   If they'ld only</l>
 <l>Say what they mean, I shouldn't feel so lonely</l>
-<l>Among them.—But nobody ever said</l>
-<l>That to me.—^Well, he would have lost his</l>
-
-<l>head</l>
-<l>For his fool's trouble!—But suppose, suppose</l>
+<l>Among them.--But nobody ever said</l>
+<l><hi rend="italic">That</hi> to me.--Well, he would have lost his head</l>
+<l>For his fool's trouble!--But suppose, suppose</l>
 
 <l>62</l>
 
 
 
-<pb n=""/>
+<pb n="SIEGESALLEE FANTASIA  63"/>
 
-
-
-<l>SIEGESALLEE FANTASIA</l>
-
-<l>Someone   had   spoken   truth   to   me!     Who</l>
-
-<l>knows— ?</l>
-<l>I might have listened.   One In whose aspect</l>
+<l>Someone   had   spoken   truth   to   me!     Who knows--?</l>
+<l>I <hi rend="italic">might</hi> have listened.   One in whose aspect</l>
 <l>My Prussian-eagle eye could not detect</l>
 <l>Any self-interest or any fear.</l>
 <l>For once I should have relished not to hear</l>
 <l>My All-highness spoken of.    If, let us say</l>
-<l>Some Roosevelt, fresh from America</l>
+<l>Some <sic>Roos&#x00E9;velt</sic>, fresh from America</l>
 <l>Had flouted all my favourites, confronted</l>
 <l>Flattery with stark fact: relentless, hunted</l>
 <l>Down the deception that we practise, under</l>
 <l>My very eyes; with lightning to my thunder</l>
 <l>Had answered like a good Republican:</l>
 <l>Had made me wrestle with him, man to man,</l>
-<l>Bound only by the hard rules of the Ring—</l>
+<l>Bound only by the hard rules of the Ring--</l>
 <l>And he the better man because no king.</l>
 <l>Would I have taken a drubbing from him?</l>
-
-<l>Well</l>
-<l>That is a thing I'll argue out In Hell</l>
-<l>When we make nights of It around the blaze</l>
+<l rend="indent">Well</l>
+<l>That is a thing I'll argue out in Hell</l>
+<l>When we make nights of it around the blaze</l>
 <l>To keep away the memory of these days.</l>
-
-<l>I've had twenty-eight years of Kalsering</l>
+<l>I've had twenty-eight years of Kaisering</l>
 <l>And, good God, it's enough!   But how to fling</l>
 <l>The bauble from me with these looking on!</l>
 <l>My spirit might be an automaton</l>
 <l>For all they care, and not like Alexander's</l>
-<l>Hungry for worlds to conquer, that I can't.</l>
+<l>Hungry for worlds to conquer, that I can't,</l>
 <l>Since first I made a mess of it in Flanders.</l>
 
 <l>63</l>
 
 
 
-<pb n=""/>
+<pb n="SIEGESALLEE FANTASIA  64"/>
 
+<l>The thing is plain. Since other worlds I want</l>
+<l>I'll have to look for them where  I can find them.</l>
+<l>The screens of death are solid.  But behind them</l>
+<l>There must be what I am in search of--</l>
+<l rend="indent">Change,</l>
+<l>And room for my ambition's farthest range!.</l>
+<l>(<hi rend="italic">He glances impatiently at his wrist watch</hi>)</l>
+<l>Now Where's Our Old Ally? The fellow's late,</l>
+<l>Confound him!  But here comes old honest pate.</l>
 
+<p><hi rend="italic">Enter old</hi> MICHAEL,<hi rend="italic"> a gardener with harrow
+and besom. He is dressed in a tasseled cap,
+leather jacket, and knee-breeches. Seeing
+the Kaiser, he salutes with military gesture.</hi></p>
 
-<l>SIEGESALLEE FANTASIA</l>
+<p>KAISER (<hi rend="italic">benevolent to an ancient retainer</hi>).</p>
+<p>Good morning to you, Michael.</p>
+<p><l>MICHAEL (shaking his head).   It's a sad</l>
+<l> Dark morning. Master, as we ever had.</l>
+<l> Beg pardon. It is better where you be</l>
+<l> Up yonder, but It's bad for such as we.</l></p>
 
-<l>The thing is plain.    Since other worlds I want</l>
-<l>I'll have to look for them where  I can find</l>
-
-<l>them.</l>
-<l>The screens of death are solid.    But behind</l>
-
-<l>them</l>
-<l>There  must  be  what  I   am   In  search  of—</l>
-
-<l>Change,</l>
-<l>And    room     for    my    ambition's     farthest</l>
-
-<l>range!  .</l>
-<l>{He glances impatiently at his wrist watch)</l>
-<l>Now Where's Our Old Ally?    The fellow's</l>
-
-<l>late,</l>
-<l>Confound him!     But here comes  old honest</l>
-
-<l>pate.</l>
-
-<l>Enter old MiCHAEL, a gardener with harrow</l>
-<l>and besom. He is dressed in a tasseled cap,</l>
-<l>leather jacket, and knee-breeches. Seeing</l>
-<l>the Kaiser, he salutes with military gesture.</l>
-
-<l>Kaiser {benevolent to an ancient retainer).</l>
-
-<l>Good morning to you, Michael.</l>
-<l>Michael {shaking his head).   It's a sad</l>
-<l>Dark morning. Master, as we ever had.</l>
-<l>Beg pardon. It Is better where you be</l>
-<l>Up yonder, but It's bad for such as we.</l>
-
-<l>Kai.   I am surprised, old friend, to hear you</l>
-<l>grumble.</l>
+<p><l>KAI.   I am surprised, old friend, to hear you grumble.</l>
 <l>Whatever grief may fall upon the humble</l>
 
 <l>64</l>
 
 
 
-<pb n=""/>
-
-
-
-<l>SIEGESALLEE FANTASIA</l>
+<pb n="SIEGESALLEE FANTASIA  65"/>
 
 <l>Remember heavier falls on Us:   We bear</l>
 <l>The burden of the Empire.   None may share</l>
-<l>What We must carry.</l>
+<l>What We must carry.</l></p>
 
-<l>Mich.               Hearken now, All-Highest!</l>
-
-<l>When you go reckoning up the chaps you've</l>
-
-<l>got</l>
-<l>I'm "old man Michael," ain't I?    Toughest,</l>
-
-<l>dryest,</l>
-<l>Stubbornest, old curmudgeon of the lot?</l>
-<l>Kai.    What's in your head this morning,</l>
-
-<l>out with It.</l>
-<l>Mich.   I've been a soldier and I've done my</l>
-<l>bit:</l>
+<p><l>MICH.               Hearken now, All-Highest!</l>
+<l>When you go reckoning up the chaps you've got</l>
+<l>I'm "old man Michael," ain't I?    Toughest, dryest,</l>
+<l>Stubbornest, old curmudgeon of the lot?</l></p>
+<p><l>KAI.    What's in your head this morning, out with it.</l></p>
+<p><l>MICH.   I've been a soldier and I've done my bit:</l>
 <l>Sergeant I was under the old king here;</l>
-<l>And  "our  Fritz,"  him, your  father.     It's  a</l>
+<l>And  "our  Fritz,"  him, your  father.     It's  a queer </l>
+<l>Thing that I'm telling you, but it's a true:</l>
+<l>Soldiering's done with.</l></p>
 
-<l>queer</l>
-<l>Thing that I'm telling you, but It's a true:</l>
-<l>Soldiering's done with.</l>
+<p><l>KAI.                       Long ago, for you!     . .</l></p>
 
-<l>Kai.                       Long ago, for you!     . .</l>
-
-<l>Mich.    It isn't that way you can save the</l>
-<l>folk:</l>
-<l>And it needs saving, for our hearts are broke.</l>
+<p><l>MICH.    It isn't that way you can save the folk:</l>
+<l>And it needs saving, for our hearts are broke,</l>
 <l>So that we can't so much as go to church.</l>
-<l>So, Master, if you leave us In the lurch,</l>
-<l>As you might say, we're perished.</l>
+<l>So, Master, if you leave us in the lurch,</l>
+<l>As you might say, we're perished.</l></p>
 
-<l>Kai.                                          When did we</l>
+<p><l>KAI.                                          When did we</l>
 
 <l>Hohenzollerns, desert our peasantry</l>
 <l>Of the Mark?   Since five full centuries ago</l>
@@ -1963,48 +1828,30 @@ fount</l>
 
 
 
-<pb n=""/>
-
-
-
-<l>SIEGESALLEE FANTASIA</l>
+<pb n="SIEGESALLEE FANTASIA  66"/>
 
 <l>Led by the voice that we have come to know</l>
-
 <l>For God's own Word within us, Frederick first</l>
-
-<l>Left his rich lands to redeem one accurst.</l>
-
-<l>Converting Its mere sand Into a rock</l>
-
+<l>Left his rich lands to redeem one accurst,</l>
+<l>Converting its mere sand into a rock</l>
 <l>Of bronze against which all the nations shock</l>
-
 <l>Their enviousness in vain.   This miracle</l>
-
 <l>To God's praise we have wrought: unto His</l>
-
 <l>Will</l>
 <l>We've shaped the stubborn metal of this folk,</l>
 <l>Till in our hands it is a living sword:</l>
-<l>And now the Mark toils In the easy yoke</l>
-<l>Of a divinely led and loving Lord.</l>
+<l>And now the Mark toils in the easy yoke</l>
+<l>Of a divinely led and loving Lord.</l></p>
 
-<l>Mich.     That's   just   where   you   mistake,</l>
-
+<p><l>MICH.     That's   just   where   you   mistake,</l>
 <l>Master.   This people</l>
 <l>Is a lost people.   Each young man's a cripple</l>
-<l>That's not a corpse.    But there's worse still</l>
-
-<l>than that,</l>
+<l>That's not a corpse.    But there's worse still than that,</l>
 <l>For each new child they get's a devil's brat</l>
 <l>Marked for damnation.    People of the Mark,</l>
-<l>Ay,  of the  Devil's  Mark—that's us!—And</l>
-
-<l>hark,</l>
+<l>Ay,  of the  Devil's  Mark--that's us!--And hark,</l>
 <l>Master, there's nary good that we can do</l>
-<l>Ourselves, there's only one can save us . . .</l>
-
-<l>you.</l>
+<l>Ourselves, there's only one can save us . . .you.</l>
 <l>Not by the sword, but yet the sword's a sign</l>
 <l>Grasped by the blade, as often I've held mine</l>
 <l>And seen it was a Cross, and wondered when</l>
@@ -2014,18 +1861,12 @@ fount</l>
 
 
 
-<pb n=""/>
-
-
-
-<l>SIEGESALLEE FANTASIA</l>
+<pb n="SIEGESALLEE FANTASIA"/>
 
 <l>To hang there and redeem us with his passion.</l>
-<l>Kai. {severely).    Old man, you should not</l>
-
-<l>rant In heathen fashion</l>
+<p><l>Kai. (<hi rend="italic">severely</hi>).    Old man, you should not rant in heathen fashion</l>
 <l>Of what you do not understand.   The price</l>
-<l>Of our salvation Is not asked for twice.</l>
+<l>Of our salvation is not asked for twice.</l>
 <l>God paid it once for all.    Each German man,</l>
 <l>Woman and child He bought out of the ban</l>
 <l>That lies upon the world because of sin.</l>
@@ -2033,23 +1874,18 @@ fount</l>
 <l>Speaking to us of a lost people?   We</l>
 <l>Hold the salvation of our Germany</l>
 <l>Secure within our care: to doubt of it</l>
-<l>Is the sure symptom of a crazy wit.</l>
+<l>Is the sure symptom of a crazy wit.</l></p>
 
-<l>Mich.   Ay, Master, you're our pledge, and</l>
-
+<p><l>MICH.   Ay, Master, you're our pledge, and</l>
 <l>God be praised</l>
-<l>For that!     But my old wife  at home she's</l>
-
-<l>crazed;</l>
+<l>For that!     But my old wife  at home she's crazed;</l>
 <l>Sits in the chimney-corner all a-dodder</l>
 <l>Muttering "Give me again my cannon-fodder"</l>
 <l>(Her twenty grandsons that she doted on)</l>
 <l>And sits and curses God.   To look upon</l>
 <l>You'd say she was a saint.   I gets me gone</l>
 <l>Out of my little mad-house, every day</l>
-<l>Comes here and works among my kings.    It's</l>
-
-<l>they</l>
+<l>Comes here and works among my kings.    It's they</l>
 <l>As comfort me.   Wonderful thoughts do keep</l>
 <l>A-running through my noddle while I sweep</l>
 <l>The leaves up that are always falling down:</l>
@@ -2058,167 +1894,108 @@ fount</l>
 
 
 
-<pb n=""/>
+<pb n="SIEGESALLEE FANTASIA  68"/>
 
-
-
-<l>SIEGESALLEE FANTASIA</l>
-
-<l>Strange   high  thoughts   that  belong  under   a</l>
-
-<l>crown</l>
-<l>And not a zlpfelhaubef    Mark my word,</l>
+<l>Strange high thoughts that belong under a crown</l>
+<l>And not a <hi rend="italic">zipfelhaube!</hi>    Mark my word,</l>
 <l>Master.   The whisperings I have overheard</l>
-<l>Were  meant  for  you,  but  as  you  were  not</l>
-
-<l>near</l>
+<l>Were  meant  for  you,  but  as  you  were  not near</l>
 <l>They said "This is a good old harmless fool</l>
-<l>As never saw the insldes of a school.</l>
+<l>As never saw the insides of a school,</l>
 <l>If we can only make old Michael hear</l>
-<l>He'll take our message to the Emperor."</l>
+<l>He'll take our message to the Emperor."</l></p>
 
-<l>Kai.   We cannot listen to you any more.</l>
-<l>Go now, get to your sweeping-------</l>
+<p><l>KAI.   We cannot listen to you any more.</l>
+<l>Go now, get to your sweeping-------</l></p>
 
-<l>Mich,  {sweeping)                 What they said</l>
+<p><l>MICH.  (<hi rend="italic">sweeping</hi>)                 What they said</l>
+<l>Day in, day out, rings in old Michael's head:</l>
+<q><l><hi rend="italic">"Tell him: the soldier's day is done,</hi></l>
+<l><hi rend="italic">Another better day's begun</hi></l>
+<l><hi rend="italic">With a new glory in it!</hi>"</l></q></p>
 
-<l>Day In, day out, rings In old Michael's head:</l>
-<l>"Tell him: the soldier's day is done,</l>
-<l>Another better day's begun</l>
-<l>With a new glory in it!"</l>
-
-<l>Kai.   Go further from us there!—But, stay</l>
-<l>a minute,</l>
+<p><l>KAI.   Go further from us there!--But, stay a minute,</l>
 <l>What's this about new glory?</l>
-
-<l>yiicn. {as before)                 And they said—</l>
-
-<l>Day In, day out, it runs in Michael's head—</l>
-<l>"Tell him: there shines a glory on</l>
-<l>The cross that is not on the crown,</l>
-<l>Would he reach up and win it,</l>
-<l>Tell him: the world would now repent</l>
-<l>And live again the life it's meant</l>
-<l>To live, would he begin it."</l>
+<l>MICH.(<hi rend="italic">as before</hi>)        And they said--</l>
+<l>Day in, day out, it runs in Michael's head--</l>
+<l>"<hi rend="italic">Tell him: there shines a glory on</hi></l>
+<l><hi rend="italic">The cross that is not on the crown,</hi></l>
+<l><hi rend="italic">Would he reach up and win it,</hi></l>
+<l><hi rend="italic">Tell him: the world would now repent</hi></l>
+<l><hi rend="italic">And live again the life it's meant</hi></l>
+<l><hi rend="italic">To live, would he begin it."</hi></l></p>
 
 <l>68</l>
 
 
+<pb n="SIEGESALLEE FANTASIA  69"/>
 
-<pb n=""/>
+<p>[OUR OLD ALLY, <hi rend="italic">who has been sitting</hi> perdu
+<hi rend="italic">behind the statue of the Emperor William,
+here  makes  himself seen and catches the</hi> KAISER'S <hi rend="italic">eye,  who promptly dismisses</hi> Michael.]</p>
 
-
-
-<l>SIEGESALLEE FANTASIA</l>
-
-<l>[Our Old Ally, who has been sitting perdu</l>
-
-<l>behind the statue of the Emperor William,</l>
-
-<l>here  makes  himself seen  and  catches  the</l>
-
-<l>Kaiser's    eye,    who    promptly    dismisses</l>
-
-<l>Michael.]</l>
-
-<l>Our Old Ally {looking curiously like Dr.</l>
-<l>Dryander, advances from amid the dead Ho¬</l>
-<l>henzollerns)     Our scourge!   Our Attila!—</l>
-
-<l>YiM. {saluting).   Our Old Ally!</l>
-
-<l>O.O.A. Whenever you're in trouble We</l>
-<l>are by.</l>
-
-<l>Kai.   We sought You on this Path of Vic¬</l>
-<l>tory</l>
-<l>In the august company that is fitting . . .</l>
-
-<l>O.O.A. {with an inclusive gesture). For</l>
-<l>Us.</l>
-
-<l>Kai.   Amid our sovereign Family</l>
-<l>We sought you.</l>
-
-<l>O.O.A.       We were waiting for you, sitting</l>
+<p><l>OUR OLD ALLY (<hi rend="italic">looking curiously like Dr.Dryander, advances from amid the dead Hohenzollerns</hi>)     Our scourge!   Our Attila!--</l></p>
+<p><l>KAI. (<hi rend="italic">saluting</hi>).   Our Old Ally!</l></p>
+<p><l>O.O.A. Whenever you're in trouble We are by.</l></p>
+<p><l>KAI.   We sought You on this Path of Victory</l></p>
+<p><l>In the august company that is fitting . . .</l></p>
+<p><l>O.O.A. (<hi rend="italic">with an inclusive gesture</hi>). For Us.</l></p>
+<p><l>KAI.   Amid our sovereign Family</l>
+<l>We sought you.</l></p>
+<p><l>O.O.A.       We were waiting for you, sitting</l>
 <l>Beside your grandfather the Emperor</l>
 <l>And our first William, our good simple friend.</l>
-<l>We both have many things to thank him for.</l>
+<l>We both have many things to thank him for.</l></p>
+<p><l>KAI. (<hi rend="italic">impatiently</hi>)     Yes, yes! but We have little time to spend</l>
+<l>And weightiest matters . . .</l></p>
 
-<l>Kai. {impatiently)     Yes, yes! but We have</l>
-<l>little time to spend</l>
-<l>And weightiest matters . . .</l>
+<p><l>O.O.A.        Upon us depend</l>
 
-<l>O.O.A.                                Upon us depend</l>
+<l>Whenever care weighs heavy on your shoulders.</l></p>
 
-<l>Whenever care weighs heavy on your shoulders.</l>
-
-<l>Kai.   Sparc us your rhetoric!—&lt;</l>
+<p><l>KAI.   Spare us your rhetoric!--</l></p>
 
 <l>69</l>
 
+<pb n="SIEGESALLEE FANTASIA  70"/>
 
-
-<pb n=""/>
-
-
-
-<l>SIEGESALLEE FANTASIA</l>
-
-<l>O.O.A. {admiringly).   You're more imperi¬</l>
-<l>ous</l>
-<l>Each  time   we   meet.     What   an   impatience</l>
-
-<l>smoulders</l>
+<p><l>O.O.A. (<hi rend="italic">admiringly</hi>).   You're more imperious</l>
+<l>Each  time   we   meet.     What   an   impatience smoulders</l>
 <l>Within those royal orbits: something serious</l>
-<l>Must have befallen.    Have We somewhere</l>
-
-<l>hurt</l>
+<l>Must have befallen.    Have We somewhere hurt</l>
 <l>Your delicate majesty with zeal mistaken?</l>
-<l>To each his manners!   We too, can be curt.—</l>
-<l>The pledge we  made each other stands un¬</l>
-<l>shaken :</l>
-<l>Still We supply the Power that still you want.</l>
-<l>Kai.   This power of yours that was so loud</l>
-<l>a vaunt</l>
-<l>We have tried and found It Insufficient for</l>
-<l>The task we have begun.</l>
+<l>To each his manners!   We too, can be curt.--</l>
+<l>The pledge we  made each other stands unshaken :</l>
+<l>Still We supply the Power that still you want.</l></p>
 
-<l>O.O.A.                           You can have more.</l>
+<p><l>Kai.   This power of yours that was so loud a vaunt</l>
+<l>We have tried and found it insufficient for</l>
+<l>The task we have begun.</l></p>
 
-<l>There still is plenty: it calls out for using.</l>
-<l>Kai.   You are pleased to jest!</l>
-<l>O.O.A.                You too, become amusing!</l>
+<p><l>O.O.A.                           You can have more,</l>
+<l>There still is plenty: it calls out for using.</l></p>
 
-<l>Kai.    What good to Us is power of the</l>
-
-<l>wrong kind?</l>
-<l>O.O.A.   Ah, yes, we know the tool's always</l>
-<l>the wrong one</l>
-<l>Of a Monday morning!—Presently you'll find</l>
-<l>It's still the German Sword, the trusty, strong</l>
-
-<l>one,</l>
-<l>That rattles so divinely 1</l>
+<p><l>KAI.   You are pleased to jest!</l>
+<p><l>O.O.A.                You too, become amusing!</l></p>
+<p><l>KAI.    What good to Us is power of the wrong kind?</l></p>
+<p><l>O.O.A.   Ah, yes, we know the tool's always the wrong one</l>
+<l>Of a Monday morning!--Presently you'll find</l>
+<l>It's still the German Sword, the trusty, strong one,</l>
+<l>That rattles so divinely !</l></p>
 
 <l>70</l>
 
 
 
-<pb n=""/>
+<pb n="SIEGESALLEE FANTASIA  71"/>
 
+<p><l>KAI.                                    Even Our Sword</l>
 
+<l>Has failed to make this hand of ours adored.</l></p>
 
-<l>SIEGESALLEE FANTASIA</l>
-
-<l>Kai.                                    Even Our Sword</l>
-
-<l>Has failed to make this hand of ours adored.</l>
-
-<l>O.O.A.    It seems our power Is the wrong</l>
-<l>kind of power</l>
+<p><l>O.O.A.    It seems our power is the wrong kind of power</l>
 <l>Because it is unkind!   So you've turned Giaour</l>
-<l>From the True Faith!</l>
+<l>From the True Faith!</l></p>
 
 <l>Kai.                  You mock me in your beard!</l>
 

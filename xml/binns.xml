@@ -1,62 +1,138 @@
-<idno type="ocm">ocm04556299</idno>
-<pb n=""/>
+<TEI.2>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>NOVEMBER: Poems in War Time, Electronic Edition</title>
+            <author><name type="person" reg="Binns, Henry Bryan">Henry Bryan Binns</name></author>
+         </titleStmt>
+	 <publicationStmt>
+	   <publisher>Lewis H. Beck Center for Electronic Collections
+	   and Services, Emory University</publisher>
+	   <pubPlace>Atlanta, GA</pubPlace>
+	   <address>
+	     <addrLine>540 Asbury Circle</addrLine>
+	     <addrLine>Woodruff Library</addrLine>
+	     <addrLine>Atlanta, GA 30322</addrLine>
+	   </address>
+	   <availability><p>&#x00A9;Emory University. Permission is
+	   granted to download, transmit, or otherwise reproduce,
+	   distribute or display the contributions to the work claimed
+	   by Emory University for non-profit educational purposes,
+	   provided this header is included in its entirety.  For
+	   inquiries about commercial uses, contact either: Institute
+	   for Jewish Studies, Emory University, Atlanta GA 30322 or
+	   the Lewis H. Beck Center for Electronic Collections and
+	   Services, Woodruff Library, Emory University, Atlanta,
+	   Georgia 30322 </p></availability> 
+	   <date>2004</date>
+	 </publicationStmt>
+	 <seriesStmt>
+	   <title>The Great War</title>
+	 </seriesStmt>
+	 <notesStmt><note></note></notesStmt>
+         <sourceDesc>
+            <bibl>
+	     <title>NOVEMBER: Poems in War Time</title>
+	     <author>Henry Bryan Binns</author>
+	     <pubPlace>New York</pubPlace>
+	     <publisher>Dodd, Mead &#x0026; Company</publisher>
+	     <date>1918</date>
+	   </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+	<projectDesc><p>Poetry contemporary to World War I (the Great
+	War) has been digitized by OCR or rekeying. The work has been
+	done in conjunction with Dr. Harry Rusche of the English
+	Department, Emory University</p></projectDesc>
+	<tagsDecl>
+	  <rendition id="quote">Paragraphs including q or quote
+	  elements indicate material that is in a block
+	  quote.</rendition>
+	  <rendition id="title">Where the title of a work is
+	  italicized, it is marked with a title element, both in the
+	  text and in footnotes.</rendition>
+	  <tagUsage gi="q" render="quote">blockquote</tagUsage>
+	  <tagUsage gi="quote" render="quote">blockquote</tagUsage>
+	  <tagUsage gi="title" render="title">italic</tagUsage>
+	</tagsDecl>
+	<refsDecl><p>The page numbers of the volumes are indicated by
+	page break elements</p>
+	<p></p>
+	</refsDecl>
+	<classDecl>
+	  <taxonomy id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
+	  </taxonomy>
+	</classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+	   <rs type="collection">poetry</rs>
+	   <rs type="language">English</rs>
+            <rs type="ethnicity">Caucasian</rs>
+            <rs type="form">Unedited</rs>
+            <rs type="genre">Poetry</rs>
+            <rs type="geography">Great Britain</rs>
+            <date>1900-1999</date>
+         </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>World War, 1914-1918--Poetry.</item>
+	       <item>English poetry--20th Century.</item>
+	       <item>War.</item>
+	     </list>
+	   </keywords>
+	 </textClass></profileDesc>
+      <revisionDesc><!-- add your information here -->
+	<change>
+	  <date>2009</date>
+	  <respStmt>
+	    <name>Shruthi Vissa</name>
+	    <resp>Beck Center staff</resp>
+	  </respStmt>
+	    <item>Proofing, encoding</item>
+	</change>
+      </revisionDesc>
+   </teiHeader>
+<text>
+<front>
+<pb n="[1]"/>
+   <titlePage id="binns300" type="half">
+     <docTitle>
+       <titlePart type="main">NOVEMBER
+       </titlePart>
+     </docTitle>
+   </titlePage>
+<pb entity="[2]"/>
+<pb entity="[3]"/>
+   <titlePage id="binns301" type="full">
+     <docTitle>
+       <titlePart type="main">NOVEMBER<lb/> Poems in War Time</titlePart>
+     </docTitle>
+       <byline> BY<lb/> HENRY BRYAN BINNS</byline>
+       <docImprint>
+	 <pubPlace>NEW YORK</pubPlace>
+	 <publisher>DODD, MEAD&#x0026;COMPANY</publisher>
+	 <docDate>1918</docDate>
+       </docImprint>
+   </titlePage>
+<pb n="[4]"/>
 
-<pb n=""/>
-
-
-
-<l>November</l>
-
-
-
-<pb n=""/>
-
-<pb n=""/>
-
-
-
-<l>NOVEMBER:</l>
-
-
-
-
-
-<l>Poems in War Time</l>
-
-
-
-
-
-<l>BY</l>
-
-<l>HENRY BRYAN BINNS</l>
-
-
-
-
-
-<l>NEW YORK</l>
-
-<l>DODD, MEAD AND COMPANY</l>
-
-<l>1918</l>
-
-
-
-<pb n=""/>
-
-
-
-<l>Copyright, 1917,</l>
-<l>By Dodd, Mead and Company, Inc.</l>
-
+<div id="binns302" type="copyright">
+<p>Copyright, 1917,</p>
+<p>BY DODD, MEAD AND COMPANY, INC.</p>
+</div>
 
 
 <pb n="5"/>
 
 
 
-<l>DRAW into thine own being the circumambient Power,</l>
+<hi rend="italic"><l>DRAW into thine own being the circumambient Power,</l>
 <l rend="indent">Till wholly invigorated by its divinity.</l>
 <l>Thou art become enthusiast in every cell.</l>
 <l>Poet throughout thy soul; breathing the fine</l>
@@ -67,7 +143,7 @@
 <l>Strange passionate intervals of its music.</l>
 <l>That is no mere singing of words--pulsation</l>
 <l>This, of celestial singing such as, it may be,</l>
-<l>Thrills all the ether between the living stars,</l>
+<l>Thrills all the ether between the living stars.</l></hi>
 
 
 
@@ -77,7 +153,7 @@
 <p>Note. --The Fourth and Fifth Preludes and "A Non-Combatant" first appeared in the <hi rend="italic">Ploughshare</hi>, and "The Hill-top
 Wood" in the <hi rend="italic">Poetry Review</hi>. "A Schoolmaster in Picardy" was
 suggested by Albert Thierry's <hi rend="italic">Des Conditions de la Paix</hi> (Paris,
-<hi rend="italic">L'Union pour la Veriti</hi>, 1916), partly written in the trenches.
+<hi rend="italic">L'Union pour la Verit&#x009;</hi>, 1916), partly written in the trenches.
 Its author was killed at Aix Noulette, 26 May, 1915.</p>
 
 
@@ -86,70 +162,27 @@ Its author was killed at Aix Noulette, 26 May, 1915.</p>
 <pb n="7"/>
 
 
-
-<l>Contents</l>
-
-
-
-
-
-<l>PAGE</l>
+<div id="binns303" type="table of contents">
+<figure type="binnstc" rend="inline">
+<figDesc>Table of contents at front of Binns' "November"</figDesc>
+</figure>
+</div>
 
 
 
+<pb n="[8]"/>
 
+<pb n="[9]"/>
 
-<l>Five Preludes.........       ii</l>
+<pb n="[10]"/>
+</front>
 
-<l>Freedom's Fellowship.......      17</l>
-
-<l>To Love...........      36</l>
-
-<l>Delay, Not Love........      43</l>
-
-<l>The Greeting.........      45</l>
-
-<l>The Exile..........      47</l>
-
-<l>Siegesallee Fantasia.......      62</l>
-
-<l>The Blacksmith.........      79</l>
-
-<l>Decision...........      8i</l>
-
-<l>The Peacemaker—^August, 1914 ....      82</l>
-
-<l>A NoN-CoMBATANT........      84</l>
-
-<l>A Schoolmaster in Picardy.....      89</l>
-
-<l>The Hill-top Wood........      97</l>
-
-<l>The Quaker Woman.......      99</l>
-
-<l>The Stay-at-home........    loi</l>
-
-<l>The Price of Freedom.......     105</l>
-
-<l>Greeting TO America Entering the War   .     118</l>
-
-<l>Envoy...........         .119</l>
-
-
-
-
-
-<pb n="8"/>
-
-<pb n="9"/>
-
-<pb n="10"/>
-
+<body>
 <pb n="11"/>
 
 <div id="binns001" type="poem" n="1">
 <head rend="center">November<lb/>
-FIVE PRELUDES</head>
+<rend type="center">FIVE PRELUDES</rend></head>
 
 <div id="binns100" type="section" n="1">
 <lg type="stanza">
@@ -233,13 +266,13 @@ FIVE PRELUDES</head>
 <l rend="inline">And the young oaks carry their widow-
 weeds !</l>
 <l>Gladder than Spring it is to see their glory</l>
-<l>When the air Is cold above the snow.</l></lg>
+<l>When the air is cold above the snow.</l></lg>
 
 <lg type="stanza">
 <l>I say it's a glad thing to see that tall young larch</l>
 <l>Standing all maiden-stately in gold apparel</l>
 <l>To welcome him who now shall strip her bare.</l>
-<l>Or yon, her sister, lovelier In thinner gossamer,</l>
+<l>Or yon, her sister, lovelier in thinner gossamer,</l>
 <l>As it were sunny gleaming dew-drops veiling</l>
 <l rend="inline">her:</l>
 <l>And to know Winter laments naught but hath
@@ -268,20 +301,20 @@ spoken.</l></lg>
 <l>For the spirit of young laughter.</l></lg></div>
 
 <div id="binns103" type="essay" n="4">
-<head rend="center">IV</head>****wasnt sure whether to format as paragraphs or as stanzas.
+<head rend="center">IV</head>****wasn't sure whether to format as paragraphs or as stanzas.
 
 <p>WHEN joy escapes me, it is not this sin
 or that I have committed, but, longing
-after some unattalned delight, I have forgotten
+after some unattained delight, I have forgotten
 my Divine Companion.</p>
 
 <p>Numb to His touch, what can I know of joy?
-It Is only In His presence that my spirit ventures
-forth from Its shadowy lair:--only responding
+It is only in His presence that my spirit ventures
+forth from its shadowy lair:--only responding
 to His touch my spirit ventures.</p>
 
 <p>But I forget, and unaccountably my busy day
-Is empty: meaningless seem the dear greetings
+is empty: meaningless seem the dear greetings
 of my friends.</p>
 
 <p>In His love is my meaning: vainly I seek my
@@ -293,7 +326,7 @@ in His companionship.</p>
 happiness. But I forget: I recognise Him not:
 I am no longer part of His delight, but my own
 burden: my body and soul heavy with a forgetfulness that cuts me off from knowing Him at hand: that, looking in His face, is still alone,
-and lying In His bosom, desolate.</p></div>
+and lying in His bosom, desolate.</p></div>
 
 <l>14</l>
 
@@ -341,7 +374,7 @@ yet unborn.</l>
 art thou:</l>
 <l>Thou art Creative Power whom we have disobeyed :</l>
 <l>Thou art the pulse of God within us here and now:</l>
-<l>'Tis not of Death—of thee O life, we are afraid.</l>
+<l>'Tis not of Death--of thee O life, we are afraid.</l>
 </lg></div></div>
 
 <pb n="17"/>
@@ -375,7 +408,7 @@ art thou:</l>
 <l>To wander in the woods of Goodly Stack</l>
 <l>And squirrel-haunted Squerryes.    There,  the trees</l>
 <l>Showed me the sense of the ancient prophecies</l>
-<l>That foretell a strange breaklng-forth of power</l>
+<l>That foretell a strange breaking-forth of power</l>
 <l>Beautiful as the unfolding of that flower</l>
 
 <l>17</l>
@@ -387,7 +420,7 @@ art thou:</l>
 <l>Whose bud is this mysterious Earth, that keeps</l>
 <l>The glory so enfolded in her deeps</l>
 <l>No man, however nimble be his wit,</l>
-<l>Guessing at Its delight can image it.</l>
+<l>Guessing at its delight can image it.</l>
 </lg></div>
 
 
@@ -412,7 +445,7 @@ art thou:</l>
 <l>Fashioning fibres still to lift up higher</l>
 <l>The challenging dark shadow of his crown.</l>
 <l>Dizzily up he climbs, but he thrusts down</l>
-<l>More than a pine Into the secret place</l>
+<l>More than a pine into the secret place</l>
 <l>Forbidden to the light, beneath the face</l>
 <l>Of Earth that looks on Heaven.   There is the
 fount</l>
@@ -446,8 +479,8 @@ fount</l>
 <l>That without which her joy is yet unspoken,</l>
 <l>That   which   without   him   must   remain   but broken</l>
 <l>Fragments and enigmatic words. O when</l>
-<l>That which already is half awake In men</l>
-<l>Bewildering their days with Impulses</l>
+<l>That which already is half awake in men</l>
+<l>Bewildering their days with impulses</l>
 <l>Mysterious that they know not to appraise</l>
 
 <l>19</l>
@@ -456,8 +489,8 @@ fount</l>
 
 <pb n="FREEDOM'S FELLOWSHIP  20"/>
 
-<l>And so seek to evade--when It shall gain</l>
-<l>Them wholly, and they serve with might andmain</l>
+<l>And so seek to evade--when it shall gain</l>
+<l>Them wholly, and they serve with might and main</l>
 <l>Its divine purpose to bestow on Man</l>
 <l>God's meaning, they shall utter, for they can,</l>
 <l>That Life on whose appearing Earth attends,</l>
@@ -527,10 +560,10 @@ fount</l>
 
 <l>Buoyed up on their aerial liberty.</l>
 <l>But stranger than to know them anchored there</l>
-<l>Almost within my reach—should I but dare</l>
+<l>Almost within my reach--should I but dare</l>
 <l>Reach up a moment from my groping toil,</l>
 <l>Lift myself but a little from the soil</l>
-<l>Into the sun—a voice familiar bade</l>
+<l>Into the sun--a voice familiar bade</l>
 <l>My heart leave off its striving and be glad</l>
 <l>In the translucent blessedness above me:</l>
 <l>For these bright presences were they that love me,</l>
@@ -594,7 +627,7 @@ fount</l>
 
 <pb n="FREEDOM'S FELLOWSHIP  24"/>
 
-<l>Because for many a lustre diey have stood</l>
+<l>Because for many a lustre they have stood</l>
 <l>Rank upon rank together in the wood,</l>
 <l>Until each one is not so much a tree</l>
 <l>As member of that great society</l>
@@ -620,7 +653,7 @@ fount</l>
 <l>Spaciously set with magisterial art</l>
 <l>To entertain in mutuality</l>
 <l>Those vast emotions that could never be</l>
-<l>The guests, even of comrades, If they stood</l>
+<l>The guests, even of comrades, if they stood</l>
 <l>Crowded together in a thicket wood.</l></lg>
 
 <lg type="stanza">
@@ -633,7 +666,7 @@ fount</l>
 
 <pb n="FREEDOM'S FELLOWSHIP  25"/>
 
-<l>You must be rooted In the rock, and keep</l>
+<l>You must be rooted in the rock, and keep</l>
 <l>Your proper distance for the swing and sweep</l>
 <l>Of the impassioning rhythm to vibrate through</l>
 <l>Your being and make music out of you,--</l>
@@ -644,7 +677,7 @@ fount</l>
 <l>Pulsing from its one heart.  Upwells the flood</l>
 <l>Of joy in them out of its reservoir</l>
 <l>Through every root that has gone groping far</l>
-<l>Down through the soil to catch In the still deep</l>
+<l>Down through the soil to catch in the still deep</l>
 <l>Bosom of the under-earth, that seems to sleep</l>
 <l>Always, the secret thrilling of a life</l>
 <l>Beyond the utmost reach of stormy strife,</l>
@@ -655,11 +688,11 @@ fount</l>
 <l>Vibrating like a voice through all earth's frame</l>
 <l>Vibrates in each, and every one of them</l>
 <l>Shares its authority.    Strangers to fear,</l>
-<l>Most royally they give what Is most dear</l>
+<l>Most royally they give what is most dear</l>
 <l>To them.   Rooted in God and independent,</l>
 <l>The ardour of their passion shines resplendent</l>
 <l>As the moon's raiment when her beamy light</l>
-<l>Clings round her dewily In the winter night.</l></lg></div>
+<l>Clings round her dewily in the winter night.</l></lg></div>
 
 <l>25</l>
 
@@ -679,7 +712,7 @@ fount</l>
 <l>Of dreaded or desired imagining.</l>
 <l>To life about you leaps the Magic Ring</l>
 <l>Your feet can never step out of, because</l>
-<l>It Is your self that the dark circle draws</l>
+<l>It is your self that the dark circle draws</l>
 <l>Enclosing you in the curve of its occult</l>
 <l>Desire, against whose logic you revolt</l>
 <l>With   half  your   will  in   vain.    Darkling,   it sweeps</l>
@@ -785,7 +818,7 @@ fount</l>
 <l>Is the full-statured body of a man,</l>
 <l>His freedom and delight are the good-health</l>
 <l>Of that irradiated commonwealth</l>
-<l>That Is so capable of joy its cells</l>
+<l>That is so capable of joy its cells</l>
 <l>Conspire together against whatever else</l>
 <l>Usurps its government, but all their will</l>
 <l>Is Gladness, his commandments to fulfil.</l></lg></div>
@@ -828,7 +861,7 @@ fount</l>
 <l>A body for my joy, a consciousness</l>
 <l>That my delight shall hold against distress</l>
 <l>If but for an hour: only in it I know</l>
-<l>The Imperative command, that bade me go</l>
+<l>The imperative command, that bade me go</l>
 <l>Forth into birth and being, justified:</l>
 <l>Only in it, immortal, I abide</l>
 <l>Set in my place, as in the firmament</l>
@@ -846,7 +879,7 @@ fount</l>
 <pb n="FREEDOM'S FELLOWSHIP 31"/>
 
 <l>Through all the living fellowship of those</l>
-<l>That are Its members and embody it.</l>
+<l>That are its members and embody it.</l>
 <l>Though we be only simple folk that sit</l>
 <l>Wrapped in its life together, one we are</l>
 <l>With all the heavenly host that, star by star,</l>
@@ -901,13 +934,13 @@ fount</l>
 <l>The visionary power that makes me wise</l>
 <l>To know my comrades of eternity</l>
 <l>Sharing the moment of delight with me,</l>
-<l>Respiring with me that Immortal breath</l>
+<l>Respiring with me that immortal breath</l>
 <l>That is one life beyond despair and death.</l></lg></div>
 
 <div id="binns114" type="section" n="9">
 <head rend="center">IX</head>
 <lg type="stanza">
-<l>FELLOWSHIP Is a  grove of trees that stand</l>
+<l>FELLOWSHIP is a  grove of trees that stand</l>
 <l>Taller than the thick wood on either hand</l>
 <l>As heroes stand than men. The heart lifts higher</l>
 <l>Entering here. It ventures to aspire</l>
@@ -926,10 +959,10 @@ fount</l>
 <l>Of these companions glances that are strange</l>
 <l>As sunbeams to the vulgar interchange</l>
 <l>Of men and women: vaguely apprehends</l>
-<l>As he enters here what Is this world of friends</l>
+<l>As he enters here what is this world of friends</l>
 <l>So new, so wide, so full of worship.   Dread</l>
 <l>Seizes him lest he let his thoughts instead</l>
-<l>Of their clear thoughts Ignorantly deceive</l>
+<l>Of their clear thoughts ignorantly deceive</l>
 <l>His soul, and he begin to disbelieve</l>
 <l>In their heroic truth, convinced again</l>
 <l>Of the obsequious truths that seem so plain.</l>
@@ -965,7 +998,7 @@ fount</l>
 <l>A deeper meaning to each life that lives</l>
 <l>In his presiding splendour, until each</l>
 <l>Becomes a particle of the God's speech</l>
-<l>To tell a truth It cannot comprehend,</l>
+<l>To tell a truth it cannot comprehend,</l>
 <l>Save that to that delight it loves to lend</l>
 <l>Its heart.   Now he begins to utter me</l>
 <l>Among them.   Now mine eyes begin to see</l>
@@ -982,7 +1015,7 @@ fount</l>
 <l>Only can know it.   He that would betray</l>
 <l>The secret that is freedom must declare</l>
 <l>The divine wonder in his being--bare,</l>
-<l>Body and soul, In that translucent air:</l>
+<l>Body and soul, in that translucent air:</l>
 <l>Must become parcel of that infinite,</l>
 <l>There is no other way to utter it.</l>
 
@@ -1001,7 +1034,7 @@ fount</l>
 <l>The vision was vouchsafed: the unconcealed</l>
 <l>Delight   of   earth.     Hers   now   the   perfect wheeled</l>
 <l>Glory of a hundred petals, still tight-packed</l>
-<l>In Its November sheath.   O hers the Fact</l>
+<l>In its November sheath.   O hers the Fact</l>
 <l>That shall fulfil the world we sense and see</l>
 <l>With its more intimate reality.</l></lg></div></div>
 
@@ -1216,7 +1249,7 @@ fount</l>
 <l>That wonder of else incredible divinity</l>
 <l>That searches the world through if there be any place</l>
 <l>Unoccupied by the busy turmoil of our cares</l>
-<l>Wherein Its quiet hands may find employment.</l></lg></div>
+<l>Wherein its quiet hands may find employment.</l></lg></div>
 
 
 <pb n="47"/>
@@ -1269,11 +1302,11 @@ fount</l>
 <l>To the sisterhood of the Lands.</l></lg>
 
 <lg type="stanza">
-<l rend="indent">As If caught in a curse,</l>
+<l rend="indent">As if caught in a curse,</l>
 <l>She suffers all some werwolf change:</l>
 <l>Horror is in her hands:</l>
 <l>Her womanhood perverse</l>
-<l>Preys upon that It once caressed:</l>
+<l>Preys upon that it once caressed:</l>
 <l>The mother-fountains of her breast</l>
 <l>Turn to a treacherous, devouring drouth</l>
 <l>And suckle madness.   Ay, she is</l>
@@ -1384,7 +1417,7 @@ fount</l>
 <l>Music that still, in each and every one</l>
 
 
-<pb n="THE EXILE  51"/>
+<pb n="THE EXILE  52"/>
 
 <l>Of all my nerves is mine beyond forgetting,</l>
 <l>My spirit's exultation</l>
@@ -1397,13 +1430,13 @@ fount</l>
 <l>In his babe.   It is my November</l>
 <l>Now, and your joy in me long ago blighted.</l>
 <l>But in me it is ever quick-water,</l>
-<l>The bubbllng-up, throbbing</l>
+<l>The bubbling-up, throbbing</l>
 <l>Of that long-ago joy,</l>
 <l>That cradle-singing that before I was a boy</l>
 <l>Was mine!</l>
 <l>O, still a spring divine</l>
 <l>Amid this world of slaughter,</l>
-<l>It Is the heedless gay</l>
+<l>It is the heedless gay</l>
 <l>Trill of some bold November robin</l>
 <l>Whose small roundelay</l>
 <l>Breaks down my grief and sets him sobbing.</l></lg>
@@ -1420,7 +1453,7 @@ fount</l>
 
 <l>Against a queen so miserably royal:</l>
 <l>That me, O pitiless One, thou badest not</l>
-<l>Wipe out In blood my mother's shame</l>
+<l>Wipe out in blood my mother's shame</l>
 <l>Striking at her with dreadful hands.</l>
 <l>But, westering, bad'st me follow</l>
 <l>Thee hither oversea,</l>
@@ -1550,8 +1583,8 @@ fount</l>
 <l>That cannot but obey:</l>
 
 <l>Till ye shall shock her wide-eyed to the day</l>
-<l>Of True Power, and the glory that It is</l>
-<l>Already In the awakened air:</l>
+<l>Of True Power, and the glory that it is</l>
+<l>Already in the awakened air:</l>
 <l>Cheat Hell,</l>
 
 <l>Shatter the dream she dreams and shiver</l>
@@ -1560,10 +1593,10 @@ fount</l>
 
 <l>Then shall she see how graciously beyond</l>
 <l>The hard horizon edge</l>
-<l>Apollo llfteth up his shining wand:</l>
+<l>Apollo lifteth up his shining wand:</l>
 <l>Then shall she hear the stellar mysteries.</l>
 <l>Mute to her all night long,</l>
-<l>Make answer In your voices and respond</l>
+<l>Make answer in your voices and respond</l>
 <l>At the sign of a new day:</l>
 <l>Then shall she know the august</l>
 <l>High privilege</l>
@@ -1576,7 +1609,7 @@ fount</l>
 <pb n="THE EXILE  58"/>
 
 <l>Evoke with magic ray</l>
-<l>The myrladlcity of joy, surprising</l>
+<l>The myriadicity of joy, surprising</l>
 <l>Out of each indistinguishable clod of clay</l>
 <l>A different flower:</l>
 <l>She too, awake, shall say</l>
@@ -1626,7 +1659,7 @@ fount</l>
 <l>To whoso would endeavour</l>
 <l>Henceforward to seduce</l>
 <l>Her spirit: there, blazing behind her eyes,</l>
-<l>With inartlculable agonies</l>
+<l>With inarticulable agonies</l>
 <l>Fiery to wither and annihilate</l>
 <l>Any least creeping shadow of thought</l>
 <l>Ere it can whisper an excuse</l>
@@ -1751,7 +1784,7 @@ his heels, the KAISER, talking to himself:</hi></p>
 <l>That is a thing I'll argue out in Hell</l>
 <l>When we make nights of it around the blaze</l>
 <l>To keep away the memory of these days.</l>
-<l>I've had twenty-eight years of Kaisering</l>
+<l rend="indent">I've had twenty-eight years of Kaisering</l>
 <l>And, good God, it's enough!   But how to fling</l>
 <l>The bauble from me with these looking on!</l>
 <l>My spirit might be an automaton</l>
@@ -1766,7 +1799,7 @@ his heels, the KAISER, talking to himself:</hi></p>
 <pb n="SIEGESALLEE FANTASIA  64"/>
 
 <l>The thing is plain. Since other worlds I want</l>
-<l>I'll have to look for them where  I can find them.</l>
+<l>I'll have to look for them where I can find them.</l>
 <l>The screens of death are solid.  But behind them</l>
 <l>There must be what I am in search of--</l>
 <l rend="indent">Change,</l>
@@ -1785,7 +1818,7 @@ the Kaiser, he salutes with military gesture.</hi></p>
 <p><l>MICHAEL (shaking his head).   It's a sad</l>
 <l> Dark morning. Master, as we ever had.</l>
 <l> Beg pardon. It is better where you be</l>
-<l> Up yonder, but It's bad for such as we.</l></p>
+<l> Up yonder, but it's bad for such as we.</l></p>
 
 <p><l>KAI.   I am surprised, old friend, to hear you grumble.</l>
 <l>Whatever grief may fall upon the humble</l>
@@ -2024,7 +2057,7 @@ here  makes  himself seen and catches the</hi> KAISER'S <hi rend="italic">eye,  
 
 
 
-<pb n="SIEGESALLEE FANTASIA"/>
+<pb n="SIEGESALLEE FANTASIA  72"/>
 
 <l>Farewell!    I go to greet the new!</l></p>
 
@@ -2042,7 +2075,7 @@ here  makes  himself seen and catches the</hi> KAISER'S <hi rend="italic">eye,  
 <l>We too, should suffer: We too, should redeem</l>
 <l>The erring nations from the fond false dream</l>
 <l>Wherein they dwell: in Us, also, the power</l>
-<l>Of Gospel-love should find Its passion-flower:</l>
+<l>Of Gospel-love should find its passion-flower:</l>
 <l>We should be lifted up and all would see</l>
 <l>Our body broken for Humanity.</l>
 <l>For this We claim your help.    To you, We feel</l>
@@ -2079,7 +2112,7 @@ here  makes  himself seen and catches the</hi> KAISER'S <hi rend="italic">eye,  
 <l>This ribald habit?</l></p>
 
 <p><l>O.O.A.               My good worthy Faust!</l>
-<l>To-day you really seem to have grown blind.</l>
+<l>To-day you really seem to have grown blind,</l>
 <l>Hypnotised not to see what lies behind</l>
 <l>This cardboard Siegesallee puppet-show</l>
 <l>Wherein you play the Kaiser!--But you know</l>
@@ -2154,7 +2187,7 @@ here  makes  himself seen and catches the</hi> KAISER'S <hi rend="italic">eye,  
 <p><l>O.O.A.   Your great deed shall not be hid !</l>
 <l>We'll have it filmed for the ages yet to be</l>
 <l>When all the universe is Germany.</l>
-<l>But now before we call her--In my ear,</l>
+<l>But now before we call her--in my ear,</l>
 <l>Whisper--what is it you have grown to fear</l>
 <l>More than the last of terrors, for I think</l>
 
@@ -2464,7 +2497,7 @@ here  makes  himself seen and catches the</hi> KAISER'S <hi rend="italic">eye,  
 <l>And I followed through the fern</l>
 <l>Sighing, "They will not return!</l>
 <l>To the board and to the bed</l>
-<l>Grief and Hate will come Instead.</l></lg>
+<l>Grief and Hate will come instead.</l></lg>
 
 <lg type="stanza">
 <l>The November sun was pale,</l>
@@ -2488,9 +2521,9 @@ here  makes  himself seen and catches the</hi> KAISER'S <hi rend="italic">eye,  
 <l>Having given all I might:</l>
 <l>Would go dwell in the dark night,</l>
 <l>Of my light bereft: defy</l>
-<l>Loneliness, If only I</l>
+<l>Loneliness, if only I</l>
 <l>Could feel I had held nothing back</l>
-<l>From Freedom In His hour of lack.</l>
+<l>From Freedom in His hour of lack.</l>
 
 <l>86</l>
 
@@ -2589,7 +2622,7 @@ here  makes  himself seen and catches the</hi> KAISER'S <hi rend="italic">eye,  
 <lg type="stanza">
 <l>A peasant and a village schoolmaster,</l>
 <l>Patiently he had tuned his little world</l>
-<l>Scholar by scholar, daily Into accord</l>
+<l>Scholar by scholar, daily into accord</l>
 <l>With Peace, the music that he knew within him.</l>
 <l>Rumour of foes designing war against France</l>
 
@@ -2856,7 +2889,7 @@ here  makes  himself seen and catches the</hi> KAISER'S <hi rend="italic">eye,  
 <l>As only the great oaks can,</l>
 <l>All of the Wonderful Thing:</l>
 <l>There, to my uttermost span,</l>
-<l>I exulted In this that I could</l>
+<l>I exulted in this that I could</l>
 <l>Up on the top of the hill.</l></lg>
 
 <lg type="stanza">
@@ -2969,19 +3002,14 @@ here  makes  himself seen and catches the</hi> KAISER'S <hi rend="italic">eye,  
 <l>He is not free to go who hath already gone:</l>
 <l>To give himself afresh who hath already given.</l>
 <l>Assigned already my place, I cannot leave it and go:</l>
-<l>Mine to stay, to abide, as a woman that is with</l>
-<l>child.--</l>
+<l>Mine to stay, to abide, as a woman that is with child.--</l>
 <l>And I continue at home, contented, as one without</l>
 
 <l>1O1</l>
 
 
 
-<pb n="102"/>
-
-
-
-<l>THE STAY-AT-HOME</l>
+<pb n="THE STAY-AT-HOME  102"/>
 
 <l>Trammel, if he should run in the race, runs not but remains.</l>
 <l>I see them go: my heart, going not, is one with their heart,</l>
@@ -3000,8 +3028,12 @@ here  makes  himself seen and catches the</hi> KAISER'S <hi rend="italic">eye,  
 
 
 <pb n="103"/>
-
-<l>THE PRICE OF FREEDOM</l>****how to format this page, which looks like a half-title page right in the middle of the volume.
+<titlePage id="binns304" type="half">
+     <docTitle>
+       <titlePart type="main">THE PRICE OF FREEDOM
+       </titlePart>
+     </docTitle>
+   </titlePage>
 
 <pb n="[104]"/>
 <pb n="105"/>
@@ -3018,20 +3050,20 @@ eighteen.</hi></p>
 
 <p>SHELLEY. My spirit, my real self, once it was awakened into consciousness by your recognition, began to be aware of its need and of its power. I myself awoke to knowledge. All the argument about Truth ceased because I was face to face with Truth; or rather, the argument was changed into a way of revelation, the two parties completing for one another their partial affirmations.</p>
 
-<p>But the great change was In desire. Desire is a seeking-together of parts Into their unity.But when once the nature of that unity has been discovered, desire itself becomes different. For the whole, which is Love Himself, is henceforward awake within desire. It is now no more the blind longing of the creature after he knows not what.   For now desire calls upon the God
+<p>But the great change was n desire. Desire is a seeking-together of parts into their unity.But when once the nature of that unity has been discovered, desire itself becomes different. For the whole, which is Love Himself, is henceforward awake within desire. It is now no more the blind longing of the creature after he knows not what.   For now desire calls upon the God
 <l>105</l>
 
 
 
 <pb n="THE PRICE OF FREEDOM 106"/>
 
-within both me and the object of my longing,so worshipping Him that He manifests Himself, ruling, ordering, Illuminating, till the desire is changed into delight of His presence.</p>
+within both me and the object of my longing,so worshipping Him that He manifests Himself, ruling, ordering, illuminating, till the desire is changed into delight of His presence.</p>
 
-<p>Love Is no wantonness. It is the life of the wakened spirit.</p>
+<p>Love is no wantonness. It is the life of the wakened spirit.</p>
 
 <p>The rhythm of the divine life within me cannot but vibrate with that responding rhythm,of which now and again it is aware in some kindred being. Thus vibrating together, we are married into one whole, as are the notes of a music to which each note belongs.</p>
 
-<p>This realisation of unity is an extravagant thing. It transcends the ordinary terms of speech. It is beyond the measure of the senses. When it seizes me, it seizes me with actual rapture, so that I neither know myself or what I am saying. It is the passion of a fuller incarnation. Do you not see?--It is the Something In which all that we have won together is enlarged and heightened into a fuller meanmg.</p>
+<p>This realisation of unity is an extravagant thing. It transcends the ordinary terms of speech. It is beyond the measure of the senses. When it seizes me, it seizes me with actual rapture, so that I neither know myself or what I am saying. It is the passion of a fuller incarnation. Do you not see?--It is the Something in which all that we have won together is enlarged and heightened into a fuller meaning.</p>
 
 <p>MARY (<hi rend="italic">without looking up</hi>). So now it is this Italian!</p>
 
@@ -3075,7 +3107,7 @@ much better than anything else. It's the not-knowing what is true that I cannot 
 
 
 
-<pb n="THE PRICE OF FREEDOM"/>
+<pb n="THE PRICE OF FREEDOM  108"/>
 
 where you are going, upon the current of this river.</p>
 
@@ -3095,7 +3127,7 @@ where you are going, upon the current of this river.</p>
 
 
 
-<pb n="THE PRICE OF FREEDOM"/>
+<pb n="THE PRICE OF FREEDOM  109"/>
 
 <p>Do not make me doubt that, or you will destroy the integrity of my soul which you discovered to me and have nourished. I shall cease to be a man: I shall go back to the days before ever I loved you: before you gave me the pledge of my immortal spirit.</p>
 
@@ -3108,7 +3140,7 @@ where you are going, upon the current of this river.</p>
 <p>SHELLEY. That is the falsehood of love's idolatry, which has nothing in common with our truth and freedom. If that is what you mean by love . .! But it is you yourself who deny it, Mary: there is nothing of that in you.
 You freed me from that. That is poor Harriet's talk, that goes into madness.</p>
 
-<p>MARY. I thought myself free and wise. But now I know that every woman who has ever loved is the slave of love. It is her nature. She cannot share that which Is the very reason of her being.    Men are different.</p>
+<p>MARY. I thought myself free and wise. But now I know that every woman who has ever loved is the slave of love. It is her nature. She cannot share that which is the very reason of her being.    Men are different.</p>
 
 <p>It is the eternal tragedy of woman that she is mated with her contradiction.    The man's
 
@@ -3122,7 +3154,7 @@ need for change is unnatural, it is monstrous to the woman.</p>
 
 <p>SHELLEY. What strange, false doctrine on your lips! You strain and wrest your words out of sheer anguish, as though indeed your time had come. What if this is indeed to be a birth for the new child.. Freedom!</p>
 
-<p>MARY. Freedom! O that Is the word you are all always saying! A woman must not hold a man from his freedom--<hi rend="italic">with other women</hi>. I know it is what I too, have thought and said. But now I know, I do not understand I only know--it is a lie. Until men get beyond the illusions of their desires, no happiness can be secure for women. There can be no real freedom : no abiding vision of the truth. A woman who loves as I do, cannot feel otherwise than as I.</p>
+<p>MARY. Freedom! O that is the word you are all always saying! A woman must not hold a man from his freedom--<hi rend="italic">with other women</hi>. I know it is what I too, have thought and said. But now I know, I do not understand I only know--it is a lie. Until men get beyond the illusions of their desires, no happiness can be secure for women. There can be no real freedom : no abiding vision of the truth. A woman who loves as I do, cannot feel otherwise than as I.</p>
 
 <p>It is the very deepest of my being that cries out against this wandering, this prostitution of the man, always pursuing some new pleasure, worshipping at some new altar, never finally faithful to any one. Whereas a woman, when she gives herself to love, gives irrevocably. There is no withholding, no duplication possible. It is her life, total and single, that she gives. She can no more share it with another woman than she can share her body and soul.</p>
 
@@ -3131,7 +3163,7 @@ need for change is unnatural, it is monstrous to the woman.</p>
 
 
 <pb n="THE PRICE OF FREEDOM  111"/>
-<p>You give yourself, for to-day. I give myself for ever. To-morrow you can give yourself again, as though It were a new self. I can never take myself away from you to give myself again.</p>
+<p>You give yourself, for to-day. I give myself for ever. To-morrow you can give yourself again, as though it were a new self. I can never take myself away from you to give myself again.</p>
 
 <p>You have finished with my gift . . it ceases to have value. It is no good any more. It cannot be offered to another. I must find a different way of living: and once a woman has been loved, other ways of living are but degrees of death. Harriet's way was the best. But it is not for me.</p>
 
@@ -3156,242 +3188,95 @@ I am my mother's daughter. Let us be reasonable.   It is hard for you too.   Whe
 
 <pb n="THE PRICE OF FREEDOM  112"/>
 
-<p>Mary. Aren't we wandering from actuality? I should not have said "fire": when this sex-passion has died down in you</p>
+<p>MARY. Aren't we wandering from actuality? I should not have said "fire": when this sex-passion has died down in you</p>
 
-<l>Shelley. Why are you poisoning my soul</l>
-<l>with worldly thoughts? When one body is</l>
-<l>done our love will take another: the fire must</l>
-<l>have Its flame. While ever life goes on there</l>
-<l>must be attraction and fertilisation and birth.</l>
-<l>Ever new attraction and new birth. But never</l>
-<l>—O never—with denial and treachery to the</l>
-<l>old. Always and only as a consequence of the</l>
-<l>old. I love, because I love you, not because</l>
-<l>once I loved you. You have lighted in me this</l>
-<l>that cannot be extinguished: a passion you your¬</l>
-<l>self cannot, may not now withhold. It is in¬</l>
-<l>deed I that love, but It Is not merely I; it is we.</l>
-<l>You cannot take yourself away.</l>
+<p>Shelley. Why are you poisoning my soul with worldly thoughts? When one body is done our love will take another: the fire must have its flame. While ever life goes on there must be attraction and fertilisation and birth. Ever new attraction and new birth. But never--O never--with denial and treachery to the old. Always and only as a consequence of the old. I love, because I love you, not because once I loved you. You have lighted in me this that cannot be extinguished: a passion you yourself cannot, may not now withhold. It is indeed I that love, but it is not merely I; it is we. You cannot take yourself away.</p>
 
-<l>Mary. I cannot take myself away, and I do</l>
-<l>not love her. Your Emilia Is nothing to me, but</l>
-<l>I must give you to her. I must share with a</l>
-<l>mere stranger what Is nearer to me than my</l>
-<l>flesh.</l>
+<p>MARY. I cannot take myself away, and I do not love her. Your Emilia is nothing to me, but I must give you to her. I must share with a mere stranger what is nearer to me than my flesh.</p>
 
-<l>Shelley.  Yes—^you must share.</l>
+<p>SHELLEY.  Yes--you must share.</p>
 
-<l>Mary. But how, Shelley—how can I learn</l>
-<l>this?   It is impossible.    I cannot.            If only</l>
-
-<l>it were some natural necessity! But we are</l>
-<l>young yet, you and I. Our children are but</l>
-<l>babes.</l>
+<p>MARY. But how, Shelley--how can I learn this?   It is impossible.    I cannot. If only it were some natural necessity! But we are young yet, you and I. Our children are but babes.</p>
 
 <l>112</l>
 
 
 
-<pb n=""/>
+<pb n="THE PRICE OF FREEDOM  113"/>
+
+<p>You are more fortunate than most men who are born to love, because you have your art: you can find vent there too for passion.</p>
+
+<p>O if only she were real to me: this convent girl, this half-woman, who feeds her sick fancies upon your emotion. She is but little better than a ghost; and it is horrible to me that you should squander upon her all the treasure of sunshine that we two have gathered into this focus of our love. I gave myself to you, but not for her, Shelley, not for her.</p>
+
+<p>SHELLEY. You gave yourself to Love, never to me. Who am I that I should accept an idolatrous gift? Who am I that I should take you for my own, or offer myself so, to you or to another? As a companion, as a lover, as a comrade in freedom, as a partner in life's enterprise,--O yes, yes!--but that is not what you are saying.</p>
+
+<p>We dedicated our love to freedom, having first dedicated to freedom our own souls. You are not mine, nor am I yours, save only in that. We have no use for one another, save in that.Any other thought is abominable to me--and to you!</p>
+
+<p>And Emilia, she also belongs to freedom, as do we. It is in that I meet and am joined with her. Where we meet, where we love, where
+
+<l>113</l>
 
 
 
-<l>THE PRICE OF FREEDOM</l>
+<pb n="THE PRICE OF FREEDOM  114"/>
 
-<l>You are more fortunate than most men who</l>
-<l>are born to love, because you have your art:</l>
-<l>you can find vent there too for passion.</l>
+we are one delight together, there is freedom...</p>
 
-<l>O If only she were real to me: this convent</l>
-<l>girl, this half-woman, who feeds her sick fancies</l>
-<l>upon your emotion. She Is but little better than</l>
-<l>a ghost; and it is horrible to me that you should</l>
-<l>squander upon her all the treasure of sunshine</l>
-<l>that we two have gathered into this focus of our</l>
-<l>love. I gave myself to you, but not for her,</l>
-<l>Shelley, not for her.</l>
+<p>Do not misunderstand. You have no right to misunderstand what you yourself have made me realise; freedom is the life of that in us which has the right, the power, the duty to be free. When I say I am joined with her in freedom, I say it out of the world of inspiration. I tell the last truth. Something of me that, without her, was blind and dumb, finds sight and speech because of her. I love her by necessity,as I love you. We share together in a life which becomes conscious and creative in so far as we dare love one another, as we dare to be joined and mingled in its being.</p>
 
-<l>Shelley. You gave yourself to Love, never</l>
-<l>to me. Who am I that I should accept an</l>
-<l>idolatrous gift? Who am I that I should take</l>
-<l>you for my own, or offer myself so, to you or</l>
-<l>to another? As a companion, as a lover, as a</l>
-<l>comrade in freedom, as a partner in life's enter¬</l>
-<l>prise,—O yes, yes!—^but that is not what you</l>
-<l>are saying.</l>
+<p>MARY. I feel that you are telling the truth.But is it all the truth? What is this in my soul that resists and denies--that forces me to contest your words?</p>
 
-<l>We dedicated our love to freedom, having</l>
-<l>first dedicated to freedom our own souls. You</l>
-<l>are not mine, nor am I yours, save only In that.</l>
-<l>We have no use for one another, save In that.</l>
-<l>Any other thought is abominable to me—and to</l>
-<l>you!</l>
+<p>I had always thought of myself as free, and giving freedom. But now I know that this is what I really am.</p>
 
-<l>And Emilia, she also belongs to freedom, as</l>
-<l>do we. It Is In that I meet and am joined with</l>
-<l>her.    Where we meet, where we love, where</l>
+<p>O, why can I not love Emilia? My deepest being longs for you to have all that life can give.   But not from her, never from her!</p>
 
-<l>"3</l>
-
-
-
-<pb n=""/>
-
-
-
-<l>THE PRICE OF FREEDOM</l>
-
-<l>we are one delight together, there is free¬</l>
-<l>dom. .</l>
-
-<l>Do not misunderstand. You have no right</l>
-<l>to misunderstand what you yourself have made</l>
-<l>me realise; freedom Is the life of that In us</l>
-<l>which has the right, the power, the duty to be</l>
-<l>free. When I say I am joined with her in free¬</l>
-<l>dom, I say It out of the world of Inspiration. I</l>
-<l>tell the last truth. Something of me that, with¬</l>
-<l>out her, was blind and dumb, finds sight and</l>
-<l>speech because of her. I love her by necessity,</l>
-<l>as I love you. We share together In a life</l>
-<l>which becomes conscious and creative In so far</l>
-<l>as we dare love one another, as we dare to be</l>
-<l>joined and mingled In its being.</l>
-
-<l>Mary. I feel that you are telling the truth.</l>
-<l>But is it all the truth? What Is this In my soul</l>
-<l>that resists and denies—that forces me to con¬</l>
-<l>test your words?</l>
-
-<l>I had always thought of myself as free, and</l>
-<l>giving freedom. But now I know that this Is</l>
-<l>what I really am.</l>
-
-<l>O, why can I not love Emilia? My deepest</l>
-<l>being longs for you to have all that life can</l>
-<l>give.   But not from her, never from her!</l>
-
-<l>Shelley. She is unreal to you, and so my</l>
-<l>love for her is an unreal thing, a fever, an in¬</l>
-<l>fatuation.     As  such  you  hate   and  struggle</l>
+<p>SHELLEY. She is unreal to you, and so my love for her is an unreal thing, a fever, an infatuation. As such you hate and struggle
 
 <l>114</l>
 
 
 
-<pb n=""/>
+<pb n="THE PRICE OF FREEDOM  115"/>
+
+against it--but with unreal weapons. Fighting this that is not, you too become false. And because this love of mine is false to you, I too have become to you unreal; to you whose intense reality is in your love, to you who only hate this one thing, unreality.</p>
+
+<p>MARY. Make me see her as you see her! Save me from what I see! With my own eyes I can see nothing in her upon which any reverence can take hold. If only I could realise a spirit burning within her--and not be always thrown back shivering from those chameleon eyes, that bloodless skin, as from an empty mask. If I could feel her alive behind those fanciful words she marries so easily with yours!</p>
+
+<p>SHELLEY. If you could <hi rend="italic">see</hi> Emilia you would understand, because you too would love her.</p>
+
+<p>MARY. O if I could.   But what an "if" !</p>
+
+<p>SHELLEY. You will begin to believe in her. You will challenge every day this mask till it yields its reality to you. Because I love her, because you cannot doubt I love her, you too will inevitably begin to know and love her. You shake your head, Mary--and yet your eyes shine.</p>
+
+<p>MARY. I think I shall never be able to see her as you do. Our relation will never be like yours: and only, perhaps, in such a relation can
 
 
 
-<l>THE PRICE OF FREEDOM</l>
+<pb n="THE PRICE OF FREEDOM   116"/>
 
-<l>against It—but with unreal weapons. Fighting</l>
-<l>this that Is not, you too become false. And</l>
-<l>because this love of mine is false to you, I too</l>
-<l>have become to you unreal; to you whose in¬</l>
-<l>tense reality is in your love, to you who only</l>
-<l>hate this one thing, unreality.</l>
+her spirit reveal itself. I must be content never to understand. And it may be my love for you will be strong enough even for this last giving up to Love.</p>
 
-<l>Mary. Make me see her as you see her!</l>
-<l>Save me from what I see! With my own eyes</l>
-<l>I can see nothing in her upon which any rever¬</l>
-<l>ence can take hold. If only I could realise a</l>
-<l>spirit burning within her—and not be always</l>
-<l>thrown back shivering from those chameleon</l>
-<l>eyes, that bloodless skin, as from an empty</l>
-<l>mask. If I could feel her alive behind those</l>
-<l>fanciful words she marries so easily with yours!</l>
+<p>SHELLEY. To love is always to have faith,
+always to have more faith and more.</p>
 
-<l>Shelley. If you could see Emilia you would</l>
-<l>understand, because you too would love her.</l>
+<p>MARY. But this growth in faith demands a struggle in the soul that is little removed from actual madness. At times the creative forces of one's passion make one blind, make one cruel, so tremendous is their struggle with the stubborn substance of one's soul. One suffers till one loses hold of oneself. There are moments when I know I am not myself--moments in which I could hurt you, you who are so much dearer to me even than our children. What is it--tell me what it is, my dear!</p>
 
-<l>Mary. O if I could.   But what an "If" !</l>
+<p>SHELLEY. It is the birth-pains of the God. And who shall win to liberty save by this mortal way? Only through a sort of madness can we be sufficiently withdrawn from the grasp of our selves for this new spirit to take possession of us. To be shewn the throes of that new birth taking hold upon and shaping a beloved soul, this utterly humbles as it purely exalts the spirit.</p>
 
-<l>Shelley. You will begin to believe in her.</l>
-<l>You will challenge every day this mask till it</l>
-<l>yields Its reality to you. Because I love her,</l>
-<l>because you cannot doubt I love her, you too</l>
-<l>will Inevitably begin to know and love her. You</l>
-<l>shake your head, Mary—and yet your eyes</l>
-<l>shine.</l>
+<p>MARY. I have always wanted to pay the price.    I think I have never really wanted any
 
-<l>Mary. I think I shall never be able to see</l>
-<l>her as you do. Our relation will never be like</l>
-<l>yours: and only, perhaps, In such a relation can</l>
+<l>116</l>
 
 
 
-<pb n=""/>
+<pb n="THE PRICE OF FREEDOM  117"/>
 
+happiness except upon these terms. Well have I known there was a kind of happiness that might indeed be otherwise won and conferred, but never the reality that alone I sought after,--the final good which a man may obtain in exchange for himself. If he keep back a penny it can never be his. For either the deed is whole,or it is a cheat. The payment is without withholding, or it is without avail. For this is just.O above all else I have loved justice, for the sake of Love.</p>
 
+<p>SHELLEY. Without it there could be no freedom. Freedom is a perfect and final thing even as death and birth are in their order final. And Freedom goes beyond them. It is eternal life. It is immediate participation in the integrity of God himself.</p>
 
-<l>THE PRICE OF FREEDOM</l>
-
-<l>her spirit reveal Itself. I must be content never</l>
-<l>to understand. And It may be my love for you</l>
-<l>will be strong enough even for this last giving</l>
-<l>up to Love.</l>
-
-<l>Shelley. To love Is always to have faith,</l>
-<l>always to have more faith and more.</l>
-
-<l>Mary. But this growth in faith demands a</l>
-<l>struggle in the soul that Is little removed from</l>
-<l>actual madness. At times the creative forces of</l>
-<l>one's passion make one blind, make one cruel,</l>
-<l>so tremendous Is their struggle with the stub¬</l>
-<l>born substance of one's soul. One suffers till</l>
-<l>one loses hold of oneself. There are moments</l>
-<l>when I know I am not myself—moments In</l>
-<l>which I could hurt you, you who are so much</l>
-<l>dearer to me even than our children. What Is</l>
-<l>it—tell me what It Is, my dear!</l>
-
-<l>Shelley. It Is the birth-pains of the God.</l>
-<l>And who shall win to liberty save by this mor¬</l>
-<l>tal way? Only through a sort of madness can</l>
-<l>we be sufficiently withdrawn from the grasp of</l>
-<l>our selves for this new spirit to take possession</l>
-<l>of us. To be shewn the throes of that new</l>
-<l>birth taking hold upon and shaping a beloved</l>
-<l>soul, this utterly humbles as it purely exalts the</l>
-<l>spirit.</l>
-
-<l>Mary. I have always wanted to pay the</l>
-<l>price.    I think I have never really wanted any</l>
-
-<l>11$</l>
-
-
-
-<pb n=""/>
-
-
-
-<l>THE PRICE OF FREEDOM</l>
-
-<l>happiness except upon these terms. Well have</l>
-<l>I known there was a kind of happiness that</l>
-<l>might indeed be otherwise won and conferred,</l>
-<l>but never the reality that alone I sought after,—</l>
-<l>the final good which a man may obtain In ex¬</l>
-<l>change for himself. If he keep back a penny it</l>
-<l>can never be his. For either the deed is whole,</l>
-<l>or it is a cheat. The payment is without with¬</l>
-<l>holding, or it Is without avail. For this is just.</l>
-<l>O above all else I have loved justice, for the</l>
-<l>sake of Love.</l>
-
-<l>Shelley. Without It there could be no free¬</l>
-<l>dom. Freedom Is a perfect and final thing even</l>
-<l>as death and birth are In their order final. And</l>
-<l>Freedom goes beyond them. It Is eternal life.</l>
-<l>It is immediate participation In the Integrity of</l>
-<l>God himself.</l>
-
-<l>Mary. But never without justice: never</l>
-<l>without wanting to pay the price.</l>
-
+<p>MARY. But never without justice: never without wanting to pay the price.</p>
+</div>
 
 
 
@@ -3400,32 +3285,31 @@ I am my mother's daughter. Let us be reasonable.   It is hard for you too.   Whe
 
 
 
-<pb n=""/>
+<pb n="118"/>
 
+<div id="binns017" type="poem" n="17">
 
+<head>Greeting to America Entering the War</head>
 
-<l>Greeting to America Enter¬</l>
-<l>ing the War</l>
-
+<lg type="stage">
 <l>A BOY, I dreamed that out of Liverpool</l>
-<l>I sailed adventuring to the West.    Ro¬</l>
-<l>mance</l>
+<l>I sailed adventuring to the West.  Romance</l>
 <l>Presently led me thither, and th' expanse</l>
 <l>Of your wide world of freedom did not fool</l>
 <l>My April dream.   Anew, I went to school</l>
 <l>To wonder, for I saw all circumstance</l>
 <l>Growing obedient to man's spirit, and chance</l>
-<l>I saw you take, as It had been a tool.</l>
+<l>I saw you take, as it had been a tool.</l>
 <l>But now, America, that we are set</l>
 <l>Together down, commensal with the worm</l>
 <l>At the feast of Slaughter, you have put a term</l>
 <l>To all my faith's shortcoming; you have met</l>
 <l>Our will with yours. Implacable to affirm</l>
-<l>The whole of freedom that was never yet.</l>
+<l>The whole of freedom that was never yet.</l></lg>
 
-<l>Henry Bryan Binns.</l>
-<l>London</l>
-<l>October the 28th 1917</l>
+<byline>HENRY BRYAN BINNS.</byline>
+<dateline><name type="place">London</name><lb/>
+<date value="1917-10-28"> October the 28th 1917</date></dateline></div>
 
 
 
@@ -3435,43 +3319,28 @@ I am my mother's daughter. Let us be reasonable.   It is hard for you too.   Whe
 
 
 
-<pb n=""/>
+<pb n="119"/>
 
 
+<div id="binns018" type="poem" n="18">
+<lg type="stanza">
 
-<l>Envoy</l>
-
-
-
-
-
-<l>nriHY love is all about me like the loveliness</l>
-<l>JL     Of Earth when she puts by the veiling of</l>
-
-<l>the snow</l>
-<l>And all her beauty of ploughed and fallow,</l>
-
-<l>ochre and red,</l>
-<l>Nourishes me anew.  Thy love is all about me.</l>
+<hi rend="italic"><l>THY love is all about me like the loveliness</l>
+<l>Of Earth when she puts by the veiling of the snow</l>
+<l>And all her beauty of ploughed and fallow, ochre and red,</l>
+<l>Nourishes me anew.  Thy love is all about me,</l>
 <l>More intimately near my spirit than the flesh</l>
-<l>Wherein I live and move and have my daily</l>
-
-<l>being.</l>
+<l>Wherein I live and move and have my daily being.</l>
 <l>For only in the enabling presence of thy love</l>
 <l>I can become myself, that else with alien speech</l>
-<l>Hear myself strangely utter fancies foreign to</l>
-
-<l>me.</l>
+<l>Hear myself strangely utter fancies foreign to me.</l>
 <l>Within thy love my spirit is confident, at home</l>
 <l>As I was never yet in mind or body of mine;</l>
-<l>For thou embracest me with that which is not</l>
-
-<l>strange</l>
+<l>For thou embracest me with that which is not strange</l>
 <l>To my imprisoned spirit, bewildered in the mesh</l>
 <l>Of this incomprehensible, this unfamiliar world,</l>
 <l>That by the magic of thy love is changed for me</l>
-<l>Into a welcoming presence, friendly and won¬</l>
-<l>derful.</l>
+<l>Into a welcoming presence, friendly and wonderful.</l></hi></lg></div>
 
 
 
@@ -3485,3 +3354,4 @@ I am my mother's daughter. Let us be reasonable.   It is hard for you too.   Whe
 
 <pb n=""/>
 
+</body></text></TEI.2>

@@ -316,27 +316,25 @@
 
 <pb n=""/>
 
-<pb n=""/>
+<pb n="The Gipsy Girl  1"/>
 
 
+<div id="hodgson001" type="poem" n="1">
+<head rend="center">THE GIPSY GIRL</head>
 
-<l>THE GIPSY GIRL</l>
-
-<l>"Come, try your skill, kind gentle¬</l>
-<l>men,</l>
-
+<lg type="stanza">
+<l>"COME, try your skill, kind gentlemen,</l>
 <l>A penny for three tries !"</l>
+<l>Some threw and lost, some threw and won</l>
+<l>A ten-a-penny prize.</l></lg>
 
-<l>Some threw and lost, some threw</l>
-<l>and won</l>
-
-<l>A ten-a-penny prize.</l>
-
+<lg type="stanza">
 <l>She was a tawny gipsy girl,</l>
 <l>A girl of twenty years,</l>
 <l>I liked her for the lumps of gold</l>
-<l>That jingled from her ears;</l>
+<l>That jingled from her ears;</l></lg>
 
+<lg type="stanza">
 <l>I liked the flaring yellow scarf</l>
 <l>Bound loose about her throat,</l>
 <l>I liked her showy purple gown</l>
@@ -344,755 +342,571 @@
 
 
 
-<pb n=""/>
-
-
-
-<l>2          THE GIPSY GIRL</l>
+<pb n="[2          THE GIPSY GIRL]"/>
 
 <l>A man came up, too loose of tongue,</l>
 <l>And said no good to her;</l>
 <l>She did not blush as Saxons do,</l>
-<l>Or turn upon the cur;</l>
+<l>Or turn upon the cur;</l></lg>
 
-<l>She   fawned   and   whined   "Sweet</l>
-
-<l>gentleman,</l>
+<lg type="stanza">
+<l>She fawned and whined "Sweet gentleman,</l>
 <l>A penny for three tries!"</l>
-<l>— But oh, the den of wild things in</l>
-<l>The darkness of her eyes!</l>
+<l>--But oh, the den of wild things in</l>
+<l>The darkness of her eyes!</l></lg></div>
 
 
 
-<pb n=""/>
+<pb n="[A SONG  3]"/>
 
+<div id="hodgson002" type="poem" n="2">
+<head rend="center">A SONG</head>
+<lg type="stanza">
+<l>WITH Love among the haycocks</l>
+<l>We played at hide and seek;</l></lg>
 
+<lg type="stanza">
+<l>He shut his eyes and counted--</l>
+<l>We hid among the hay--</l>
+<l>Then he a haycock mounted,</l>
+<l>And spied us where we lay;</l></lg>
 
-<l>A SONG</l>
-
-<l>With Love among the haycocks</l>
-<l>We played at hide and seek;</l>
-
-<l>He shut his eyes and counted -</l>
-<l>We hid among the hay —</l>
-
-<l>Then he a haycock mounted.</l>
-<l>And spied us where we lay;</l>
-
+<lg type="stanza">
 <l>And O! the merry laughter</l>
-<l>Across the hayfield after!</l>
+<l>Across the hayfield after!</l></lg></div>
 
 
 
-<pb n=""/>
+<pb n="[4  TIME, YOU OLD GIPSY MAN]"/>
 
-
-
-<l>TIME, YOU OLD GIPSY MAN</l>
-
-<l>Time, you old gipsy man,</l>
-
-<l>Will you not stay.</l>
+<div id="hodgson003" type="poem" n="3">
+<head rend="center">TIME, YOU OLD GIPSY MAN</head>
+<lg type="stanza">
+<l>TIME, you old gipsy man,</l>
+<l rend="indent">Will you not stay,</l>
 <l>Put up your caravan</l>
+<l rend="indent">Just for one day ?</l></lg>
 
-<l>Just for one day ?</l>
-
+<lg type="stanza">
 <l>All things I'll give you</l>
-<l>Will you be my guest.</l>
+<l>Will you be my guest,</l>
 <l>Bells for your jennet</l>
 <l>Of silver the best,</l>
 <l>Goldsmiths shall beat you</l>
-<l>A great golden ring.</l>
-<l>Peacocks shall bow to you.</l>
+<l>A great golden ring,</l>
+<l>Peacocks shall bow to you,</l>
 <l>Little boys sing.</l>
 <l>Oh, and sweet girls will</l>
-<l>Festoon you with may.</l>
+<l>Festoon you with may,</l>
 <l>Time, you old gipsy,</l>
-<l>Why hasten away ?</l>
+<l>Why hasten away ?</l></lg>
 
 
 
-<pb n=""/>
+<pb n="TIME  5"/>
 
-
-
-<l>TIME</l>
-
+<lg type="stanza">
 <l>Last week in Babylon,</l>
-
 <l>Last night in Rome,</l>
-
 <l>Morning, and in the crush</l>
-
 <l>Under Paul's dome;</l>
-
 <l>Under Paul's dial</l>
-
-<l>You tighten your rein —</l>
-
-<l>Only a moment.</l>
-
+<l>You tighten your rein--</l>
+<l>Only a moment,</l>
 <l>And off once again;</l>
-
 <l>Off to some city</l>
-
-<l>Now blind in the womb.</l>
-
+<l>Now blind in the womb,</l>
 <l>Off to another</l>
+<l>Ere that's in the tomb.</l></lg>
 
-<l>Ere that's in the tomb.</l>
-
-<l>Time, you old gipsy man.</l>
-<l>Will you not stay.</l>
-
+<lg type="stanza">
+<l>Time, you old gipsy man,</l>
+<l rend="indent">Will you not stay,</l>
 <l>Put up your caravan</l>
-<l>Just for one day ?</l>
+<l rend="indent">Just for one day ?</l></lg></div>
 
 
 
-<pb n=""/>
+<pb n="[6   GHOUL CARE]"/>
 
-
-
-<l>GHOUL CARE</l>
-
-<l>Sour fiend, go home and tell the Pit</l>
-<l>For once you met your master, —</l>
+<div id="hodgson004" type="poem" n="4">
+<head rend="center">GHOUL CARE</head>
+<lg type="stanza">
+<l>SOUR fiend, go home and tell the Pit</l>
+<l>For once you met your master,--</l>
 <l>A man who carried in his soul</l>
-<l>Three charms against disaster.</l>
-<l>The Devil and disaster.</l>
+<l>Three charms against disaster,</l>
+<l>The Devil and disaster.</l></lg>
 
+<lg type="stanza">
 <l>Away, away, and tell the tale</l>
-<l>And start your whelps a-whining.</l>
+<l>And start your whelps a-whining,</l>
 <l>Say "In the greenwood of his soul</l>
 <l>A lizard's eye was shining,</l>
-<l>A little eye kept shining."</l>
+<l>A little eye kept shining."</l></lg>
 
-<l>Away, away, and salve your sores.</l>
-<l>And set your hags a-groaning.</l>
+<lg type="stanza">
+<l>Away, away, and salve your sores,</l>
+<l>And set your hags a-groaning,</l>
 <l>Say "In the greenwood of his soul</l>
 <l>A drowsy bee was droning,</l>
-<l>A dreamy bee was droning."</l>
+<l>A dreamy bee was droning."</l></lg>
 
 <l>6</l>
 
 
 
-<pb n=""/>
+<pb n="GHOUL CARE              7"/>
 
-
-
-<l>GHOUL CARE              7</l>
-
-<l>Prodigious Bat!    Go start the walls</l>
-<l>Of Hell with horror ringing.</l>
+<lg type="stanza">
+<l>Prodigious Bat! Go start the walls</l>
+<l>Of Hell with horror ringing,</l>
 <l>Say " In the greenwood of his soul</l>
 <l>There was a goldfinch singing,</l>
-<l>A pretty goldfinch singing."</l>
+<l>A pretty goldfinch singing."</l></lg>
 
-<l>And then come back, come, if you</l>
-
-<l>please,</l>
+<lg type="stanza">
+<l>And then come back, come, if you please,</l>
 <l>A fiercer ghoul and ghaster,</l>
 <l>With all the glooms and smuts of</l>
 <l>Hell</l>
 <l>Behind you, I'm your master!</l>
-<l>You know I'm still your master.</l>
+<l>You know I'm still your master.</l></lg></div>
 
 
+<pb n="[8   EVE]"/>
 
-<pb n=""/>
-
-
-
-<l>EVE</l>
-
-<l>Eve, with her basket, was</l>
-<l>Deep in the bells and grass.</l>
+<div id="hodgson005" type="poem" n="5">
+<head rend="center">EVE</head>
+<lg type="stanza">
+<l>EVE, with her basket, was</l>
+<l>Deep in the bells and grass,</l>
 <l>Wading in bells and grass</l>
-<l>Up to her knees.</l>
-<l>Picking a dish of sweet\</l>
+<l>Up to her knees,</l>
+<l>Picking a dish of sweet</l>
 <l>Berries and plums to eat,</l>
 <l>Down in the bells and grass</l>
-<l>Under the trees.</l>
+<l>Under the trees.</l></lg>
 
+<lg type="stanza">
 <l>Mute as a mouse in a</l>
-<l>Corner the cobra lay.</l>
+<l>Corner the cobra lay,</l>
 <l>Curled round a bough of the</l>
 <l>Cinnamon tall. . . .</l>
 <l>Now to get even and</l>
 <l>Humble proud heaven and</l>
 <l>Now was the moment or</l>
-<l>Never at all.</l>
+<l>Never at all.</l></lg>
 
 <l>8</l>
 
 
 
-<pb n=""/>
+<pb n="EVE   9"/>
 
-
-
-<l>EVE                         9</l>
-
-
-
-
-
-<l>((</l>
-
-
-
-
-
-<l>Eva!"    Each syllable</l>
+<lg type="stanza">
+<l>Eva!" Each syllable</l>
 <l>Light as a flower fell,</l>
 <l>"Eva!" he whispered the</l>
 <l>Wondering maid,</l>
 <l>Soft as a bubble sung</l>
-<l>Out of a linnet's lung.</l>
+<l>Out of a linnet's lung,</l>
 <l>Soft and most silverly</l>
-<l>"Eva!" he said.</l>
+<l>"Eva!" he said.</l></lg>
 
-<l>Picture that orchard sprite.</l>
+<lg type="stanza">
+<l>Picture that orchard sprite,</l>
 <l>Eve, with her body white,</l>
 <l>Supple and smooth to her</l>
-<l>Slim finger tips.</l>
-<l>Wondering, listening.</l>
-<l>Listening, wondering.</l>
+<l>Slim finger tips,</l>
+<l>Wondering, listening,</l>
+<l>Listening, wondering,</l>
 <l>Eve with a berry</l>
-<l>Half-way to her lips.</l>
+<l>Half-way to her lips.</l></lg>
 
+<lg type="stanza">
 <l>Oh had our simple Eve</l>
-
 <l>Seen through the make-believe!</l>
-
 <l>Had she but known the</l>
-
 <l>Pretender he was!</l>
-
 <l>Out of the boughs he came,</l>
-
-<l>Whispering still her name.</l>
-
-
-
-<pb n=""/>
+<l>Whispering still her name,</l>
 
 
 
-<l>10                     EVE</l>
+<pb n="10           EVE"/>
 
 <l>Tumbling in twenty rings</l>
-<l>Into the grass.</l>
+<l>Into the grass.</l></lg>
 
+<lg type="stanza">
 <l>Here was the strangest pair</l>
-<l>In the world anywhere.</l>
+<l>In the world anywhere,</l>
 <l>Eve in the bells and grass</l>
 <l>Kneeling, and he</l>
 <l>Telling his story low. . . .</l>
 <l>Singing birds saw them go</l>
 <l>Down the dark path to</l>
-<l>The Blasphemous Tree.</l>
+<l>The Blasphemous Tree.</l></lg>
 
+<lg type="stanza">
 <l>Oh what a clatter when</l>
 <l>Titmouse and Jenny Wren</l>
 <l>Saw him successful and</l>
 <l>Taking his leave!</l>
-<l>How the birds rated him.</l>
+<l>How the birds rated him,</l>
 <l>How they all hated him!</l>
 <l>How they all pitied</l>
-<l>Poor motherless Eve!</l>
+<l>Poor motherless Eve!</l></lg>
 
+<lg type="stanza">
 <l>Picture her crying</l>
-<l>Outside in the lane.</l>
+<l>Outside in the lane,</l>
 <l>Eve, with no dish of sweet</l>
-<l>Berries and plums to eat.</l>
+<l>Berries and plums to eat,</l>
 
 
 
-<pb n=""/>
-
-
-
-<l>EVE                     11</l>
+<pb n="EVE             11"/>
 
 <l>Haunting the gate of the</l>
 <l>Orchard in vain. . . .</l>
 <l>Picture the lewd delight</l>
-<l>Under the hill to-night —</l>
+<l>Under the hill to-night--</l>
 <l>"Eva!" the toast goes round,</l>
-<l>"Eva!" again.</l>
+<l>"Eva!" again.</l></lg></div>
 
 
 
-<pb n=""/>
+<pb n="[12   THE SONG OF HONOUR]"/>
 
-
-
-<l>THE SONG OF HONOUR</l>
-
+<div id="hodgson006" type="poem" n="6">
+<head rend="center">THE SONG OF HONOUR</head>
+<lg type="stanza">
 <l>I CLIMBED a hill as light fell short.</l>
-<l>And rooks came home in scramble</l>
-
-<l>sort.</l>
-<l>And filled the trees and flapped and</l>
-
-<l>fought</l>
+<l>And rooks came home in scramble sort.</l>
+<l>And filled the trees and flapped and fought</l>
 <l>And sang themselves to sleep;</l>
 <l>An owl from nowhere with no sound</l>
-<l>Swung  by  and  soon  was  nowhere</l>
-
-<l>found,</l>
-<l>I heard him calling half-way round.</l>
+<l>Swung  by  and  soon  was  nowhere found,</l>
+<l>I heard him calling half-way round,</l>
 <l>Holloing loud and deep ;</l>
 <l>A pair of stars, faint pins of light,</l>
-<l>Then many a star, sailed into sight.</l>
-<l>And all the stars, the flower of night.</l>
+<l>Then many a star, sailed into sight,</l>
+<l>And all the stars, the flower of night,</l>
 <l>Were round me at a leap;</l>
 <l>To tell how still the valleys lay</l>
 <l>I heard a watchdog miles away,</l>
-<l>And bells of distant sheep.</l>
+<l>And bells of distant sheep.</l></lg>
 
 <l>12</l>
 
 
 
-<pb n=""/>
+<pb n="THE  SONG OF HONOUR    13"/>
 
-
-
-<l>THE  SONG OF HONOUR    13</l>
-
-<l>I heard no more of bird or bell.</l>
-
+<lg type="stanza">
+<l>I heard no more of bird or bell,</l>
 <l>The mastiff in a slumber fell,</l>
-
-<l>I stared into the sky.</l>
-
+<l>I stared into the sky,</l>
 <l>As wondering men have always done</l>
-
 <l>Since beauty and the stars were one</l>
+<l>Though none so hard as I.</l></lg>
 
-<l>Though none so hard as I.</l>
-
+<lg type="stanza">
 <l>It seemed, so still the valleys were,</l>
-<l>As   if   the   whole   world   knelt   at</l>
-
-<l>prayer.</l>
+<l>As if the whole world knelt at prayer,</l>
 <l>Save me and me alone;</l>
 <l>So pure and wide that silence was</l>
-<l>I feared to bend a blade of grass.</l>
-<l>And there I stood like stone.</l>
+<l>I feared to bend a blade of grass,</l>
+<l>And there I stood like stone.</l></lg>
 
-<l>There,  sharp  and  sudden,  there I</l>
-
-<l>heard —</l>
-<l>Ah! some wild lovesick singing bird</l>
+<lg type="stanza">
+<l>There,  sharp  and  sudden,  there I heard--</l>
+<hi rend="italic"><l>Ah! some wild lovesick singing bird</l>
 <l>Woke singing in the trees ?</l>
 <l>The nightingale and babble-wren</l>
-<l>Were   in   the   English   greenwood</l>
-
-<l>then.</l>
-<l>And you heard one of these ?</l>
+<l>Were   in   the   English   greenwood then,</l>
+<l>And you heard one of these ?</l></hi></lg>
 
 
+<pb n="14   THE SONG OF HONOUR"/>
 
-<pb n=""/>
-
-
-
-<l>14   THE SONG OF HONOUR</l>
-
+<lg type="stanza">
 <l>The babble-wren and nightingale</l>
-
 <l>Sang in the Abyssinian vale</l>
-
 <l>That season of the year!</l>
-
 <l>Yet, true enough, I heard them plain,</l>
-
-<l>I heard them both again, again.</l>
-
+<l>I heard them both again, again,</l>
 <l>As sharp and sweet and clear</l>
-
 <l>As if the Abyssinian tree</l>
-
 <l>Had thrust a bough across the sea,</l>
-
 <l>Had thrust a bough across to me</l>
+<l>With music for my ear!</l></lg>
 
-<l>With music for my ear!</l>
-
+<lg type="stanza">
 <l>I heard them both, and oh! I heard</l>
 <l>The song of every singing bird</l>
-<l>That sings beneath the sky.</l>
+<l>That sings beneath the sky,</l>
 <l>And with the song of lark and wren</l>
-<l>The song of mountains, moths and</l>
+<l>The song of mountains, moths and men</l>
+<l>And seas and rainbows vie!</l></lg>
 
-<l>men</l>
-<l>And seas and rainbows vie!</l>
-
-<l>I heard the universal choir.</l>
-
+<lg type="stanza">
+<l>I heard the universal choir,</l>
 <l>The Sons of Light exalt their Sire</l>
-
 <l>With universal song,</l>
-
-<l>Earth's lowliest and loudest notes.</l>
-
+<l>Earth's lowliest and loudest notes,</l>
 <l>Her million times ten million throats</l>
-
-<l>Exalt Him loud and long.</l>
-
-
-
-<pb n=""/>
+<l>Exalt Him loud and long,</l>
 
 
 
-<l>THE SONG OF HONOUR   15</l>
+<pb n="THE SONG OF HONOUR   15"/>
 
 <l>And lips and lungs and tongues of</l>
-
-<l>Grace</l>
+<l rend="inline">Grace</l>
 <l>From every part and every place</l>
-<l>Within the shining of His face.</l>
-<l>The universal throng.</l>
+<l>Within the shining of His face,</l>
+<l>The universal throng.</l></lg>
 
+<lg type="rend">
 <l>I heard the hymn of being sound</l>
-
 <l>From every well of honour found</l>
-
 <l>In human sense and soul:</l>
-
 <l>The song of poets when they write</l>
-
 <l>The testament of Beauty sprite</l>
-
-<l>Upon a flying scroll.</l>
-
-<l>The  song   of   painters   when   they</l>
-
-<l>take</l>
+<l>Upon a flying scroll,</l>
+<l>The song of painters when they take</l>
 <l>A burning brush for Beauty's sake</l>
-<l>And limn her features whole —</l>
+<l>And limn her features whole--</l></lg>
 
+<lg type="stanza">
 <l>The song of men divinely wise</l>
 <l>Who look and see in starry skies</l>
-<l>Not stars so much as robins' eyes.</l>
+<l>Not stars so much as robins' eyes,</l>
 <l>And when these pale away</l>
 <l>Hear flocks of shiny pleiades</l>
 <l>Among the plums and apple trees</l>
-<l>Sing in the summer day —</l>
+<l>Sing in the summer day--</l></lg>
 
 
 
-<pb n=""/>
+<pb n="16   THE SONG OF  HONOUR"/>
 
-
-
-<l>16   THE SONG OF  HONOUR</l>
-
+<lg type="stanza">
 <l>The song of all both high and low</l>
-
 <l>To some blest vision true,</l>
-
 <l>The song of beggars when they throw</l>
-
 <l>The crust of pity all men owe</l>
-
-<l>To hungry sparrows in the snow.</l>
-
-<l>Old beggars hungry too —</l>
-
+<l>To hungry sparrows in the snow,</l>
+<l>Old beggars hungry too--</l>
 <l>The song of kings of kingdoms when</l>
-
 <l>They rise above their fortune Men,</l>
+<l>And crown themselves anew--</l></lg>
 
-<l>And crown themselves anew —</l>
-
+<lg type="stanza">
 <l>The song of courage, heart and will</l>
-
 <l>And gladness in a fight,</l>
-
 <l>Of men who face a hopeless hill</l>
-
-<l>With sparking and delight.</l>
-
+<l>With sparking and delight,</l>
 <l>The bells and bells of song that ring</l>
-
 <l>Round banners of a cause or king</l>
+<l>From armies bleeding white--</l></lg>
 
-<l>From armies bleeding white —</l>
-
+<lg type="stanza">
 <l>The song of sailors every one</l>
-<l>When monstrous tide and tempest</l>
-
-<l>run</l>
-<l>At ships like bulls at red.</l>
-<l>When stately ships are twirled and</l>
-
-<l>spun</l>
+<l>When monstrous tide and tempest run</l>
+<l>At ships like bulls at red,</l>
+<l>When stately ships are twirled and spun</l>
 
 
 
-<pb n=""/>
+<pb n="THE SONG OF HONOUR   17"/>
 
-
-
-<l>THE SONG OF HONOUR   17</l>
-
-<l>Like whipping tops and help there's</l>
-
-<l>none</l>
+<l>Like whipping tops and help there's none</l>
 <l>And mighty ships ten thousand ton</l>
-<l>Go down like lumps of lead —</l>
+<l>Go down like lumps of lead--</l></lg>
 
+<lg type="stanza">
 <l>And song of fighters stern as they</l>
-<l>At   odds   with   fortune   night   and</l>
-
-<l>day.</l>
-<l>Crammed   up   in   cities   grim   and</l>
-
-<l>grey</l>
+<l>At odds with fortune night and day.</l>
+<l>Crammed up in cities grim and grey</l>
 <l>As thick as bees in hives,</l>
 <l>Hosannas of a lowly throng</l>
 <l>Who sing unconscious of their song.</l>
-<l>Whose lips are in their lives —</l>
+<l>Whose lips are in their lives--</l></lg>
 
+<lg type="stanza">
 <l>And song of some at holy war</l>
-<l>W^ith spells and ghouls more dread</l>
-
-<l>by far</l>
+<l>With spells and ghouls more dread by far</l>
 <l>Than deadly seas and cities are</l>
-<l>Or hordes of quarrelling kings —</l>
-<l>The song of fighters great and small.</l>
+<l>Or hordes of quarrelling kings--</l>
+<l>The song of fighters great and small,</l>
 <l>The song of pretty fighters all</l>
-<l>And high heroic things —</l>
+<l>And high heroic things--</l></lg>
 
 
 
-<pb n=""/>
+<pb n="18   THE SONG OF HONOUR"/>
 
-
-
-<l>18   THE SONG OF HONOUR</l>
-
-<l>The song of lovers — who knows how</l>
+<lg type="stanza">
+<l>The song of lovers -- who knows how</l>
 <l>Twitched up from place and time</l>
 <l>Upon a sigh, a blush, a vow,</l>
-<l>A curve or hue of cheek or brow.</l>
+<l>A curve or hue of cheek or brow,</l>
 <l>Borne up and off from here and now</l>
-<l>Into the void sublime!</l>
+<l>Into the void sublime!</l></lg>
 
+<lg type="stanza">
 <l>And crying loves and passions still</l>
 <l>In every key from soft to shrill</l>
-<l>And numbers never done.</l>
-<l>Dog-loyalties to faith and friend.</l>
+<l>And numbers never done,</l>
+<l>Dog-loyalties to faith and friend,</l>
 <l>And loves like Ruth's of old no end,</l>
-<l>And intermission none —</l>
+<l>And intermission none--</l></lg>
 
+<lg type="stanza">
 <l>And burst on burst for beauty and</l>
-<l>For numbers not behind.</l>
+<l>For numbers not behind,</l>
 <l>From men whose love of motherland</l>
-<l>Is like a dog's for one dear hand.</l>
-<l>Sole, selfless, boundless, blind —</l>
+<l>Is like a dog's for one dear hand,</l>
+<l>Sole, selfless, boundless, blind--</l>
 <l>And song of some with hearts beside</l>
-<l>For men and sorrows far and wide.</l>
-<l>Who watch the world with pity and</l>
-
-<l>pride</l>
-<l>And warm to all mankind —</l>
+<l>For men and sorrows far and wide,</l>
+<l>Who watch the world with pity and pride</l>
+<l>And warm to all mankind--</l></lg>
 
 
 
-<pb n=""/>
+<pb n="THE SONG OF HONOUR   19"/>
 
-
-
-<l>THE SONG OF HONOUR   19</l>
-
+<lg type="stanza">
 <l>And endless joyous music rise</l>
-<l>From children at their play.</l>
+<l>From children at their play,</l>
 <l>And endless soaring lullabies</l>
 <l>From happy, happy mothers' eyes,</l>
-<l>And answering crows and baby-cries.</l>
+<l>And answering crows and baby-cries,</l>
 <l>How many who shall say !</l>
 <l>And many a song as wondrous well</l>
 <l>With pangs and sweets intolerable</l>
-<l>From   lonely   hearths   too   grey   to</l>
-
-<l>tell,</l>
+<l>From lonely hearths too grey to tell,</l>
 <l>God knows how utter grey !</l>
 <l>And song from many a house of care</l>
 <l>When pain has forced a footing there</l>
 <l>And there's a Darkness on the stair</l>
-<l>Will not be turned away —</l>
+<l>Will not be turned away--</l></lg>
 
-<l>And song — that song whose singers</l>
-
-<l>come</l>
+<lg type="stanza">
+<l>And song--that song whose singers come</l>
 <l>With old kind tales of pity from</l>
-<l>The Great Compassion's lips.</l>
-<l>That make the bells of Heaven to</l>
-
-<l>peal</l>
+<l>The Great Compassion's lips,</l>
+<l>That make the bells of Heaven to peal</l>
 <l>Round pillows frosty with the feel</l>
-<l>Of Death's cold finger tips —</l>
+<l>Of Death's cold finger tips--</l></lg>
 
 
 
-<pb n=""/>
+<pb n="20   THE SONG OF  HONOUR"/>
 
-
-
-<l>20   THE SONG OF  HONOUR</l>
-
+<lg type="stanza">
 <l>The song of men all sorts and kinds,</l>
 <l>As many tempers, moods and minds</l>
 <l>As leaves are on a tree,</l>
 <l>As many faiths and castes and creeds.</l>
 <l>As many human bloods and breeds</l>
-<l>As in the world may be;</l>
+<l>As in the world may be;</l></lg>
 
+<lg type="stanza">
 <l>The song of each and all who gaze</l>
-<l>On Beauty in her naked blaze.</l>
+<l>On Beauty in her naked blaze,</l>
 <l>Or see her dimly in a haze,</l>
 <l>Or get her light in fitful rays</l>
-<l>And tiniest needles even.</l>
+<l>And tiniest needles even,</l>
 <l>The song of all not wholly dark,</l>
 <l>Not wholly sunk in stupor stark</l>
-<l>Too deep for groping Heaven —</l>
+<l>Too deep for groping Heaven--</l></lg>
 
+<lg type="stanza">
 <l>And alleluias sweet and clear</l>
-
 <l>And wild with beauty men mishear,</l>
-
 <l>From choirs of song as near and dear</l>
-
 <l>To Paradise as they,</l>
-
 <l>The everlasting pipe and flute</l>
-
-<l>Of wind and sea and bird and brute.</l>
-
+<l>Of wind and sea and bird and brute,</l>
 <l>And lips deaf men imagine mute</l>
-
-<l>In wood and stone and clay.</l>
-
-
-
-<pb n=""/>
+<l>In wood and stone and clay,</l>
 
 
 
-<l>THE SONG OF HONOUR   21</l>
+<pb n="THE SONG OF HONOUR   21"/>
 
 <l>The music of a lion strong</l>
-
-<l>That  shakes  a hill  a  whole  night</l>
-
-<l>long,</l>
-<l>A hill as loud as he.</l>
+<l>That  shakes  a hill  a  whole  night long,</l>
+<l>A hill as loud as he,</l>
 <l>The twitter of a mouse among</l>
-<l>Melodious greenery.</l>
-<l>The ruby's and the rainbow's song.</l>
-<l>The nightingale's — all three.</l>
+<l>Melodious greenery,</l>
+<l>The ruby's and the rainbow's song,</l>
+<l>The nightingale's -- all three,</l>
 <l>The song of life that wells and flows</l>
 <l>From every leopard, lark and rose</l>
 <l>And everything that gleams or goes</l>
-<l>Lack-lustre in the sea.</l>
+<l>Lack-lustre in the sea.</l></lg>
 
+<lg type="stanza">
 <l>I heard it all, each, every note</l>
-
 <l>Of every lung and tongue and throat.</l>
-
 <l>Ay, every rhythm and rhyme</l>
-
 <l>Of everything that lives and loves</l>
-
 <l>And upward, ever upward moves</l>
-
 <l>From lowly to sublime !</l>
-
 <l>Earth's multitudinous Sons of Light,</l>
-
 <l>I heard them lift their lyric might</l>
-
 <l>With each and every chanting sprite</l>
-
 <l>That lit the sky that wondrous night</l>
-
-<l>As far as eye could climb !</l>
-
+<l>As far as eye could climb !</l></lg>
 
 
-<pb n=""/>
+<pb n="22   THE SONG OF HONOUR"/>
 
-
-
-<l>22   THE SONG OF HONOUR</l>
-
+<lg type="stanza">
 <l>I heard it all, I heard the whole</l>
-
 <l>Harmonious hymn of being roll</l>
-
 <l>Up through the chapel of my soul</l>
-
-<l>And at the altar die.</l>
-
+<l>And at the altar die,</l>
 <l>And in the awful quiet then</l>
-
 <l>Myself I heard. Amen, Amen,</l>
-
 <l>Amen I heard me cry !</l>
-
 <l>I heard it all and then although</l>
-
 <l>I caught my flying senses. Oh,</l>
-
 <l>A dizzy man was I!</l>
-
 <l>I stood and stared; the sky was lit,</l>
-
 <l>The sky was stars all over it,</l>
-
-<l>I stood, I knew not why.</l>
-
+<l>I stood, I knew not why,</l>
 <l>Without a wish, without a will,</l>
-
 <l>I stood upon that silent hill</l>
-
 <l>And stared into the sky until</l>
-
-<l>My eyes were blind with stars and</l>
-
-<l>still</l>
-<l>I stared into the sky.</l>
+<l>My eyes were blind with stars and still</l>
+<l>I stared into the sky.</l></lg></div>
 
 
 
-<pb n=""/>
+<pb n="[THE MYSTERY  23]"/>
 
+<div id="hodgson007" type="poem" n="7">
+<head rend="center">THE MYSTERY</head>
 
-
-<l>THE MYSTERY</l>
-
+<lg type="stanza">
 <l>He came and took me by the hand</l>
-
-<l>Up to a red rose tree.</l>
+<l>Up to a red rose tree,</l>
 <l>He kept His meaning to Himself</l>
+<l>But gave a rose to me.</l></lg>
 
-<l>But gave a rose to me.</l>
-
+<lg type="stanza">
 <l>I did not pray Him to lay bare</l>
-
-<l>The mystery to me.</l>
-<l>Enough   the   rose   was   Heaven   to</l>
-<l>smell.</l>
-
-<l>And His own face to see.</l>
+<l>The mystery to me,</l>
+<l>Enough   the   rose   was   Heaven   to smell,</l>
+<l>And His own face to see.</l></lg></div>
 
 
 
@@ -1100,28 +914,26 @@
 
 <l>23</l>
 
+<pb n="[24   STUPIDITY STREET]"/>
 
-
-<pb n=""/>
-
-
-
-<l>STUPIDITY STREET</l>
-
+<div id="hodgson008" type="poem" n="8">
+<head rend="center">STUPIDITY STREET</head>
+<lg type="stanza">
 <l>I SAW with open eyes</l>
 <l>Singing birds sweet</l>
 <l>Sold in the shops</l>
-<l>For the people to eat.</l>
+<l>For the people to eat,</l>
 <l>Sold in the shops of</l>
-<l>Stupidity Street.</l>
+<l>Stupidity Street.</l></lg>
 
+<lg type="stanza">
 <l>I saw in vision</l>
-<l>The worm in the wheat.</l>
+<l>The worm in the wheat,</l>
 <l>And in the shops nothing</l>
 <l>For people to eat;</l>
 <l>Nothing for sale in</l>
-<l>Stupidity Street.</l>
-
+<l>Stupidity Street.</l></lg>
+</div>
 
 
 
@@ -1130,21 +942,20 @@
 
 
 
-<pb n=""/>
+<pb n="[THE BELLS OF HEAVEN  25]"/>
 
-
-
-<l>THE BELLS OF HEAVEN</l>
-
-<l>'TwouLD ring the bells of Heaven</l>
-<l>The wildest peal for years.</l>
+<div id="hodgson009" type="poem" n="9">
+<head rend="center">THE BELLS OF HEAVEN</head>
+<lg type="stanza">
+<l>'TWOULD ring the bells of Heaven</l>
+<l>The wildest peal for years,</l>
 <l>If Parson lost his senses</l>
-<l>And people came to theirs.</l>
+<l>And people came to theirs,</l>
 <l>And he and they together</l>
 <l>Knelt down with angry prayers</l>
 <l>For tamed and shabby tigers</l>
-<l>And dancing dogs and bears.</l>
-<l>And wretched, blind pit ponies.</l>
+<l>And dancing dogs and bears,</l>
+<l>And wretched, blind pit ponies,</l>
 <l>And little hunted hares.</l>
 
 
@@ -1155,11 +966,7 @@
 
 
 
-<pb n=""/>
-
-
-
-<l>THE JOURNEYMAN</l>
+<pb n="THE JOURNEYMAN  26"/>
 
 <l>Not baser than his own homekeeping</l>
 

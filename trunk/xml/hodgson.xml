@@ -1,322 +1,180 @@
-<idno type="ocm">ocm01011461</idno>
-<pb n=""/>
+
+<TEI.2>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>POEMS: Electronic Edition</title>
+            <author><name type="person" reg="Hodgson,Ralph">Ralph Hodgson, 1871-1962</name></author>
+         </titleStmt>
+	 <publicationStmt>
+	   <publisher>Lewis H. Beck Center for Electronic Collections
+	   and Services, Emory University</publisher>
+	   <pubPlace>Atlanta, GA</pubPlace>
+	   <address>
+	     <addrLine>540 Asbury Circle</addrLine>
+	     <addrLine>Woodruff Library</addrLine>
+	     <addrLine>Atlanta, GA 30322</addrLine>
+	   </address>
+	   <availability><p>&#x00A9;Emory University. Permission is
+	   granted to download, transmit, or otherwise reproduce,
+	   distribute or display the contributions to the work claimed
+	   by Emory University for non-profit educational purposes,
+	   provided this header is included in its entirety.  For
+	   inquiries about commercial uses, contact either: Institute
+	   for Jewish Studies, Emory University, Atlanta GA 30322 or
+	   the Lewis H. Beck Center for Electronic Collections and
+	   Services, Woodruff Library, Emory University, Atlanta,
+	   Georgia 30322 </p></availability> 
+	   <date>2004</date>
+	 </publicationStmt>
+	 <seriesStmt>
+	   <title>The Great War</title>
+	 </seriesStmt>
+	 <notesStmt><note></note></notesStmt>
+         <sourceDesc>
+            <bibl>
+	     <title>POEMS</title>
+	     <author>RALPH HODGSON</author>
+	     <pubPlace>New York</pubPlace>
+	     <publisher>The Macmillan Company</publisher>
+	     <date>1924</date>
+	   </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+	<projectDesc><p>Poetry contemporary to World War I (the Great
+	War) has been digitized by OCR or rekeying. The work has been
+	done in conjunction with Dr. Harry Rusche of the English
+	Department, Emory University</p></projectDesc>
+	<tagsDecl>
+	  <rendition id="quote">Paragraphs including q or quote
+	  elements indicate material that is in a block
+	  quote.</rendition>
+	  <rendition id="title">Where the title of a work is
+	  italicized, it is marked with a title element, both in the
+	  text and in footnotes.</rendition>
+	  <tagUsage gi="q" render="quote">blockquote</tagUsage>
+	  <tagUsage gi="quote" render="quote">blockquote</tagUsage>
+	  <tagUsage gi="title" render="title">italic</tagUsage>
+	</tagsDecl>
+	<refsDecl><p>The page numbers of the volumes are indicated by
+	page break elements</p>
+	<p></p>
+	</refsDecl>
+	<classDecl>
+	  <taxonomy id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
+	  </taxonomy>
+	</classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+	   <rs type="collection">poetry</rs>
+	   <rs type="language">English</rs>
+            <rs type="ethnicity">Caucasian</rs>
+            <rs type="form">Unedited</rs>
+            <rs type="genre">Poetry</rs>
+            <rs type="geography">Great Britain</rs>
+            <date>1900-1999</date>
+         </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>World War, 1914-1918--Poetry.</item>
+	       <item>English poetry--20th Century.</item>
+	       <item>War.</item>
+	     </list>
+	   </keywords>
+	 </textClass></profileDesc>
+      <revisionDesc><!-- add your information here -->
+	<change>
+	  <date>2009</date>
+	  <respStmt>
+	    <name>Shruthi Vissa</name>
+	    <resp>Beck Center staff</resp>
+	  </respStmt>
+	    <item>Proofing, encoding</item>
+	</change>
+      </revisionDesc>
+   </teiHeader>
+<text>
+<front>
 
 <pb n=""/>
-
-
-
-<l>POEMS</l>
-
-
-
-<pb n=""/>
-
-
-
-<l>THE MACMILLAN COMPANY</l>
-
-<l>NEW VORIC      BOSTON       CHICAGO      DALLAS</l>
-<l>ATLANTA      SAN  FRANCISCO</l>
-
-<l>MACMILLAN &amp; CO., Limited</l>
-
-<l>LONDON  BOMBAY  CALCUTTA</l>
-<l>MELBOURNE</l>
-
-<l>THE MACMILLAN CO. OF CANADA. Ltd.</l>
-
-<l>TORONTO</l>
-
-
-
-<pb n=""/>
-
-
-
-<l>POEMS</l>
-
-
-
-
-
-<l>BY</l>
-
-<l>RALPH HODGSON</l>
-
-
-
-
-
-<l>Wefa got*</l>
-<l>THE MACMILLAN COMPANY</l>
-
-<l>1924</l>
-
-<l>All rights reserved</l>
-
-
-
-<pb n=""/>
-
-
-
-<l>COPTBIOHT, 191T,</l>
-
-<l>By the MACMILLAN COMPAHT.</l>
-
-
-
-
-
-<l>Set up and electrotyped.   Published March, 1917.</l>
-
-
-
-
-
-<l>Notinoalr 9^f§</l>
-
-<l>J. 8. Gushing Co. — Berwick &amp; Smith Co.</l>
-
-<l>Norwood, Mua., U.S.A.</l>
-
-
-
-<pb n=""/>
-
-
-
-<l>TO</l>
-<l>MY MOTHER</l>
-
-
-
-<pb n=""/>
-
-<pb n=""/>
-
-
-
-<l>CONTENTS</l>
-
-<l>PAGE</l>
-
-<l>The Gipsy Girl.....1</l>
-
-<l>A Song......3</l>
-
-<l>Time, you Old Gipsy Man       .       .     4</l>
-
-<l>Ghoul Care.....6</l>
-
-<l>Eve.......8</l>
-
-<l>The Song of Honour       .       .       .12</l>
-
-<l>The Mystery.....23</l>
-
-<l>Stupidity Street . . . .24</l>
-<l>The Bells of Heaven . . .25</l>
-<l>The Journeyman       .       .       .       .26</l>
-
-<l>The Bull......28</l>
-
-<l>Playmates......37</l>
-
-<l>The House across the Way    .       .   39</l>
-
-<l>The Beggar.....41</l>
-
-<l>Babylon......42</l>
-
-<l>The Moor......44</l>
-
-<l>February......46</l>
-
-<l>vii</l>
-
-
-
-<pb n=""/>
-
-
-
-
-
-<l>viii             CONTENTS</l>
-
-
-
-
-<l/>
-
-
-
-
-
-<l>PAGE</l>
-
-
-
-
-
-<l>The late, last Rook        .       .       .47</l>
-
-
-
-
-
-<l>The Birdcatcher</l>
-
-
-
-
-<l/>
-
-
-
-
-<l>.   48</l>
-
-
-
-
-
-<l>The Royal Mails</l>
-
-
-
-
-<l/>
-
-
-
-
-<l/>
-
-
-
-
-<l>.   49</l>
-
-
-
-
-
-<l>The Swallow</l>
-
-
-
-
-<l/>
-
-
-
-
-<l/>
-
-
-
-
-<l>.    57</l>
-
-
-
-
-
-<l/>
-
-
-
-
-<l/>
-
-
-
-
-<l/>
-
-
-
-
-<l>.    58</l>
-
-
-
-
-
-<l>Reason has Moons</l>
-
-
-
-
-<l/>
-
-
-
-
-<l/>
-
-
-
-
-<l>.    59</l>
-
-
-
-
-
-<l/>
-
-
-
-
-<l/>
-
-
-
-
-<l/>
-
-
-
-
-<l>.    60</l>
-
-
-
-
-
-<l/>
-
-
-
-
-<l/>
-
-
-
-
-<l/>
-
-
-
-
-<l/>
-
-
-
-<pb n=""/>
-
-
-
-<l>POEMS</l>
-
-
-
-<pb n=""/>
-
-<pb n="The Gipsy Girl  1"/>
+<pb n="[i]"/>
+
+<titlePage id="Hodgson100" type="half">
+     <docTitle>
+       <titlePart type="main">POEMS
+       </titlePart>
+     </docTitle>
+   </titlePage>
+<pb entity="[ii]"/>
+
+<div id="hodgson101" type="imprint">
+<figure type="hodgsonfm1" rend="inline">
+<figDesc> Imprint included in front matter of Hodgson's "Poems"</figDesc>
+</figure>
+</div>
+
+<pb entity="[iii]"/>
+
+   <titlePage id="binns102" type="full">
+     <docTitle>
+       <titlePart type="main">POEMS</titlePart>
+     </docTitle>
+       <byline> BY<lb/> RALPH HODGSON</byline>
+       <docImprint>
+	 <pubPlace>NEW YORK</pubPlace>
+	 <publisher>THE MACMILLAN COMPANY</publisher>
+	 <docDate>1924</docDate>
+       </docImprint>
+   </titlePage>
+
+<pb n="iv"/>
+<div id="hodgson103" type="copyright">
+<figure type="hodgsonfm2" rend="inline">
+<figDesc> Image of copyright claim at front of Hogdson's "Poems"</figDesc>
+</figure>
+</div>
+
+<pb n="[v]"/>
+<div id="hodgson104" type="dedication">
+<p> TO </p>
+<p>MY MOTHER</p>
+</div>
+
+<pb n="[vi]"/>
+<pb n="[vii]"/>
+<div id="hodgson105" type="table of contents">
+<figure type="hodgsontc1" rend="inline">
+<figDesc> Table of contents included in front matter of Hodgson's "Poems"</figDesc>
+</figure>
+</div>
+
+<pb n="viii"/>
+<div id="hodgson106" type="table of contents">
+<figure type="hodgsontc2" rend="inline">
+<figDesc> Table of contents included in front matter of Hodgson's "Poems"</figDesc>
+</figure>
+</div>
+
+<pb n="[ix]"/>
+<titlePage id="Hodgson107" type="half">
+     <docTitle>
+       <titlePart type="main">POEMS
+       </titlePart>
+     </docTitle>
+   </titlePage>
+
+<pb n="[x]"/>
+</front>
+<body>
+
+
+<pb n="[The Gipsy Girl  1]"/>
 
 
 <div id="hodgson001" type="poem" n="1">
@@ -342,7 +200,7 @@
 
 
 
-<pb n="[2          THE GIPSY GIRL]"/>
+<pb n="2          THE GIPSY GIRL"/>
 
 <l>A man came up, too loose of tongue,</l>
 <l>And said no good to her;</l>
@@ -966,7 +824,7 @@
 
 
 
-<pb n="THE JOURNEYMAN  26"/>
+<pb n=" 26  THE JOURNEYMAN "/>
 
 <div id="hodgson010" type="poem" n="10">
 <head rend="center">THE JOURNEYMAN</head>
@@ -996,11 +854,11 @@
 <l>And fall to blaming men--</l>
 <l>Blind sires and breastless mothers of his fate,</l>
 <l>It may be late and may be very late,</l>
-<l>Too late for blaming then.</l></lg>
+<l>Too late for blaming then.</l></lg></div>
 
 
 
-<pb n="28  THE BULL"/>
+<pb n="[28  THE BULL]"/>
 
 <div id="hodgson011" type="poem" n="11">
 <head rend="center">THE BULL</head>
@@ -1314,7 +1172,7 @@
 
 
 
-<pb n="THE HOUSE ACROSS THE WAY   39"/>
+<pb n="[THE HOUSE ACROSS THE WAY   39]"/>
 
 <div id="hodgson013" type="poem" n="13">
 <head rend="center">THE HOUSE ACROSS<lb/><rend type="center">THE WAY</rend></head>
@@ -1348,7 +1206,7 @@
 
 
 
-<pb n="THE BEGGAR  41"/>
+<pb n="[THE BEGGAR  41]"/>
 
 <div id="hodgson014" type="poem" n="14">
 <head rend="center">THE BEGGAR</head>
@@ -1370,7 +1228,7 @@
 
 
 
-<pb n="42  BABYLON"/>
+<pb n="[42  BABYLON]"/>
 
 <div id="hodgson015" type="poem" n="15">
 <head rend="center">BABYLON</head>
@@ -1428,11 +1286,11 @@
 <l>The desert that till yesterday</l>
 <l>Hid her from the eyes of men</l>
 <l>In its proper time and way</l>
-<l>Will take her to itself again.</l></lg>
+<l>Will take her to itself again.</l></lg></div>
 
 
 
-<pb n="44  THE MOOR"/>
+<pb n="[44  THE MOOR]"/>
 
 <div id="hodgson015" type="poem" n="15">
 <head rend="center">THE MOOR</head>
@@ -1452,54 +1310,39 @@
 
 
 
-<pb n=""/>
+<pb n="THE  MOOR              45"/>
 
-
-
-<l>THE  MOOR              45</l>
-
-<l>To all that walk at odds with life</l>
-
-<l>and limb;</l>
+<l>To all that walk at odds with life and limb;</l>
 <l>If this be he now riding up the hill</l>
-<l>Maybe he'll stop and take you up</l>
+<l>Maybe he'll stop and take you up with him. . . .</l></lg>
 
-<l>with him. . . .</l>
-
-<l>"But    thou    art    Death.?"     "Of</l>
-
-<l>Heavenly Seraphim</l>
-<l>None else to seek thee out and bid</l>
-
-<l>thee come."</l>
-<l>" I only care that thou art come from</l>
-
-<l>Him,</l>
-<l>Unbody me — I'm tired — and get</l>
-
-<l>me home."</l>
+<lg type="stanza">
+<l>"But thou art Death?"     "Of Heavenly Seraphim</l>
+<l>None else to seek thee out and bid thee come."</l>
+<l>" I only care that thou art come from Him,</l>
+<l>Unbody me -- I'm tired -- and get me home."</l></lg>
+</div>
 
 
 
-<pb n=""/>
+<pb n="[46   FEBRUARY]"/>
 
-
-
-<l>FEBRUARY</l>
-
+<div id="hodgson016" type="poem" n="16">
+<head rend="center">FEBRUARY</head>
+<lg type="stanza">
 <l>A FEW tossed thrushes save</l>
 <l>That carolled less than cried</l>
 <l>Against the dying rave</l>
-<l>And moan that never died.</l>
-<l>No bird sang then; no thorn.</l>
+<l>And moan that never died,</l>
+<l>No bird sang then; no thorn,</l>
 <l>No tree was green beside</l>
-<l>Them only never shorn —</l>
+<l>Them only never shorn --</l>
 <l>The few by all the winds</l>
 <l>And chill mutations born</l>
 <l>Of Winter's many minds</l>
-<l>Abused and whipt in vain —</l>
+<l>Abused and whipt in vain --</l>
 <l>Swarth yew and ivy kinds</l>
-<l>And iron breeds germane.</l>
+<l>And iron breeds germane.</l></lg></div>
 
 
 
@@ -1509,26 +1352,25 @@
 
 
 
-<pb n=""/>
-
-
-
-<l>THE LATE, LAST ROOK</l>
+<pb n="[THE LATE, LAST ROOK  47]"/>
+<div id="hodgson017" type="poem" n="17">
+<head rend="center">THE LATE, LAST ROOK</head>
+<lg type="stanza">
 
 <l>The old gilt vane and spire receive</l>
 <l>The last beam eastward striking;</l>
 <l>The first shy bat to peep at eve</l>
 <l>Has found her to his liking.</l>
-<l>The western heaven is dull and grey.</l>
-<l>The last red glow has followed day.</l>
+<l>The western heaven is dull and grey,</l>
+<l>The last red glow has followed day.</l></lg>
 
+<lg type="rend">
 <l>The late, last rook is housed and will</l>
 <l>With cronies lie till morrow;</l>
 <l>If there's a rook loquacious still</l>
-<l>In dream he hunts a furrow.</l>
-<l>And flaps behind a spectre team.</l>
-<l>Or   ghostly    scarecrows   walk   his</l>
-<l>dream.</l>
+<l>In dream he hunts a furrow,</l>
+<l>And flaps behind a spectre team,</l>
+<l>Or ghostly scarecrows walk his dream.</l></lg></div>
 
 
 
@@ -1538,21 +1380,20 @@
 
 
 
-<pb n=""/>
-
-
-
-<l>THE BIRDCATCHER</l>
-
+<pb n="[48  THE BIRDCATCHER]"/>
+<div id="hodgson018" type="poem" n="18">
+<head rend="center">THE BIRDCATCHER</head>
+<lg type="stanza">
 <l>When flighting time is on I go</l>
 <l>With clap-net and decoy,</l>
 <l>A-fowling after goldfinches</l>
-<l>And other birds of joy;</l>
+<l>And other birds of joy;</l></lg>
 
+<lg type="stanza">
 <l>I lurk among the thickets of</l>
 <l>The Heart where they are bred,</l>
 <l>And catch the twittering beauties as</l>
-<l>They fly into my Head.</l>
+<l>They fly into my Head.</l></lg></div>
 
 
 
@@ -1562,12 +1403,10 @@
 
 
 
-<pb n=""/>
-
-
-
-<l>THE ROYAL MAILS</l>
-
+<pb n="[THE ROYAL MAILS  49]"/>
+<div id="hodgson019" type="poem" n="19">
+<head rend="center">THE ROYAL MAILS</head>
+<lg type="stanza">
 <l>For all its flowers and trailing bowers,</l>
 <l>Its singing birds and streams.</l>
 <l>This valley's not the blissful spot.</l>
@@ -1591,336 +1430,246 @@
 
 
 
-<pb n=""/>
-
-
-
-<l>50      THE  ROYAL  MAILS</l>
+<pb n="50      THE  ROYAL  MAILS"/>
 
 <l>I've not forgot the look he shot</l>
 <l>Me through and through with then;</l>
-<l>"What  loathly  land  is   this!"   he</l>
-
-<l>cried.</l>
+<l>"What  loathly  land  is   this!" he cried.</l>
 <l>And cursed it for a countryside</l>
-<l>Where devils masque as men.</l>
+<l>Where devils masque as men.</l></lg>
 
-
-
-
-
-<l>I  thought  at  first  his  brain  was</l>
-
-<l>burst.</l>
+<lg type="stanza">
+<l>I  thought  at  first  his  brain  was burst,</l>
 <l>So senselessly he cried and cursed</l>
 <l>And spat with rage and hate;</l>
 <l>He writhed to hear the glossy dove</l>
 <l>In song among the boughs above</l>
-<l>Beside its gentle mate.</l>
+<l>Beside its gentle mate.</l></lg>
 
-
-
-
-
+<lg type="stanza">
 <l>His fury passed away at last,</l>
 <l>And when his reason came</l>
 <l>He told me he was city bred,</l>
-<l>A page about the Court, he said.</l>
+<l>A page about the Court, he said,</l>
 <l>And coloured up with shame;</l>
 <l>It made him wince to own a Prince</l>
 <l>Of very famous fame.</l>
 
 
 
-<pb n=""/>
+<pb n="THE ROYAL MAILS      51"/>
 
-
-
-<l>THE ROYAL MAILS      51</l>
-
-<l>"He looked for one with speed and</l>
-
-<l>strength</l>
-<l>And youth, and picked on me at</l>
-
-<l>length</l>
+<l>"He looked for one with speed and strength</l>
+<l>And youth, and picked on me at length</l>
 <l>And ordered me to stand</l>
-<l>Prepared to leave at break of day.</l>
-<l>With letters naught must long delay.</l>
+<l>Prepared to leave at break of day,</l>
+<l>With letters naught must long delay,</l>
 <l>For certain cities far away</l>
-<l>Across this lonely land.</l>
+<l>Across this lonely land.</l></lg>
 
+<lg type="stanza">
 <l>"He told me all the roads to take</l>
-
 <l>And cautioned me to go</l>
+<l>With ears and eyes and wits awake,</l>
+<l>Alert from top to toe,</l>
+<l>For spies and thieves wore out most shoes</l>
+<l>Upon the roads that I must use,</l>
+<l>As he had cause to know.</l></lg>
 
-<l>With ears and eyes and wits awake.</l>
-
-<l>Alert from top to toe.</l>
-
-<l>For spies and thieves wore out most</l>
-
-<l>shoes</l>
-<l>Upon the roads that I must use.</l>
-<l>As he had cause to know.</l>
-
+<lg type="stanza">
 <l>" I took my cloak as morning broke</l>
-
-<l>And started down the hill.</l>
-
+<l>And started down the hill,</l>
 <l>With Castle-bells and Fare-ye-wells</l>
-
-<l>And bugles sweet and shrill —</l>
-
+<l>And bugles sweet and shrill--</l>
 <l>Sir Woodman, though it's months ago,</l>
-
-<l>I hear that music still.</l>
-
-
-
-<pb n=""/>
+<l>I hear that music still.</l></lg>
 
 
 
-<l>52      THE  ROYAL  MAILS</l>
+<pb n="52      THE  ROYAL  MAILS"/>
 
+<lg type="stanza">
 <l>"What matters now or ever how</l>
-
 <l>I made the journey here !</l>
-
 <l>I fed on berries from the bough,</l>
-
 <l>Abundant everywhere.</l>
-
 <l>Or if it failed, that luscious meat,</l>
-
 <l>I dug up roots that wild hogs eat</l>
-
 <l>And flourished on the fare;</l>
-
 <l>At night I made a grassy bed</l>
-
 <l>And went to sleep without a dread</l>
+<l>And woke without a care--</l></lg>
 
-<l>And woke without a care —</l>
+<lg type="stanza">
+<l>"No matter how I managed now,</l>
+<l>It all went well enough,</l>
+<l>Until I saw this spot, I vow,</l>
+<l>No man was better off.</l></lg>
 
-<l>"No matter how I managed now.</l>
-<l>It all went well enough.</l>
-<l>Until I saw this spot, I vow.</l>
-<l>No man was better off.</l>
-
+<lg type="stanza">
 <l>"Last night as I came down this vale</l>
 <l>In wind and rain full blast,</l>
 <l>I turned about to hear a shout</l>
-<l>Ho, master, whither so fast!</l>
+<l>Ho, master, whither so fast!</l></lg>
 
+<lg type="stanza">
 <l>"A minute more and half a score</l>
-
 <l>Of men were at my side,</l>
-
-<l>Plain merchants all, they said they</l>
-
-
-
-<pb n=""/>
+<l>Plain merchants all, they said they were</l>
 
 
 
-<l>THE ROYAL MAILS      53</l>
+<pb n="THE ROYAL MAILS      53"/>
 
 <l>And camping in a thicket near,</l>
-<l>' Remain with us !' they cried.</l>
+<l>' Remain with us !' they cried.</l></lg>
 
+<lg type="stanza">
 <l>"' Remain with us, our board is spread</l>
-<l>With cheer the best. Ah, stay,' they</l>
-
-<l>said,</l>
-<l>* Why go so proudly by !'</l>
+<l>With cheer the best, Ah, stay,' they said,</l>
+<l>' Why go so proudly by !'</l>
 <l>And there and then my legs were lead,</l>
-<l>A weary man was I!</l>
+<l>A weary man was I!</l></lg>
 
-<l>"They  stared with wonder that I</l>
-
-<l>walked</l>
-<l>These tangled hills and dales, and</l>
-
-<l>talked</l>
-<l>Of better roads at hand.</l>
+<lg type="stanza">
+<l>"They  stared with wonder that I walked</l>
+<l>These tangled hills and dales, and talked</l>
+<l>Of better roads at hand,</l>
 <l>Smooth roads without a hill to climb</l>
-<l>A man could walk in half the time.</l>
-<l>The finest in the land.</l>
-<l>With more, — but most of it I lost</l>
-<l>Or did not understand.</l>
+<l>A man could walk in half the time,</l>
+<l>The finest in the land,</l>
+<l>With more,-- but most of it I lost</l>
+<l>Or did not understand.</l></lg>
 
-<l>"'So, come,' they cried, 'our tents</l>
-
-<l>are tight.</l>
-<l>Our   fires   are   burning   warm   and</l>
-
-<l>bright!</l>
+<lg type="stanza">
+<l>"'So, come,' they cried, 'our tents are tight,</l>
+<l>Our fires are burning warm and bright!</l>
 
 
 
-<pb n=""/>
-
-
-
-<l>54      THE  ROYAL  MAILS</l>
+<pb n="54      THE  ROYAL  MAILS"/>
 
 <l>How shall we let you go to-night</l>
-
 <l>Without offending heaven!</l>
+<l>Come, leave you shall with morning light,</l>
+<l>Strong with the strength of seven!'</l></lg>
 
-<l>Come, leave you shall with morning</l>
-
-<l>light.</l>
-<l>Strong with the strength of seven!'</l>
-
-<l>"True men they seemed, for me I</l>
-
-<l>dreamed</l>
+<lg type="stanza">
+<l>"True men they seemed, for me I dreamed</l>
 <l>No whit of their design,</l>
-<l>Their mildness would have clapped</l>
-
-<l>a hood</l>
+<l>Their mildness would have clapped a hood</l>
 <l>On sharper eyes than mine;</l>
-<l>Ay, me they pressed awhile to rest.</l>
-<l>Persuaded me to be their guest.</l>
+<l>Ay, me they pressed awhile to rest,</l>
+<l>Persuaded me to be their guest,</l>
 <l>And stole the letters from my breast</l>
-<l>When I fell down with wine!</l>
+<l>When I fell down with wine!</l></lg>
 
+<lg type="stanza">
 <l>"It all came crowding on my mind</l>
 <l>With morning when I woke to find</l>
 <l>How blind and blind and utter blind</l>
 <l>And blind again I'd been;</l>
-<l>Both tents and men had vanished</l>
-
-<l>then.</l>
+<l>Both tents and men had vanished then,</l>
 <l>Were nowhere to be seen."</l>
 
 
 
-<pb n=""/>
-
-
-
-<l>THE ROYAL MAILS      55</l>
+<pb n="THE ROYAL MAILS      55"/>
 
 <l>'Twas word for word a tale I'd heard</l>
-
-<l>Not once or twice before.</l>
-
+<l>Not once or twice before,</l>
 <l>Since first I made an axe ring out</l>
-
 <l>Upon the timber hereabout,</l>
+<l>But twenty times and more.</l></lg>
 
-<l>But twenty times and more.</l>
-
-<l>For many a year we've harboured</l>
-
-<l>here</l>
-<l>A nest of thieves and worse.</l>
-<l>Who watch for these young Castle-</l>
-<l>men</l>
-<l>At night among the gorse.</l>
+<lg type="stanza">
+<l>For many a year we've harboured here</l>
+<l>A nest of thieves and worse,</l>
+<l>Who watch for these young Castle-men</l>
+<l>At night among the gorse,</l>
 <l>It's hard to say if one in ten</l>
-<l>Gets by with life and purse.</l>
+<l>Gets by with life and purse.</l></lg>
 
-<l>I   wonder since  'twould  serve  the</l>
-
-<l>Prince</l>
-<l>To square accounts with these, —</l>
+<lg type="stanza">
+<l>I   wonder since  'twould  serve  the Prince</l>
+<l>To square accounts with these,--</l>
 <l>And many a score of footpads more</l>
-<l>All like as pins or peas.</l>
+<l>All like as pins or peas,</l>
 <l>Who ply their trades in other glades</l>
-<l>And plunder whom they please —</l>
+<l>And plunder whom they please --</l>
 <l>He does not rout the vermin out</l>
-<l>And hang them to the trees.</l>
+<l>And hang them to the trees.</l></lg>
 
 
 
-<pb n=""/>
+<pb n="56      THE  ROYAL  MAILS"/>
 
-
-
-<l>56      THE  ROYAL  MAILS</l>
-
-<l>But this poor lad — for me I knew</l>
+<lg type="stanza">
+<l>But this poor lad -- for me I knew</l>
 <l>Scarce what to think or say,</l>
-<l>I pitied him, I pitied, too.</l>
-<l>Those cities far away.</l>
+<l>I pitied him, I pitied, too,</l>
+<l>Those cities far away.</l></lg>
 
+<lg type="stanza">
 <l>I asked him would he stay and be</l>
-
-<l>A woodman in these woods with me.</l>
-
-<l>Perhaps he did not hear.</l>
-
+<l>A woodman in these woods with me,</l>
+<l>Perhaps he did not hear,</l>
 <l>Perhaps the dove in song above</l>
-
-<l>Beside its mistress dear.</l>
-
+<l>Beside its mistress dear,</l>
 <l>Was Castle-bells and Fare-ye-wells</l>
-
 <l>And hornets in his ear;</l>
-
-<l>An old grey man in all but years.</l>
-
-<l>He pulled his cloak about his ears.</l>
-
-<l>And went I know not where.</l>
+<l>An old grey man in all but years,</l>
+<l>He pulled his cloak about his ears,</l>
+<l>And went I know not where.</l></lg></div>
 
 
 
-<pb n=""/>
+<pb n="[THE SWALLOW  57]"/>
 
+<div id="hodgson020" type="poem" n="20">
+<head rend="center">THE SWALLOW</head>
 
-
-<l>THE SWALLOW</l>
-
+<lg type="stanza">
 <l>The morning that my baby came</l>
-<l>They found a baby swallow dead.</l>
-<l>And saw a something, hard to name.</l>
+<l>They found a baby swallow dead,</l>
+<l>And saw a something, hard to name,</l>
 <l>Flit moth-like over baby's bed.</l>
 
 <l>My joy, my flower, my baby dear</l>
 <l>Sleeps on my bosom well, but Oh!</l>
 <l>If in the Autumn of the year</l>
-<l>When  swallows  gather  round  and</l>
-<l>go —</l>
+<l>When swallows gather round and go--</l></lg></div>
 
 
 
 
 
-<l>.57</l>
+<l>57</l>
 
 
 
-<pb n=""/>
+<pb n="[58  A WOOD SONG]"/>
 
+<div id="hodgson021" type="poem" n="21">
+<head rend="center"> A WOOD SONG</head>
 
-
-<l>A WOOD SONG</l>
-
+<lg type="stanza">
 <l>Now one and all, you Roses,</l>
-<l>Wake up, you lie too long!</l>
-
+<l rend="indent">Wake up, you lie too long!</l>
 <l>This very morning closes</l>
-<l>The Nightingale his song;</l>
+<l rend="indent">The Nightingale his song;</l></lg>
 
+<lg type="stanza">
 <l>Each from its olive chamber</l>
-
 <l>His babies every one</l>
 <l>This very morning clamber</l>
+<l>Into the shining sun.</l></lg>
 
-<l>Into the shining sun.</l>
-
+<lg type="stanza">
 <l>You Slug-a-beds and Simples,</l>
-<l>Why will you so delay !</l>
-
+<l rend="indent">Why will you so delay !</l>
 <l>Dears, doff your olive wimples,</l>
-<l>And listen while you may.</l>
+<l rend="indent">And listen while you may.</l></lg></div>
 
 
 
@@ -1930,32 +1679,28 @@
 
 
 
-<pb n=""/>
+<pb n="[59]"/>
 
-
-
-<l>Reason has moons, but moons not</l>
-<l>hers.</l>
-
-<l>Lie mirror'd on the sea.</l>
+<div id="hodgson022" type="poem" n="22">
+<lg type="stanza">
+<l>Reason has moons, but moons not hers,</l>
+<l rend="indent">Lie mirror'd on the sea,</l>
 <l>Confounding her astronomers.</l>
+<l rend="indent">But, O! delighting me.</l></lg>
 
-<l>But, O! delighting me.</l>
+<milestone unit="section" rend="dots"/>
 
-
-
-
-
-<l>Babylon — where I go dreaming</l>
-<l>When I weary of to-day.</l>
-<l>Weary of a world grown grey.</l>
+<lg type="stanza">
+<l>Babylon -- where I go dreaming</l>
+<l>When I weary of to-day,</l>
+<l>Weary of a world grown grey.</l></lg>
 
 
+<milestone unit="section" rend="dots"/>
 
-
-
-<l>God loves an idle rainbow.</l>
-<l>No less than labouring seas.</l>
+<lg type="stanza">
+<l>God loves an idle rainbow,</l>
+<l>No less than labouring seas.</l></lg></div>
 
 
 
@@ -1965,159 +1710,144 @@
 
 
 
-<pb n=""/>
+<pb n="[60   THE BRIDE]"/>
 
+<div id="hodgson023" type="poem" n="23">
+<head rend="center">THE BRIDE</head>
 
-
-<l>THE BRIDE</l>
-
+<lg type="stanza">
 <l>The book was dull, its pictures</l>
-<l>As leaden as its lore.</l>
+<l>As leaden as its lore,</l>
 <l>But one glad, happy picture</l>
 <l>Made up for all and more;</l>
-<l>'Twas that of you, sweet peasant.</l>
-<l>Beside your grannie's door —</l>
+<l>'Twas that of you, sweet peasant,</l>
+<l>Beside your grannie's door--</l>
 <l>I never stopped so startled</l>
-<l>Inside a book before.</l>
+<l>Inside a book before.</l></lg>
 
-<l>Just so had I sat spell-bound.</l>
-<l>Quite still with staring eyes.</l>
+<lg type="stanza">
+<l>Just so had I sat spell-bound,</l>
+<l>Quite still with staring eyes,</l>
 <l>If some great shiny hoopoe</l>
 <l>Or moth of song-bird size</l>
 <l>Had drifted to my window</l>
-<l>And trailed its fineries —</l>
-<l>Just so had I been startled.</l>
-<l>Spelled with the same surprise.</l>
+<l>And trailed its fineries --</l>
+<l>Just so had I been startled,</l>
+<l>Spelled with the same surprise.</l></lg>
 
 <l>60</l>
 
 
 
-<pb n=""/>
+<pb n="THE  BRIDE               61"/>
 
-
-
-<l>THE  BRIDE               61</l>
-
+<lg type="stanza">
 <l>It pictured you when springtime</l>
 <l>In part had given place</l>
 <l>But not surrendered wholly</l>
-<l>To sumtner in your face;</l>
+<l>To summer in your face;</l>
 <l>When still your slender body</l>
-<l>Was all a childish grace.</l>
+<l>Was all a childish grace,</l>
 <l>Though woman's richest glories</l>
-<l>Were building there apace.</l>
+<l>Were building there apace.</l></lg>
 
-<l>'Twas blissful so to see you.</l>
+<lg type="stanza">
+<l>'Twas blissful so to see you,</l>
 <l>Yet not without a sigh</l>
 <l>I dwelt upon the people</l>
 <l>Who saw you not as I,</l>
 <l>But in your living sweetness,</l>
 <l>Beneath your native sky;</l>
 <l>Ah, bliss to be the people</l>
-<l>When you went tripping by !</l>
+<l>When you went tripping by !</l></lg>
 
-<l>I sat there, thinking, wondering.</l>
-<l>About your life and home.</l>
-<l>The happy days behind you.</l>
-<l>The happy days to come.</l>
+<lg type="stanza">
+<l>I sat there, thinking, wondering,</l>
+<l>About your life and home,</l>
+<l>The happy days behind you,</l>
+<l>The happy days to come,</l>
 <l>Your grannie in her corner,</l>
 <l>Upstairs the little room</l>
 
 
 
-<pb n=""/>
-
-
-
-<l>62               THE  BRIDE</l>
+<pb n="62               THE  BRIDE"/>
 
 <l>Where you wake up each morning</l>
-<l>To dream all day — of Whom ?</l>
+<l>To dream all day -- of Whom ?</l></lg>
 
-<l>That ring upon your finger.</l>
+<lg type="stanza">
+<l>That ring upon your finger,</l>
 <l>Who gave you that to wear ?</l>
 <l>What blushing smith or farm lad</l>
 <l>Came stammering at your ear</l>
 <l>A million-time-told story</l>
-<l>No maid but burns to hear.</l>
+<l>No maid but burns to hear,</l>
 <l>And went about his labours</l>
-<l>Delighting in his dear !</l>
+<l>Delighting in his dear !</l></lg>
 
-<l>I thought of you sweet lovers.</l>
+<lg type="stanza">
+<l>I thought of you sweet lovers,</l>
 <l>The things you say and do,</l>
 <l>The pouts and tears and partings</l>
-<l>And swearings to be true.</l>
-<l>The kissings in the barley —</l>
+<l>And swearings to be true,</l>
+<l>The kissings in the barley --</l>
 <l>You brazens, both of you !</l>
 <l>I nearly burst out crying</l>
-<l>With thinking of you two.</l>
+<l>With thinking of you two.</l></lg>
 
+<lg type="stanza">
 <l>It put me in a frenzy</l>
 <l>Of pleasure nearly pain,</l>
 <l>A host of blurry faces</l>
-<l>'Gan shaping in my brain.</l>
+<l>'Gan shaping in my brain,</l>
 
 
 
-<pb n=""/>
-
-
-
-<l>THE BRIDE              63</l>
+<pb n="THE BRIDE              63"/>
 
 <l>I shut my eyes to see them</l>
 <l>Come forward clear and plain,</l>
-<l>I saw them come full flower.</l>
-<l>And blur and fade again.</l>
+<l>I saw them come full flower,</l>
+<l>And blur and fade again.</l></lg>
 
-<l>One moment so I saw them.</l>
-
+<lg type="stanza">
+<l>One moment so I saw them,</l>
 <l>One sovereign moment so,</l>
-
 <l>A host of girlish faces</l>
-
 <l>All happy and aglow</l>
-
 <l>With Life and Love it dealt them</l>
-
 <l>Before it laid them low,</l>
-
 <l>A hundred years, a thousand,</l>
+<l>Ten thousand years ago.</l></lg>
 
-<l>Ten thousand years ago.</l>
-
+<lg type="stanza">
 <l>One moment so I saw them</l>
-<l>Come back with time full tide.</l>
-<l>The host of girls, your grannies.</l>
+<l>Come back with time full tide,</l>
+<l>The host of girls, your grannies,</l>
 <l>Who lived and loved and died</l>
-<l>To give your mouth its beauty.</l>
-<l>Your soul its gentle pride.</l>
+<l>To give your mouth its beauty,</l>
+<l>Your soul its gentle pride,</l>
 <l>Who wrestled with the ages</l>
-<l>To give the world a bride.</l>
+<l>To give the world a bride.</l></lg></div>
 
 
 
-<pb n=""/>
+<pb n="[64       AFTER]"/>
 
-
-
-<l>AFTER</l>
-
-<l>"How fared you when you mortal</l>
-<l>were?</l>
-<l>What did you see on my peopled</l>
-<l>star?"</l>
+<div id="hodgson024" type="poem" n="24">
+<head rend="center">AFTER</head>
+<lg type="stanza">
+<l>"How fared you when you mortal were?</l>
+<l rend="indent">What did you see on my peopled star?"</l>
 <l>" Oh well enough," I answered her,</l>
-<l>"It went for me where mortals</l>
-<l>are!</l>
+<l rend="indent">"It went for me where mortals are!</l></lg>
 
-<l>"I saw blue flowers and the merlin's</l>
-<l>flight</l>
-<l>And the rime on the wintry tree.</l>
+<lg type="stanza">
+<l>"I saw blue flowers and the merlin's flight</l>
+<l rend="indent">And the rime on the wintry tree,</l>
 <l>Blue doves I saw and summer light</l>
-<l>On  the  wings  of  the  cinnamon</l>
-<l>bee."</l>
+<l rend="indent">On  the  wings  of  the  cinnamon bee."</l></lg>
 
 
 
@@ -2126,7 +1856,5 @@
 <l>Printed in the United States of America.</l>
 <l>64</l>
 
-
-
-<pb n=""/>
-
+</div>
+</body></text></TEI.2>

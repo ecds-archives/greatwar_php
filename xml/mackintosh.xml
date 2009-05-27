@@ -64,7 +64,6 @@
 <pb n=""/>
 
 
-
 <l>TO SYLVIA</l>
 
 <l>Two months ago the skies were blue,</l>
@@ -376,65 +375,57 @@
 
 <pb n=""/>
 
+<div id="mackintosh001" type="poem" n="1">
+<head>WAR, THE LIBERATOR<lb/>
+(TO THE AUTHORESS OF "NON-COMBATANTS")</head>
 
-
-<l>WAR, THE LIBERATOR</l>
-
-<l>(To THE Authoress of "Non-combatants")</l>
-
+<lg type="stanza">
 <l>SURELY War is vile to you, you who can but know of it,</l>
-<l>Broken men and broken hearts, and boys too young</l>
+<l>Broken men and broken hearts, and boys too young to die,</l>
+<l>You that never knew its joy, never felt the glow of it,</l>
+<l>Valour and the pride of men, soaring to the sky.</l>
+<l>Death's a fearful thing to you, terrible in suddenness,</l>
+<l>Lips that will not laugh again, tongues that will not sing,</l>
+<l>You that have not ever seen their sudden life of happiness,</l>
+<l>The moment they looked down on death, a cowed and beaten thing.</l></lg>
 
-<l>to die.</l>
-<l>You that never knew its joy, never felt the glow of it.</l>
-<l>Valour and the nride of men, soaring to the sky.</l>
-<l>Death's a fearful thing to you, terrible in suddenness.</l>
-<l>Lips that will not laugh again, tongues that will not sing.</l>
-<l>You that have not ever seen their sudden life of happiness.</l>
-<l>The moment they looked down on death, a cowed and beaten</l>
-
-<l>thing.</l>
-
-<l>Say what life would theirs have been, that it should make you</l>
-
-<l>weep for them,</l>
+<lg type="stanza">
+<l>Say what life would theirs have been, that it should make you weep for them,</l>
 <l>A small grey world imprisoning the wings of their desire ?</l>
-<l>Happier than they could tell who knew not life would keep</l>
-
-<l>for them</l>
+<l>Happier than they could tell who knew not life would keep for them</l>
 <l>Fragments of the high Romance, the old Heroic fire.</l>
 
 <l>13</l>
 
 
 
-<pb n=""/>
+<pb n="14 War the Liberator"/>
 
-
-
-<l>All thev dreamed of childishly, bravery and fame for them.</l>
-<l>Charges at the cannon's mouth, enemies they slew.</l>
+<l>All they dreamed of childishly, bravery and fame for them,</l>
+<l>Charges at the cannon's mouth, enemies they slew,</l>
 <l>Bright across the waking world their romances came for them,</l>
-<l>Is not life a little price when our dreams come true ?</l>
+<l>Is not life a little price when our dreams come true ?</l></lg>
 
+<lg type="stanza">
 <l>All the terrors of the night, doubts and thoughts tormenting us</l>
 <l>Boy-minds painting quiveringly the awful face of fear.</l>
 <l>These are gone for ever now, truth is come contenting us,</l>
 <l>Night with all its tricks is gone and our eyes are clear.</l>
 <l>Now in all the time to come, memory will cover us,</l>
-<l>Trenches that we did not lose, charges that we made.</l>
+<l>Trenches that we did not lose, charges that we made,</l>
 <l>Since a voice, when first we heard shells go shrilling over us,</l>
-<l>Said within us, " This is Death—and I am not afraid ! "</l>
+<l>Said within us, " This is Death--and I am not afraid ! "</l></lg>
 
-<l>Since we felt our spirits tower, smiling and contemptuous.</l>
-<l>O'er the little frightened things, running to and fro.</l>
+<lg type="stanza">
+<l>Since we felt our spirits tower, smiling and contemptuous,</l>
+<l>O'er the little frightened things, running to and fro,</l>
 <l>Looked on Death and saw a slave blustering and presumptuous,</l>
-<l>Daring vainly still tp bring Man his master low.</l>
+<l>Daring vainly still to bring Man his master low.</l>
 <l>Though we knew that at the last, he would have his lust of us,</l>
 <l>Carelessly we braved his might, felt and knew not why</l>
-<l>Something stronger than ourselves, moving in the dust of us.</l>
-<l>Something in the^Soul of Man still too great to die.</l>
-
+<l>Something stronger than ourselves, moving in the dust of us,</l>
+<l>Something in the Soul of Man still too great to die.</l></lg>
+</div>
 
 
 
@@ -443,235 +434,224 @@
 
 
 
-<pb n=""/>
+<pb n="Recruiting 15"/>
 
 
+<div id="mackintosh002" type="poem" n="2">
+<head>RECRUITING</head>
 
-<l>RECRUITING</l>
-
-
-
-
-
-<l>" T    ADS, you're wanted, go and help,"</l>
-
-<l>1  J   Un the railway carriage wall</l>
+<lg type="stanza">
+<l>" LADS, you're wanted, go and help,"</l>
+<l rend="inline">On the railway carriage wall</l>
 <l>Stuck the poster, and I thought</l>
-<l>Of the hands that penned the call.</l>
+<l>Of the hands that penned the call.</l></lg>
 
+<lg type="stanza">
 <l>Fat civilians wishing they</l>
 <l>" Could go out and fight the Hun."</l>
-<l>Can't you see them thankin^Jiod</l>
-<l>That they're over forty-one ?</l>
+<l>Can't you see them thanking God</l>
+<l>That they're over forty-one ?</l></lg>
 
-<l>Girls with feathers, vulgar songs—</l>
-<l>Washy verse on England's need—</l>
-<l>God—^and don't we damned well know</l>
-<l>How the message ought to read.</l>
+<lg type="stanza">
+<l>Girls with feathers, vulgar songs--</l>
+<l>Washy verse on England's need--</l>
+<l>God--and don't we damned well know</l>
+<l>How the message ought to read.</l></lg>
 
-<l>" Lads, you're wanted 1 over there,"</l>
-<l>Shiver in the morning dew.</l>
-<l>More poor devils like_yourselves</l>
-<l>Waiting to be killed by you.</l>
+<lg type="stanza">
+<l>" Lads, you're wanted ! over there,"</l>
+<l>Shiver in the morning dew,</l>
+<l>More poor devils like yourselves</l>
+<l>Waiting to be killed by you.</l></lg>
 
 <l>15</l>
 
 
 
-<pb n=""/>
+<pb n="16  Recruiting"/>
 
-
-
+<lg type="stanza">
 <l>Go and help to swell the names</l>
 <l>In the casualty lists.</l>
 <l>Help to make a column's stuff</l>
-<l>For the blasted journalists.</l>
+<l>For the blasted journalists.</l></lg>
 
+<lg type="stanza">
 <l>Help to keep them nice and safe</l>
 <l>From the wicked German foe.</l>
-<l>Don't let him come over here 1</l>
-<l>" Lads, you're wanted—out you go."</l>
+<l>Don't let him come over here !</l>
+<l>" Lads, you're wanted--out you go."</l></lg>
 
+<milestone unit="section" rend="dots"/>
+
+<lg type="stanza">
 <l>There's a better word than that,</l>
 <l>Lads, and can't you hear it come</l>
 <l>From a million men that call</l>
-<l>You to share their martyrdom.</l>
+<l>You to share their martyrdom.</l></lg>
 
+<lg type="stanza">
 <l>Leave the harlots still to sing</l>
 <l>Comic songs about the Hun,</l>
 <l>Leave the fat old men to say</l>
-<l>Now we've got them on the run.</l>
+<l>Now <hi rend="italic">we've</hi> got them on the run.</l></lg>
 
+<lg type="stanza">
 <l>Better twenty honest years</l>
 <l>Than their dull three score and ten.</l>
 <l>Lads, you're wanted.    Come and learn</l>
-<l>To live and_die with honest men.</l>
+<l>To live and die with honest men.</l></lg>
+
+<l>16</l>
 
 
 
+<pb n="Recruitment  17"/>
 
-
-<l>i6</l>
-
-
-
-<pb n=""/>
-
-
-
+<lg type="stanza">
 <l>You shall learn what men can do</l>
 <l>If you will but pay the price,</l>
 <l>Learn the gaiety and strength</l>
-<l>In the gallant sacrifice.</l>
+<l>In the gallant sacrifice.</l></lg>
 
+<lg type="stanza">
 <l>Take your risk of life and death</l>
 <l>Underneath the open sky.</l>
-<l>Live clean or go out quick—</l>
-<l>Lads, you're wanted.   Come and die.</l>
+<l>Live clean or go out quick--</l>
+<l>Lads, you're wanted.   Come and die.</l></lg>
+</div>
 
 
 
 
-
-<l>1?</l>
-
-
-
-<pb n=""/>
+<l>17</l>
 
 
 
-<l>THE GERMAN AND THE GAEL</l>
+<pb n="18  The German and the Gael"/>
 
+<div id="mackintosh003" type="poem" n="3">
+<head>THE GERMAN AND THE GAEL</head>
+
+<lg type="stanza">
 <l>WHEN they go out to battle</l>
-<l>They march with pomp and show,</l>
+<l rend="inline">They march with pomp and show,</l>
 <l>And all the fruits of victory</l>
 <l>Before them as they go.</l>
-<l>Because they dream the fight is theirs.</l>
-<l>Therefore they will not flee.</l>
+<l>Because they dream the fight is theirs,</l>
+<l>Therefore they will not flee,</l>
 <l>But we go darkly out to meet</l>
-<l>The fate we cannot see.</l>
+<l>The fate we cannot see.</l></lg>
 
-
-
-
-
+<lg type="stanza">
 <l>Their officers and generals</l>
-<l>Have nourished them with lies.</l>
+<l>Have nourished them with lies,</l>
 <l>And waved the torch of victory</l>
 <l>Before their blinded eyes.</l>
-<l>But we go grimly forward.</l>
-<l>Believing—come what may.</l>
+<l>But we go grimly forward,</l>
+<l>Believing--come what may,</l>
 <l>We shall not tread the grass again</l>
-<l>Nor see another day,</l>
-<l>i8</l>
+<l>Nor see another day.</l></lg>
+<l>18</l>
 
 
 
-<pb n=""/>
+<pb n="The German and the Gael  19"/>
 
-
-
-<l>Not for the hope of glory.</l>
-<l>Nor for desire of loot.</l>
+<lg type="stanza">
+<l>Not for the hope of glory,</l>
+<l>Nor for desire of loot,</l>
 <l>Not for the pride of conquest,</l>
 <l>Nor dream of wild pursuit;</l>
 <l>But because ancient battles</l>
-<l>Stir in our memory.</l>
+<l>Stir in our memory,</l>
 <l>Hopeless as went our fathers</l>
-<l>And stern as they, go we.</l>
+<l>And stern as they, go we.</l></lg>
 
-<l>Maybe that we shall drive them.</l>
-<l>Maybe we fight in vain.</l>
+<lg type="stanza">
+<l>Maybe that we shall drive them,</l>
+<l>Maybe we fight in vain,</l>
 <l>We care not now our fathers</l>
 <l>Are born in us again.</l>
 <l>When the old voices called us</l>
-<l>We heard them and obeyed.</l>
+<l>We heard them and obeyed,</l>
 <l>Whether we die or conquer</l>
-<l>We have not been afraid.</l>
+<l>We have not been afraid.</l></lg>
+</div>
 
 
+<pb n="20 Beaumont-Hamel"/>
 
-<pb n=""/>
+<div id="mackintosh004" type="poem" n="4">
 
+<head>BEAUMONT-HAMEL<lb/>
 
+<rend type="left"><hi rend="italic">Captured, November</hi> 16<hi rend="italic">th,</hi> 1916</rend></head>
 
-<l>BEAUMONT-HAMEL</l>
-
-<l>Captured, November i6th, 1916</l>
-
-
-
-
-
+<div id="mackintosh1000" type="section" n="1">
+<head rend="center">I</head>
+<lg type="stanza">
 <l>DEAD men at Beaumont</l>
-<l>In the mud and rain.</l>
-<l>You that were so warm once.</l>
-<l>Flesh and blood and brain.</l>
+<l rend="inline">In the mud and rain.</l>
+<l>You that were so warm once,</l>
+<l>Flesh and blood and brain,</l>
 <l>You've made an end of dying,</l>
-<l>Hurts and cold and crying.</l>
+<l>Hurts and cold and crying,</l>
 <l>And all but quiet lying</l>
 <l>Easeful after pain.</l>
+</lg></div>
 
-
-
-
-
+<div id="mackintosh1001" type="section" n="2">
+<head rend="center">2</head>
+<lg type="stanza">
 <l>Dead men at Beaumont,</l>
 <l>Do you dream at all</l>
 <l>When the leaves of summer</l>
-<l>Ripen to their fall ?</l>
-<l>ao</l>
+<l>Ripen to their fall ?</l></lg>
+<l>20</l>
 
 
 
-<pb n=""/>
+<pb n="Beaumont-Hamel 21"/>
 
+<lg type="stanza">
+<l>Will you walk the heather,</l>
+<l>Feel the Northern weather,</l>
+<l>Wind and sun together,</l>
+<l>Hear the grouse-cock call ?</l></lg></div>
 
-
-<l>Will you walk the heather.</l>
-<l>Feel the Northern weather.</l>
-<l>Wind and sun together.</l>
-<l>Hear the grouse-cock call ?</l>
-
-<l>3</l>
-
+<div id="mackintosh1002" type="section" n="3">
+<head rend="center">3</head>
+<lg type="stanza">
 <l>Maybe in the night-time</l>
 <l>A shepherd boy will see</l>
-<l>Dead men, and ghastly.</l>
-<l>Kilted to the knee.</l>
-<l>Fresh from new blood-shedding.</l>
-<l>With airy footsteps treading.</l>
-<l>Hill and field and steading.</l>
-<l>Where they used to be.</l>
+<l>Dead men, and ghastly,</l>
+<l>Kilted to the knee,</l>
+<l>Fresh from new blood-shedding,</l>
+<l>With airy footsteps treading,</l>
+<l>Hill and field and steading,</l>
+<l>Where they used to be.</l></lg></div>
 
-<l>4</l>
-
+<div id="mackintosh1003" type="section" n="4">
+<head rend="center">4</head>
+<lg type="stanza">
 <l>Nay, not so I see you,</l>
-
 <l>Dead friends of mine ;</l>
-
 <l>But like a dying pibroch</l>
-
 <l>From the battle-line</l>
-
-<l>I hear your laughter ringing.</l>
-
+<l>I hear your laughter ringing,</l>
 <l>And the sweet songs you're singing,</l>
-
 <l>And the keen words winging</l>
-
-<l>Across the smoke and wine.</l>
-
-<l>21</l>
+<l>Across the smoke and wine.</l></lg></div>
 
 
 
-<pb n=""/>
+
+<pb n="22 Beaumont-Hamel"/>
 
 
-
-<l>5</l>
+<div id="mackintosh1004" type="section" n="5">
+<head rend="center">5</head>
 <l>So we still shall see you,</l>
 <l>Be it peace or war,</l>
 <l>Still in all adventures</l>
@@ -679,135 +659,115 @@
 <l>And our children dreaming,</l>
 <l>Shall see your bayonets gleaming,</l>
 <l>Scotland's warriors streaming</l>
-<l>Forward evermore.</l>
+<l>Forward evermore.</l></div>
+</div>
 
 
 
+<pb n="Farewell  23"/>
 
 
-<l>St</l>
+<div id="mackintosh005" type="poem" n="5">
+<head type="main">FAREWELL</head>
+<head type="sub">To SERGEANT H. FRASER AND L.-SERGEANT G. M'Kay</head>
 
-
-
-<pb n=""/>
-
-
-
-<l>FAREWELL</l>
-
-<l>To Sergeant H. Eraser and L.-Sergeant G, M'Kay</l>
-
-<l>WELL, you have gone now, comrades.</l>
-<l>And I shall see no more</l>
+<lg type="stanza">
+<l>WELL, you have gone now, comrades,</l>
+<l rend="inline">And I shall see no more</l>
 <l>The gallant friendly faces</l>
 <l>Framed in my dug-out door.</l>
 <l>I had no words to tell you</l>
-<l>The things I longed to say.</l>
+<l>The things I longed to say,</l>
 <l>But the company is empty</l>
-<l>Since you have gone away.</l>
+<l>Since you have gone away.</l></lg>
 
+<lg type="stanza">
 <l>The company is filled now</l>
-
-<l>With faces strange to see.</l>
-
+<l>With faces strange to see,</l>
 <l>And scarce a man of the old men</l>
-
-<l>That Hved and fought with me.</l>
-
+<l>That lived and fought with me.</l>
 <l>I know the drafts are good men,</l>
-
-<l>I know they're doing well.</l>
-
+<l>I know they're doing well,</l>
 <l>But they're not the men I slept with</l>
-
-<l>Those nights at La Boiselle.</l>
-
-<l>23</l>
+<l>Those nights at La Boiselle.</l></lg>
 
 
+<pb n="24 Farewell"/>
 
-<pb n=""/>
-
-
-
+<lg type="stanza">
 <l>Oh, the old days of friendship</l>
-<l>We shall not see again.</l>
+<l>We shall not see again,</l>
 <l>The bitter winter trenches</l>
-<l>And the marches in the rain,</l>
-<l>Becourt, Authuille, Thiepval,</l>
+<l>And the marches in the rain.</l>
+<l>B&#x00E9;court, Authuille, Thiepval,</l>
 <l>Henancourt, Avelay,</l>
 <l>Their names are keys that open</l>
-<l>Remembered doors to me.</l>
+<l>Remembered doors to me.</l></lg>
 
+<lg type="stanza">
 <l>Doors that will open never</l>
-<l>Upon this tortured land,</l>
-<l>I shall not see you ever.</l>
+<l>Upon this tortured land.</l>
+<l>I shall not see you ever,</l>
 <l>Or take you by the hand.</l>
-<l>Only for ancient friendship.</l>
-<l>For all the times we knew.</l>
+<l>Only for ancient friendship,</l>
+<l>For all the times we knew,</l>
 <l>Maybe you will remember</l>
-<l>As I remember you.</l>
+<l>As I remember you.</l></lg>
+</div>
 
 
+<pb n="Three Battles 25"/>
 
 
+<div id="mackintosh006" type="poem" n="6">
+<head>THREE BATTLES</head>
 
-<l>«4</l>
+<head type="sub">To THE 51ST DIVISION</head>
+<div id="mackintosh1005" type="section" n="5">
+<head>HIGH WOOD, <hi rend="italic">July-August</hi> 1916</head>
 
-
-
-<pb n=""/>
-
-
-
-<l>THREE BATTLES</l>
-
-<l>To THE 51ST Division</l>
-<l>High Wood, July-August 1916</l>
-
+<lg type="stanza">
 <l>OH gay were we in spirit</l>
-<l>In the hours of the night</l>
+<l rend="inline">In the hours of the night</l>
 <l>When we lay in rest by Albert</l>
 <l>And waited for the fight;</l>
 <l>Gay and gallant were we</l>
 <l>On the day that we set forth.</l>
 <l>But broken, broken, broken</l>
-<l>Is the valour of the North.</l>
+<l>Is the valour of the North.</l></lg>
 
-<l>The wild warpipes were calling.</l>
+<lg type="stanza">
+<l>The wild warpipes were calling,</l>
 <l>Our hearts were blithe and free</l>
 <l>When we went up the valley</l>
 <l>To the death we couLd not see.</l>
 <l>Clear lay the wood before us</l>
-<l>In the clear summer weather.</l>
+<l>In the clear summer weather,</l>
 
 
 
-<pb n=""/>
+<pb n="26 Three Battles "/>
 
 
 
 <l>But broken, broken, broken</l>
-<l>Are the sons of the heather.</l>
+<l>Are the sons of the heather.</l></lg>
 
-<l>In the cold of the morning.</l>
-
-<l>In the burning of the day.</l>
-
+<lg type="stanza">
+<l>In the cold of the morning,</l>
+<l>In the burning of the day,</l>
 <l>The thin lines stumbled forward,</l>
-
 <l>The dead and dying lay.</l>
-
-<l>By the uijseen death that caught us</l>
-
+<l>By the unseen death that caught us</l>
 <l>By the bullets' raging hail</l>
-
 <l>Broken, broken, broken</l>
+<l>Is the pride of the Gael.</l></lg></div>
 
-<l>Is the pride of the Gael.</l>
 
-<l>Beaumont-Hamel, November i6th, 1916</l>
+<div id="mackintosh1006" type="section" n="2">
+<head>BEAUMONT-HAMEL, <hi rend="italic">November</hi> 16<hi rend="italic">th,</hi> 1916</head>
 
+<lg type="stanza">
 <l>BUT the North shall arise</l>
 <l>Yet again in its strength;</l>
 <l>Blood calling for blood</l>
@@ -815,360 +775,281 @@
 <l>For the dead men that lie</l>
 <l>Underneath the hard skies,</l>
 <l>For battle, for vengeance</l>
-<l>The North shall arise.</l>
+<l>The North shall arise.</l></lg>
 
+<lg type="stanza">
 <l>In the cold of the morning</l>
 <l>A grey mist was drawn</l>
-<l>26</l>
 
 
-
-<pb n=""/>
-
-
+<pb n="Three Battles  27"/>
 
 <l>Over the waves</l>
 <l>That went up in the dawn,</l>
 <l>Went up like the waves</l>
 <l>Of the wild Northern sea;</l>
 <l>For the North has arisen.</l>
-<l>TheJSorthJias broke free.</l>
+<l>The North has broke free.</l></lg>
 
+<lg type="stanza">
 <l>Ghosts of the heroes</l>
 <l>That died in the wood.</l>
 <l>Looked on theJdlling</l>
-<l>And saw it was_good.</l>
+<l>And saw it was good.</l>
 <l>Far over the hillsides</l>
 <l>They saw in their dream</l>
-<l>The kilted men charging.</l>
-<l>The bayonets gleam.</l>
+<l>The kilted men charging,</l>
+<l>The bayonets gleam.</l></lg>
 
-<l>By the cries we had heard.</l>
-<l>By the things we had seen.</l>
+<lg type="stanza">
+<l>By the cries we had heard,</l>
+<l>By the things we had seen,</l>
 <l>By the vengeance we took</l>
-<l>In the bloody ravine.</l>
+<l>In the bloody ravine,</l>
 <l>By the men that we slew</l>
-<l>In the mud and the rain.</l>
-<l>The oride of the North</l>
-<l>Has arisen again.</l>
+<l>In the mud and the rain,</l>
+<l>The pride of the North</l>
+<l>Has arisen again.</l></lg>
+</div></div>
 
 
+<pb n="28 Victory and Failure"/>
 
-<pb n=""/>
+<div id="mackintosh007" type="poem" n="7">
 
+<head>VICTORY AND FAILURE</head>
 
+<head type="sub">ARRAS, <hi rend="italic">April</hi> 9<hi rend="italic">th</hi><lb/>
+ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 
-<l>VICTORY AND FAILURE</l>
-
-<l>Arras, April gth</l>
-<l>RoEUX, April 2yd, 1917</l>
-
+<lg type="stanza">
 <l>NOT for the day of victory</l>
-<l>I mourn I was not there.</l>
+<l>I mourn I was not there,</l>
 <l>The hard fierce rush of slaying men,</l>
 <l>The hands up in the air,</l>
 <l>tiuf for the torn ranks struggling on</l>
-<l>The old brave boneless way,</l>
+<l>The old brave hopeless way,</l>
 <l>The broken charge, the slow retreat.</l>
-<l>And I so far away.</l>
+<l>And I so far away.</l></lg>
 
+<lg type="stanza">
 <l>And listening to the tale of Roeux</l>
-
 <l>I think I see again</l>
-
-<l>The steady grim despairing ranks.</l>
-
-<l>The courage and the pain.</l>
-
+<l>The steady grim despairing ranks,</l>
+<l>The courage and the pain,</l>
 <l>The bodies of my friends that lie</l>
-
-<l>Unburied in the dew—</l>
-
+<l>Unburied in the dew--</l>
 <l>Oh ! friends of mine, and I not there</l>
-
-<l>To die along with you.</l>
-
+<l>To die along with you.</l></lg></div>
 
 
 
-
-<l>28</l>
-
+<pb n="FROM HOME  29"/>
 
 
-<pb n=""/>
+<div id="mackintosh008" type="poem" n="8">
+<head type="main">FROM HOME</head>
 
-
-
-<l>FROM HOME</l>
-
-<l>To THE Men who fell at Beaumont-Hamel</l>
-<l>November i^tk, 1916</l>
-
+<head type="sub">TO THE MEN WHO FELL AT BEAUMONT-HAMEL<lb/>
+<hi rend="italic">November</hi> 13<hi rend="italic">th,</hi>1916</head>
+<lg type="stanza">
 <l>THE pale sun woke in the eastern sky</l>
 <l>And a veil of mist was drawn</l>
 <l>Over the faces ot death and tame</l>
 <l>When you went up in the dawn.</l>
-<l>With never a thought of fame or death.</l>
-<l>Only the work to do.</l>
+<l>With never a thought of fame or death,</l>
+<l>Only the work to do,</l>
 <l>When you went over the top, my friends,</l>
-<l>And I not there with you.</l>
+<l>And I not there with you.</l></lg>
 
+<lg type="stanza">
 <l>The veil is rent with a rifle-flash</l>
-
 <l>And shows me plain to see</l>
-
 <l>Battle and bodies of men that lived</l>
-
 <l>And fought along with me.</l>
-
 <l>Oh God ! it would not have been so hard</l>
-
 <l>If I'd been in it too,</l>
 
-<l>29</l>
 
-
-
-<pb n=""/>
-
-
+<pb n="30 FROM HOME"/>
 
 <l>But you are lying stiff, my friends,</l>
-<l>And I not there with you.</l>
+<l>And I not there with you.</l></lg>
 
+<lg type="stanza">
 <l>So here I sit in a pleasant room</l>
-
-<l>By a comfortable fire.</l>
-
+<l>By a comfortable fire,</l>
 <l>With every thing that a man could want,</l>
-
 <l>But not the heart's desire.</l>
-
 <l>So I sit thinking and dreaming still,</l>
-
-<l>A dream that won't come true^</l>
-
-<l>Of you in the German trench, my friends.</l>
-
+<l>A dream that won't come true,</l>
+<l>Of you in the German trench, my friends,</l>
 <l>And I not there with you.</l>
+</lg></div>
 
 
 
+<pb n="FROM HOME  31"/>
 
+<div id="mackintosh009" type="poem" n="9">
 
-<l>30</l>
+<head type="main"><rend type="left">FROM HOME</rend></head>
+<head type="sub"><rend type="center">CAMBRIDGE</rend></head>
 
-
-
-<pb n=""/>
-
-
-
-<l>FROM HOME</l>
-
-<l>Cambridge</l>
-
-<l>HERE there is peace and easy Uving,</l>
-<l>And a warm fire when the rain is driving.</l>
-<l>There is no sound of strong men striving.</l>
+<lg type="stanza">
+<l>HERE there is peace and easy living,</l>
+<l>And a warm fire when the rain is driving,</l>
+<l>There is no sound of strong men striving,</l>
 <l>Here where the quiet waters flow,</l>
-<l>But I am hearirig the bullets ringing.</l>
-<l>Hearing the great shells onward winging.</l>
-<l>The dead meii!sjsaiices are singing, singing.</l>
-<l>And T must rise and_go.</l>
+<l>But I am hearirig the bullets ringing,</l>
+<l>Hearing the great shells onward winging,</l>
+<l>The dead meii!sjsaiices are singing, singing,</l>
+<l>And I must rise and go.</l></lg>
 
+<lg type="stanza">
 <l>Here there is ease and comfort for me,</l>
 <l>A warm soft bed and a good roof o'er me</l>
-<l>Here may be there is fame before me.</l>
-<l>Honour and fame for all I know.</l>
-<l>But Laca seeing the thick rain falling.</l>
-<l>Seeing the tired patrols out crawling.</l>
-<l>The dead men's voices are calUng^ calling.</l>
-<l>And I must rise and go.</l>
-
-<l>31</l>
+<l>Here may be there is fame before me,</l>
+<l>Honour and fame for all I know,</l>
+<l>But I am seeing the thick rain falling,</l>
+<l>Seeing the tired patrols out crawling,</l>
+<l>The dead men's voices are calling, calling,</l>
+<l rend="inline">And I must rise and go.</l></lg>
 
 
 
-<pb n=""/>
+<pb n="32 FROM HOME"/>
 
-
-
+<lg type="stanza">
 <l>Back to the trench that I see so clearly,</l>
-<l>Back to the fight I can see so nearly.</l>
-<l>Back to the friends that I love so dearly.</l>
-<l>The dead men lying amid the dew.</l>
-<l>The droning sound of the great shells flying.</l>
-<l>Filth and tioriour,^nd pain, and dying—</l>
+<l>Back to the fight I can see so nearly,</l>
+<l>Back to the friends that I love so dearly,</l>
+<l>The dead men lying amid the dew,</l>
+<l>The droning sound of the great shells flying,</l>
+<l>Filth and honour, and pain, and dying--</l>
 <l>Dead friends of mine, oh, cease your crying,</l>
-<l>For I come back to you.</l>
+<l>For I come back to you.</l></lg></div>
 
 
 
+<pb n="THE DEAD MEN  33"/>
 
 
-<l>33</l>
+<div id="mackintosh010" type="poem" n="10">
+<head>THE DEAD MEN</head>
 
-
-
-<pb n=""/>
-
-
-
-<l>THE DEAD MEN</l>
-
-
-
-
-
+<lg type="stanza">
 <l>IT was yesterday I heard again</l>
 <l>The dead man talk with living men,</l>
 <l>And watched the thread of converse go</l>
-<l>Among the speakers to and fro.</l>
+<l>Among the speakers to and fro,</l>
 <l>Woven with merriment and wit</l>
 <l>And beauty to embroider it;</l>
-<l>And in the middle now and then.</l>
-<l>The laughter clear of happy men—</l>
+<l>And in the middle now and then,</l>
+<l>The laughter clear of happy men--</l>
 <l>Only to me a chamel scent</l>
-<l>Drifted across the argument.</l>
+<l>Drifted across the argument,</l>
 <l>Only to me his fair young head</l>
-<l>Was lifeless and untenanted.</l>
+<l>Was lifeless and untenanted,</l>
 <l>And in his quiet even tones,</l>
 <l>I heard the sound of naked bones,</l>
 <l>And in his empty eyes could see</l>
-<l>Tt^e man who talked was dead, like me.</l>
+<l>The man who talked was dead, like me.</l></lg>
 
+<lg type="stanza">
 <l>Then in the conversation's swim,</l>
 <l>I leaned across and spoke to him,</l>
 
-<l>c                                          33</l>
-
-
-
-<pb n=""/>
-
-
+<pb n="34  THE DEAD MEN"/>
 
 <l>And in his dim and dreary eyes</l>
 <l>Read suddenly a strange surprise,</l>
-<l>And.in_the-tfiiicli.QfJiis dank hand.</l>
-<l>Knew that he too could understand ;</l>
+<l>And in the touch of his dank hand,</l>
+<l>Knew that he too could understand;</l>
 <l>So we two talked, and as we heard</l>
 <l>Our friends' applause of each dull word</l>
 <l>We felt the slow and mournful winds</l>
-<l>Blow through the corpse house of our minds.</l>
+<l>Blow through the corpse house of our minds,</l>
 <l>And the cool dark of underground.</l>
 <l>And all the while they sat around</l>
-<l>Weighing each listless thing we said.</l>
-<l>And did not know that we were dead.</l>
+<l>Weighing each listless thing we said,</l>
+<l>And did not know that we were dead.</l></lg></div>
 
 
 
+<pb n="THE SHIP OF THE SOUL   35"/>
+<div id="mackintosh011" type="poem" n="11">
 
+<head type="main">THE SHIP OF THE SOUL</head>
 
-<l>34</l>
+<head type="sub">To E.J.S</head>
 
+<div id="mackintosh1007" type="section" n="1">
+<head rend="center">I</head>
 
-
-<pb n=""/>
-
-
-
-<l>THE SHIP OF THE SOUL</l>
-
-<l>To E, J. S,</l>
-
-
-
-
-
+<lg type="stanza">
 <l>LONG ago in the dawn of nations</l>
-<l>Wisdom in Egypt dreamed a dream.</l>
+<l>Wisdom in Egypt dreamed a dream,</l>
 <l>The ship of the soul of man a-sailing</l>
 <l>Over the Nile's god-haunted stream.</l>
 <l>Tired the travellers young and aged</l>
-<l>Voyaging in from near and far.</l>
+<l>Voyaging in from near and far,</l>
 <l>Swift and surely the strong oars bore them</l>
-<l>Down to the glorious feet of Ra,</l>
+<l>Down to the glorious feet of Ra.</l></lg></div>
 
-
-
-
-
-<l>Dust is wisdom, its dream forgotten.</l>
+<div id="mackintosh1008" type="section" n="2">
+<lg type="stanza">
+<l>Dust is wisdom, its dream forgotten,</l>
 <l>But still in the light of the setting sun</l>
 <l>The ships of the souls of men go seeking</l>
 <l>The harbour that waits for everyone;</l>
 
-<l>35</l>
 
-
-
-<pb n=""/>
-
-
+<pb n="36  THE SHIP OF THE SOUL"/>
 
 <l>Still in the current the strong oars quiver</l>
-<l>In changing rapids the light boats roll.</l>
+<l>In changing rapids the light boats roll,</l>
 <l>Quiet is Nile, but on life's broad river</l>
-<l>Still puts forth the ship of the soul,</l>
+<l>Still puts forth the ship of the soul.</l></lg></div>
 
-<l>3</l>
-<l>Ship after ship puts into harbour.</l>
+<div id="mackintosh1009" type="section" n="3">
+<head rend="center">3</head>
 
-<l>Little bright towns by the riverside.</l>
-
+<l>Ship after ship puts into harbour,</l>
+<l>Little bright towns by the riverside,</l>
 <l>And there is joy and feasting and dancing</l>
-
-<l>And fair glad maidens starry-eyed.</l>
-
-<l>One by one do the ships drop anchor.</l>
-
-<l>One by one in the roads they lie.</l>
-
+<l>And fair glad maidens starry-eyed,</l>
+<l>One by one do the ships drop anchor,</l>
+<l>One by one in the roads they lie,</l>
 <l>Each one comes to his own home harbour,</l>
+<l>Every one but you and I.</l></div>
 
-<l>Every one but you and I.</l>
-
-<l>4</l>
-<l>Why can we not stay ? vsce that are wanting</l>
-
+<div id="mackintosh1010" type="section" n="4">
+<head rend="center">4</head>
+<l>Why can we not stay ? we that are wanting</l>
 <l>Nothing more than the others are,</l>
-
-<l>A wife by the fire and a hearth to warm us.</l>
-
+<l>A wife by the fire and a hearth to warm us,</l>
 <l>Anchorage safe in the harbour far.</l>
-
-<l>But in the midst of feasting and loving.</l>
-
-<l>Soft as the touch of a wizard's wand.</l>
-
+<l>But in the midst of feasting and loving,</l>
+<l>Soft as the touch of a wizard's wand,</l>
 <l>The wind and the sound of the water call us,</l>
-
-<l>" Come, there are better things beyond."</l>
-
+<l>"Come, there are better things beyond."</l></div>
 
 
 
 
-<l>36</l>
+<pb n="THE SHIP OF THE SOUL  37"/>
 
-
-
-<pb n=""/>
-
-
-
-<l>5</l>
-<l>Others may find their loves and keep them.</l>
+<div id="mackintosh1011" type="section" n="5">
+<head rend="center">5</head>
+<l>Others may find their loves and keep them,</l>
 <l>But for us two there still shall be</l>
-<l>A kinder heart and a fairer city.</l>
+<l>A kinder heart and a fairer city,</l>
 <l>The home and wife we shall never see.</l>
 <l>Lost adventurers, watching ever</l>
 <l>Over the toss of the tricksy foam,</l>
-<l>Many a joyous port and city.</l>
-<l>Never the harbour lights of home.</l>
+<l>Many a joyous port and city,</l>
+<l>Never the harbour lights of home.</l></div></div>
 
 
 

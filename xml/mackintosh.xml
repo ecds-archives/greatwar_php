@@ -365,7 +365,7 @@
 <pb n=""/>
 
 
-
+<div id="mackintosh2000" type="book part" n="1">
 <l>I</l>
 <l>WAR, THE LIBERATOR</l>
 
@@ -399,7 +399,7 @@
 
 
 
-<pb n="14 War the Liberator"/>
+<pb n="14 WAR THE LIBERATOR"/>
 
 <l>All they dreamed of childishly, bravery and fame for them,</l>
 <l>Charges at the cannon's mouth, enemies they slew,</l>
@@ -434,7 +434,7 @@
 
 
 
-<pb n="Recruiting 15"/>
+<pb n="RECRUITING 15"/>
 
 
 <div id="mackintosh002" type="poem" n="2">
@@ -468,7 +468,7 @@
 
 
 
-<pb n="16  Recruiting"/>
+<pb n="16  RECRUITING"/>
 
 <lg type="stanza">
 <l>Go and help to swell the names</l>
@@ -506,7 +506,7 @@
 
 
 
-<pb n="Recruitment  17"/>
+<pb n="RECRUITING  17"/>
 
 <lg type="stanza">
 <l>You shall learn what men can do</l>
@@ -528,7 +528,7 @@
 
 
 
-<pb n="18  The German and the Gael"/>
+<pb n="18  THE GERMAN AND THE GAEL"/>
 
 <div id="mackintosh003" type="poem" n="3">
 <head>THE GERMAN AND THE GAEL</head>
@@ -556,7 +556,7 @@
 
 
 
-<pb n="The German and the Gael  19"/>
+<pb n="THE GERMAN AND THE GAEL  19"/>
 
 <lg type="stanza">
 <l>Not for the hope of glory,</l>
@@ -580,7 +580,7 @@
 </div>
 
 
-<pb n="20 Beaumont-Hamel"/>
+<pb n="20   BEAUMONT-HAMEL"/>
 
 <div id="mackintosh004" type="poem" n="4">
 
@@ -612,7 +612,7 @@
 
 
 
-<pb n="Beaumont-Hamel 21"/>
+<pb n="BEAUMONT-HAMEL 21"/>
 
 <lg type="stanza">
 <l>Will you walk the heather,</l>
@@ -647,7 +647,7 @@
 
 
 
-<pb n="22 Beaumont-Hamel"/>
+<pb n="22 BEAUMONT-HAMEL"/>
 
 
 <div id="mackintosh1004" type="section" n="5">
@@ -664,7 +664,7 @@
 
 
 
-<pb n="Farewell  23"/>
+<pb n="FAREWELL  23"/>
 
 
 <div id="mackintosh005" type="poem" n="5">
@@ -692,7 +692,7 @@
 <l>Those nights at La Boiselle.</l></lg>
 
 
-<pb n="24 Farewell"/>
+<pb n="24 FAREWELL"/>
 
 <lg type="stanza">
 <l>Oh, the old days of friendship</l>
@@ -716,7 +716,7 @@
 </div>
 
 
-<pb n="Three Battles 25"/>
+<pb n="THREE BATTLES 25"/>
 
 
 <div id="mackintosh006" type="poem" n="6">
@@ -746,7 +746,7 @@
 
 
 
-<pb n="26 Three Battles "/>
+<pb n="26 THREE BATTLES "/>
 
 
 
@@ -782,7 +782,7 @@
 <l>A grey mist was drawn</l>
 
 
-<pb n="Three Battles  27"/>
+<pb n="THREE BATTLES  27"/>
 
 <l>Over the waves</l>
 <l>That went up in the dawn,</l>
@@ -813,7 +813,7 @@
 </div></div>
 
 
-<pb n="28 Victory and Failure"/>
+<pb n="28 VICTORY AND FAILURE"/>
 
 <div id="mackintosh007" type="poem" n="7">
 
@@ -1053,212 +1053,158 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 
 
 
+<pb n="38 GHOSTS OF WAR"/>
 
+<div id="mackintosh012" type="poem" n="12">
 
-<l>37</l>
+<head type="main">GHOSTS OF WAR</head>
+<head type="sub">(SENT FROM FRANCE IN OCTOBER 1917)</head>
 
-
-
-<pb n=""/>
-
-
-
-<l>GHOSTS OF WAR</l>
-
-<l>(Sent from France in October 1917)</l>
-<l>'HEN you and I are buried</l>
-
-
-
-
-
-<l>w</l>
-
-
-
-
-
-<l>With grasses over head.</l>
+<lg type="stanza">
+<l>WHEN you and I are buried</l>
+<l rend="inline">With grasses over head,</l>
 <l>The memory of our fights will stand</l>
 <l>Above this bare and tortured land,</l>
-<l>We knew ere we were dead.</l>
+<l>We knew ere we were dead.</l></lg>
 
+<lg type="stanza">
 <l>Though grasses grow on Vimy,</l>
-<l>Ani^oppies at Messines,</l>
-<l>And in High Wood the children play.</l>
+<l>And poppies at Messines,</l>
+<l>And in High Wood the children play,</l>
 <l>The craters and the graves will stay</l>
-<l>To show what things have been.</l>
+<l>To show what things have been.</l></lg>
 
-<l>Though all be quiet in day-time.</l>
+<lg type="stanza">
+<l>Though all be quiet in day-time,</l>
 <l>The night shall bring a change,</l>
 <l>And peasants walking home shall see</l>
-<l>Shell-torn meadow and riven tree.</l>
-<l>And their own fields grown strange.</l>
+<l>Shell-torn meadow and riven tree,</l>
+<l>And their own fields grown strange.</l></lg>
 
 
 
+<pb n="GHOSTS OF WAR  39"/>
 
-
-<l>38</l>
-
-
-
-<pb n=""/>
-
-
-
+<lg type="stanza">
 <l>They shall hear live men crying,</l>
-<l>They shall see dead men lie.</l>
-<l>Shall hear the rattling Maxims fire.</l>
+<l>They shall see dead men lie,</l>
+<l>Shall hear the rattling Maxims fire,</l>
 <l>And see by broken twists of wire</l>
-<l>Gold flares light up the sky.</l>
+<l>Gold flares light up the sky.</l></lg>
 
+<lg type="stanza">
 <l>And in their new-built houses</l>
-
 <l>The frightened folk will see</l>
-
 <l>Pale bombers coming down the street,</l>
-
 <l>And hear the flurry of charging feet,</l>
+<l>And the crash of Victory.</l></lg>
 
-<l>And the crash of Victory.</l>
-
-<l>ThiaJS-Qur Earth baptized</l>
+<lg type="stanza">
+<l>This is our Earth baptiz&#x00E8;d</l>
 <l>With the red wine of War.</l>
 <l>Horror and courage hand in hand</l>
 <l>Shall brood upon the stricken land</l>
-<l>In silence evermore.</l>
+<l>In silence evermore.</l></lg></div>
 
 
 
-<pb n=""/>
+<pb n="40 GHOSTS OF WAR"/>
 
+<div id="mackintosh013" type="poem" n="13">
 
+<head rend="left">MINES</head>
 
-<l>MINES</l>
+<head type="sub"><rend type="center">(SENT FROM FRANCE IN NOVEMBER 1917)</rend></head>
 
-<l>(Sent prom France in November 1917)</l>
-
+<lg type="stanza">
 <l>WHAT are you doing, Sentry,</l>
 <l>Fresh-faced and brown ?</l>
-<l>Waiting for the mines. Sir,</l>
-<l>Sitting on the mines. Sir,</l>
+<l>Waiting for the mines, Sir,</l>
+<l>Sitting on the mines, Sir,</l>
 <l>Just to keep them down.</l>
 <l>Mines going up, and no one to tell for us</l>
-<l>Where it will be, and may be it's as well for us.</l>
+<l>Where it will be, and may be it's as well for us,</l>
 <l>Mines going up.    Oh ! God, but it's hell for us,</l>
-<l>Here with the bloody mines.</l>
+<l rend="center">Here with the bloody mines.</l></lg>
 
-
-
-
-
+<lg type="stanza">
 <l>What are you doing, Sentry,</l>
 <l>Cold and drawn and grey ?</l>
 <l>Listening to them tap, Sir,</l>
-<l>Same old tap, tap, tap. Sir,</l>
+<l>Same old tap, tap, tap, Sir,</l>
 <l>And praying for the day.</l>
-<l>40</l>
 
 
 
-<pb n=""/>
 
-
+<pb n="GHOSTS OF WAR  41"/>
 
 <l>Mines going up, and no one can say for us</l>
 <l>When it will be ; but they waiting some day for us.</l>
-<l>Mines going up—oh !  folk at home, pray for us</l>
-<l>Here with the bloody mines.</l>
+<l>Mines going up--oh !  folk at home, pray for us</l>
+<l>Here with the bloody mines.</l></lg>
 
-<l>Where are you lying. Sentry ?</l>
-
+<lg type="stanza">
+<l>Where are you lying, Sentry ?</l>
 <l>Wasn't this your place ?</l>
-
-<l>Down below your feet. Sir,</l>
-
-<l>Below your heavy feet. Sir,</l>
-
+<l>Down below your feet, Sir,</l>
+<l>Below your heavy feet, Sir,</l>
 <l>With earth upon my face.</l>
-<l>Mines gone up, and the earth and the clod on us—</l>
-<l>Fighting for breath—and our own comrades trod on us.</l>
-<l>Mines gone up—Have pity, oh God ! on us,</l>
-
-<l>Down in the bloody mines.</l>
-
+<l>Mines gone up, and the earth and the clod on us--</l>
+<l>Fighting for breath--and our own comrades trod on us.</l>
+<l>Mines gone up--Have pity, oh God ! on us,</l>
+<l>Down in the bloody mines.</l></lg></div>
 
 
+<pb n="42 GHOSTS OF WAR"/>
 
+<div id="mackintosh014" type="poem" n="14">
+<head rend="left">DEATH</head>
 
-<l>41</l>
-
-
-
-<pb n=""/>
-
-
-
-<l>DEATH</l>
-
-
-
-
-
+<lg type="stanza">
 <l>BECAUSE I have made light of death</l>
-<l>And mocked at wounds and pain.</l>
-<l>The doom is laid on me to die—</l>
-<l>Like the humble men in days gone by—</l>
+<l>And mocked at wounds and pain,</l>
+<l>The doom is laid on me to die--</l>
+<l>Like the humble men in days gone by--</l>
 <l>That angered me to hear them cry</l>
-<l>For pity to me in vain.</l>
+<l>For pity to me in vain.</l></lg>
 
+<lg type="stanza">
 <l>I shall not go out suddenly</l>
-
 <l>As many a man has done.</l>
-
-<l>But I shall lie as those men lay—</l>
-
-<l>Longing for death the whole long day—</l>
-
+<l>But I shall lie as those men lay--</l>
+<l>Longing for death the whole long day--</l>
 <l>Praying, as I heard those men pray,</l>
+<l>And none shall heed me, none.</l></lg>
 
-<l>And none shall heed me, none.</l>
-
+<lg type="stanza">
 <l>The fierce waves will go surging on</l>
 <l>Before they tend to me.</l>
 <l>Oh, God of battles I pray you send</l>
-<l>No word of pity—no help, no friend.</l>
+<l>No word of pity--no help, no friend,</l>
 <l>That if my spirit break at the end</l>
-<l>None may be there to see.</l>
+<l>None may be there to see.</l></lg></div>
 
 
+<pb n="GHOSTS OF WAR  43"/>
 
+<titlePage id="kerrdaubs2001" type="half">
+     <docTitle>
+       <titlePart type="main">II<lb/>OTHER POEMS AND<lb/>THE REMEMBERED GODS
+       </titlePart>
+     </docTitle>
+   </titlePage>
 
+<pb n="44"/>
 
-<l>42</l>
+<pb n="45  TO THE UNKOWN LOVE"/>
 
+<div id="mackintosh015" type="poem" n="15">
+<head>TO THE UNKNOWN LOVE</head>
 
-
-<pb n=""/>
-
-
-
-<l>II</l>
-
-<l>OTHER POEMS AND</l>
-<l>THE REMEMBERED GODS</l>
-
-
-
-<pb n=""/>
-
-<pb n=""/>
-
-
-
-<l>TO THE UNKNOWN LOVE</l>
-
+<lg type="stanza">
 <l>A DAY ago, quite suddenly,</l>
-<l>Hell opened all its gulf to me,</l>
+<l rend="inline">Hell opened all its gulf to me,</l>
 <l>I could not tell what I must do,</l>
 <l>And so I tried to think of you.</l>
 <l>And hoped that I might see your eyes</l>
@@ -1268,210 +1214,143 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <l>The rose-tree flung across your way.</l>
 <l>And with the perfect sight of you</l>
 <l>The blossom took a braver hue,</l>
-<l>And sucked your wisdom like the dew.</l>
+<l>And sucked your wisdom like the dew,</l>
 <l>Your beauty like a summer shower.</l>
 <l>Never before was any flower</l>
 <l>So fair and wise as was this rose</l>
-<l>With seeing you.</l>
+<l>With seeing you.</l></lg>
 
-<l>And yet, who knows,</l>
-
-
-
-<pb n=""/>
+<lg type="stanza">
+<l rend="inline">And yet, who knows,</l>
 
 
+<pb n="46  TO THE UNKOWN LOVE"/>
 
-<l>If I had seen your dear grave eyes.</l>
+<l>If I had seen your dear grave eyes,</l>
 <l>Which made the little flower so wise,</l>
-<l>Just for a moment ere I fell.</l>
-<l>Perhaps I had been wise as well.</l>
+<l>Just for a moment ere I fell,</l>
+<l>Perhaps I had been wise as well.</l></lg></div>
 
+<pb n="SONNET TO THE UNKNOWN LOVE  47"/>
 
+<div id="mackintosh016" type="poem" n="16">
+<head>SONNET TO THE UNKNOWN LOVE</head>
 
-
-
-<l>46</l>
-
-
-
-<pb n=""/>
-
-
-
-<l>SONNET TO THE UNKNOWN LOVE</l>
-
-<l>ACROSS a hundred miles of weary land.</l>
+<lg type="stanza">
+<l>ACROSS a hundred miles of weary land,</l>
 <l>To your dear home by our beloved sea,</l>
 <l>I strain my eyes and think I see you stand</l>
-<l>The same sweet wonder that you used to be,</l>
+<l>The same sweet wonder that you used to be.</l>
 <l>I think I see you smile the very way</l>
 <l>You had when once we walked across the Downs,</l>
 <l>And on the muddy road palm branches lay</l>
-<l>And the dull trees were garlanded with crowns,</l>
+<l>And the dull trees were garlanded with crowns.</l></lg>
 
-<l>I see the opening of your grave eyes.</l>
-
-<l>And the swift flash when you reveal your heart.</l>
-
+<lg type="stanza">
+<l>I see the opening of your grave eyes,</l>
+<l>And the swift flash when you reveal your heart,</l>
 <l>And still between us all this distance lies</l>
-
-<l>Of space and custom keeping us apart.</l>
-
+<l>Of space and custom keeping us apart,</l>
 <l>And still twelve lonely days and nights remain</l>
-
-<l>Ere I shall see and talk to you again.</l>
-
+<l>Ere I shall see and talk to you again.</l></lg></div>
 
 
 
+<pb n="48  SONG"/>
 
-<l>47</l>
+<div id="mackintosh017" type="poem" n="17">
 
+<head>SONG</head>
 
-
-<pb n=""/>
-
-
-
-<l>SONG</l>
-
-
-
-
-
+<lg type="stanza">
 <l>OH, come to me, come to me, bringing</l>
-<l>The gifts that you brought me of old,</l>
+<l rend="inline">The gifts that you brought me of old,</l>
 <l>A world that will set me singing.</l>
+<l rend="inline">And a touch that will make me bold.</l>
+<l>The world is too hard for my sorrow,</l>
+<l rend="inline">But it will grow soft to your feet,</l>
+<l>But though you must leave me to-morrow,</l>
+<l rend="inline">To-night let your coming be fleet.</l></lg>
 
-<l>And a touch that will make me bold.</l>
-<l>The world is too hard for my sorrow.</l>
-
-<l>But it will grow soft to your feet.</l>
-<l>But though you must leave me to-morrow.</l>
-<l>To-night let your coming be fleet.</l>
-
+<lg type="stanza">
 <l>Oh, come to me, come to me, leaving</l>
-
-<l>The thought that would keep you away.</l>
+<l rend="inline">The thought that would keep you away,</l>
 <l>For the heart of your lover is grieving</l>
-
-<l>In the midst of the beauty of May.</l>
+<l rend="inline">In the midst of the beauty of May.</l>
 <l>For the sorrows that hold me and bind me</l>
-
-<l>When the blossom is fresh on the bough.</l>
+<l rend="inline">When the blossom is fresh on the bough,</l>
 <l>And the mists of illusion that blind me.</l>
-
-<l>Oh, come to me, come to me, now.</l>
-
+<l rend="inline">Oh, come to me, come to me, now.</l></lg>
 
 
+<pb n="SONG  49"/>
 
-
-<l>48</l>
-
-
-
-<pb n=""/>
-
-
-
+<lg type="stanza">
 <l>Oh, come to me, come to me, over</l>
-
-<l>The miles that would keep us apart.</l>
-<l>Though far from the eyes of your lover.</l>
-
-<l>At least you may visit his heart.</l>
-<l>In the night-time, when lovers are nearest.</l>
-
-<l>In dreams like a wandering fay.</l>
+<l rend="inline">The miles that would keep us apart,</l>
+<l>Though far from the eyes of your lover,</l>
+<l rend="inline">At least you may visit his heart.</l>
+<l>In the night-time, when lovers are nearest,</l>
+<l rend="inline">In dreams like a wandering fay,</l>
 <l>Oh, come to me, come to me, dearest,</l>
-
-<l>Although you must fly with the day.</l>
-
-
-
-<pb n=""/>
+<l rend="inline">Although you must fly with the day.</l></lg></div>
 
 
 
-<l>THE GHOST OF YOUTH</l>
+<pb n="50 THE GHOST OF YOUTH"/>
 
+<div id="mackintosh018" type="poem" n="18">
+
+<head rend="left">THE GHOST OF YOUTH</head>
+
+<lg type="stanza">
 <l>IN the cold black hours of the evening time</l>
-<l>That finish the empty day,</l>
-<l>' When a man can sit and dream again</l>
+<l rend="inline">That finish the empty day,</l>
+<l> When a man can sit and dream again</l>
 <l>Of the joys he threw away.</l>
 <l>When the curtain of things is lifted up</l>
 <l>And the naked life we see,</l>
-<l>There comes the ghost of a boy, long dead.</l>
-<l>And sits by the fire with me.</l>
+<l>There comes the ghost of a boy, long dead,</l>
+<l>And sits by the fire with me.</l></lg>
 
+<lg type="stanza">
 <l>A boy with the clean young hope of life</l>
-
-<l>Aflame in his ardent eyes.</l>
-
+<l>Aflame in his ardent eyes,</l>
 <l>And oh, the contempt that he feels for me</l>
-
-<l>And my hoaryjblasphemies;</l>
-
+<l>And my hoary blasphemies;</l>
 <l>Sitting there by my dying fire</l>
-
-<l>His eyes light up and glow.</l>
-
+<l>His eyes light up and glow,</l>
 <l>And he talks to me as I used to talk</l>
-
-<l>Oh God ! how long ago.</l>
-
-<l>50</l>
+<l>Oh God ! how long ago.</l></lg>
 
 
+<pb n="THE GHOST OF YOUTH  51"/>
 
-<pb n=""/>
-
-
-
+<lg type="stanza">
 <l>The ghost of the boy that I was then</l>
-
 <l>Sits still and talks to me</l>
-
 <l>With his passionate love of a half-seen truth</l>
-
 <l>And his sweet absurdity.</l>
-
 <l>All that I thought I could nearly see</l>
-
-<l>All that I used to hear.</l>
-
+<l>All that I used to hear,</l>
 <l>Before the curtain was rent and I saw</l>
+<l>The naked life too clear.</l></lg>
 
-<l>The naked life too clear.</l>
-
+<lg type="stanza">
 <l>Ere I saw too clear the awful fear</l>
-
-<l>And the horror of emptiness.</l>
-
+<l>And the horror of emptiness,</l>
 <l>Ere I knew too well that the pit of hell</l>
-
-<l>Was a pit that was bottomless.</l>
-
-<l>And knew there was never a king in hell.</l>
-
-<l>In heaven never a throne.</l>
-
-<l>Only the void andjajhiyering soul.</l>
-
-<l>That drifts by itself alone.</l>
+<l>Was a pit that was bottomless,</l>
+<l>And knew there was never a king in hell,</l>
+<l>In heaven never a throne,</l>
+<l>Only the void and a shivering soul,</l>
+<l>That drifts by itself alone.</l></lg></div>
 
 
 
+<pb n="52 THE REMEMBERED GODS"/>
 
-
-<l>51</l>
-
-
-
-<pb n=""/>
-
+<div id="mackintosh019" type="play">
 
 
 <l>CHARACTERS IN THE PLAY</l>

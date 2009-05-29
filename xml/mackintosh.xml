@@ -365,7 +365,7 @@
 <pb n=""/>
 
 
-<div id="mackintosh2000" type="book part" n="1">
+<div id="mackintosh2000" type="part" n="1">
 <l>I</l>
 <l>WAR, THE LIBERATOR</l>
 
@@ -1188,7 +1188,8 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 
 <pb n="GHOSTS OF WAR  43"/>
 
-<titlePage id="kerrdaubs2001" type="half">
+<div id="mackintosh2002" type="part" n="2">
+<titlePage id="kerrdaubs2003" type="half">
      <docTitle>
        <titlePart type="main">II<lb/>OTHER POEMS AND<lb/>THE REMEMBERED GODS
        </titlePart>
@@ -1351,239 +1352,197 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <pb n="52 THE REMEMBERED GODS"/>
 
 <div id="mackintosh019" type="play">
+<div id="mackintosh1012" type="intro">
+<head>CHARACTERS IN THE PLAY</head>
+
+<castItem><role id="m1">CALUM,</role></castItem>
+
+<castItem><role id="m2">IAN,</role></castItem>
+
+<castItem><role id="g1">LIOR,</role> <hi rend="italic">God of the Sea</hi>.</castItem>
+
+<castItem><role id="g2">BALOR, <hi rend="italic">God of War</hi>.</role></castItem>
+
+<castItem><role id="g3">ANGUS, <hi rend="italic">God of Love</hi>.</role></castItem>
+
+<castItem><role id="m3">ALASTAIR, <hi rend="italic">a young stranger</hi>.</role>
+
+<castItem><role id="w">MAIRI, <hi rend="italic">daughter of Ian</hi>.</role></castItem>
 
 
-<l>CHARACTERS IN THE PLAY</l>
+<p>DEDICATION</p>
 
-
-
-
-
-<l>/ Shepherds.</l>
-
-
-
-
-
-<l>Calum,</l>
-
-<l>Ian,</l>
-
-<l>LiOR, God of the Sea.</l>
-
-<l>Balor, God of War.</l>
-
-<l>Angus, God of Love.</l>
-
-<l>Alastair, a young stranger.</l>
-
-<l>Mairi, daughter of Ian.</l>
-
-<l>DEDICATION</l>
-
+<lg type="stanza">
 <l>If in my song the heart of love</l>
-
-<l>Looks from another maiden's eyes,</l>
+<l rend="inline">Looks from another maiden's eyes,</l>
 <l>Where on the hills of Morven move</l>
-
-<l>The kings too proud for Paradise ;</l>
+<l rend="inline">The kings too proud for Paradise ;</l>
 <l>Though to your ears the autumn brings</l>
-
-<l>No sounds of crying, you will know</l>
+<l rend="inline">No sounds of crying, you will know</l>
 <l>The murmur of immortal things</l>
+<l rend="inline">In this dark tale of long ago.</l></lg>
 
-<l>In this dark tale of long ago.</l>
-
+<lg type="stanza">
 <l>If in the silence of the nights</l>
-
-<l>The song of Angus calls no more.</l>
+<l rend="inline">The song of Angus calls no more,</l>
 <l>If all the sea is ringed with lights</l>
-
-<l>And no waves moaning on the shore.</l>
-<l>Though Balor, sleeping on the hills.</l>
-
-<l>Forgets the dew in his drenched hair.</l>
+<l rend="inline">And no waves moaning on the shore.</l>
+<l>Though Balor, sleeping on the hills,</l>
+<l rend="inline">Forgets the dew in his drenched hair.</l>
 <l>You will remember ancient ills,</l>
-
-<l>Pitying another Alastair.</l>
-
+<l rend="inline">Pitying another Alastair.</l></lg>
 
 
+<pb n="THE REMEMBERED GODS  53"/>
+<div id="mackintosh1013" type="Act" n="1">
 
+<head>THE REMEMBERED GODS</head>
 
-<l>52</l>
+<stage type="setting">
+<p>TIME: <hi rend="italic">A long time ago.</hi></p>
+<p>SCENE: <hi rend="italic">A glen in Morven in the West Highlands, with big stones</hi>scattered. Behind, a big ben. The stage is dark, but in the middle a tall tree shows blacker. Beneath it sits Angus in a wreath of mist.</p></stage>
 
+<sp who="g3">
+<speaker>Angus<stage> (<hi rend="italic">sings</hi>).</stage></speaker>
+<lg type="stanza">
+<l>Are the gods forgotten in Morven of the hinds,</l>
+<l>The beauty that slew men, the golden eyes that shone,</l>
+<l>The gods that would be walking on the rocks of the winds,</l>
+<l>That little men would die for the love of looking on ?</l></lg>
 
+<lg type="stanza">
+<l>Are the gods forgotten in Morven of the stags,</l>
+<l>The old gods, the fair gods, that were too high for love,</l>
+<l>The white feet pressing on the grasses of the crags,</l>
+<l>The black hair hidden in the black clouds above ?</l></lg>
 
-<pb n=""/>
-
-
-
-<l>THE REMEMBERED GODS</l>
-
-<l>Time : A long time ago.</l>
-
-<l>Scene : A glen in Morven in the West Highlands, with big stones</l>
-<l>scattered. Behind, a big ben. The stage is dark, but in ike</l>
-<l>middle a tall tree shows blacker. Beneath it sits Angus in</l>
-<l>a wreath of mist.</l>
-
-<l>Angus (sings).</l>
-<l>Are the gods forgotten in Morven of the hinds.</l>
-<l>The beauty that slew men, the golden eyes that shone.</l>
-<l>The gods that would be walking on the rocks of the winds.</l>
-<l>That Uttle men would die for the love of looking on ?</l>
-
-<l>Are the gods forgotten in Morven of the stags.</l>
-<l>The old gods, the fair gods, that were too high for love.</l>
-<l>The white feet pressing on the grasses of the crags.</l>
-<l>The black hair hidden in the black clouds above ?</l>
-
+<lg type="stanza">
 <l>The gods are forgotten in Morven of the glens.</l>
 <l>The sun shines clearly, and gentle is the day.</l>
 
-<l>53</l>
-
-
-
-<pb n=""/>
-
-
+<pb n="54  THE REMEMBERED GODS"/>
 
 <l>Like snow in summer corries, like mist upon the bens,</l>
-<l>The lovely gods of darkness are vanished away.</l>
+<l>The lovely gods of darkness are vanished away.</l></lg></sp>
 
-<l>[Day dawns, and the stage is empty.</l>
+<stage type="setting">[<hi rend="italic">Day dawns, and the stage is empty</hi>.</stage>
 
-<l>Calum and Ian come in.</l>
+<stage type="entrance">CALUM <hi rend="italic">and</hi> IAN <hi rend="italic">come in</hi>.</stage>
+<sp who="m1">
+<l><speaker>CALUM.</speaker>   I thought I heard one of the men of peace.</l>
+<l>Singing alone within the narrow glen.</l></sp>
 
-<l>Calum,   I thought I heard one of the men of peace.</l>
-<l>Singing alone within the narrow glen.</l>
+<sp who="m2">
+<p><speaker>IAN.</speaker>   There is none in it.</p></sp>
 
-<l>Ian.   There is none in it.</l>
-
-<l>Calum.                          Yet I thought I heard</l>
-
+<sp who="m1">
+<l><speaker>CALUM.</speaker>                         Yet I thought I heard</l>
 <l>A man of peace and he at sorrowing.</l>
-<l>God's pity, oaJhe-people of the hills,</l>
-<l>For they have lost the changing love of men.</l>
-<l>And won their fear.</l>
+<l>God's pity on the people of the hills,</l>
+<l>For they have lost the changing love of men,</l>
+<l>And won their fear.</l></sp>
 
-<l>Ian,                    My mother used to say</l>
-
-<l>That when a man would walk the darkened hills.</l>
+<sp who="m2">
+<l><speaker>IAN.</speaker>                    My mother used to say</l>
+<l>That when a man would walk the darkened hills,</l>
 <l>The men of peace would take his soul from him</l>
-<l>And use it for their pleasure.   As they did.</l>
+<l>And use it for their pleasure.   As they did,</l>
 <l>My mother said, in the old misty times,</l>
-<l>Before the word of God came into Alba,</l>
+<l>Before the word of God came into Alba.</l></sp>
 
-<l>Calum.    Poor fallen gods, that were the lords of men,</l>
-<l>God^peace upon you.    Make your peace with Him.</l>
-<l>Lose your sad pride to win His ready grace.</l>
+<sp who="m1">
+<l><speaker>CALUM.</speaker>    Poor fallen gods, that were the lords of men,</l>
+<l>God's peace upon you.    Make your peace with Him.</l>
+<l>Lose your sad pride to win His ready grace,</l>
 <l>And stand upon the golden floor of Heaven</l>
-<l>54</l>
 
+<pb n="THE REMEMBERED GODS  55"/>
 
-
-<pb n=""/>
-
-
-
-<l>With other song than this.   And yet, who knows.</l>
-
+<l>With other song than this.   And yet, who knows,</l>
 <l>May be your pride is of more worth to you</l>
-
 <l>Than all the melodies of Paradise,</l>
-
 <l>And these sad songs of yours more beautiful</l>
-
 <l>Than any you could sing with happier lips.</l>
+<l>Perhaps our Lord's sweet face might make you dumb.</l></sp>
 
-<l>Perhaps our Lord's sweet face might make you dumb,</l>
-
-<l>Alastair {outside singing).</l>
-<l>Summer is gone at last, and autumn leaves are falling,</l>
+<sp who="m3"><stage>Alastair (<hi rend="italic">outside singing</hi>)</stage>.
+<lg type="stanza"><l>Summer is gone at last, and autumn leaves are falling,</l>
 <l>And through the naked trees the wind is breathing low.</l>
-<l>Let us arise and go, for the old gods are calling.</l>
-<l>The beautiful cruel gods we loved so long ago.</l>
+<l>Let us arise and go, for the old gods are calling,</l>
+<l>The beautiful cruel gods we loved so long ago.</l></lg>
 
+<lg type="stanza">
 <l>Let us arise and go, for far beyond the city</l>
-<l>We hear the old gods singing the years from which we came.</l>
-<l>The merrj heartless jears that knew not pain or pity.</l>
-<l>The happy lustful years that knew not fear or shame.</l>
+<l>We hear the old gods singing the years from which we came,</l>
+<l>The merrj heartless jears that knew not pain or pity,</l>
+<l>The happy lustful years that knew not fear or shame.</l></lg>
 
+<lg type="stanza">
 <l>The bitter music calls, and we must follow after</l>
-<l>Back through the gentler years to the old time again.</l>
-<l>To wake their lovely mirth, to move the gods to laughter.</l>
-<l>This is the fend of man, the full reward of pain.</l>
+<l>Back through the gentler years to the old time again,</l>
+<l>To wake their lovely mirth, to move the gods to laughter,</l>
+<l>This is the end of man, the full reward of pain.</l></lg>
 
-<l>The golden eyes aglow, the silver laughter ringing.</l>
+<lg type="stanza">
+<l>The golden eyes aglow, the silver laughter ringing,</l>
 <l>Shall we not suffer pain for lovely things as these ?</l>
 
-
-
-
-
-<l>55</l>
-
-
-
-<pb n=""/>
-
-
+<pb n="56  THE REMEMBERED GODS"/>
 
 <l>Let us arise and go, for the old gods are singing,</l>
-<l>The beautiful cruel gods that mock our miseries.</l>
+<l>The beautiful cruel gods that mock our miseries.</l></lg></sp>
 
-<l>Ian,   What voice is this ?   The men of peace are out.</l>
-<l>May God protect us !</l>
+<sp who="m2">
+<l><speaker>IAN.</speaker>   What voice is this ?   The men of peace are out.</l>
+<l>May God protect us !</l></sp>
 
-<l>Calum.                  Ian make an end.</l>
-
+<sp who="m3">
+<lg type="stanza"><l><speaker>CALUM.</speaker>                  Ian make an end.</l>
 <l>Though all the beaten fairies of the air</l>
-<l>Rise against heaven, we can cast them down.</l>
-<l>But it were better save them with a kiss.</l>
+<l>Rise against heaven, we can cast them down,</l>
+<l>But it were better save them with a kiss.</l></lg>
 
-<l>[Raising his voice.</l>
-<l>Whoe'er you be that sing to us this morn.</l>
+<stage>[Raising his voice.</stage>
+
+<lg type="stanza">
+<l>Whoe'er you be that sing to us this morn,</l>
 <l>Whether your dwelling be below the hills</l>
 <l>Or in the mazy fastness of the air,</l>
 <l>Draw near in peace.   For I have learned too well</l>
 <l>The lesson of Christ's love, to hate the sad</l>
-<l>Discrowned gods that are His enemies.</l>
+<l>Discrown&#x00E8;d gods that are His enemies.</l></lg>
 
-<l>Alastair comes in.</l>
+<stage type="entrance">ALASTAIR <hi rend="italic">comes in</hi>.</stage>
 
-<l>Alastair.   Christ's love ?   Then even here men pray to</l>
-<l>Christ,</l>
+<sp who="m3">
+<lg type="stanza"><l><speaker>ALASTAIR.</speaker>   Christ's love ?   Then even here men pray to Christ,</l>
 <l>The pitiful intruder ; even here</l>
-<l>In Western Morven of the windy rocks.</l>
+<l>In Western Morven of the windy rocks,</l>
 <l>Where once the old gods would be wandering</l>
 <l>Along the outer fringes of the world,</l>
 
-<l>56</l>
 
+<pb n="THE REMEMBERED GODS  57"/>
 
+<l>The loving god is master.</l></lg>
 
-<pb n=""/>
-
-
-
-<l>The loving god is master.</l>
-
-<l>Ay and you.</l>
-<l>With love and pity shining from your eyes.</l>
+<lg type="stanza">
+<l>Ay and you,</l>
+<l>With love and pity shining from your eyes,</l>
 <l>Can you not mind upon your fathers' swords,</l>
-<l>Anger and hate and pride and cruelty ?</l>
+<l>Anger and hate and pride and cruelty ?</l></lg></sp>
 
-<l>Ian.   Blasphemer of the world, the Lord is King,</l>
-<l>And has set all your gods below His feet.</l>
+<sp who="m2">
+<l><speaker>IAN.</speaker>   Blasphemer of the world, the Lord is King,</l>
+<l>And has set all your gods below His feet.</l></sp>
 
-<l>Calum.   If Christ the loving God is naught to you.</l>
-<l>Anger and hate more dear to you than love.</l>
-<l>What god would you be praying to at all ?</l>
+<sp who="m1">
+<l><speaker>CALUM.</speaker>   If Christ the loving God is naught to you,</l>
+<l>Anger and hate more dear to you than love,</l>
+<l>What god would you be praying to at all ?</l></sp>
 
-<l>Alastair.   The bitter gpds, the beautiful white gods.</l>
+<sp who="m3">
+<l><speaker>Alastair.</speaker>   The bitter gods, the beautiful white gods,</l>
 <l>That will be walking on the darkened cliffs,</l>
 <l>Lior the haunter of the roaring tides.</l>
 <l>Whose emerald eyes the drowning sailors see</l>
@@ -1595,161 +1554,148 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <l>The mist that would destroy the moon with love</l>
 <l>If she could hold him, the eternal mist</l>
 <l>That wanders still within our quiet hearts,</l>
-<l>Stirring^the bitter love we may not sate</l>
-
-<l>57</l>
+<l>Stirring the bitter love we may not sate</l>
 
 
+<pb n="58  THE REMEMBERED GODS"/>
 
-<pb n=""/>
+<l>Save with his own white beauty. These are they</l>
+<l>That were your father's gods in the old days.</l></sp>
 
-
-
-<l>Save with his own white bea_uty.   These are they</l>
-<l>That were your father's gods in the old days.</l>
-
-<l>Calum.   The gods are fallen.    On the misty crags</l>
+<sp who="m1">
+<l><speaker>CALUM.</speaker>   The gods are fallen.    On the misty crags</l>
 <l>They walk and sorrow for the olden times.</l>
 <l>And on the surf-beat rocks the whole night through</l>
-<l>Lior is moaning for his vanished loves.</l>
-<l>For we have girdled all the seas with flame.</l>
+<l>Lior is moaning for his vanished loves,</l>
+<l>For we have girdled all the seas with flame,</l>
 <l>And our new night is gentle as the day.</l>
 <l>And the apostles' swords have pierced the rain</l>
 <l>That armoured Balor, and the angels' hands</l>
 <l>Have rent the fiery lightnings from his grasp,</l>
 <l>And war is dying, dying in our hearts.</l>
-<l>And the white feet of Angus walk the hill.</l>
-<l>But with him go no beautiful young men.</l>
+<l>And the white feet of Angus walk the hill,</l>
+<l>But with him go no beautiful young men,</l>
 <l>And the young maidens bide within the house.</l>
-<l>And you may be, that walk the city ways.</l>
+<l>And you may be, that walk the city ways,</l>
 <l>Dream that the gods are mighty yet.    But we</l>
-<l>In Western Morven, by the winter fires.</l>
+<l>In Western Morven, by the winter fires,</l>
 <l>Hear all night long above the talk of men</l>
-<l>Our broken masters wailing on the hills.</l>
+<l>Our broken masters wailing on the hills.</l></sp>
 
-<l>Alastair.    The gods are living yet, and have their thrones</l>
+<sp who="m3">
+<l><speaker>ALASTAIR.</speaker>    The gods are living yet, and have their thrones</l>
 <l>In the invisible desires of men.</l>
 <l>Below the quiet current of our lives</l>
 
-<l>58</l>
 
-
-
-<pb n=""/>
-
-
+<pb n="THE REMEMBERED GODS  59"/>
 
 <l>They move and labour to destroy the chains</l>
 <l>Your saints have cast upon our memory.</l>
-<l>Still in our hearts the ancient fires burn high.</l>
+<l>Still in our hearts the ancient fires burn high,</l>
 <l>And Balor, tempest-armoured, calls to us.</l>
 <l>And you with gentle prayer and song adore</l>
 <l>Your pitiful, sad god the whole day long.</l>
-<l>But in the echoing nights when none is by.</l>
-<l>In the lone nights do they not burn you still ?</l>
+<l>But in the echoing nights when none is by,</l>
+<l>In the lone nights do they not burn you still ?</l></sp>
 
-<l>Ian {dreamily).   I do remember clamorous desires.</l>
+<sp who="m2">
+<l><speaker>Ian</speaker><stage> (<hi rend="italic">dreamily</hi>).</stage>   I do remember clamorous desires,</l>
 <l>And lusts awaking in the frozen night,</l>
-<l>White maidens dancing underneath the moon.</l>
-<l>And the long roll and tumble of the waves.</l>
-
-<l>Calum,   Ian, remember greater things than these.</l>
+<l>White maidens dancing underneath the moon,</l>
+<l>And the long roll and tumble of the waves.</l></sp>
+<sp who="m1">
+<l><speaker>CALUM.</speaker>   Ian, remember greater things than these,</l>
 <l>The little baby god new-born on earth,</l>
-<l>With soft lips sucking at his mother's breast,</l>
+<l>With soft lips sucking at his mother's breast.</l></sp>
 
-<l>Alastair.   The sword of night has severed the gentle chains</l>
-<l>that bound you.</l>
+<sp who="m3">
+<l><speaker>ALASTAIR.</speaker>   The sword of night has severed the gentle chains that bound you,</l>
 <l>The lovely gods of darkness rise in your heart anew.</l>
 <l>Beautiful gods and mighty, in dreams they stand around you,</l>
-<l>Kneel down in dreams and worship as once you used to do.</l>
+<l>Kneel down in dreams and worship as once you used to do.</l></sp>
 
-<l>Ian,    White maidens dancing underneath the moon,</l>
-<l>And the fierce glow of battle on the hills.</l>
-<l>And red, wet blood upon the slayer's hands.</l>
-
-<l>59</l>
-
+<sp who="m2">
+<l><speaker>IAN.</speaker>    White maidens dancing underneath the moon,</l>
+<l>And the fierce glow of battle on the hills,</l>
+<l>And red, wet blood upon the slayer's hands.</l></sp>
 
 
-<pb n=""/>
+<pb n="60  THE REMEMBERED GODS"/>
 
+<sp who="m1">
+<l><speaker>CALUM.</speaker>   Oh, Ian, wake and see the face of Christ.</l>
+<l>The worn sad face, the pitiful sweet eyes,</l>
+<l>And the feet torn and bloody from the stones.</l></sp>
 
-
-<l>Calum.   Oh, Ian, wake and see the face ofVChrist,</l>
-<l>The worn sad face, the pitiful sweet eyes.</l>
-<l>And the feet torn and bloody from the stones,</l>
-
-<l>Alastair.    Dream on, dream on my brother, forget the man</l>
-<l>of sorrow.</l>
+<sp who="m3">
+<l><speaker>ALASTAIR.</speaker>    Dream on, dream on my brother, forget the manof sorrow.</l>
 <l>The way-worn feet and bloody, the eyes too dim with tears.</l>
 <l>Dream of the lords of beauty, for you shall see to-morrow</l>
-<l>The older day returning and the forgotten years,</l>
+<l>The older day returning and the forgotten years.</l></sp>
 
-<l>Ian.   The slow tides calling, calling on the beach.</l>
-<l>And all the little waves of night afire.</l>
-<l>And the cool emerald depths of Lior's eyes.</l>
+<sp who="m2">
+<l><speaker>IAN.</speaker>   The slow tides calling, calling on the beach,</l>
+<l>And all the little waves of night afire,</l>
+<l>And the cool emerald depths of Lior's eyes,</l>
 <l>That none may look upon and live again.</l>
-<l>Oh beautiful cool depths to drown my life,—</l>
+<l>Oh beautiful cool depths to drown my life,--</l>
 <l>I have remembered Lior, and the moon</l>
-<l>Is full again and there is mist abroad.</l>
+<l>Is full again and there is mist abroad,</l>
 <l>And Angus singing clear upon the hills.</l>
 <l>Oh young men follow Angus of the Birds,</l>
 <l>Young maidens dance with him below the moon.</l>
 <l>You will grow old and hear his song no more.</l>
-<l>Oh, follow Angus now while you are young.—</l>
-<l>AogUS, has passed me by, but Balor's fires</l>
-<l>Burn fiercely in my bosom as of old.</l>
+<l>Oh, follow Angus now while you are young.--</l>
+<l>Angus has passed me by, but Balor's fires</l>
+<l>Burn fiercely in my bosom as of old,</l>
 <l>The lust of slaying, and the bitter blood,</l>
-<l>60</l>
 
 
+<pb n="THE REMEMBERED GODS  61"/>
 
-<pb n=""/>
+<l>And the cold smile upon the foeman's face.</l></sp>
 
+<sp who="m1">
+<l><speaker>CALUM.</speaker>   Oh Ian, Ian, will you not remember</l>
+<l>The poor feet that the nails were driven through,</l>
+<l>The pierc&#x00E8;d hands and the spear-riven side,</l>
+<l>And the heroic brow false-crowned with thorns ?</l></sp>
 
-
-<l>And the cold smile upon the foeman's face.</l>
-
-<l>Calum,   Oh Ian, Ian, will you not remember</l>
-<l>The poor feet that the nails were driven through.</l>
-<l>The pierced hands and the spear-riven side.</l>
-<l>And the heroic brow false-crowned with thorns ?</l>
-
-<l>Ian.   The night is ending.   With the day will come</l>
-<l>The memory that dreamers may forget.</l>
+<sp who="m2">
+<lg type="stanza"><l><speaker>Ian.</speaker>   The night is ending.   With the day will come</l>
+<l>The memory that dreamers may forget,</l>
 <l>But I will yet dream on a little while,</l>
-<l>Before day claims me for its own again.</l>
-<l>And the soft fetters close about my soul.</l>
+<l>Before day claims me for its own again,</l>
+<l>And the soft fetters close about my soul.</l></lg>
 
-<l>[Looking round.</l>
+<stage>[Looking round.</stage>
+
+<lg type="stanza">
 <l>Am I awake, and you that bade me dream</l>
 <l>Bid me remember in the eye of day ?</l>
-<l>Is there an end of the new heaven and hell.</l>
-<l>And all save earth and the immortal isle.</l>
-<l>They used to tell of in the olden times ?</l>
+<l>Is there an end of the new heaven and hell,</l>
+<l>And all save earth and the immortal isle,</l>
+<l>They used to tell of in the olden times ?</l></lg>
 
-<l>[Sinks down.</l>
+<stage>[Sinks down.</stage>
+<lg type="stanza">
 <l>1 have been dreaming, as I dream alone</l>
 <l>In the dim nights ; but after them the day</l>
 <l>Brings back to me anew the face of Christ.</l>
 <l>I am afraid of this new dawn that brings</l>
-<l>NoXhristjioxt memories of older things,</l>
+<l>No Christ, but memories of older things.</l></lg></sp>
 
-<l>END of act I</l>
-
-<l>6i</l>
+<stage>END of act I</stage>
 
 
-
-<pb n=""/>
-
+<pb n="THE REMEMBERED GODS"/>
 
 
-<l>ACT II</l>
+<div id="mackintosh1014" type="ACT" n="2">
+<head>ACT II</head>
 
-<l>The scene is Ian's cottage. A wide fireplace with peats burning,</l>
-<l>and big chests along the walls. At a table sits Mairi Bain.</l>
-<l>Ian and Alastair come in.</l>
+<stage><p>The scene is Ian's cottage. A wide fireplace with peats burning,and big chests along the walls. At a table sits Mairi Bain. Ian and Alastair come in.</p></stage>
 
 <l>Ian.    Mairi put out more peats upon the fire.</l>
 <l>For we have strangers in the house to-night.</l>

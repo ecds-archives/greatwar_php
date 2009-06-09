@@ -1352,7 +1352,9 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <pb n="52 THE REMEMBERED GODS"/>
 
 <div id="mackintosh019" type="play">
-<div id="mackintosh1012" type="intro">
+<div id="mackintosh1012" type="frontmatter">
+<front>
+<castList>
 <head>CHARACTERS IN THE PLAY</head>
 
 <castItem><role id="m1">CALUM,</role></castItem>
@@ -1367,10 +1369,11 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 
 <castItem><role id="m3">ALASTAIR, <hi rend="italic">a young stranger</hi>.</role>
 
-<castItem><role id="w">MAIRI, <hi rend="italic">daughter of Ian</hi>.</role></castItem>
+<castItem><role id="w">MAIRI, <hi rend="italic">daughter of Ian</hi>.</role></castItem></castItem>
 
 
-<p>DEDICATION</p>
+<div id="mackintosh1013" type="dedication">
+<head>DEDICATION</head>
 
 <lg type="stanza">
 <l>If in my song the heart of love</l>
@@ -1394,7 +1397,7 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 
 
 <pb n="THE REMEMBERED GODS  53"/>
-<div id="mackintosh1013" type="Act" n="1">
+<div id="mackintosh1014" type="Act" n="1">
 
 <head>THE REMEMBERED GODS</head>
 
@@ -1403,7 +1406,8 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <p>SCENE: <hi rend="italic">A glen in Morven in the West Highlands, with big stones</hi>scattered. Behind, a big ben. The stage is dark, but in the middle a tall tree shows blacker. Beneath it sits Angus in a wreath of mist.</p></stage>
 
 <sp who="g3">
-<speaker>Angus<stage> (<hi rend="italic">sings</hi>).</stage></speaker>
+<speaker>Angus</speaker>
+<stage> (<hi rend="italic">sings</hi>).</stage>
 <lg type="stanza">
 <l>Are the gods forgotten in Morven of the hinds,</l>
 <l>The beauty that slew men, the golden eyes that shone,</l>
@@ -1429,29 +1433,35 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 
 <stage type="entrance">CALUM <hi rend="italic">and</hi> IAN <hi rend="italic">come in</hi>.</stage>
 <sp who="m1">
-<l><speaker>CALUM.</speaker>   I thought I heard one of the men of peace.</l>
+<speaker>CALUM.</speaker>  <l> I thought I heard one of the men of peace.</l>
 <l>Singing alone within the narrow glen.</l></sp>
 
 <sp who="m2">
-<p><speaker>IAN.</speaker>   There is none in it.</p></sp>
+<speaker>IAN.</speaker>  <l> There is none in it.</l></sp>
 
 <sp who="m1">
-<l><speaker>CALUM.</speaker>                         Yet I thought I heard</l>
+<speaker>CALUM.</speaker>                   
+<lg type="stanza">
+<l>Yet I thought I heard</l>
 <l>A man of peace and he at sorrowing.</l>
 <l>God's pity on the people of the hills,</l>
 <l>For they have lost the changing love of men,</l>
-<l>And won their fear.</l></sp>
+<l>And won their fear.</l></lg></sp>
 
 <sp who="m2">
-<l><speaker>IAN.</speaker>                    My mother used to say</l>
+<speaker>IAN.</speaker>                   
+<lg type="stanza">
+<l> My mother used to say</l>
 <l>That when a man would walk the darkened hills,</l>
 <l>The men of peace would take his soul from him</l>
 <l>And use it for their pleasure.   As they did,</l>
 <l>My mother said, in the old misty times,</l>
-<l>Before the word of God came into Alba.</l></sp>
+<l>Before the word of God came into Alba.</l></lg></sp>
 
 <sp who="m1">
-<l><speaker>CALUM.</speaker>    Poor fallen gods, that were the lords of men,</l>
+<speaker>CALUM.</speaker>   
+<lg type="stanza">
+<l> Poor fallen gods, that were the lords of men,</l>
 <l>God's peace upon you.    Make your peace with Him.</l>
 <l>Lose your sad pride to win His ready grace,</l>
 <l>And stand upon the golden floor of Heaven</l>
@@ -1463,10 +1473,13 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <l>Than all the melodies of Paradise,</l>
 <l>And these sad songs of yours more beautiful</l>
 <l>Than any you could sing with happier lips.</l>
-<l>Perhaps our Lord's sweet face might make you dumb.</l></sp>
+<l>Perhaps our Lord's sweet face might make you dumb.</l></lg></sp>
 
-<sp who="m3"><stage>Alastair (<hi rend="italic">outside singing</hi>)</stage>.
-<lg type="stanza"><l>Summer is gone at last, and autumn leaves are falling,</l>
+<sp who="m3">
+<speaker>Alastair</speaker> 
+<stage>(<hi rend="italic">outside singing</hi>)</stage>.
+<lg type="stanza">
+<l>Summer is gone at last, and autumn leaves are falling,</l>
 <l>And through the naked trees the wind is breathing low.</l>
 <l>Let us arise and go, for the old gods are calling,</l>
 <l>The beautiful cruel gods we loved so long ago.</l></lg>
@@ -1493,11 +1506,13 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <l>The beautiful cruel gods that mock our miseries.</l></lg></sp>
 
 <sp who="m2">
-<l><speaker>IAN.</speaker>   What voice is this ?   The men of peace are out.</l>
+<speaker>IAN.</speaker>   
+<l>What voice is this ?   The men of peace are out.</l>
 <l>May God protect us !</l></sp>
 
 <sp who="m3">
-<lg type="stanza"><l><speaker>CALUM.</speaker>                  Ian make an end.</l>
+<speaker>CALUM.</speaker>
+<lg type="stanza"><l>Ian make an end.</l>
 <l>Though all the beaten fairies of the air</l>
 <l>Rise against heaven, we can cast them down,</l>
 <l>But it were better save them with a kiss.</l></lg>
@@ -1510,12 +1525,14 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <l>Or in the mazy fastness of the air,</l>
 <l>Draw near in peace.   For I have learned too well</l>
 <l>The lesson of Christ's love, to hate the sad</l>
-<l>Discrown&#x00E8;d gods that are His enemies.</l></lg>
+<l>Discrown&#x00E8;d gods that are His enemies.</l></lg></sp>
 
 <stage type="entrance">ALASTAIR <hi rend="italic">comes in</hi>.</stage>
 
 <sp who="m3">
-<lg type="stanza"><l><speaker>ALASTAIR.</speaker>   Christ's love ?   Then even here men pray to Christ,</l>
+<speaker>ALASTAIR.</speaker>
+<lg type="stanza">
+<l>Christ's love ?   Then even here men pray to Christ,</l>
 <l>The pitiful intruder ; even here</l>
 <l>In Western Morven of the windy rocks,</l>
 <l>Where once the old gods would be wandering</l>
@@ -1533,16 +1550,20 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <l>Anger and hate and pride and cruelty ?</l></lg></sp>
 
 <sp who="m2">
-<l><speaker>IAN.</speaker>   Blasphemer of the world, the Lord is King,</l>
+<speaker>IAN.</speaker>
+<l>Blasphemer of the world, the Lord is King,</l>
 <l>And has set all your gods below His feet.</l></sp>
 
 <sp who="m1">
-<l><speaker>CALUM.</speaker>   If Christ the loving God is naught to you,</l>
+<speaker>CALUM.</speaker>   
+<l>If Christ the loving God is naught to you,</l>
 <l>Anger and hate more dear to you than love,</l>
 <l>What god would you be praying to at all ?</l></sp>
 
 <sp who="m3">
-<l><speaker>Alastair.</speaker>   The bitter gods, the beautiful white gods,</l>
+<speaker>Alastair.</speaker>
+<lg type="stanza">
+<l>The bitter gods, the beautiful white gods,</l>
 <l>That will be walking on the darkened cliffs,</l>
 <l>Lior the haunter of the roaring tides.</l>
 <l>Whose emerald eyes the drowning sailors see</l>
@@ -1560,10 +1581,12 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <pb n="58  THE REMEMBERED GODS"/>
 
 <l>Save with his own white beauty. These are they</l>
-<l>That were your father's gods in the old days.</l></sp>
+<l>That were your father's gods in the old days.</l></lg></sp>
 
 <sp who="m1">
-<l><speaker>CALUM.</speaker>   The gods are fallen.    On the misty crags</l>
+<speaker>CALUM.</speaker>
+<lg type="stanza">
+<l> The gods are fallen.    On the misty crags</l>
 <l>They walk and sorrow for the olden times.</l>
 <l>And on the surf-beat rocks the whole night through</l>
 <l>Lior is moaning for his vanished loves,</l>
@@ -1580,10 +1603,11 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <l>Dream that the gods are mighty yet.    But we</l>
 <l>In Western Morven, by the winter fires,</l>
 <l>Hear all night long above the talk of men</l>
-<l>Our broken masters wailing on the hills.</l></sp>
+<l>Our broken masters wailing on the hills.</l></lg></sp>
 
 <sp who="m3">
-<l><speaker>ALASTAIR.</speaker>    The gods are living yet, and have their thrones</l>
+<speaker>ALASTAIR.</speaker> 
+<l>The gods are living yet, and have their thrones</l>
 <l>In the invisible desires of men.</l>
 <l>Below the quiet current of our lives</l>
 
@@ -1600,42 +1624,57 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <l>In the lone nights do they not burn you still ?</l></sp>
 
 <sp who="m2">
-<l><speaker>Ian</speaker><stage> (<hi rend="italic">dreamily</hi>).</stage>   I do remember clamorous desires,</l>
+<speaker>Ian</speaker>
+<stage> (<hi rend="italic">dreamily</hi>).</stage>  
+<lg type="stanza">
+<l> I do remember clamorous desires,</l>
 <l>And lusts awaking in the frozen night,</l>
 <l>White maidens dancing underneath the moon,</l>
-<l>And the long roll and tumble of the waves.</l></sp>
+<l>And the long roll and tumble of the waves.</l></lg></sp>
 <sp who="m1">
-<l><speaker>CALUM.</speaker>   Ian, remember greater things than these,</l>
+<speaker>CALUM.</speaker>  
+<lg type="stanza">
+<l>Ian, remember greater things than these,</l>
 <l>The little baby god new-born on earth,</l>
-<l>With soft lips sucking at his mother's breast.</l></sp>
+<l>With soft lips sucking at his mother's breast.</l></lg></sp>
 
 <sp who="m3">
-<l><speaker>ALASTAIR.</speaker>   The sword of night has severed the gentle chains that bound you,</l>
+<speaker>ALASTAIR.</speaker>
+<lg type="stanza">   
+<l>The sword of night has severed the gentle chains that bound you,</l>
 <l>The lovely gods of darkness rise in your heart anew.</l>
 <l>Beautiful gods and mighty, in dreams they stand around you,</l>
-<l>Kneel down in dreams and worship as once you used to do.</l></sp>
+<l>Kneel down in dreams and worship as once you used to do.</l></lg></sp>
 
 <sp who="m2">
-<l><speaker>IAN.</speaker>    White maidens dancing underneath the moon,</l>
+<speaker>IAN.</speaker>  
+<lg type="stanza">  
+<l>White maidens dancing underneath the moon,</l>
 <l>And the fierce glow of battle on the hills,</l>
-<l>And red, wet blood upon the slayer's hands.</l></sp>
+<l>And red, wet blood upon the slayer's hands.</l></lg></sp>
 
 
 <pb n="60  THE REMEMBERED GODS"/>
 
 <sp who="m1">
-<l><speaker>CALUM.</speaker>   Oh, Ian, wake and see the face of Christ.</l>
+<speaker>CALUM.</speaker>
+<lg type="stanza">   
+<l>Oh, Ian, wake and see the face of Christ.</l>
 <l>The worn sad face, the pitiful sweet eyes,</l>
-<l>And the feet torn and bloody from the stones.</l></sp>
+<l>And the feet torn and bloody from the stones.</l></lg></sp>
 
 <sp who="m3">
-<l><speaker>ALASTAIR.</speaker>    Dream on, dream on my brother, forget the manof sorrow.</l>
+<speaker>ALASTAIR.</speaker>
+<lg type="stanza">    
+<l>Dream on, dream on my brother, forget the man of sorrow.</l>
 <l>The way-worn feet and bloody, the eyes too dim with tears.</l>
 <l>Dream of the lords of beauty, for you shall see to-morrow</l>
-<l>The older day returning and the forgotten years.</l></sp>
+<l>The older day returning and the forgotten years.</l></lg></sp>
 
 <sp who="m2">
-<l><speaker>IAN.</speaker>   The slow tides calling, calling on the beach,</l>
+<speaker>IAN.</speaker>
+<lg type="stanza">   
+<l>The slow tides calling, calling on the beach,</l>
 <l>And all the little waves of night afire,</l>
 <l>And the cool emerald depths of Lior's eyes,</l>
 <l>That none may look upon and live again.</l>
@@ -1654,22 +1693,26 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 
 <pb n="THE REMEMBERED GODS  61"/>
 
-<l>And the cold smile upon the foeman's face.</l></sp>
+<l>And the cold smile upon the foeman's face.</l></lg></sp>
 
 <sp who="m1">
-<l><speaker>CALUM.</speaker>   Oh Ian, Ian, will you not remember</l>
+<speaker>CALUM.</speaker>
+<lg type="stanza">   
+<l>Oh Ian, Ian, will you not remember</l>
 <l>The poor feet that the nails were driven through,</l>
 <l>The pierc&#x00E8;d hands and the spear-riven side,</l>
-<l>And the heroic brow false-crowned with thorns ?</l></sp>
+<l>And the heroic brow false-crowned with thorns ?</l></lg></sp>
 
 <sp who="m2">
-<lg type="stanza"><l><speaker>Ian.</speaker>   The night is ending.   With the day will come</l>
+<speaker>IAN.</speaker>   
+<lg type="stanza">
+<l>The night is ending.   With the day will come</l>
 <l>The memory that dreamers may forget,</l>
 <l>But I will yet dream on a little while,</l>
 <l>Before day claims me for its own again,</l>
 <l>And the soft fetters close about my soul.</l></lg>
 
-<stage>[Looking round.</stage>
+<stage>[<hi rend="italic">Looking round</hi>.</stage>
 
 <lg type="stanza">
 <l>Am I awake, and you that bade me dream</l>
@@ -1678,7 +1721,7 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <l>And all save earth and the immortal isle,</l>
 <l>They used to tell of in the olden times ?</l></lg>
 
-<stage>[Sinks down.</stage>
+<stage>[<hi rend="italic">Sinks down</hi>.</stage>
 <lg type="stanza">
 <l>1 have been dreaming, as I dream alone</l>
 <l>In the dim nights ; but after them the day</l>
@@ -1686,335 +1729,362 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <l>I am afraid of this new dawn that brings</l>
 <l>No Christ, but memories of older things.</l></lg></sp>
 
-<stage>END of act I</stage>
+<stage>END OF ACT I</stage>
+</div>
+
+<pb n="62   THE REMEMBERED GODS"/>
 
 
-<pb n="THE REMEMBERED GODS"/>
-
-
-<div id="mackintosh1014" type="ACT" n="2">
+<div id="mackintosh1015" type="ACT" n="2">
 <head>ACT II</head>
 
-<stage><p>The scene is Ian's cottage. A wide fireplace with peats burning,and big chests along the walls. At a table sits Mairi Bain. Ian and Alastair come in.</p></stage>
+<stage><p><hi rend="italic">The scene is</hi> IAN's <hi rend="italic">cottage. A wide fireplace with peats burning,and big chests along the walls. At a table sits</hi> MAIRI BAIN. IAN <hi rend="italic">and</hi> ALASTAIR <hi rend="italic">come in.</hi></p></stage>
 
-<l>Ian.    Mairi put out more peats upon the fire.</l>
-<l>For we have strangers in the house to-night.</l>
+<sp who="m2">
+<speaker>IAN.</speaker>    
+<l>Mairi put out more peats upon the fire,</l>
+<l>For we have strangers in the house to-night.</l></sp>
 
-<l>Mairi.    The blessings of our Lord be with you, stranger.</l>
+<sp who="w">
+<speaker>MAIRI.</speaker>    
+<l>The blessings of our Lord be with you, stranger.</l></sp>
 
-<l>Alastair.    Blessings be with you, woman of the house.</l>
-<l>From older gods and greater lords than he.</l>
+<sp who="m3">
+<speaker>ALASTAIR.</speaker>    
+<l>Blessings be with you, woman of the house,</l>
+<l>From older gods and greater lords than he.</l></sp>
 
-<l>Mairi.    Stranger, that is no luck-word to the house.</l>
+<sp who="w">
+<speaker>MAIRI.</speaker>    
+<l>Stranger, that is no luck-word to the house.</l></sp>
 
-<l>Alastair.   Have you forgotten too, and do you bow.</l>
-<l>Pale lily of Morven, to the beaten god.</l>
+<sp who="m3">
+<speaker>ALASTAIR.</speaker> 
+<lg type="stanza">  
+<l>Have you forgotten too, and do you bow,</l>
+<l>Pale lily of Morven, to the beaten god,</l>
 <l>Who should be following the mist of love</l>
-<l>Over the hills beneath a summer moon ?</l>
+<l>Over the hills beneath a summer moon ?</l></lg></sp>
 
-<l>Ian.    Mairi the days of memory are on us,</l>
+<sp who="m2">
+<speaker>IAN.</speaker>
+<lg type="stanza">    
+<l>Mairi the days of memory are on us,</l>
 <l>For I have heard the coronach for Christ</l>
-<l>Wail up the corries of the windy hills.</l>
+<l>Wail up the corries of the windy hills,</l>
 <l>And high and clear above them Angus sang.</l>
 <l>But the apostles' souls fled crying, crying</l>
 <l>Over the hills across the bouqdless sea.</l>
-<l>I heard the noise of their lament grow faint.</l>
+<l>I heard the noise of their lament grow faint,</l>
 <l>As the waves stilled it; and on the hills of Morven,</l>
-<l>62</l>
 
 
-
-<pb n=""/>
-
-
+<pb n="THE REMEMBERED GODS  63"/>
 
 <l>Among the unseen secrets of the world,</l>
-<l>Christ that we knelt to once is lying dead.</l>
+<l>Christ that we knelt to once is lying dead.</l></lg></sp>
 
-<l>Mairi.    Father, have you forgotten God so soon ?</l>
+<sp who="w">
+<speaker>MAIRI.</speaker>    
+<l>Father, have you forgotten God so soon ?</l></sp>
 
-<l>Ian.   I have forgotten all things save the song</l>
-<l>Of Angus that I cannot follow now.</l>
-<l>And the fierce music of the lords of war.</l>
+<sp who="m2">
+<speaker>IAN.</speaker> 
+<lg type="stanza">  
+<l>I have forgotten all things save the song</l>
+<l>Of Angus that I cannot follow now,</l>
+<l>And the fierce music of the lords of war,</l>
 <l>When fighting heroes meet in the glad ring</l>
 <l>Of sword on sword and cries of wounded men.</l>
 
-<l>[Recalls himself.</l>
+<stage>[<hi rend="italic">Recalls himself.</hi></stage>
+
 <l>Mairi put meat and drink before the stranger.</l>
-<l>I "must be going with the sheep again.</l>
+<l>I must be going with the sheep again.</l></lg></sp>
 
-<l>[He goes out.   Mairi bursts into tears.</l>
+<stage>[<hi rend="italic">He goes out.</hi>   MAIRI <hi rend="italic">bursts into tears.</hi></stage>
 
-<l>Mairi.   My sorrow on the people of the hills.</l>
-<l>My sorrow on the heart that could forget.</l>
+<sp who="w">
+<speaker>MAIRI.</speaker>   
+<lg type="stanza">
+<l>My sorrow on the people of the hills,</l>
+<l>My sorrow on the heart that could forget,</l>
 <l>My sorrow on you, stranger, who have cast</l>
-<l>A misty spell before my father's eyes.</l>
-<l>So that the face of Christ grows dark to him.</l>
+<l>A misty spell before my father's eyes,</l>
+<l>So that the face of Christ grows dark to him.</l></lg></sp>
 
-<l>Alastair {kneels beside her).</l>
-<l>Oh beautifuLin sorrow still weeg^ on.</l>
+<sp who="m3">
+<speaker>Alastair</speaker>
+<stage>(<hi rend="italic">kneels beside her</hi>).</stage>
+<lg type="stanza">
+<l>Oh beautiful in sorrow still weep on,</l>
 <l>Shrouding your face within a veil of tears.</l>
 <l>Weep, for your grief will roll away the years</l>
 <l>That have drawn long forgetfulness between us.</l>
 
-<l>[She turns away.</l>
-<l>63</l>
+<stage>[<hi rend="italic">She turns away.</hi></stage>
 
 
-
-<pb n=""/>
-
-
+<pb n="64  THE GODS REMEMBERED"/>
 
 <l>Hear me, forgetting for a little while</l>
-<l>That I^m^he who woke the gods again.</l>
+<l>That I am he who woke the gods again.</l>
 <l>Think I am Alastair, who would awake</l>
-<l>The drowsy loveliness that sleeps too long.</l>
+<l>The drowsy loveliness that sleeps too long.</l></lg></sp>
 
-<l>Mairi (staring at him).</l>
-<l>You are too beautiful for me to hate.</l>
-<l>And yet too evil for my love.</l>
+<sp who="w">
+<speaker>MAIRI<stage>(<hi rend="italic">staring at him</hi>).</stage></speaker>
+<l>You are too beautiful for me to hate,</l>
+<l>And yet too evil for my love.</l></sp>
 
-<l>Alastair.                          Oh wait,</l>
-
+<sp who="m3">
+<speaker>Alastair.</speaker>  
+<lg type="stanza">                        
+<l>Oh wait,</l>
 <l>For in my heart remembrance is awake</l>
-<l>Of the old time when we went hand in hand.</l>
+<l>Of the old time when we went hand in hand,</l>
 <l>Following the harp a thousand years ago.</l>
-<l>And I will make a song of memory.</l>
-<l>That shall call love to your dim eyes again.</l>
+<l>And I will make a song of memory,</l>
+<l>That shall call love to your dim eyes again.</l></lg>
 
-<l>Song</l>
+<stage type="head">SONG</stage>
 
-<l>Long ago beneath the moon.</l>
+<lg type="song"  part="a">
+<l>Long ago beneath the moon,</l>
 <l>In a corrie of the hills</l>
 <l>We forgot our ancient ills</l>
 <l>Dancing to a wizard tune.</l>
 <l>We remembered song and spell</l>
 <l>Chanted in a Lochlainn rune.</l>
 <l>Flower of Morven, it was well</l>
-<l>Long ago beneath the moon.</l>
-<l>64</l>
+<l>Long ago beneath the moon.</l></lg>
 
+<pb n="THE REMEMBERED GODS  65"/>
 
-
-<pb n=""/>
-
-
-
-<l>Now the moon is full again.</l>
+<lg type="song" part="b">
+<l>Now the moon is full again,</l>
 <l>And the song of Angus cries</l>
 <l>Underneath the Summer skies</l>
 <l>Till the nights of Summer wane.</l>
-<l>Follow now while still you may.</l>
-<l>Ere his music calls in vain.</l>
-<l>Where the harps of Angus play.</l>
-<l>Now the moon is full again.</l>
+<l>Follow now while still you may,</l>
+<l>Ere his music calls in vain,</l>
+<l>Where the harps of Angus play,</l>
+<l>Now the moon is full again.</l></lg>
 
+<lg type="song" part="c">
 <l>Flower of Morven, long ago</l>
 <l>In the corrie where we met,</l>
-<l>Di^you think you could forget.</l>
+<l>Did you think you could forget,</l>
 <l>Did you dream you would not know</l>
-<l>Lips that sang the lovers' tune.</l>
+<l>Lips that sang the lovers' tune,</l>
 <l>And the heart that loved you so ?</l>
-<l>Did forgetfulness come soon.</l>
-<l>Flower of Morven long ago ?</l>
+<l>Did forgetfulness come soon,</l>
+<l>Flower of Morven long ago ?</l></lg>
 
-<l>Oh remember me once more.</l>
+<lg type="song" part="d">
+<l>Oh remember me once more,</l>
 <l>Now the mist is on the hills</l>
 <l>And the harp of Angus stills</l>
-<l>Moaning waves along the shore.</l>
-<l>For the songs I made for you.</l>
+<l>Moaning waves along the shore,</l>
+<l>For the songs I made for you,</l>
 <l>For the love that was before,</l>
 
-<l>E                                           65</l>
 
-
-
-<pb n=""/>
+<pb n="66  THE REMEMBERED GODS"/>
 
 
 
 <l>For the heart that still is true</l>
-<l>Oh remember me once more,</l>
+<l>Oh remember me once more.</l></lg></sp>
 
-<l>Mairi, I cannot tell if it be memory</l>
+<sp who="MAIRI">
+<speaker>MAIRI.</speaker>
+<lg type="stanza">
+<l> I cannot tell if it be memory</l>
 <l>That burns me so, or if the heart of love</l>
-<l>Looks out from eyes I never saw till now.</l>
+<l>Looks out from eyes I never saw till now.</l></lg></sp>
 
-<l>Alastair.   The memory of a thousand years is on us.</l>
-<l>The darkened years since our young souls, new-made.</l>
+<sp who="m3">
+<speaker>ALASTAIR.</speaker>   
+<lg type="stanza">
+<l>The memory of a thousand years is on us,</l>
+<l>The darkened years since our young souls, new-made,</l>
 <l>Looked out through other eyes on other lands.</l>
-<l>For you and I spoke with a hundred tongues.</l>
-<l>And saw a hundred lives passing us by.</l>
+<l>For you and I spoke with a hundred tongues,</l>
+<l>And saw a hundred lives passing us by,</l>
 <l>Before we came to Morven of the stags.</l>
 <l>They have fled by like the light winds that blow</l>
-<l>Swift shadows o'er a waveless loch.   But we.</l>
+<l>Swift shadows o'er a waveless loch.   But we,</l>
 <l>Like the loch water, bide the same for ever,</l>
-<l>Since first the gods fashioned our souls of mist.</l>
-<l>That at the end will take them back again,</l>
+<l>Since first the gods fashioned our souls of mist,</l>
+<l>That at the end will take them back again.</l></lg></sp>
 
-<l>Mairi,   The gods are dead, or if they hve I care not,</l>
-<l>roxi)ver my poor heart they have no power,</l>
-<l>Herg in the changing world we stand alone.</l>
-<l>Ourselves for ever,   I am Mairi Bain,</l>
+<sp who="w">
+<speaker>MAIRI.</speaker>   
+<lg type="stanza">
+<l>The gods are dead, or if they have I care not,</l>
+<l>For over my poor heart they have no power.</l>
+<l>Herg in the changing world we stand alone,</l>
+<l>Ourselves for ever.   I am Mairi Bain,</l>
 <l>And you are Alastair, my love.   Forget</l>
-<l>The gods that haunted you, for they were dreams.</l>
-<l>And I hold truth for you in these two hands,</l>
-<l>66</l>
+<l>The gods that haunted you, for they were dreams,</l>
+<l>And I hold truth for you in these two hands.</l></lg></sp>
 
 
+<pb n="THE REMEMBERED GODS  67"/>
 
-<pb n=""/>
-
-
-
-<l>Alastair (coming nearer).</l>
-<l>Oh draw me close and help me to forget.</l>
+<sp who="m3">
+<speaker>ALASTAIR</speaker>
+<stage>(<hi rend="italic">coming nearer</hi>).</stage>
+<lg type="stanza">
+<l>Oh draw me close and help me to forget,</l>
 <l>As though there were no gods in all the world.</l>
 <l>All the delight of living, all the beauty</l>
 <l>That lingers in the depths of mountain pools</l>
 <l>Is in your eyes, and on your dewy lips</l>
-<l>The joy of lying in the grass at morning.</l>
-<l>Before the sun is risen in the sky,</l>
+<l>The joy of lying in the grass at morning,</l>
+<l>Before the sun is risen in the sky.</l></lg></sp>
 
-<l>Mairi. I dreamed I saw you seven years ago.</l>
-<l>You brought me heather-honey and blue flowers.</l>
-<l>And wild raspberries picked in an upland glen,</l>
+<sp who="w">">
+<speaker>MAIRI.</speaker> 
+<lg type="stanza">
+<l>I dreamed I saw you seven years ago.</l>
+<l>You brought me heather-honey and blue flowers,</l>
+<l>And wild raspberries picked in an upland glen.</l></lg></sp>
 
-<l>Alastair,   I will bring you gold from the fairy houses.</l>
-<l>That are below the hills,   I will forget</l>
-<l>All, and grow old and happy, loving you.</l>
+<sp who="m3">
+<speaker>ALASTAIR.</speaker>  
+<lg type="stanza"> 
+<l>I will bring you gold from the fairy houses,</l>
+<l>That are below the hills.   I will forget</l>
+<l>All, and grow old and happy, loving you.</l></lg></sp>
 
-<l>Mairi (puts her arms round his neck).</l>
-<l>We will not care now for the flying shadows.</l>
-<l>For we have come into the heart of the world,</l>
+<sp who="w">
+<speaker>MAIRI</speaker>
+<stage> (<hi rend="italic">puts her arms round his neck</hi>).</stage>
+<lg type="stanza">
+<l>We will not care now for the flying shadows,</l>
+<l>For we have come into the heart of the world.</l></lg></sp>
 
-<l>[They kiss.   Outside a faint music is heard.   Alastair</l>
-<l>starts and turns round.</l>
+<stage><p>[<hi rend="italic">They kiss.   Outside a faint music is heard.   ALASTAIR starts and turns round</hi>.</p></stage>
 
-<l>Mairi,   What is it that you hear ?</l>
+<sp who="w">
+<speaker>MAIRI.</speaker>   
+<l>What is it that you hear ?</l></sp>
 
-<l>Alastair.                                   The song of Angus</l>
+<sp who="m3">
+<speaker>ALASTAIR.</speaker>                                   
+<l>The song of Angus</l>
+<l>Calling across the misty hills to me.</l></sp>
 
-<l>Calling across the misty hills to me,</l>
+<p>END OF ACT II</p>
 
-<l>END of act II</l>
-
-<l>67</l>
-
-
-
-<pb n=""/>
+</div>
 
 
+<pb n="68 THE REMEMBERED GODS"/>
+<div id="macintosh1016" type="Act" n="3">
+<head>ACT III</head>
 
-<l>ACT III</l>
+<stage type="setting"><p><hi rend="italic">A grassy place in the clachan. In the middle an altar with peat and some sacrifice burning. Around it the people are standing.    They sing.</hi></p></stage>
 
-<l>A grassy place in the clachan. In the middle an altar with pei</l>
-<l>and some sacrifice burning. Around it the people t</l>
-<l>standing.    They sing.</l>
-
-<l>Song</l>
-
-<l>Cry for the gods returning.</l>
-<l>Cry for the saints that go.</l>
-<l>Cry for the altars burning.</l>
+<lg head="song">Song</lg>
+<lg type="song" part="a">
+<l>Cry for the gods returning,</l>
+<l>Cry for the saints that go,</l>
+<l>Cry for the altars burning,</l>
 <l>And the beacon lights burnt low.</l>
 <l>Now in the hills above us</l>
-<l>The masters of joy and pain.</l>
+<l>The masters of joy and pain,</l>
 <l>Our loves that will not love us,</l>
-<l>The gods are come again.</l>
+<l>The gods are come again.</l></lg>
 
-<l>Cry for the day of slaughter.</l>
-<l>Cry for the happy dead.</l>
+<lg type="song" part="b">
+<l>Cry for the day of slaughter,</l>
+<l>Cry for the happy dead,</l>
 <l>The dooms of men and the water</l>
 <l>Over the drowning head.</l>
-<l>Cry for the lightnings gleaming.</l>
-<l>And the thunder answering.</l>
-<l>The things that we longed for dreaming.</l>
-<l>And the songs we could not sing.</l>
-<l>68</l>
+<l>Cry for the lightnings gleaming,</l>
+<l>And the thunder answering,</l>
+<l>The things that we longed for dreaming,</l>
+<l>And the songs we could not sing.</l></lg>
 
-
-
-<pb n=""/>
-
-
-
-<l>Cry for the wandering singer.</l>
-
-<l>And for his magic tune.</l>
-
+<pb n="THE REMEMBERED GODS  69"/>
+<lg type="song" part="c">
+<l>Cry for the wandering singer,</l>
+<l>And for his magic tune,</l>
 <l>And dances that weave and linger</l>
-
 <l>Under a summer moon.</l>
-
-<l>Cry for the fight and tourney.</l>
-
-<l>The harp the mother of tears.</l>
-
+<l>Cry for the fight and tourney,</l>
+<l>The harp the mother of tears,</l>
 <l>And the world that with backward journey</l>
+<l>Moves down the older years.</l></lg>
 
-<l>Moves down the older years.</l>
+<speaker>1ST MAN.</speaker>
+<lg type="stanza">   
+<l>We had our fill of slaying and wild joy</l>
+<l>When Balor gave us victory in Appin.</l></lg>
 
-<l>1ST Man.   We had our fill of slaying and wild joy</l>
-<l>When Balor gave us victory in Appin.</l>
+<speaker> 2ND MAN.</speaker>   
+<lg type="stanza">
+<l>Uisdean was fighting like a great hero</l>
+<l>Of those that were the guard of Fionnagal.</l></lg>
 
-<l>" 2ND Man,   Uisdean was fighting like a great hero</l>
-<l>Of those that were the guard of Fionnagal.</l>
+<speaker>3RD MAN.</speaker>   
+<lg type="stanza">
+<l>Uisdean is lying cold upon the hills</l>
+<l>And in the houses they are wailing him,</l>
+<l>And the wife dumb with sorrow.</l></lg>
 
-<l>3RD Man.   Uisdean is lying cold upon the hills</l>
-<l>And in the houses they are wailing him.</l>
-<l>And the wife dumb with sorrow.</l>
+<speaker>1ST MAN.</speaker>
+<lg type="stanza">                              
+<l>It was fine</l>
+<l>Ta hear the way the Appin men were crying,</l>
+<l>And though Bean-Uisdean will be sorrowing,</l>
+<l>The gods love slaying and the clash of swords.</l></lg>
 
-<l>1ST Man.                              It was fine</l>
+<stage type="entrance">ALASTAIR <hi rend="italic">comes in</hi>.</stage>
+<sp who="m3">
+<speaker>ALASTAIR.</speaker>  
+<lg type="stanza">
+<l>Oh praise the gods that have renewed the world,</l>
+<l>Until our old desires are young again.</l>
 
-<l>Ta hear the way the Appin men were crying.</l>
-<l>And though Bean-Uisdean will be sorrowing.</l>
-<l>The gods love slaying and the clash of swords.</l>
-
-<l>Alastair comes in.</l>
-<l>Alastair,   Oh praise the gods that have renewed the world.</l>
-<l>Until our old desires are young again,</l>
-
-<l>69</l>
-
-
-
-<pb n=""/>
-
-
+<pb n="70  THE REMEMBERED GODS"/>
 
 <l>The sun is growing weary, and draws on</l>
-<l>The fairy-haunted stillness of the night.</l>
+<l>The fairy-haunted stillness of the night,</l>
 <l>That is the end of all my wandering.</l>
 <l>For you have heard the voices that were crying</l>
-<l>Through the long years of your forgetfulness.</l>
-<l>And known the end of prisoning.</l>
+<l>Through the long years of your forgetfulness,</l>
+<l>And known the end of prisoning.</l></lg>
 
-<l>But I</l>
-<l>Bijd you farewell, for the last chain of all</l>
-<l>Must be destroyed, and the last honour paid,</l>
+<lg type="stanza">
+<l rend="inline">But I</l>
+<l>Bid you farewell, for the last chain of all</l>
+<l>Must be destroyed, and the last honour paid.</l>
 
-<l>Mairi and Calum come in.</l>
+<stage type="entrance">>MAIRI <hi rend="italic">and</hi> CALUM <hi rend="italic">come in</hi>.</stage>
 
-<l>The gods are calling for the sacrifice.</l>
-<l>And on the hills the fairy harps are playing.</l>
+<l>The gods are calling for the sacrifice,</l>
+<l>And on the hills the fairy harps are playing,</l>
 <l>That I must follow at the end of all.</l>
 <l>Here at the altar of the king of love</l>
 <l>I give myself the first-fruits of his fires</l>
-<l>To die to-night upon the sacred tree.</l>
+<l>To die to-night upon the sacred tree.</l></lg></sp>
 
-<l>1ST Man,   We will fulfil the sacrifice hereafter.</l>
-<l>And tread behind you in the way of death.</l>
+<speaker>1ST MAN.</speaker>   
+<lg type="stanza">
+<l>We will fulfil the sacrifice hereafter.</l>
+<l>And tread behind you in the way of death.</l></lg>
 
-<l>2ND Man,   The servant of the gods will go his way.</l>
+<speaker>2ND MAN.</speaker>
+<lg type="stanza">   
+<l>The servant of the gods will go his way,</l>
 <l>That ends beyond the sight of human eyes</l>
-<l>In the immortal island of the west,</l>
+<l>In the immortal island of the west.</l></lg>
 
-<l>[They go out in reverent silence, leaving on the stage only</l>
-<l>70</l>
-
+<stage type="exit">[<hi rend="italic">They go out in reverent silence, leaving on the stage only</hi>
 
 
 <pb n=""/>

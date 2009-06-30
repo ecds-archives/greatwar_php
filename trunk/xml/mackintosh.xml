@@ -1,380 +1,268 @@
-<idno type="ocm">ocm02079455</idno>
-<pb n=""/>
+<TEI.2>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Great Poems of the World War: Electronic Edition</title>
+            <editor><name reg="Eaton, W. D.">W. D. Eaton</name></editor>
+         </titleStmt>
+	 <publicationStmt>
+	   <publisher>Lewis H. Beck Center for Electronic Collections
+	   and Services, Emory University</publisher>
+	   <pubPlace>Atlanta, GA</pubPlace>
+	   <address>
+	     <addrLine>540 Asbury Circle</addrLine>
+	     <addrLine>Woodruff Library</addrLine>
+	     <addrLine>Atlanta, GA 30322</addrLine>
+	   </address>
+	   <availability><p>&#x00A9;Emory University. Permission is
+	   granted to download, transmit, or otherwise reproduce,
+	   distribute or display the contributions to the work claimed
+	   by Emory University for non-profit educational purposes,
+	   provided this header is included in its entirety.  For
+	   inquiries about commercial uses, contact either: Institute
+	   for Jewish Studies, Emory University, Atlanta GA 30322 or
+	   the Lewis H. Beck Center for Electronic Collections and
+	   Services, Woodruff Library, Emory University, Atlanta,
+	   Georgia 30322 </p></availability> 
+	   <date>2004</date>
+	 </publicationStmt>
+	 <seriesStmt>
+	   <title>The Great War</title>
+	 </seriesStmt>
+	 <notesStmt><note/></notesStmt>
+         <sourceDesc><!-- put the actual publication data for the book
+	   in this section --> 
+            <bibl>
+	     <title>Great Poems of the World War</title>
+	     <editor>W. D. Eaton</editor>
+	     <pubPlace>Chicago</pubPlace>
+	     <publisher>T.S. Denison &#x0026; Company</publisher>
+	     <date>1922</date>
+	   </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+	<projectDesc><p>Poetry contemporary to World War I (the Great
+	War) has been digitized by OCR or rekeying. The work has been
+	done in conjunction with Dr. Harry Rusche of the English
+	Department, Emory University</p></projectDesc>
+	<tagsDecl>
+	  <rendition id="quote">Paragraphs including q or quote
+	  elements indicate material that is in a block
+	  quote.</rendition>
+	  <rendition id="title">Where the title of a work is
+	  italicized, it is marked with a title element, both in the
+	  text and in footnotes.</rendition>
+	  <tagUsage gi="q" render="quote">blockquote</tagUsage>
+	  <tagUsage gi="quote" render="quote">blockquote</tagUsage>
+	  <tagUsage gi="title" render="title">italic</tagUsage>
+	</tagsDecl>
+	<refsDecl><p>The page numbers of the volumes are indicated by
+	page break elements</p>
+	<p/>
+	</refsDecl>
+	<classDecl>
+	  <taxonomy id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
+	  </taxonomy>
+	</classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+	   <rs type="collection">poetry</rs>
+	   <rs type="language">English</rs>
+            <rs type="ethnicity">Caucasian</rs>
+            <rs type="form">Unedited</rs>
+            <rs type="genre">Poetry</rs>
+            <rs type="geography">Great Britain</rs>
+            <date>1900-1999</date>
+         </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>World War, 1914-1918--Poetry.</item>
+	       <item>English poetry--20th Century.</item>
+	       <item>War.</item>
+	     </list>
+	   </keywords>
+	 </textClass></profileDesc>
+      <revisionDesc><!-- add your information here -->
+	<change>
+	  <date>2009</date>
+	  <respStmt>
+	    <name>Shruthi Vissa, encoder</name>
+	    <resp>Beck Center staff</resp>
+	  </respStmt>
+	    <item>encoded according to TEI encoding guidelines</item>
+	</change>
+	<change>
+	  <date>2009</date>
+	  <respStmt>
+	    <name>Alice Hickcox</name>
+	    <resp>Beck Center Staff</resp>
+	  </respStmt>
+	  <item>Header added. Encoding corrected.</item>
+	</change>
+      </revisionDesc>
+   </teiHeader>
+<text>
+<front>
+<titlePage id="mackintosh2000" type="half">
+     <docTitle>
+       <titlePart type="main">WAR, THE LIBERATOR
+       </titlePart>
+     </docTitle>
+   </titlePage>
+<pb n="[i]"/>
+<pb n="[ii]"/>
+<div id="2001" type="photograph">
+<figure entity="mackintoshfm1" rend="inline">
+<p>A photograph of the author included in front matter of Mackintosh's War the Liberator</p>
+</figure>
+</div>
+<pb n="[iii]"/>
+<titlePage id="mackintosh2002" type="main">
+     <docTitle>
+       <titlePart type="main">WAR, THE LIBERATOR<lb/>AND OTHER PIECES BY<lb/><byline>E.A.MACKINTOSH, M.C.<lb/> LT. SEAFORTH HIGHLANDERS (51st Division)</byline><lb/>WITH A MEMOIR
+       </titlePart>
+     </docTitle>
+<docImprint>
+	 <pubPlace>LONDON:
+	 <publisher>JOHN LANE, THE BODLEY HEAD</publisher></pubPlace>
+<pubPlace> NEW YORK:<publisher> JOHN LANE COMPANY <docDate>MCMXVIII</docDate></publisher></pubPlace>
+       </docImprint>
+   </titlePage>
+<pb n="[iv]"/>
 
-<pb n=""/>
+<div id="2003" type="colophon">
+<p> <hi rend="italic">Printed in Great Britain</hi></p>
+<p><hi rend="italic">by Turnbull &#x0026; Spears, Edinburgh</hi></p>
+</div>
 
+<pb n="[1]"/>
 
+<div id="2004" type="dedication">
+<head>TO SYLVIA</head>
 
-<l>WAR, THE LIBERATOR</l>
-
-
-
-<pb n=""/>
-
-<pb n=""/>
-
-<pb n=""/>
-
-
-
-
-
-<l>r.'SsV'";;-^^""''^*</l>
-
-
-
-
-
-<l>f.     dU^t.^     fu^a..cJe^^o9</l>
-
-
-
-<pb n=""/>
-
-
-
-<l>WAR, THE LIBERATOR</l>
-
-<l>AND    OTHER   PIECES    BY</l>
-
-<l>E. A. MACKINTOSH, M.C.</l>
-
-<l>Lt. SEAFORTH HIGHLANDERS (51ST Division)</l>
-
-<l>WITH A  MEMOIR</l>
-
-
-
-
-
-<l>LONDON:   JOHN  LANE,  THE   BODLEY  HEAD</l>
-<l>NEW YORK: JOHN LANE COMPANY MCMXVIII</l>
-
-
-
-<pb n=""/>
-
-
-
-<l>Pnnied tn Great Britain</l>
-<l>iy Turnbull &lt;5r&gt; Shears, Edinburgh</l>
-
-
-
-<pb n=""/>
-
-
-<l>TO SYLVIA</l>
-
+<lg type="stanza">
 <l>Two months ago the skies were blue,</l>
 <l>The fields were fresh and green,</l>
 <l>And green the willow tree stood up,</l>
-<l>With the lazy stream between.</l>
+<l>With the lazy stream between.</l></lg>
 
+<lg type="stanza">
 <l>Two months ago we sat and watched</l>
-<l>The river drifting by—</l>
-<l>And now—you're back at your work again</l>
-<l>And here in a ditch I lie.</l>
+<l>The river drifting by--</l>
+<l>And now--you're back at your work again</l>
+<l>And here in a ditch I lie.</l></lg>
 
-<l>God knows—my dear—I did not want</l>
+<lg type="stanza">
+<l>God knows--my dear--I did not want</l>
 <l>To rise and leave you so,</l>
 <l>But the dead men's hands were beckoning</l>
-<l>And I knew that I must go.</l>
+<l>And I knew that I must go.</l></lg>
 
+<lg type="stanza">
 <l>The dead men's eyes were watching, lass,</l>
-<l>Their lips were asking too.</l>
-<l>We faced it out and payed the price—</l>
-<l>Are we betrayed by you ?</l>
+<l>Their lips were asking too,</l>
+<l>We faced it out and payed the price--</l>
+<l>Are we betrayed by you ?</l></lg>
 
+<lg type="stanza">
 <l>The days are long between, dear lass,</l>
-<l>Before we meet again.</l>
+<l>Before we meet again,</l>
 <l>Long days of mud and work for me,</l>
-<l>For you long care and pain.</l>
+<l>For you long care and pain.</l></lg>
 
-<l>But you'll forgive me yet, my dear.</l>
+<lg type="stanza">
+<l>But you'll forgive me yet, my dear,</l>
 <l>Because of what you know,</l>
 <l>I can look my dead friends in the face</l>
-<l>As I couldn't two months ago.</l>
+<l>As I couldn't two months ago.</l></lg>
 
+<dateline><date value="1917-10-20"><hi rend="italic">October 20th</hi>, 1917</date></dateline>
 
+</div>
 
+<pb n="[2]"/>
 
+<pb n="[3]"/>
 
-<l>October 20th, 1917</l>
+<div id="2005" type="memoir">
 
+<head type="main">MEMOIR</head>
 
+<head type="sub">EWART  ALAN   MACKINTOSH</head>
 
-<pb n=""/>
+<p>THE only surviving son of the late Alexander Mackintosh, formerly of Teaninich House, Alness, Ross-shire, Alan Mackintosh was born on 4th March 1893 at Brighton. He was the grandson of Dr Guinness Rogers. He received his early education at Brighton College, from which he won a scholarship at St Paul's, going straight into the Middle VIIIth. He was already a writer of verses, and for a period he edited the <hi rend="italic">Pauline</hi>. Two years later, in October 1912, he came to Christ Church as a Classical Scholar. At Christmas 1914 he joined the 5th Seaforths as a subaltern, and after training at Golspie he crossed to France with his battalion in July 1915, and bore his share of fighting. In May 1916 he carried out a successful raid, which was described in the Press at the time, and which brought him the Military Cross. He returned to England in August 1916, having been wounded and gassed at High Wood.For eight months he taught bombing to the corps of cadets
 
-<pb n=""/>
 
+<pb n="4   MEMOIR"/>
 
+at Cambridge ; and while at Cambridge he became engaged to Sylvia Marsh, daughter of a Quaker family, with whose traditions and ideals he had much in common. They planned to make their home in New Zealand. In October last he returned to France, joining the 4th Battalion of the Seaforths, and on 21st November, in the fighting about Cambrai, he fell,shot through the head.</p>
 
-<l>MEMOIR</l>
+<p>Alan Mackintosh looked the Gael he was, loose-limbed,muscular, tall and dark. He carried a fine head well. His roving eye, merry, tender, cautious, penetrating, bold by rapid turns, epitomised the richness of his nature and his still rarer force of self-expression.</p>
 
-<l>EWART  ALAN   MACKINTOSH</l>
+<p>He spent two happy years at Oxford. For study, and especially the routine study of the schools, he cared little. Native power and a felicitous exuberance in literary things gained him his place in honour classical moderations. He played with Socialism, to the point of having scruples about the possession of wealth. He read poetry enthusiastically, and notably French poetry, in which his <hi rend="italic">r&#x00E9;pertoire</hi> was very large. Both in term and out of term he cultivated, above all, the sentiments and the arts of the Highlands. He learned to play the pipes and to speak Gaelic, things which later endeared him to his regiment. His friendships were many and ardent. Of
 
-<l>THE only surviving son of the late Alexander Mackintosh,</l>
-<l>formerly of Teaninich House, Alness, Ross-shire, Alan</l>
-<l>Mackintosh was born on 4th March 1893 at Brighton. He was</l>
-<l>the grandson of Dr Guinness Rogers. He received his early</l>
-<l>education at Brighton College, from which he won a scholar¬</l>
-<l>ship at St Paul's, going straight into the Middle Vlllth. He</l>
-<l>was already a writer of verses, and for a period he edited the</l>
-<l>Pauline. Two years later, in October 1912, he came to Christ</l>
-<l>Church as a Classical Scholar. At Christmas 1914 he joined</l>
-<l>the 5th Seaforths as a subaltern, and after training at Golspie</l>
-<l>he crossed to France with his battalion in July 1915, and bore</l>
-<l>his share of fighting. In May 1916 he carried out a successful</l>
-<l>raid, which was described in the Press at the time, and which</l>
-<l>brought him the Military Cross. He returned to England in</l>
-<l>August 1916, having been wounded and gassed at High Wood.</l>
-<l>For eight months he taught bombing to the corps of cadets</l>
 
-<l>3</l>
+<pb n="MEMOIR  5"/>
 
+his bosom friends, Andrew Fraser of Christ Church was reported wounded and missing in the same Cambrai fighting,E. J. Solomon of Exeter College, who is commemorated in " Gold Braid," was killed in August 1917, while Ian M'Kenzie of Balliol has fallen in the present battle.</p>
 
+<p>In the army the Gael in him, artist and man, ripened quickly. With growing strength and health he grew in the control and the use of his own powers and in influence over other men. He cherished political ambitions, whether to be fulfilled in the Colony or in England he scarcely knew. As a soldier he united brilliant courage with gentleness, and humour with resolution.His vivid and affectionate nature remained undulled through the years of warfare.</p>
 
-<pb n=""/>
+<p>The present volume contains a number of pieces, some early and some late, which the author, had he lived, might have omitted. His many friends, and those who will know him only through his two books, will alike feel that from a last volume as little as need be should be excluded. It is difficult for one who knew him very intimately to estimate his work, for in each poem the author's personality speaks with engaging and engrossing clearness. There is much in this volume andin " A Highland Regiment" (1917) that is already peculiarly complete and rounded in idea and also finished in form.   There
 
 
+<pb n="6  MEMOIR"/>
 
-<l>at Cambridge ; and while at Cambridge he became engaged</l>
-<l>to Sylvia Marsh, daughter of a Quaker family, with whose</l>
-<l>traditions and ideals he had much in common. They planned</l>
-<l>to make their home in New Zealand. In October last he</l>
-<l>returned to France, joining the 4th Battalion of the Seaforths,</l>
-<l>and on 21st November, in the fighting about Cambrai, he fell,</l>
-<l>shot through the head.</l>
+is much, too, of great promise. " The Remembered Gods," which was written at Oxford, shows his poetic power with the great spaces, the long-ranging time, the brooding significance which are as a home to the highland imagination. In this direction, perhaps, his work might have developed notably. The shorter pieces exhibit remarkable concentration of mood and mastery of technique. The keynote varies : here the lightest play of fancy, there the broadly comic, again a haunting pain, sentiment, reverie, grimness, and unforced irony, but everywhere melody and sure movement and a delicate rightness. The   war  pieces,   unlike   many   that  have   been written since 1914, evade the circumstance and horror of war.There is strangely little, indeed, about the war in any of them,but much about the minds and hearts of those who wage it. There shines through them a very triumph over war. This much loved gallant poet is of those whose living martyrdom rises whole-souled above the storm of violence and is humanity's true victory.   And not that martyrdom only.</p>
 
-<l>Alan Mackintosh looked the Gael he was, loose - limbed,</l>
-<l>muscular, tall and dark. He carried a fine head well. His</l>
-<l>roving eye, merry, tender, cautious, penetrating, bold by rapid</l>
-<l>turns, epitomised the richness of his nature and his still rarer</l>
-<l>force of self-expression.</l>
+<signed>JOHN MURRAY</signed>
+<dateline><name type="place">CHRIST CHURCH, OXFORD</name><date value="1918-04">
+<hi rend="italic">April</hi> 1918</date></dateline>
 
-<l>He spent two happy years at Oxford. For study, and</l>
-<l>especially the routine study of the schools, he cared little.</l>
-<l>Native power and a felicitous exuberance in literary things</l>
-<l>gained him his place in honour classical moderations. He</l>
-<l>played with Socialism, to the point of having scruples about</l>
-<l>the possession of wealth. He read poetry enthusiastically, and</l>
-<l>notably French poetry, in which his rSpertoire was very large.</l>
-<l>Both in term and out of term he cultivated, above all, the</l>
-<l>sentiments and the arts of the Highlands. He learned to play</l>
-<l>the pipes and to speak Gaelic, things which later endeared him</l>
-<l>to his regiment. His friendships were many and ardent. Of</l>
-<l>4</l>
+</div>
 
+<pb n="7"/>
 
+<div id="2006" type="table of contents">
+<figure type="mackintoshfm2" rend="inline">
+<figDesc> Table of contents included in front matter of Mackintosh's "War the Liberator"</figDesc>
+</figure>
 
-<pb n=""/>
+<pb n="8"/>
 
+<figure type="mackintoshfm3" rend="inline">
+<figDesc> Table of contents included in front matter of Mackintosh's "War the Liberator"</figDesc>
+</figure>
 
+<pb n="9"/>
 
-<l>his bosom friends, Andrew Fraser of Christ Church was re¬</l>
-<l>ported wounded and missing in the same Cambrai fighting,</l>
-<l>E. J. Solomon of Exeter College, who is commemorated in</l>
-<l>" Gold Braid," was killed in August 1917, while Ian M'Kenzie</l>
-<l>of Balliol has fallen in the present battle.</l>
+<figure type="mackintoshfm4" rend="inline">
+<figDesc> Table of contents included in front matter of Mackintosh's "War the Liberator"</figDesc>
+</figure>
 
-<l>In the army the Gael in him, artist and man, ripened quickly.</l>
-<l>With growing strength and health he grew in the control and</l>
-<l>the use of his own powers and in influence over other men.</l>
-<l>He cherished political ambitions, whether to be fulfilled in the</l>
-<l>Colony or in England he scarcely knew. As a soldier he united</l>
-<l>brilliant courage with gentleness, and humour with resolution.</l>
-<l>His vivid and affectionate nature remained unduUed through</l>
-<l>the years of warfare.</l>
+<group>
+<text>
+<front>
 
-<l>The present volume contains a number of pieces, some early</l>
-<l>and some late, which the author, had he lived, might have</l>
-<l>omitted. His many friends, and those who will know him</l>
-<l>only through his two books, will alike feel that from a last</l>
-<l>volume as little as need be should be excluded. It is difficult</l>
-<l>for one who knew him very intimately to estimate his work,</l>
-<l>for in each poem the author's personality speaks with engaging</l>
-<l>and engrossing clearness. There is much in this volume and</l>
-<l>in " A Highland Regiment" (1917) that is already peculiarly</l>
-<l>complete and rounded in idea and also finished in form.   There</l>
+<pb n="[11]"/>
 
-<l>5</l>
+<titlePage id="mackintosh2007" type="half">
+     <docTitle>
+       <titlePart type="main">I<lb/>WAR, THE LIBERATOR
+       </titlePart>
+     </docTitle>
+   </titlePage>
 
-
-
-<pb n=""/>
-
-
-
-<l>is much, too, of great promise. " The Remembered Gods,"</l>
-<l>which was written at Oxford, shows his poetic power with the</l>
-<l>great spaces, the long-ranging time, the brooding significance</l>
-<l>which are as a home to the highland imagination. In this</l>
-<l>direction, perhaps, his work might have developed notably.</l>
-<l>The shorter pieces exhibit remarkable concentration of mood</l>
-<l>and mastery of technique. The keynote varies : here the</l>
-<l>lightest play of fancy, there the broadly comic, again a haunt¬</l>
-<l>ing pain, sentiment, reverie, grimness, and unforced irony,</l>
-<l>but everywhere melody and sure movement and a delicate</l>
-
-<l>rightness.__The   war  pieces,   unlike   many   that  have   been</l>
-
-<l>written since i9i4,ctvade the circumstance and horror of war.</l>
-<l>There is strangely little, indeed, about the war in any of them,</l>
-<l>but much about the minds and hearts of those who wage it.</l>
-<l>There shines through them a very triumph over war. This</l>
-<l>much loved gallant poet is of those whose living martyrdom</l>
-<l>rises whole-souled above the storm of violence and is humanity's</l>
-<l>true victory.   And not that martyrdom only.</l>
-
-<l>JOHN MURRAY</l>
-<l>Christ Church, Oxford</l>
-<l>April 1918</l>
-
-
-
-<pb n=""/>
-
-
-
-<l>CONTENTS</l>
-
-
-
-
-
-<l>PAGE</l>
-
-<l>MEMOIR                                                                                                3</l>
-
-<l>I</l>
-
-<l>WAR, THE LIBERATOR</l>
-<l>WAR, THE LIBERATOR                                                                   13</l>
-<l>RECRUITING                                                                                       15</l>
-<l>THE GERMAN AND THE GAEL                                                    18</l>
-<l>BEAUMONT-HAMEL                                                                         zo</l>
-<l>FAREWELL. TO SERGEANT H. FRASER AND LANCE-</l>
-<l>SERGEANT G. M'KAY                                                            23</l>
-
-<l>THREE BATTLES----TO THE FIFTY-FIRST DIVISION</l>
-
-<l>HIGH WOOD                                                                            25</l>
-
-<l>BEAUMONT-HAMEL                                                               26</l>
-
-<l>VICTORY AND FAILURE                                                      28</l>
-
-<l>FROM HOME.    NOVEMBER 13. I9'6                                           29</l>
-
-<l>FROM HOME.    CAMBRIDGE                                                         3'</l>
-
-<l>THE DEAD MEN                                                                                33</l>
-
-<l>7</l>
-
-
-
-<pb n=""/>
-
-
-
-<l>THE SHIP OF THE SOUL                                                                35</l>
-
-<l>GHOSTS OF WAR                                                                               38</l>
-
-<l>MINES                                                                                                   40</l>
-
-<l>DEATH                                                                                                  42</l>
-
-<l>II</l>
-
-<l>OTHER POEMS AND THE REMEMBERED GODS</l>
-
-<l>TO THE UNKNOWN LOVE                                                            4S</l>
-
-<l>§X)NNET TO THE UNKNOWN LOVE                                          47</l>
-
-<l>SONG                                                                                                     48</l>
-
-<l>THE GHOST OF YOUTH                                                                  5°</l>
-
-<l>THE REMEMBERED GODS                                                              S*</l>
-
-<l>III</l>
-
-<l>PARODIES AND SONGS</l>
-
-<l>Written  for  the  5th  Seaforth  Highlanders and</l>
-<l>FOR   No.   2  Officer   Cadet   Battalion,   Cambridge</l>
-
-<l>THE BALEFUL BARD                                                                       85</l>
-
-<l>THE SMOKE HELMET                                                                      88</l>
-
-<l>THE CHARGE OF THE LIGHT BRIGADE                                   9°</l>
-
-<l>TO BASIL, A BAVARIAN BOMBER                                               93</l>
-<l>8</l>
-
-
-
-<pb n=""/>
-
-
-
-<l>PAGB</l>
-
-<l>WHERE THE TRENCHES RUN DOWN FROM THE</l>
-
-<l>SOMME TO THE SEA                                                             96</l>
-
-<l>.THE WHOLE DUTY OF A COMPANY OFFICER                      98</l>
-
-<l>HIGH WOOD TO WATERLOT FARM                                         &gt;oi</l>
-
-<l>THE GERMAN IN HIS BLINDNESS                                             loi</l>
-
-<l>ODE TO A FRENCH REGIMENT                                                  104</l>
-
-<l>MY OLD GRENADE                                                                         106</l>
-
-<l>A BOMBER'S LIFE                                                                            109</l>
-
-<l>COMPLAINT OF OUR PRIVATE SOLDIERS                              &gt;Ji</l>
-
-<l>FOUR AND TWENTY BOMBERS                                                  112</l>
-
-<l>SNIPER SANDY                                                                                 "4</l>
-
-<l>A SONG IN  PRAISE OF THE ARMY SERVICE CORPS         116</l>
-
-<l>IV</l>
-<l>THREE STUDIES IN WAR PSYCHOLOGY</l>
-
-<l>A RAID                                                                                                121</l>
-
-<l>IN THE WOOD                                                                                 143</l>
-
-<l>GOLD BRAID (UNFINISHED)                                                       153</l>
-
-
-
-<pb n=""/>
-
-<pb n=""/>
-
-
-<div id="mackintosh2000" type="part" n="1">
-<l>I</l>
-<l>WAR, THE LIBERATOR</l>
-
-
-
-<pb n=""/>
-
-<pb n=""/>
-
+<pb n="[12]"/>
+</front>
+<body>
+<div id="mackintosh2008" type="part" n="1">
 <div id="mackintosh001" type="poem" n="1">
 <head>WAR, THE LIBERATOR<lb/>
 (TO THE AUTHORESS OF "NON-COMBATANTS")</head>
@@ -394,9 +282,6 @@
 <l>A small grey world imprisoning the wings of their desire ?</l>
 <l>Happier than they could tell who knew not life would keep for them</l>
 <l>Fragments of the high Romance, the old Heroic fire.</l>
-
-<l>13</l>
-
 
 
 <pb n="14 WAR THE LIBERATOR"/>
@@ -429,11 +314,6 @@
 
 
 
-
-<l>14</l>
-
-
-
 <pb n="RECRUITING 15"/>
 
 
@@ -463,9 +343,6 @@
 <l>Shiver in the morning dew,</l>
 <l>More poor devils like yourselves</l>
 <l>Waiting to be killed by you.</l></lg>
-
-<l>15</l>
-
 
 
 <pb n="16  RECRUITING"/>
@@ -1184,22 +1061,24 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <l>No word of pity--no help, no friend,</l>
 <l>That if my spirit break at the end</l>
 <l>None may be there to see.</l></lg></div>
-
+</body></text>
 
 <pb n="GHOSTS OF WAR  43"/>
 
-<div id="mackintosh2001" type="part" n="2">
-<titlePage id="mackintosh2002" type="half">
+<text>
+<front>
+<titlePage id="mackintosh2003" type="half">
      <docTitle>
        <titlePart type="main">II<lb/>OTHER POEMS AND<lb/>THE REMEMBERED GODS
        </titlePart>
      </docTitle>
    </titlePage>
-
 <pb n="44"/>
-
+</front>
 <pb n="45  TO THE UNKOWN LOVE"/>
 
+<body>
+<div id="2004" type="part" n="2">
 <div id="mackintosh015" type="poem" n="15">
 <head>TO THE UNKNOWN LOVE</head>
 
@@ -2527,11 +2406,11 @@ ALASTAIR, MAIRI, <hi rend="italic">and</hi> CALUM.   MAIRI <hi rend="italic">is 
 <p>END OF THE PLAY</p>
 </div>
 </div>
-
+</body></text>
 
 <pb n="PARODIES AND SONGS  83"/>
 
-<div id="mackintosh2003" type="part" n="3">
+<text>
 <front>
 <titlePage id="mackintosh2004" type="half">
      <docTitle>
@@ -2543,6 +2422,8 @@ ALASTAIR, MAIRI, <hi rend="italic">and</hi> CALUM.   MAIRI <hi rend="italic">is 
 <pb n="[84]"/>
 
 <pb n="THE BALEFUL BARD  85"/>
+<body>
+<div id="" type="part" n="3">
 <div id="mackintosh020" type="poem" n="19">
 
 <head type="main">THE BALEFUL BARD</head>
@@ -3387,13 +3268,14 @@ OFFICER</head>
 <l>Though if they'd never come, boys,</l>
 <l>I bet we'd all get strawberry,</l>
 <l>Instead of apple and plum, boys.</l>
-</lg></div>
+</lg></div></div>
 
 <pb n="[118]"/>
 
 <pb n="[119]"/>
-</div>
-<div id="mackintosh2005" type="part" n="4">
+</div></body></text>
+
+<text>
 <front>
 <titlePage id="mackintosh2006" type="half">
      <docTitle>
@@ -3403,7 +3285,9 @@ OFFICER</head>
    </titlePage>
 </front>
 
+<body>
 <pb n="A RAID 121"/>
+<div id="" type="part" n="4">
 <div id="mackintosh034" type="story">
 
 <head>A RAID</head>
@@ -3469,9 +3353,9 @@ came shouts of " Tagg ! " (the Senior Subaltern's name was MacTaggart).</p>
 
 <p>" Well, come and have tea with us. We've got fresh salmon. Just come out.   The Major's coming, and David."</p>
 
-<p>" Right Ho ! I will, but I must buzz along now or the C.0.'11 be wanting to know why the devil I'm late."</p>
+<p>" Right Ho ! I will, but I must buzz along now or the C.O.'ll be wanting to know why the devil I'm late."</p>
 
-<p>At Battalion H.Q. he stopped and saluted his CO., who was leaning against the parados with the Major and the Adjutant.</p>
+<p>At Battalion H.Q. he stopped and saluted his C.O., who was leaning against the parados with the Major and the Adjutant.</p>
 
 <p>" Here he is," said the Colonel. " How are you feeling, MacTaggart ? "</p>
 
@@ -3740,7 +3624,7 @@ H.Q., to receive the thanks of the Brigadier, and lastly, jolted off, he and God
 
 </div>
 
-<pb n="A RAID  143"/>
+<pb n="IN THE WOOD  143"/>
 
 <div id="mackintosh035" type="story">
 
@@ -3830,200 +3714,90 @@ up he staggered to the trench and handed over the message, only conscious of a s
 
 <pb n="IN THE WOOD  151"/>
 
+right," but inwardly he was thinking of these boys moving up through another barrage, and his mind was full of foreboding.</p>
 
+<p>In the trench he found the other officers, and knew they were thinking the same.</p>
 
-<l>right," but inwardly he was thinking of these boys moving up</l>
-<l>through another barrage, and his mind was full of foreboding.</l>
+<p>" The old hands ought to help them on," said his Captain doubtfully, " But I wish we hadn't lost so many to-day.It'll shake them a bit."</p>
 
-<l>In the trench he found the other officers, and knew they</l>
-<l>were thinking the same.</l>
+<p>" What is to-day ?" said MacTaggart inconsequently. " Sunday, isn't it ? "</p>
 
-<l>" The old hands ought to help them on," said his Captain</l>
-<l>doubtfully, " But I wish we hadn't lost so many to-day.</l>
-<l>It'll shake them a bit,"</l>
+<p>A voice from a private echoed his question a little way along. There was a buzz of conversation and suddenly a hush. The strong voice of a Sergeant was hfted up in the shaking lilt of an old Psalm tune.</p>
 
-<l>" What is to-day ?" said MacTaggart inconsequently.</l>
-<l>" Sunday, isn't it ? "</l>
+<p>" By God," breathed the Subaltern, as the other voices joined in. " They're the old gang yet."</p>
 
-<l>A voice from a private echoed his question a little way along.</l>
-<l>There was a buzz of conversation and suddenly a hush. The</l>
-<l>strong voice of a Sergeant was hfted up in the shaking lilt of</l>
-<l>an old Psalm tune,</l>
-
-<l>" By God," breathed the Subaltern, as the other voices</l>
-<l>joined in.    " They're the old gang yet."</l>
-
+<q><lg type="stanza">
 <l>He took me from the fearful pit</l>
+<l rend="inline">And from the miry clay,</l>
+<l>And on a rock he set my feet,</l>
+<l rend="inline">Establishing my way.</l></lg></q>
 
-<l>And from the miry clay.</l>
-<l>And on a rock he set my feet.</l>
-
-<l>Establishing my way.</l>
-
-<l>The Psalm ended; another voice said, " I'll give you a grand</l>
-<l>one for this day, boy," and once again the strong rough voices</l>
-<l>rang out through the wood, grim earnestness in every tone :</l>
+<p>The Psalm ended; another voice said, " I'll give you a grand one for this day, boy," and once again the strong rough voices rang out through the wood, grim earnestness in every tone :</p>
 
 
+<pb n="152  IN THE WOOD"/>
 
-<pb n=""/>
-
-
-
+<q><lg type="stanza">
 <l>Now Israel may say, and that truly</l>
-
-<l>If that the Lord had not been on our side.</l>
-
+<l>If that the Lord had not been on our side,</l>
 <l>If that the Lord had not our cause maintained</l>
-
 <l>When cruel men against us furiously</l>
+<l>Rose up in wrath to make of us their prey.</l></lg></q>
 
-<l>Rose up in wrath to make of us their prey,</l>
+<p>A runner came to them with a message. The Captain read it, and stood up, shaking his equipment on to his shoulders.</p>
 
-<l>A runner came to them with a message. The Captain read</l>
-<l>it, and stood up, shaking his equipment on to his shoulders.</l>
+<p>From the valley beyond came the roar of the German barrage, but over it rose the psalm,</p>
 
-<l>From the valley beyond came the roar of the German barrage,</l>
-<l>but over it rose the psalm.</l>
+<q><lg>
+<l>Therefore our trust is in the Lord his name,</l>
+<l>Who heaven and earth by his own power did frame.</l></lg></q>
 
-<l>Therefore our trust is in the Lord his name.</l>
-
-<l>Who heaven and earth by his own power did frame.</l>
-
-<l>There was a sudden silence and a shout from the Captain.</l>
-<l>" Get on your equipment, men. We're to move up now,"</l>
-<l>and the officers strolled along to their platoons with light hearts.</l>
-<l>Whatever happened they knew the men would follow them.</l>
-<l>The spirit of the regiment was still the same.</l>
+<p>There was a sudden silence and a shout from the Captain. " Get on your equipment, men. We're to move up now," and the officers strolled along to their platoons with light hearts.Whatever happened they knew the men would follow them.The spirit of the regiment was still the same.</p></div>
 
 
 
+<pb n="GOLD BRAID   153"/>
+
+<div id="mackintosh036" type="story">
+<head type="main">GOLD BRAID</head>
+<head type="sub">In Memory of a Friend</head>
+
+<p>"I THINK this was the place, Sirr," said the Sergeant, glaring through his periscope at the German trench sixty yards away. "It was on the parapet yonder--that he died, Sirr--was it not ? "</p>
+
+<p>His usually loud and hearty voice was hushed to that subdued tone in which the British soldier mentions the dead, and the Captain who stood beside him wondered why it should jar so. It wasn't as if the Sergeant didn't feel it, he thought--disgust at pretended reverence and emotion was natural and easy to understand--but he knew there was no veil of hypocrisy in this case for his candour to penetrate and his mind to revolt at. That hushed tone was offspring partly of pity for the dead man and partly of respect for his own grief at the loss of his friend, chiefly perhaps of reverence for an experience beyond the Sergeant's knowledge and for the human spirit which had faced it.   It was his own damned fastidiousness
 
 
-<l>152</l>
+<pb n="154  GOLD BRAID"/>
 
+of mind that was wrong; always suspecting unreality sub-consciously even when he knew it wasn't there. No, perhaps it was that fear and reverence of death that irritated ; he had never been afraid of death--nor had old Andy.</p>
 
+<p>" Don't put it in so high up, boys," he said. " They'll see it and knock this bay to hell." The men lowered the wooden cross till the position met with their officer's approval. He watched it sombrely--that little cross was all they had to show for Andy; that and memory. It was a good thing Andy didn't care about being buried properly and death and hell and all that rot.</p>
 
-<pb n=""/>
+<p>He read the inscription again as the men wired it into position against the parapet.</p>
 
-
-
-<l>GOLD BRAID</l>
-
-<l>In Memory of a Friend</l>
-
-<l>" T  THINK this was the place, Sirr," said the Sergeant,</l>
-<l>A   glaring through his periscope at the German trench sixty</l>
-<l>yards away,    "It was on the parapet yonder—^that he died,</l>
-<l>"Sirr—^was it not ? "</l>
-
-<l>His usually loud and hearty voice was hushed to that sub¬</l>
-<l>dued tone in which the British soldier mentions the dead, and</l>
-<l>the Captain who_ stood beside him wondered why it should jar</l>
-<l>so. It wasn't as if the Sergeant didn't feel it, he thought—</l>
-<l>disgust at pretended reverence and emotion was natural and</l>
-<l>easy to understand—but he knew there was no veil of hypocrisy</l>
-<l>in this case for his candour to penetrate and his mind to revolt</l>
-<l>at. That hushed tone was offspring partly of pity for the</l>
-<l>dead man and partly of respect for his own grief at the loss of</l>
-<l>his friend, chiefly perhaps of reverence for an experience</l>
-<l>beyond the Sergeant's knowledge and for the human spirit</l>
-<l>which had faced it.   It was his own damned fastidiousness</l>
-
-<l>153</l>
-
-
-
-<pb n=""/>
-
-
-
-<l>of mind that was wrong; always suspecting unreality sub-</l>
-<l>cqnsciously even when he knew it wasn't there. No, perhaps</l>
-<l>it was that fear and reverence of death that irritated ; he had</l>
-<l>never been afraid of death—nor had old Andy,</l>
-
-<l>" Don't put it in so high up, boys," he said. " They'll see</l>
-<l>it and knock this bay to hell," The men lowered the wooden</l>
-<l>cross till the position met with their officer's approval. He</l>
-<l>watched it sombrely—that little cross was all they had to</l>
-<l>show for Andy; that and memory. It was a good thing</l>
-<l>Andy didn't care about being buried properly and death and</l>
-<l>hell and all that rot.</l>
-
-<l>He read the inscription again as the men wired it into</l>
-<l>position against the parapet.</l>
-
-<l>IN memory of</l>
-<l>Lieut, ANDREW MACKAY</l>
-
-<l>a  CO.   1ST  SUTHERLAND  HIGHLANDERS</l>
-
-<l>killed  in ACTION</l>
-
+<q>
+<l>IN MEMORY OF</l>
+<l>LIEUT. ANDREW MACKAY</l>
+<l>A  CO.  1ST  SUTHERLAND  HIGHLANDERS</l>
+<l>KILLED IN ACTION</l>
 <l>IN  THE  GERMAN  TRENCH</l>
+<l>OPPOSITE THIS POINT.</l></q>
 
-<l>OPPOSITE THIS POINT.</l>
-
-<l>His mind went back to that trench opposite this point three</l>
-<l>days ago—the yefling and the noise and the fierce excitement</l>
-<l>154</l>
+<p>His mind went back to that trench opposite this point three days ago--the yelling and the noise and the fierce excitement
 
 
+<pb n="GOLD BRAID  155"/>
 
-<pb n=""/>
+of kifling, and Andy--Andy with his arm and half his side torn off, telling him to take the others. Andy's lips telling them to leave him, but his eyes asking dumbly to be taken too. " I'm pretending to be damned brave, old man," the eyes had said, " and I hope the men believe me--but surely you can see what I want." He called himself a liar for thinking Andy hadn't been afraid to die. " I'm afraid, Tagg,"the eyes had said, " afraid of dying here away among these bloody Bosches. Oh, take my body back anyway and bury me with my own people." He supposed those queer feelings he had always laughed at, were strongest in the end--and he hadn't been able to get the body in. Andy had died on the Bosche parapet and he'd had the wounded to bring in, and that was the end of it all. He would never see Andy again, never stumble into the dugout to talk the world over with him, never drink with him in the jolly old billet, nor argue about art and lose his temper with him--never--never again. He felt he could have given all the rest if only Andy had been left--damned selfish--but he wouldn't have cared. What a bloody war it was. What was the sense of it all ? And he used to think war was good fun--but then Andy had been there to enjoy it with him. Why couldn't he die too ?</p>
 
+<pb n="156  GOLD BRAID"/>
 
+<p>" Look out, sirr," said a man, " oil can coming over." Instantly self-preservation reasserted itself. Gone was the mourner longing for death and peace; in his place a wary animal, alert and fearful, watched the falling bomb with rapid and instinctive calculation.</p>
 
-<l>of kifling, and Andy—Andy with his arm and half his side</l>
-<l>torn off, telling him to take the others. Andy's lips telling</l>
-<l>them to leave him, but his eyes asking dumbly to be taken</l>
-<l>too. " I'm pretending to be damned brave, old man," the</l>
-<l>eyes had said, " and I hope the men believe me—^but surely</l>
-<l>you can see what I want." He called himself a liar for think¬</l>
-<l>ing Andy hadn't been afraid to die. " I'm afraid, Tagg,"</l>
-<l>the eyes had said, " afraid of dying here away among these</l>
-<l>bloody Bosches. Oh, take my body back anyway and bury</l>
-<l>me with my own people." He supposed those queer feelings</l>
-<l>he had always laughed at, were strongest in the end—and he</l>
-<l>hadn't been able to get the body in. Andy had died on the</l>
-<l>Bosche parapet and he'd had the wounded to bring in, and</l>
-<l>that was the end of it all. He would never see Andy again,</l>
-<l>never stumble into the dugout to talk the world over with</l>
-<l>him, never drink with him in the jolly old billet, nor argue</l>
-<l>about art and lose his temper with him—nevet—never again.</l>
-<l>He felt he could have given all the rest if only Andy had been</l>
-<l>left—damned selfish—but he wouldn't have cared. What</l>
-<l>a bloody war it was. What was the sense of it all ?</l>
-<l>And he used to think war was good fun—but then Andy</l>
-<l>had been there to enjoy it with him. Why couldn't he</l>
-<l>die too ?</l>
+<trailer>(Unfinished)</trailer>
+</div></div>
 
-<l>155</l>
-
-
-
-<pb n=""/>
-
-
-
-<l>" Look out, sirr," said a man, " oil can coming over." In¬</l>
-<l>stantly self-preservation reasserted itself. Qpne was the</l>
-<l>mourner longing for death and peace; in his place a wary</l>
-<l>animal, alert and fearful, watched the falling bomb with rapid</l>
-<l>and instinctive calculation,</l>
-
-<l>(Unfinished)</l>
-
-
-
-
-
-<l>156</l>
-
-
-
-<pb n=""/>
+<pb n="[157]"/>
 
 
 

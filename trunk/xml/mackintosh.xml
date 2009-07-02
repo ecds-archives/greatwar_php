@@ -3,7 +3,7 @@
       <fileDesc>
          <titleStmt>
             <title>Great Poems of the World War: Electronic Edition</title>
-            <editor><name reg="Eaton, W. D.">W. D. Eaton</name></editor>
+            <editor><name reg="Mackintosh, E.A., 1893-1917">Ewart Alan Mackintosh</name></editor>
          </titleStmt>
 	 <publicationStmt>
 	   <publisher>Lewis H. Beck Center for Electronic Collections
@@ -33,11 +33,11 @@
          <sourceDesc><!-- put the actual publication data for the book
 	   in this section --> 
             <bibl>
-	     <title>Great Poems of the World War</title>
-	     <editor>W. D. Eaton</editor>
-	     <pubPlace>Chicago</pubPlace>
-	     <publisher>T.S. Denison &#x0026; Company</publisher>
-	     <date>1922</date>
+	     <title>War the liberator and other pieces: With a memoir</title>
+	     <editor>John Murray</editor>
+	     <pubPlace>New York</pubPlace>
+	     <publisher>John Lane Company</publisher>
+	     <date>1918</date>
 	   </bibl>
          </sourceDesc>
       </fileDesc>

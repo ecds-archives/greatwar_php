@@ -1,3 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
 <TEI.2>
    <teiHeader>
       <fileDesc>
@@ -214,7 +215,7 @@ his bosom friends, Andrew Fraser of Christ Church was reported wounded and missi
 
 <p>In the army the Gael in him, artist and man, ripened quickly. With growing strength and health he grew in the control and the use of his own powers and in influence over other men. He cherished political ambitions, whether to be fulfilled in the Colony or in England he scarcely knew. As a soldier he united brilliant courage with gentleness, and humour with resolution.His vivid and affectionate nature remained undulled through the years of warfare.</p>
 
-<p>The present volume contains a number of pieces, some early and some late, which the author, had he lived, might have omitted. His many friends, and those who will know him only through his two books, will alike feel that from a last volume as little as need be should be excluded. It is difficult for one who knew him very intimately to estimate his work, for in each poem the author's personality speaks with engaging and engrossing clearness. There is much in this volume andin " A Highland Regiment" (1917) that is already peculiarly complete and rounded in idea and also finished in form.   There
+<p>The present volume contains a number of pieces, some early and some late, which the author, had he lived, might have omitted. His many friends, and those who will know him only through his two books, will alike feel that from a last volume as little as need be should be excluded. It is difficult for one who knew him very intimately to estimate his work, for in each poem the author's personality speaks with engaging and engrossing clearness. There is much in this volume and in " A Highland Regiment" (1917) that is already peculiarly complete and rounded in idea and also finished in form.   There
 
 
 <pb n="6  MEMOIR"/>
@@ -245,6 +246,8 @@ is much, too, of great promise. " The Remembered Gods," which was written at Oxf
 <figure type="mackintoshfm4" rend="inline">
 <figDesc> Table of contents included in front matter of Mackintosh's "War the Liberator"</figDesc>
 </figure>
+</div>
+</front>
 
 <group>
 <text>
@@ -607,7 +610,7 @@ is much, too, of great promise. " The Remembered Gods," which was written at Oxf
 <l>The wild warpipes were calling,</l>
 <l>Our hearts were blithe and free</l>
 <l>When we went up the valley</l>
-<l>To the death we couLd not see.</l>
+<l>To the death we could not see.</l>
 <l>Clear lay the wood before us</l>
 <l>In the clear summer weather,</l>
 
@@ -661,7 +664,7 @@ is much, too, of great promise. " The Remembered Gods," which was written at Oxf
 <lg type="stanza">
 <l>Ghosts of the heroes</l>
 <l>That died in the wood.</l>
-<l>Looked on theJdlling</l>
+<l>Looked on the killing</l>
 <l>And saw it was good.</l>
 <l>Far over the hillsides</l>
 <l>They saw in their dream</l>
@@ -694,7 +697,7 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <l>I mourn I was not there,</l>
 <l>The hard fierce rush of slaying men,</l>
 <l>The hands up in the air,</l>
-<l>tiuf for the torn ranks struggling on</l>
+<l>But for the torn ranks struggling on</l>
 <l>The old brave hopeless way,</l>
 <l>The broken charge, the slow retreat.</l>
 <l>And I so far away.</l></lg>
@@ -768,9 +771,9 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <l>And a warm fire when the rain is driving,</l>
 <l>There is no sound of strong men striving,</l>
 <l>Here where the quiet waters flow,</l>
-<l>But I am hearirig the bullets ringing,</l>
+<l>But I am hearing the bullets ringing,</l>
 <l>Hearing the great shells onward winging,</l>
-<l>The dead meii!sjsaiices are singing, singing,</l>
+<l>The dead men's voices are singing, singing,</l>
 <l>And I must rise and go.</l></lg>
 
 <lg type="stanza">
@@ -1051,13 +1054,13 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <l>No word of pity--no help, no friend,</l>
 <l>That if my spirit break at the end</l>
 <l>None may be there to see.</l></lg></div>
-</body></text>
+</div></body></text>
 
 <pb n="GHOSTS OF WAR  43"/>
 
 <text>
 <front>
-<titlePage id="mackintosh2003" type="half">
+<titlePage id="mackintosh2009" type="half">
      <docTitle>
        <titlePart type="main">II<lb/>OTHER POEMS AND<lb/>THE REMEMBERED GODS
        </titlePart>
@@ -1359,7 +1362,7 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <lg type="stanza">
 <l>Let us arise and go, for far beyond the city</l>
 <l>We hear the old gods singing the years from which we came,</l>
-<l>The merrj heartless jears that knew not pain or pity,</l>
+<l>The merry heartless years that knew not pain or pity,</l>
 <l>The happy lustful years that knew not fear or shame.</l></lg>
 
 <lg type="stanza">
@@ -1440,7 +1443,7 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <l>Lior the haunter of the roaring tides.</l>
 <l>Whose emerald eyes the drowning sailors see</l>
 <l>For one sweet instant, and are swallowed up.</l>
-<l>And Balor panophed in shining rain.</l>
+<l>And Balor panoplied in shining rain.</l>
 <l>And armoured with the lightnings of the hills</l>
 <l>That fire our hearts to war.   And chief of all,</l>
 <l>Angus the white-foot conqueror of men.</l>
@@ -1646,7 +1649,7 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <l>Wail up the corries of the windy hills,</l>
 <l>And high and clear above them Angus sang.</l>
 <l>But the apostles' souls fled crying, crying</l>
-<l>Over the hills across the bouqdless sea.</l>
+<l>Over the hills across the boundless sea.</l>
 <l>I heard the noise of their lament grow faint,</l>
 <l>As the waves stilled it; and on the hills of Morven,</l>
 
@@ -1796,7 +1799,7 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <lg type="stanza">
 <l>The gods are dead, or if they have I care not,</l>
 <l>For over my poor heart they have no power.</l>
-<l>Herg in the changing world we stand alone,</l>
+<l>Here in the changing world we stand alone,</l>
 <l>Ourselves for ever.   I am Mairi Bain,</l>
 <l>And you are Alastair, my love.   Forget</l>
 <l>The gods that haunted you, for they were dreams,</l>
@@ -1987,7 +1990,7 @@ ALASTAIR, MAIRI, <hi rend="italic">and</hi> CALUM.   MAIRI <hi rend="italic">is 
 <speaker>MAIRI.</speaker>   
 <l>Oh sorrow for the fleeting love of man,</l>
 <l>That the desires of hell have stolen away.</l>
-<l>Qh love of mine, that the dark gods have charmed</l>
+<l>Oh love of mine, that the dark gods have charmed</l>
 <l>To follow down the misty path that leads</l>
 <l>To the eternal gloom of the abyss.</l>
 <l>It is a farewell for us two evermore.</l>
@@ -2164,7 +2167,7 @@ ALASTAIR, MAIRI, <hi rend="italic">and</hi> CALUM.   MAIRI <hi rend="italic">is 
 <lg type="stanza">
 <l>I will rise up where the arrows are hailing,</l>
 <l>In the hearts of the dying I will lie down.</l>
-<l>In the houses of Morven new widows are wailin,</l>
+<l>In the houses of Morven new widows are wailing,</l>
 <l>For men have remembered my ancient renown.</l></lg></sp>
 
 <sp who="g3">
@@ -2351,7 +2354,7 @@ ALASTAIR, MAIRI, <hi rend="italic">and</hi> CALUM.   MAIRI <hi rend="italic">is 
 <l>I come at last back to the king of love,</l>
 <l>And cast my soul into the endless sea.</l>
 
-<stage type="novelistic"><p>[<hi rend="italic">He turns to the tree.   Seeing Mairi's figure in the branches he starts.</hi></p></stage>
+<stage type="novelistic"><p>[<hi rend="italic">He turns to the tree.   Seeing </hi>MAIRI's<hi rend="italic"> figure in the branches he starts.</hi></p></stage>
 <l>There is a shadow in the lower branches</l>
 <l>Too dark to be the bright wraith of the mist.</l>
 
@@ -2398,13 +2401,14 @@ ALASTAIR, MAIRI, <hi rend="italic">and</hi> CALUM.   MAIRI <hi rend="italic">is 
 <p>END OF THE PLAY</p>
 </div>
 </div>
+</div>
 </body></text>
 
 <pb n="PARODIES AND SONGS  83"/>
 
 <text>
 <front>
-<titlePage id="mackintosh2004" type="half">
+<titlePage id="mackintosh2010" type="half">
      <docTitle>
        <titlePart type="main">III<lb/>PARODIES AND SONGS<lb/>Written for the 5th Seaforth Highlanders and<lb/> for No. 2 Officer Cadet Battalion, Cambridge
        </titlePart>
@@ -2704,7 +2708,7 @@ BRIGADE</lb></head>
 <head>WHERE THE TRENCHES RUN<lb/>DOWN FROM THE SOMME TO<lb/>
 THE SEA</head>
 
-<head type="sub"><hi rend="italic">Tune</hi>--" The Mountains of Mome "</head>
+<head type="sub"><hi rend="italic">Tune</hi>--" The Mountains of Morne "</head>
 
 <lg type="stanza">
 <l>OH, Mary, the front is a wonderful place,</l>
@@ -3141,7 +3145,7 @@ OFFICER</head>
 
 <lg type="stanza">
 <l><hi rend="italic">Chorus</hi>--Singing " Wha'll dae't the next time ?</l>
-<l>Wha'U dae't the noo ?</l>
+<l>Wha'll dae't the noo ?</l>
 <l>The lads that did it last time</l>
 <l>Cannae dae it noo."</l></lg>
 
@@ -3196,7 +3200,7 @@ OFFICER</head>
 
 <pb n="SNIPER SANDY  115"/>
 
-<l>And Hermarm with his rifle is the pride of every German,</l>
+<l>And Hermann with his rifle is the pride of every German,</l>
 <l>Until our Sandy gets on him, and Hermann gets afeared,</l>
 <l>For when he hears the bullets come he slides down to the ground,</l>
 <l>And tremblingly he gasps out to his comrades all around--</l></lg>
@@ -3265,11 +3269,11 @@ OFFICER</head>
 <pb n="[118]"/>
 
 <pb n="[119]"/>
-</div></body></text>
+</body></text>
 
 <text>
 <front>
-<titlePage id="mackintosh2006" type="half">
+<titlePage id="mackintosh2011" type="half">
      <docTitle>
        <titlePart type="main">IV<lb/>THREE STUDIES IN<lb/>WAR PSYCHOLOGY
        </titlePart>
@@ -3307,9 +3311,9 @@ OFFICER</head>
 
 <p>" Oh, I'm not in the least afraid of anything, if we can only get into the trench," he said.    " If the wire's cut         "</p>
 
-<p>" Oh, damn the wire," said the Senior Subaltem hotly "it can't help being cut. Anyhow, there's very little there to start with, and if there's any bombardment at all, it'll go west; and there's going to be a hell of a bombardment. Anyhow, <hi rend="italic">we</hi> can't do any more.    Come on in and feed."</p>
+<p>" Oh, damn the wire," said the Senior Subaltern hotly "it can't help being cut. Anyhow, there's very little there to start with, and if there's any bombardment at all, it'll go west; and there's going to be a hell of a bombardment. Anyhow, <hi rend="italic">we</hi> can't do any more.    Come on in and feed."</p>
 
-<p>For the last week the two had been down in the village with their fifty men, training hard for a raid on the German salient opposite their line. A fortnight's hard reconnoitring night after night had let them know all that could be known about the ground, and the week had been mostly spent in bayonet fighting and bombing, and generally in making them, as the Senior Subaltern put it, " fit to waltz through hell and back again." But all the time their two officers had before them one dread--the spectre of the uncut wire. They were both experienced soldiers and knew what it meant--and now, as they went into luncheon, each saw a vision of his splendid men struggling in the meshes, and heard the rattle of a ghostly machine-gun. At luncheon they managed to forget their fear for a little, and the Senior Subaltem, a light-hearted person entertained the Quartermaster, Transport Officer, and Padre
+<p>For the last week the two had been down in the village with their fifty men, training hard for a raid on the German salient opposite their line. A fortnight's hard reconnoitring night after night had let them know all that could be known about the ground, and the week had been mostly spent in bayonet fighting and bombing, and generally in making them, as the Senior Subaltern put it, " fit to waltz through hell and back again." But all the time their two officers had before them one dread--the spectre of the uncut wire. They were both experienced soldiers and knew what it meant--and now, as they went into luncheon, each saw a vision of his splendid men struggling in the meshes, and heard the rattle of a ghostly machine-gun. At luncheon they managed to forget their fear for a little, and the Senior Subaltern, a light-hearted person entertained the Quartermaster, Transport Officer, and Padre
 
 
 <pb n="A RAID  123"/>
@@ -3431,14 +3435,14 @@ cursed them softly for not keeping low, or making a row. Then through the tunnel
 
 <p>The men composed themselves to wait in easy attitudes, but each had some nervous trick betraying his tense condition.Some licked their dry lips again and again, some felt their bayonets. One red-haired fellow took out all his bombs, one by one, and squeezed their pins pensively. The enemy trench mortars were replying on our trench now, and the usual evening bombardment was going on. A new fear took possession of the Senior Subaltern. He looked at his watch. There would be a hitch in the timing ; the barrage would be late, and they would have to go over without it. He watched the seconds go by. Only one minute, only half a minute, to the start of the barrage.</p>
 
-<p>Swish--bang--bang--bang. The whole earth was convulsed with a tornado of sound, as the roar of the bursting shells in the German line convinced the Senior Subaltem that all was well. The men in the crater pressed their faces to the ground that was shaking beneath them, trying to hide themselves from that terrible crashing, but their officer's heart
+<p>Swish--bang--bang--bang. The whole earth was convulsed with a tornado of sound, as the roar of the bursting shells in the German line convinced the Senior Subaltern that all was well. The men in the crater pressed their faces to the ground that was shaking beneath them, trying to hide themselves from that terrible crashing, but their officer's heart
 
 
 <pb n="A RAID 131"/>
 
 sang^ within him. It was all right. It was properly timed. He' glanced at his watch, and nudged the men on each side of him.</p>
 
-<p>" Pass along, ' Three minutes to go, get ready,' " he yelled--no need to whisper now--and into his mind came a picture of his boat on the Isis on a sunny day, and the coach on the bank counting the seconds to the starting gun. He laughedat the queer similarity.</p>
+<p>" Pass along, ' Three minutes to go, get ready,' " he yelled--no need to whisper now--and into his mind came a picture of his boat on the Isis on a sunny day, and the coach on the bank counting the seconds to the starting gun. He laughed at the queer similarity.</p>
 
 <p>" Half a minute more," he passed along, and watched the seconds ticking past. Then all at once he climbed up, and, for a second or two, stood alone on the crater lip. " Come along, boys," he said quietly, and the raiding party poured after him out across the open.</p>
 
@@ -3532,9 +3536,9 @@ thousand to one against them, but he made no remark. As MacTaggart turned back a
 
 <p>The man groaned.    " Turn me over, sir, and I'll try."</p>
 
-<p>There was a noise of feet and guttural voices along the trench beyond, MacTaggart tore a bomb from his bag and threw it over the traverse. Screams followed the burst and feet ranning rapidly away.</p>
+<p>There was a noise of feet and guttural voices along the trench beyond, MacTaggart tore a bomb from his bag and threw it over the traverse. Screams followed the burst and feet running rapidly away.</p>
 
-<p>A man shpped down from the parapet above him. " I heard ye were left behind,   sir,"   he   said,   conversationally,  and
+<p>A man slipped down from the parapet above him. " I heard ye were left behind,   sir,"   he   said,   conversationally,  and
 
 
 
@@ -3557,7 +3561,7 @@ MacTaggart turned to see his own bombing Sergeant, come back for him through the
 
 <pb n="A RAID  139"/>
 
-hurting his men, and, as he lugged the groaning MacNeil into the slight cover of the old trench, with an artistic dehght in the thing he was doing, he seemed to be regarding himself from the front stalls, of a gigantic theatre and applauding a fine piece of acting. He wouldn't get through it, and nobody would know, but he was doing the right thing, and painting a good picture. The aesthetic joy of it buoyed him up as he helped Sergeant Godstone along with the other man ; thenwent back to the parapet where Charles and Sergeant Macdonald were still struggling with the boy. He looked down at the shrunken face.</p>
+hurting his men, and, as he lugged the groaning MacNeil into the slight cover of the old trench, with an artistic delight in the thing he was doing, he seemed to be regarding himself from the front stalls, of a gigantic theatre and applauding a fine piece of acting. He wouldn't get through it, and nobody would know, but he was doing the right thing, and painting a good picture. The aesthetic joy of it buoyed him up as he helped Sergeant Godstone along with the other man ; then went back to the parapet where Charles and Sergeant Macdonald were still struggling with the boy. He looked down at the shrunken face.</p>
 
 <p>" I believe we'll have to leave him, Charles," he said, " he's a dying man."</p>
 
@@ -3610,7 +3614,7 @@ H.Q., to receive the thanks of the Brigadier, and lastly, jolted off, he and God
 
 <p>Stiffly he dismounted from the cart, and saying good-night to his men, walked slowly up the hill to the billet, where he and Charles had stayed together.</p>
 
-<p>Their landlady came to the door crying, " Mais o&#x00F9; est I'autre officier ? "</p>
+<p>Their landlady came to the door crying, " Mais o&#x00F9; est l'autre officier ? "</p>
 
 <p>" II est bless&#x00E9;, Madame," said MacTaggart heavily, " mais nous avons tu&#x00E9; plus que quarante Bosches--et je suis tres fatigu&#x00E9;."</p>
 
@@ -3629,7 +3633,7 @@ H.Q., to receive the thanks of the Brigadier, and lastly, jolted off, he and God
 
 talk and the smell of cooking, the resting-place of the supports who were to be ready that night to move up through the valley and sweep past a victorious front-line brigade into an enemy village two miles away.</p>
 
-<p>All around the wood lay guns which barked occasionally ; in front of it was the shell-torn " valley of death," with its grim windings--" dead man's corner " and " suicide corner "--up which all troops had to go and on which the German barrage was regularly laid twice or three times a day; not a blade of grass was to be seen in the valley, nothing but huge shell-holes and heaped-up earth, seamed with old and new trenches and littered with all the waste products of a battle, dead men's equipment and rifles, bombs and shell-cases, huge duds, and here and there the wreck of an ambulance or an ammunition-waggon which had been caught by German shells. Now thevalley lay in its hideous squalor basking in the sun, while overhead droned an aeroplane—British it must be, of course.</p>
+<p>All around the wood lay guns which barked occasionally ; in front of it was the shell-torn " valley of death," with its grim windings--" dead man's corner " and " suicide corner "--up which all troops had to go and on which the German barrage was regularly laid twice or three times a day; not a blade of grass was to be seen in the valley, nothing but huge shell-holes and heaped-up earth, seamed with old and new trenches and littered with all the waste products of a battle, dead men's equipment and rifles, bombs and shell-cases, huge duds, and here and there the wreck of an ambulance or an ammunition-waggon which had been caught by German shells. Now the valley lay in its hideous squalor basking in the sun, while overhead droned an aeroplane—British it must be, of course.</p>
 
 <p>A whistle sounded, and the men in the wood, who lay lazily watching the 'plane, looked round suddenly in alarm. It was a Bosche, was it ? Well, wasn't that the limit ? Most of them were young drafts and didn't understand, but the old hands enlightened them. The Bosche might spot them in that thinned wood, and if it did--well, they wouldn't do any harm if they
 
@@ -3665,7 +3669,7 @@ got down into a trench for a bit. All slipped down, while on the circling enemy 
 
 <pb n="IN THE WOOD  147"/>
 
-men in the trench crouched listening for the whining to come near to them, and as it did, the. Subaltern ceased looking for his pipe and hstened with them. Along the trench came shouts from those digging out the buried men. A Corporal had got on top and was digging there unmindful of the shrapnel.</p>
+men in the trench crouched listening for the whining to come near to them, and as it did, the. Subaltern ceased looking for his pipe and listened with them. Along the trench came shouts from those digging out the buried men. A Corporal had got on top and was digging there unmindful of the shrapnel.</p>
 
 <p>I don't know if I have given the impression that the Subaltern was a fearless young gentleman; but if so, it was not my intention. He was very afraid and most unwilling to die, and he showed it, if the men had only noticed, by his nervous movement of relief after each close burst. A somewhat vigorous self-control, combined with a very real pleasure in beings so close to death and yet alive, enabled him to delude the privates ; but inside he was quaking.</p>
 
@@ -3690,7 +3694,7 @@ him in the open ? He climbed out and stood on the edge ready to jump down again 
 
 the Aid Post, but every movement was a difficulty to his uncontrolled limbs, and every sound a torture to the bewildered brain. It was a long time before they got there, and when they did, the Aid Post was like a shambles with blood and wounded men,. The two slung their friend down to the doctor,and went to report him a casualty at Headquarters next door.There the C.O. met them with operation orders for the attack that night, and a request that MacTaggart would take certain messages to other Companies. As they went in for a final farewell to the dumb Captain, he moaned and stretched forward his wavering hand for the orders, the last effort of a gallant spirit. Then they left him in the Aid Post, and went out to their work.</p>
 
-<p>As MacTaggart crossed the open he was gripped with a sudden fear. The whining and the crash of the shells was coming nearer again, and he had two Companies to see before he could get back to his own burrow. He ran hastily over to the first Coy, H.Q., and then paused there, bracing himself for his next rush, for the barrage was on their lines again, although not so heavily. Out he ran and along to the next H.Q., fixing his mind on the job, and not allowing himself to think of shells, when a low shrapnel, beautifufly timed, burst close beside him, knocking him over;  picking himself
+<p>As MacTaggart crossed the open he was gripped with a sudden fear. The whining and the crash of the shells was coming nearer again, and he had two Companies to see before he could get back to his own burrow. He ran hastily over to the first Coy, H.Q., and then paused there, bracing himself for his next rush, for the barrage was on their lines again, although not so heavily. Out he ran and along to the next H.Q., fixing his mind on the job, and not allowing himself to think of shells, when a low shrapnel, beautifully timed, burst close beside him, knocking him over;  picking himself
 
 
 <pb n="150  IN THE WOOD"/>
@@ -3714,7 +3718,7 @@ right," but inwardly he was thinking of these boys moving up through another bar
 
 <p>" What is to-day ?" said MacTaggart inconsequently. " Sunday, isn't it ? "</p>
 
-<p>A voice from a private echoed his question a little way along. There was a buzz of conversation and suddenly a hush. The strong voice of a Sergeant was hfted up in the shaking lilt of an old Psalm tune.</p>
+<p>A voice from a private echoed his question a little way along. There was a buzz of conversation and suddenly a hush. The strong voice of a Sergeant was lifted up in the shaking lilt of an old Psalm tune.</p>
 
 <p>" By God," breathed the Subaltern, as the other voices joined in. " They're the old gang yet."</p>
 
@@ -3791,28 +3795,28 @@ of killing, and Andy--Andy with his arm and half his side torn off, telling him 
 
 <pb n="[157]"/>
 
-</body>
+</body></text></group>
 
 <back>
 <div id="mackintosh" type="back matter">
 <figure entity="mackintoshbm1" rend="inline">
-<figDesc><p> An image of a page of advertisements included in the backmatter of Mackintosh's War the Liberator</p></figDesc>
+<figDesc><p> An image of a page of advertisements included in the back matter of Mackintosh's War the Liberator</p></figDesc>
 </figure>
 <pb n="[158]"/> 
 
 <figure entity="mackintoshbm2" rend="inline">
-<figDesc><p> An image of a page of advertisements included in the backmatter of Mackintosh's War the Liberator</p></figDesc>
+<figDesc><p> An image of a page of advertisements included in the back matter of Mackintosh's War the Liberator</p></figDesc>
 </figure>
 
 <pb n="[159]"/>
 
 <figure entity="mackintoshbm3" rend="inline">
-<figDesc><p> An image of a page of advertisements included in the backmatter of Mackintosh's War the Liberator</p></figDesc>
+<figDesc><p> An image of a page of advertisements included in the back matter of Mackintosh's War the Liberator</p></figDesc>
 </figure>
 
 <pb n="[160]"/>
 
 <figure entity="mackintoshbm4" rend="inline">
-<figDesc><p> An image of a page of advertisements included in the backmatter of Mackintosh's War the Liberator</p></figDesc>
+<figDesc><p> An image of a page of advertisements included in the back matter of Mackintosh's War the Liberator</p></figDesc>
 </figure>
-</div></back></text>
+</div></back></text></TEI.2>

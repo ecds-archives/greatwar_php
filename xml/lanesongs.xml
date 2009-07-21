@@ -325,7 +325,7 @@ soldier ready for the ultimate sacrifice, cheered on his way by the lilt of a hu
 <l rend="inline">And not by Earth shall he be soon forgiven</l>
 <l>Who lit the fire accurst that flames to-day.</l></lg>
 
-<l>WILLIAM WATSON</l>
+<byline>WILLIAM WATSON</byline>
 <l>Times, August 6, 1914</l>
 </div>
 
@@ -350,7 +350,7 @@ soldier ready for the ultimate sacrifice, cheered on his way by the lilt of a hu
 <l>Slumber no more, in foolish dream secure;</l>
 <l rend="inline">With blood and sweat anneal thy sword anew.</l></lg>
 
-<l>FRANCIS COUTTS</l>
+<byline>FRANCIS COUTTS</byline>
 </div>
 
 
@@ -375,7 +375,7 @@ soldier ready for the ultimate sacrifice, cheered on his way by the lilt of a hu
 <l>As crowns and C&#x00E6;sars shall at last make way</l>
 <l>Before mankind's Republic, ending war.</l></lg>
 
-<l>JUSTIN HUNTLY MCCARTHY</l>
+<byline>JUSTIN HUNTLY MCCARTHY</byline>
 <l>Daily Chronicle, August 3, 1914</l>
 </div>
 
@@ -457,7 +457,7 @@ soldier ready for the ultimate sacrifice, cheered on his way by the lilt of a hu
 <l>With honour, power, and fame inviolate,</l>
 <l>Lord God of Hosts!</l></lg>
 
-<l>ANTHONY KIRBY GILL</l>
+<byline>ANTHONY KIRBY GILL</byline>
 <l>Pall Mall Gazette, August s, 1914</l>
 </div>
 
@@ -511,7 +511,7 @@ soldier ready for the ultimate sacrifice, cheered on his way by the lilt of a hu
 <l>Gird thee with thine ancient might,</l>
 <l>Forth ! and God defend the Right!</l></lg>
 
-<l>HENRY NEWBOLT</l>
+<byline>HENRY NEWBOLT</byline>
 <l>Times, August 5, 1914</l>
 </div>
 
@@ -545,7 +545,7 @@ soldier ready for the ultimate sacrifice, cheered on his way by the lilt of a hu
 <l>And waste Peace from the world; and up in Heaven</l>
 <l>Was silence for the space of half an hour.</l></lg>
 
-<p>M JOURDAIN</p>
+<byline>M JOURDAIN</byline>
 <p>Westminster Gazette, August 6, 1914</p>
 
 </div>
@@ -618,7 +618,7 @@ soldier ready for the ultimate sacrifice, cheered on his way by the lilt of a hu
 <l>Lest we forget the heights sublime,</l>
 <l>And lapse into our ancient slime.</l></lg>
 
-<l>A. ST. JOHN ADCOCK.</l>
+<byline>A. ST. JOHN ADCOCK.</byline>
 <l>Daily Herald, August 6, 1914</l>
 </div>
 </div>
@@ -662,7 +662,7 @@ soldier ready for the ultimate sacrifice, cheered on his way by the lilt of a hu
 <l>By foemen--and the fools</l>
 <l rend="inline">Who dream that Drake is dead.</l></lg>
 
-<l>H. DE VERE STACPOOLE</l>
+<byline>H. DE VERE STACPOOLE</byline>
 <l>Daily Express, August 7, 1914</l>
 </div>
 
@@ -734,13 +734,13 @@ soldier ready for the ultimate sacrifice, cheered on his way by the lilt of a hu
 <l rend="inline">The Baltic, Waterloo</l>
 <l>As then so now, twice armed are we since Honour backs the blow !</l></lg>
 
-<l>IAN COLVIN</l>
+<byline>IAN COLVIN</byline>
 
 <l>Morning Post, August 8, 1914</l>
 </div>
 
 
-<pb n="18"/>
+<pb n="18  THE KAISER AND BELGIUM"/>
 
 <div id="lanesongs011" type="poem" n="11">
 
@@ -764,16 +764,17 @@ soldier ready for the ultimate sacrifice, cheered on his way by the lilt of a hu
 <l>If him whom God destroys He maddens first.</l>
 <l>Then thy destruction slake thy madman's thirst!</l></lg>
 
-<l>STEPHEN PHILLIPS</l>
+<byline>STEPHEN PHILLIPS</byline>
 <l>Daily Chronicle, August 8, 1914</l>
 </div>
 
-<pb n="19"/>
+<pb n="CANADA TO ENGLAND  19"/>
 
 
+<div id="lanesongs012" type="poem" n="12">
+<head>CANADA TO ENGLAND</head>
 
-<l>CANADA TO ENGLAND</l>
-
+<lg type="stanza">
 <l>Great names of thy great captains gone before</l>
 <l>Beat with our blood, who have that blood of thee:</l>
 <l>Raleigh and Grenville, Wolfe, and all the free</l>
@@ -783,128 +784,100 @@ soldier ready for the ultimate sacrifice, cheered on his way by the lilt of a hu
 <l>Nurtured in one remembrance and one love</l>
 <l>Too high for passion and too stern for tears.</l>
 
-<l>O little isle our fathers held for home.</l>
+<l>O little isle our fathers held for home,</l>
 <l>Not, not alone thy standards and thy hosts</l>
 <l>Lead where thy sons shall follow, Mother Land:</l>
 <l>Quick as the north wind, ardent as the foam,</l>
 <l>Behold, behold the invulnerable ghosts</l>
-<l>Of all past greatnesses about thee stand.</l>
+<l>Of all past greatnesses about thee stand.</l></lg>
 
-<l>MARJORIE L. C. PICKTHALL</l>
-<l>Times, August lo, 1914</l>
+<byline>MARJORIE L. C. PICKTHALL</byline>
+<l><hi rend="italic">Times, August</hi>10, 1914 </l>
+</div>
 
-
-
-
-
-<l>19</l>
+<pb n=" 20 TO LITTLE BELGIUM"/>
+<div id="lanesongs013" type="poem" n="13">
 
 
+<head>TO "LITTLE" BELGIUM</head>
+<div id="lanesongs1004" type="section" n="1">
 
-<pb n=""/>
+<head>I</head>
 
+<epigraph> <cit><q>"There was war in Heaven" <bibl>(Rev. xn. 7)</bibl></q>
+</cit></epigraph>
 
+<lg type="stanza">
+<l>SURELY 'twas hell, not heaven, where first was war,</l>
+<l rend="inline">Where first infernal passions woke and stirred--</l>
+<l rend="inline">War, which makes heaven impossible in a word,</l>
+<l>And Murder bids her bloody gate unbar !</l></lg>
 
-<l>TO "LITTLE" BELGIUM</l>
-<l>I</l>
+<lg type="stanza">
+<l>As well might one, under the Juggernaut car,</l>
+<l rend="inline">And knowing all annihilate shall be,</l>
+<l rend="inline">Babble of life and immortality</l>
+<l>As call that " heaven " where hell and hatred are.</l></lg>
 
-<l>"There was war in Heaven" (Rev. xn. 7)</l>
-
-<l>Surely 'twas hell, not heaven, where first was war.</l>
-<l>Where first infernal passions woke and stirred—</l>
-<l>War, which makes heaven impossible in a word.</l>
-
-<l>And Murder bids her bloody gate unbar !</l>
-
-<l>As well might one, under the Juggernaut car.</l>
-<l>And knowing all annihilate shall be.</l>
-<l>Babble of life and immortality</l>
-
-<l>As call that " heaven " where hell and hatred are.</l>
-
+<lg type="stanza">
 <l>Yet there was war in heaven, as on this star,</l>
+<l rend="inline">Yea, even there was War's red flag unfurled,</l>
+<l rend="inline">As if High God would warn a craven world</l>
+<l>In heaven itself, worse can befall than war.</l></lg>
+</div>
 
-<l>Yea, even there was War's red flag unfurled.</l>
-<l>As if High God would warn a craven world</l>
+<pb n="TO  LITTLE  BELGIUM  21"/>
 
-<l>In heaven itself, worse can befall than war.</l>
+<div id="lanesongs1005" type="section" n="2">
+<head>II</head>
 
-<l>ao</l>
+<lg type="stanza">
+<epigraph><cit><q>"Give peace in our time, O Lord!" <bibl>(Prayer Book)</bibl></q></cit></epigraph>
 
-
-
-<pb n=""/>
-
-
-
-<l>TO " LITTLE " BELGIUM                            ai</l>
-
-<l>II</l>
-
-<l>"Give peace in our time, O Lord!" (Prayer Book)</l>
-
+<lg type="stanza">
 <l>So runs the ancient prayer, and I who hold</l>
-<l>War to be bloody, damnable, abhorred,</l>
-<l>Pray: " Not in our time, only, be it Lord,</l>
-
-<l>But for all time may peace this isle enfold !"</l>
+<l rend="inline">War to be bloody, damnable, abhorred,</l>
+<l rend="inline">Pray: " Not in our time, only, be it Lord,</l>
+<l>But for all time may peace this isle enfold !"</l></lg>
 
 <l>Yet rather than our England cease to be</l>
+<l rend="inline">What England is--Honour's own diadem ;</l>
+<l rend="inline">Rather than fail one promised sword to them</l>
+<l>(Our word, God's arm, their surest guarantee),</l></lg>
 
-<l>What England is—Honour's own diadem ;</l>
-<l>Rather than fail one promised sword to them</l>
-
-<l>(Our word, God's arm, their surest guarantee).</l>
-
+<lg type="stanza">
 <l>That " little " but loyal race whom, near and far,</l>
-<l>A world acclaims for glorious, deathless deed,</l>
-<l>Rather than fail GREAT Belgium in her need,</l>
+<l rend="inline">A world acclaims for glorious, deathless deed,</l>
+<l rend="inline">Rather than fail GREAT Belgium in her need,</l>
+<l>Rather than this, in God's own name, be war!</l></lg>
 
-<l>Rather than this, in God's own name, be war!</l>
+<byline>COULSON KERNAHAN</byline>
+<bibl>Daily Chronicle, August 10, 1914</bibl>
+</div>
+</div>
 
-<l>COULSON KERNAHAN</l>
-<l>Daily Chronicle, August lo, 1914</l>
-
-
-
-<pb n=""/>
-
+<pb n="22  THE TRIBUTE"/>
 
 
-<l>THE TRIBUTE</l>
+<div id="lanesongs014" type="poem" n="14">
 
-<l>Not by the valour of Belgium, nor the lightning sabre</l>
-<l>of France,</l>
+<head>THE TRIBUTE</head>
 
-<l>Not by the thunder of Britain's Fleet, and the Bear's</l>
-<l>unchecked advance.</l>
+<lg type="stanza">
+<l>Not by the valour of Belgium, nor the lightning sabre of France,</l>
+<l>Not by the thunder of Britain's Fleet, and the Bear's unchecked advance,</l>
+<l>Not by these fears, Lord Kaiser, tho' they shatter a tyrant's lust,</l>
+<l>Is your heart most  darkly troubled, and your  soul brought down to the dust,</l></lg>
 
-<l>Not by these fears, Lord Kaiser, tho' they shatter a</l>
-<l>tyrant's lust.</l>
+<lg type="stanza">
+<l>But by the great affirming of the lands we have knit as one;</l>
+<l>By the love, by the passionate  loyal love, of each separate free-born son,</l>
+<l>Canada cries " We are coming !" and Australasia " We come! "</l>
+<l>And you scowl that no Boer is rising at the beat of your German drum.</l></lg>
 
-<l>Is your heart most  darkly troubled, and your  soul</l>
-<l>brought down to the dust,</l>
-
-<l>But by the great affirming of the lands we have knit as</l>
-
-<l>one;</l>
-<l>By the love, by the passionate  loyal love, of each</l>
-
-<l>separate free-born son,</l>
-<l>Canada cries " We are coming 1" and Australasia " We</l>
-
-<l>come! "</l>
-<l>And you scowl that no Boer is rising at the beat of</l>
-
-<l>your German drum.</l>
-
-<l>And the Men of Ind bear witness—We have grumbled,</l>
-<l>but now no more ;</l>
-
-<l>We have shared your plentiful righteous Peace, we will</l>
-<l>share your righteous War,</l>
-
-
+<lg type="stanza">
+<l>And the Men of Ind bear witness--We have grumbled, but now no more ;</l>
+<l>We have shared your plentiful righteous Peace, we will share your righteous War,</l></lg>
 
 <pb n=""/>
 

@@ -1,76 +1,146 @@
-<idno type="ocm">ocm12986939</idno>
-<pb n=""/>
+<TEI.2>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>POEMS: Electronic Edition</title>
+            <author><name type="person" reg="Lane, John">John Lane ed. </name></author>
+         </titleStmt>
+	 <publicationStmt>
+	   <publisher>Lewis H. Beck Center for Electronic Collections
+	   and Services, Emory University</publisher>
+	   <pubPlace>Atlanta, GA</pubPlace>
+	   <address>
+	     <addrLine>540 Asbury Circle</addrLine>
+	     <addrLine>Woodruff Library</addrLine>
+	     <addrLine>Atlanta, GA 30322</addrLine>
+	   </address>
+	   <availability><p>&#x00A9;Emory University. Permission is
+	   granted to download, transmit, or otherwise reproduce,
+	   distribute or display the contributions to the work claimed
+	   by Emory University for non-profit educational purposes,
+	   provided this header is included in its entirety.  For
+	   inquiries about commercial uses, contact either: Institute
+	   for Jewish Studies, Emory University, Atlanta GA 30322 or
+	   the Lewis H. Beck Center for Electronic Collections and
+	   Services, Woodruff Library, Emory University, Atlanta,
+	   Georgia 30322 </p></availability> 
+	   <date>2004</date>
+	 </publicationStmt>
+	 <seriesStmt>
+	   <title>Great War</title>
+	 </seriesStmt>
+	 <notesStmt><note></note></notesStmt>
+         <sourceDesc>
+            <bibl>
+	     <title>Songs and Sonnets for England in War Time: Being a Collection of Lyrics by Various Authors Inspired by the Great War</title>
+	     <author>R. Watson Kerr</author>
+	     <pubPlace>London</pubPlace>
+	     <publisher>John Lane</publisher>
+             <pubPlace>New York</pubPlace>
+	     <publisher>John Lane Company</publisher>
+	     <date>1919</date>
+	   </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+	<projectDesc><p>Poetry contemporary to World War I (the Great
+	War) has been digitized by OCR or rekeying. The work has been
+	done in conjunction with Dr. Harry Rusche of the English
+	Department, Emory University</p></projectDesc>
+	<tagsDecl>
+	  <rendition id="quote">Paragraphs including q or quote
+	  elements indicate material that is in a block
+	  quote.</rendition>
+	  <rendition id="title">Where the title of a work is
+	  italicized, it is marked with a title element, both in the
+	  text and in footnotes.</rendition>
+	  <tagUsage gi="q" render="quote">blockquote</tagUsage>
+	  <tagUsage gi="quote" render="quote">blockquote</tagUsage>
+	  <tagUsage gi="title" render="title">italic</tagUsage>
+	</tagsDecl>
+	<refsDecl><p>The page numbers of the volumes are indicated by
+	page break elements</p>
+	<p></p>
+	</refsDecl>
+	<classDecl>
+	  <taxonomy id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
+	  </taxonomy>
+	</classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+	   <rs type="collection">poetry</rs>
+	   <rs type="language">English</rs>
+            <rs type="ethnicity">Caucasian</rs>
+            <rs type="form">Unedited</rs>
+            <rs type="genre">Poetry</rs>
+            <rs type="geography">Great Britain</rs>
+            <date>1900-1999</date>
+         </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>World War, 1914-1918--Poetry.</item>
+	       <item>English poetry--20th Century.</item>
+	       <item>War.</item>
+	     </list>
+	   </keywords>
+	 </textClass></profileDesc>
+      <revisionDesc><!-- add your information here -->
+	<change>
+	  <date>2009</date>
+	  <respStmt>
+	    <name>Shruthi Vissa</name>
+	    <resp>Beck Center staff</resp>
+	  </respStmt>
+	    <item>Proofing, encoding</item>
+	</change>
+      </revisionDesc>
+   </teiHeader>
+<text>
+<front>
 
-<pb n=""/>
+<pb n="i"/>
+<titlePage id="" type="half">
+     <docTitle>
+       <titlePart type="main">SONGS &#x0026; SONNETS<lb/>FOR ENGLAND IN<lb/>WAR TIME</titlePart>
+     </docTitle>
+   </titlePage>
 
+<pb n="[ii]"/>
+?????not sure what to call this page.
 
+<pb n="[iii]"/>
+<titlePage id="" type="full">
+     <docTitle>
+       <titlePart type="main">SONGS AND SONNETS<lb/>FOR ENGLAND IN<lb/>WAR TIME</titlePart>
+<titlePart type="sub">BEING A COLLECTION OF LYRICS<lb/>BY VARIOUS AUTHORS INSPIRED BY<lb/>THE GREAT WAR</titlePart>
+     </docTitle>
+       <epigraph><cit><q><lg type="stanza"><l><hi rend="italic">Sound, sound the clarion, fill the file !</hi></l>
+<l rend="inline"><hi rend="italic">To all the sensual world proclaim,</hi></l>
+<l><hi rend="italic">One crowded hour of glorious life</hi></l>
+<l rend="inline"><hi rend="italic">Is worth an age without a name.</hi></l></lg>
+<bibl><byline>SIR WALTER SCOTT,</byline> "Old Mortality"</bibl></q></cit></epigraph>
+       <docImprint>
+        <pubPlace>LONDON:<publisher> JOHN LANE, THE BODLEY HEAD</publisher></pubPlace>
+	 <pubPlace>NEW YORK:
+	 <publisher>JOHN LANE COMPANY,</publisher></pubPlace>
+<pubPlace> TORONTO: <publisher> BELL AND COCKBURN
+	 <docDate>MCMXIV [1914]</docDate></publisher></pubPlace>
+       </docImprint>
+   </titlePage>
 
-<l>SONGS &amp; SONNETS</l>
-<l>FOR ENGLAND IN</l>
-<l>WAR TIME</l>
+<pb n="iv"/>
+<div type="colophon" id="fm2">
+<p>THE BALLANTYNE PRESS TAVISTOCK STREET COVENT GARDEN LONDON</p>
+</div>
 
-
-
-<pb n=""/>
-
-
-
-<l>The entire profits from the sale of this</l>
-
-<l>volume will be given to the Prince of</l>
-
-<l>Wales's National Relief Fund</l>
-
-
-
-<pb n=""/>
-
-
-
-<l>SONGS a? SONNETS</l>
-<l>FOR ENGLAND IN</l>
-<l>WAR TIME</l>
-
-<l>BEING A COLLECTION OF LYRICS</l>
-<l>BY VARIOUS AUTHORS INSPIRED BY</l>
-<l>THE GREAT WAR</l>
-
-
-
-
-
-<l>Sound, sound the clarion, fill the fife !</l>
-
-<l>To all the sensual world proclaim.</l>
-<l>One crowded hour of glorious life</l>
-
-<l>Is worth an age without a name.</l>
-
-<l>Sir Walter Scott, ' • Old Mortality</l>
-
-
-
-
-
-<l>LONDON : JOHN LANE, THE BODLEY HEAD</l>
-<l>NEW YORK: JOHN LANE COMPANY</l>
-<l>TORONTO: BELL AND COCKBURN MCMXIV</l>
-
-
-
-<pb n=""/>
-
-
-
-<l>THE  BALLANTYNE PRESS TAVISTOCK STREET COVENT GARDEN LONDON</l>
-
-
-
-<pb n=""/>
-
-
-
-<l>INTRODUCTION</l>
+<pb n="v">
+<div type="introduction" id="fm3">
+<head>INTRODUCTION</head>
 
 <p>In the stress of a nation's peril some of its greatest songs are born. In the stress of a nation's peril the poet at last comes into his own again, and with clarion call he rouses the sleeping soul of the empire. Prophet he is, champion and consoler.</p>
 <p>If in these later times the poet has been neglected, now in our infinite need, in our pride and our sorrow, he is here to strengthen, comfort and inspire. The poet is vindicated.</p>
@@ -90,15 +160,15 @@ soldier ready for the ultimate sacrifice, cheered on his way by the lilt of a hu
 <l>Captains and conquerors leave a little dust,</l>
 <l>And kings a dubious legend of their reign ;</l>
 <l>The swords of Caesars, they are less than rust:</l>
-<l>The poet doth remain."</l></lg>
-
+<l>The poet doth remain."</l></lg></q>
+</div>
 
 
 <pb n="vii"/>
 
+<div id="fm4" type="publisher's note">
 
-
-<l>PUBLISHER'S NOTE</l>
+<head>PUBLISHER'S NOTE</head>
 
 <p>Of our poets who have been inspired to write and publish separate volumes of war poems during the actual progress of a campaign, we can only recall one--the late Sydney Dobell, whose " Sonnets on the War," and " England in Time of War," both dealt with the Crimea. Mr. William Watson's "The Purple East" was read and quoted the world over during the Armenian atrocities : indeed, " Abdul the Damned " has passed into the language. Although this famous sonnet sequence sprang out of events which could not be called a campaign in the accepted and legitimate sense of the word, yet it may be fairly argued that the Kaiser has surpassed the Turk in inflicting suffering on defenceless people.</p>
 
@@ -116,6 +186,7 @@ soldier ready for the ultimate sacrifice, cheered on his way by the lilt of a hu
 
 <pb n="PUBLISHER'S NOTE   ix"/>
 
+<div id="fm1000" type="poem"  n="1">
 <head>WELCOME TO YOU, GALLANT BRITONS</head>
 
 <lg type="stanza">
@@ -145,14 +216,15 @@ soldier ready for the ultimate sacrifice, cheered on his way by the lilt of a hu
 <l>And reap final glory ;</l>
 <l rend="inline">Hail to them all!</l></lg>
 
-<l>G. C.</l>
-
+<byline>G. C.</byline>
+</div>
 
 
 <pb n="X                                     PUBLISHER'S NOTE"/>
 
 <p>I have also been favoured with another poem which has an added interest from the fact that the writer has for many years been well acquainted with German politics and German statesmen.</p>
 
+<div id="fm1001" type="poem" n="2">
 <head>A PARTNERSHIP</head>
 
 <lg type="stanza">
@@ -196,23 +268,34 @@ soldier ready for the ultimate sacrifice, cheered on his way by the lilt of a hu
 <l>Bidding the whole wide world defiance--</l>
 <l>Wait! and perhaps his Partner may send</l>
 <l>The blasphemous Kaiser a fitting end.</l></lg>
-
+</div>
 
 <p>My thanks are due for the great generosity displayed by all the authors whose poems appear in this volume, and whose names will be found on following pages ;and also to the Editors of the <hi rend="italic">Times, Daily Chronicle, Westminster Gazette, Daily News and Leader, Morning Post, Daily Telegraph, Evening Standard, Daily Express,Pall Mall Gazette, Punch, New Weekly, New Witness, Truth, Saturday Review, T.P.'s Weekly, Yorkshire Post, Glasgow Evening News</hi>, for full permission to reprint the poems that have appeared in their columns.</p>
 
 <p>Mr. Vernon Hill has drawn and presented the cover design.</p>
 
-<l>JOHN LANE</l>
+<byline>JOHN LANE</byline>
 
-<l>The BODLEY Head.</l>
-
-
-
-<pb n=""/>
-
-<pb n=""/>
+<dateline><name type="place">THE BODLEY HEAD.</name></dateline>
+</div>
 
 
+<pb n="[xi]"/>
+
+
+<pb n="xiii"/>
+<div id="lanesongsfm5" type="list of authors">
+<figure type="lanesongsl1" rend="inline">
+<figDesc> Alphabetic list of authors in front of "Songs and Sonnets for England in War Time"</figDesc>
+</figure>
+
+<pb n="xiv"/>
+<figure type="lanesongsl2" rend="inline">
+<figDesc> Alphabetic list of authors in front of "Songs and Sonnets for England in War Time"</figDesc>
+</figure>
+</div>
+
+<pb n="1"/>
 <div id="lanesongs001" type="poem" n="1">
 <head>TO THE TROUBLER OF THE WORLD</head>
 

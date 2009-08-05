@@ -138,7 +138,7 @@
 <p>THE BALLANTYNE PRESS TAVISTOCK STREET COVENT GARDEN LONDON</p>
 </div>
 
-<pb n="v">
+<pb n="v"/>
 <div type="introduction" id="fm3">
 <head>INTRODUCTION</head>
 
@@ -230,7 +230,7 @@ soldier ready for the ultimate sacrifice, cheered on his way by the lilt of a hu
 <lg type="stanza">
 <l>God for the Kaiser !    God for the Hun !</l>
 <l>God for the fiercest war ever the sun</l>
-<l>Shone on !--No wonder it hid its face *</l>
+<l>Shone on !--No wonder it hid its face <ref target="p2">1</ref></l>
 <l>When the Kaiser rode forth to his big disgrace.</l></lg>
 
 <lg type="stanza">
@@ -251,7 +251,7 @@ soldier ready for the ultimate sacrifice, cheered on his way by the lilt of a hu
 <l>Murder the old men, slaughter the young.</l>
 <l>Scatter their bodies abroad for dung.</l></lg>
 
-<l>* The eclipse of the sun.</l>
+<note place="foot" id="p2" n="1">The eclipse of the sun.</note>
 
 
 
@@ -294,7 +294,9 @@ soldier ready for the ultimate sacrifice, cheered on his way by the lilt of a hu
 <figDesc> Alphabetic list of authors in front of "Songs and Sonnets for England in War Time"</figDesc>
 </figure>
 </div>
+</front>
 
+<body>
 <pb n="1"/>
 <div id="lanesongs001" type="poem" n="1">
 <head>TO THE TROUBLER OF THE WORLD</head>
@@ -316,7 +318,7 @@ soldier ready for the ultimate sacrifice, cheered on his way by the lilt of a hu
 <l>Who lit the fire accurst that flames to-day.</l></lg>
 
 <byline>WILLIAM WATSON</byline>
-<l>Times, August 6, 1914</l>
+<bibl>Times, August 6, 1914</bibl>
 </div>
 
 
@@ -366,7 +368,7 @@ soldier ready for the ultimate sacrifice, cheered on his way by the lilt of a hu
 <l>Before mankind's Republic, ending war.</l></lg>
 
 <byline>JUSTIN HUNTLY MCCARTHY</byline>
-<l>Daily Chronicle, August 3, 1914</l>
+<bibl><hi rend="italic">Daily Chronicle, August</hi> 3, 1914</bibl>
 </div>
 
 
@@ -394,8 +396,8 @@ soldier ready for the ultimate sacrifice, cheered on his way by the lilt of a hu
 <l rend="inline">And they who look beyond this mortal life</l>
 <l>Know Peace on earth in Heaven hath great allies.</l></lg>
 
-<l>H. D. RAWNSLEY</l>
-<l>Westminster Gazette, August 4, 1914</l>
+<byline>H. D. RAWNSLEY</byline>
+<bibl><hi rend="italic">Westminster Gazette, August</hi> 4, 1914</bibl>
 </div>
 
 <pb n="5"/>
@@ -448,7 +450,7 @@ soldier ready for the ultimate sacrifice, cheered on his way by the lilt of a hu
 <l>Lord God of Hosts!</l></lg>
 
 <byline>ANTHONY KIRBY GILL</byline>
-<l>Pall Mall Gazette, August s, 1914</l>
+<bibl><hi rend="italic">Pall Mall Gazette, August</hi> 5, 1914</bibl>
 </div>
 
 
@@ -502,7 +504,7 @@ soldier ready for the ultimate sacrifice, cheered on his way by the lilt of a hu
 <l>Forth ! and God defend the Right!</l></lg>
 
 <byline>HENRY NEWBOLT</byline>
-<l>Times, August 5, 1914</l>
+<bibl><hi rend="italic">Times, August</hi> 5, 1914</bibl>
 </div>
 
 
@@ -536,7 +538,7 @@ soldier ready for the ultimate sacrifice, cheered on his way by the lilt of a hu
 <l>Was silence for the space of half an hour.</l></lg>
 
 <byline>M JOURDAIN</byline>
-<p>Westminster Gazette, August 6, 1914</p>
+<bibl><hi rend="italic">Westminster Gazette, August</hi> 6, 1914</bibl>
 
 </div>
 
@@ -609,7 +611,7 @@ soldier ready for the ultimate sacrifice, cheered on his way by the lilt of a hu
 <l>And lapse into our ancient slime.</l></lg>
 
 <byline>A. ST. JOHN ADCOCK.</byline>
-<l>Daily Herald, August 6, 1914</l>
+<l><hi rend="italic">Daily Herald, August</hi> 6, 1914</l>
 </div>
 </div>
 
@@ -653,7 +655,7 @@ soldier ready for the ultimate sacrifice, cheered on his way by the lilt of a hu
 <l rend="inline">Who dream that Drake is dead.</l></lg>
 
 <byline>H. DE VERE STACPOOLE</byline>
-<l>Daily Express, August 7, 1914</l>
+<bibl><hi rend="italic">Daily Express, August</hi> 7, 1914</bibl>
 </div>
 
 
@@ -726,7 +728,7 @@ soldier ready for the ultimate sacrifice, cheered on his way by the lilt of a hu
 
 <byline>IAN COLVIN</byline>
 
-<l>Morning Post, August 8, 1914</l>
+<bibl><hi rend="italic">Morning Post, August</hi> 8, 1914</bibl>
 </div>
 
 
@@ -755,7 +757,7 @@ soldier ready for the ultimate sacrifice, cheered on his way by the lilt of a hu
 <l>Then thy destruction slake thy madman's thirst!</l></lg>
 
 <byline>STEPHEN PHILLIPS</byline>
-<l>Daily Chronicle, August 8, 1914</l>
+<bibl><hi rend="italic">Daily Chronicle, August</hi> 8, 1914</bibl>
 </div>
 
 <pb n="CANADA TO ENGLAND  19"/>
@@ -782,7 +784,7 @@ soldier ready for the ultimate sacrifice, cheered on his way by the lilt of a hu
 <l>Of all past greatnesses about thee stand.</l></lg>
 
 <byline>MARJORIE L. C. PICKTHALL</byline>
-<l><hi rend="italic">Times, August</hi>10, 1914 </l>
+<bibl><hi rend="italic">Times, August</hi>10, 1914 </bibl>
 </div>
 
 <pb n=" 20 TO LITTLE BELGIUM"/>
@@ -842,7 +844,7 @@ soldier ready for the ultimate sacrifice, cheered on his way by the lilt of a hu
 <l>Rather than this, in God's own name, be war!</l></lg>
 
 <byline>COULSON KERNAHAN</byline>
-<bibl>Daily Chronicle, August 10, 1914</bibl>
+<bibl><hi rend="italic">Daily Chronicle, August</hi> 10, 1914</bibl>
 </div>
 </div>
 
@@ -2804,8 +2806,8 @@ FROM ENGLAND</head>
 
 <byline>WILLI.AM WATSON</byline>
 <bibl><hi rend="italic">Times</hi></bibl>
+</div></body></text></TEI.2>
 
 
 
-<pb n=""/>
 

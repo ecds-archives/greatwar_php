@@ -572,7 +572,8 @@
 
 <pb n="The Burial of Sophocles    5"/>
 
-
+<group><body><text>
+<div id="sterling100" type="part" n="1">
 <div id="sterling001" type="poem" n="1">
 <head>THE BURIAL OF SOPHOCLES</head>
 
@@ -654,208 +655,135 @@
 
 <lg type="stanza">
 <l>How lingeringly we reached the guarded gate</l>
-<l>Of the dear city fate-enshadowed !—</l>
-<l>As If reluctantly she bore the fate</l>
-<l>That stole his presence. For of old ('twas said)</l>
-<l>The palaces of Kings had sought In vain</l>
-<l>To woo him from his Athens, and the long</l>
-<l>Proof of the years had found him ever true :</l>
-<l>So, like a lover, fain</l>
-<l>Would she have held him from this shelter</l>
-<l>strong</l>
-<l>Once hers, now—gift of a curs'd stranger</l>
-<l>crew!</l>
+<l rend="inline">Of the dear city fate-enshadow&#x00E8;d !--</l>
+<l>As if reluctantly she bore the fate</l>
+<l rend="inline">That stole his presence. For of old ('twas said)</l>
+<l>The palaces of Kings had sought in vain</l>
+<l rend="inline">To woo him from his Athens, and the long</l>
+<l rend="inline">Proof of the years had found him ever true :</l>
+<l rend="inline">So, like a lover, fain</l>
+<l>Would she have held him from this shelter strong</l>
+<l>Once hers, now--gift of a curs'd stranger crew!</l></lg>
 
 
-
-
-
+<lg type="stanza">
 <l>But when we left the wakeful, following crowd</l>
-
-<l>Within the walls, and passed the sentinels,</l>
+<l rend="inline">Within the walls, and passed the sentinels,</l>
 <l>Pausing we turn'd : and lo ! for us the shroud</l>
-
-<l>Of silent night hid nothing.    All the bells</l>
-<l>Were set a-chlming In each memory,</l>
-
-<l>And to fond eyes, that knew the outline clear</l>
-<l>Of every tower and temple and the whole</l>
-<l>Form of her majesty,</l>
+<l rend="inline">Of silent night hid nothing.  All the bells</l>
+<l>Were set a-chiming in each memory,</l>
+<l rend="inline">And to fond eyes, that knew the outline clear</l>
+<l rend="inline">Of every tower and temple and the whole</l>
+<l rend="inline">Form of her majesty,</l>
 <l>Athens, the queenly city, bade appear,</l>
-
-<l>Rob'd  in   revealing  shade, her wondrous</l>
-<l>soul.</l>
-
-<l>8</l>
+<l rend="inline">Rob'd  in   revealing  shade, her wondrous soul.</l></lg>
 
 
 
-<pb n=""/>
+<pb n="The Burial of Sophocles     9"/>
 
-
-
-<l>The Burial of Sophocles</l>
-
-<l>Her  wondrous  soul, her wondrous, grieving</l>
-<l>soul</l>
-<l>Captur'd and fiU'd us.—Oh, how fevrous then</l>
+<lg type="stanza">
+<l>Her  wondrous  soul, her wondrous, grieving soul</l>
+<l rend="inline">Captur'd and fill'd us.--Oh, how fevrous then</l>
 <l>(When we had forfeited the passing toll</l>
-
-<l>Of tears, that Love itself exacts from men</l>
+<l rend="inline">Of tears, that Love itself exacts from men</l>
 <l>On such an errand) did we take the road,</l>
 <l>And by Cephlsus' ' sleepless fountains' bore</l>
-<l>On the dead singer of Colonus fair,</l>
-<l>Yon kindly last abode</l>
+<l rend="inline">On the dead singer of Colonus fair,</l>
+<l rend="inline">Yon kindly last abode</l>
 <l>Of the royal Theban martyr, who of yore</l>
-<l>Curs'd a  false   son   and dying triumph'd</l>
-<l>there.</l>
+<l>Curs'd a  false   son   and dying triumph'd there.</l></lg>
 
-
-
-
-
+<lg type="stanza">
 <l>Ah ! Fancy loves to weave at such an hour</l>
-
-<l>A faery web of false resemblances.—</l>
-<l>And who  hath   strength to curb her perilous</l>
-<l>power</l>
-<l>Of blind divining ?    Many phantasies</l>
+<l rend="inline">A faery web of false resemblances.--</l>
+<l>And who hath strength to curb her perilous power</l>
+<l rend="inline">Of blind divining ?  Many phantasies</l>
 <l>Made riot in our thought and seem'd to bring</l>
-<l>The living children of his poesy</l>
-
+<l rend="inline">The living children of <hi rend="italic">his</hi> poesy</l>
 <l>Winging from out the night to claim a part</l>
-<l>In all our sorrowing :</l>
+<l rend="inline">In all our sorrowing :</l>
 <l>While the lorn gale out of the Northern sky</l>
-<l>Sped its far, sullen mutterings to our heart-</l>
-
-<l>9</l>
+<l rend="inline">Sped its far, sullen mutterings to our heart.</l></lg>
 
 
+<pb n="10    The Burial of Sophocles"/>
 
-<pb n=""/>
-
-
-
-<l>The Burial of Sophocles</l>
-
-<l>And then that "darkly-riding company!—</l>
-
-<l>What rapid. Iron question stabb'd the air ?</l>
+<lg type="stanza">
+<l>And then that "darkly-riding company!--</l>
+<l rend="inline">What rapid, iron question stabb'd the air ?</l>
 <l>Rude force in-bursting on our reverie</l>
-
-<l>With Insolence of arms and doubting stare !</l>
-<l>But when the whisper flew that this was he^</l>
-<l>Poet of all the nations, rare bequest</l>
-<l>Of Hellas to the treasuries of Time,—</l>
-<l>Forgot was enmity.</l>
+<l rend="inline">With Insolence of arms and doubting stare !</l>
+<l>But when the whisper flew that this was <hi rend="italic">he</hi></l>
+<l rend="inline">Poet of all the nations, rare bequest</l>
+<l rend="inline">Of Hellas to the treasuries of Time,--</l>
+<l rend="inline">Forgot was enmity,</l>
 <l>And, sons of Hellas all, we onward press'd</l>
-<l>Hot with one fervour and one care sublime.</l>
+<l rend="inline">Hot with one fervour and one care sublime.</l></lg>
 
-
-
-
-
-<l>And last, the tomb.—One struck the dead man's</l>
-<l>lyre</l>
-<l>By Death long silenc'd, and our hearkening</l>
-<l>ears</l>
+<lg type="stanza">
+<l>And last, the tomb.--One struck the dead man's lyre</l>
+<l rend="inline">By Death long silenc'd, and our hearkening ears</l>
 <l>Were open'd for one moment of desire</l>
-
-<l>To the pure, perfect music of the spheres ;</l>
-<l>As if his Spirit had vouchsaPd to us</l>
-<l>A fragment of eternal harmony</l>
-
-<l>From its new dwelling-place.    The player</l>
-<l>ceas'd ;</l>
-
-<l>All dumb and tremulous</l>
+<l rend="inline">To the pure, perfect music of the spheres ;</l>
+<l>As if his Spirit had vouchsaf'd to us</l>
+<l rend="inline">A fragment of eternal harmony</l>
+<l rend="inline">From its new dwelling-place. The player ceas'd ;</l>
+<l rend="inline">All dumb and tremulous</l>
 <l>We smooth'd the coffin, cas'd in greenery</l>
-<l>And with our own shorn tresses over-fleec'd.</l>
-
-<l>IO</l>
+<l rend="inline">And with our own shorn tresses over-fleec'd.</l></lg>
 
 
+<pb n="The Burial of Sophocles      11"/>
 
-<pb n=""/>
-
-
-
-<l>The Burial of Sophocles</l>
-
+<lg type="stanza">
 <l>And so we laid him : even so he lies</l>
-
-<l>To be for aye the Muse's pensioner :</l>
+<l rend="inline">To be for aye the Muse's pensioner :</l>
 <l>Poets unborn shall sing him, centuries</l>
-
-<l>Untold tell of his fealty to her.—</l>
+<l rend="inline">Untold tell of his fealty to her.--</l>
 <l>For oh ! the service of his life will live</l>
-
-<l>Deathlessly eloquent.    But I------alas !</l>
-
-<l>Left desolate within this teasing world—</l>
-<l>What comfort can I give</l>
+<l rend="inline">Deathlessly eloquent.    But I------alas !</l>
+<l rend="inline">Left desolate within this teasing world--</l>
+<l rend="inline">What comfort can I give</l>
 <l>My comrades ere again those walls we pass</l>
-<l>Whose flag of hope for evermore is furl'd }</l>
+<l rend="inline">Whose flag of hope for evermore is furl'd ?</l>
+</lg>
 
 
-
-
-
-<l>O multitudinous music of the day—</l>
-
-<l>Bird-song and breeze and forest-minstrelsy—</l>
+<lg type="stanza">
+<l>O multitudinous music of the day--</l>
+<l rend="inline">Bird-song and breeze and forest-minstrelsy--</l>
 <l>You storm this heart and to your chorus gay</l>
-
-<l>Marry Its dirge of desolate misery :</l>
-<l>Whence a faint song of musing hope Is born,—</l>
-<l>Hope for Earth's children whom the Master</l>
-<l>lov'd.</l>
-<l>And for God's justice that he witness'd</l>
-<l>e'er,</l>
-
-<l>Hope for his Athens torn</l>
-<l>By foe and feud :    So be my spirit prov'd</l>
-<l>Not all unworthy him whose name I bear.</l>
+<l rend="inline">Marry its dirge of desolate misery :</l>
+<l>Whence a faint song of musing hope is born,--</l>
+<l rend="inline">Hope for Earth's children whom the Master lov'd,</l>
+<l>And for God's justice that he witness'd e'er,</l>
+<l rend="inline">Hope for his Athens torn</l>
+<l>By foe and feud : So be my spirit prov'd</l>
+<l rend="inline">Not all unworthy him whose name I bear.</l></lg>
 
 
 
 
+<pb n="12   The Burial of Sophocles"/>
 
-<l>II</l>
+<lg type="stanza">
+<l>Ah ! Master, when the blast uproots a tree,</l>
+<l rend="inline">Its form lies bedded--but a god beneath</l>
+<l>Treasures its leaves and perish'd fragrancy</l>
+<l rend="inline">To pierce anew the pregnant soils of death :</l>
+<l>So from thy poetry, thy spirit-tomb,</l>
+<l rend="inline">Shall burgeon wealth of tears and tenderness</l>
+<l rend="inline">And beauty, when forgotten is this pit</l>
+<l rend="inline">And drain'd is Athens' doom-----</l>
+<l>Come, leave his  body,  friends, to  Earth's caress.--</l>
+<l rend="inline">Oh, lightly, lightly. Earth, encompass it!</l>
+</lg>
+</div>
+</div>
+</text></body>
 
-
-
-<pb n=""/>
-
-
-
-<l>The Burial of Sophocles</l>
-
-<l>Ah ! Master, when the blast uproots a tree.</l>
-<l>Its form lies bedded—but a god beneath</l>
-<l>Treasures its leaves and perlsh'd fragrancy</l>
-
-<l>To pierce anew the pregnant soils of death :</l>
-<l>So from thy poetry, thy spirit-tomb.</l>
-
-<l>Shall burgeon wealth of tears and tenderness</l>
-<l>And beauty, when forgotten is this pit</l>
-
-<l>And draln'd Is Athens' doom-----</l>
-
-<l>Come,  leave his  body,  friends, to  Earth's</l>
-<l>caress,—</l>
-<l>Oh, lightly, lightly. Earth, encompass It!</l>
-
-
-
-
-
-<l>12</l>
-
-
-
-<pb n=""/>
+<pb n="[13]"/>
 
 
 
@@ -863,108 +791,76 @@
 
 
 
-<pb n=""/>
+<pb n="[14]"/>
 
-<pb n=""/>
+<pb n="Prologue to a Children's Play    15"/>
 
+<body><text>
+<div id="sterling200" type="part" n="2">
+<div id="sterling002" type="poem" n="2">
+<head type="main">PROLOGUE TO A CHILDREN'S PLAY</head>
+<head type="sub">SPOKEN BY FAIRY</head>
 
-
-<l>PROLOGUE TO A CHILDREN'S PLAY</l>
-<l>SPOKEN BY FAIRY</l>
-
-<l>The golden deities of legend old</l>
-
-<l>Have passed away.    No more the hero bold</l>
-
+<lg type="stanza">
+<l>THE golden deities of legend old</l>
+<l>Have passed away. No more the hero bold</l>
 <l>Holds free discourse with Gods and Goddesses ;</l>
-
 <l>And Nymph and Satyr 'mid the shady trees</l>
-
 <l>No more do revel in a lonely vale ;</l>
-
 <l>Nor Pan's wild music grace the sylvan tale.</l>
-
 <l>But yet to-day our authoress has made</l>
-
 <l>The fairy brood inhabit still the glade.</l>
-
 <l>The tinkling bells of fairyland do sound</l>
-
 <l>As from a distance, and the country round</l>
-
 <l>Is subject still unto their gentle sway.</l>
-
-<l>My name Is Starlight, and in this our play</l>
-
+<l>My name is Starlight, and in this our play</l>
 <l>I am the fairy Good who helps the Weak</l>
-
 <l>Against foul-gotten Strength, 'tis I who seek</l>
-
 <l>To foster Justice and to make the Right</l>
-
 <l>Triumph o'er Evil in the well-fought fight.</l>
 
-<l>15</l>
 
+<pb n="16      Prologue to a  Childreris Play"/>
 
-
-<pb n=""/>
-
-
-
-<l>Prologue to a  Childreris Play</l>
-
-<l>This Is the very essence of the play</l>
+<l>This is the very essence of the play</l>
 <l>That we present to you, O maidens gay.</l>
 <l>And you, O gallant youths, and last of all</l>
-<l>(And also least) to you, O puppy small.</l>
+<l>(And also least) to you, O puppy small.</l></lg>
 
-<l>1909.</l>
-
-
-
+<dateline><date value="1909">1909.</date></dateline>
+</div>
 
 
-<l>16</l>
+<pb n="SONNET      17"/>
 
 
+<div id="sterling003" type="poem" n="3">
+<head type="main">SONNET</head>
 
-<pb n=""/>
+<head type="sub">ON A PICTURE BY R. MACAULAY<lb/>
+STEVENSON</head>
 
-
-
-<l>SONNET</l>
-
-<l>ON A PICTURE BY R. MACAULAY</l>
-<l>STEVENSON</l>
-
-<l>0  GIFTED Hunter, would thy skill were mine !</l>
-<l>How could'st thou snare the summer's passing</l>
-
-<l>voice.''</l>
-<l>How could'st thou choose the choicest from the</l>
-
-<l>choice</l>
+<lg type="stanza">
+<l>O GIFTED Hunter, would thy skill were mine !</l>
+<l>How could'st thou snare the summer's passing voice?</l>
+<l>How could'st thou choose the choicest from the choice</l>
 <l>Of dulcet summer melodies, combine</l>
-<l>And mould them into this—a thing sublime.</l>
-<l>Rich in the luxury of loveliness ?</l>
-<l>What hallowed musing did thy heart Impress .''</l>
+<l>And mould them into this--a thing sublime,</l>
+<l>Rich in the luxury of loveliness?</l>
+<l>What hallowed musing did thy heart impress?</l>
 <l>Surely the thought was God's, thy brush divine.</l>
 <l>Oh ! I could feel those gende Zephyrs blow</l>
 <l>And see thy river mirroring the sun ;</l>
 <l>And I could scent the honeyed flowers that grow</l>
 <l>Empurpling that meadow every one ;</l>
-<l>And somewhere yonder In the fading sky</l>
+<l>And somewhere yonder in the fading sky</l>
+<l>I gain the secret of Eternity !</l></lg>
 
-<l>1  gain the secret of Eternity !</l>
+<dateline><date value="1910">1910.</date></dateline>
 
-<l>1910.</l>
+</div>
 
-<l>17</l>
-
-
-
-<pb n=""/>
+<pb n=""/> 
 
 
 

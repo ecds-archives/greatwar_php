@@ -572,7 +572,7 @@
 
 <pb n="The Burial of Sophocles    5"/>
 
-<group><body><text>
+<group><text><body>
 <div id="sterling100" type="part" n="1">
 <div id="sterling001" type="poem" n="1">
 <head>THE BURIAL OF SOPHOCLES</head>
@@ -1292,7 +1292,7 @@ DYING LILIES</head>
 
 
 <pb n="[35]"/>
-
+<text>
 <front>
 
 <l>POEMS</l>
@@ -1303,8 +1303,8 @@ DYING LILIES</head>
 
 <pb n="[36]"/>
 
-
-<text><body>
+</front>
+<body>
 
 
 <pb n="To B.W.   37"/>
@@ -1649,7 +1649,7 @@ DYING LILIES</head>
 
 <pb n="[51]"/>
 
-<body><text>
+<text><front>
 
 <l>MARAN</l>
 
@@ -1661,7 +1661,8 @@ DYING LILIES</head>
 <pb n="55"/>
 <pb n="56"/>
 <pb n="57"/>
-
+</front>
+<body>
 <pb n="58"/>
 
 <div id="sterling017" type="editor's note">
@@ -1764,538 +1765,366 @@ DYING LILIES</head>
 
 <pb n="Maran  57"/>
 
-<l>Pity she pleaded from yon pale maiden</l>
-<l>Tears, spangled in the sky.</l>
+<lg type="stanza">
+<l>Pity she pleaded from yon pale maiden :</l>
+<l rend="inline">Tears, spangled in the sky,</l>
+<l>Fiercely the fond hope freezing,</l>
+<l rend="inline">Dim glitter'd through the gloom.</l></lg>
 
-<l>Fiercely the fond hope freezing.</l>
-<l>Dim glitter'd through the gloom.</l>
+<lg type="stanza">
+<l>And in her mind, grief-murky and madden'd,</l>
+<l rend="inline">Memory sparkled sweet:</l>
+<l>Brutal as the beam that mocks the blind,</l>
+<l rend="inline">Stinging the sightless eye.</l></lg>
 
-
-
-
-
-<l>And in her mind, grief-murky and madden'd.</l>
-
-<l>Memory sparkled sweet:</l>
-<l>Brutal as the beam that mocks the blind.</l>
-
-<l>Stinging the sighdess eye.</l>
-
-
-
-
-
+<lg type="stanza">
 <l>As when lowly a forest lord is laid</l>
+<l rend="inline">In winter by the axe wasted,</l>
+<l>Dusty, with arms undrap'd and drooping,</l>
+<l rend="inline">Where melody of old haunted,</l></lg>
 
-<l>In winter by the axe wasted.</l>
-<l>Dusty, with arms undrap'd and drooping.</l>
-
-<l>Where melody of old haunted,</l>
-
-
-
-
-
-<l>Yet sweetest of all  the Spring are his scarce</l>
-<l>tresses.</l>
-<l>Smiling amid Death strangely ;</l>
-<l>And the woodman is weeping, of his work peni¬</l>
-<l>tent.</l>
-<l>Sorrowing o'er Might murder'd ;</l>
-
-<l>57</l>
+<lg type="stanza">
+<l>Yet sweetest of all  the Spring are his scarce tresses,</l>
+<l rend="inline">Smiling amid Death strangely ;</l>
+<l>And the woodman is weeping, of his work penitent,</l>
+<l rend="inline">Sorrowing o'er Might murder'd ;</l>
 
 
+<pb n="58    Maran"/>
 
-<pb n=""/>
-
-
-
-<l>Maran</l>
-
-<l>As a star that hath shone in the sky-furnace.</l>
-
-<l>Bright-burning through the ages.</l>
+<l>As a star that hath shone in the sky-furnace,</l>
+<l rend="inline">Bright-burning through the ages,</l>
 <l>Falters and falls on a day fated</l>
+<l rend="inline">(Dread doom to every beauty !) ;</l></lg>
 
-<l>(Dread doom to every beauty !) ;</l>
+<lg type="stanza">
+<l>Then flames he brightest with a flare of fury,</l>
+<l rend="inline">Rushing to dark ruin ;</l>
+<l>And silent in  their  spheres  are  the sons of morning</l>
+<l rend="inline">Dimm'd by their dead brother :</l></lg>
 
-<l>Then flames he brightest with a flare of fury.</l>
-
-<l>Rushing to dark ruin ;</l>
-<l>And silent in  their  spheres  are  the sons of</l>
-<l>morning</l>
-
-<l>Dimm'd by their dead brother :</l>
-
+<lg type="stanza">
 <l>So 'mid stifling Sorrow did burning Sweet</l>
+<l rend="inline">Wanton in Maran's mind,</l>
+<l>Grief gaining a spectre of gladness,</l>
+<l rend="inline">Darkness a demon light.</l></lg>
 
-<l>Wanton in Maran's mind.</l>
-<l>Grief gaining a spectre of gladness.</l>
+<lg type="stanza">
+<l>(O garden of years, golden and glad,</l>
+<l rend="inline">Bright with the blossom Love ;</l>
+<l>O ancient home of a happy people :--)</l>
+<l rend="inline">Woe ! 'tis a wither'd dream !</l></lg>
 
-<l>Darkness a demon light.</l>
-
-<l>(O garden of years, golden and glad.</l>
-
-<l>Bright with the blossom Love ;</l>
-<l>O ancient home of a happy people :—)</l>
-
-<l>Woe ! 'tis a wither'd dream !</l>
-
-<l>(Ever-lighted lamp of holy labour.</l>
-
-<l>Land of the singing swain :—</l>
+<lg type="stanza">
+<l>(Ever-lighted lamp of holy labour,</l>
+<l rend="inline">Land of the singing swain :--</l>
 <l>Happy my eyes that gloried in that heaven,)</l>
-
-<l>Curst that behold this hell !</l>
-
-<l>58</l>
+<l rend="inline">Curst that behold this hell !</l></lg>
 
 
+<pb n="Maran  59"/>
 
-<pb n=""/>
-
-
-
-<l>Maran</l>
-
+<lg type="stanza">
 <l>(O ye fields fair with corn and fruits,</l>
-<l>Trees breaking 'neath their treasure :—)</l>
-
+<l rend="inline">Trees breaking 'neath their treasure :--)</l>
 <l>O heart of me hea-vy with the fruits of happiness</l>
-<l>Dead,—breaking 'neath the burden.</l>
+<l rend="inline">Dead,--breaking 'neath the burden.</l></lg>
 
+<lg type="stanza">
+<l>(O loving father, and lord beloved,</l>
+<l rend="inline">Thou mirror of Landa's light!--)</l>
+<l>Ah ! cruelty to murder a king kindly !--</l>
+<l rend="inline">What darkness is mine to-day ?</l></lg>
 
+<lg type="stanza">
+<l>(O valley singing to the sound of streamlets,--)</l>
+<l rend="inline">Nay, the light is for thee lost:</l>
+<l>Shall thy songs not evermore be with sorrow sounding,</l>
+<l rend="inline">And thy rivers with blood red }</l></lg>
 
-
-
-<l>(O loving father, and lord beloved.</l>
-<l>Thou mirror of Landa's light!—)</l>
-
-<l>Ah ! cruelty to murder a king kindly !-</l>
-<l>What darkness is mine to-day }</l>
-
-
-
-
-
-<l>(O valley singing to the sound of streamlets,—)</l>
-
-<l>Nay, the light Is for thee lost:</l>
-<l>Shall thy songs not evermore be with sorrow</l>
-<l>sounding.</l>
-
-<l>And thy rivers with blood red }</l>
-
-
-
-
-
-<l>(O Peace of the Past!) they have depos'd and</l>
-<l>sold thee</l>
-
-<l>So blindly by a blind one led :</l>
+<lg type="stanza">
+<l>(O Peace of the Past!) they have depos'd and sold thee</l>
+<l rend="inline">So blindly by a blind one led :</l>
 <l>For cruelly have they murder'd their king kindly,</l>
-
-<l>And darkness is on all to-day.</l>
-
-<l>59</l>
+<l rend="inline">And darkness is on all to-day.</l></lg>
 
 
+<pb n="60   Maran"/>
 
-<pb n=""/>
-
-
-
-<l>Maran</l>
-
+<lg type="stanza">
 <l>So she raving ran with a rage pitying,</l>
-
-<l>Maran the maid gentle.</l>
+<l rend="inline">Maran the maid gentle,</l>
 <l>Striving ever to save herself from the murderer,</l>
+<l rend="inline">Kroston the King-slayer.</l></lg>
 
-<l>Kroston the King-slayer.</l>
-
+<lg type="stanza">
 <l>But ever pitiless he followed with poor passion</l>
-
-<l>Burning in his blind heart.</l>
+<l rend="inline">Burning in his blind heart,</l>
 <l>Scorning the sacred gods as shadows,</l>
+<l rend="inline">Lusting for the maid's life.</l></lg>
 
-<l>Lusting for the maid's life.</l>
-
+<lg type="stanza">
 <l>And onward the cruel hunt hasted ;</l>
-
-<l>Nor stay'd the forest his steps:—</l>
+<l rend="inline">Nor stay'd the forest his steps:--</l>
 <l>Ah! shame on you, shame, ye trees sobbing,</l>
+<l rend="inline">To let him pitiless pass.</l></lg>
 
-<l>To let him pitiless pass.</l>
-
+<lg type="stanza">
 <l>Panting and panic-pale his quarry</l>
+<l rend="inline">Still ran the fateful race!</l>
+<l>Twice shame on you, ye trees tangling,</l>
+<l rend="inline">To stay her flying steps.</l></lg>
 
-<l>Still ran the fateful race!</l>
-<l>Twice shame on you, ye trees tangling.</l>
-
-<l>To stay her flying steps.</l>
-
+<lg type="stanza">
 <l>But sudden the wind song-sighing</l>
-<l>Hush'd "amid the high branches;</l>
-<l>And  the  leaves  murmur'd  with  a  mournful</l>
-<l>mystery,</l>
-<l>Silenc'd after wild sobbing.</l>
-
-<l>60</l>
+<l rend="inline">Hush'd amid the high branches;</l>
+<l>And  the  leaves  murmur'd  with  a  mournful mystery,</l>
+<l rend="inline">Silenc'd after wild sobbing.</l></lg>
 
 
+<pb n="Maran    61"/>
 
-<pb n=""/>
-
-
-
-<l>Maran</l>
-
-<l>And the clouds becalm'd, with their vap'rous</l>
-<l>cohorts</l>
-
-<l>Commingling In grim mass.</l>
+<lg type="stanza">
+<l>And the clouds becalm'd, with their vap'rous cohorts</l>
+<l rend="inline">Commingling in grim mass,</l>
 <l>Fraught with unutterable future, floated</l>
+<l rend="inline">Expectant in the vast vault.</l></lg>
 
-<l>Expectant in the vast vault.</l>
+<lg type="stanza">
+<l>And  the  maiden  moon,  unshrouded  for the moment,</l>
+<l rend="inline">In her grief gazed awfully,</l>
+<l>As if innocence should utter a doom of the ages,</l>
+<l rend="inline">Or a child pale prophecy.</l></lg>
 
+<lg type="stanza">
+<l>And the forest creatures in fretful fear</l>
+<l rend="inline">Stirr'd within their lairs sleepless:</l>
+<l>The lion growl'd as about to lose a lov'd thing,</l>
+<l rend="inline">Dreading an unseen spoiler.</l></lg>
 
-
-
-
-<l>And  the  maiden  moon,  unshrouded  for the</l>
-<l>moment.</l>
-
-<l>In her grief gazed awfully.</l>
-<l>As if innocence should utter a doom of the ages.</l>
-
-<l>Or a child pale prophecy.</l>
-
-
-
-
-
-<l>And the forest creatures In fretful fear</l>
-<l>Stirr'd within their lairs sleepless:</l>
-
-<l>The Hon growl'd as about to lose a lov'd thing.</l>
-<l>Dreading an unseen spoiler.</l>
-
-
-
-
-
+<lg type="stanza">
 <l>So all nature, nursing a nameless terror,</l>
-
-<l>Listen'd and waiting watch'd:</l>
-<l>As, when lightning flashing from the fever'd</l>
-<l>firmament</l>
-<l>Swoops on the nerveless night,</l>
-
-<l>6i</l>
+<l rend="inline">Listen'd and waiting watch'd:</l>
+<l>As, when lightning flashing from the fever'd firmament</l>
+<l rend="inline">Swoops on the nerveless night,</l></lg>
 
 
+<pb n="62   Maran"/>
 
-<pb n=""/>
-
-
-
-<l>Maran</l>
-
+<lg type="stanza">
 <l>Then the shepherds, in lonely silence sitting,</l>
+<l rend="inline">Listen and waiting watch,</l>
+<l>In pious prayer to the gods impassion'd,</l>
+<l rend="inline">Fearing the following peal.</l></lg>
 
-<l>Listen and waiting watch.</l>
-<l>In pious prayer to the gods impasslon'd.</l>
-
-<l>Fearing the following peal.</l>
-
+<lg type="stanza">
 <l>Yet ever onward the cruel hunt hasted;</l>
-
-<l>Do they know not of all Nature's watch.-'</l>
+<l rend="inline">Do they know not of all Nature's watch?</l>
 <l>Will fear fly and fury pursue</l>
+<l rend="inline">Till the treasuries of Time be spent?</l></lg>
 
-<l>Till the treasuries of Time be spent}</l>
-
+<lg type="stanza">
 <l>Nay! ... for the unknown is near, and Kroston</l>
-
-<l>In his course sudden stopt:</l>
+<l rend="inline">In his course sudden stopt:</l>
 <l>And his men marvell'd at the awful madness</l>
+<l rend="inline">Of his cry woe-wild.</l></lg>
 
-<l>Of his cry woe-wild.</l>
+<lg type="stanza">
+<l>But silent they stood round the king-slayer,</l>
+<l rend="inline">And they felt his fear in their hearts:</l>
+<l>And  waiting they watch'd for the untellable wonder</l>
+<l rend="inline">That was coming, coming to pass.</l></lg>
 
-<l>But silent they stood round the king-slayer.</l>
-<l>And they felt his fear in their hearts:</l>
-
-<l>And  waiting they watch'd for the untellable</l>
-<l>wonder</l>
-<l>That was coming, coming to pass.</l>
-
+<lg type="stanza">
 <l>Then forth from his limbs a form of fairness</l>
-
-<l>Sped, like a wan wave</l>
+<l rend="inline">Sped, like a wan wave</l>
 <l>Of living cloud, light-laden,</l>
-
-<l>Seeing and dim seen.</l>
-
-<l>62</l>
+<l rend="inline">Seeing and dim seen.</l></lg>
 
 
 
-<pb n=""/>
+<pb n="Maran   63"/>
 
-
-
-<l>Maran</l>
-
-<l>Oh, agony beyond utterance, and stained horror I</l>
-
-<l>He watch'd the winged shadow</l>
+<lg type="stanza">
+<l>Oh, agony beyond utterance, and stain&#x00E8;d horror !</l>
+<l rend="inline">He watch'd the wing&#x00E8;d shadow</l>
 <l>Fast flitting through the aw'd forest</l>
+<l rend="inline">To Maran the maid gentle.</l></lg>
 
-<l>To Maran the maid gentle.</l>
-
+<lg type="stanza">
 <l>And she stopt and turn'd, and saw it sailing</l>
-
-<l>Swift and sure in her path;</l>
+<l rend="inline">Swift and sure in her path;</l>
 <l>And in wondrous wise her fear wan'd!</l>
+<l rend="inline">Dawning day after night !</l></lg>
 
-<l>Dawning day after night !</l>
+<lg type="stanza">
+<l>Her body enfolded it beautifying, emboldening,</l>
+<l rend="inline">Till its light in her eyes did leap,</l>
+<l>And there stately she stood like a queen sorrowing,</l>
+<l rend="inline">And she rais'd to the air her hand.</l></lg>
 
-<l>Her body enfolded it beautifying, emboldening.</l>
-
-<l>Till Its light in her eyes did leap.</l>
-<l>And  there   stately she   stood   like   a   queen</l>
-<l>sorrowing.</l>
-
-<l>And she rals'd to the air her hand.</l>
-
+<lg type="stanza">
 <l>Then the men of Kroston, amaz'd and madden'd</l>
-
-<l>In taut sorrow shriek'd;</l>
+<l rend="inline">In taut sorrow shriek'd;</l>
 <l>For releas'd and lost, their bodies leaving,</l>
+<l rend="inline">Each fair phantom pass'd.</l></lg>
 
-<l>Each fair phantom pass'd.</l>
-
+<lg type="stanza">
 <l>And Nature knew of the nameless terror</l>
-
-<l>That carp'd her haunted heart:</l>
+<l rend="inline">That carp'd her haunted heart:</l>
 <l>And her gaunt bosom, great with grief,</l>
-
-<l>Like swollen ocean, shook.</l>
-
-
-
-<pb n=""/>
+<l rend="inline">Like swollen ocean, shook.</l></lg>
 
 
 
-<l>Maran</l>
+<pb n="64   Maran"/>
 
+<lg type="stanza">
 <l>Then flash'd her phantoms, tongues of fire,</l>
-
-<l>From earth and sky streaming.</l>
+<l rend="inline">From earth and sky streaming,</l>
 <l>Filling the maiden's form with a fairness</l>
+<l rend="inline">Unknown to mind mortal,</l></lg>
 
-<l>Unknown to mind mortal.</l>
-
+<lg type="stanza">
 <l>With unending hue empurpling the air</l>
-
-<l>And soft shapes innumerable</l>
+<l rend="inline">And soft shapes innumerable</l>
 <l>(Even drear depths of darkness sent</l>
+<l rend="inline">Their bright burdens glitteringly)--</l></lg>
 
-<l>Their bright burdens glitteringly)—</l>
-
+<lg type="stanza">
 <l>Lovelier than the light of lonely skies</l>
-
-<l>O'er snow-white wastes.</l>
+<l rend="inline">O'er snow-white wastes,</l>
 <l>When for pale mariners in perilous passage</l>
+<l rend="inline">The dance-rays dart--</l></lg>
 
-<l>The dance-rays dart—</l>
-
+<lg type="stanza">
 <l>Purer than the palace of pale heat</l>
-<l>In yon throbbing ember on the altar.</l>
+<l rend="inline">In yon throbbing ember on the altar,</l>
+<l>Which glows and gives the priest of its glory,</l>
+<l rend="inline">And his soul is nourish'd by its splendour.</l></lg>
 
-<l>Which glows and gives the priest of Its glory,</l>
-<l>And his soul is nourish'd by Its splendour.</l>
-
-<l>Each flower or blossom through the far forest.</l>
-
-<l>Each branch or lowly blade.</l>
-<l>Sent forth its soul—or the soul of Something</l>
-
-<l>It felt and lov'd before.</l>
-
-<l>64</l>
+<lg type="stanza">
+<l>Each flower or blossom through the far forest,</l>
+<l rend="inline">Each branch or lowly blade,</l>
+<l>Sent forth its soul--or the soul of Something</l>
+<l rend="inline">It felt and lov'd before.</l></lg>
 
 
+<pb n="Maran    65"/>
 
-<pb n=""/>
+<lg type="stanza">
+<l>Then wail'd the wind in bereavement wasted,</l>
+<l rend="inline">Sighing a broken song,</l>
+<l>Like a mermaid moaning the drown&#x00E8;d millions</l>
+<l rend="inline">Lost in the sceptred sea.</l></lg>
 
-
-
-<l>Maran</l>
-
-<l>Then wall'd the wind in bereavement wasted.</l>
-
-<l>Sighing a broken song.</l>
-<l>Like a mermaid moaning the drowned millions</l>
-
-<l>Lost in the sceptred sea.</l>
-
+<lg type="stanza">
 <l>And the forest sobb'd : and feeble and fainting</l>
-
-<l>The tribes of the teeming earth</l>
+<l rend="inline">The tribes of the teeming earth</l>
 <l>Utter'd a lament from the heart's agony:</l>
+<l rend="inline">But vain was their voice of woe.</l></lg>
 
-<l>But vain was their voice of woe.</l>
-
-
-
-
-
-<l>And   the   people   of mountain  and   meadow,</l>
-<l>miserable.</l>
-
-<l>The angulsh'd beasts of the earth.</l>
+<lg type="stanza">
+<l>And the people of mountain and meadow, miserable,</l>
+<l rend="inline">The anguish'd beasts of the earth,</l>
 <l>And the stars of the sky and their sad mistress,</l>
+<l rend="inline">All paid the pitiless toll.</l></lg>
 
-<l>All paid the pitiless toll.</l>
-
+<lg type="stanza">
 <l>O tears of the land! what toll terrible !</l>
+<l rend="inline">What lov'd and lost delight!</l>
+<l>O land of tears ! so lonely and loveless,--</l>
+<l rend="inline">What trembling tears are thine!</l></lg>
+</div>
 
-<l>What lov'd and lost delight!</l>
-<l>O land of tears ! so lonely and loveless,—</l>
+<pb n="66   Maran"/>
 
-<l>What trembling tears are thine!</l>
-
-
-
-
-
-<l>65</l>
-
-
-
-<pb n=""/>
-
-
-
+<div id="sterling019" type="poem" n="19">
+<lg type="stanza">
 <l>The wind among</l>
-<l>The willows seems</l>
-
+<l rend="inline">The willows seems</l>
 <l>To sing a song</l>
-<l>Of many themes :</l>
+<l>Of many themes :</l></lg>
 
+<lg type="stanza">
 <l>Now joyous soft :</l>
-<l>Now musing slow :</l>
-
+<l rend="inline">Now musing slow :</l>
 <l>Tempestuous oft</l>
-<l>Or wild with woe.</l>
+<l rend="inline">Or wild with woe.</l></lg>
 
-
-
-
-
+<lg type="stanza">
 <l>The moon looks down</l>
-
-<l>Upon the sea ;</l>
+<l rend="inline">Upon the sea ;</l>
 <l>With smile or frown</l>
+<l rend="inline">Inconstant she:</l></lg>
 
-<l>Inconstant she:</l>
-
+<lg type="stanza">
 <l>For waves reflect</l>
-<l>Her as they will,—</l>
-
+<l rend="inline">Her as they will,--</l>
 <l>With storm-foam fleck'd</l>
-<l>Or clear and still.</l>
+<l rend="inline">Or clear and still.</l></lg>
 
-
-
-
-
+<lg type="stanza">
 <l>Man's mind is a sea</l>
-<l>The moon doth scan.</l>
-
+<l rend="inline">The moon doth scan,</l>
 <l>And a willow tree</l>
-<l>Is the mind of man.</l>
+<l rend="inline">Is the mind of man.</l>
+</lg>
+</div>
+
+<pb n="67"/>
 
 
+<div id="sterling020" type="poem" n="20">
 
-
-
-<l>66</l>
-
-
-
-<pb n=""/>
-
-
-
-<l>1 TIP-TOED from the palace gates</l>
+<lg type="stanza">
+<l>I TIP-TOED from the palace gates</l>
 <l>To find the toy</l>
-
-<l>The rainbow spilt:</l>
+<l rend="inline">The rainbow spilt:</l>
 <l>In fearful joy</l>
+<l rend="inline">And innocent guilt;</l>
+<l>Nor heard the laughter of the Fates.</l></lg>
 
-<l>And innocent guilt;</l>
-<l>Nor heard the laughter of the Fates.</l>
-
-<l>And straight Into a painted sphere</l>
+<lg type="stanza">
+<l>And straight into a painted sphere</l>
 <l>Of rainbow mist</l>
-
-<l>I seem'd to rise :</l>
+<l rend="inline">I seem'd to rise :</l>
 <l>And phantoms kiss'd</l>
-<l>Of starry eyes,</l>
-<l>And all forgot my palace dear.</l>
+<l rend="inline">Of starry eyes,</l>
+<l>And all forgot my palace dear.</l></lg>
 
+<lg type="stanza">
 <l>But when the shadows set me free</l>
-<l>A memory yet tormenteth me :—</l>
+<l>A memory yet tormenteth me :--</l>
 <l>And oh ! that laughing mockery.</l>
+</lg></div>
 
 
+<pb n="68   The Round"/>
 
+<div id="sterling021" type="poem" n="21">
 
+<head>THE ROUND</head>
 
-<l>67</l>
+<lg type="stanza">
+<l>CROWN of the morning</l>
+<l rend="inline">Laid on the toiler:</l>
+<l rend="inline">Joy to the heart</l>
+<l rend="inline">Hope-rich.</l></lg>
 
-
-
-<pb n=""/>
-
-
-
-<l>THE ROUND</l>
-
-<l>Crown of the morning</l>
-<l>Laid on the toiler:</l>
-<l>Joy to the heart</l>
-<l>Hope-rich.</l>
-
+<lg type="stanza">
 <l>Treasure behind left ;</l>
-<l>Riches before him,</l>
-<l>Treasur'd in toil.</l>
-<l>To glean.</l>
+<l rend="inline">Riches before him,</l>
+<l rend="inline">Treasur'd in toil.</l>
+<l rend="inline">To glean.</l></lg>
 
+<lg type="stanza">
 <l>Starlit and hushful</l>
-<l>Wearily homeward :</l>
-<l>Rest to the brow</l>
-<l>Toil-stain'd.</l>
+<l rend="inline">Wearily homeward :</l>
+<l rend="inline">Rest to the brow</l>
+<l rend="inline">Toil-stain'd.</l></lg>
+</div></body></text>
 
 
-
-
-
-<l>68</l>
-
-
-
-<pb n=""/>
-
-
-
-<pb n=""/>
-
-<pb n=""/>
+<pb n="69"/>
 

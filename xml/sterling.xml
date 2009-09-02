@@ -1,23 +1,152 @@
+<TEI.2>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>POEMS: Electronic Edition</title>
+            <author><name type="person" reg="Sterling, Robert W.">Robert W. Sterling </name></author>
+         </titleStmt>
+	 <publicationStmt>
+	   <publisher>Lewis H. Beck Center for Electronic Collections
+	   and Services, Emory University</publisher>
+	   <pubPlace>Atlanta, GA</pubPlace>
+	   <address>
+	     <addrLine>540 Asbury Circle</addrLine>
+	     <addrLine>Woodruff Library</addrLine>
+	     <addrLine>Atlanta, GA 30322</addrLine>
+	   </address>
+	   <availability><p>&#x00A9;Emory University. Permission is
+	   granted to download, transmit, or otherwise reproduce,
+	   distribute or display the contributions to the work claimed
+	   by Emory University for non-profit educational purposes,
+	   provided this header is included in its entirety.  For
+	   inquiries about commercial uses, contact either: Institute
+	   for Jewish Studies, Emory University, Atlanta GA 30322 or
+	   the Lewis H. Beck Center for Electronic Collections and
+	   Services, Woodruff Library, Emory University, Atlanta,
+	   Georgia 30322 </p></availability> 
+	   <date>2004</date>
+	 </publicationStmt>
+	 <seriesStmt>
+	   <title>Great War</title>
+	 </seriesStmt>
+	 <notesStmt><note></note></notesStmt>
+         <sourceDesc>
+            <bibl>
+	     <title>Songs and Sonnets for England in War Time: Being a Collection of Lyrics by Various Authors Inspired by the Great War</title>
+	     <author>Robert W. Sterling</author>
+	     <pubPlace>London, Edinburgh, Glasgow, New York, Toronto, Melbourne, Bombay</pubPlace>
+	     <publisher>Humphrey Milford</publisher>
+	     <publisher>Oxford University Press</publisher>
+	     <date>1915</date>
+	   </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+	<projectDesc><p>Poetry contemporary to World War I (the Great
+	War) has been digitized by OCR or rekeying. The work has been
+	done in conjunction with Dr. Harry Rusche of the English
+	Department, Emory University</p></projectDesc>
+	<tagsDecl>
+	  <rendition id="quote">Paragraphs including q or quote
+	  elements indicate material that is in a block
+	  quote.</rendition>
+	  <rendition id="title">Where the title of a work is
+	  italicized, it is marked with a title element, both in the
+	  text and in footnotes.</rendition>
+	  <tagUsage gi="q" render="quote">blockquote</tagUsage>
+	  <tagUsage gi="quote" render="quote">blockquote</tagUsage>
+	  <tagUsage gi="title" render="title">italic</tagUsage>
+	</tagsDecl>
+	<refsDecl><p>The page numbers of the volumes are indicated by
+	page break elements</p>
+	<p></p>
+	</refsDecl>
+	<classDecl>
+	  <taxonomy id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
+	  </taxonomy>
+	</classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+	   <rs type="collection">poetry</rs>
+	   <rs type="language">English</rs>
+            <rs type="ethnicity">Caucasian</rs>
+            <rs type="form">Unedited</rs>
+            <rs type="genre">Poetry</rs>
+            <rs type="geography">Great Britain</rs>
+            <date>1900-1999</date>
+         </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>World War, 1914-1918--Poetry.</item>
+	       <item>English poetry--20th Century.</item>
+	       <item>War.</item>
+	     </list>
+	   </keywords>
+	 </textClass></profileDesc>
+      <revisionDesc><!-- add your information here -->
+	<change>
+	  <date>2009</date>
+	  <respStmt>
+	    <name>Shruthi Vissa</name>
+	    <resp>Beck Center staff</resp>
+	  </respStmt>
+	    <item>Proofing, encoding</item>
+	</change>
+      </revisionDesc>
+   </teiHeader>
+<text>
+<front>
 
+<pb n="[i]"/>
 
-<pb n=""/>
+<titlePage id="" type="half">
+     <docTitle>
+       <titlePart type="main">THE POEMS OF<lb/>ROBERT W.STERLING</titlePart>
+     </docTitle>
+   </titlePage>
 
-<pb n=""/>
+<pb n="[ii]"/>
 
+<div id="sterling" type="colophon">
+<p> PRINTED IN ENGLAND</p>
+<p>AT THE OXFORD UNIVERSITY PRESS</p>
+</div>
 
+<pb n="[iii]"/>
 
+<div id="sterling" type="frontispiece">
+<figure type="sterlingfp" rend="inline">
+<FigDesc> Photograph of author in front matter of "The Poems of Robert W. Sterling"</FigDesc>
+</figure>
+</div>
+
+<pb n="[iv]"/>
+
+<titlePage id="" type="full">
+     <docTitle>
+       <titlePart type="main">THE POEMS<lb/>ROBERT W. STERLING</titlePart>
+<titlePart type="sub">BORN 19TH NOVEMBER, 1893<lb/>SCHOLAR OF PEMBROKE COLLEGE, OXFORD<lb/>LIEUTENANT, ROYAL SCOTS FUSILIERS<lb/>KILLED IN ACTION, S. GEORGE'S DAY, 1915</titlePart>
+     </docTitle>
+       <docImprint>
+        <publisher> HUMPHREY MILFORD<lb/>OXFORD UNIVERSITY PRESS</publisher>
+	 <pubPlace>LONDON  EDINBURGH  GALSGOW  NEW YORK<lb/>TORONTO  MELBOURNE  BOMBAY</pubPlace>
+	 <pubDate>1915</pubDate>
+       </docImprint>
+   </titlePage>  
+
+<pb n="v"/>
 <p>Robert Sterling's career at Oxford was cut short after two years by the outbreak of war. But these two years had sufficed to create an impression of him which will endure. As a poet he was known only to a few till after his Newdigate Poem had been written. One evening, at the urgency of friends, he read this poem to them, and what they now discovered in its author they felt to be the corollary of what they had seen before. Doubtless they understood him better through it, and found therein a new interpretation of him; but because it was so true an expression of himself, they realized that their experience of him was the best interpretation of his poetry.</p>
 
 <p>For this reason more than any other, it may be valuable to say something however brief about his life; and to attempt, imperfectly enough, to communicate the impression, itself fragmentary, which he left upon those who had begun to know and love him.</p>
 
-
-
 <pb n="vi"/>
 
-
-
 <p>He came to Oxford from Sedbergh. Here he had spent four years of his school-life; and entering into its various activities with a boy's enthusiasm had grown to be a very part of the place--' He could see and put into words something of what Sedbergh meant to us'. For he never became absorbed in one aspect to the exclusion of others. His bent was literary, and he had a refined classical taste, illustrated especially in his Latin Verses. ' His interest in literature alone', wrote one who shared a study with him, 'was quite enough to keep him busy and happy. Like a true workman he put his whole soul into what he did.' But ' at the same time he enjoyed to the full every part of school-life, especially the various societies, and could always find some common ground for talk with any one. Although a classical man, he would if he wished even discuss chemistry or any otherscience, and would build up an argument from first principles in a most amazing way.' And, on the other hand, he felt intensely the rapture of the open air, of the fresh wind upon the fells; had learnt the beauty of the fells themselves, and the spirit which for lover's eye they embodied. He understood also, and shared, the strenuous
-
 
 
 <pb n="vii"/>
@@ -71,7 +200,7 @@ the knight-errant of old, who would give his purse to the first wandering beggar
 <pb n="xiii"/>
 
 
-<p>'It was a great relief, he wrote, 'to get out here after kicking my heels toy-soldiering at home.' But he adds, ' I've been longing for some link with the normal universe detached from the storm. It's funny how trivial incidents sometimes are seized as symbols by the memory; but I did find such a link about three weeks ago. We were in trenches in woody country (just S. E. of Ypres). The Germans were about eighty yards away, and between the trenches lay pitiful heaps of dead friends and foes. Such trees as were left standing were little more than stumps, both behind our lines and the enemy's. The enemy had just been shelling our reserve trenches, and a Belgian battery behind us had been replying, when there fell a few minutes' silence ; and I, still crouching expectantly in the trench, suddenly saw a pair of thrushes building a nest in a " bare ruin'd choir " of a tree, only about five yards behind our line. At the same time a lark began to sing in the sky above the German trenches. It seemed almost incredible at the time, but now, whenever I think of those nest-builders and that all but " sightless song ",they seem to represent in some degree the very essence of the Normal and Unchangeable Uni-
+'It was a great relief, he wrote, 'to get out here after kicking my heels toy-soldiering at home.' But he adds, ' I've been longing for some link with the normal universe detached from the storm. It's funny how trivial incidents sometimes are seized as symbols by the memory; but I did find such a link about three weeks ago. We were in trenches in woody country (just S. E. of Ypres). The Germans were about eighty yards away, and between the trenches lay pitiful heaps of dead friends and foes. Such trees as were left standing were little more than stumps, both behind our lines and the enemy's. The enemy had just been shelling our reserve trenches, and a Belgian battery behind us had been replying, when there fell a few minutes' silence ; and I, still crouching expectantly in the trench, suddenly saw a pair of thrushes building a nest in a " bare ruin'd choir " of a tree, only about five yards behind our line. At the same time a lark began to sing in the sky above the German trenches. It seemed almost incredible at the time, but now, whenever I think of those nest-builders and that all but " sightless song ",they seem to represent in some degree the very essence of the Normal and Unchangeable Uni-
 
 <pb n="xiv"/>
 
@@ -95,87 +224,45 @@ whistling around us,... but I had no idea I was afterwards going to treasure eve
 
 <div id="mackintosh" type="poem" n="">
 
-<l>SONNET</l>
+<head type="main">SONNET</head>
 
-<l>IN MEMORY OF R. W. STERLING</l>
+<head type="sub">IN MEMORY OF R. W. STERLING</head>
 
-<l>As If Apollo's self had swept the strings.</l>
+<lg type="stanza">
+<l>As if Apollo's self had swept the strings,</l>
+<l rend="inline">From Isis' banks came one clear burst of song,</l>
+<l rend="inline">So sad, so noble, beautiful and strong,</l>
+<l>Poised through its flight on such majestic wings,</l>
+<l>It might not seem a youth's imaginings,</l>
+<l rend="inline">But to an Attic age might well belong,</l>
+<l rend="inline">Or be the flower of that Miltonlan throng</l>
+<l>That for dead Lycidas sobs, and sobbing sings.</l></lg>
 
-<l>From Isis' banks came one clear burst of song,</l>
-<l>So sad, so noble, beautiful and strong.</l>
-
-<l>Poised through its flight on such majestic wings.</l>
-
-<l>It might not seem a youth's imaginings.</l>
-<l>But to an Attic age might well belong.</l>
-<l>Or be the flower of that Miltonlan throng</l>
-
-<l>That for dead Lycidas sobs, and sobbing sings.</l>
-
+<lg type="stanza">
 <l>O brave Boy-Poet, who, at Duty's call,</l>
-<l>Laid down thy lyre, thy chaplet cast aside</l>
-<l>To don the armour of a sterner day;</l>
+<l rend="inline">Laid down thy lyre, thy chaplet cast aside</l>
+<l rend="inline">To don the armour of a sterner day;</l>
+<l>Who scorned the lures that held thy heart in thrall :</l>
+<l rend="inline">Sped down Parnassus with a warrior's pride</l>
+<l rend="inline">To meet thy death in dark Thermopylae !</l></lg>
 
-<l>Who scorned the lures that held thy heart in</l>
-<l>thrall :</l>
-<l>Sped down Parnassus with a warrior's pride</l>
-<l>To meet thy death In dark Thermopylae !</l>
-
-<l>ROGER QUIN.</l>
-
+<byline>ROGER QUIN.</byline>
+</div>
 
 
 
+<pb n="1"/>
 
-<l>xvi</l>
+<div id="mackintosh" type="table of contents">
+<figure type="Sterlingtc" rend="inline">
+<FigDesc> Image of table of contents in front matter of "The Poems of Robert W.Sterling"</FigDesc>
+</figure>
+</div> 
 
+<pb n="[2]"/>
+<pb n="[3]"/>
 
-
-<pb n=""/>
-
-
-
-<l>THE POEMS OF</l>
-<l>ROBERT W. STERLING</l>
-
-
-
-
-
-
-
-<l/>
-
-
-
-
-<l/>
-
-
-
-
-<l/>
-
-
-
-
-<l>PAGE</l>
-
-
-
-
-
-
-
-<pb n=""/>
-
-<pb n=""/>
-
-
-
-<l>THE</l>
-<l>BURIAL OF SOPHOCLES</l>
-
+<pb type="half title page"/>
 
 
 <pb n="4"/>

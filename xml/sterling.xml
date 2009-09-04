@@ -24,7 +24,7 @@
 	   the Lewis H. Beck Center for Electronic Collections and
 	   Services, Woodruff Library, Emory University, Atlanta,
 	   Georgia 30322 </p></availability> 
-	   <date>2004</date>
+	   <date>2009</date>
 	 </publicationStmt>
 	 <seriesStmt>
 	   <title>Great War</title>
@@ -104,7 +104,7 @@
 
 <pb n="[i]"/>
 
-<titlePage id="" type="half">
+<titlePage id="sterling1000" type="half">
      <docTitle>
        <titlePart type="main">THE POEMS OF<lb/>ROBERT W.STERLING</titlePart>
      </docTitle>
@@ -112,14 +112,14 @@
 
 <pb n="[ii]"/>
 
-<div id="sterling" type="colophon">
+<div id="sterling1001" type="colophon">
 <p> PRINTED IN ENGLAND</p>
 <p>AT THE OXFORD UNIVERSITY PRESS</p>
 </div>
 
 <pb n="[iii]"/>
 
-<div id="sterling" type="frontispiece">
+<div id="sterling1002" type="frontispiece">
 <figure type="sterlingfp" rend="inline">
 <FigDesc> Photograph of author in front matter of "The Poems of Robert W. Sterling"</FigDesc>
 </figure>
@@ -127,7 +127,7 @@
 
 <pb n="[iv]"/>
 
-<titlePage id="" type="full">
+<titlePage id="sterling1003" type="full">
      <docTitle>
        <titlePart type="main">THE POEMS<lb/>ROBERT W. STERLING</titlePart>
 <titlePart type="sub">BORN 19TH NOVEMBER, 1893<lb/>SCHOLAR OF PEMBROKE COLLEGE, OXFORD<lb/>LIEUTENANT, ROYAL SCOTS FUSILIERS<lb/>KILLED IN ACTION, S. GEORGE'S DAY, 1915</titlePart>
@@ -140,6 +140,8 @@
    </titlePage>  
 
 <pb n="v"/>
+
+<div id="sterling1004" type="preface">
 <p>Robert Sterling's career at Oxford was cut short after two years by the outbreak of war. But these two years had sufficed to create an impression of him which will endure. As a poet he was known only to a few till after his Newdigate Poem had been written. One evening, at the urgency of friends, he read this poem to them, and what they now discovered in its author they felt to be the corollary of what they had seen before. Doubtless they understood him better through it, and found therein a new interpretation of him; but because it was so true an expression of himself, they realized that their experience of him was the best interpretation of his poetry.</p>
 
 <p>For this reason more than any other, it may be valuable to say something however brief about his life; and to attempt, imperfectly enough, to communicate the impression, itself fragmentary, which he left upon those who had begun to know and love him.</p>
@@ -186,7 +188,7 @@ the knight-errant of old, who would give his purse to the first wandering beggar
 <l rend="inline">Heav'n</l>
 <l>What only love can take, a vision whole</l>
 <l>Of things sublime.    The richer life thus giv'n</l>
-<l>Back to his God he gave : his gift--his soul.</l>
+<l>Back to his God he gave : his gift--his soul.</l></lg></q>
 
 <pb n="xii"/>
 
@@ -215,14 +217,14 @@ whistling around us,... but I had no idea I was afterwards going to treasure eve
 
 <p>The latter half of these poems--from 'Oxford, First Vision' to the end--have not been published before. Of the others : ' The Burial of Sophocles' won the Newdigate Prize of 1914 ;' Early Poems' (except the first two) and ' To B. W.' appeared in school magazines--one (' Hail') in <hi rend="italic">The Wasp</hi> the Evans House magazine, the rest in <hi rend="italic">The Sedberghian</hi>.</p>
 
-<p>The Sonnet immediately following is printed by kind permission of its author and <hi rend="italic">The Glasgow Herald</hi>.</p>
+<p>The Sonnet immediately following is printed by kind permission of its author and <hi rend="italic">The Glasgow Herald</hi>.</p></div>
 
 
 
 
 <pb n="xvi"/>
 
-<div id="mackintosh" type="poem" n="">
+<div id="sterling1005" type="poem">
 
 <head type="main">SONNET</head>
 
@@ -253,7 +255,7 @@ whistling around us,... but I had no idea I was afterwards going to treasure eve
 
 <pb n="1"/>
 
-<div id="mackintosh" type="table of contents">
+<div id="sterling1006" type="table of contents">
 <figure type="Sterlingtc" rend="inline">
 <FigDesc> Image of table of contents in front matter of "The Poems of Robert W.Sterling"</FigDesc>
 </figure>
@@ -262,43 +264,34 @@ whistling around us,... but I had no idea I was afterwards going to treasure eve
 <pb n="[2]"/>
 <pb n="[3]"/>
 
+
+</front>
+
+<div id="sterling100" type="part" n="1">
+
 <pb type="half title page"/>
+     <docTitle>
+       <titlePart type="main">THE<lb/>BURIAL OF SOPHOCLES</titlePart>
+     </docTitle>
+      
 
 
 <pb n="4"/>
+<group><text><body>
 
 
-
-<l>Kal €7ri TOV Trarploov rdcjiov krid-q tov eiri t-q 683 ttj koto,</l>
-<l>T-t]v   Ae/ceXciav   (pepovorj   Keifievov  vpb  tov reixoys   tvBcKa</l>
-
-<l>crraSitov.....      Kai   tovtov  tov   tottov   tTriTCTei^^iKOTcov</l>
-
-<l>AaKeSai/Aovtoji/ Kar* AOrjvaiiav Alovvoos Kar ovap eTrio-ras</l>
-<l>AvtravSpo) cKcXevcrev eTTLTpiif/at TeOrjvai tov avSpa els tov</l>
-<l>Ta.&lt;f&gt;ov' (*)S 8' d)Xiywpr]ar€V 6 AvaavBpo&lt;;, Sevrepov avrZ iirioT-q</l>
-<l>6 Alovvcros TO avTo KeXtvwv, 6 Se AvcravSpos TrvvOavop.evo'i</l>
-<l>irapa, tSv (ftvydBbyv tis ciij o T€XcvTijO"as, Kat paOiav on</l>
-<l>'S,0(f&gt;0KX7J&lt;; vTrdpXd, KiqpvKa Tri/jAf/a'; eSiBov OaTTTCiv tov dvBpa.</l>
-
-<l>' And he was laid in the tomb of his fai;hers, that is</l>
-<l>situated eleven furlongs in front of the wall, on the road</l>
-<l>leading past Decelea. . . Now Decelea had been taken</l>
-<l>from the Athenians and fortified against them by the Lace¬</l>
-<l>daemonians ; to whose general, Lysander, the god Dionysus</l>
-<l>appeared in a dream, bidding him give leave for the man to</l>
-<l>be buried in the tomb. When Lysander made light of it,</l>
-<l>the God appeared a second time with the same behest.</l>
-<l>Then Lysander inquired from deserters who the dead man</l>
-<l>was; and learning that it was Sophocles, sent a herald with</l>
-<l>permission for the burial.'</l>
+<figure type="sterlingfig" rend="inline">
+<FigDesc> Image of paragraph printed in greek script in front matter of "The Poems of Robert W.Sterling"</FigDesc>
+</figure>
+<epigraph><cit><q>
+<p>' And he was laid in the tomb of his fathers, that is situated eleven furlongs in front of the wall, on the road leading past Decelea. . . Now Decelea had been taken from the Athenians and fortified against them by the Lacedaemonians ; to whose general, Lysander, the god Dionysus appeared in a dream, bidding him give leave for the man to be buried in the tomb. When Lysander made light of it, the God appeared a second time with the same behest. Then Lysander inquired from deserters who the dead man was; and learning that it was Sophocles, sent a herald with permission for the burial.'</p></q></cit></epigraph>
 
 
 
 <pb n="The Burial of Sophocles    5"/>
 
-<group><text><body>
-<div id="sterling100" type="part" n="1">
+
+
 <div id="sterling001" type="poem" n="1">
 <head>THE BURIAL OF SOPHOCLES</head>
 

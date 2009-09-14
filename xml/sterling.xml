@@ -266,10 +266,9 @@ whistling around us,... but I had no idea I was afterwards going to treasure eve
 
 
 </front>
+<group><text>
 
-<div id="sterling100" type="part" n="1">
-
-<pb type="half title page"/>
+<TitlePage id="sterling1007" type="half"/>
      <docTitle>
        <titlePart type="main">THE<lb/>BURIAL OF SOPHOCLES</titlePart>
      </docTitle>
@@ -277,9 +276,9 @@ whistling around us,... but I had no idea I was afterwards going to treasure eve
 
 
 <pb n="4"/>
-<group><text><body>
 
-
+<body>
+<div id="sterling100" type="part" n="1">
 <figure type="sterlingfig" rend="inline">
 <FigDesc> Image of paragraph printed in Greek script in front matter of "The Poems of Robert W.Sterling"</FigDesc>
 </figure>
@@ -499,13 +498,18 @@ whistling around us,... but I had no idea I was afterwards going to treasure eve
 </lg>
 </div>
 </div>
-</text></body>
+</body>
+</text>
 
 <pb n="[13]"/>
 
 
 
-<l>EARLY POEMS</l>
+<titlePage id="sterling1008" type="half">
+     <docTitle>
+       <titlePart type="main">EARLY POEMS</titlePart>
+     </docTitle>
+   </titlePage>  
 
 
 
@@ -538,7 +542,7 @@ whistling around us,... but I had no idea I was afterwards going to treasure eve
 <l>Triumph o'er Evil in the well-fought fight.</l>
 
 
-<pb n="16      Prologue to a  Childreris Play"/>
+<pb n="16      Prologue to a  Children's Play"/>
 
 <l>This is the very essence of the play</l>
 <l>That we present to you, O maidens gay.</l>
@@ -1013,11 +1017,11 @@ DYING LILIES</head>
 <text>
 <front>
 
-<l>POEMS</l>
-
-<l>1913-1915</l>
-
-
+<titlePage id="" type="half">
+     <docTitle>
+       <titlePart type="main"> POEMS<lb/>1913-1915</titlePart>
+     </docTitle>
+   </titlePage>  
 
 <pb n="[36]"/>
 
@@ -1369,7 +1373,11 @@ DYING LILIES</head>
 
 <text><front>
 
-<l>MARAN</l>
+<titlePage id="sterling1009" type="half">
+     <docTitle>
+       <titlePart type="main">MARAN</titlePart>
+     </docTitle>
+   </titlePage>
 
 
 
@@ -1846,3 +1854,4 @@ DYING LILIES</head>
 
 <pb n="69"/>
 
+</group></text></TEI.2>

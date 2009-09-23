@@ -639,7 +639,7 @@ ENGLAND</head>
 
 
 
-<pb n="38  CONDOLENCE"/>
+<pb n="CONDOLENCE    39"/>
 
 <div id="watson016" type="poem" n="16">
 <head>CONDOLENCE</head>
@@ -663,199 +663,150 @@ ENGLAND</head>
 </div>
 
 
-<pb n=""/>
+<pb n="40  DAS VOLK"/>
 
+<div id="watson017" type="poem" n="17">
+<head>DAS VOLK</head>
 
-
-<l>DAS VOLK</l>
-
-<l>"Y^ rE did but smile, beholding the o'erfraught</l>
-
-<l>* '       Sumpter, caparisoned and proud to appear</l>
-<l>The snorting charger of a CavaUer</l>
+<lg type="stanza">
+<l>WE did but smile, beholding the o'erfraught</l>
+<l rend="inline">Sumpter, caparisoned and proud to appear</l>
+<l>The snorting charger of a Cavalier</l>
 <l>Whose joy was when his casque the sunbeam caught;</l>
 <l>And half-amused we watched the packhorse taught</l>
 <l>To caracole and curvet in the gear</l>
 <l>Of battle, and bear, through an august career,</l>
 <l>The paladin of a hundred fields unfought!</l>
-<l>But when, fuU war-horse now, and plunging thus</l>
+<l>But when, full war-horse now, and plunging thus</l>
 <l>About the innocent earth of France and Flanders,</l>
 <l>He foams his fury's virulent overplus</l>
-<l>On the ancient plains where rippUng Ufe meanders,</l>
+<l>On the ancient plains where rippling life meanders,</l>
 <l>Not blameless quite, this new Bucephalus!</l>
-<l>Not aU the guilt, his would-be Alexander's!</l>
+<l>Not all the guilt, his would-be Alexander's!</l>
+</lg>
+</div>
 
 
+<pb n="THE DOMINANT THREE   41"/>
 
+<div id="watson018" type="poem" n="18">
+<head>THE DOMINANT THREE</head>
 
-
-<l>40</l>
-
-
-
-<pb n=""/>
-
-
-
-<l>THE DOMINANT THREE</l>
-
-<l>TIKE lordliest Day, that to each crannied rafter</l>
-<l>-■-^    Of Life's great haU would pierce, was Goethe's</l>
-
-<l>Muse.</l>
-<l>Like emerald twiUght, when no heavenly dews</l>
+<lg type="stanza">
+<l>LIKE lordliest Day, that to each crannied rafter</l>
+<l rend="inline">Of Life's great hall would pierce, was Goethe's Muse.</l>
+<l>Like emerald twilight, when no heavenly dews</l>
 <l>Assuage its bosom, Heine shimmered after</l>
 <l>Heine, who flung himself with antic laughter,</l>
 <l>In elfin armour of chameleon hues,</l>
-<l>FuU on PhiUstia's never conquered thews,</l>
+<l>FuU on Philistia's never conquered thews,</l>
 <l>The gates of Gaza, and the sons of Caphtur!</l>
 <l>Then did unstarry night succeed to that</l>
 <l>Rich-tinted dusk ; and no large, mastering strain,</l>
 <l>No nightingale's incomparable pain,</l>
 <l>Goldenly stormed the silence; but there sat</l>
-<l>Nietzsche the loveless, Uke a vampire bat,</l>
-<l>MaUgn on the broad breast of AUemaine.</l>
+<l>Nietzsche the loveless, like a vampire bat,</l>
+<l>Malign on the broad breast of Allemaine.</l></lg>
+</div>
+
+<pb n="42  TO SIR JAMES"/>
 
 
+<div id="watson019" type="poem" n="19">
+<head>TO<lb/>
+SIR JAMES  CRICHTON-BROWNE</head>
 
-
-
-<l>41</l>
-
-
-
-<pb n=""/>
-
-
-
-<l>TO</l>
-<l>SIR JAMES  CRICHTON-BROWNE</l>
-
+<lg type="stanza">
 <l>AROUND your northern home, where never cease</l>
-<l>■^"^    The ebb and flow of Nith, whose waters gUde</l>
+<l rend="inline">The ebb and flow of Nith, whose waters glide</l>
 <l>Rich with their memories of the Muse; whose tide,</l>
 <l>In haunts of moorfowl and the wandering fleece,</l>
 <l>Down by Caerlaverock beyond old Dumfries,</l>
-<l>To Solway brings its dowry, Uke a bride;</l>
+<l>To Solway brings its dowry, like a bride;</l>
 <l>There do the lowland mothers mourn with pride</l>
 <l>The lowland sons, whom War hath lapped in Peace.</l>
-<l>But you—be glad, be upUfted, seeing that what</l>
-<l>Was great aforetime stiU disdains to fade ;</l>
+<l>But you--be glad, be uplifted, seeing that what</l>
+<l>Was great aforetime still disdains to fade ;</l>
 <l>The spirit pervervid of the heroic Scot,</l>
-<l>Its fire unluUed, and hardly in earth aUayed:</l>
+<l>Its fire unlulled, and hardly in earth allayed:</l>
 <l>The ancient native prowess unforgot,</l>
 <l>Valour undrooped, and manhood undecayed.</l>
+</lg>
+</div>
 
 
+<pb n="TO ONE FROM BEYOND  43"/>
 
 
+<div id="watson020" type="poem" n="20">
+<head>TO ONE FROM BEYOND HUMBER</head>
 
-<l>42</l>
-
-
-
-<pb n=""/>
-
-
-
-<l>TO ONE FROM BEYOND HUMBER</l>
-
-<l>/^NE shire, our greatest in mere leagues of loam,</l>
-<l>^-^    And nowise least in aU that makes Ufe's wine</l>
+<lg type="stanza">
+<l>ONE shire, our greatest in mere leagues of loam,</l>
+<l rend="inline">And nowise least in all that makes life's wine</l>
 <l>A ruddy and potent draught, is yours and mine:</l>
-<l>Qne norland shire, our broad ancestral home.</l>
+<l>One norland shire, our broad ancestral home.</l>
 <l>There, where the Swale and Ure converging roam,</l>
 <l>My own dim roots with the far Past entwine,</l>
-<l>And yours are 'midst the Wolds that breathe the</l>
-
-<l>brine,</l>
-<l>Odorous and acrid from the eastern foam,</l>
+<l>And yours are 'midst the Wolds that breathe the brine,</l>
+<l>Odorous and acrid from the eastern foam.</l>
 <l>Strong men did Yorkshire heretofore beget,</l>
-<l>And stainless women !    And we who come of both</l>
+<l>And stainless women ! And we who come of both</l>
 <l>Have seen the valour of the dales leap high</l>
 <l>In hearts unvanquishable, that kept their troth</l>
 <l>With England, when Death cast for her his net</l>
 <l>By land and sea, and from the insuUed sky.</l>
+</lg>
+</div>
 
 
+<pb n="44  TO A SON OF WALES"/>
 
 
+<div id="watson021" type="poem" n="21">
+<head>TO  A SON  OF  WALES<lb/>
+[<hi rend="italic">Owen Pritchard, Esq., M.D.</hi>]</head>
 
-<l>43</l>
-
-
-
-<pb n=""/>
-
-
-
-<l>TO  A SON  OF  WALES</l>
-
-<l>[Ozøen Pritchard, Esq., M.D.]</l>
-
-<l>OINCE first I saw your mountains long ago,</l>
-
-<l>^    Dark behind Conway's or Carnarvon's hold,</l>
-
+<lg type="stanza">
+<l>SINCE first I saw your mountains long ago,</l>
+<l rend="inline">Dark behind Conway's or Carnarvon's hold,</l>
 <l>I have watched the Alps put on their evening gold,</l>
-
 <l>And morning kindle peaks of Afric snow;</l>
-
 <l>I have crossed Niagara's flood and Delaware's flow,</l>
-
-<l>And loitered 'midst ItaUan vinelands old,</l>
-
+<l>And loitered 'midst Italian vinelands old,</l>
 <l>And visited isles which the far deeps enfold,</l>
-
 <l>Where Spain is ashes and a sunset-glow.</l>
-
 <l>But lovely as in youth are yet to me</l>
-
 <l>Mona's bleak fields and Glaslyn's torrent wave;</l>
-
 <l>And dearer now than ever their wild charm,</l>
-
 <l>When hardy Wales pours forth her children free,</l>
-
 <l>Hungering to aid her ancient Conqueror's arm</l>
-
 <l>Lest Freedom's self reel to a blood-red grave.</l>
+</lg>
+</div>
 
+<pb n="TO THE RIGHT HON.  45"/>
 
+<div id="watson022" type="poem" n="22">
 
+<head>TO THE RIGHT HON. SIR EDWARD CARSON, ON LEAVING ANTRIM, JUNE 30, 1916</head>
 
-
-<l>44</l>
-
-
-
-<pb n=""/>
-
-
-
-<l>TO THE RIGHT HON. SIR ED-</l>
-<l>WARD CARSON, ON LEAVING</l>
-<l>ANTRIM, JUNE 30, 1916</l>
-
-<l>'TpHESE cUffs, the anvils of the hammering sea,</l>
-<l>-*-      You know them weU !   These winds that sweep</l>
-
-<l>or swerve</l>
-<l>Cer bays that have the sickle's gleam and curve,</l>
+<lg type="stanza">
+<l>THESE cUffs, the anvils of the hammering sea,</l>
+<l rend="inline">You know them well ! These winds that sweep or swerve</l>
+<l>O'er bays that have the sickle's gleam and curve,</l>
 <l>They are Ulster's, and you fought to keep her free.</l>
 <l>But now a greater claims you more than she,</l>
-<l>Claims your strong  brain, clear speech, and virile</l>
-
-<l>nerve,</l>
-<l>And best shaU you the lesser mistress serve,</l>
-<l>Serving the greater yet more vehemently,—</l>
+<l>Claims your strong  brain, clear speech, and virile nerve,</l>
+<l>And best shall you the lesser mistress serve,</l>
+<l>Serving the greater yet more vehemently,--</l>
 <l>Her who demands, from souls of signal dower,</l>
 <l>Amid the tempest that is not yet stayed,</l>
-<l>No piecemeal service and no parceUed aid,</l>
+<l>No piecemeal service and no parcelled aid,</l>
 <l>But their whole wealth of valour, zeal, and power,</l>
-<l>Needing it aU, and needing it each hour,</l>
-<l>TiU her vast adversary in dust be laid.</l>
-
+<l>Needing it all, and needing it each hour,</l>
+<l>Till her vast adversary in dust be laid.</l>
+</lg></div>
 
 
 

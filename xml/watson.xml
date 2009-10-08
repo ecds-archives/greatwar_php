@@ -1127,7 +1127,7 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <l rend="inline">Which brought to life the dead,</l>
 <l>Whom would I dare disturb</l>
 <l rend="inline">In his eternal bed ?</l>
-<l>Great GrenviUe would I wake,</l>
+<l>Great Grenville would I wake,</l>
 <l>And with glad tidings make</l>
 <l>The soul of mighty Drake</l>
 <l rend="inline">Upheave a glorying head.</l></lg>
@@ -1784,108 +1784,112 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <l>A million dead</l>
 <l rend="inline">For his retinue.</l>
 </lg>
+</div>
 
-<l>IV</l>
+<div id="watson086" type="section" n="4">
+<head>IV</head>
 
+<lg type="stanza">
 <l>Carnage, whose brows</l>
-<l>Beetle o'er HeU,</l>
+<l rend="inline">Beetle o'er Hell,</l>
 
 
 
-<pb n=""/>
-
-
-
-<l>THE KAISER'S DIRGE               85</l>
+<pb n="THE KAISER'S DIRGE               85"/>
 
 <l>Here is thy spouse,</l>
-<l>Cherish him weU.</l>
+<l rend="inline">Cherish him well.</l>
+</lg>
 
+<lg type="stanza">
 <l>Lust-in-Hate,</l>
-
-<l>With thy fangs aU foam—</l>
+<l rend="inline">With thy fangs all foam--</l>
 <l>O hail thy mate,</l>
+<l rend="inline">O welcome him home.</l>
+</lg>
 
-<l>O welcome him home.</l>
-
-<l>And thou first of aU spies</l>
-
-<l>This earth to o'errun,</l>
+<lg type="stanza">
+<l>And thou first of all spies</l>
+<l rend="inline">This earth to o'errun,</l>
 <l>Father of Lies,</l>
+<l rend="inline">Receive thy son.</l>
+</lg>
+</div>
 
-<l>Receive thy son,</l>
+<div id="watson087" type="section" n="5">
+<head>V</head>
 
-<l>V</l>
-
+<lg type="stanza">
 <l>Now, to plumed hearse</l>
-
-<l>And balsam'd shroud,</l>
+<l rend="inline">And balsam'd shroud,</l>
 <l>Bring proud verse,</l>
+<l rend="inline">Worthy the proud:</l>
+</lg>
 
-<l>Worthy the proud:</l>
-
+<lg type="stanza">
 <l>Garland august</l>
-
-<l>To the catafalque bring,</l>
+<l rend="inline">To the catafalque bring,</l>
 <l>Rich as the dust</l>
+<l rend="inline">Of the heart of a King.</l>
+</lg>
 
-<l>Of the heart of a King,</l>
-
+<lg type="stanza">
 <l>And in high-reared pride,</l>
-
-<l>On a summit untrod—</l>
+<l rend="inline">On a summit untrod--</l>
 <l>Where is nothing beside</l>
-
-<l>But the gaze of God—</l>
-
-
-
-<pb n=""/>
+<l rend="inline">But the gaze of God--</l>
+</lg>
 
 
+<pb n="86      THE  KAISER'S DIRGE"/>
 
-<l>86                THE  KAISER'S DIRGE</l>
-
+<lg type="stanza">
 <l>From lands hate-riven</l>
-<l>Let a cenotaph cUmb</l>
-
+<l rend="inline">Let a cenotaph climb</l>
 <l>To the hateless Heaven</l>
-<l>That leans o'er Time ;</l>
+<l rend="inline">That leans o'er Time ;</l>
+</lg>
 
+<lg type="stanza">
 <l>And grave it with none</l>
-<l>Of man's words but twain</l>
+<l rend="inline">Of man's words but twain:</l>
+<l><hi rend="italic">Lusitania</hi> one--</l>
+<l>And one, <hi rend="italic">Louvain</hi>.</l>
+</lg>
+</div>
 
-<l>Luútania one—</l>
-<l>And one, Louvain.</l>
+<div id="watson087" type="section" n="6">
+<head>VI</head>
 
-<l>VI</l>
-
+<lg type="stanza">
 <l>Fashion his bed</l>
-
-<l>Deep, deep;</l>
+<l rend="inline">Deep, deep;</l>
 <l>Earth o'er his head</l>
+<l rend="inline">Heap, heap:</l>
+</lg>
 
-<l>Heap, heap:</l>
-
+<lg type="stanza">
 <l>Load upon load</l>
-<l>Let him not lack,</l>
-
+<l rend="inline">Let him not lack,</l>
 <l>Lest his abode</l>
-<l>Vomit him back.</l>
+<l rend="inline">Vomit him back.</l>
+</lg>
 
+<lg type="stanza">
 <l>Here are his court,</l>
-<l>Empire, and crown:</l>
-
+<l rend="inline">Empire, and crown:</l>
 <l>Rites be short,</l>
-<l>Lower him down.</l>
+<l rend="inline">Lower him down.</l>
+</lg>
 
+<lg type="stanza">
 <l>Conquering Spade,</l>
-
-<l>Cover him o'er.</l>
-<l>He shaU invade</l>
-
-<l>Life no more.</l>
-
+<l rend="inline">Cover him o'er.</l>
+<l>He shall invade</l>
+<l rend="inline">Life no more.</l>
+</lg>
+</div>
+</div>
 
 
 <pb n=""/>
@@ -1901,264 +1905,208 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <pb n=""/>
 
 
+<div id="watson049" type="poem" n="49">
+<head>SONS  OF BRITAIN</head>
 
-<l>SONS  OF BRITAIN</l>
-
+<lg type="stanza">
 <l>SONS of her who keeps her faith unbroken,</l>
-<l>Her who gave you might of Umb and nerve,</l>
-<l>Her whose service—be it devoutly spoken—</l>
-<l>Perfect freedom is, for aU who serve :</l>
+<l rend="inline">Her who gave you might of limb and nerve,</l>
+<l>Her whose service--be it devoutly spoken--</l>
+<l rend="inline">Perfect freedom is, for all who serve :</l>
+</lg>
 
-
-
-
-
+<lg type="stanza">
 <l>Her who gave you dower of iron sinew,</l>
+<l rend="inline">Her who made you strong and fleet and brave--</l>
+<l>Give her all the manhood that is in you :</l>
+<l rend="inline">'Tis the royal gift her own hands gave.</l>
+</lg>
 
-<l>Her who made you strong and fleet and brave-</l>
+<lg type="stanza">
+<l>England's safety--England's dearer honour--</l>
+<l rend="inline">Both forbid that you should halt and wait</l>
+<l>Till the enemy be indeed upon her,</l>
+<l rend="inline">He who vaunts and flaunts him at her gate.</l>
+</lg>
 
-<l>Give her aU the manhood that is in you :</l>
-<l>'Tis the royal gift her own hands gave.</l>
-
-
-
-
-
-<l>England's safety—England's dearer honour—</l>
-<l>Both forbid that you should halt and wait</l>
-
-<l>TiU the enemy be indeed upon her,</l>
-
-<l>He who vaunts and flaunts him at her gate.</l>
-
-
-
-
-
-<l>Heed^not overmuch when she is slandered;</l>
-
-<l>Yours to guard her from a BuUy's blow :</l>
-<l>Yours to rise, and raUy to her standard:</l>
-
-<l>Yours to arm, and face the brutal foe.</l>
-<l>12                       89</l>
+<lg type="stanza">
+<l>Heed not overmuch when she is slandered;</l>
+<l rend="inline">Yours to guard her from a Bully's blow :</l>
+<l>Yours to rise, and rally to her standard:</l>
+<l rend="inline">Yours to arm, and face the brutal foe.</l>
+</lg>
 
 
+<pb n="90            SONS OF BRITAIN"/>
 
-<pb n=""/>
-
-
-
-<l>90                  SONS OF BRITAIN</l>
-
+<lg type="stanza">
 <l>Would you sit at home, and watch and ponder,</l>
-<l>While the warriors agonise and dare ?</l>
-
+<l rend="inline">While the warriors agonise and dare ?</l>
 <l>Here for you is shame, but glory yonder:</l>
-<l>Choose the glory—yea, a hero's share.</l>
+<l rend="inline">Choose the glory--yea, a hero's share.</l>
+</lg>
 
+<lg type="stanza">
 <l>Then, though darksome be the hour, and grievous,</l>
-<l>You shaU make it great and splendid too,</l>
-
+<l rend="inline">You shall make it great and splendid too,</l>
 <l>And her love who bore and did conceive us</l>
-<l>ShaU for ever crown your deeds and you.</l>
+<l rend="inline">Shall for ever crown your deeds and you.</l>
+</lg>
+</div>
 
 
+<pb n="KINDRED      91"/>
 
-<pb n=""/>
+<div id="watson050" type="poem" n="50">
+<head>KINDRED</head>
 
-
-
-<l>KINDRED</l>
-
-<l>COME AustraUa, come New Zealand-</l>
-<l>Canada, with heart of gold,</l>
+<lg type="stanza">
+<l>COME Australia, come New Zealand--</l>
+<l rend="inline">Canada, with heart of gold,</l>
 <l>Come and help to keep this free land</l>
-<l>Free for ever as of old.</l>
+<l rend="inline">Free for ever as of old.</l>
+</lg>
 
-
-
-
-
+<lg type="stanza">
 <l>Hangs her fortune in the balance,</l>
-<l>Mighty is her foe and fierce.</l>
+<l rend="inline">Mighty is her foe and fierce.</l>
+<l>Help to prune his Eagle's talons</l>
+<l rend="inline">Ere its beak her bosom pierce.</l>
+</lg>
 
-<l>Help to pmne his Eagle's talons</l>
-<l>Ere its beak her bosom pierce.</l>
-
-
-
-
-
+<lg type="stanza">
 <l>Yonder rants the lord of legions,</l>
-<l>False of heart as you are true,</l>
+<l rend="inline">False of heart as you are true.</l>
+<l>You as well, O younger regions,</l>
+<l rend="inline">He has lusted to subdue.</l>
+</lg>
 
-<l>You as weU, O younger regions,</l>
-<l>He has lusted to subdue.</l>
-
-
-
-
-
-<l>Not alone shaU we Ue cloven</l>
-<l>If he scale our iron waU.</l>
-
+<lg type="stanza">
+<l>Not alone shall <hi rend="italic">we</hi> lie cloven</l>
+<l rend="inline">If he scale our iron wall.</l>
 <l>With our fate is Yours inwoven,</l>
-<l>And as one we stand or faU.</l>
-<l>91</l>
+<l rend="inline">And as one we stand or fall.</l>
+</lg>
 
+<pb n="92            KINDRED"/>
 
-
-<pb n=""/>
-
-
-
-<l>92                           KINDRED</l>
-
+<lg type="stanza">
 <l>Fain would he ride ruthless o'er us,</l>
-<l>Strong in Wrong, with hoof abhorred.</l>
+<l rend="inline">Strong in Wrong, with hoof abhorred.</l>
+<l>Strong in Right is She that bore us--</l>
+<l rend="inline">Make her stronger with your sword.</l>
+</lg>
+</div>
 
-<l>Strong in Right is She that bore us—</l>
-<l>Make her stronger with your sword.</l>
+<pb n="AWAKE   93"/>
 
+<div id="watson051" type="poem" n="51">
+<head>AWAKE!</head>
 
+<lg type="stanza">
+<l>DEATH hunts for us beneath the seas,</l>
+<l rend="inline"> Death hawks at us amidst the air.</l>
+<l>Awake, O slumberers lulled in ease !</l>
+<l rend="inline">Up and prepare!</l></lg>
 
-<pb n=""/>
+<lg type="stanza">
+<l>Shall England bow her head at last,</l>
+<l rend="inline">The badge of vassalage to wear?</l>
+<l>Awake--the hour for sleep is past;</l>
+<l rend="inline">Up and prepare!</l>
+</lg>
 
+<lg type="stanza">
+<l>Know you what fate on Belgium fell,</l>
+<l rend="inline">You that have wives and daughters fair ?</l>
+<l>Shall they, too, feed the lusts of Hell ?</l>
+<l rend="inline">Up and prepare!</l>
+</lg>
 
-
-<l>AWAKE!</l>
-
-<l>T^EATH hunts for us beneath the seas,</l>
-<l>-*—^    Death hawks at us amidst the air.</l>
-<l>Awake, O slumberers luUed in ease !</l>
-<l>Up and prepare!</l>
-
-
-
-
-
-<l>ShaU England bow her head at last,</l>
-
-<l>The badge of vassalage to wear ?</l>
-<l>Awake—the hour for sleep is past;</l>
-<l>Up and prepare!</l>
-
-
-
-
-
-<l>Know you what fate on Belgium feU,</l>
-
-<l>You that have wives and daughters fair ?</l>
-<l>ShaU they, too, feed the lusts of HeU ?</l>
-<l>Up and prepare!</l>
-
-
-
-
-
+<lg type="stanza">
 <l>What sound is this that rises o'er</l>
-
-<l>The squadron's tramp, the bugle's blare ?</l>
+<l rend="inline">The squadron's tramp, the bugle's blare ?</l>
 <l>'Tis Doom, knocking at England's door !</l>
-<l>Up and prepare!</l>
-<l>93</l>
+<l rend="inline">Up and prepare!</l>
+</lg>
 
 
 
-<pb n=""/>
+<pb n="94                 AWAKE!"/>
 
-
-
-<l>94                               AWAKE!</l>
-
+<lg type="stanza">
 <l>Arm as your sires were proud to arm,</l>
-<l>Dare as your brothers yonder dare!</l>
+<l rend="inline">Dare as your brothers yonder dare!</l>
 <l>In mart and mine and forge and farm,</l>
-<l>Up and prepare!</l>
+<l rend="inline">Up and prepare!</l>
+</lg>
+</div>
 
 
+<pb n="OUR MEN     95"/>
 
-<pb n=""/>
+<div id="watson052" type="poem" n="52">
+<head>OUR MEN</head>
 
-
-
-<l>OUR MEN</l>
-
+<lg type="stanza">
 <l>OUR men, they are our stronghold,</l>
-<l>Our bastioned waU unscaled,</l>
+<l rend="inline">Our bastioned wall unscaled,</l>
 <l>Who, against Hate and Wrong, hold</l>
-
-<l>This Realm that never quailed ;</l>
-<l>Who bear the noblést burden</l>
-
-<l>Life lays on shoulders broad,</l>
+<l rend="inline">This Realm that never quailed ;</l>
+<l>Who bear the noblest burden</l>
+<l rend="inline">Life lays on shoulders broad,</l>
 <l>Asking not fame or guerdon,</l>
-<l>Asking not gold or laud.</l>
+<l rend="inline">Asking not gold or laud.</l>
+</lg>
 
+<lg type="stanza">
 <l>They go where England speeds them ;</l>
-
-<l>They laugh and jest at Fate.</l>
+<l rend="inline">They laugh and jest at Fate.</l>
 <l>They go where England needs them,</l>
-
-<l>And dream not they are great,</l>
-<l>And oft, 'mid smoke and smother</l>
-
-<l>By bUnding warstorm fanned,</l>
+<l rend="inline">And dream not they are great,</l>
+<l>And oft,'mid smoke and smother</l>
+<l rend="inline">By blinding warstorm fanned,</l>
 <l>Sons of our mighty Mother,</l>
+<l rend="inline">They fall that she may stand.</l>
+</lg>
 
-<l>They faU that she may stand,</l>
-
-<l>Our sailors, save when sleepiug</l>
-
-<l>The Ught sleep of the sea,</l>
+<lg type="stanza">
+<l>Our sailors, save when sleeping</l>
+<l rend="inline">The light sleep of the sea,</l>
 <l>Their ancient watch are keeping,</l>
-
-<l>Mother, for thine and thee!</l>
-<l>95</l>
+<l rend="inline">Mother, for thine and thee!</l>
 
 
-
-<pb n=""/>
-
-
-
-<l>96                             OUR MEN</l>
+<pb n="96          OUR MEN"/>
 
 <l>They guard thy maiden daughters</l>
-<l>From worse than death or pain ;</l>
-
+<l rend="inline">From worse than death or pain ;</l>
 <l>The men who ward the waters,</l>
-<l>The men who man the main,</l>
+<l rend="inline">The men who man the main.</l>
+</lg>
 
+<lg type="stanza">
 <l>When navies meet and wrestle,</l>
-
-<l>And their vast arms strike home-</l>
-<l>Vessel \\ ith monstrous vessel</l>
-
-<l>Matched on the flame-Ut foam—</l>
+<l rend="inline">And their vast arms strike home--</l>
+<l>Vessel with monstrous vessel</l>
+<l rend="inline">Matched on the flame-lit foam--</l>
 <l>What fleet returns in glory ?</l>
+<l rend="inline">What fleet makes haste to fly ?</l>
+<l>O Sea, that knowest our story,</l>
+<l rend="inline">Thou, thou canst best reply !</l>
+</lg>
 
-<l>What fleet makes haste to fly ?</l>
-<l>O Sea, that knowest our storv,</l>
-
-<l>Thou, thou canst best reply !</l>
-
-<l>Then hail to aU who gave us</l>
-
-<l>Their might of arm and soul,</l>
+<lg type="stanza">
+<l>Then hail to all who gave us</l>
+<l rend="inline">Their might of arm and soul,</l>
 <l>Hot and athirst to save us,</l>
-
-<l>To heal, and keep us whole ;</l>
+<l rend="inline">To heal, and keep us whole ;</l>
 <l>Whether they serve where yonder</l>
-
-<l>Far-burrowing trenches run,</l>
+<l rend="inline">Far-burrowing trenches run,</l>
 <l>Or where the ocean thunder</l>
-
-<l>Peals with the thundering gun.</l>
-
-
+<l rend="inline">Peals with the thundering gun.</l>
+</lg>
+</div>
 
 
 

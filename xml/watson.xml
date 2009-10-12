@@ -1,3 +1,105 @@
+<TEI.2>
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>POEMS: Electronic Edition</title>
+            <author><name type="person" reg="Watson, William, Sir">Sir William Watson 1858-1935</name></author>
+         </titleStmt>
+	 <publicationStmt>
+	   <publisher>Lewis H. Beck Center for Electronic Collections
+	   and Services, Emory University</publisher>
+	   <pubPlace>Atlanta, GA</pubPlace>
+	   <address>
+	     <addrLine>540 Asbury Circle</addrLine>
+	     <addrLine>Woodruff Library</addrLine>
+	     <addrLine>Atlanta, GA 30322</addrLine>
+	   </address>
+	   <availability><p>&#x00A9;Emory University. Permission is
+	   granted to download, transmit, or otherwise reproduce,
+	   distribute or display the contributions to the work claimed
+	   by Emory University for non-profit educational purposes,
+	   provided this header is included in its entirety.  For
+	   inquiries about commercial uses, contact either: Institute
+	   for Jewish Studies, Emory University, Atlanta GA 30322 or
+	   the Lewis H. Beck Center for Electronic Collections and
+	   Services, Woodruff Library, Emory University, Atlanta,
+	   Georgia 30322 </p></availability> 
+	   <date>2009</date>
+	 </publicationStmt>
+	 <seriesStmt>
+	   <title>War Daubs: Poems</title>
+	 </seriesStmt>
+	 <notesStmt><note></note></notesStmt>
+         <sourceDesc>
+            <bibl>
+	     <title>POEMS</title>
+	     <author>Sir William Watson</author>
+	     <pubPlace>London</pubPlace>
+	     <publisher>John Murray</publisher>
+	     <date>1917</date>
+	   </bibl>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+	<projectDesc><p>Poetry contemporary to World War I (the Great
+	War) has been digitized by OCR or rekeying. The work has been
+	done in conjunction with Dr. Harry Rusche of the English
+	Department, Emory University</p></projectDesc>
+	<tagsDecl>
+	  <rendition id="quote">Paragraphs including q or quote
+	  elements indicate material that is in a block
+	  quote.</rendition>
+	  <rendition id="title">Where the title of a work is
+	  italicized, it is marked with a title element, both in the
+	  text and in footnotes.</rendition>
+	  <tagUsage gi="q" render="quote">blockquote</tagUsage>
+	  <tagUsage gi="quote" render="quote">blockquote</tagUsage>
+	  <tagUsage gi="title" render="title">italic</tagUsage>
+	</tagsDecl>
+	<refsDecl><p>The page numbers of the volumes are indicated by
+	page break elements</p>
+	<p></p>
+	</refsDecl>
+	<classDecl>
+	  <taxonomy id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
+	  </taxonomy>
+	</classDecl>
+      </encodingDesc>
+      <profileDesc>
+         <creation>
+	   <rs type="collection">poetry</rs>
+	   <rs type="language">English</rs>
+            <rs type="ethnicity">Caucasian</rs>
+            <rs type="form">Unedited</rs>
+            <rs type="genre">Poetry</rs>
+            <rs type="geography">Great Britain</rs>
+            <date>1900-1999</date>
+         </creation>
+	 <textClass>
+	   <keywords scheme="lcsh">
+	     <list>
+	       <item>World War, 1914-1918--Poetry.</item>
+	       <item>English poetry--20th Century.</item>
+	       <item>War.</item>
+	     </list>
+	   </keywords>
+	 </textClass></profileDesc>
+      <revisionDesc><!-- add your information here -->
+	<change>
+	  <date>2009</date>
+	  <respStmt>
+	    <name>Shruthi Vissa</name>
+	    <resp>Beck Center staff</resp>
+	  </respStmt>
+	    <item>Proofing, encoding</item>
+	</change>
+      </revisionDesc>
+   </teiHeader>
+<text>
+<front>
 
 <pb n=""/>
 
@@ -7,92 +109,21 @@
 
 <pb n=""/>
 
+<titlePage id="watson1000" type="half">
+     <docTitle>
+       <titlePart type="main">THE MAN WHO SAW<lb/>
+       </titlePart>
+     </docTitle>
+   </titlePage>
 
-
-<l>THE MAN WHO SAW</l>
 
 
 
 <pb n=""/>
 
-
-
-<l>BY THB SÃMB AVTHOR</l>
-
-<l>THE POEMS OF WILLIAM WATSON.</l>
-
-<l>In 2 V'oIb., with Portrait. Comprising nearly the</l>
-<l>entire contents o£ the Author's 12 previously pub-</l>
-<l>lished Volumes.   9s. net.   London : John Lane.</l>
-
-
-
-
-
-<l>LATBR rOLUMBS BY THE SAME AUTHOR</l>
-
-<l>NEW  POEMS.     5*. net.    London :  John</l>
-
-<l>Lane.</l>
-
-<l>SABLE   AND   PURPLE.    2s.   6ã.   net.</l>
-
-<l>LONDON :  EVELEIOH NaSH.</l>
-
-<l>THE   HERALDS   OF  THE  DAWN.    A</l>
-
-<l>Dramatic Poem.   is. 6d. net.    London : John Lane.</l>
-
-<l>THE    MUSE   IN    EXILE.     3s. 6d.   net.</l>
-<l>London : Herbert Jenkins, Ltd.</l>
-
-<l>RETROGRESSION.   Ss. U. net,    London :</l>
-
-<l>JOHN  LANE.</l>
-
-
-
-
-
-<l>PROSE WORKS BY THE SAMB AUTHOR</l>
-
-<l>EXCURSIONS IN GRITIGISM.    5t. net.</l>
-
-<l>LONDON : JOHN Lane.</l>
-
-<l>PENGRAFT : A Plea for the Older Ways.</l>
-
-<l>Ss. 6d. net.   London : John Lane.</l>
-
-
-
-<pb n=""/>
-
-
-
-<l>THE MAN WHO SAW</l>
-
-<l>AND  OTHER POEMS ARISING</l>
-<l>OUT OF THE WAR</l>
-
-
-
-
-
-<l>BT</l>
-
-<l>WILLĨAM WATSON</l>
-
-
-
-
-
-<l>LONDON</l>
-<l>JOHN MURRAY, ALBEMARLE STREET, W.</l>
-
-<l>1917</l>
-
-
+<div id="watson" type="advertisement">
+<figure type="fm2">
+<figDesc> Adverstisement in front of 
 
 <pb n=""/>
 

@@ -121,25 +121,17 @@
 
 <pb n=""/>
 
-<div id="watson" type="advertisement">
-<figure type="fm2">
-<figDesc> Adverstisement in front of 
-
-<pb n=""/>
-
-
-
-<l>All Rights Rbsebved</l>
+<div id="watson1001" type="advertisement">
+<figure id="watsonfm2" type="ad1">
+<figDesc> Adverstisement in front of William Watson's "The Man Who Saw"</figDesc>
+</figure>
+</div>
 
 
-
-<pb n=""/>
-
-
-<div id="watson" type="preface">
+<div id="watson1002" type="preface">
 <head>PREFACE</head>
 
-<p>TWICE in his lií'e the author of this little book has had the experience, so painful to a patriotic man, of difFering from the majority of his countrymen on the moral issues involved in certain large and complex questions of international or imperial policy. In both cases he recorded his views and feelings very unambiguously in verse, incurring not a little odium and losing some friends. In both cases public opinion has since moved round into a position fundamentally much nearer his own than it had at first occupied. During the present war, with all its agonies and horrors, he has had at any rate the one private satisfaction of feeling not even the most momentary doubt or misgiving as to the perfect righteousness of his country's cause. There is nothing on earth of which he is more certain than that this Empire, throughout this supreme ordeal, has shaped her course by the Hght of purest duty. Her way has been the way of the just; and even if it be arguable that a base expediency would have dictated another path--even if it be held that by
+<p>TWICE in his life the author of this little book has had the experience, so painful to a patriotic man, of differing from the majority of his countrymen on the moral issues involved in certain large and complex questions of international or imperial policy. In both cases he recorded his views and feelings very unambiguously in verse, incurring not a little odium and losing some friends. In both cases public opinion has since moved round into a position fundamentally much nearer his own than it had at first occupied. During the present war, with all its agonies and horrors, he has had at any rate the one private satisfaction of feeling not even the most momentary doubt or misgiving as to the perfect righteousness of his country's cause. There is nothing on earth of which he is more certain than that this Empire, throughout this supreme ordeal, has shaped her course by the Hght of purest duty. Her way has been the way of the just; and even if it be arguable that a base expediency would have dictated another path--even if it be held that by
 
 
 
@@ -176,7 +168,6 @@ editors of which are here thanked for permission to reprint them, not a few have
 
 </div>
 
-<l>THE  MAN  WHO  SAW</l>
 
 
 
@@ -316,22 +307,7 @@ editors of which are here thanked for permission to reprint them, not a few have
 <l>Amid the battling torrents, and beneath</l>
 <l>The happier peaks, that without strife, prevail.</l>
 </lg>
-
-
-<pb n=""/>
-
-<pb n=""/>
-
-
-
-<l>SONNETS</l>
-
-
-
-<pb n=""/>
-
-<pb n=""/>
-
+</div>
 
 <div id="watson002" type="poem" n="2">
 <head>THE FOURTH  OF AUGUST, 1914</head>
@@ -2138,16 +2114,4 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <l rend="inline">Peals with the thundering gun.</l>
 </lg>
 </div>
-
-
-
-<l>Pimted hy HarMl, ^Vaíson &amp; Yinty, Ld., London and AyUthvry, EngU</l>
-
-
-
-<pb n=""/>
-
-<pb n=""/>
-
-<pb n=""/>
 

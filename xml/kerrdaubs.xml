@@ -121,10 +121,9 @@
      </docTitle>
        <byline> BY R. WATSON KERR</byline>
        <docImprint>
-        <pubPlace>LONDON:<publisher> JOHN LANE, THE BODLEY HEAD</publisher></pubPlace>
-	 <pubPlace>NEW YORK:
+        <pubPlace>LONDON: NEW YORK:</pubPlace>
 	 <publisher>JOHN LANE COMPANY,</publisher>
-	 <docDate>MCMXIX [1919]</docDate></pubPlace>
+	 <docDate>MCMXIX [1919]</docDate>
        </docImprint>
    </titlePage>
 
@@ -168,11 +167,10 @@
 
 <pb n="[xii]"/>
 </front>
+
 <body>
-<pb n="[A Vignette  1]"/>
-
-
 <div id="kerrdaubs001" type="poem" n="1">
+<pb n="A Vignette  1"/>
 <head rend="center">A VIGNETTE</head>
 
 <lg type="stanza">
@@ -181,13 +179,12 @@
 <l>Tangled in mire--</l>
 <l>When God is flinging</l>
 <l>Rain down the skies--</l>
-<l>Sit three little birds, singing.</l></lg></div>
-
-
-
-<pb n="[2  FROM  THE  LINE]"/>
+<l>Sit three little birds, singing.</l>
+</lg>
+</div>
 
 <div id="kerrdaubs002" type="poem" n="2">
+<pb n="2  FROM  THE  LINE"/>
 <head rend="center">FROM THE LINE</head>
 <lg type="stanza">
 <l>Have you seen men come from the Line,</l>
@@ -205,11 +202,7 @@
 <lg type="stanza">
 <l>Have you seen them aimless go</l>
 
-<l>2</l>
-
-
-
-<pb n="[FROM THE LINE  3]"/>
+<pb n="FROM THE LINE  3"/>
 
 <l>Bowed down with muddy pack</l>
 <l>And muddy rifle slung on back,</l>
@@ -230,11 +223,7 @@
 <l>Brings naught but death, and rain--</l>
 <l>The rain a fiend of pain</l>
 
-<l>3</l>
-
-
-
-<pb n="[4  WAR DAUBS]"/>
+<pb n="4 WAR DAUBS"/>
 
 <l>That scourges without end,</l>
 <l>And Death, a smiling friend ?</l></lg>
@@ -254,50 +243,44 @@
 <l>If you've not seen the things I've sung--</l>
 <l>Let silence bind your tongue,</l>
 <l>But, make all wars to cease,</l>
-<l>And work, and work for Everlasting Peace !</l></lg></div>
-
-<l>4</l>
-
-
-
-<pb n="[TO  A  SORROWING  MOTHER  5]"/>
+<l>And work, and work for Everlasting Peace !</l>
+</lg>
+</div>
 
 <div id="kerrdaubs003" type="poem" n="3">
+<pb n="TO  A  SORROWING  MOTHER  5"/>
 <head rend="center">TO A SORROWING MOTHER</head>
 <lg type="stanza">
 <l>You hide your grief, Mother,</l>
 <l rend="inline">But in lonely twilight times</l>
 <l>You silently weep for another</l>
-<l rend="inline">Who is dead.</l></lg>
+<l rend="inline">Who is dead.</l>
+</lg>
 
 <lg type="stanza">
 <l>Alone, you mourn thus;</l>
 <l rend="inline">That he, whose only dirge was the wind,</l>
 <l>Should be unwept by us</l>
-<l rend="inline">Who laugh:</l></lg>
+<l rend="inline">Who laugh:</l>
+</lg>
 
 <lg type="stanza">
 <l>That we should coarsely sing</l>
 <l rend="inline">In selfish merriment, unheeding,</l>
 <l>Thoughtless of a thing</l>
-<l rend="inline">Like his death.</l></lg>
+<l rend="inline">Like his death.</l>
+</lg>
 
-<l>5</l>
-
-
-
-<pb n="[6  WAR  DAUBS]"/>
+<pb n="6  WAR  DAUBS"/>
 <lg type="stanza">
 <l>But, ah !   Sorrowing Mother,</l>
 <l rend="inline">Can we not also smile and hide</l>
 <l>Our grief, who mourn a brother—</l>
-<l rend="inline">Secretly ?</l></lg></div>
-
-
-
-<pb n="[THE  CORPSE  7]"/>
+<l rend="inline">Secretly ?</l></lg>
+</div>
 
 <div id="kerrdaubs004" type="poem" n="4">
+<pb n="THE  CORPSE  7"/>
 <head rend="center"> THE CORPSE</head>
 <lg type="stanza">
 <l>It lay on the hill,</l>
@@ -311,13 +294,11 @@
 <l>Small trace</l>
 <l>Of clothes upon its back--</l>
 <l>Thank God ! it had a sack</l>
-<l>Upon its face !</l></lg></div>
-
-
-
-<pb n="[8  MUSIC  IN A DUG-OUT]"/>
+<l>Upon its face !</l></lg>
+</div>
 
 <div id="kerrdaubs005." type="poem" n="5">
+<pb n="8  MUSIC  IN A DUG-OUT"/>
 <head rend="center">MUSIC IN A DUG OUT</head>
 <lg type="tanza">
 <l>THE hour is drowsed with things of sleep</l>
@@ -327,23 +308,22 @@
 <l>And I am walking in a glade</l>
 <l>With gold and green and purple made</l>
 <l>Unearthly beautiful:</l>
-<l>And, oh, the air is very cool!</l></lg>
+<l>And, oh, the air is very cool!</l>
+</lg>
 
 <lg type="stanza">
 <l>I see green lawns between the trees,</l>
 <l>And cows and sheep upon the leas,</l>
 <l>And, in the distance, hills;</l>
 <l>And at my feet cool, mossy rills</l>
-<l>8</l>
 
-
-
-<pb n="[MUSIC IN  A DUG-OUT  9]"/>
+<pb n="MUSIC IN A DUG-OUT 9"/>
 
 <l>Empurpled with the wavering shade</l>
 <l>Of trees and bushes in the glade ;</l>
 <l>And ever I rejoice</l>
-<l>And ever sings a voice.</l></lg>
+<l>And ever sings a voice.</l>
+</lg>
 
 <lg type="stanza">
 <l>I see--but, sudden the singing ceases,</l>
@@ -360,28 +340,18 @@
 <l>And cans, just tiny refuse bins</l>
 <l>With smelling slops of tea and jam</l>
 <l>And twisted greasy bits of ham ;</l>
-<l>c                            9</l>
 
-
-
-<pb n="[10  WAR  DAUBS]"/>
+<pb n="10  WAR  DAUBS"/>
 
 <l>And belts hung round the dingy walls</l>
 <l>Like horses' harness in their stalls ;</l>
 <l>And in the corner gloom, alone--</l>
-<l>A dusty, silent gramophone !</l></lg></div>
-
-
-
-
-
-<l>10</l>
-
-
-
-<pb n="[A  PORTRAIT  11]"/>
+<l>A dusty, silent gramophone !</l>
+</lg>
+</div>
 
 <div id="kerrdaubs006" type="poem" n="6">
+<pb n="A  PORTRAIT  11"/>
 <head rend="center">A PORTRAIT</head>
 <lg type="stanza">
 
@@ -398,11 +368,7 @@
 <l>Desires, ambitions,--dreams that come to naught</l>
 <l>But leave the mind limp, exhausted,</l>
 
-<l>11</l>
-
-
-
-<pb n="[WAR  DAUBS  12]"/>
+<pb n="WAR  DAUBS  12"/>
 
 <l>Till it sees the world and life</l>
 <l>Labelled with " Hopeless."</l></lg>
@@ -419,19 +385,12 @@
 <l>When there's nothing in it to grind,</l>
 <l>Gnawing itself away in frenzied toil,</l>
 <l>And producing--</l>
-<l>Nothing !</l></lg></div>
-
-
-
-
-
-<l>12</l>
-
-
-
-<pb n="[13  THE  GRAVE-DIGGER]"/>
+<l>Nothing!</l>
+</lg>
+</div>
 
 <div id="kerrdaubs007" type="poem" n="7">
+<pb n="13 THE  GRAVE-DIGGER"/>
 <head rend="center">THE GRAVE-DIGGER</head>
 <lg type="stanza">
 
@@ -444,17 +403,11 @@
 <l>The digging is painful and slow,</l>
 <l>Yet the digger he sweats like a slave--</l>
 <l>But he didn't know what I now know ;</l>
-<l>The digger he dug his own grave !</l></lg></div>
+<l>The digger he dug his own grave !</l>
+</lg>
+</div>
 
-
-
-
-
-<l>13</l>
-
-
-
-<pb n="[RAIN  14]"/>
+<pb n="RAIN  14"/>
 <div id="kerrdaubs008" type="poem" n="8">
 <head rend="center"> RAIN</head>
 <div id="kerrdaubs1000" type="section" n="1">
@@ -478,9 +431,7 @@
 <l>My life lags, drenched of light</l>
 <l>To cheer its tomb ;</l>
 
-
-
-<pb n="[15  RAIN]"/>
+<pb n="15  RAIN"/>
 
 <l>Chill and wet,</l>
 <l>Comfortless I fret</l>
@@ -496,17 +447,13 @@
 <l>O maddening sound!</l>
 <l>Drowned in sky</l>
 <l>Trees drip, drip, and sigh</l>
-<l>And drip, drip again.</l></lg></div></div>
+<l>And drip, drip again.</l>
+</lg>
+</div>
 
+</div>
 
-
-
-
-<l>15</l>
-
-
-
-<pb n="[16  HOOGE]"/>
+<pb n="16  HOOGE"/>
 
 <div id="kerrdaubs009" type="section" n="9">
 <head rend="center">HOOGE</head>
@@ -522,17 +469,11 @@
 <l>Where the road winds round</l>
 <l>Like wounded snake,</l>
 <l>One sees</l>
-<l>A painted wooden stake !</l></lg></div>
+<l>A painted wooden stake !</l>
+</lg>
+</div>
 
-
-
-
-
-<l>16</l>
-
-
-
-<pb n="[A  DEAD  MAN  17]"/>
+<pb n="A  DEAD  MAN  17"/>
 
 <div id="kerrdaubs010" type="poem" n="10">
 <head rend="center"> A DEAD MAN</head>
@@ -553,9 +494,6 @@
 <l>Were subtly fashioned hand and wrist</l>
 <l>That made sweet violin tones,</l>
 <l>Or held a face till lips had kissed !</l></lg>
-<l>D                                17</l>
-
-
 
 <pb n="18  WAR  DAUBS"/>
 
@@ -579,15 +517,7 @@
 <l>Then come !  let's kill the memory of this place--</l>
 <l>O friends ! it had a hideous, ebony face !</l></lg></div>
 
-
-
-
-
-<l>18</l>
-
-
-
-<pb n="[LINES  19]"/>
+<pb n="LINES  19"/>
 
 <div id="kerrdaubs011" type="poem" n="11">
 <head rend="center"> LINES</head>
@@ -595,7 +525,7 @@
 <l>It is not sweet to die for one's countree :</l>
 <l>I saw a dead man stinking in a trench</l>
 <l>Where even flies would sicken with the stench;</l>
-<l>Ah ! is it sweet to die for one's countree ?</l></lg>
+<l>Ah! is it sweet to die for one's countree ?</l></lg>
 
 <lg type="stanza">
 <l>His face had rotted black as ebony,</l>
@@ -608,11 +538,8 @@
 <l>That sings glad triumph songs unearthily,</l>
 <l>Then might I make a sweeter song and say,</l>
 <l>' Surely 'tis sweet to die for one's countree !'</l></lg></div>
-<l>19</l>
 
-
-
-<pb n="[20  REBUKE]"/>
+<pb n="20 REBUKE"/>
 
 <div id="kerrdaubs012" type="poem" n="12">
 <head rend="center">REBUKE</head>
@@ -632,31 +559,21 @@
 <l>As one who was rebuked I stood</l>
 <l>In wonder by the sea ;</l>
 <l>And in the beauty, lo !  I could</l>
-<l>Attain Serenity!</l></lg></div>
+<l>Attain Serenity!</l>
+</lg>
+</div>
 
-<l>20</l>
-
-
-
-<pb n="[THE  ANCIENT  THOUGHT  21]"/>
+<pb n="THE ANCIENT THOUGHT 21"/>
 
 <div id="kerrdaubs013" type="poem" n="13">
-<head rend="center"> THE ANCIENT THOUGHT</head>
+<head rend="center">THE ANCIENT THOUGHT</head>
 <lg type="stanza">
 <l>The round moon hangs like a yellow lantern in the trees</l>
 <l>That lie like lace against the silk-blue sky,</l>
 <l rend="inline">Oh, still the night !   Oh, hushed the breeze--</l>
 <l rend="inline">Surely God is nigh.</l></lg></div>
 
-
-
-
-
-<l>21</l>
-
-
-
-<pb n="[22  ARRAS,  1917]"/>
+<pb n="22  ARRAS,  1917"/>
 
 <div id="kerrdaubs014" type="poem" n="14">
 <head rend="center">ARRAS, 1917</head>
@@ -673,11 +590,8 @@
 <l>Faster and faster ;</l>
 <l>And I'll never forget</l>
 <l>How chill strikes the moon !</l></lg>
-<l>22</l>
 
-
-
-<pb n="ARRAS,  1917   23"/>
+<pb n="ARRAS,  1917 23"/>
 
 <lg type="stanza">
 <l>And a heavy sound,</l>
@@ -699,12 +613,10 @@
 <l>Of soul that, sobbing, seeming dies :</l>
 <l>And the black windows gape</l>
 <l>Like anguished eyes</l>
-<l>In mute horror thro' the night!</l></lg>
-<l>23</l>
+<l>In mute horror thro' the night!</l>
+</lg>
 
-
-
-<pb n="[24  WAR  DAUBS]"/>
+<pb n="24 WAR DAUBS"/>
 
 <lg type="stanza">
 <l>Ah ! is the bruis&#x00E8;d spirit fled ?</l>
@@ -725,14 +637,11 @@
 <l>In humble, cheery, careless way,</l>
 <l>And whisper low of days gone by--</l>
 <l>See there, the city's soul</l>
-<l>24</l>
 
-
-
-<pb n="[ARRAS,   1917  25]"/>
+<pb n="ARRAS, 1917 25"/>
 
 <l>That pulses on with irresistless roll</l>
-<l>To a future, mightier destiny !</l></lg>
+<l>To a future, mightier destiny!</l></lg>
 
 <lg type="stanza">
 <l>And gleams it still in many a dingy hole</l>
@@ -750,11 +659,8 @@
 <l>Jubilant with reincarnate faith--a song</l>
 <l>Of triumph from its fiery lips sent</l>
 <l>Ringing to the astonished firmament--</l></lg>
-<l>E                                 25</l>
 
-
-
-<pb n="[26  WAR DAUBS]"/>
+<pb n="26  WAR DAUBS"/>
 
 <lg type="stanza">
 <l>Music that will never die,</l>
@@ -776,12 +682,10 @@
 <l>Seeking its master,</l>
 <l>Faster and faster;</l>
 <l>And a heavy sound,</l>
-<l>A hollow tread comes after me--</l></lg>
-<l>26</l>
+<l>A hollow tread comes after me--</l>
+</lg>
 
-
-
-<pb n="[ARRAS, 1917  27]"/>
+<pb n="ARRAS, 1917 27"/>
 
 <lg type="stanza">
 <l>I never glance around,</l>
@@ -789,19 +693,12 @@
 <l>From the haunting dread</l>
 <l>Of the Unknown Tread ;</l>
 <l>And I hold my breath :</l>
-<l>Is it Death ?</l></lg></div>
-
-
-
-
-
-<l>27</l>
-
-
-
-<pb n="[28  HOME]"/>
+<l>Is it Death?</l>
+</lg>
+</div>
 
 <div id="kerrdaubs015" type="poem" n="15">
+<pb n="28 HOME"/>
 <head rend="center"> HOME</head>
 <lg type="stanza">
 
@@ -818,13 +715,11 @@
 <l>Down in picturesque disorder.   Then,</l>
 <l>Along low wood-walled passages the den,</l>
 <l>Our German Dug-Out--leaks into the sky</l>
-<l>By stair-cased rough-shod shafts steep and high.</l></lg></div>
+<l>By stair-cased rough-shod shafts steep and high.</l>
+</lg>
+</div>
 
-<l>28</l>
-
-
-
-<pb n="[FAITH  29]"/>
+<pb n="FAITH  29"/>
 
 <div id="kerrdaubs016" type="poem" n="16">
 <head rend="center">FAITH</head>
@@ -842,11 +737,8 @@
 <l>To break or fracture--</l>
 <l>As a lover gives her all,</l>
 <l>Her body and her soul,</l>
-<l>29</l>
 
-
-
-<pb n="[30 WAR  DAUBS]"/>
+<pb n="30 WAR DAUBS"/>
 
 <l>Unto the man she loves,</l>
 <l>So I have given my all to God,</l>
@@ -867,31 +759,22 @@
 <lg type="stanza">
 <l>But, if He will it,</l>
 <l>He will turn the bullets in their flight;</l>
-<l>30</l>
 
-
-
-<pb n="[FAITH  31]"/>
+<pb n="FAITH 31"/>
 
 <l>Will make a stoppage in a gun ;</l>
 <l>Or make a gunner's hand to tremble,</l>
-<l>That his aim be false--</l></lg>
+<l>That his aim be false--</l>
+</lg>
 
 <lg type="stanza">
 <l>And winds of bullets will cool my cheeks,</l>
-<l>And shrapnel fall like blossoms on my head !</l></lg></div>
-
-
-
-
-
-<l>31</l>
-
-
-
-<pb n="[32  THE VISION]"/>
+<l>And shrapnel fall like blossoms on my head !</l>
+</lg>
+</div>
 
 <div id="kerrdaubs017" type="poem" n="17">
+<pb n="32 THE VISION"/>
 <head rend="center">THE VISION</head>
 <lg type="stanza">
 <l>Lo ! there she comes from afar</l>
@@ -903,66 +786,55 @@
 <l>Sailing at dawn</l>
 <l>On a tree-gloomed lake</l>
 <l>Richly and wond'rously opaque,</l>
-<l>By water-lilies, silently!</l></lg></div>
-
-
-
-
-
-<l>32</l>
-
-
-
-<pb n="[DENIAL  33]"/>
+<l>By water-lilies, silently!</l>
+</lg>
+</div>
 
 <div id="kerrdaubs018" type="poem" n="18">
+<pb n="DENIAL 33"/>
 <head rend="center">DENIAL</head>
 <lg type="stanza">
 
 <l>If I should die--chatter only this:--</l>
 <l>' A bullet flew by that did not miss!'</l>
 <l>I did not give life up because of a friend ;</l>
-<l>That bullet came thro', and that was the end !</l></lg>
+<l>That bullet came thro', and that was the end !</l>
+</lg>
 
 <lg type="stanza">
 <l>Don't put up a cross where my dung will be laid,</l>
 <l>But scatter some wheat--and bread will be made ;</l>
 <l>Don't say I'm a hero because I was shot;</l>
-<l>A bullet won't make one what one is not.</l></lg>
+<l>A bullet won't make one what one is not.</l>
+</lg>
 
 <lg type="stanza">
 <l>Don't scribble my name upon Honour's scroll</l>
 <l>And plaster it up on the Churches hall:</l>
 <l>What honour is there in being forced to die ?</l>
-<l>We slaughter a pig--but we make it a fry !</l></lg>
-<l>F                           33</l>
+<l>We slaughter a pig--but we make it a fry !</l>
+</lg>
 
-
-
-<pb n="34  WAR DAUBS"/>
+<pb n="34 WAR DAUBS"/>
 
 <lg type="stanza">
 <l>And what are the odds 'tween the pig and I ?</l>
 <l>The pig can't help dying--he is forced to die ;</l>
 <l>And so with myself, when a bullet comes thro'</l>
-<l>I simply must die--then why the ado ?</l></lg>
+<l>I simply must die--then why the ado?</l>
+</lg>
 
 <lg type="stanza">
-<l>Oh ! if I should die--chatter only this--</l>
-<l>' A bullet flew by that did not miss';</l>
-<l>I did not give life up because of a friend ;</l>
-<l>That bullet came thro'—and <hi rend="italic">voil&#x00E0;</hi>, the end !'</l></lg></div>
+<l>Oh! if I should die--chatter only this--</l>
+<l>'A bullet flew by that did not miss';</l>
+<l>I did not give life up because of a friend;</l>
+<l>That bullet came thro'—and <hi rend="italic">voil&#x00E0;</hi>, the
+end!'</l>
+</lg>
+</div>
 
-
-
-
-
-<l>34</l>
-
-
-
-<pb n="[RESOLVE  35]"/>
 <div id="kerrdaubs019" type="poem" n="19">
+<pb n="RESOLVE 35"/>
 <head rend="center">RESOLVE</head>
 <lg type="stanza">
 <l>Let me not think of blood to-night--</l>
@@ -975,16 +847,12 @@
 <l>I will harden yet my heart</l>
 <l>Gaze into horror's face</l>
 <l>Unafraid, without a trace</l>
-<l>Of tenderness!</l></lg></div>
-
-
-
-<l>35</l>
-
-
-<pb n="[36  JUNE,  1918]"/>
+<l>Of tenderness!</l>
+</lg>
+</div>
 
 <div id="kerrdaubs020" type="poem" n="20">
+<pb n="36  JUNE,  1918"/>
 <head rend="center">JUNE, 1918</head>
 <lg type="stanza">
 <l>JUNE !  the joyous, sun-filled month of June</l>
@@ -998,13 +866,11 @@
 <l>Of visions far surpassing Kubla Khan !</l>
 <l>When cool sweet winds blow from the woods to fan</l>
 <l>Two lovers lying, kissing in the grass</l>
-<l>Where sun-lit waters glimpse and, laughing, pass.</l></lg>
-
-<l>36</l>
-
+<l>Where sun-lit waters glimpse and, laughing, pass.</l>
+</lg>
 
 
-<pb n="[JUNE,  1918  37]"/>
+<pb n="JUNE, 1918 37"/>
 
 <lg type="stanza">
 <l>June ! a writhing, war-gorged month of hell</l>
@@ -1018,67 +884,56 @@
 <l>And vision sees of no cool Kubla Khan ;</l>
 <l>When rancid gusts from charnel tree-stumps fan</l>
 <l>Two soldiers, clutching, kissing in the grass;</l>
-<l>Whose souls leak out in spurting red, and pass!</l></lg></div>
-
-
-
-
-
-<l>37</l>
-
-
-
-<pb n="[38  STANDING  BY]"/>
+<l>Whose souls leak out in spurting red, and pass!</l>
+</lg>
+</div>
 
 <div id="kerrdaubs021" type="poem" n="21">
-<head rend="center">STANDING BY<lb/>
-<rend type="center">(DESOLATORY REFLECTIONS)</rend></head>
-
+<pb n="38  STANDING  BY"/>
+<head rend="center">STANDING BY
+<lb/>(DESOLATORY REFLECTIONS)</head>
 <lg type="stanza">
 <l>O spirit of my Fate keen-eyed, firm-lipped !</l>
 <l>Thou lead'st me not to pleasant places, dipt</l>
 <l>Rich in gold of setting suns, where dance</l>
 <l>Slim sylphs in silken draperies, who glance</l>
 <l>With luring elfish eyes as they flit away--</l>
-<l>Their white limbs  twinkling in  the gloom ; or say</l>
+<l>Their white limbs  twinkling in  the gloom; or say</l>
 <l>(For vision lags) to those dim aisles of Faerie</l>
-<l>Where my craving soul would fain be led :</l>
-<l>Ah ! no.   Thou hurriest me to fields where dead</l>
-<l>Glue piteous eyes on me, each eye a curse !</l></lg>
+<l>Where my craving soul would fain be led:</l>
+<l>Ah! no.   Thou hurriest me to fields where dead</l>
+<l>Glue piteous eyes on me, each eye a curse!</l>
+</lg>
 
-<l>38</l>
-
-
-
-<pb n="[STANDING BY  39]"/>
+<pb n="STANDING BY 39"/>
 
 <lg type="stanza">
 <l>Relentless Fate, thou drivest on, steel-lipped !--</l>
 <l><hi rend="italic">And I rebel !</hi>--with frantic passion gript,</l>
 <l>Shrinking from lurid horrors that I see</l>
-<l>Revealed, in stark display, awaiting me !</l>
-<l><hi rend="italic">And War I do curse ! and gruesome, ogling death !</hi></l></lg>
+<l>Revealed, in stark display, awaiting me!</l>
+<l><hi rend="italic">And War I do curse! and gruesome, ogling
+death!</hi>
+</l>
+</lg>
 
 <lg type="stanza">
-<l>O you ! condemn me not with scorning breath,</l>
+<l>O you! condemn me not with scorning breath,</l>
 <l>Who sit at home secure, in cushioned ease</l>
 <l>At peace, penning glib sonnets wrought to please,</l>
 <l>On War, and Pain, and Heaven and Sacrifice,</l>
 <l>Saying, " He who for his country dies</l>
-<l>Is blest ! " and making sestets nobly end</l>
-<l>With   ' Death!    the  sweet-toned,   ever-welcome</l>
-<l>Friend' !</l>
-<l>(O Death !  sweet welcome Friend !   no friend of mine</l>
-<l>Art Thou) !</l></lg>
+<l>Is blest! " and making sestets nobly end</l>
+<l>With   ' Death!the  sweet-toned,   ever-welcome</l>
+<l>Friend'!</l>
+<l>(O Death!  sweet welcome Friend!   no friend of mine</l>
+<l>Art Thou)!</l>
+</lg>
 
-<l>39</l>
-
-
-
-<pb n="[40   WAR DAUBS]"/>
+<pb n="40 WAR DAUBS"/>
 
 <lg type="stanza">
-<l>Ah, no ! That clear pure sight of thine</l>
+<l>Ah, no! That clear pure sight of thine</l>
 <l>Is not in me; I hear no fairy bells</l>
 <l>On battlefields, no visions see of wells</l>
 <l>Of rest, or hear no inner voice that sings;</l>
@@ -1086,49 +941,46 @@
 <l>Sheltering around,--but only Death</l>
 <l>I see, and Carnage, reeking with nauseous breath,</l>
 <l>Leering in War's hideous company</l>
-<l>With gorged Destruction, Lust and Misery !</l></lg>
+<l>With gorged Destruction, Lust and Misery!</l>
+</lg>
 
 <lg type="stanza">
 <l>Oh ! I would rather gaze on beauty's face</l>
 <l>In some dim woodland grove, and dreaming, chase</l>
 <l>In rich-hued phantasy, all loveliness</l>
-<l>Of perfume, form, and sound ; and wake to see</l>
+<l>Of perfume, form, and sound; and wake to see</l>
 <l>The still twilight steal soft and holily</l>
 <l>Into the wood, and in the solemn deep</l>
 <l>Of eve, when birds and beasts are all asleep</l>
 
-<l>40</l>
-
-
-
-<pb n="[STANDING BY  41]"/>
+<pb n="STANDING BY  41"/>
 
 <l>And not a leaf or flower is swaying, feel</l>
-<l>The hush of God !</l></lg>
+<l>The hush of God!</l>
+</lg>
 
 <lg type="stanza">
-<l rend="inline">But, ah !   I cannot!   Steel</l>
+<l rend="inline">But, ah! I cannot! Steel</l>
 <l>And iron and lead and poison gas and blood</l>
 <l>Blur my vision, blinding it with mud</l>
-<l>Of harsh reality !   I see grim sights,</l>
+<l>Of harsh reality! I see grim sights,</l>
 <l>And smell foul smells, and in some awful nights</l>
 <l>I see gaunt long-nailed Death with grinning jaws</l>
 <l>Stalking, creaking in his joints, with claws</l>
-<l>Out-stretched to grip me !</l></lg>
+<l>Out-stretched to grip me!</l>
+</lg>
 
 <lg type="stanza">
-<l rend="inline">Oh ! how can I pen sweet songs</l>
+<l rend="inline">Oh! how can I pen sweet songs</l>
 <l>On noble themes, when all I see belongs</l>
-<l>To hell ?   War is no glorious, cleansing thing;</l>
-<l>And Death no gentle-mannered Saviour King !--</l>
-<l>But off !   Begone !   This whining piteous fret !</l>
-<l><hi rend="italic">War will not crush me--I am a soldier yet !</hi></l></lg>
+<l>To hell? War is no glorious, cleansing thing;</l>
+<l>And Death no gentle-mannered Saviour King!--</l>
+<l>But off! Begone! This whining piteous fret!</l>
+<l><hi rend="italic">War will not crush me--I am a soldier yet!</hi>
+</l>
+</lg>
 
-<l>G                                   41</l>
-
-
-
-<pb n="[42  WAR DAUBS]"/>
+<pb n="42 WAR DAUBS"/>
 
 <lg type="stanza">
 <l>Come !  Spirit of my Fate, whate'er thou hast</l>
@@ -1139,7 +991,8 @@
 <l>Dog-eared and grimy, with unwavering look</l>
 <l>I'll face him to the last and, fighting, fall</l>
 <l>With scorn upon my face for Hell and all</l>
-<l>Its despicable crew!</l></lg>
+<l>Its despicable crew!</l>
+</lg>
 
 <lg type="stanza">
 <l rend="inline">But still I pray,</l>
@@ -1147,16 +1000,12 @@
 <l>For me, in some fair peaceful place, a spot</l>
 <l>Where Death and War and Pain will be forgot;</l>
 <l>And where, alive, dead friends will merry be</l>
-<l>'Mid song-filled homes in Paradise with me.</l></lg></div>
-
-
-
-<l>42</l>
-
-
-<pb n="[SOUNDS  BY  NIGHT  43]"/>
+<l>'Mid song-filled homes in Paradise with me.</l>
+</lg>
+</div>
 
 <div id="kerrdaubs022" type="poem" n="22">
+<pb n="SOUNDS BY NIGHT 43"/>
 <head rend="center">SOUNDS BY NIGHT</head>
 <lg type="stanza">
 <l>I hear the dull, low thunder of the guns</l>
@@ -1172,14 +1021,13 @@
 <l>A pause--I hear the trees sway sighing thro'</l>
 <l>The gloom, like dismal moan of hollow knell,</l>
 <l>Then out across the dark, and startling me</l>
-<l>Bursts forth a laugh, a shout of drunken glee !</l></lg></div>
+<l>Bursts forth a laugh, a shout of drunken glee!</l>
+</lg>
+</div>
 
-<l>43</l>
 
-
-
-<pb n="[44  THE GAFF]"/>
 <div id="kerrdaubs023" type="poem" n="23">
+<pb n="44  THE GAFF"/>
 <head rend="center">THE GAFF</head>
 <lg type="stanza">
 <l>OUT, out into the wind-swept cleansing night</l>
@@ -1188,7 +1036,8 @@
 <l>And a thousand stars that mystically croon</l>
 <l>Strange melodies upborne on the cooling wind !</l>
 <l>Out into the night I plunge, my fevered mind</l>
-<l>Hot and drunk.</l></lg>
+<l>Hot and drunk.</l>
+</lg>
 
 <lg type="stanza">
 <l rend="inline">Out to the night from the stenches</l>
@@ -1198,11 +1047,8 @@
 <l>Like bestial things; where the reeking pit</l>
 <l>Vomits out its noise of ribald wit,</l>
 
-<l>44</l>
 
-
-
-<pb n="[THE  GAFF  45]"/>
+<pb n="THE  GAFF  45"/>
 
 <l>The click of glasses in its bar in the rear</l>
 <l>Where bloated men swill nauseous beer;</l>
@@ -1222,20 +1068,17 @@
 <l>And smiles hideously in his grinning face);</l>
 <l>Full-limbed, tight-laced wantons singing all</l>
 
-<l>45</l>
-
-
-
-<pb n="[46  WAR   DAUBS]"/>
+<pb n="46  WAR   DAUBS"/>
 
 <l>Delirious songs of love that shrilly fall</l>
-<l>On the gloating herds like balm ; voluptuous dancing,</l>
+<l>On the gloating herds like balm; voluptuous dancing,</l>
 <l>And the winking chorus, ludicrously prancing</l>
-<l>On behind, like animated dolls        . !</l>
-<l>Ugh, enough !  this tinsel show appals</l>
-<l>My soul.   Away this gruesome glare !   Away</l>
+<l>On behind, like animated dolls.!</l>
+<l>Ugh, enough!  this tinsel show appals</l>
+<l>My soul. Away this gruesome glare! Away</l>
 <l>This carnival of gay indelicacy,</l>
-<l>Gross and joyless !</l></lg>
+<l>Gross and joyless!</l>
+</lg>
 
 <lg type="stanza">
 <l rend="inline">Out I rush to the night</l>
@@ -1247,12 +1090,7 @@
 <l>For man !   Out, out, to wash my jaded soul</l>
 <l>With cooling airs from the star-wrought purple bowl</l>
 
-<l>46</l>
-
-
-
 <pb n="THE  GAFF  47"/>
-
 <l>Of night, in the vast solemnity</l>
 <l>Of silent trees where purple shadows lie</l>
 <l>And where, by a rugged ivy'd grot, enriched</l>
@@ -1260,19 +1098,13 @@
 <l>By the elfish spell of moonbeams babbles on</l>
 <l>And mutters of a silent graceful swan</l>
 <l>It loves ; and where, upon the whispering grass</l>
-<l>Slim fairy dancers laugh and, twinkling, pass!</l></lg></div>
+<l>Slim fairy dancers laugh and, twinkling, pass!</l>
+</lg>
+</div>
 
-
-
-
-
-<l>47</l>
-
-
-
-<pb n="[48  IN  BITTERNESS]"/>
 
 <div id="kerrdaubs024" type="poem" n="24">
+<pb n="48 IN BITTERNESS"/>
 <head rend="center">IN BITTERNESS</head>
 <lg type="stanza">
 
@@ -1283,59 +1115,51 @@
 <l rend="inline">Take out thy ring,</l>
 <l rend="inline">O Heart's Desire,</l>
 <l>And, laughing, toss the box</l>
-<l rend="inline">Into the Fire !</l></lg></div>
+<l rend="inline">Into the Fire!</l>
+</lg>
+</div>
 
 
 
-
-
-<l>48</l>
-
-
-
-<pb n="[THE ARCHITECT AT SUZANNE  49]"/>
 <div id="kerrdaubs025" type="poem" n="25">
+<pb n="THE ARCHITECT AT SUZANNE  49"/>
 <head rend="center">THE ARCHITECT AT SUZANNE</head>
 <lg type="stanza">
 <l>We met a strange old man to-day</l>
 <l>(As we strolled in the ruined place)</l>
 <l>And he smiled to us as we came his way,</l>
-<l>With gentle, wistful grace.</l></lg>
+<l>With gentle, wistful grace.</l>
+</lg>
 
 <lg type="stanza">
 <l>' Ah ! Messieurs, it is very sad'</l>
 <l>(And he waved at the ruined place),</l>
 <l>' I scheme and plan--but it is bad--</l>
-<l>(And there was something in his face).</l></lg>
+<l>(And there was something in his face).</l>
+</lg>
 
 <lg type="stanza">
-<l>' I am very, very sad to-day '</l>
+<l>'I am very, very sad to-day'</l>
 <l>(And his frail hand touched his brow).</l>
-<l>' My dear wife died just yesterday :</l>
-<l>Ah !  all things are ruined now !'</l></lg>
-
-<l>H                              49</l>
-
+<l>'My dear wife died just yesterday:</l>
+<l>Ah!  all things are ruined now!'</l>
+</lg>
 
 
-<pb n="[50  WAR DAUBS]"/>
+
+
+<pb n="50  WAR DAUBS"/>
 
 <lg type="stanza">
-<l>' This week at Bray I scheme and plan '</l>
+<l>' This week at Bray I scheme and plan'</l>
 <l>(And a strange smile quietly came),</l>
-<l>' But next week I must go to Suzanne :</l>
-<l>Suzanne ?  ah ! that was her name !'</l></lg></div>
+<l>' But next week I must go to Suzanne:</l>
+<l>Suzanne?  ah! that was her name!'</l>
+</lg>
+</div>
 
-
-
-
-
-<l>50</l>
-
-
-
-<pb n="[WOUNDED  51]"/>
 <div id="kerrdaubs026" type="poem" n="26">
+<pb n="WOUNDED  51"/>
 <head rend="center">WOUNDED</head>
 <lg type="stanza">
 
@@ -1358,10 +1182,8 @@
 <l>51</l>
 </div>
 
-
-<pb n="[52  ESCAPE]"/>
-
 <div id="kerrdaubs027" type="poem" n="27">
+<pb n="52 ESCAPE"/>
 <head rend="center">ESCAPE</head>
 <lg type="stanza">
 <l>Think not of me as facing death,</l>
@@ -1378,49 +1200,53 @@
 <lg type="stanza">
 <l>And slowly thro' the rustling grass</l>
 <l>O'er woodland glade, I, dreaming, pass:</l>
-<l>To-morrow ?   Death ?   Ah ! what are these</l>
-<l>But passing childish phantasies.</l></lg>
-<l>52</l>
+<l>To-morrow?   Death?   Ah! what are these</l>
+<l>But passing childish phantasies.</l>
+</lg>
 
 </div>
 
-<pb n="[WORSHIP  53]"/>
-
 <div id="kerrdaubs028" type="poem" n="28">
+<pb n="WORSHIP  53"/>
 <head rend="center">WORSHIP</head>
 <lg type="stanza">
-<l>I WANDER in the dawn to where the pine wood lies; the morning air is cool and fragrant with the scent of trees.</l></lg>
+<l>I WANDER in the dawn to where the pine wood lies; the morning air
+is cool and fragrant with the scent of trees.</l>
+</lg>
 <lg type="stanza"><l>I hear the songs of singing birds; and my path that winds through golden gorse and russet heath is gay with little flowers and grass.</l>
-<l>I hear the faint hum of flies;  and the clear cool sound of limpid waters bubbling over moss delights my ear.</l></lg>
-<lg type="stanza"><l>All things fill my soul with praise this morning as I walk abroad, alone ; and in the tree-gloomed places of the wood, among old beech leaves and withered ferns, I rest.</l></lg>
-<l>53</l>
+<l>I hear the faint hum of flies;  and the clear cool sound of limpid
+waters bubbling over moss delights my ear.</l>
+</lg>
+<lg type="stanza"><l>All things fill my soul with praise this morning
+as I walk abroad, alone ; and in the tree-gloomed places of the wood,
+among old beech leaves and withered ferns, I rest.</l>
+</lg>
 
-
-
-<pb n="[54  WAR  DAUBS]"/>
+<pb n="54  WAR  DAUBS"/>
 <lg type="stanza">
-<l>I do not ask for dim cathedral place, where windows stained with many colours soil the fresh pure light of opening morn ;</l></lg>
-
-<lg type="stanza">
-<l>I do not ask for sound of solemn organ, many-voiced and deep, or formal chant of cassocked priest, or written words of other men to mumble ;</l></lg>
-
-<lg type="stanza">
-<l>Here I am content; this wood will serve me well; and here I will sing in praise of God Who fashioned everything, and saw that it was good.</l></lg>
+<l>I do not ask for dim cathedral place, where windows stained with
+many colours soil the fresh pure light of opening morn ;</l>
+</lg>
 
 <lg type="stanza">
-<l>O Lord ! wilt thou accept my song ?</l></lg></div>
+<l>I do not ask for sound of solemn organ, many-voiced and deep, or
+formal chant of cassocked priest, or written words of other men to
+mumble ;</l>
+</lg>
 
+<lg type="stanza">
+<l>Here I am content; this wood will serve me well; and here I will
+sing in praise of God Who fashioned everything, and saw that it was
+good.</l>
+</lg>
 
+<lg type="stanza">
+<l>O Lord ! wilt thou accept my song?</l>
+</lg>
+</div>
 
-
-
-<l>54</l>
-
-
-
-<pb n="[PRAYER  55]"/>
-
-<div id="kerrdaubs028" type="poem" n="28">
+<div id="kerrdaubs0028" type="poem" n="28">
+<pb n="PRAYER 55"/>
 <head rend="center">PRAYER</head>
 <lg type="stanza">
 <l>I PRAY to God at night,</l>
@@ -1432,19 +1258,12 @@
 <l>I pray to God at night.</l>
 <l>And it lifts me from myself ;</l>
 <l>I fear no more myself</l>
-<l>When I pray to God at night.</l></lg></div>
-
-
-
-
-
-<l>55</l>
-
-
-
-<pb n="56  A TRIOLET"/>
+<l>When I pray to God at night.</l>
+</lg>
+</div>
 
 <div id="kerrdaubs029" type="poem" n="29">
+<pb n="56 A TRIOLET"/>
 <head rend="center">A TROILET</head>
 
 <lg type="stanza">
@@ -1456,16 +1275,11 @@
 <l>I do not ask Thee, Whither ?  Why ?</l>
 <l>Nor urge for tearless, peaceful realm ;</l>
 <l>Weak and faltering, drifting by,</l>
-<l>I pray Thee, Lord, take Thou the helm !</l></lg></div>
+<l>I pray Thee, Lord, take Thou the helm !</l>
+</lg>
+</div>
 
-
-
-
-
-
-
-<l>56</l>
-
-
-</body></text></TEI.2>
+</body>
+</text>
+</TEI.2>
 

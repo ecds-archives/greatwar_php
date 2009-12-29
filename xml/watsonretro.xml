@@ -1,9 +1,10 @@
+<!DOCTYPE TEI.2 PUBLIC "-//TEI.2//EN" "teixlite.dtd">
 <TEI.2>
 <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>The Volunteer and Other Poems: Electronic Edition</title>
-            <author><name type="person" reg="Asquith, Herbert">Herbert Asquith</name></author>
+            <title>Retrogression and Other Poems: Electronic Edition</title>
+            <author><name type="person" reg="Watson, William">William Watson</name></author>
          </titleStmt>
          <publicationStmt>
            <publisher>Lewis H. Beck Center for Electronic Collections

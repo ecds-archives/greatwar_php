@@ -111,7 +111,7 @@
        </titlePart>
      </docTitle>
    </titlePage>
-<pb entity="[ii]"/>
+<pb n="[ii]"/>
 
 <div id="hodgson101" type="imprint">
 <figure type="hodgsonfm1" rend="inline">
@@ -119,7 +119,7 @@
 </figure>
 </div>
 
-<pb entity="[iii]"/>
+<pb n="[iii]"/>
 
    <titlePage id="binns102" type="full">
      <docTitle>
@@ -175,22 +175,22 @@
 
 
 <pb n="[The Gipsy Girl  1]"/>
-
-
 <div id="hodgson001" type="poem" n="1">
 <head rend="center">THE GIPSY GIRL</head>
 
 <lg type="stanza">
 <l>"COME, try your skill, kind gentlemen,</l>
-<l>A penny for three tries !"</l>
+<l>A penny for three tries!"</l>
 <l>Some threw and lost, some threw and won</l>
-<l>A ten-a-penny prize.</l></lg>
+<l>A ten-a-penny prize.</l>
+</lg>
 
 <lg type="stanza">
 <l>She was a tawny gipsy girl,</l>
 <l>A girl of twenty years,</l>
 <l>I liked her for the lumps of gold</l>
-<l>That jingled from her ears;</l></lg>
+<l>That jingled from her ears;</l>
+</lg>
 
 <lg type="stanza">
 <l>I liked the flaring yellow scarf</l>
@@ -198,9 +198,7 @@
 <l>I liked her showy purple gown</l>
 <l>And flashy velvet coat.</l>
 
-
-
-<pb n="2          THE GIPSY GIRL"/>
+<pb n="2 THE GIPSY GIRL"/>
 
 <l>A man came up, too loose of tongue,</l>
 <l>And said no good to her;</l>
@@ -211,39 +209,40 @@
 <l>She fawned and whined "Sweet gentleman,</l>
 <l>A penny for three tries!"</l>
 <l>--But oh, the den of wild things in</l>
-<l>The darkness of her eyes!</l></lg></div>
-
-
-
-<pb n="[A SONG  3]"/>
+<l>The darkness of her eyes!</l>
+</lg>
+</div>
 
 <div id="hodgson002" type="poem" n="2">
+<pb n="[A SONG  3]"/>
 <head rend="center">A SONG</head>
 <lg type="stanza">
 <l>WITH Love among the haycocks</l>
-<l>We played at hide and seek;</l></lg>
+<l>We played at hide and seek;</l>
+</lg>
 
 <lg type="stanza">
 <l>He shut his eyes and counted--</l>
 <l>We hid among the hay--</l>
 <l>Then he a haycock mounted,</l>
-<l>And spied us where we lay;</l></lg>
+<l>And spied us where we lay;</l>
+</lg>
 
 <lg type="stanza">
 <l>And O! the merry laughter</l>
-<l>Across the hayfield after!</l></lg></div>
-
-
-
-<pb n="[4  TIME, YOU OLD GIPSY MAN]"/>
+<l>Across the hayfield after!</l>
+</lg>
+</div>
 
 <div id="hodgson003" type="poem" n="3">
+<pb n="[4 TIME, YOU OLD GIPSY MAN]"/>
 <head rend="center">TIME, YOU OLD GIPSY MAN</head>
 <lg type="stanza">
 <l>TIME, you old gipsy man,</l>
 <l rend="indent">Will you not stay,</l>
 <l>Put up your caravan</l>
-<l rend="indent">Just for one day ?</l></lg>
+<l rend="indent">Just for one day?</l>
+</lg>
 
 <lg type="stanza">
 <l>All things I'll give you</l>
@@ -257,11 +256,10 @@
 <l>Oh, and sweet girls will</l>
 <l>Festoon you with may,</l>
 <l>Time, you old gipsy,</l>
-<l>Why hasten away ?</l></lg>
+<l>Why hasten away?</l>
+</lg>
 
-
-
-<pb n="TIME  5"/>
+<pb n="TIME 5"/>
 
 <lg type="stanza">
 <l>Last week in Babylon,</l>
@@ -275,46 +273,46 @@
 <l>Off to some city</l>
 <l>Now blind in the womb,</l>
 <l>Off to another</l>
-<l>Ere that's in the tomb.</l></lg>
+<l>Ere that's in the tomb.</l>
+</lg>
 
 <lg type="stanza">
 <l>Time, you old gipsy man,</l>
 <l rend="indent">Will you not stay,</l>
 <l>Put up your caravan</l>
-<l rend="indent">Just for one day ?</l></lg></div>
-
-
-
-<pb n="[6   GHOUL CARE]"/>
+<l rend="indent">Just for one day ?</l>
+</lg>
+</div>
 
 <div id="hodgson004" type="poem" n="4">
+<pb n="[6 GHOUL CARE]"/>
 <head rend="center">GHOUL CARE</head>
 <lg type="stanza">
 <l>SOUR fiend, go home and tell the Pit</l>
 <l>For once you met your master,--</l>
 <l>A man who carried in his soul</l>
 <l>Three charms against disaster,</l>
-<l>The Devil and disaster.</l></lg>
+<l>The Devil and disaster.</l>
+</lg>
 
 <lg type="stanza">
 <l>Away, away, and tell the tale</l>
 <l>And start your whelps a-whining,</l>
 <l>Say "In the greenwood of his soul</l>
 <l>A lizard's eye was shining,</l>
-<l>A little eye kept shining."</l></lg>
+<l>A little eye kept shining."</l>
+</lg>
 
 <lg type="stanza">
 <l>Away, away, and salve your sores,</l>
 <l>And set your hags a-groaning,</l>
 <l>Say "In the greenwood of his soul</l>
 <l>A drowsy bee was droning,</l>
-<l>A dreamy bee was droning."</l></lg>
-
-<l>6</l>
-
+<l>A dreamy bee was droning."</l>
+</lg>
 
 
-<pb n="GHOUL CARE              7"/>
+<pb n="GHOUL CARE 7"/>
 
 <lg type="stanza">
 <l>Prodigious Bat! Go start the walls</l>
@@ -329,12 +327,13 @@
 <l>With all the glooms and smuts of</l>
 <l>Hell</l>
 <l>Behind you, I'm your master!</l>
-<l>You know I'm still your master.</l></lg></div>
+<l>You know I'm still your master.</l>
+</lg>
+</div>
 
-
-<pb n="[8   EVE]"/>
 
 <div id="hodgson005" type="poem" n="5">
+<pb n="[8 EVE]"/>
 <head rend="center">EVE</head>
 <lg type="stanza">
 <l>EVE, with her basket, was</l>
@@ -344,7 +343,8 @@
 <l>Picking a dish of sweet</l>
 <l>Berries and plums to eat,</l>
 <l>Down in the bells and grass</l>
-<l>Under the trees.</l></lg>
+<l>Under the trees.</l>
+</lg>
 
 <lg type="stanza">
 <l>Mute as a mouse in a</l>
@@ -354,13 +354,10 @@
 <l>Now to get even and</l>
 <l>Humble proud heaven and</l>
 <l>Now was the moment or</l>
-<l>Never at all.</l></lg>
+<l>Never at all.</l>
+</lg>
 
-<l>8</l>
-
-
-
-<pb n="EVE   9"/>
+<pb n="EVE 9"/>
 
 <lg type="stanza">
 <l>Eva!" Each syllable</l>
@@ -370,7 +367,8 @@
 <l>Soft as a bubble sung</l>
 <l>Out of a linnet's lung,</l>
 <l>Soft and most silverly</l>
-<l>"Eva!" he said.</l></lg>
+<l>"Eva!" he said.</l>
+</lg>
 
 <lg type="stanza">
 <l>Picture that orchard sprite,</l>
@@ -380,7 +378,8 @@
 <l>Wondering, listening,</l>
 <l>Listening, wondering,</l>
 <l>Eve with a berry</l>
-<l>Half-way to her lips.</l></lg>
+<l>Half-way to her lips.</l>
+</lg>
 
 <lg type="stanza">
 <l>Oh had our simple Eve</l>
@@ -390,12 +389,11 @@
 <l>Out of the boughs he came,</l>
 <l>Whispering still her name,</l>
 
-
-
-<pb n="10           EVE"/>
+<pb n="10 EVE"/>
 
 <l>Tumbling in twenty rings</l>
-<l>Into the grass.</l></lg>
+<l>Into the grass.</l>
+</lg>
 
 <lg type="stanza">
 <l>Here was the strangest pair</l>
@@ -405,7 +403,8 @@
 <l>Telling his story low. . . .</l>
 <l>Singing birds saw them go</l>
 <l>Down the dark path to</l>
-<l>The Blasphemous Tree.</l></lg>
+<l>The Blasphemous Tree.</l>
+</lg>
 
 <lg type="stanza">
 <l>Oh what a clatter when</l>
@@ -415,7 +414,8 @@
 <l>How the birds rated him,</l>
 <l>How they all hated him!</l>
 <l>How they all pitied</l>
-<l>Poor motherless Eve!</l></lg>
+<l>Poor motherless Eve!</l>
+</lg>
 
 <lg type="stanza">
 <l>Picture her crying</l>
@@ -423,22 +423,19 @@
 <l>Eve, with no dish of sweet</l>
 <l>Berries and plums to eat,</l>
 
-
-
-<pb n="EVE             11"/>
+<pb n="EVE 11"/>
 
 <l>Haunting the gate of the</l>
 <l>Orchard in vain. . . .</l>
 <l>Picture the lewd delight</l>
 <l>Under the hill to-night--</l>
 <l>"Eva!" the toast goes round,</l>
-<l>"Eva!" again.</l></lg></div>
-
-
-
-<pb n="[12   THE SONG OF HONOUR]"/>
+<l>"Eva!" again.</l>
+</lg>
+</div>
 
 <div id="hodgson006" type="poem" n="6">
+<pb n="[12   THE SONG OF HONOUR]"/>
 <head rend="center">THE SONG OF HONOUR</head>
 <lg type="stanza">
 <l>I CLIMBED a hill as light fell short.</l>
@@ -455,11 +452,8 @@
 <l>Were round me at a leap;</l>
 <l>To tell how still the valleys lay</l>
 <l>I heard a watchdog miles away,</l>
-<l>And bells of distant sheep.</l></lg>
-
-<l>12</l>
-
-
+<l>And bells of distant sheep.</l>
+</lg>
 
 <pb n="THE  SONG OF HONOUR    13"/>
 
@@ -481,12 +475,11 @@
 
 <lg type="stanza">
 <l>There,  sharp  and  sudden,  there I heard--</l>
-<hi rend="italic"><l>Ah! some wild lovesick singing bird</l>
-<l>Woke singing in the trees ?</l>
-<l>The nightingale and babble-wren</l>
-<l>Were   in   the   English   greenwood then,</l>
-<l>And you heard one of these ?</l></hi></lg>
-
+<l><hi rend="italic">Ah! some wild lovesick singing bird</hi></l>
+<l><hi rend="italic">Woke singing in the trees?</hi></l>
+<l><hi rend="italic">The nightingale and babble-wren</hi></l>
+<l><hi rend="italic">Were   in   the   English   greenwood then,</hi></l>
+<l><hi rend="italic">And you heard one of these?</hi></l></lg>
 
 <pb n="14   THE SONG OF HONOUR"/>
 
@@ -508,7 +501,8 @@
 <l>That sings beneath the sky,</l>
 <l>And with the song of lark and wren</l>
 <l>The song of mountains, moths and men</l>
-<l>And seas and rainbows vie!</l></lg>
+<l>And seas and rainbows vie!</l>
+</lg>
 
 <lg type="stanza">
 <l>I heard the universal choir,</l>
@@ -518,15 +512,14 @@
 <l>Her million times ten million throats</l>
 <l>Exalt Him loud and long,</l>
 
-
-
 <pb n="THE SONG OF HONOUR   15"/>
 
 <l>And lips and lungs and tongues of</l>
 <l rend="inline">Grace</l>
 <l>From every part and every place</l>
 <l>Within the shining of His face,</l>
-<l>The universal throng.</l></lg>
+<l>The universal throng.</l>
+</lg>
 
 <lg type="rend">
 <l>I heard the hymn of being sound</l>
@@ -537,7 +530,8 @@
 <l>Upon a flying scroll,</l>
 <l>The song of painters when they take</l>
 <l>A burning brush for Beauty's sake</l>
-<l>And limn her features whole--</l></lg>
+<l>And limn her features whole--</l>
+</lg>
 
 <lg type="stanza">
 <l>The song of men divinely wise</l>
@@ -546,9 +540,8 @@
 <l>And when these pale away</l>
 <l>Hear flocks of shiny pleiades</l>
 <l>Among the plums and apple trees</l>
-<l>Sing in the summer day--</l></lg>
-
-
+<l>Sing in the summer day--</l>
+</lg>
 
 <pb n="16   THE SONG OF  HONOUR"/>
 
@@ -561,7 +554,8 @@
 <l>Old beggars hungry too--</l>
 <l>The song of kings of kingdoms when</l>
 <l>They rise above their fortune Men,</l>
-<l>And crown themselves anew--</l></lg>
+<l>And crown themselves anew--</l>
+</lg>
 
 <lg type="stanza">
 <l>The song of courage, heart and will</l>
@@ -570,7 +564,8 @@
 <l>With sparking and delight,</l>
 <l>The bells and bells of song that ring</l>
 <l>Round banners of a cause or king</l>
-<l>From armies bleeding white--</l></lg>
+<l>From armies bleeding white--</l>
+</lg>
 
 <lg type="stanza">
 <l>The song of sailors every one</l>
@@ -578,13 +573,12 @@
 <l>At ships like bulls at red,</l>
 <l>When stately ships are twirled and spun</l>
 
-
-
 <pb n="THE SONG OF HONOUR   17"/>
 
 <l>Like whipping tops and help there's none</l>
 <l>And mighty ships ten thousand ton</l>
-<l>Go down like lumps of lead--</l></lg>
+<l>Go down like lumps of lead--</l>
+</lg>
 
 <lg type="stanza">
 <l>And song of fighters stern as they</l>
@@ -593,7 +587,8 @@
 <l>As thick as bees in hives,</l>
 <l>Hosannas of a lowly throng</l>
 <l>Who sing unconscious of their song.</l>
-<l>Whose lips are in their lives--</l></lg>
+<l>Whose lips are in their lives--</l>
+</lg>
 
 <lg type="stanza">
 <l>And song of some at holy war</l>
@@ -602,9 +597,8 @@
 <l>Or hordes of quarrelling kings--</l>
 <l>The song of fighters great and small,</l>
 <l>The song of pretty fighters all</l>
-<l>And high heroic things--</l></lg>
-
-
+<l>And high heroic things--</l>
+</lg>
 
 <pb n="18   THE SONG OF HONOUR"/>
 
@@ -633,9 +627,8 @@
 <l>And song of some with hearts beside</l>
 <l>For men and sorrows far and wide,</l>
 <l>Who watch the world with pity and pride</l>
-<l>And warm to all mankind--</l></lg>
-
-
+<l>And warm to all mankind--</l>
+</lg>
 
 <pb n="THE SONG OF HONOUR   19"/>
 
@@ -645,15 +638,16 @@
 <l>And endless soaring lullabies</l>
 <l>From happy, happy mothers' eyes,</l>
 <l>And answering crows and baby-cries,</l>
-<l>How many who shall say !</l>
+<l>How many who shall say!</l>
 <l>And many a song as wondrous well</l>
 <l>With pangs and sweets intolerable</l>
 <l>From lonely hearths too grey to tell,</l>
-<l>God knows how utter grey !</l>
+<l>God knows how utter grey!</l>
 <l>And song from many a house of care</l>
 <l>When pain has forced a footing there</l>
 <l>And there's a Darkness on the stair</l>
-<l>Will not be turned away--</l></lg>
+<l>Will not be turned away--</l>
+</lg>
 
 <lg type="stanza">
 <l>And song--that song whose singers come</l>
@@ -661,9 +655,8 @@
 <l>The Great Compassion's lips,</l>
 <l>That make the bells of Heaven to peal</l>
 <l>Round pillows frosty with the feel</l>
-<l>Of Death's cold finger tips--</l></lg>
-
-
+<l>Of Death's cold finger tips--</l>
+</lg>
 
 <pb n="20   THE SONG OF  HONOUR"/>
 
@@ -673,7 +666,8 @@
 <l>As leaves are on a tree,</l>
 <l>As many faiths and castes and creeds.</l>
 <l>As many human bloods and breeds</l>
-<l>As in the world may be;</l></lg>
+<l>As in the world may be;</l>
+</lg>
 
 <lg type="stanza">
 <l>The song of each and all who gaze</l>
@@ -683,7 +677,8 @@
 <l>And tiniest needles even,</l>
 <l>The song of all not wholly dark,</l>
 <l>Not wholly sunk in stupor stark</l>
-<l>Too deep for groping Heaven--</l></lg>
+<l>Too deep for groping Heaven--</l>
+</lg>
 
 <lg type="stanza">
 <l>And alleluias sweet and clear</l>
@@ -694,8 +689,6 @@
 <l>Of wind and sea and bird and brute,</l>
 <l>And lips deaf men imagine mute</l>
 <l>In wood and stone and clay,</l>
-
-
 
 <pb n="THE SONG OF HONOUR   21"/>
 
@@ -717,13 +710,13 @@
 <l>Ay, every rhythm and rhyme</l>
 <l>Of everything that lives and loves</l>
 <l>And upward, ever upward moves</l>
-<l>From lowly to sublime !</l>
+<l>From lowly to sublime!</l>
 <l>Earth's multitudinous Sons of Light,</l>
 <l>I heard them lift their lyric might</l>
 <l>With each and every chanting sprite</l>
 <l>That lit the sky that wondrous night</l>
-<l>As far as eye could climb !</l></lg>
-
+<l>As far as eye could climb!</l>
+</lg>
 
 <pb n="22   THE SONG OF HONOUR"/>
 
@@ -734,7 +727,7 @@
 <l>And at the altar die,</l>
 <l>And in the awful quiet then</l>
 <l>Myself I heard. Amen, Amen,</l>
-<l>Amen I heard me cry !</l>
+<l>Amen I heard me cry!</l>
 <l>I heard it all and then although</l>
 <l>I caught my flying senses. Oh,</l>
 <l>A dizzy man was I!</l>
@@ -745,13 +738,12 @@
 <l>I stood upon that silent hill</l>
 <l>And stared into the sky until</l>
 <l>My eyes were blind with stars and still</l>
-<l>I stared into the sky.</l></lg></div>
-
-
-
-<pb n="[THE MYSTERY  23]"/>
+<l>I stared into the sky.</l>
+</lg>
+</div>
 
 <div id="hodgson007" type="poem" n="7">
+<pb n="[THE MYSTERY  23]"/>
 <head rend="center">THE MYSTERY</head>
 
 <lg type="stanza">
@@ -764,17 +756,12 @@
 <l>I did not pray Him to lay bare</l>
 <l>The mystery to me,</l>
 <l>Enough   the   rose   was   Heaven   to smell,</l>
-<l>And His own face to see.</l></lg></div>
-
-
-
-
-
-<l>23</l>
-
-<pb n="[24   STUPIDITY STREET]"/>
+<l>And His own face to see.</l>
+</lg>
+</div>
 
 <div id="hodgson008" type="poem" n="8">
+<pb n="[24 STUPIDITY STREET]"/>
 <head rend="center">STUPIDITY STREET</head>
 <lg type="stanza">
 <l>I SAW with open eyes</l>
@@ -782,7 +769,8 @@
 <l>Sold in the shops</l>
 <l>For the people to eat,</l>
 <l>Sold in the shops of</l>
-<l>Stupidity Street.</l></lg>
+<l>Stupidity Street.</l>
+</lg>
 
 <lg type="stanza">
 <l>I saw in vision</l>
@@ -790,19 +778,12 @@
 <l>And in the shops nothing</l>
 <l>For people to eat;</l>
 <l>Nothing for sale in</l>
-<l>Stupidity Street.</l></lg>
+<l>Stupidity Street.</l>
+</lg>
 </div>
 
-
-
-
-<l>24</l>
-
-
-
-<pb n="[THE BELLS OF HEAVEN  25]"/>
-
 <div id="hodgson009" type="poem" n="9">
+<pb n="[THE BELLS OF HEAVEN  25]"/>
 <head rend="center">THE BELLS OF HEAVEN</head>
 <lg type="stanza">
 <l>'TWOULD ring the bells of Heaven</l>
@@ -814,19 +795,12 @@
 <l>For tamed and shabby tigers</l>
 <l>And dancing dogs and bears,</l>
 <l>And wretched, blind pit ponies,</l>
-<l>And little hunted hares.</l></lg></div>
-
-
-
-
-
-<l>25</l>
-
-
-
-<pb n=" 26  THE JOURNEYMAN "/>
+<l>And little hunted hares.</l>
+</lg>
+</div>
 
 <div id="hodgson010" type="poem" n="10">
+<pb n=" 26  THE JOURNEYMAN "/>
 <head rend="center">THE JOURNEYMAN</head>
 <lg type="stanza">
 <l>NOT baser than his own homekeeping kind</l>
@@ -836,31 +810,30 @@
 <l>About the world, while all the world approves,</l>
 <l>The pimp of Fashion steals,</l>
 <l>With all the angels mourning their dead loves</l>
-<l>Behind his bloody heels.</l></lg>
+<l>Behind his bloody heels.</l>
+</lg>
 
 <lg type="stanza">
 <l>It may be late when Nature cries</l>
 <l>Enough!</l>
 <l>As one day cry she will,</l>
 <l>And man may have the wit to put her off</l>
-<l>With shifts a season still;</l></lg>
+<l>With shifts a season still;</l>
+</lg>
 
-<l>26</l>
 
-
-<pb n="THE JOURNEYMAN      27"/>
+<pb n="THE JOURNEYMAN 27"/>
 <lg type="stanza">
 <l>But man may find the pinch importunate</l>
 <l>And fall to blaming men--</l>
 <l>Blind sires and breastless mothers of his fate,</l>
 <l>It may be late and may be very late,</l>
-<l>Too late for blaming then.</l></lg></div>
-
-
-
-<pb n="[28  THE BULL]"/>
+<l>Too late for blaming then.</l>
+</lg>
+</div>
 
 <div id="hodgson011" type="poem" n="11">
+<pb n="[28  THE BULL]"/>
 <head rend="center">THE BULL</head>
 <lg type="stanza">
 <l>See an old unhappy bull.</l>
@@ -868,7 +841,8 @@
 <l>Slouching in the undergrowth</l>
 <l>Of the forest beautiful,</l>
 <l>Banished from the herd he led.</l>
-<l>Bulls and cows a thousand head.</l></lg>
+<l>Bulls and cows a thousand head.</l>
+</lg>
 
 <lg type="stanza">
 <l>Cranes and gaudy parrots go</l>
@@ -876,22 +850,20 @@
 <l>Tree-top cats purr drowsily</l>
 <l>In the dim-day green below;</l>
 <l>And troops of monkeys, nutting, some,</l>
-<l>All disputing, go and come;</l></lg>
+<l>All disputing, go and come;</l>
+</lg>
 
 <lg type="stanza">
 <l>And things abominable sit</l>
 <l>Picking offal buck or swine,</l>
 
-<l>28</l>
-
-
-
-<pb n="THE BULL               29"/>
+<pb n="THE BULL 29"/>
 
 <l>On the mess and over it</l>
 <l>Burnished flies and beetles shine,</l>
 <l>And spiders big as bladders lie</l>
-<l>Under hemlocks ten foot high;</l></lg>
+<l>Under hemlocks ten foot high;</l>
+</lg>
 
 <lg type="stanza">
 <l>And a dotted serpent curled</l>
@@ -915,11 +887,10 @@
 <l>Left him for the birds to pick,</l>
 <l>Left him there for carrion,</l>
 <l>Vilely from their bosom cast</l>
-<l>Wisdom, worth and love at last.</l></lg>
+<l>Wisdom, worth and love at last.</l>
+</lg>
 
-
-
-<pb n="30         THE  BULL"/>
+<pb n="30 THE  BULL"/>
 
 <lg type="stanza">
 <l>When the lion left his lair</l>
@@ -927,7 +898,8 @@
 <l>And the vultures pecked their quills</l>
 <l>And flew into the middle air,</l>
 <l>Then this prince no more to reign</l>
-<l>Came to life and lived again.</l></lg>
+<l>Came to life and lived again.</l>
+</lg>
 
 <lg type="stanza">
 <l>He snuffed the herd in far retreat,</l>
@@ -935,7 +907,8 @@
 <l>And snuffed the burning airs around</l>
 <l>Still with beevish odours sweet,</l>
 <l>While the blood ran down his head</l>
-<l>And his mouth ran slaver red.</l></lg>
+<l>And his mouth ran slaver red.</l>
+</lg>
 
 <lg type="stanza">
 <l>Pity him, this fallen chief,</l>
@@ -943,20 +916,20 @@
 <l>All his body's breadth and length</l>
 <l>Dwindled down with shame and grief,</l>
 <l>Half the bull he was before,</l>
-<l>Bones and leather, nothing more.</l></lg>
+<l>Bones and leather, nothing more.</l>
+</lg>
 
 <lg type="stanza">
 <l>See him standing dewlap-deep</l>
 <l>In the rushes at the lake,</l>
 
-
-
-<pb n="THE BULL                 31"/>
+<pb n="THE BULL 31"/>
 
 <l>Surly, stupid, half asleep,</l>
 <l>Waiting for his heart to break</l>
 <l>And the birds to join the flies</l>
-<l>Feasting at his bloodshot eyes;</l></lg>
+<l>Feasting at his bloodshot eyes;</l>
+</lg>
 
 <lg type="stanza">
 <l>Standing with his head hung down</l>
@@ -964,7 +937,8 @@
 <l>Green savannas, jungles brown,</l>
 <l>Battlefields and bellowings,</l>
 <l>Bulls undone and lions dead</l>
-<l>And vultures flapping overhead.</l></lg>
+<l>And vultures flapping overhead.</l>
+</lg>
 
 <lg type="stanza">
 <l>Dreaming things: of days he spent</l>
@@ -972,7 +946,8 @@
 <l>In the valley warm and green,</l>
 <l>Full of baby wonderment,</l>
 <l>Blinking out of silly eyes</l>
-<l>At a hundred mysteries;</l></lg>
+<l>At a hundred mysteries;</l>
+</lg>
 
 <lg type="stanza">
 <l>Dreaming over once again</l>
@@ -980,12 +955,11 @@
 <l>Of bulls and cows a thousand strong,</l>
 <l>Wandered on from plain to plain,</l>
 
-
-
-<pb n="32        THE  BULL"/>
+<pb n="32 THE  BULL"/>
 
 <l>Up the hill and down the dale,</l>
-<l>Always at his mother's tail;</l></lg>
+<l>Always at his mother's tail;</l>
+</lg>
 
 <lg type="stanza">
 <l>How he lagged behind the herd,</l>
@@ -993,7 +967,8 @@
 <l>And she turned and ran to him</l>
 <l>Blaring at the loathly bird</l>
 <l>Stationed always in the skies,</l>
-<l>Waiting for the flesh that dies.</l></lg>
+<l>Waiting for the flesh that dies.</l>
+</lg>
 
 <lg type="stanza">
 <l>Dreaming maybe of a day</l>
@@ -1001,7 +976,8 @@
 <l>Turned him to the sweets and saps,</l>
 <l>Richer fountains by the way,</l>
 <l>And she left the bull she bore</l>
-<l>And he looked to her no more;</l></lg>
+<l>And he looked to her no more;</l>
+</lg>
 
 <lg type="stanza">
 <l>And his little frame grew stout,</l>
@@ -1011,16 +987,15 @@
 <l>And he played at butting trees</l>
 <l>And boulder-stones and tortoises,</l>
 
-
-
-<pb n="THE BULL                 33"/>
+<pb n="THE BULL 33"/>
 
 <l>Joined a game of knobby skulls</l>
 <l>With the youngsters of his year,</l>
 <l>All the other little bulls,</l>
 <l>Learning both to bruise and bear,</l>
 <l>Learning how to stand a shock</l>
-<l>Like a little bull of rock.</l></lg>
+<l>Like a little bull of rock.</l>
+</lg>
 
 <lg type="stanza">
 <l>Dreaming of a day less dim,</l>
@@ -1028,7 +1003,8 @@
 <l>When the faint but certain star</l>
 <l>Of destiny burned clear for him,</l>
 <l>And a fierce and wild unrest</l>
-<l>Broke the quiet of his breast,</l></lg>
+<l>Broke the quiet of his breast,</l>
+</lg>
 
 <lg type="stanza">
 <l>And the gristles of his youth</l>
@@ -1042,13 +1018,12 @@
 <l>And curved again and snuffed the airs</l>
 <l>As who should say Come out who dares!</l>
 
-
-
-<pb n="34                 THE  BULL"/>
+<pb n="34 THE BULL"/>
 
 <l>And all beheld a bull, a Bull,</l>
 <l>And knew that here was surely one</l>
-<l>That backed for no bull, fearing none.</l></lg>
+<l>That backed for no bull, fearing none.</l>
+</lg>
 
 <lg type="stanza">
 <l>And the leader of the herd</l>
@@ -1056,7 +1031,8 @@
 <l>And shook the forest with his sound,</l>
 <l>Bellowed at the loathly bird</l>
 <l>Stationed always in the skies,</l>
-<l>Waiting for the flesh that dies.</l></lg>
+<l>Waiting for the flesh that dies.</l>
+</lg>
 
 <lg type="stanza">
 <l>Dreaming, this old bull forlorn,</l>
@@ -1064,7 +1040,8 @@
 <l>When he came to sultan power,</l>
 <l>And they owned him master-horn,</l>
 <l>Chiefest bull of all among</l>
-<l>Bulls and cows a thousand strong;</l></lg>
+<l>Bulls and cows a thousand strong;</l>
+</lg>
 
 <lg type="stanza">
 <l>And in all the tramping herd</l>
@@ -1072,11 +1049,10 @@
 <l>Not a cow that said him nay,</l>
 <l>Not a bull or cow that erred</l>
 <l>In the furnace of his look</l>
-<l>Dared a second, worse rebuke;</l></lg>
+<l>Dared a second, worse rebuke;</l>
+</lg>
 
-
-
-<pb n="THE  BULL                 35"/>
+<pb n="THE  BULL 35"/>
 
 <lg type="stanza">
 <l>Not in all the forest wide,</l>
@@ -1084,7 +1060,8 @@
 <l>Not another dared him then,</l>
 <l>Dared him and again defied;</l>
 <l>Not a sovereign buck or boar</l>
-<l>Came a second time for more;</l></lg>
+<l>Came a second time for more;</l>
+</lg>
 
 <lg type="stanza">
 <l>Not a serpent that survived</l>
@@ -1092,7 +1069,8 @@
 <l>Risked a second time reproof,</l>
 <l>Came a second time and lived,</l>
 <l>Not a serpent in its skin</l>
-<l>Came again for discipline;</l></lg>
+<l>Came again for discipline;</l>
+</lg>
 
 <lg type="stanza">
 <l>Not a leopard bright as flame,</l>
@@ -1107,9 +1085,7 @@
 <l>Hero of a thousand kills,</l>
 <l>Dared a second fight and fall,</l>
 
-
-
-<pb n="36           THE  BULL"/>
+<pb n="36 THE  BULL"/>
 
 <l>Dared that ram terrific twice,</l>
 <l>Paid a second time the price.</l></lg>
@@ -1136,13 +1112,12 @@
 <l>And his splendid yesterday,</l>
 <l>Turns to meet the loathly birds</l>
 <l>Flocking round him from the skies,</l>
-<l>Waiting for the flesh that dies.</l></lg></div>
-
-
-
-<pb n="[PLAYMATES 37]"/>
+<l>Waiting for the flesh that dies.</l>
+</lg>
+</div>
 
 <div id="hodgson012" type="poem" n="12">
+<pb n="[PLAYMATES 37]"/>
 <head rend="center">PLAYMATES</head>
 <lg type="stanza">
 <l>It's sixty years ago, the people say:</l>
@@ -1158,9 +1133,6 @@
 <l>I've often met him peeping through the leaves</l>
 <l>And chuckling to himself, an old man grey;</l></lg>
 
-<l>37</l>
-
-
 
 <pb n="38     PLAYMATES"/>
 
@@ -1171,11 +1143,9 @@
 <l>The minute we grow up too big to play"------</l></lg></div>
 
 
-
-<pb n="[THE HOUSE ACROSS THE WAY   39]"/>
-
 <div id="hodgson013" type="poem" n="13">
-<head rend="center">THE HOUSE ACROSS<lb/><rend type="center">THE WAY</rend></head>
+<pb n="[THE HOUSE ACROSS THE WAY   39]"/>
+<head rend="center">THE HOUSE ACROSS<lb/>THE WAY</head>
 <lg type="stanza">
 
 <l>The leaves looked in at the window</l>
@@ -1206,9 +1176,8 @@
 
 
 
-<pb n="[THE BEGGAR  41]"/>
-
 <div id="hodgson014" type="poem" n="14">
+<pb n="[THE BEGGAR  41]"/>
 <head rend="center">THE BEGGAR</head>
 <lg type="stanza">
 <l>He begged and shuffled on;</l>
@@ -1218,19 +1187,12 @@
 <l>And clap a frozen ear</l>
 <l>And curse the bitter cold.</l>
 <l>God send the good man cheer</l>
-<l>And quittal hundredfold.</l></lg></div>
+<l>And quittal hundredfold.</l></lg>
+</div>
 
-
-
-
-
-<l>41</l>
-
-
-
-<pb n="[42  BABYLON]"/>
 
 <div id="hodgson015" type="poem" n="15">
+<pb n="[42  BABYLON]"/>
 <head rend="center">BABYLON</head>
 <lg type="stanza">
 <l>If you could bring her glories back!</l>
@@ -1288,11 +1250,8 @@
 <l>In its proper time and way</l>
 <l>Will take her to itself again.</l></lg></div>
 
-
-
+<div id="hodgson0015" type="poem" n="15">
 <pb n="[44  THE MOOR]"/>
-
-<div id="hodgson015" type="poem" n="15">
 <head rend="center">THE MOOR</head>
 <lg type="stanza">
 <l>The   world's   gone   forward   to   its latest fair</l>
@@ -1306,28 +1265,23 @@
 <l>Old man, you're like to meet one traveller still,</l>
 <l>A journeyman well kenned for courtesy</l>
 
-<l>44</l>
-
-
-
-<pb n="THE  MOOR              45"/>
+<pb n="THE MOOR 45"/>
 
 <l>To all that walk at odds with life and limb;</l>
 <l>If this be he now riding up the hill</l>
-<l>Maybe he'll stop and take you up with him. . . .</l></lg>
+<l>Maybe he'll stop and take you up with him. . . .</l>
+</lg>
 
 <lg type="stanza">
 <l>"But thou art Death?"     "Of Heavenly Seraphim</l>
 <l>None else to seek thee out and bid thee come."</l>
 <l>" I only care that thou art come from Him,</l>
-<l>Unbody me -- I'm tired -- and get me home."</l></lg>
+<l>Unbody me -- I'm tired -- and get me home."</l>
+</lg>
 </div>
 
-
-
-<pb n="[46   FEBRUARY]"/>
-
 <div id="hodgson016" type="poem" n="16">
+<pb n="[46 FEBRUARY]"/>
 <head rend="center">FEBRUARY</head>
 <lg type="stanza">
 <l>A FEW tossed thrushes save</l>
@@ -1342,18 +1296,11 @@
 <l>Of Winter's many minds</l>
 <l>Abused and whipt in vain --</l>
 <l>Swarth yew and ivy kinds</l>
-<l>And iron breeds germane.</l></lg></div>
+<l>And iron breeds germane.</l></lg>
+</div>
 
-
-
-
-
-<l>46</l>
-
-
-
-<pb n="[THE LATE, LAST ROOK  47]"/>
 <div id="hodgson017" type="poem" n="17">
+<pb n="[THE LATE, LAST ROOK  47]"/>
 <head rend="center">THE LATE, LAST ROOK</head>
 <lg type="stanza">
 
@@ -1370,18 +1317,13 @@
 <l>If there's a rook loquacious still</l>
 <l>In dream he hunts a furrow,</l>
 <l>And flaps behind a spectre team,</l>
-<l>Or ghostly scarecrows walk his dream.</l></lg></div>
+<l>Or ghostly scarecrows walk his dream.</l>
+</lg>
+</div>
 
 
-
-
-
-<l>47</l>
-
-
-
-<pb n="[48  THE BIRDCATCHER]"/>
 <div id="hodgson018" type="poem" n="18">
+<pb n="[48  THE BIRDCATCHER]"/>
 <head rend="center">THE BIRDCATCHER</head>
 <lg type="stanza">
 <l>When flighting time is on I go</l>
@@ -1393,18 +1335,13 @@
 <l>I lurk among the thickets of</l>
 <l>The Heart where they are bred,</l>
 <l>And catch the twittering beauties as</l>
-<l>They fly into my Head.</l></lg></div>
+<l>They fly into my Head.</l>
+</lg>
+</div>
 
 
-
-
-
-<l>48</l>
-
-
-
-<pb n="[THE ROYAL MAILS  49]"/>
 <div id="hodgson019" type="poem" n="19">
+<pb n="[THE ROYAL MAILS  49]"/>
 <head rend="center">THE ROYAL MAILS</head>
 <lg type="stanza">
 <l>For all its flowers and trailing bowers,</l>
@@ -1426,11 +1363,7 @@
 <l>'Twas all I'd feared, the tale I heard,</l>
 <l>When he at last gave way.</l>
 
-<l>E                      49</l>
-
-
-
-<pb n="50      THE  ROYAL  MAILS"/>
+<pb n="50 THE ROYAL MAILS"/>
 
 <l>I've not forgot the look he shot</l>
 <l>Me through and through with then;</l>
@@ -1454,8 +1387,6 @@
 <l>And coloured up with shame;</l>
 <l>It made him wince to own a Prince</l>
 <l>Of very famous fame.</l>
-
-
 
 <pb n="THE ROYAL MAILS      51"/>
 
@@ -1484,13 +1415,11 @@
 <l>Sir Woodman, though it's months ago,</l>
 <l>I hear that music still.</l></lg>
 
-
-
-<pb n="52      THE  ROYAL  MAILS"/>
+<pb n="52 THE ROYAL MAILS"/>
 
 <lg type="stanza">
 <l>"What matters now or ever how</l>
-<l>I made the journey here !</l>
+<l>I made the journey here!</l>
 <l>I fed on berries from the bough,</l>
 <l>Abundant everywhere.</l>
 <l>Or if it failed, that luscious meat,</l>
@@ -1498,38 +1427,41 @@
 <l>And flourished on the fare;</l>
 <l>At night I made a grassy bed</l>
 <l>And went to sleep without a dread</l>
-<l>And woke without a care--</l></lg>
+<l>And woke without a care--</l>
+</lg>
 
 <lg type="stanza">
 <l>"No matter how I managed now,</l>
 <l>It all went well enough,</l>
 <l>Until I saw this spot, I vow,</l>
-<l>No man was better off.</l></lg>
+<l>No man was better off.</l>
+</lg>
 
 <lg type="stanza">
 <l>"Last night as I came down this vale</l>
 <l>In wind and rain full blast,</l>
 <l>I turned about to hear a shout</l>
-<l>Ho, master, whither so fast!</l></lg>
+<l>Ho, master, whither so fast!</l>
+</lg>
 
 <lg type="stanza">
 <l>"A minute more and half a score</l>
 <l>Of men were at my side,</l>
 <l>Plain merchants all, they said they were</l>
 
-
-
-<pb n="THE ROYAL MAILS      53"/>
+<pb n="THE ROYAL MAILS 53"/>
 
 <l>And camping in a thicket near,</l>
-<l>' Remain with us !' they cried.</l></lg>
+<l>'Remain with us!' they cried.</l>
+</lg>
 
 <lg type="stanza">
-<l>"' Remain with us, our board is spread</l>
+<l>"'Remain with us, our board is spread</l>
 <l>With cheer the best, Ah, stay,' they said,</l>
-<l>' Why go so proudly by !'</l>
+<l>'Why go so proudly by!'</l>
 <l>And there and then my legs were lead,</l>
-<l>A weary man was I!</l></lg>
+<l>A weary man was I!</l>
+</lg>
 
 <lg type="stanza">
 <l>"They  stared with wonder that I walked</l>
@@ -1539,20 +1471,20 @@
 <l>A man could walk in half the time,</l>
 <l>The finest in the land,</l>
 <l>With more,-- but most of it I lost</l>
-<l>Or did not understand.</l></lg>
+<l>Or did not understand.</l>
+</lg>
 
 <lg type="stanza">
 <l>"'So, come,' they cried, 'our tents are tight,</l>
 <l>Our fires are burning warm and bright!</l>
-
-
 
 <pb n="54      THE  ROYAL  MAILS"/>
 
 <l>How shall we let you go to-night</l>
 <l>Without offending heaven!</l>
 <l>Come, leave you shall with morning light,</l>
-<l>Strong with the strength of seven!'</l></lg>
+<l>Strong with the strength of seven!'</l>
+</lg>
 
 <lg type="stanza">
 <l>"True men they seemed, for me I dreamed</l>
@@ -1562,7 +1494,8 @@
 <l>Ay, me they pressed awhile to rest,</l>
 <l>Persuaded me to be their guest,</l>
 <l>And stole the letters from my breast</l>
-<l>When I fell down with wine!</l></lg>
+<l>When I fell down with wine!</l>
+</lg>
 
 <lg type="stanza">
 <l>"It all came crowding on my mind</l>
@@ -1572,15 +1505,14 @@
 <l>Both tents and men had vanished then,</l>
 <l>Were nowhere to be seen."</l>
 
-
-
 <pb n="THE ROYAL MAILS      55"/>
 
 <l>'Twas word for word a tale I'd heard</l>
 <l>Not once or twice before,</l>
 <l>Since first I made an axe ring out</l>
 <l>Upon the timber hereabout,</l>
-<l>But twenty times and more.</l></lg>
+<l>But twenty times and more.</l>
+</lg>
 
 <lg type="stanza">
 <l>For many a year we've harboured here</l>
@@ -1588,7 +1520,8 @@
 <l>Who watch for these young Castle-men</l>
 <l>At night among the gorse,</l>
 <l>It's hard to say if one in ten</l>
-<l>Gets by with life and purse.</l></lg>
+<l>Gets by with life and purse.</l>
+</lg>
 
 <lg type="stanza">
 <l>I   wonder since  'twould  serve  the Prince</l>
@@ -1598,17 +1531,17 @@
 <l>Who ply their trades in other glades</l>
 <l>And plunder whom they please --</l>
 <l>He does not rout the vermin out</l>
-<l>And hang them to the trees.</l></lg>
+<l>And hang them to the trees.</l>
+</lg>
 
-
-
-<pb n="56      THE  ROYAL  MAILS"/>
+<pb n="56 THE ROYAL MAILS"/>
 
 <lg type="stanza">
 <l>But this poor lad -- for me I knew</l>
 <l>Scarce what to think or say,</l>
 <l>I pitied him, I pitied, too,</l>
-<l>Those cities far away.</l></lg>
+<l>Those cities far away.</l>
+</lg>
 
 <lg type="stanza">
 <l>I asked him would he stay and be</l>
@@ -1620,13 +1553,12 @@
 <l>And hornets in his ear;</l>
 <l>An old grey man in all but years,</l>
 <l>He pulled his cloak about his ears,</l>
-<l>And went I know not where.</l></lg></div>
-
-
-
-<pb n="[THE SWALLOW  57]"/>
+<l>And went I know not where.</l>
+</lg>
+</div>
 
 <div id="hodgson020" type="poem" n="20">
+<pb n="[THE SWALLOW  57]"/>
 <head rend="center">THE SWALLOW</head>
 
 <lg type="stanza">
@@ -1638,81 +1570,63 @@
 <l>My joy, my flower, my baby dear</l>
 <l>Sleeps on my bosom well, but Oh!</l>
 <l>If in the Autumn of the year</l>
-<l>When swallows gather round and go--</l></lg></div>
-
-
-
-
-
-<l>57</l>
-
-
-
-<pb n="[58  A WOOD SONG]"/>
+<l>When swallows gather round and go--</l>
+</lg>
+</div>
 
 <div id="hodgson021" type="poem" n="21">
+<pb n="[58  A WOOD SONG]"/>
 <head rend="center"> A WOOD SONG</head>
 
 <lg type="stanza">
 <l>Now one and all, you Roses,</l>
 <l rend="indent">Wake up, you lie too long!</l>
 <l>This very morning closes</l>
-<l rend="indent">The Nightingale his song;</l></lg>
+<l rend="indent">The Nightingale his song;</l>
+</lg>
 
 <lg type="stanza">
 <l>Each from its olive chamber</l>
 <l>His babies every one</l>
 <l>This very morning clamber</l>
-<l>Into the shining sun.</l></lg>
+<l>Into the shining sun.</l>
+</lg>
 
 <lg type="stanza">
 <l>You Slug-a-beds and Simples,</l>
-<l rend="indent">Why will you so delay !</l>
+<l rend="indent">Why will you so delay!</l>
 <l>Dears, doff your olive wimples,</l>
-<l rend="indent">And listen while you may.</l></lg></div>
-
-
-
-
-
-<l>58</l>
-
-
-
-<pb n="[59]"/>
+<l rend="indent">And listen while you may.</l>
+</lg>
+</div>
 
 <div id="hodgson022" type="poem" n="22">
+<pb n="[59]"/>
 <lg type="stanza">
 <l>Reason has moons, but moons not hers,</l>
 <l rend="indent">Lie mirror'd on the sea,</l>
 <l>Confounding her astronomers.</l>
-<l rend="indent">But, O! delighting me.</l></lg>
+<l rend="indent">But, O! delighting me.</l>
+</lg>
 
 <milestone unit="section" rend="dots"/>
 
 <lg type="stanza">
 <l>Babylon -- where I go dreaming</l>
 <l>When I weary of to-day,</l>
-<l>Weary of a world grown grey.</l></lg>
-
+<l>Weary of a world grown grey.</l>
+</lg>
 
 <milestone unit="section" rend="dots"/>
 
 <lg type="stanza">
 <l>God loves an idle rainbow,</l>
-<l>No less than labouring seas.</l></lg></div>
-
-
-
-
-
-<l>59</l>
-
-
-
-<pb n="[60   THE BRIDE]"/>
+<l>No less than labouring seas.</l>
+</lg>
+</div>
 
 <div id="hodgson023" type="poem" n="23">
+<pb n="[60   THE BRIDE]"/>
 <head rend="center">THE BRIDE</head>
 
 <lg type="stanza">
@@ -1723,7 +1637,8 @@
 <l>'Twas that of you, sweet peasant,</l>
 <l>Beside your grannie's door--</l>
 <l>I never stopped so startled</l>
-<l>Inside a book before.</l></lg>
+<l>Inside a book before.</l>
+</lg>
 
 <lg type="stanza">
 <l>Just so had I sat spell-bound,</l>
@@ -1733,13 +1648,10 @@
 <l>Had drifted to my window</l>
 <l>And trailed its fineries --</l>
 <l>Just so had I been startled,</l>
-<l>Spelled with the same surprise.</l></lg>
+<l>Spelled with the same surprise.</l>
+</lg>
 
-<l>60</l>
-
-
-
-<pb n="THE  BRIDE               61"/>
+<pb n="THE  BRIDE 61"/>
 
 <lg type="stanza">
 <l>It pictured you when springtime</l>
@@ -1749,7 +1661,8 @@
 <l>When still your slender body</l>
 <l>Was all a childish grace,</l>
 <l>Though woman's richest glories</l>
-<l>Were building there apace.</l></lg>
+<l>Were building there apace.</l>
+</lg>
 
 <lg type="stanza">
 <l>'Twas blissful so to see you,</l>
@@ -1759,7 +1672,8 @@
 <l>But in your living sweetness,</l>
 <l>Beneath your native sky;</l>
 <l>Ah, bliss to be the people</l>
-<l>When you went tripping by !</l></lg>
+<l>When you went tripping by!</l>
+</lg>
 
 <lg type="stanza">
 <l>I sat there, thinking, wondering,</l>
@@ -1769,9 +1683,7 @@
 <l>Your grannie in her corner,</l>
 <l>Upstairs the little room</l>
 
-
-
-<pb n="62               THE  BRIDE"/>
+<pb n="62 THE BRIDE"/>
 
 <l>Where you wake up each morning</l>
 <l>To dream all day -- of Whom ?</l></lg>
@@ -1784,7 +1696,8 @@
 <l>A million-time-told story</l>
 <l>No maid but burns to hear,</l>
 <l>And went about his labours</l>
-<l>Delighting in his dear !</l></lg>
+<l>Delighting in his dear!</l>
+</lg>
 
 <lg type="stanza">
 <l>I thought of you sweet lovers,</l>
@@ -1792,9 +1705,10 @@
 <l>The pouts and tears and partings</l>
 <l>And swearings to be true,</l>
 <l>The kissings in the barley --</l>
-<l>You brazens, both of you !</l>
+<l>You brazens, both of you!</l>
 <l>I nearly burst out crying</l>
-<l>With thinking of you two.</l></lg>
+<l>With thinking of you two.</l>
+</lg>
 
 <lg type="stanza">
 <l>It put me in a frenzy</l>
@@ -1802,9 +1716,7 @@
 <l>A host of blurry faces</l>
 <l>'Gan shaping in my brain,</l>
 
-
-
-<pb n="THE BRIDE              63"/>
+<pb n="THE BRIDE 63"/>
 
 <l>I shut my eyes to see them</l>
 <l>Come forward clear and plain,</l>
@@ -1819,7 +1731,8 @@
 <l>With Life and Love it dealt them</l>
 <l>Before it laid them low,</l>
 <l>A hundred years, a thousand,</l>
-<l>Ten thousand years ago.</l></lg>
+<l>Ten thousand years ago.</l>
+</lg>
 
 <lg type="stanza">
 <l>One moment so I saw them</l>
@@ -1829,32 +1742,30 @@
 <l>To give your mouth its beauty,</l>
 <l>Your soul its gentle pride,</l>
 <l>Who wrestled with the ages</l>
-<l>To give the world a bride.</l></lg></div>
-
-
-
-<pb n="[64       AFTER]"/>
+<l>To give the world a bride.</l>
+</lg>
+</div>
 
 <div id="hodgson024" type="poem" n="24">
+<pb n="[64 AFTER]"/>
 <head rend="center">AFTER</head>
 <lg type="stanza">
 <l>"How fared you when you mortal were?</l>
 <l rend="indent">What did you see on my peopled star?"</l>
 <l>" Oh well enough," I answered her,</l>
-<l rend="indent">"It went for me where mortals are!</l></lg>
+<l rend="indent">"It went for me where mortals are!</l>
+</lg>
 
 <lg type="stanza">
 <l>"I saw blue flowers and the merlin's flight</l>
 <l rend="indent">And the rime on the wintry tree,</l>
 <l>Blue doves I saw and summer light</l>
-<l rend="indent">On  the  wings  of  the  cinnamon bee."</l></lg>
-
-
-
-
+<l rend="indent">On  the  wings  of  the  cinnamon bee."</l>
+</lg>
 
 <l>Printed in the United States of America.</l>
-<l>64</l>
 
 </div>
-</body></text></TEI.2>
+</body>
+</text>
+</TEI.2>

@@ -3562,15 +3562,14 @@ erblicken."</p>***** can't find code for umlauts...</epigraph></q>
 <pb n="A Quartercentenary Ode  93"/>
 
 <div id="macfie073" type="poem" n="17">
-<l>Wedding Ode</l>
+<head>Wedding Ode</head>
 
-<l>To A Poetess</l>
+<div id="macfie710" type="section" n="1">
+<head>To A Poetess<lb/>
+i</head>
 
-
-
-
-
-<l>Like swans on an enchanted lake</l>
+<lg type="stanza">
+<l>LIKE swans on an enchanted lake</l>
 <l>Your dreamy days have drifted by;</l>
 <l>Now, lovely, dreamy Lady wake,</l>
 <l>A Glory lightens in the sky!</l>
@@ -3578,174 +3577,140 @@ erblicken."</p>***** can't find code for umlauts...</epigraph></q>
 <l>Is burning, blinding sapphire blue;</l>
 <l>Your misty morning dream of love</l>
 <l>Is now a dream come true.</l>
+</lg>
+</div>
 
-<l>ii</l>
-
+<div id="macfie711" type="section" n="2">
+<head>ii</head>
+<lg type="stanza">
 <l>We two have wandered hand in hand</l>
 <l>In merry moonlit fairyland;</l>
 <l>We two have culled Parnassus thyme</l>
 <l>Above the clouds on peaks sublime;</l>
 
-<l>93</l>
-
-
-
-<pb n=""/>
-
-
+<pb n="94  A Quartercentenary Ode"/>
 
 <l>But far more bright</l>
-
 <l>Than fairy-light</l>
-
-<l>This love that dawns upon your eyes.</l>
-
+<l>This love that dawns upon your eyes,</l>
 <l>And higher than Parnassus height</l>
-
 <l>The summit of your Paradise.</l>
-
-<l>No dream is this—this orb of fire.</l>
-
+<l>No dream is this--this orb of fire,</l>
 <l>This splendid peak of white Desire.</l>
+</lg>
+</div>
 
-<l>iii</l>
-
-<l>Your dream of Love takes human form.</l>
-<l>And human heart, and human speech.</l>
-<l>And runs to you, alive and warm.</l>
+<div id="macfie712" type="section" n="3">
+<head>iii</head>
+<lg type="stanza">
+<l>Your dream of Love takes human form,</l>
+<l>And human heart, and human speech,</l>
+<l>And runs to you, alive and warm,</l>
 <l>With hands your living hands can reach;</l>
-<l>And every other dream grows dim.</l>
+<l>And every other dream grows dim,</l>
 <l>He hath such light and life in him.</l>
+</lg>
+</div>
 
-<l>IV</l>
-
+<div id="macfie713" type="section" n="4">
+<head>IV</head>
+<lg type="stanza">
 <l>Yet mid the glory flicker gleams</l>
 <l>Of other dreams</l>
 <l>Of olden days;</l>
 <l>And misty things</l>
 
-<l>94</l>
-
-
-
-<pb n=""/>
-
-
+<pb n="A Quartercentenary Ode   95"/>
 
 <l>With rainbow wings</l>
 <l>Still dance adown your sunlit ways;</l>
 <l>Love's living heart, so warm and deep,</l>
-<l>A million million dreams can keep.</l>
+<l>A million million dreams can keep,</l>
 <l>And all fair dreams you ever knew</l>
 <l>Still from Love's eyes may smile to you.</l>
+</lg>
+</div>
 
+<div id="macfie714" type="section" n="5">
 
-
-
-
+<head>V</head>
+<lg type="stanza">
 <l>O be a poet-dreamer still,</l>
-
 <l>With heart and will</l>
-
 <l>Athrob, athrill,</l>
-
-<l>iEolian harps in Beauty's breath.</l>
-
+<l>&#x00C6;olian harps in Beauty's breath,</l>
 <l>Until at last God's Love fulfil</l>
-
 <l>All dreams of Life in the dream of Death,</l>
-
 <l>Still dream; still let thy spirit change,</l>
-
 <l>Like light and shadow on the sea!</l>
-
 <l>Still keep existence fresh and strange</l>
-
 <l>With Wonder and with Mystery.</l>
+</lg>
+</div>
+</div>
 
+<pb n="96  A Quartercentenary Ode"/>
 
-
-<pb n=""/>
-
-
-
-<l>The Heart of a Child</l>
-
-<l>Budding her dreams and budding her bosom.</l>
+<div id="macfie074" type="poem" n="18">
+<head>The Heart of a Child</head>
+<lg type="stanza">
+<l>BUDDING her dreams and budding her bosom,</l>
 <l>Yet, betimes, when she smiled,</l>
-
 <l>I saw the heart of the Woman blossom</l>
 <l>Red in the heart of the Child.</l>
+</lg>
+</div>
 
+<pb n="A Quartercentenary Ode  97"/>
 
+<div id="macfie075" type="poem" n="19">
 
+<head type="main">Ode of Welcome to Queen Alexandra</head>
 
+<head type="sub">On a Visit to Aberdeen on the Occasion of the<lb/>
+Quatercentenary of Aberdeen University</head>
 
-<l>96</l>
-
-
-
-<pb n=""/>
-
-
-
-<l>Ode of Welcome to Queen Alexandra</l>
-
-<l>On a Visit to Aberdeen on the Occasion of the</l>
-<l>Quatercentenary of Aberdeen University</l>
-
-<l>Mother of the Land,</l>
-
+<lg type="stanza">
+<l>MOTHER of the Land,</l>
 <l>Around thy throne the hearts of England stand</l>
-<l>Waiting thy will.   And since thou art our Queen,</l>
-<l>And since thy life has moved in lovely ways.</l>
+<l>Waiting thy will. And since thou art our Queen,</l>
+<l>And since thy life has moved in lovely ways,</l>
 <l>The granite loyalty of Aberdeen</l>
 <l>Greets thee with love and reverence and praise;</l>
 <l>And boasts that these great battlements of stone</l>
-<l>Are buttresses and bulwarks of thy throne.</l>
+<l>Are buttresses and bulwarks of thy throne,</l>
 <l>For thou art wise, and they are Wisdom's fort;</l>
 <l>And thou art true, and they are Truth's domain;</l>
 <l>And thou art kind, and they are Healing's Court,</l>
 <l>Where Love and Pity reign:</l>
+<l>Thou art the symbol of all things we seek, too lofty to attain.</l>
+</lg>
+<pb n="98  A Quartercentenary Ode"/>
 
-<l>Thou art the symbol of all things we seek, too lofty to</l>
-
-<l>attain.</l>
-
-<l>97</l>
-
-
-
-<pb n=""/>
-
-
-
-<l>Welcome, thrice welcome to our granite town.</l>
+<lg type="stanza">
+<l>Welcome, thrice welcome to our granite town,</l>
 <l>Thou who hast made the burden of a crown</l>
-<l>Burn like a halo, kindle like a star—</l>
+<l>Burn like a halo, kindle like a star--</l>
 <l>Welcome, thrice Welcome!   In the days afar</l>
 <l>The Queen who joined the Thistle and the Rose,</l>
-<l>Making firm friends of foes.</l>
+<l>Making firm friends of foes,</l>
 <l>And Mary Queen of Scots, and Her of Guise</l>
-<l>Rode down these streets, under admiring eyes.</l>
+<l>Rode down these streets, under admiring eyes,</l>
 <l>But never Queen so fair and loved as thou</l>
 <l>Who comest to join in our rejoicings now.</l>
+</lg>
 
+<lg type="stanza">
 <l>"Welcome, thrice welcome, Queen most fair and kind!</l>
 <l>Welcome, thrice welcome!" sighs the autumn wind.</l>
 <l>"Welcome, thrice welcome!" chants the Northern Sea.</l>
-<l>And both come singing from thy home to thee—</l>
-<l>We are one in sea and wind as one in heart.</l>
+<l>And both come singing from thy home to thee--</l>
+<l>We are one in sea and wind as one in heart,</l>
 <l>And thou at once our Queen and kindred art;</l>
 <l>Welcome, thrice welcome to our Aberdeen!</l>
 <l>Welcome, beloved Queen!</l>
-
-
-
-
-
-<l>98</l>
-
+</lg>
+</div>
 
 
 <pb n=""/>

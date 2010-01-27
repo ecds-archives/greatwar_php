@@ -12,9 +12,14 @@ session_start();
 
 // root directory and url where the website resides
 // development version
-$basedir = "/home/httpd/html/rebecca/greatwar";
+/*$basedir = "/home/httpd/html/rebecca/greatwar";
 $server = "reagan.library.emory.edu";
 $base_path = "/rebecca/greatwar";
+$base_url = "http://$server$base_path/";*/
+
+$basedir = "/home/ahickco/public_html/greatwar";
+$server = "wilson.library.emory.edu";
+$base_path = "/~ahickco/greatwar";
 $base_url = "http://$server$base_path/";
 
 // root directory and url where the website resides
@@ -35,11 +40,21 @@ $csslink = "<link rel='stylesheet' type='text/css' href='$base_url/$cssfile'>";
 /* tamino settings common to all pages
    Note: all pages use same database, but there are three different collections
  */
-$tamino_server = "vip.library.emory.edu";
-$tamino_db = "WW1";
+ $tamino_server = "vip.library.emory.edu";
+ $tamino_db = "WW1";
 /* define all these in one place so it is easy to change for testing */
-$tamino_coll["poetry"] = "poetry";
-$tamino_coll["links"] = "links";
-$tamino_coll["postcards"] = "postcards";
+ $tamino_coll["poetry"] = "poetry";
+ $tamino_coll["links"] = "links";
+ $tamino_coll["postcards"] = "postcards";
 //$tamino_coll["postcards"] = "postcards-test";
+
+$port = "8080";
+$db = "greatwar";
+
+/*exist settings*/
+/*$exist_args = array('host'   => $server,
+	      	    'port'   => $port,
+	            'db'     => $db,
+	            'dbtype' => "exist"); */
+
 ?>

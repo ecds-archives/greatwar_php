@@ -1,7 +1,7 @@
 <?php 
 
 include "taminoConnection.class.php";
-include "existConnection.class.php";
+//include "existConnection.class.php";
 
 class xmlDbConnection {
 

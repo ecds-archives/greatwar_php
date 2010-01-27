@@ -1,0 +1,34 @@
+<div class="content">
+<p>For more information about the postcards, read <a href="<?= $this->url(array('controller' => 'index', 'action' => 'about'), null, true) ?>">about  this project</a>.</p> 
+<p> 
+There are several different ways to view the postcards: 
+<ul> 
+<li><a href="<?= $this->url(array('action' => 'browse')) ?>">Browse</a> - browse through all <b>' . $count . '</b> postcards<br>
+View thumbnails with titles, or thumbnails with a brief description<br> 
+(not advisable for slow connections) </li>
+
+
+<li>Browse by category
+<div class="categories">  
+   <?= $this->url(array('action' => 'browse', "cat" => $cat)) ?>
+</div>
+</li>
+   <li><a href="<?= $this->url(array('action' => 'search')) ?>">Search</a> the postcards by keyword, title, description, and category
+</li>
+</ul>
+
+<p>Images of the postcards are available in three sizes:</p>
+<ul>
+<li>Thumbnail - browse pages & search results<br>
+(may be viewed with titles only, or with brief descriptions)
+</li>
+<li>roughly realsize - view an individual postcard with full details</li>
+<li>roughly doublesize - linked from individual postcard view</li>
+</ul>
+</div>
+
+
+
+</body>
+</html>
+

@@ -1,6 +1,5 @@
 <?php
-chdir("..");	// behave as if we were in the root directory, because all paths are relative to it (xsl, etc.)
-include("config.php");	
+include("../config.php");	
 
 print "<html>
   <head>
@@ -29,7 +28,7 @@ $args = array('host' => $tamino_server,
 	      'db' => $tamino_db,
 	      'coll' => $tamino_coll['postcards'],
 	      'entity' => $entity,
-	      'imgpath' => 'http://beck.library.emory.edu/greatwar/postcard-images/thumbnail/',
+	      'imgpath' => 'http://chaucer.library.emory.edu/wwi/images/thumbnail/',
 	      'debug' => false);
 $fc = new figureComment($args);
 

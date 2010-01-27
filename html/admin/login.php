@@ -19,7 +19,7 @@ print "
 <body> 
 "; 
 
-include_once("lib/taminoConnection.class.php");
+include_once("lib/xmlDbConnection.class.php");
 include_once ("lib/alinkCollection.class.php");
 include_once ("lib/figureComment.class.php");
 include_once("lib/mybreadcrumb.php");

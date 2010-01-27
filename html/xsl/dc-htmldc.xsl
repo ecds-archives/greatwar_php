@@ -3,7 +3,7 @@
 		xmlns:dc="http://purl.org/dc/elements/1.1/"
                 version="1.0">
 
-  <xsl:output method="xml"/>
+  <xsl:output method="xhtml"/>
 
   <xsl:template match="/">
     <xsl:element name="link">

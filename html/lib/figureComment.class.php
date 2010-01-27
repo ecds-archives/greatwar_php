@@ -1,6 +1,9 @@
 <?php
 
-include_once("taminoConnection.class.php");
+include_once("xmlDbConnection.class.php");
+
+
+
 
 class figureComment {
 
@@ -23,7 +26,7 @@ class figureComment {
   // Constructor 
   function figureComment($argArray) {
     // pass host/db/collection settings to tamino object
-    $this->tamino = new taminoConnection($argArray);
+    $this->tamino = new xmlDbConnection($argArray);
     $this->imgpath = $argArray['imgpath'];
     
     $this->entity = $argArray['entity'];
@@ -113,17 +116,18 @@ do insert <p id='rlsktest'><date>10-01-2004</date><name>rlsk</name>testing xquer
 
   // retrieve a comment from tamino by entity value
   function taminoGetComment($auth = "user") {	// auth = user, admin
-    $path['user'] = "ino:response/xq:result";
-    $path['admin'] = "ino:response/xq:result/comment/p";
+    $path['user'] = "//ino:response/xq:result";
+    $path['admin'] = "//ino:response/xq:result/comment/p";
     $rval = $this->tamino->xquery($this->xquery('getRecord', $auth));
     if ($rval) {
       print "<p>figureComment Error: failed to retrieve comment details from Tamino.<br>";
       print "(Tamino error code $rval)</p>";
       $this->description = "";		// load failed; set to null string
     } else {            // xquery succeeded 	
-      $xmlRecord = $this->tamino->xml->getBranches($path[$auth]);
+      $this->tamino->xpath->registerNamespace("xq","http://namespaces.softwareag.com/tamino/XQuery/result");
+      $xmlRecord = $this->tamino->xpath->query("$path[$auth]/*");	// returns nodelist
       if ($xmlRecord) {
-	// process all of the branches
+	// process the xml
 	$this->CommentInit($xmlRecord);
       }
     }
@@ -137,8 +141,7 @@ do insert <p id='rlsktest'><date>10-01-2004</date><name>rlsk</name>testing xquer
       print "(Tamino error code $rval)</p>";
       $this->description = "";		// load failed; set to null string
     } else {            // xquery succeeded
-      $val = $this->tamino->xml->getTagContent("ino:response/xq:result/figure/head");
-      if ($val) { $this->title = $val; }
+      if ($val) { $this->title = $val->textContent; }
     }
   }
 
@@ -153,7 +156,7 @@ do insert <p id='rlsktest'><date>10-01-2004</date><name>rlsk</name>testing xquer
       print "</td><td>";
       $c->printSummary();
       print "</td></tr>";
-    }
+    } 
     print "</td></table>";
   }
 
@@ -216,7 +219,8 @@ do insert <p id='rlsktest'><date>10-01-2004</date><name>rlsk</name>testing xquer
       print "<p>figureComment Error: failed to retrieve user comments from Tamino.<br>";
       print "(Tamino error code $rval)</p>";
     } else {            // xquery succeeded
-      $xmlRecord = $this->tamino->xml->getBranches("ino:response/xq:result");
+      $this->tamino->xpath->registerNamespace("xq","http://namespaces.softwareag.com/tamino/XQuery/result");
+      $xmlRecord = $this->tamino->xpath->query("//xq:result/*");	// returns nodelist
       // process all of the branches
       $this->CommentInit($xmlRecord);
     }
@@ -231,12 +235,13 @@ do insert <p id='rlsktest'><date>10-01-2004</date><name>rlsk</name>testing xquer
   }
 
   // print out an approval form to approve user-submitted comments
-  function approvalForm ($url) {
+  function approvalForm ($url) {	// url is for the action of the form
     print "<form action='$url'>";
     print "<table class='figDesc'>";
     print "<tr><th colspan='3'>Select the appropriate action for each comment.</th></tr>";
     print "<tr><th class='input'>Action</th><th>Comment summary</th><th>Postcard</th></tr>";
     //foreach unapproved comment, print out a table row with checkbox
+
     foreach ($this->comment as $c) {
       print "<tr><td class='input'>";
       // pass id in array, so action can be picked up
@@ -251,7 +256,7 @@ do insert <p id='rlsktest'><date>10-01-2004</date><name>rlsk</name>testing xquer
         print "<td><img src='" . $this->imgpath . $c->entity . ".jpg' alt='postcard thumbnail'></td>";
       }
       print "</td></tr>";
-    }
+    } 
     if (count($this->comment) == 0) {
       print "<tr><td></td><td>There are no comments to approve.</td></tr>";
     } else {
@@ -259,7 +264,6 @@ do insert <p id='rlsktest'><date>10-01-2004</date><name>rlsk</name>testing xquer
     }
     print "</table>";
     print "</form>";
-
   }
 
   function approveComment() {
@@ -288,45 +292,31 @@ do insert <p id='rlsktest'><date>10-01-2004</date><name>rlsk</name>testing xquer
   }
   
 
-  function CommentInit ($xmlRecord) {	// array of phpDom XML branches
-    //    print "DEBUG: in function CommentInit<br>\n";
-    foreach ($xmlRecord as $branch) {
-      //          print "DEBUG: in foreach loop CommentInit<br>\n";
-       	  $val = $branch->getTagAttribute("id", "p");
-	  if ($val) {
-	    if ($this->comment[0]->id = $val) {
-	      // if this comment id already exists (e.g., approving user comment),
-	      // then don't create a new comment object; modify existing object      
-	      $myc =& $this->comment[0];	
-	    } else {
-	       $myc = new comment();
-	    }
-	    $myc->id = $val; //print "DEBUG: id=$val<br>\n";
-	  }
-	  $val = $branch->getTagContent("p/name");
-	  if ($val) { $myc->name = $val; /* print "DEBUG: name=$val<br>\n"; */}
-	  $val = $branch->getTagContent("p/date");
-	  if ($val) { $myc->date = $val; /* print "DEBUG: date=$val<br>\n"; */}
-       	  $val = $branch->getTagAttribute("id", "p");
-	  if ($val) { $myc->id = $val; /* print "DEBUG: id=$val<br>\n"; */}
-       	  $val = $branch->getTagAttribute("n", "p/xptr");
-	  if ($val) { $myc->entity = $val; /* print "DEBUG: entity=$val<br>\n";*/}
-	  // do this last: remove all branches so we get text content only
-	  $branch->removeAllBranches();
-    	  $val = $branch->getTagContent("p");
-       	  if ($val) { $myc->text = $val; }
-	  /*          if ($auth == "admin") {
-            $val = $this->tamino->xml->getTagContent("figure/head");
-            if ($val) { $this->title = $val; }
-            $val = $this->tamino->xml->getTagAttribute("entity", "figure");
-            if ($val) { $this->entity = $val; }
-	  }
-	  */
-	  // add the newly initialize comment object to the comment array
-	  if ($myc->id != $this->comment[0]->id) {  // (if it doesn't exist already)
-            array_push($this->comment, $myc);
-	  }
-        }
+  function CommentInit ($xmlRecord) {	// input is an xml nodelist
+    // for each comment (one paragraph), initialize a comment object
+    for ($j=0; $j < $xmlRecord->length; $j++) {
+      $p = simplexml_import_dom($xmlRecord->item($j));
+      $id = $p["id"]; 
+      if ($id) {
+	if ($this->comment[0]->id == $id) {
+	  // if this comment id already exists (e.g., approving user comment),
+	  // then don't create a new comment object; modify existing object      
+	  $myc =& $this->comment[0];	
+	} else {
+	   $myc = new comment();      
+	}
+	$myc->id = $id; // print "DEBUG: id=$id<br>\n";
+      }
+      $myc->name = $p->name; 		// print "DEBUG: name=" . $myc->name . "<br>\n"; 
+      $myc->date = $p->date; 		// print "DEBUG: date=" . $myc->date . "<br>\n";
+      $myc->entity = $p->xptr["n"];  	// print "DEBUG: entity=" . $myc->entity . "<br>\n";
+      $myc->text = $p; 			// print "DEBUG: p=" . $myc->text . "<br>\n";
+
+      // add the newly initialize comment object to the comment array
+      if ($myc->id != $this->comment[0]->id) {  // (if it doesn't exist already)
+        array_push($this->comment, $myc);
+      }
+    }
   }
 
   
@@ -363,6 +353,7 @@ do insert <p id='rlsktest'><date>10-01-2004</date><name>rlsk</name>testing xquer
 }
 
 
+
 // simple class to keep track of figure comments
 class comment {
   // comment components
@@ -386,8 +377,9 @@ class comment {
     print "<tr><th>name:</th><td> " . $this->name . "</td></tr>\n";
     print "<tr><th>date:</th><td> " . $this->date . "</td></tr>\n";
     if (isset($this->entity)) {
-      print "<tr><th>figure:</th><td> " . $this->entity . "</td></tr>\n";
+      print "<tr><th>figure:</th><td>" . $this->entity . "</td></tr>\n";
     }
     print "</table>";
   }
 }
+

@@ -1,6 +1,5 @@
 <?php
-chdir("..");	// behave as if we were in the root directory, because all paths are relative to it (xsl, etc.)
-include("config.php");	
+include("../config.php");	
 
 include_once("lib/xmlDbConnection.class.php");
 include_once("lib/mybreadcrumb.php");
@@ -58,9 +57,14 @@ print "<html>
     <title>The Great War : Poetry : Contents - $title</title>
     <meta http-equiv='Content-Type' content='text/html; charset=iso-8859-1'>"; 
 $tamino->xslTransform($header_xsl1);
-$tamino->xslTransformResult($header_xsl2);
+// backup xml from tamino
+$realxml = $tamino->xmlContent;
+//copy xsl_result to xml object for next xsl transform
+$tamino->xmlContent = $tamino->xsl_result;
+$tamino->xslTransform($header_xsl2);
 $tamino->printResult();
 //restore tamino xml
+$tamino->xmlContent = $realxml;
 print "<base href='$base_url'> 
   </head> 
 <body>

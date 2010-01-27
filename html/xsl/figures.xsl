@@ -11,7 +11,7 @@
 <xsl:param name="authlevel">0</xsl:param>  
 
 <!-- base url for linking to images -->
-<xsl:variable name="image_baseurl">http://beck.library.emory.edu/greatwar/postcard-images/</xsl:variable>
+<xsl:variable name="image_baseurl">http://chaucer.library.emory.edu/wwi/images/</xsl:variable>
 
 <xsl:output method="xml"/>  
 
@@ -65,7 +65,7 @@
 	<xsl:attribute name="src"><xsl:value-of select="concat($image_baseurl, 'thumbnail/', @entity, '.jpg')"/></xsl:attribute>
     </xsl:element>
     </a>
-   <xsl:if test="$authlevel != 0">
+   <xsl:if test="$authlevel">
      <p class='admin'>
       Admin<br/>
       <a>
@@ -220,11 +220,7 @@
 
      <xsl:if test="$id != ''">
         <li><xsl:value-of select="key('interp-cat', $id)"/>: 
-        <xsl:element name="a">
-          <xsl:attribute name="href">postcards/browse.php?cat=<xsl:value-of select="$id"/></xsl:attribute>
-	    <xsl:value-of select="key('interp-name', $id)"/>
-        </xsl:element>
-	</li>
+	    <xsl:value-of select="key('interp-name', $id)"/></li>
      </xsl:if>
 
 </xsl:template>

@@ -28,7 +28,7 @@ $args = array('host' => $tamino_server,
 	      'db' => $tamino_db,
 	      'coll' => $tamino_coll['postcards'],
 	      'entity' => $entity,
-	      'imgpath' => 'http://beck.library.emory.edu/greatwar/postcard-images/thumbnail/',
+	      'imgpath' => 'http://chaucer.library.emory.edu/wwi/images/thumbnail/',
 	      'name' => $_SESSION['name'],
 	      'debug' => false);
 $fc = new figureComment($args);

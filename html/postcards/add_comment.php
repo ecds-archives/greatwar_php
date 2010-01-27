@@ -45,7 +45,7 @@ $args = array('host' => $tamino_server,
               'comment' => $comment,
               'name' => $name,
 	      'date' => $date,
-	      'imgpath' => 'http://beck.library.emory.edu/greatwar/postcard-images/thumbnail/',
+	      'imgpath' => 'http://chaucer.library.emory.edu/wwi/images/thumbnail/',
 	      'debug' => true);
 $fc = new figureComment($args);
 

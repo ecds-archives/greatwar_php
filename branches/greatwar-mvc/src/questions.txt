@@ -1,0 +1,92 @@
+directory  file		change 
+public 	   .htaccess 	path to symlink to index or to site index
+
+public/css  wwi.css   		add css file
+
+public/images 			add site images
+
+public/index.php		no changes yet
+				some of the stuff is not necessary
+
+config/config.xml		set db name (=greatwar)
+				session_name (=greatwar)
+
+apps/controller	IndexController.php this->view->assign(title,
+Poetry and Postcards) //this is the page subtitle
+       	   	      	     	    	 this->helper->layout->setLayout("frontpage")
+
+		TeiController.php   set=TEI::find();
+
+app/modules Tei.php		    search paths
+	    			    $pathdb
+				    queries are here as functions
+
+So in models do we want PoetryController, LinksController,
+PostcardsController, AboutController? About can be handled through the
+index page, because it just calls a file.
+
+TeiController calls listAction()
+			find (in Tei.php)
+		      viewAction()
+		        findByName (in Tei.php)	
+
+
+  <?= $this->layout()->content ?> 
+Why would this call app/views/scripts/index/index.phtml?
+
+What about __construct?
+
+How to do dublin core metadata?
+
+Basic structure:
+public/index.php
+public/images
+public/css
+public/js
+
+app/controllers/PostcardController.php
+app/controllers/PoetryController.php
+app/controllers/LinkController.php
+app/controllers/XhtmlController.php ?
+app/controllers/TeiController.php ??
+app/controllers/IndexController.php
+app/controllers/AboutController.php
+
+models/Tei.php
+models/Xhtml.php
+
+views/layouts/_banner.phtml
+views/layouts/frontpage.phtml
+views/layouts/_right_nav.phtml
+views/layouts/_simple_search.phtml
+views/layouts/site.phtml
+
+views/scripts/index/index.phtml What should go here?
+views/scripts/tei/list.phtml
+views/scripts/tei/view.phtml
+views/scripts/postcards/
+views/scripts/poetry
+views/scripts/xhtml/show.phtml
+
+views/xslt
+
+config/config.xml
+config/environment.xml
+
+lib/Emory/Db/Adapter/Exist.php
+lib/Emory/Db/Table.php
+lib/Emory/Db/Table/Rowset.php
+
+lib/Hdot/Controller/Action.php
+
+lib/xml-utilities
+
+tests/
+
+Changes to EZ_MVC
+Need to be sure 3 lines added to index.php to enable custom view
+rendering.
+// add local helper path to view
+$viewRenderer = Zend_Controller_Action_HelperBroker::getStaticHelper('ViewRenderer');
+$viewRenderer->initView();
+$viewRenderer->view->addHelperPath('Emory/View/Helper', 'Emory_View_Helper');

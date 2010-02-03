@@ -99,17 +99,16 @@
 	</change>
       </revisionDesc>
    </teiHeader>
+
 <text>
 <front>
 
 <pb n="[i]"/>
-
 <titlePage id="sterling1000" type="half">
      <docTitle>
        <titlePart type="main">THE POEMS OF<lb/>ROBERT W.STERLING</titlePart>
      </docTitle>
    </titlePage>
-
 <pb n="[ii]"/>
 
 <div id="sterling1001" type="colophon">
@@ -134,8 +133,9 @@
      </docTitle>
        <docImprint>
         <publisher> HUMPHREY MILFORD<lb/>OXFORD UNIVERSITY PRESS</publisher>
-	 <pubPlace>LONDON  EDINBURGH  GLASGOW  NEW YORK<lb/>TORONTO  MELBOURNE  BOMBAY</pubPlace>
-	 <pubDate>1915</pubDate>
+	 <pubPlace>LONDON EDINBURGH GLASGOW NEW YORK<lb/>TORONTO
+	MELBOURNE BOMBAY</pubPlace>
+	 <date>1915</date>
        </docImprint>
    </titlePage>  
 
@@ -389,7 +389,12 @@ throughout the day. It was Saint George's Day.
 
 <milestone unit="section" rend="line"/>
 
-<p>The latter half of these poems--from 'Oxford, First Vision' to the end--have not been published before. Of the others: ' The Burial of Sophocles' won the Newdigate Prize of 1914;' Early Poems' (except the first two) and ' To B. W.' appeared in school magazines--one (' Hail') in <hi rend="italic">The Wasp</hi> the Evans House magazine, the rest in <hi rend="italic">The Sedberghian</hi>.</p>
+<p>The latter half of these poems--from 'Oxford, First Vision' to the
+end--have not been published before. Of the others: ' The Burial of
+Sophocles' won the Newdigate Prize of 1914;' Early Poems' (except the
+first two) and ' To B. W.' appeared in school magazines--one (' Hail')
+in <hi rend="italic">The Wasp</hi> the Evans House magazine, the rest
+in <hi rend="italic">The Sedberghian</hi>.</p>
 
 <p>The Sonnet immediately following is printed by kind permission of
 its author and <hi rend="italic">The Glasgow Herald</hi>.</p>
@@ -438,17 +443,19 @@ its author and <hi rend="italic">The Glasgow Herald</hi>.</p>
 <group>
 <text>
 <front>
-<TitlePage id="sterling1007" type="half"/>
+<titlePage id="sterling1007" type="half"/>
      <docTitle>
        <titlePart type="main">THE<lb/>BURIAL OF SOPHOCLES</titlePart>
      </docTitle>
 </front> 
 
+
 <body>
 <div id="sterling100" type="part" n="1">
 <pb n="4"/>
 <figure type="sterlingfig" rend="inline">
-<FigDesc> Image of paragraph printed in Greek script in front matter of "The Poems of Robert W.Sterling"</FigDesc>
+<FigDesc> Image of paragraph printed in Greek script in front matter
+of "The Poems of Robert W.Sterling"</FigDesc>
 </figure>
 <epigraph><cit><q>
 <p>' And he was laid in the tomb of his fathers, that is situated
@@ -664,16 +671,23 @@ darkest fortune!</hi></l>
 <l rend="inline">Oh, lightly, lightly. Earth, encompass it!</l>
 </lg>
 </div>
+</body>
+</text>
+</group>
 
-<div id="sterling200" type="part" n="2">
+<group>
+<text>
+
+<front>
 <pb n="[13]"/>
 <titlePage id="sterling1008" type="half">
      <docTitle>
        <titlePart type="main">EARLY POEMS</titlePart>
      </docTitle>
    </titlePage>
-</div>
+</front>
 
+<body>
 <div id="sterling002" type="poem" n="2">
 <pb n="[14]"/>
 <pb n="Prologue to a Children's Play 15"/>
@@ -1168,7 +1182,7 @@ unmeasur'd soaring:</l>
 <text>
 <front>
 <pb n="[35]"/>
-<titlePage id="" type="half">
+<titlePage id="sterling10000" type="half">
      <docTitle>
        <titlePart type="main"> POEMS<lb/>1913-1915</titlePart>
      </docTitle>
@@ -1537,7 +1551,9 @@ unmeasur'd soaring:</l>
 
 </body>
 </text>
+</group>
 
+<group>
 <text>
 <front>
 

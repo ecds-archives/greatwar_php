@@ -120,7 +120,7 @@
 
 <div id="sterling1002" type="frontispiece">
 <figure type="sterlingfp" rend="inline">
-<FigDesc> Photograph of author in front matter of "The Poems of Robert W. Sterling"</FigDesc>
+<figDesc> Photograph of author in front matter of "The Poems of Robert W. Sterling"</figDesc>
 </figure>
 </div>
 
@@ -298,10 +298,10 @@ that harmony in which Greeks of old saw the ideal of human life.
 <l>He saw and loved the beauty earth can show:</l>
 <l>The love was true, as it was young, no phase</l>
 <l>That passed, but strengthening with inward glow,</l>
-<l>Which woke in others  fire.    He  drew  from</l>
+<l>Which woke in others fire. He drew from</l>
 <l rend="inline">Heav'n</l>
 <l>What only love can take, a vision whole</l>
-<l>Of things sublime.    The richer life thus giv'n</l>
+<l>Of things sublime. The richer life thus giv'n</l>
 <l>Back to his God he gave: his gift--his soul.</l></lg>
 </q>
 
@@ -321,7 +321,7 @@ not return, as is suggested by the explanatory note which he prefixed
 to it.<ref target="xii">1</ref>
 </p>
 
-<p>In  February 1915 he went out to France.
+<p>In February 1915 he went out to France.
 
 <note place="foot" id="xii" n="1">This note is reproduced immediately
 before the text of ' Maran '. With certain passages of this poem he
@@ -373,7 +373,7 @@ relieve us, and we were sitting in our quarters--what remained of the
 shell-shattered lodge of the chateau, playing cards by candle-light,
 awaiting events, when------knocked at the door and came in. . . . I
 walked about with him for about an hour and a half in the chateau
-grounds,   stray   bullets   from   the   firing-line
+grounds, stray bullets from the firing-line
 
 <pb n="xv"/>
 whistling around us,... but I had no idea I was afterwards going to
@@ -431,7 +431,7 @@ its author and <hi rend="italic">The Glasgow Herald</hi>.</p>
 <div id="sterling1006" type="table of contents">
 <pb n="1"/>
 <figure type="Sterlingtc" rend="inline">
-<FigDesc> Image of table of contents in front matter of "The Poems of Robert W.Sterling"</FigDesc>
+<figDesc> Image of table of contents in front matter of "The Poems of Robert W.Sterling"</figDesc>
 </figure>
 
 <pb n="[2]"/>
@@ -443,10 +443,11 @@ its author and <hi rend="italic">The Glasgow Herald</hi>.</p>
 <group>
 <text>
 <front>
-<titlePage id="sterling1007" type="half"/>
-     <docTitle>
-       <titlePart type="main">THE<lb/>BURIAL OF SOPHOCLES</titlePart>
-     </docTitle>
+<titlePage id="sterling1007" type="half">
+   <docTitle>
+    <titlePart type="main">THE<lb/>BURIAL OF SOPHOCLES</titlePart>
+   </docTitle>
+</titlePage>
 </front> 
 
 
@@ -454,8 +455,8 @@ its author and <hi rend="italic">The Glasgow Herald</hi>.</p>
 <div id="sterling100" type="part" n="1">
 <pb n="4"/>
 <figure type="sterlingfig" rend="inline">
-<FigDesc> Image of paragraph printed in Greek script in front matter
-of "The Poems of Robert W.Sterling"</FigDesc>
+<figDesc> Image of paragraph printed in Greek script in front matter
+of "The Poems of Robert W.Sterling"</figDesc>
 </figure>
 <epigraph><cit><q>
 <p>' And he was laid in the tomb of his fathers, that is situated
@@ -471,7 +472,7 @@ burial.'</p></q></cit></epigraph>
 </div>
 
 <div id="sterling001" type="poem" n="1">
-<pb n="The Burial of Sophocles    5"/>
+<pb n="The Burial of Sophocles 5"/>
 <head>THE BURIAL OF SOPHOCLES</head>
 
 <p>Sophocles, <hi rend="italic">the grandson, speaks at the poet's tomb</hi>.</p>
@@ -482,7 +483,7 @@ burial.'</p></q></cit></epigraph>
 <l>Over the tombs of hidden Marathon</l>
 <l rend="inline">And gave you back your shining jewelleries</l>
 <l>What meaning dear can the dull eyes of grief</l>
-<l rend="inline">Trace  in  your  moving groves  and wizard streams?--</l>
+<l rend="inline">Trace in your moving groves and wizard streams?--</l>
 <l rend="inline">Have ye a knowledge of our troubled quest,</l>
 <l rend="inline">The lamentation brief,</l>
 <l>The grey road and the haunting twilight dreams,</l>
@@ -511,7 +512,7 @@ burial.'</p></q></cit></epigraph>
 <l rend="inline">Save by the favour of an enemy!--</l>
 <l>A bitter hard-won favour; for folks say</l>
 <l rend="inline">Lord Dionysus twice in vision came,</l>
-<l rend="inline">Jealous  and  wroth, to school Lysander's might,</l>
+<l rend="inline">Jealous and wroth, to school Lysander's might,</l>
 <l rend="inline">That, where his fathers lay,</l>
 <l>The darling prophet of the god's own flame,</l>
 <l rend="inline">Cradled in calm, should sleep his endless night.</l>
@@ -528,7 +529,7 @@ burial.'</p></q></cit></epigraph>
 <l rend="inline">A small, sad band, whom love or blood allow'd</l>
 <l rend="inline">To tend the dead; while vexing the repose</l>
 <l rend="inline">Of stars, who listening all</l>
-<l>Peer'd  through  a  shifting  curtain  of frail cloud,</l>
+<l>Peer'd through a shifting curtain of frail cloud,</l>
 <l rend="inline">Like a wild song the women's wailing rose.</l>
 </lg>
 
@@ -537,7 +538,7 @@ burial.'</p></q></cit></epigraph>
 <l rend="inline">And soft adown the lantern-hemm&#x00E8;d street</l>
 <l>Parted the throngs who paid their pious debt</l>
 <l rend="inline">Of patient watching and of reverence meet.</l>
-<l>And there were  sudden  tears and  murmurs faint</l>
+<l>And there were sudden tears and murmurs faint</l>
 <l>And floating cries upon the midnight air,--</l>
 <l rend="inline">Not that they grudg'd him death, nor would importune</l>
 <l rend="inline">The gods in idle plaint:</l>
@@ -546,7 +547,7 @@ burial.'</p></q></cit></epigraph>
 darkest fortune!</hi></l>
 </lg>
 
-<pb n="8   The Burial of Sophocles"/>
+<pb n="8 The Burial of Sophocles"/>
 
 <lg type="stanza">
 <l>How lingeringly we reached the guarded gate</l>
@@ -565,19 +566,19 @@ darkest fortune!</hi></l>
 <l>But when we left the wakeful, following crowd</l>
 <l rend="inline">Within the walls, and passed the sentinels,</l>
 <l>Pausing we turn'd: and lo! for us the shroud</l>
-<l rend="inline">Of silent night hid nothing.  All the bells</l>
+<l rend="inline">Of silent night hid nothing. All the bells</l>
 <l>Were set a-chiming in each memory,</l>
 <l rend="inline">And to fond eyes, that knew the outline clear</l>
 <l rend="inline">Of every tower and temple and the whole</l>
 <l rend="inline">Form of her majesty,</l>
 <l>Athens, the queenly city, bade appear,</l>
-<l rend="inline">Rob'd  in   revealing  shade, her wondrous soul.</l>
+<l rend="inline">Rob'd in revealing shade, her wondrous soul.</l>
 </lg>
 
-<pb n="The Burial of Sophocles     9"/>
+<pb n="The Burial of Sophocles 9"/>
 
 <lg type="stanza">
-<l>Her  wondrous  soul, her wondrous, grieving soul</l>
+<l>Her wondrous soul, her wondrous, grieving soul</l>
 <l rend="inline">Captur'd and fill'd us.--Oh, how fevrous then</l>
 <l>(When we had forfeited the passing toll</l>
 <l rend="inline">Of tears, that Love itself exacts from men</l>
@@ -586,13 +587,13 @@ darkest fortune!</hi></l>
 <l rend="inline">On the dead singer of Colonus fair,</l>
 <l rend="inline">Yon kindly last abode</l>
 <l>Of the royal Theban martyr, who of yore</l>
-<l>Curs'd a  false   son   and dying triumph'd there.</l></lg>
+<l>Curs'd a false son and dying triumph'd there.</l></lg>
 
 <lg type="stanza">
 <l>Ah! Fancy loves to weave at such an hour</l>
 <l rend="inline">A faery web of false resemblances.--</l>
 <l>And who hath strength to curb her perilous power</l>
-<l rend="inline">Of blind divining?  Many phantasies</l>
+<l rend="inline">Of blind divining? Many phantasies</l>
 <l>Made riot in our thought and seem'd to bring</l>
 <l rend="inline">The living children of <hi rend="italic">his</hi> poesy</l>
 <l>Winging from out the night to claim a part</l>
@@ -601,7 +602,7 @@ darkest fortune!</hi></l>
 <l rend="inline">Sped its far, sullen mutterings to our heart.</l>
 </lg>
 
-<pb n="10    The Burial of Sophocles"/>
+<pb n="10 The Burial of Sophocles"/>
 
 <lg type="stanza">
 <l>And then that "darkly-riding company!--</l>
@@ -629,7 +630,7 @@ darkest fortune!</hi></l>
 <l rend="inline">And with our own shorn tresses over-fleec'd.</l>
 </lg>
 
-<pb n="The Burial of Sophocles      11"/>
+<pb n="The Burial of Sophocles 11"/>
 
 <lg type="stanza">
 <l>And so we laid him: even so he lies</l>
@@ -637,7 +638,7 @@ darkest fortune!</hi></l>
 <l>Poets unborn shall sing him, centuries</l>
 <l rend="inline">Untold tell of his fealty to her.--</l>
 <l>For oh! the service of his life will live</l>
-<l rend="inline">Deathlessly eloquent.    But I------alas!</l>
+<l rend="inline">Deathlessly eloquent. But I------alas!</l>
 <l rend="inline">Left desolate within this teasing world--</l>
 <l rend="inline">What comfort can I give</l>
 <l>My comrades ere again those walls we pass</l>
@@ -656,7 +657,7 @@ darkest fortune!</hi></l>
 <l>By foe and feud: So be my spirit prov'd</l>
 <l rend="inline">Not all unworthy him whose name I bear.</l></lg>
 
-<pb n="12   The Burial of Sophocles"/>
+<pb n="12 The Burial of Sophocles"/>
 
 <lg type="stanza">
 <l>Ah! Master, when the blast uproots a tree,</l>
@@ -667,24 +668,21 @@ darkest fortune!</hi></l>
 <l rend="inline">Shall burgeon wealth of tears and tenderness</l>
 <l rend="inline">And beauty, when forgotten is this pit</l>
 <l rend="inline">And drain'd is Athens' doom-----</l>
-<l>Come, leave his  body,  friends, to  Earth's caress.--</l>
+<l>Come, leave his body, friends, to Earth's caress.--</l>
 <l rend="inline">Oh, lightly, lightly. Earth, encompass it!</l>
 </lg>
 </div>
 </body>
 </text>
-</group>
 
-<group>
 <text>
-
 <front>
 <pb n="[13]"/>
 <titlePage id="sterling1008" type="half">
-     <docTitle>
-       <titlePart type="main">EARLY POEMS</titlePart>
-     </docTitle>
-   </titlePage>
+   <docTitle>
+    <titlePart type="main">EARLY POEMS</titlePart>
+   </docTitle>
+  </titlePage>
 </front>
 
 <body>
@@ -712,7 +710,7 @@ darkest fortune!</hi></l>
 <l>To foster Justice and to make the Right</l>
 <l>Triumph o'er Evil in the well-fought fight.</l>
 
-<pb n="16 Prologue to a  Children's Play"/>
+<pb n="16 Prologue to a Children's Play"/>
 
 <l>This is the very essence of the play</l>
 <l>That we present to you, O maidens gay.</l>
@@ -748,13 +746,13 @@ STEVENSON</head>
 </div> 
 
 <div id="sterling0003" type="poem" n="3">
-<pb n="18    THE RIVER BATHE"/>
+<pb n="18 THE RIVER BATHE"/>
 <head>THE RIVER BATHE</head>
 
 <lg type="stanza">
 <l>WHEN the messenger sunbeam over your bed</l>
 <l rend="inline">Silently creeps in the morn;</l>
-<l>And  the   dew-drops   glitter   on   flower  and tree,</l>
+<l>And the dew-drops glitter on flower and tree,</l>
 <l rend="inline">Like the tears of hope new-born;</l>
 <l>When the clouds race by In the painted sky</l>
 <l rend="inline">And the wind has a merry tune:</l>
@@ -763,7 +761,7 @@ STEVENSON</head>
 </lg>
 
 <lg type="stanza">
-<l>Up!   up from your bed!   Let the sluggards lie</l>
+<l>Up! up from your bed! Let the sluggards lie</l>
 <l rend="inline">In an airy palace of dreams,</l>
 <l>Respond to the joyous lapwing's call</l>
 <l rend="inline">And the song of the burbling streams!</l>
@@ -824,7 +822,7 @@ STEVENSON</head>
 <l rend="inline">And the palaces of kings!</l>
 </lg>
 
-<pb n="Hail    21"/>
+<pb n="Hail 21"/>
 
 <lg type="stanza">
 <l rend="inline">Ah! welcome the Word;</l>
@@ -869,13 +867,13 @@ STEVENSON</head>
 </div>
 
 <div id="sterling005" type="poem" n="5">
-<pb n="In Hendencasyllables    23"/>
+<pb n="In Hendencasyllables 23"/>
 
 <head>IN HENDECASYLLABLES<lb/>
 DYING LILIES</head>
 
 <lg type="stanza">
-<l>O  CHASTE queens of a fairy flow'ry kingdom,</l>
+<l>O CHASTE queens of a fairy flow'ry kingdom,</l>
 <l>Beauteous progeny of the kindly sunshine</l>
 <l>And soft show'rs, ever In my heart the fragrance</l>
 <l>From you stealing awakes a dreamy vision</l>
@@ -904,8 +902,8 @@ DYING LILIES</head>
 <l>Your souls, dying, appear to sigh the knowledge,</l>
 <l>Heav'n-born, forth to the hearts of all around you,</l>
 <l>Breathing sympathy, calmness, and achievement.</l>
-<l rend="inline">Queens, farewell!    In an age when 'all the laughter's</l>
-<l>With  pain fraught', when  a wrinkled, angry brow shows</l>
+<l rend="inline">Queens, farewell! In an age when 'all the laughter's</l>
+<l>With pain fraught', when a wrinkled, angry brow shows</l>
 <l>Discontent ev'rywhere among my fellows,</l>
 <l>Sure 'tis good to devote a fleeting half-hour,</l>
 <l>O'er you musing upon the joys eternal . . .</l>
@@ -927,14 +925,14 @@ DYING LILIES</head>
 <l rend="inline">While rush the streamlets, madly bickering?</l>
 <l>Fairer I ween is the dower of horn&#x00E8;d Winter;</l>
 <l rend="inline">Joy-shafts keener than arrows he can throw;</l>
-<l>Lovelier  his  tresses  than   all   the  wealth  of Summer:</l>
+<l>Lovelier his tresses than all the wealth of Summer:</l>
 <l rend="inline">Say, have you seen the treasures of the snow?</l>
 </lg>
 
 <lg type="stanza">
 <l>Silently and softly, tender and caressing,</l>
 <l rend="inline">(Soft as the down that lines the linnet's nest:</l>
-<l>Silent  as   the   Music that soothes the ear of Fancy:</l>
+<l>Silent as the Music that soothes the ear of Fancy:</l>
 <l rend="inline">Tender as the wind's love, sighing from the West!)</l>
 <l>Embodied smiles from the white sky falling,</l>
 <l rend="inline">Come the white flakes in airy revelry,</l>
@@ -942,11 +940,11 @@ DYING LILIES</head>
 <l rend="inline">One rare carpet of delight for me.</l>
 </lg>
 
-<pb n="26 The  Treasures of the Snow"/>
+<pb n="26 The Treasures of the Snow"/>
 
 <lg type="stanza">
 <l>Run, little burn, fast flying from your lover</l>
-<l rend="inline">Strong and  importunate to  make  you his own:</l>
+<l rend="inline">Strong and importunate to make you his own:</l>
 <l>Rapidly, oh rapidly, else he will detain you,</l>
 <l rend="inline">Grip you, and embrace you, and kiss you all to stone!</l>
 <l>Ah! fantastical glory 'mid the branches:</l>
@@ -956,13 +954,13 @@ DYING LILIES</head>
 </lg>
 
 <lg type="stanza">
-<l>So  sings  the  heart,  as we  glide  adown  the valleys,</l>
+<l>So sings the heart, as we glide adown the valleys,</l>
 <l rend="inline">Borrowing wings from the glittering below,</l>
 <l>Careless of all things, save the world around us,--</l>
 <l rend="inline">World of white palaces and kingdoms of the snow:</l>
-<l>Wanton, ye  gods.   In   the   cloudy   space   of Heaven!</l>
+<l>Wanton, ye gods. In the cloudy space of Heaven!</l>
 <l><hi rend="italic">We</hi> are as free, and we choir as free a song.</l>
-<l>Flying?--<hi rend="italic">We</hi> fly,   as   to   heights
+<l>Flying?--<hi rend="italic">We</hi> fly, as to heights
 unmeasur'd soaring:</l>
 <l rend="inline">This is no Earth, that is sweeping us along.</l>
 </lg>
@@ -1014,7 +1012,7 @@ unmeasur'd soaring:</l>
 <pb n="The Faery Birth 29"/>
 
 <lg type="stanza">
-<l>She went.  But lo! the fiery King,</l>
+<l>She went. But lo! the fiery King,</l>
 <l>Now <hi rend="italic">kindly smiling</hi> from above,</l>
 <l>Shone through the dust upon the thing</l>
 <l rend="inline">Bright burnish'd by the maiden's love:</l>
@@ -1032,7 +1030,7 @@ unmeasur'd soaring:</l>
 </div>
 
 <div id="sterling008" type="poem" n="8">
-<pb n="30   Gleams and Glimspes"/>
+<pb n="30 Gleams and Glimspes"/>
 
 <head>GLEAMS AND GLIMPSES</head>
 
@@ -1157,7 +1155,7 @@ unmeasur'd soaring:</l>
 <l>Far flung from out thy bosom, Sedbergh,</l>
 <l rend="inline">To the world from out thy bosom flung.</l></lg>
 
-<pb n="34  Vale"/>
+<pb n="34 Vale"/>
 
 <lg type="stanza">
 <l>O shrouded in the mystic Word,</l>
@@ -1175,22 +1173,19 @@ unmeasur'd soaring:</l>
 </div>
 </body>
 </text>
-</group>
 
-
-<group>
 <text>
 <front>
 <pb n="[35]"/>
 <titlePage id="sterling10000" type="half">
-     <docTitle>
-       <titlePart type="main"> POEMS<lb/>1913-1915</titlePart>
-     </docTitle>
-   </titlePage>  
+  <docTitle>
+    <titlePart type="main"> POEMS<lb/>1913-1915</titlePart>
+   </docTitle>
+  </titlePage> 
 
 <pb n="[36]"/>
-
 </front>
+
 <body>
 
 <pb n="To B.W. 37"/>
@@ -1202,7 +1197,7 @@ unmeasur'd soaring:</l>
 
 <lg type="stanza">
 <l>So, kind, unconquered spirit, fare you well.</l>
-<l rend="inline">Sedbergh   must  onward yet with  steadfast mind,</l>
+<l rend="inline">Sedbergh must onward yet with steadfast mind,</l>
 <l>(For such would be your wish)--nor must we tell</l>
 <l rend="inline">The world of sorrow that you leave behind.</l>
 <l>And yet we feel <hi rend="italic">Winder</hi> doth surely grieve</l>
@@ -1213,7 +1208,7 @@ unmeasur'd soaring:</l>
 </div>
 
 <div id="sterling010" type="poem" n="10">
-<pb n="[38   Oxford--First Vision]"/>
+<pb n="[38 Oxford--First Vision]"/>
 
 <head>OXFORD--FIRST VISION</head>
 
@@ -1226,7 +1221,7 @@ unmeasur'd soaring:</l>
 <l>Old tenderness, old passion, spent and dead,</l>
 <l>Had moulded her their stony monument:</l>
 <l rend="inline">While ghostly memory lent</l>
-<l>Treasure  of form and harmony to drape her head.</l>
+<l>Treasure of form and harmony to drape her head.</l>
 </lg>
 
 <lg type="stanza">
@@ -1278,7 +1273,7 @@ unmeasur'd soaring:</l>
 </div>
 
 <div id="sterling012" type="poem" n="12">
-<pb n="Oxford's Promise    41"/>
+<pb n="Oxford's Promise 41"/>
 
 <head>OXFORD'S DAWN</head>
 
@@ -1305,7 +1300,7 @@ unmeasur'd soaring:</l>
 <l>Came palely struggling, and to men return'd.</l>
 </lg>
 
-<pb n="42   Oxford''s Dawn"/>
+<pb n="42 Oxford''s Dawn"/>
 
 <lg type="stanza">
 <l>For some great souls with swords of true desire</l>
@@ -1314,9 +1309,9 @@ unmeasur'd soaring:</l>
 <l>And scatter'd to their fellows in the mire</l>
 <l>The shining fabric of their gather'd dreams.</l>
 <l>They grop'd to find the links that couple fast</l>
-<l>All things within the Universe.  They lit</l>
+<l>All things within the Universe. They lit</l>
 <l>The lamp of passionate Faith, and tended it</l>
-<l>'Mid scorn and strife.  They dipp'd the poet's pen</l>
+<l>'Mid scorn and strife. They dipp'd the poet's pen</l>
 <l>Into the rainbow, and in simile</l>
 <l>Join'd fair to fair. They search'd the mystery</l>
 <l>Of that old Eden long denied to men.</l>
@@ -1338,13 +1333,13 @@ unmeasur'd soaring:</l>
 </div>
 
 <div id="sterling013" type="poem" n="13">
-<pb n="Historic Oxford  43"/>
+<pb n="Historic Oxford 43"/>
 
 <head>HISTORIC OXFORD</head>
 
 <lg type="stanza">
 <l>AH! Time hath loaded thee with memories</l>
-<l>Processional.    What could these piles unfold</l>
+<l>Processional. What could these piles unfold</l>
 <l>Of war's lost travail, and the wearied cries</l>
 <l>Of vex&#x00E8;d warriors, struggling to hold</l>
 <l>Their hearth secure against proud Norman arms?</l>
@@ -1365,9 +1360,9 @@ unmeasur'd soaring:</l>
 <l>And the great multitudes that now remain</l>
 <l>But shadows flitting in dim pageantry</l>
 
-<pb n="44   Historic Oxford"/>
+<pb n="44 Historic Oxford"/>
 
-<l>Across the low-lit stage.  In life they saw</l>
+<l>Across the low-lit stage. In life they saw</l>
 <l>Service of toil and striving for thy gain:</l>
 <l>The Muse's pensioners in death they lie.</l>
 <l>They cherish'd thee through bitter strife and strain</l>
@@ -1393,7 +1388,7 @@ unmeasur'd soaring:</l>
 </div>
 
 <div id="sterling014" type="poem" n="14">
-<pb n="To Pembroke College    45"/>
+<pb n="To Pembroke College 45"/>
 
 <head>TO PEMBROKE COLLEGE</head>
 
@@ -1406,7 +1401,7 @@ unmeasur'd soaring:</l>
 <l>On spire and patient turret, conjuring</l>
 <l>Old glass to marl&#x00E8;d beauty with its kiss,</l>
 <l>And making blossom all the foison sown</l>
-<l>Through laps&#x00E8;d years.   I've felt the deeper bliss</l>
+<l>Through laps&#x00E8;d years. I've felt the deeper bliss</l>
 <l>Of eve calm-brooding o'er her lov&#x00E8;d care,</l>
 <l>And tingeing her one all-embosoming tone.</l>
 <l>And I have dream'd on thee, thou college fair.</l>
@@ -1421,7 +1416,7 @@ unmeasur'd soaring:</l>
 </div>
 
 <div id="sterling015" type="poem" n="15">
-<pb n="46   A SONNET"/>
+<pb n="46 A SONNET"/>
 
 <head>A SONNET</head>
 
@@ -1438,7 +1433,7 @@ unmeasur'd soaring:</l>
 <l>Adown the ages be thine anthem sung,</l>
 <l>Undying Truth's perennial rebirth--</l>
 <l>The burthen of the Old and ever Young:</l>
-<l>'For  me and  mine  new wealth from old is grown:</l>
+<l>'For me and mine new wealth from old is grown:</l>
 <l>And sure, who love me, shall be all my own!'</l>
 </lg>
 </div>
@@ -1468,7 +1463,7 @@ unmeasur'd soaring:</l>
 <l>Eager its ready wealth to glean:</l>
 <l rend="inline">And forg'd therefrom a cup of gold--</l>
 <l>Red hills, blue loch, and islands green--</l>
-<l rend="inline">(Rare alchemy!).  So could it hold</l>
+<l rend="inline">(Rare alchemy!). So could it hold</l>
 <l>That vintage of our joy, and I</l>
 <l>Drink deep the draught of memory.</l></lg>
 
@@ -1505,7 +1500,7 @@ unmeasur'd soaring:</l>
 </div>
 
 <div id="sterling017" type="poem" n="17">
-<pb n="Lines written in the trenches   49"/>
+<pb n="Lines written in the trenches 49"/>
 
 <head>LINES WRITTEN IN THE TRENCHES</head>
 
@@ -1517,7 +1512,7 @@ unmeasur'd soaring:</l>
 <head>I</head>
 
 <lg type="stanza">
-<l>AH!   Hate like this would freeze our human tears,</l>
+<l>AH! Hate like this would freeze our human tears,</l>
 <l rend="inline">And stab the morning star:</l>
 <l>Not it, not it commands and mourns and bears</l>
 <l>The storm and bitter glory of red war.</l></lg>
@@ -1551,17 +1546,15 @@ unmeasur'd soaring:</l>
 
 </body>
 </text>
-</group>
 
-<group>
 <text>
 <front>
 
 <titlePage id="sterling1009" type="half">
-     <docTitle>
-       <titlePart type="main">MARAN</titlePart>
-     </docTitle>
-   </titlePage>
+    <docTitle>
+      <titlePart type="main">MARAN</titlePart>
+    </docTitle>
+ </titlePage>
 
 <pb n="53"/>
 <pb n="54"/>
@@ -1572,7 +1565,6 @@ unmeasur'd soaring:</l>
 </front>
 
 <body>
-
 <div id="sterling0017" type="editor's note">
 <pb n="58"/>
 <p>The fragment <hi rend="italic">Maran</hi> is valuable, not for its theme or language (which are both in parts immature, uncertain, and childish), but for its rhythm, which reveals a new music, and properly handled might afford a contribution to literature and the melody of the world.</p>
@@ -1636,10 +1628,10 @@ unmeasur'd soaring:</l>
 <l rend="inline">Crime-covering, he had slain them.</l>
 </lg>
 
-<pb n="56  Maran"/>
+<pb n="56 Maran"/>
 
 <lg type="stanza">
-<l>When the sun had sped to the  ever-hungry shadows,</l>
+<l>When the sun had sped to the ever-hungry shadows,</l>
 <l rend="inline">Lone in the land, friendless,</l>
 <l>Left of the house of Landa now but lived</l>
 <l rend="inline">Maran the maid gentle.</l>
@@ -1673,7 +1665,7 @@ unmeasur'd soaring:</l>
 <l rend="inline">Yet all careless of her cruel woe.</l>
 </lg>
 
-<pb n="Maran  57"/>
+<pb n="Maran 57"/>
 
 <lg type="stanza">
 <l>Pity she pleaded from yon pale maiden:</l>
@@ -1697,7 +1689,7 @@ unmeasur'd soaring:</l>
 </lg>
 
 <lg type="stanza">
-<l>Yet sweetest of all  the Spring are his scarce tresses,</l>
+<l>Yet sweetest of all the Spring are his scarce tresses,</l>
 <l rend="inline">Smiling amid Death strangely;</l>
 <l>And the woodman is weeping, of his work penitent,</l>
 <l rend="inline">Sorrowing o'er Might murder'd;</l>
@@ -1713,7 +1705,7 @@ unmeasur'd soaring:</l>
 <lg type="stanza">
 <l>Then flames he brightest with a flare of fury,</l>
 <l rend="inline">Rushing to dark ruin;</l>
-<l>And silent in  their  spheres  are  the sons of morning</l>
+<l>And silent in their spheres are the sons of morning</l>
 <l rend="inline">Dimm'd by their dead brother:</l>
 </lg>
 
@@ -1737,7 +1729,7 @@ unmeasur'd soaring:</l>
 <l rend="inline">Curst that behold this hell!</l>
 </lg>
 
-<pb n="Maran  59"/>
+<pb n="Maran 59"/>
 
 <lg type="stanza">
 <l>(O ye fields fair with corn and fruits,</l>
@@ -1800,7 +1792,7 @@ unmeasur'd soaring:</l>
 <lg type="stanza">
 <l>But sudden the wind song-sighing</l>
 <l rend="inline">Hush'd amid the high branches;</l>
-<l>And  the  leaves  murmur'd  with  a  mournful mystery,</l>
+<l>And the leaves murmur'd with a mournful mystery,</l>
 <l rend="inline">Silenc'd after wild sobbing.</l>
 </lg>
 
@@ -1814,7 +1806,7 @@ unmeasur'd soaring:</l>
 </lg>
 
 <lg type="stanza">
-<l>And  the  maiden  moon,  unshrouded  for the moment,</l>
+<l>And the maiden moon, unshrouded for the moment,</l>
 <l rend="inline">In her grief gazed awfully,</l>
 <l>As if innocence should utter a doom of the ages,</l>
 <l rend="inline">Or a child pale prophecy.</l>
@@ -1833,7 +1825,7 @@ unmeasur'd soaring:</l>
 <l rend="inline">Swoops on the nerveless night,</l>
 </lg>
 
-<pb n="62   Maran"/>
+<pb n="62 Maran"/>
 
 <lg type="stanza">
 <l>Then the shepherds, in lonely silence sitting,</l>
@@ -1859,7 +1851,7 @@ unmeasur'd soaring:</l>
 <lg type="stanza">
 <l>But silent they stood round the king-slayer,</l>
 <l rend="inline">And they felt his fear in their hearts:</l>
-<l>And  waiting they watch'd for the untellable wonder</l>
+<l>And waiting they watch'd for the untellable wonder</l>
 <l rend="inline">That was coming, coming to pass.</l>
 </lg>
 
@@ -1870,7 +1862,7 @@ unmeasur'd soaring:</l>
 <l rend="inline">Seeing and dim seen.</l>
 </lg>
 
-<pb n="Maran   63"/>
+<pb n="Maran 63"/>
 
 <lg type="stanza">
 <l>Oh, agony beyond utterance, and stain&#x00E8;d horror!</l>
@@ -1907,7 +1899,7 @@ unmeasur'd soaring:</l>
 <l rend="inline">Like swollen ocean, shook.</l>
 </lg>
 
-<pb n="64   Maran"/>
+<pb n="64 Maran"/>
 
 <lg type="stanza">
 <l>Then flash'd her phantoms, tongues of fire,</l>
@@ -1944,7 +1936,7 @@ unmeasur'd soaring:</l>
 <l rend="inline">It felt and lov'd before.</l>
 </lg>
 
-<pb n="Maran    65"/>
+<pb n="Maran 65"/>
 
 <lg type="stanza">
 <l>Then wail'd the wind in bereavement wasted,</l>

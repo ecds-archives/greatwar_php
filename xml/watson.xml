@@ -167,11 +167,10 @@ editors of which are here thanked for permission to reprint them, not a few have
 <byline>W. W.</byline>
 
 </div>
+</front>
 
-
-
-
-<pb n=""/>
+<body>
+<pb n="[16]"/>
 
 <pb n="17"/>
 
@@ -201,8 +200,7 @@ editors of which are here thanked for permission to reprint them, not a few have
 <l>Aching estrangement--fortune one day brought</l>
 <l>A youth whose very brow was a command.</l>
 
-
-<pb n="18           THE  MAN  WHO  SAW"/>
+<pb n="18 THE  MAN  WHO  SAW"/>
 
 <l>His name of Merlin had not clambered then</l>
 <l>To fearsome greatness, like a dusky star ;</l>
@@ -221,7 +219,8 @@ editors of which are here thanked for permission to reprint them, not a few have
 <l>Palsied those ramparts as they yearned to rise :</l>
 <l>Blind dragon shapes, of blindest darkness born,</l>
 <l>That save in darkness could not live an hour,</l>
-<l>And, touched by Light, made their dull moan, and died.</l></lg>
+<l>And, touched by Light, made their dull moan, and died.</l>
+</lg>
 
 <lg type="stanza">
 <l rend="inline">Such is the tale, which one, who chronicled</l>
@@ -251,7 +250,8 @@ editors of which are here thanked for permission to reprint them, not a few have
 <l>Till, like himself, they are hungry for the goal;</l>
 <l>A man with something of the cragginess</l>
 <l>Of his own mountains, something of the force</l>
-<l>That goads to their loud leap the mountain streams.</l></lg>
+<l>That goads to their loud leap the mountain streams.</l>
+</lg>
 
 <lg type="stanza">
 <l rend="inline">And he too comes to bid the builders probe</l>
@@ -264,8 +264,7 @@ editors of which are here thanked for permission to reprint them, not a few have
 <l>Were to build woe and ruin, and 'stablishes</l>
 
 
-
-<pb n="20               THE  MAN  WHO  SAW"/>
+<pb n="20 THE  MAN  WHO  SAW"/>
 
 <l>A mightier tower, bastioned so broad and firm,</l>
 <l>In life, in manhood, and in womanhood,</l>
@@ -294,7 +293,7 @@ editors of which are here thanked for permission to reprint them, not a few have
 <l>Crowning his deed with not less homage, here</l>
 <l>On English ground, than yonder whence he rose:</l>
 
-<pb n="THE MAN WHO  SAW                21"/>
+<pb n="THE MAN WHO  SAW 21"/>
 
 <l>Yonder where crash the cataracts through the chasms,</l>
 <l>And unto the dark tempests the dark hills</l>
@@ -330,7 +329,6 @@ editors of which are here thanked for permission to reprint them, not a few have
 </lg>
 </div>
 
-
 <pb n="26  TO THE UNITED STATES"/>
 
 <div id="watson003" type="poem" n="3">
@@ -353,12 +351,11 @@ editors of which are here thanked for permission to reprint them, not a few have
 </lg>
 </div>
 
-
-<pb n="TO THE GERMAN EMPEROR  27"/>
+<pb n="TO THE GERMAN EMPEROR 27"/>
 
 <div id="watson004" type="poem" n="4">
 
-<head>TO THE  GERMAN EMPEROR,<lb/>
+<head>TO THE GERMAN EMPEROR,<lb/>
 <hi rend="italic">after the sack of Louvain</hi></head>
 
 <lg type="stanza">
@@ -379,10 +376,7 @@ editors of which are here thanked for permission to reprint them, not a few have
 </lg>
 </div>
 
-
-
 <pb n="28  TERMONDE"/>
-
 
 <div id="watson005" type="poem" n="5">
 <head>TERMONDE</head>
@@ -404,7 +398,6 @@ editors of which are here thanked for permission to reprint them, not a few have
 <l>Motherhood, scatheless, lived divinely on.</l>
 </lg>
 </div>
-
 
 <pb n="BELGIUM   29"/>
 
@@ -430,8 +423,7 @@ editors of which are here thanked for permission to reprint them, not a few have
 </lg>
 </div>
 
-
-<pb n="30    TO KING ALBERT"/>
+<pb n="30 TO KING ALBERT"/>
 
 <div id="watson007" type="poem" n="7">
 <head>TO KING ALBERT</head>
@@ -454,8 +446,7 @@ editors of which are here thanked for permission to reprint them, not a few have
 </lg>
 </div>
 
-
-<pb n="TRANQUIL   LIBERTY  31"/>
+<pb n="TRANQUIL LIBERTY  31"/>
 
 <div id="watson008" type="poem" n="8">
 <head>TRANQUIL LIBERTY</head>
@@ -479,7 +470,6 @@ editors of which are here thanked for permission to reprint them, not a few have
 
 <note place="foot" id="watson31" n="1"> First   published, Oct. 23, 1914, in the <hi rend="italic">Westminster Gazette</hi>.</note>
 </div>
-
 
 <pb n="32  THE GIFTS OF HINDUSTAN"/>
 
@@ -526,7 +516,6 @@ editors of which are here thanked for permission to reprint them, not a few have
 </lg>
 </div>
 
-
 <pb n="34  TO AMERICA CONCERNING ENGLAND"/>
 
 <div id="watson011" type="poem" n="11">
@@ -548,7 +537,8 @@ ENGLAND</head>
 <l>Watch with a stranger's gaze ?    So be it, then !</l>
 <l>Thy loss is more than hers; for, bruised and torn,</l>
 <l>She shall yet live without thine aid, and thou</l>
-<l>Without the crown divine thou might'st have worn.</l></lg>
+<l>Without the crown divine thou might'st have worn.</l>
+</lg>
 </div>
 
 
@@ -628,7 +618,7 @@ ENGLAND</head>
 
 <lg type="stanza">
 <l>GREAT Perseus babbled not of peace, while free</l>
-<l rend="inline">To rend were still the Gorgon's talons.  Nor</l>
+<l rend="inline">To rend were still the Gorgon's talons. Nor</l>
 <l>Did wrathful Theseus, while the Minotaur</l>
 <l>Took his red toll of white virginity,</l>
 <l>Crave mediation. Glaucus' son, when he</l>
@@ -643,8 +633,6 @@ ENGLAND</head>
 <l>The dragon's teeth out of the dragon's jaws.</l>
 </lg>
 </div>
-
-
 
 <pb n="CONDOLENCE    39"/>
 
@@ -668,7 +656,6 @@ ENGLAND</head>
 <l>From the same mighty breast that nursed Beethoven.</l>
 </lg>
 </div>
-
 
 <pb n="40  DAS VOLK"/>
 
@@ -713,11 +700,11 @@ ENGLAND</head>
 <l>No nightingale's incomparable pain,</l>
 <l>Goldenly stormed the silence; but there sat</l>
 <l>Nietzsche the loveless, like a vampire bat,</l>
-<l>Malign on the broad breast of Allemaine.</l></lg>
+<l>Malign on the broad breast of Allemaine.</l>
+</lg>
 </div>
 
 <pb n="42  TO SIR JAMES"/>
-
 
 <div id="watson019" type="poem" n="19">
 <head>TO<lb/>
@@ -741,9 +728,7 @@ SIR JAMES  CRICHTON-BROWNE</head>
 </lg>
 </div>
 
-
 <pb n="TO ONE FROM BEYOND  43"/>
-
 
 <div id="watson020" type="poem" n="20">
 <head>TO ONE FROM BEYOND HUMBER</head>
@@ -768,7 +753,6 @@ SIR JAMES  CRICHTON-BROWNE</head>
 
 
 <pb n="44  TO A SON OF WALES"/>
-
 
 <div id="watson021" type="poem" n="21">
 <head>TO  A SON  OF  WALES<lb/>
@@ -813,9 +797,8 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <l>But their whole wealth of valour, zeal, and power,</l>
 <l>Needing it all, and needing it each hour,</l>
 <l>Till her vast adversary in dust be laid.</l>
-</lg></div>
-
-
+</lg>
+</div>
 
 <pb n="46  TO THE RIGHT HON."/>
 
@@ -837,7 +820,8 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <l>From midnight till the laggard dawn began,</l>
 <l>Cried ceaseless, " Give us shells--more shells," and so</l>
 <l>Saved England; saved her not less truly than</l>
-<l>Her hero of heroes saved her long ago.</l></lg>
+<l>Her hero of heroes saved her long ago.</l>
+</lg>
 
 <note place="foot" id="wat23" n="1">Friends have asked the author not to re-publish this sonnet. He does so because he believes it to be the truth.</note>
 
@@ -865,12 +849,9 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <l>And hubbub of the gutter round a bone.</l>
 </div>
 
-
-
 <pb n="48   AMERICA ONCE MORE"/>
 
 <div id="watson025" type="poem" n="25">
-
 <head>AMERICA ONCE MORE</head>
 
 <l>THIS, this is the America that we knew!</l>
@@ -889,20 +870,13 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <l>And their vast agony without anodyne.</l>
 </div>
 
-
-
 <pb n=""/>
 
-
-
+<div id="watson0026">
 <l>OTHER POEMS</l>
 
-
-
 <pb n=""/>
-
 <pb n=""/>
-
 
 <div id="watson026" type="poem" n="26">
 <head>CROSSING THE RUBICON</head>
@@ -916,7 +890,6 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <l>While he befouls them in the dust.</l>
 </lg>
 
-
 <lg type="stanza">
 <l>When, to yon towers of hoary fame</l>
 <l rend="inline">That Windsor lifts against the sky,</l>
@@ -925,7 +898,6 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <l>Yet there he sat, as now we know,</l>
 <l>That basest thing, a guest and foe.</l>
 </lg>
-
 
 <lg type="stanza">
 <l>France was a gallant foe and fair,</l>
@@ -936,7 +908,7 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <l>At last she gives us noble love.</l>
 </lg>
 
-<pb n="52            CROSSING THE  RUBICON"/>
+<pb n="52 CROSSING THE RUBICON"/>
 
 <lg type="stanza">
 <l>But he that took our proffered hand,</l>
@@ -972,8 +944,7 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <l>You have not poured your sons in vain.</l>
 </lg>
 
-
-<pb n="CROSSING THE RUBICON            53"/>
+<pb n="CROSSING THE RUBICON 53"/>
 
 <lg type="stanza">
 <l>Nor idly here, in this rough North,</l>
@@ -990,7 +961,8 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <l>And slow, being kindled, to abate</l>
 <l rend="inline">The blast and volley of her ire,--</l>
 <l>With grey brows catching from afar</l>
-<l>The red flare of the torch of war,--</l></lg>
+<l>The red flare of the torch of war,--</l>
+</lg>
 
 <lg type="stanza">
 <l>Reluctant to the last, she throws</l>
@@ -1002,7 +974,7 @@ SIR JAMES  CRICHTON-BROWNE</head>
 </lg>
 </div>
 
-<pb n="54   LI&#x00C8;GE"/>
+<pb n="54 LI&#x00C8;GE"/>
 
 <div id="watson027" type="poem" n="27">
 
@@ -1015,7 +987,7 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <l rend="inline">Drew nigh.</l>
 <l>He dreamed that none his tide would stay;</l>
 <l>But when he bade her to make way,</l>
-<l>She, through her cannon, answered, " Nay,</l>
+<l>She, through her cannon, answered, "Nay,</l>
 <l>Not I!"</l></lg>
 
 <lg type="stanza">
@@ -1035,33 +1007,34 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <l>Resplendent was the part she played,</l>
 <l rend="inline">And pure.</l>
 
-
-<pb n="LI&#x00C8;GE                        55"/>
+<pb n="LI&#x00C8;GE 55"/>
 
 <l>Praised be her heroes, proud her sons !</l>
 <l>She threw her soul into the guns.</l>
 <l>Her name shall, with the loveliest ones,</l>
-<l rend="inline">Endure.</l></lg>
+<l rend="inline">Endure.</l>
+</lg>
 </div>
 
 
 <pb n="56   THE HARVEST MOON"/>
 
 <div id="watson028" type="poem" n="28">
-
 <head>THE HARVEST MOON</head>
 
 <lg type="stanza">
 <l>WITH swords agleam and guns aflame--</l>
 <l rend="inline">In troop and squadron and platoon--</l>
 <l>At harvest-home the Reapers came,</l>
-<l rend="inline">Under the waning harvest moon.</l></lg>
+<l rend="inline">Under the waning harvest moon.</l>
+</lg>
 
 <lg type="stanza">
 <l>Their sickle neither paused at Dark,</l>
 <l rend="inline">Nor idled in the fervent noon :</l>
 <l>Their sheaves lay livid, cold, and stark,</l>
-<l rend="inline">Under the dwindling harvest moon.</l></lg>
+<l rend="inline">Under the dwindling harvest moon.</l>
+</lg>
 
 <lg type="stanza">
 <l>Benignly, without stint or dearth,</l>
@@ -1075,11 +1048,10 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <l rend="inline">Her deadlier secrets bared too soon--</l>
 <l>Poured, from new phials, old Death and Hell,</l>
 <l rend="inline">Under the dying harvest moon.</l>
-</lg></div>
+</lg>
+</div>
 
-
-
-<pb n="THE SOUL OF ROUGET DE LISLE   57"/>
+<pb n="THE SOUL OF ROUGET DE LISLE 57"/>
 
 <div id="watson029" type="poem" n="29">
 
@@ -1091,7 +1063,8 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <l>THEIR arms shall conquer--to victory led</l>
 <l rend="inline">By a voice like a trumpet's peal;</l>
 <l>For a great Ghost marches at their head--</l>
-<l rend="inline">The Soul of Rouget de Lisle.</l></lg>
+<l rend="inline">The Soul of Rouget de Lisle.</l>
+</lg>
 
 <lg type="stanza">
 <l>He gave them the Song that cannot die</l>
@@ -1104,7 +1077,8 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <l>Not for the first time--not for the last--</l>
 <l rend="inline">Does an enemy waver and reel</l>
 <l>Before the eternal clarion blast</l>
-<l rend="inline">From the Soul of Rouget de Lisle.</l></lg>
+<l rend="inline">From the Soul of Rouget de Lisle.</l>
+</lg>
 
 <lg type="stanza">
 <l>For this is the Song shall break the power</l>
@@ -1113,20 +1087,19 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <l rend="inline">In the Soul of Rouget de Lisle.</l>
 </lg>
 
-<pb n="58   THE SOUL OF ROUGET DE LISLE"/>
+<pb n="58 THE SOUL OF ROUGET DE LISLE"/>
 
 <lg type="stanza">
 <l>And its music fires the booming gun</l>
 <l rend="inline">And edges the gleaming steel,</l>
 <l>For the Soul of France herself is one</l>
 <l rend="inline">With the Soul of Rouget de Lisle.</l>
-</lg></div>
-
+</lg>
+</div>
 
 <pb n="THE BATTLE OF THE BIGHT"/>
 
 <div id="watson030" type="poem" n="30">
-
 <head>THE  BATTLE OF THE  BIGHT</head>
 
 <lg type="stanza">
@@ -1137,7 +1110,8 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <l>Great Grenville would I wake,</l>
 <l>And with glad tidings make</l>
 <l>The soul of mighty Drake</l>
-<l rend="inline">Upheave a glorying head.</l></lg>
+<l rend="inline">Upheave a glorying head.</l>
+</lg>
 
 <lg type="stanza">
 <l>As rose the misty sun,</l>
@@ -1147,7 +1121,8 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <l>Eager, with thunderous throat,</l>
 <l>To sound, for all afloat,</l>
 <l>The world-awakening note</l>
-<l rend="inline">The world can understand.</l></lg>
+<l rend="inline">The world can understand.</l>
+</lg>
 
 <lg type="stanza">
 <l>For ev'n as birds of night,</l>
@@ -1155,13 +1130,13 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <l>Do sometimes brave the light,</l>
 <l rend="inline">Like bolder, nobler fowl,</l>
 
-
-<pb n="60       THE  BATTLE  OF THE  BIGHT"/>
+<pb n="60 THE  BATTLE  OF THE  BIGHT"/>
 
 <l>So did the foe that day</l>
 <l>Come venturing forth for prey,</l>
 <l>Where, on the ocean way,</l>
-<l rend="inline">Our ocean watchdogs prowl.</l></lg>
+<l rend="inline">Our ocean watchdogs prowl.</l>
+</lg>
 
 <lg type="stanza">
 <l>But brief and plain, 'mid men</l>
@@ -1186,11 +1161,9 @@ SIR JAMES  CRICHTON-BROWNE</head>
 </lg>
 </div>
 
-
-<pb n="VERITAS VICTRIX   61"/>
+<pb n="VERITAS VICTRIX 61"/>
 
 <div id="watson031" type="poem" n="31">
-
 <head>VERITAS VICTRIX</head>
 
 <lg type="stanza">
@@ -1211,11 +1184,9 @@ SIR JAMES  CRICHTON-BROWNE</head>
 </lg>
 </div>
 
-
-<pb n="62  THE CHARGE OF THE 9TH LANCERS"/>
+<pb n="62 THE CHARGE OF THE 9TH LANCERS"/>
 
 <div id="watson032" type="poem" n="32">
-
 <head>THE CHARGE OF THE<lb/>
 9TH LANCERS</head>
 
@@ -1235,13 +1206,13 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <l>That deafened the earth and darkened the heaven.</l>
 <l>Then their dauntless remnant came</l>
 <l>Out of the hurricane, out of the flame,</l>
-<l>Covered with smoke and dust and fame.</l></lg>
+<l>Covered with smoke and dust and fame.</l>
+</lg>
 
 <lg type="stanza">
 <l>Shout, you shires, with a chorus sent</l>
 <l>Ringing from Caithness right to Kent,</l>
 <l>From far Northumberland down past Devon!</l>
-
 
 <pb n="THE CHARGE OF THE 9TH LANCERS   63"/>
 
@@ -1256,8 +1227,7 @@ SIR JAMES  CRICHTON-BROWNE</head>
 
 <pb n="64  RHEIMS"/>
 
-<div id="watson032" type="poem" n="32">
-
+<div id="watson0032" type="poem" n="32">
 <head>RHEIMS</head>
 
 <lg type="stanza">
@@ -1272,14 +1242,14 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <pb n="THE FIGHTING FIVE"/>
 
 <div id="watson033" type="poem" n="33">
-
 <head>THE FIGHTING FIVE</head>
 
 <lg type="stanza">
 <l>WHERE the waves are as chargers that curvet and prance,</l>
 <l>And toss their white manes in retreat or advance,</l>
 <l>The Lennox, the Legion, the Loyal, the Lance,</l>
-<l rend="inline">Went forth with the cruiser Undaunted.</l></lg>
+<l rend="inline">Went forth with the cruiser Undaunted.</l>
+</lg>
 
 <lg type="stanza">
 <l>The foe, he was brave--let us give him his dues;</l>
@@ -1292,7 +1262,8 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <l>But they who are brave in a cause that is ill</l>
 <l>Have Heav'n for a foe that o'ermatches them still,</l>
 <l>And vainly they lavish their valour and skill,</l>
-<l rend="inline">And idly their prowess is vaunted.</l></lg>
+<l rend="inline">And idly their prowess is vaunted.</l>
+</lg>
 
 <lg type="stanza">
 <l>Their squadron, it opened like hosts that deploy,</l>
@@ -1301,26 +1272,24 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <l rend="inline">And we humbled the flag that they flaunted.</l>
 </lg>
 
-
-
-<pb n="66            THE FIGHTING FIVE"/>
+<pb n="66 THE FIGHTING FIVE"/>
 
 <lg type="stanza">
 <l>Then, back as from pastime, returned without boasts</l>
 <l>Our wonderful tars to our worshipping coasts,</l>
 <l>O'er the sea that, from age unto age, by the ghosts</l>
-<l rend="inline">Of our fathers the Sea-Kings is haunted.</l></lg>
+<l rend="inline">Of our fathers the Sea-Kings is haunted.</l>
+</lg>
 </div>
 
-
-<pb n="A PLACE IN THE SUN    67"/>
-
+<pb n="A PLACE IN THE SUN 67"/>
 
 <div id="watson034" type="poem" n="34">
+<head>"A PLACE IN THE SUN"</head>
 
-<head>"A  PLACE  IN  THE  SUN"</head>
-
-<p>[<hi rend="italic">Mr. Frederic Harrison has made the suggestion that Devil's Island would be an appropriate residence for the German Emperor after the war</hi>.]</p>
+<p>[<hi rend="italic">Mr. Frederic Harrison has made the suggestion
+that Devil's Island would be an appropriate residence for the German
+Emperor after the war</hi>.]</p>
 
 <lg type="stanza">
 <l>YES, there, if he ever be captured,</l>
@@ -1348,27 +1317,28 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <pb n="68  THE FIELDS OF THE FUTURE"/>
 
 <div id="watson035" type="poem" n="35">
-
 <head>THE  FIELDS  OF  THE  FUTURE</head>
 
 <lg type="stanza">
 <l>'THOUGH gone the ancient gear of War--though men</l>
 <l>Fight  not   with   axe,  and   mace,  and   clanging targe--</l>
 <l>Still does the ancient war-rage goad them, when</l>
-<l rend="inline">The bugles sound a charge.</l></lg>
+<l rend="inline">The bugles sound a charge.</l>
+</lg>
 
 <lg type="stanza">
 <l>To that primæval passion may we yet</l>
 <l rend="inline">Give ampler range, in fields of vaster marge !</l>
 <l>'Gainst War itself, when <hi rend="italic">this</hi> war passes, let</l>
-<l rend="inline">Our bugles sound a charge.</l></lg>
+<l rend="inline">Our bugles sound a charge.</l>
+</lg>
 </div>
 
-<pb n="WHO WAS THE AGGRESSOR?   69"/>
+<pb n="WHO WAS THE AGGRESSOR? 69"/>
 
 <div id="watson036" type="poem" n="36">
 
-<head>WHO  WAS  THE AGGRESSOR?</head>
+<head>WHO WAS THE AGGRESSOR?</head>
 
 <lg type="stanza">
 <l>IF two men fell to fighting, of whom one</l>
@@ -1378,27 +1348,27 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <l>With casque and corselet, lance and whetted glaive,</l>
 <l>By which of these would all but fool or knave</l>
 <l>Adjudge the combat to have been begun ?</l>
-</lg></div>
-
-
+</lg>
+</div>
 
 <pb n="70   A FALSE PROPHET"/>
 
 <div id="watson037" type="poem" n="37">
-
 <head>A FALSE PROPHET</head>
 
 <lg type="stanza">
 <l>HE grudged the gold that sparingly we spent</l>
 <l rend="inline"> To keep this citadel of freedom free.</l>
 <l>He bade us heed not arms and armament,</l>
-<l rend="inline">But go unpanoplied on land and sea.</l></lg>
+<l rend="inline">But go unpanoplied on land and sea.</l>
+</lg>
 
 <lg type="stanza">
 <l>Each week, a dismal joy to fools and blind,</l>
 <l rend="inline">His ink-streams gushed, and with dull violence flowed.</l>
 <l>And he knew all things--Wisdom in his mind</l>
-<l rend="inline">Building notoriously her sole abode.</l></lg>
+<l rend="inline">Building notoriously her sole abode.</l>
+</lg>
 
 <lg type="stanza">
 <l>Ah well, his day departs!  He is swept aside,</l>
@@ -1436,7 +1406,6 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <l>The spawning mother of nameless things,</l>
 <l>Rode forth in a chariot drawn by Kings,</l>
 
-
 <pb n="72               DESOLATION"/>
 
 <l>And herself by Kings was hailed a Queen.</l>
@@ -1462,15 +1431,13 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <l>She came to stretch all life on the rack,</l>
 <l>And hath she a peer or a fellow? Nay!</l>
 <l>The jungle's ambushed mouths of prey,</l>
-<l>Beside <hi rend="italic">her</hi> savagery, what are they ?</l>
+<l>Beside <hi rend="italic">her</hi> savagery, what are they?</l>
 <l>Ounce and pard and panther lack</l>
 <l>The ensanguined lust that reddens her way.</l>
 <l>Their fury stops where the breakers play,</l>
 <l>But hers neither land nor sea can stay,</l>
 
-
-
-<pb n="DESOLATION          73"/>
+<pb n="DESOLATION 73"/>
 
 <l>And at deaths of lovers 'mid ocean-wrack</l>
 <l>Her soul makes merry, her heart is gay.</l>
@@ -1486,17 +1453,17 @@ SIR JAMES  CRICHTON-BROWNE</head>
 </lg>
 </div>
 
-<pb n="74  THE HALF-MAN"/>
+<pb n="74 THE HALF-MAN"/>
 
 <div id="watson039" type="poem" n="39">
-
-<head>THE  HALF-MAN</head>
+<head>THE HALF-MAN</head>
 
 <lg type="stanza">
 <l>SPARING not age, sparing not youth,</l>
 <l rend="inline">They tore their way with wolfish tooth</l>
 <l>Through human homes, through human hopes</l>
-<l>Not men, not men, but lycanthropes !</l></lg>
+<l>Not men, not men, but lycanthropes!</l>
+</lg>
 
 <lg type="stanza">
 <l>Thus do the fabled monsters rear</l>
@@ -1507,16 +1474,15 @@ SIR JAMES  CRICHTON-BROWNE</head>
 </div>
 
 
-<pb n="KULTUR:  A  DIALOGUE   75"/>
+<pb n="KULTUR: A DIALOGUE 75"/>
 
 <div id="watson040" type="poem" n="40">
+<head>KULTUR: A DIALOGUE</head>
 
-<head>KULTUR:   A DIALOGUE</head>
-***********************************
-<l>Staff Officer.</l>
+<l><hi rend="italic">Staff Officer</hi>.</l>
 <l>Highness, yon babe his popgun fired.</l>
 
-<l>Crown Prince.</l>
+<l><hi rend="italic">Crown Prince</hi>.</l>
 <l>No further pretext is required,</l>
 <l>On, my brave Guards, and in God's name</l>
 <l>Give old and young to sword and flame.</l>
@@ -1525,7 +1491,6 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <pb n="76  AN  EARNEST PETITION"/>
 
 <div id="watson041" type="poem" n="41">
-
 <head> AN EARNEST PETITION</head>
 
 <lg type="stanza">
@@ -1553,7 +1518,8 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <l>WHEN that most false evangel ever yet</l>
 <l rend="inline">Proclaimed with soulless voice from shore to shore--</l>
 <l>The gospel of Blood and Iron--shall have met</l>
-<l rend="inline">Its doom, and be no more;</l></lg>
+<l rend="inline">Its doom, and be no more;</l>
+</lg>
 
 <lg type="stanza">
 <l>This woman's Iron courage shall resound</l>
@@ -1573,14 +1539,16 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <l rend="inline">What was he babbling as summer drew near ?</l>
 <l>What were the bell-ringers goldenly ringing for?</l>
 <l>What was the heart of all maidenhood singing for ?</l>
-<l rend="inline">Love, love, love, at the gush of the year.</l></lg>
+<l rend="inline">Love, love, love, at the gush of the year.</l>
+</lg>
 
 <lg type="stanza">
 <l>What was the arm of the warrior smiting for ?</l>
 <l rend="inline">What could it be that he held it so dear ?</l>
 <l>What were the far-parted nations uniting for ?</l>
 <l>What were the thrones and the satrapies fighting for ?</l>
-<l rend="inline">Life, life, life, through the surge of the year.</l></lg>
+<l rend="inline">Life, life, life, through the surge of the year.</l>
+</lg>
 
 <lg type="stanza">
 <l>What are the bride's and the mother's eyes welling for,</l>
@@ -1600,23 +1568,22 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <pb n="THE STARVED LION    79"/>
 
 <div id="watson044" type="poem" n="44">
-
 <head>THE  STARVED LION</head>
 
 <lg type="stanza">
 <l>WHEREFORE with barking mouths abuse</l>
 <l rend="inline">The hands that dole our " doctored " news ?</l>
 <l>Is it not time there rose once more</l>
-<l>That nobler sound—the lion's roar ?</l>
+<l>That nobler sound—the lion's roar?</l>
 </lg>
 
 <lg type="stanza">
 <l>England, thou art a lion yet!</l>
 <l>What meals are these before thee set ?</l>
 <l>Stale morsels--no fit fare for thee--</l>
-<l>And cooked besides !  Oh, canst thou be</l>
+<l>And cooked besides!  Oh, canst thou be</l>
 <l>Content to famish--late and soon</l>
-<l>Fed like an infant with a spoon ?</l>
+<l>Fed like an infant with a spoon?</l>
 </lg>
 
 <lg type="stanza">
@@ -1629,10 +1596,7 @@ SIR JAMES  CRICHTON-BROWNE</head>
 </lg>
 </div>
 
-
-
-
-<pb n="80   Duty"/>
+<pb n="80 Duty"/>
 
 <div id="watson045" type="poem" n="45">
 
@@ -1646,32 +1610,30 @@ SIR JAMES  CRICHTON-BROWNE</head>
 </lg>
 </div>
 
-
-
-
 <pb n="DUTY   81"/>
 
 <div id="watson046" type="poem" n="46">
-
 <head>CERES AND  BELLONA</head>
 
 <lg type="stanza">
 <l>THE cornfield to the battlefield</l>
 <l rend="inline">Said, " Lo, my fruits, how fair!</l>
 <l>Pain, and pain only, thou dost yield:</l>
-<l rend="inline">Peace--only peace--I bear."</l></lg>
+<l rend="inline">Peace--only peace--I bear."</l>
+</lg>
 
 <lg type="stanza">
 <l>" False," said the battlefield, " thy claim !</l>
 <l rend="inline">For when War's bolts fly free,</l>
 <l>The warrior's thew, the warrior's frame,</l>
-<l rend="inline">Whence are they but from thee ?</l></lg>
+<l rend="inline">Whence are they but from thee ?</l>
+</lg>
 
 <lg type="stanza">
 <l>"Thou art the thrust of steel right home,</l>
 <l rend="inline">Thou art the cannon's blast,</l>
 <l>The fangs of hell and all their foam !</l>
-<l rend="inline">Yea, know thyself at last! "</l>
+<l rend="inline">Yea, know thyself at last!"</l>
 </lg>
 
 <lg type="stanza">
@@ -1682,15 +1644,14 @@ SIR JAMES  CRICHTON-BROWNE</head>
 </lg>
 </div>
 
-
 <pb n="82   THE YELLOW PANSY"/>
 
 <div id="watson047" type="poem" n="47">
-
 <head>THE YELLOW  PANSY</head>
 
 <q><epigraph><cit>
-<p>"There's pansies--that's for thoughts."--<hi rend="italic">Shakespeare</hi>.</p></cit></epigraph></q>
+"There's pansies--that's for thoughts."--<hi
+rend="italic">Shakespeare</hi>.</cit></epigraph></q>
 
 <lg type="stanza">
 <l>WINTER  had  swooped, a lean  and hungry hawk;</l>
@@ -1703,7 +1664,8 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <l>'Twas Nature saying by trope and metaphor :</l>
 <l rend="inline">" Behold, when empire against empire strives,</l>
 <l>Though all else perish, ground 'neath iron war,</l>
-<l rend="inline">The golden thought survives."</l></lg>
+<l rend="inline">The golden thought survives."</l>
+</lg>
 </div>
 
 <pb n="THE KAISER'S DIRGE   83"/>
@@ -1720,13 +1682,15 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <l>ONE boon--'tis the best--</l>
 <l rend="inline">O Earth, we implore !</l>
 <l>We bring thee a guest:</l>
-<l rend="inline">Unbar thy door.</l></lg>
+<l rend="inline">Unbar thy door.</l>
+</lg>
 
 <lg type="stanza">
 <l>O Earth, over whom</l>
 <l rend="inline">His plough drove red,</l>
 <l>Deny not a room,</l>
-<l rend="inline">Refuse not a bed.</l></lg>
+<l rend="inline">Refuse not a bed.</l>
+</lg>
 
 <l>Dark Mother, whose breast</l>
 <l rend="inline">With his harrow he tore--</l>
@@ -1751,7 +1715,7 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <l rend="inline">Funereal train.</l>
 </lg>
 
-<pb n="84                THE  KAISER'S  DIRGE"/>
+<pb n="84 THE  KAISER'S  DIRGE"/>
 
 <lg type="stanza">
 <l>Youth defiled--</l>
@@ -1775,14 +1739,14 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <l>Piercing fife</l>
 <l rend="inline">And clamorous brass--</l>
 <l>Call to all life</l>
-<l rend="inline">To see him pass !</l>
+<l rend="inline">To see him pass!</l>
 </lg>
 
 <lg type="stanza">
 <l>For he comes with sound</l>
 <l rend="inline">Of pawing steeds;</l>
 <l>With aroma crowned</l>
-<l rend="inline">Of his odorous deeds ;</l>
+<l rend="inline">Of his odorous deeds;</l>
 </lg>
 
 <lg type="stanza">
@@ -1800,9 +1764,7 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <l>Carnage, whose brows</l>
 <l rend="inline">Beetle o'er Hell,</l>
 
-
-
-<pb n="THE KAISER'S DIRGE               85"/>
+<pb n="THE KAISER'S DIRGE 85"/>
 
 <l>Here is thy spouse,</l>
 <l rend="inline">Cherish him well.</l>
@@ -1847,14 +1809,13 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <l rend="inline">But the gaze of God--</l>
 </lg>
 
-
-<pb n="86      THE  KAISER'S DIRGE"/>
+<pb n="86 THE  KAISER'S DIRGE"/>
 
 <lg type="stanza">
 <l>From lands hate-riven</l>
 <l rend="inline">Let a cenotaph climb</l>
 <l>To the hateless Heaven</l>
-<l rend="inline">That leans o'er Time ;</l>
+<l rend="inline">That leans o'er Time;</l>
 </lg>
 
 <lg type="stanza">
@@ -1865,7 +1826,7 @@ SIR JAMES  CRICHTON-BROWNE</head>
 </lg>
 </div>
 
-<div id="watson087" type="section" n="6">
+<div id="watson0087" type="section" n="6">
 <head>VI</head>
 
 <lg type="stanza">
@@ -1899,16 +1860,12 @@ SIR JAMES  CRICHTON-BROWNE</head>
 </div>
 
 
+<div id="watson0049">
 <pb n=""/>
-
-
 
 <l>RECRUITING VERSE</l>
 
-
-
 <pb n=""/>
-
 <pb n=""/>
 
 
@@ -2114,4 +2071,6 @@ SIR JAMES  CRICHTON-BROWNE</head>
 <l rend="inline">Peals with the thundering gun.</l>
 </lg>
 </div>
-
+</body>
+</text>
+</TEI.2>

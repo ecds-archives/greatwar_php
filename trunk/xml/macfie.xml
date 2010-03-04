@@ -1,7 +1,7 @@
 
 
-
-<l>WAR: an Ode</l>
+<div id="macfie2000" type="part" n="1">
+<head>WAR: an Ode</head>
 
 
 <pb n=""/>
@@ -1407,7 +1407,7 @@
 <div id="macfie054" type="section" n="35">
 <head>ix</head>
 
-<lg tyepe="stanza">
+<lg type="stanza">
 
 <l>And all these cataclysms of the soul</l>
 <l>Will end in light, and harmony, and peace :</l>
@@ -1511,7 +1511,10 @@
 <l>Truth will regain her crown;</l>
 <l>Men's seismic souls have shaken</l>
 <l>A million Dagons down.</l>
-
+</lg>
+</div>
+</div>
+</div>
 
 <pb n="[53]"/>
 
@@ -1787,7 +1790,7 @@
 <l rend="inline">So it flared, so it flashed, so it flickered and flew.</l>
 
 
-<pb n="66   A Quartercenternary Ode"/>
+<pb n="66   A Flying Song"/>
 
 <l>Nay, but the Hand of it,</l>
 <l>Taking command of it;</l>
@@ -1814,7 +1817,7 @@
 <l>O wind thou art humbled, O space thou art slain</l>
 <l>By the wiles of a heart, and the wit of a brain!</l>
 
-<pb n="A Quartercenternary Ode  67"/>
+<pb n="A Flying Song  67"/>
 
 <l>O the way of it,</l>
 <l>Swoop of it, sway of it!</l>
@@ -1824,7 +1827,7 @@
 </div>
 
 
-<pb n="68  A Quartercenternary Ode"/>
+<pb n="68  In The White City Of Thy Soul"/>
 
 <div id="macfie062" type="poem" n="5">
 
@@ -1849,10 +1852,9 @@
 <l>Which only passing Angels reap;</l>
 <l>In the white city of thy soul,</l>
 <l>No joys exult, no sorrows weep.</l>
+</lg>
+<pb n="In The White City Of Thy Soul  69"/>
 
-<pb n="A Quartercenternary Ode  69"/>
-
-<div id="macfie063" type="poem" n="6">
 
 <lg type="stanza">
 <l>In the white city of thy soul,</l>
@@ -1937,9 +1939,9 @@
 </lg>
 </div>
 
-<pb n="72  A Quartercenternary Ode"/>
+<pb n="72  To Sir William Watson"/>
 
-<div id="macfie064" type="poem" n="7">
+<div id="macfie063" type="poem" n="6">
 <head type="main">To Sir William Watson</head>
 
 <head type="sub">(ON THE OCCASION OF HIS RECEIVING AN LL.D. FROM ABERDEEN UNIVERSITY)</head>
@@ -1965,9 +1967,9 @@
 </lg>
 </div>
 
-<pb n="A Quartercenternary Ode   73"/>
+<pb n="To Sir William Watson   73"/>
 
-<div id="macfie065" type="poem" n="8">
+<div id="macfie064" type="poem" n="7">
 
 <head>Battle</head>
 <lg tye="stanza">
@@ -1981,9 +1983,9 @@
 <l>I have cloven a cohort asunder, I swoon on the ramparts of love.</l></lg>
 </div>
 
-<pb n="74  A Quartercenternary Ode"/>
+<pb n="74  Thunder And Lightening"/>
 
-<div id="macfie066" type="poem" n="9">
+<div id="macfie065" type="poem" n="8">
 
 <head>Six Fragments</head>
 
@@ -2019,7 +2021,7 @@
 </div>
 
 
-<pb n="A Quartercenternary Ode  75"/>
+<pb n="A Heart  75"/>
 
 
 <div id="macfie703" type="section" n="4">
@@ -2056,9 +2058,9 @@
 </div>
 </div>
 
-<pb n="76   A Quartercenternary Ode"/>
+<pb n="76  City of Granite Tower"/>
 
-<div id="macfie067" type="poem" n="10">
+<div id="macfie066" type="poem" n="9">
 
 <head>City of Granite Tower</head>
 
@@ -2083,7 +2085,7 @@
 <l>And gleaming bright,</l>
 <l>Crimson and white</l>
 
-<pb n="A Quartercenternary Ode   77"/>
+<pb n="City of Granite Tower   77"/>
 
 <l>Like surf that breaks upon your granite coasts,</l>
 <l>Tinged by a sunrise red,</l>
@@ -2113,7 +2115,7 @@
 <l>From moors of Dinnet and Braemar,</l>
 <l>From banks of Dee and banks of Don,</l>
 
-<pb n="78  A Quartercenternary Ode"/>
+<pb n="78  City of Granite Tower"/>
 
 <l>From Callater and Loch Kinord,</l>
 <l>O'er purple heath and thymy sward,</l>
@@ -2144,7 +2146,7 @@
 </div>
 
 
-<pb n="A Quartercenternary Ode  79"/>
+<pb n="City of Granite Tower  79"/>
 
 <div id="macfie709" type="section" n="4">
 
@@ -2172,9 +2174,9 @@
 </lg>
 </div>
 </div>
-<pb n="80  A Quartercentenary Ode"/>
+<pb n="80  Eugeny"/>
 
-<div id="macfie068" type="poem" n="11">
+<div id="macfie067" type="poem" n="10">
 
 <head>Eugeny</head>
 
@@ -2202,7 +2204,7 @@
 </lg>
 
 
-<pb n="A Quartercentenary Ode  81"/>
+<pb n="Eugeny  81"/>
 
 <lg type="stanza">
 <l>This was your love's supernal source,</l>
@@ -2226,9 +2228,9 @@
 </lg>
 </div>
 
-<pb n="82  A Quartercentenary Ode"/>
+<pb n="82  In Memory"/>
 
-<div id="macfie069" type="poem" n="12">
+<div id="macfie068" type="poem" n="11">
 
 <head>In Memory of Major William La Touche Congreve, V.C.</head>
 
@@ -2255,9 +2257,9 @@
 </lg>
 </div>
 
-<pb n="A Quartercentenary Ode  83"/>
+<pb n="Wild Rose  83"/>
 
-<div id="macfie070" type="poem" n="13">
+<div id="macfie069" type="poem" n="12">
 
 <head>Wild Rose</head>
 <lg type="stanza">
@@ -2280,7 +2282,7 @@
 <l>Wild rose,</l>
 <l>Why did you linger so?</l>
 
-<pb n="84  A Quartercentury Ode"/>
+<pb n="84  Wild Rose"/>
 
 <l>I saw your face</l>
 <l>In a dreamland place</l>
@@ -2308,7 +2310,7 @@
 <l>Has my dream too late come true?</l>
 </lg>
 
-<pb n="A Quartercentenary Ode  85"/>
+<pb n="Wild Rose  85"/>
 
 
 <lg type="stanza">
@@ -2338,7 +2340,7 @@
 <l>And joy, and truth,</l>
 <l>You give a soul to me,</l>
 
-<pb n="86  A Quartercentenary Ode"/>
+<pb n="86  Wild Rose"/>
 
 <l>Child rose,</l>
 <l>Wild rose,</l>
@@ -2367,7 +2369,7 @@
 <l>All I have done,</l>
 
 
-<pb n="A Quartercentenary Ode  87"/>
+<pb n="Wild Rose  87"/>
 
 
 <l>And lost and won.</l>
@@ -2395,7 +2397,7 @@
 <l>Years are between us twain.</l>
 </lg>
 
-<pb n="88 A Quartercentenary Ode"/>
+<pb n="88    Wild Rose"/>
 
 <lg type="stanza">
 <l>Wild rose,</l>
@@ -2414,9 +2416,9 @@
 </div>
 
 
-<pb n="A Quartercentenary Ode  89"/>
+<pb n="How Little Seem The Joys of The World   89"/>
 
-<div id="macfie071" type="poem" n="14">
+<div id="macfie070" type="poem" n="13">
 
 
 <head>"How Little Seem the Joys and Fears"</head>
@@ -2447,9 +2449,9 @@ erblicken."</p>***** can't find code for umlauts...</epigraph></q>
 </lg>
 </div>
 
-<pb n="90  A Quartercentenary Ode"/>
+<pb n="90    Daring"/>
 
-<div id="macfie072" type="poem" n="15">
+<div id="macfie071" type="poem" n="14">
 
 <head>Daring</head>
 
@@ -2474,9 +2476,9 @@ erblicken."</p>***** can't find code for umlauts...</epigraph></q>
 </lg>
 </div>
 
-<pb n="A Quartercentenary Ode  91"/>
+<pb n="Death, The Child  91"/>
 
-<div id="macfie072" type="poem" n="16">
+<div id="macfie072" type="poem" n="15">
 
 <head>Death, the Child</head>
 
@@ -2502,7 +2504,7 @@ erblicken."</p>***** can't find code for umlauts...</epigraph></q>
 <l rend="inline">To white and red,</l>
 <l rend="inline">And green and gold,</l>
 
-<pb n="92 A Quartercentenary Ode"/>
+<pb n="92 Death, The Child"/>
 
 
 <l>And flickering passion will flame, and faded promise unfold.</l>
@@ -2529,9 +2531,9 @@ erblicken."</p>***** can't find code for umlauts...</epigraph></q>
 </lg>
 </div>
 
-<pb n="A Quartercentenary Ode  93"/>
+<pb n="Wedding Ode  93"/>
 
-<div id="macfie073" type="poem" n="17">
+<div id="macfie073" type="poem" n="16">
 <head>Wedding Ode</head>
 
 <div id="macfie710" type="section" n="1">
@@ -2558,7 +2560,7 @@ i</head>
 <l>We two have culled Parnassus thyme</l>
 <l>Above the clouds on peaks sublime;</l>
 
-<pb n="94  A Quartercentenary Ode"/>
+<pb n="94  Wedding Ode"/>
 
 <l>But far more bright</l>
 <l>Than fairy-light</l>
@@ -2583,14 +2585,14 @@ i</head>
 </div>
 
 <div id="macfie713" type="section" n="4">
-<head>IV</head>
+<head>iv</head>
 <lg type="stanza">
 <l>Yet mid the glory flicker gleams</l>
 <l>Of other dreams</l>
 <l>Of olden days;</l>
 <l>And misty things</l>
 
-<pb n="A Quartercentenary Ode   95"/>
+<pb n="Wedding Ode   95"/>
 
 <l>With rainbow wings</l>
 <l>Still dance adown your sunlit ways;</l>
@@ -2603,7 +2605,7 @@ i</head>
 
 <div id="macfie714" type="section" n="5">
 
-<head>V</head>
+<head>v</head>
 <lg type="stanza">
 <l>O be a poet-dreamer still,</l>
 <l>With heart and will</l>
@@ -2619,9 +2621,9 @@ i</head>
 </div>
 </div>
 
-<pb n="96  A Quartercentenary Ode"/>
+<pb n="96  The Heart Of A Child"/>
 
-<div id="macfie074" type="poem" n="18">
+<div id="macfie074" type="poem" n="17">
 <head>The Heart of a Child</head>
 <lg type="stanza">
 <l>BUDDING her dreams and budding her bosom,</l>
@@ -2631,9 +2633,9 @@ i</head>
 </lg>
 </div>
 
-<pb n="A Quartercentenary Ode  97"/>
+<pb n="Ode Of Welcome To Queen Alexandra  97"/>
 
-<div id="macfie075" type="poem" n="19">
+<div id="macfie075" type="poem" n="18">
 
 <head type="main">Ode of Welcome to Queen Alexandra</head>
 
@@ -2655,7 +2657,8 @@ Quatercentenary of Aberdeen University</head>
 <l>Where Love and Pity reign:</l>
 <l>Thou art the symbol of all things we seek, too lofty to attain.</l>
 </lg>
-<pb n="98  A Quartercentenary Ode"/>
+
+<pb n="98  Ode Of Welcome To Queen Alexandra"/>
 
 <lg type="stanza">
 <l>Welcome, thrice welcome to our granite town,</l>
@@ -2683,9 +2686,9 @@ Quatercentenary of Aberdeen University</head>
 </div>
 
 
-<pb n="A Quartercentenary Ode  99"/>
+<pb n="Death's Lover  99"/>
 
-<div id="macfie076" type="poem" n="20">
+<div id="macfie076" type="poem" n="19">
 
 <head>Death's Lover</head>
 
@@ -2712,7 +2715,7 @@ Quatercentenary of Aberdeen University</head>
 <l rend="inline">Wooer! Wooer!--</l>
 <l>He knows no guile, and he speaks no lie,</l>
 
-<pb n="100 A Quartercentenary Ode"/>
+<pb n="100 Death's Lover"/>
 
 <l>He treads the earth, and he wings the sky,</l>
 <l rend="inline">Dreamer and Doer,</l>
@@ -2730,9 +2733,9 @@ Quatercentenary of Aberdeen University</head>
 </lg>
 </div>
 
-<pb n="A Quartercentenary 101"/>
+<pb n="Homeland   101"/>
 
-<div id="macfie077" type="poem" n="21">
+<div id="macfie077" type="poem" n="20">
 
 <head>Homeland</head>
 
@@ -2757,7 +2760,9 @@ Quatercentenary of Aberdeen University</head>
 <l>Grows to a God-land,</l>
 <l>Under the spell of thy voice and thine eyes.</l>
 </lg>
-<pb n="102  A Quartecentenary Ode"/>
+
+
+<pb n="102  Homeland"/>
 
 <lg type="stanza">
 <l>Where is thy homeland,</l>
@@ -2772,9 +2777,9 @@ Quatercentenary of Aberdeen University</head>
 </div>
 
 
-<pb n="A Quartercentenary Ode  103"/>
+<pb n="In Memory Of A Young Airman  103"/>
 
-<div id="macfie078" type="poem" n="22">
+<div id="macfie078" type="poem" n="21">
 
 <head>In Memory of a Young Airman</head>
 
@@ -2807,7 +2812,7 @@ Quatercentenary of Aberdeen University</head>
 </lg>
 
 
-<pb n="104  A Quartercentenary Ode"/>
+<pb n="104  In Memory Of A Young Airman"/>
 
 <lg type="stanza">
 <l>Yet, though his beauty and his grace</l>
@@ -2842,7 +2847,7 @@ Quatercentenary of Aberdeen University</head>
 <l rend="inline">For all things high, and all things free;</l>
 
 
-<pb n="A Quartercentenary Ode  105"/>
+<pb n="In Memory Of A Young Airman  105"/>
 
 <l>For all things wise, and all things good;</l>
 <l rend="inline">For Justice and for Liberty.</l>
@@ -2877,7 +2882,7 @@ Quatercentenary of Aberdeen University</head>
 </lg>
 
 
-<pb n="106  A Quartercentenary Ode"/>
+<pb n="106  In Memory Of A Young Airman"/>
 
 <lg type="stanza">
 <l>He saw the glint of steel below,</l>
@@ -2911,7 +2916,7 @@ Quatercentenary of Aberdeen University</head>
 <l>There came a blizzard through the skies,</l>
 <l rend="inline">A shrieking gust of shrapnel rain;</l>
 
-<pb n="A Quartercentenary Ode  107"/>
+<pb n="In Memory Of A Young Airman  107"/>
 
 <l>A blinding mist came o'er his eyes,</l>
 <l>He felt a sudden throb of pain;</l>
@@ -2946,9 +2951,9 @@ Quatercentenary of Aberdeen University</head>
 </lg>
 </div>
 
-<pb n="108  A Quartercentenary Ode"/>
+<pb n="108  The Resurrection Of A Dream"/>
 
-<div id="mackintosh079" type="poem" n="23">
+<div id="mackintosh079" type="poem" n="22">
 
 <head>The Resurrection of a Dream</head>
 
@@ -3016,7 +3021,7 @@ Quatercentenary of Aberdeen University</head>
 
 <pb n="The Blue Bird   111"/>
 
-<div id="macfie080" type="poem" n="24">
+<div id="macfie080" type="poem" n="23">
 
 <head type="main">The Blue Bird</head>
 
@@ -3046,7 +3051,7 @@ Quatercentenary of Aberdeen University</head>
 
 <pb n="112  To J.F. White"/>
 
-<div id="macfie081" type="poem" n="25">
+<div id="macfie081" type="poem" n="24">
 
 <head>To J. F. White (Art Critic) When Dying</head>
 
@@ -3104,7 +3109,7 @@ Quatercentenary of Aberdeen University</head>
 
 <pb n="114   Pan's Flute"/>
 
-<div id="macfie082" type="poem" n="26">
+<div id="macfie082" type="poem" n="25">
 
 <head>Pan's Flute</head>
 <lg type="stanza">
@@ -3130,7 +3135,7 @@ Quatercentenary of Aberdeen University</head>
 
 <pb n="The Titanic   115"/>
 
-<div id="macfie083" type="poem" n="27">
+<div id="macfie083" type="poem" n="26">
 
 <head type="main">The "Titanic"</head>
 
@@ -3468,7 +3473,7 @@ Quatercentenary of Aberdeen University</head>
 
 <pb n="An Extravaganza   127"/>
 
-<div id="macfie084" type="poem" n="28">
+<div id="macfie084" type="poem" n="27">
 <head>An Extravaganza</head>
 
 <lg type="stanza">
@@ -3522,7 +3527,7 @@ Quatercentenary of Aberdeen University</head>
 
 <pb n="The Nile   129"/>
 
-<div id="macfie085" type="poem" n="29">
+<div id="macfie085" type="poem" n="28">
 
 <head>The Nile</head>
 <lg type="stanza">
@@ -3619,7 +3624,7 @@ Quatercentenary of Aberdeen University</head>
 
 <pb n="132  A Pastel"/>
 
-<div id="macfie086" type="poem" n="30">
+<div id="macfie086" type="poem" n="29">
 
 <head>A Pastel</head>
 
@@ -3647,7 +3652,7 @@ Quatercentenary of Aberdeen University</head>
 
 <pb n="Ski Song   133"/>
 
-<div id="macfie087" type="poem" n="31">
+<div id="macfie087" type="poem" n="30">
 
 <head>Ski Song</head>
 
@@ -3667,9 +3672,9 @@ Quatercentenary of Aberdeen University</head>
 </lg>
 </div>
 
-<pb n="134   Ski Song"/>
+<pb n="134  On The Death of John Davidson"/>
 
-<div id="macfie088" type="poem" n="32">
+<div id="macfie088" type="poem" n="31">
 
 <head>On the Death of John Davidson</head>
 
@@ -3693,7 +3698,7 @@ Quatercentenary of Aberdeen University</head>
 <l>Drove thee to Despair</l>
 <l>Until thy proud heart broke,--</l>
 
-<pb n="Ski Song  135"/>
+<pb n="On The Death Of John Davidson  135"/>
 
 <l>Not trodden in the winepress into wine,</l>
 <l>By the white feet of Sorrow and Desire,</l>
@@ -3726,7 +3731,7 @@ Quatercentenary of Aberdeen University</head>
 <l>To work at lowly labour for thy bread,</l>
 
 
-<pb n="136  Ski Song"/>
+<pb n="136  On The Death Of John Davidson"/>
 
 <l>Smiling, as brave men do, amid thy dead,</l>
 <l>Letting none know the pain</l>
@@ -3777,7 +3782,7 @@ Quatercentenary of Aberdeen University</head>
 
 <pb n="138  Lady Moonlight"/>
 
-<div id="macfie089" type="poem" n="33">
+<div id="macfie089" type="poem" n="32">
 
 <head>Lady Moonlight</head>
 

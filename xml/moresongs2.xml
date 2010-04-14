@@ -909,7 +909,6 @@ LANCS REGT.<lb/>(A Rugby and Oxford boy. Killed in action July 7,
 </lg>
 </div>
 
-
 <div id="moresongs2015" type="poem">
 <pb n="Sonnets 36"/>
 <head>Sonnets<lb/>I</head>
@@ -933,8 +932,8 @@ LANCS REGT.<lb/>(A Rugby and Oxford boy. Killed in action July 7,
 </lg>
 </div>
 
-<pb n="Gerald M. Cooper 37"/>
 <div id="moresongs2016" type="poem">
+<pb n="Gerald M. Cooper 37"/>
 <head>II</head>
 
 <lg type="stanza">
@@ -958,13 +957,11 @@ LANCS REGT.<lb/>(A Rugby and Oxford boy. Killed in action July 7,
 </lg>
 </div>
 
-
 <div id="moresongs2017" type="poem">
 <pb n="&#x2014;But a Short Time to Live 38"/>
 <head>"&#x2014;But a Short Time to Live"</head>
 <docAuthor><name>LESLIE COULSON</name>SERGT., LONDON REGIMENT,
 R.F.<lb/>(Died of Wounds in France, October, 1916)</docAuthor>
-
 
 <lg type="stanza">
 <l>OUR little hour,&#x2014;how swift it flies</l>
@@ -1042,7 +1039,6 @@ R.F.<lb/>(Died of Wounds in France, October, 1916)</docAuthor>
 <l rend="inline">To mute white marble fauns.</l>
 </lg>
 
-
 <lg type="stanza">
 <l>Oft in the tavern parlour I would sing</l>
 <l rend="inline">Of morning sun upon the mountain vine,</l>
@@ -1114,9 +1110,8 @@ FRANCE</docAuthor>
 </lg>
 </div>
 
-<pb n="More Songs by the Figthing Men 42"/>
-
 <div id="moresongs2021" type="poem">
+<pb n="More Songs by the Figthing Men 42"/>
 <head>On a Girl killed by German Shrapnel</head>
 
 <lg type="stanza">
@@ -1150,9 +1145,8 @@ FRANCE</docAuthor>
 <dateline>France, July, 1917.</dateline>
 </div>
 
-<pb n="S. Donald Cox 43"/>
-
 <div id="moresongs2022" type="poem">
+<pb n="S. Donald Cox 43"/>
 <head>Life</head>
 
 <lg type="stanza">
@@ -1211,7 +1205,6 @@ FRANCE</docAuthor>
 <l rend="inline">Machinery.</l>
 </lg>
 
-
 <pb n="John Eugene Crombie 45"/>
 
 <lg type="stanza">
@@ -1246,7 +1239,6 @@ FRANCE</docAuthor>
 <l>And gold for Northern sunsets, wealth of beggars</l>
 <l rend="inline">such as he.</l>
 </lg>
-
 
 <pb n="More Songs by the Fighting Men 46"/>
 
@@ -1284,9 +1276,8 @@ FRANCE</docAuthor>
 </lg>
 </div>
 
-<pb n="John Eugene Crombie 47"/>
-
 <div id="moresongs2026" type="poem">
+<pb n="John Eugene Crombie 47"/>
 <head>Desolation</head>
 
 <lg type="stanza">
@@ -1316,9 +1307,8 @@ FRANCE</docAuthor>
 <dateline>Trenches, December, 1916.</dateline>
 </div>
 
-<pb n="More Songs by the Fighting Men 48"/>
-
 <div id="moresongs2027" type="poem">
+<pb n="More Songs by the Fighting Men 48"/>
 <head>The Mist</head>
 
 <lg type="stanza">
@@ -1342,9 +1332,8 @@ FRANCE</docAuthor>
 <dateline>Huts, France, December, 1916.</dateline>
 </div>
 
-<pb n="John Eugene Crombie 49"/>
-
 <div id="moresongs2028" type="poem">
+<pb n="John Eugene Crombie 49"/>
 <head>The Shrine</head>
 
 <lg type="stanza">
@@ -1370,9 +1359,8 @@ FRANCE</docAuthor>
 <dateline>Billets, France, March, 1917.</dateline>
 </div>
 
-<pb n="More Songs by the Fighting Men 50"/>
-
 <div id="moresongs2029" type="poem">
+<pb n="More Songs by the Fighting Men 50"/>
 <head>Easter Day, 1917&#x2014;The Eve of the<lb/>Battle</head>
 
 <lg type="stanza">
@@ -1469,7 +1457,6 @@ FRANCE</docAuthor>
 <l rend="inline">I'd thought the sunset fair: now met my sight,</l>
 </lg>
 
-
 <pb n="Geoffrey H. Crump 53"/>
 
 <lg type="stanza">
@@ -1492,7 +1479,7 @@ FRANCE</docAuthor>
 </lg>
 
 <dateline>Indian Ocean, November, 1916.</dateline>
-
+</div>
 
 <div id="moresongs2032" type="poem">
 <head>Off St. Helena</head>
@@ -1510,9 +1497,8 @@ FRANCE</docAuthor>
 </lg>
 </div>
 
-<pb n="More Songs by the Fighting Men 54"/>
-
 <div id="moresongs2033" type="poem">
+<pb n="More Songs by the Fighting Men 54"/>
 <head>Plymouth Mists</head>
 
 <lg type="stanza">
@@ -1567,13 +1553,11 @@ FRANCE</docAuthor>
 <dateline>Basra, December, 1916.</dateline>
 </div>
 
-
 <div id="moresongs2034" type="poem">
 <pb n="More Songs by the Fighting Men"/>
 <head>A Soldier's Question: Spring, 1917</head>
 <docAuthor><name>R.C.G. DARTFORD</name>CAPTAIN, ATTACHED TO PORTUGUESE
 EXPEDITIONARY<lb/>FORCE, FRANCE</docAuthor>
-
 
 <lg type="stanza">
 <l>A Soldier's Question: Spring, 1917</l>
@@ -1602,10 +1586,10 @@ EXPEDITIONARY<lb/>FORCE, FRANCE</docAuthor>
 <l>Am I then laggard if I pray</l>
 <l>From this soul's scaffold quick reprieve?</l>
 </lg>
+</div>
 
-
-<pb n="R.C.G. Dartford 57"/>
 <div id="moresongs2035" type="poem">
+<pb n="R.C.G. Dartford 57"/>
 <head>War-time Consolation</head>
 
 <lg type="stanza">
@@ -1616,7 +1600,7 @@ EXPEDITIONARY<lb/>FORCE, FRANCE</docAuthor>
 <l>Surely pains in which you take part</l>
 <l rend="inline">Pleasures will borrow?</l>
 </lg>
-
+</div>
 
 <div id="moresongs2036" type="poem">
 <head>Welcome Death</head>
@@ -1629,8 +1613,7 @@ EXPEDITIONARY<lb/>FORCE, FRANCE</docAuthor>
 <l>("Go on till you die" is all they said),</l>
 <l><hi rend="italic">Then die</hi>&#x2014;and you're glad to be dead!</l>
 </lg>
-
-
+</div>
 
 <div id="moresongs2037" type="poem">
 <pb n="More Songs by the Fighting Men 58"/>
@@ -1664,7 +1647,6 @@ EXPEDITIONARY<lb/>FORCE, FRANCE</docAuthor>
 <l>And haunt the country whence it drew</l>
 <l rend="inline">The lii'c tliat has not sped nor failed.</l>
 </lg>
-
 
 <pb n="Clifford J. Druce 59"/>
 
@@ -1754,12 +1736,9 @@ EXPEDITIONARY<lb/>FORCE, FRANCE</docAuthor>
 </lg>
 </div>
 
-
-<pb n="Clifford J. Druce 61"/>
-
 <div id="moresongs2039" type="poem">
+<pb n="Clifford J. Druce 61"/>
 <head>Spring in Picardy</head>
-
 
 <lg type="stanza">
 <l>WHEN earth was bare, and sky a murky pall,</l>
@@ -1819,10 +1798,8 @@ EXPEDITIONARY<lb/>FORCE, FRANCE</docAuthor>
 </div>
 
 
-<pb n="H.S. GRAHAM 63"/>
-<l>H.S. Graham</l>
-
 <div id="moresongs2041" type="poem">
+<pb n="H.S. GRAHAM 63"/>
 <head>The Field of Blood</head>
 
 <lg type="stanza">
@@ -1914,7 +1891,8 @@ EXPEDITIONARY<lb/>FORCE, FRANCE</docAuthor>
 <div id="moresongs2043" type="poem">
 <pb n="More Songs by the Fighting Men 66"/>
 ***footnote***
-<head>The New Year<ref target=""></ref><note place="foot" id="" n=""></note>
+<head>The New Year<ref target=""></ref><note place="foot" id=""
+n=""></note></head>
 <docAuthor><name>MALCOLM HEMPHREY</name>CORPORAL, ARMY ORDNANCE
 CORPS</docAuthor>
 
@@ -1995,7 +1973,7 @@ through my test lattice-window.
 </lg>
 
 <dateline>East Africa, January, 1917</dateline>
-</head>
+</div>
 
 <div id="moresongs2044" type="poem">
 <pb n="More Songs by the Fighting Men 68"/>
@@ -2041,7 +2019,6 @@ through my test lattice-window.
 <l>night.</l>
 </lg>
 </div>
-
 
 <div id="moresongs2045" type="poem">
 <pb n="More Songs by the Fighting Men 70"/>
@@ -2094,7 +2071,7 @@ through my test lattice-window.
 <l>And I shall find them dearer far</l>
 <l>Enriched by all the pangs of war.</l>
 </lg>
-
+</div>
 
 <div id="moresongs2046" type="poem">
 <head>Requiescat</head>
@@ -2151,7 +2128,6 @@ through my test lattice-window.
 
 <dateline>No. 7 STATIONARY HOSPITAL, B.E.F., FRANCE.</dateline>
 </div>
-
 
 <div id="moresongs2048" type="poem">
 <pb n="Harold John Jarvis 70"/>
@@ -2288,8 +2264,8 @@ CORNWALL'S LIGHT INFANTRY</docAuthor>
 </lg>
 </div>
 
-<pb n="Harold John Jarvis 77"/>
 <div id="moresongs2049" type="poem">
+<pb n="Harold John Jarvis 77"/>
 <head>At a Wayside Shrine</head>
 
 <lg type="stanza">
@@ -2363,7 +2339,7 @@ CORNWALL'S LIGHT INFANTRY</docAuthor>
 <l>As Christ gave His, that day on Calvary.</l>
 <l>A stricken Christ a broken shrine . and</l>
 <l>men</l>
-<l>In khaki marching by.      How little less</l>
+<l>In khaki marching by. How little less</l>
 <l>Divine these khaki-clads in their worn dress</l>
 <l>Than He, the Christ of God? For in each man</l>
 <l>The same soul burns.</l>
@@ -2383,8 +2359,6 @@ CORNWALL'S LIGHT INFANTRY</docAuthor>
 </lg>
 </div>
 
-
-
 <div id="moresongs2050" type="poem">
 <pb n="More Songs by the Fighting Men 80"/>
 <head>Flint</head>
@@ -2397,7 +2371,6 @@ CORNWALL'S LIGHT INFANTRY</docAuthor>
 <l>For of their band, thou art.</l>
 </lg>
 </div>
-
 
 <div id="moresongs2051" type="poem">
 <head>To a Warship</head>
@@ -2452,8 +2425,8 @@ CORNWALL'S LIGHT INFANTRY</docAuthor>
 <dateline>France, 1917.</dateline>
 </div>
 
-<pb n="More Songs by the Fighting Men 82"/>
 <div id="moresongs2051" type="poem">
+<pb n="More Songs by the Fighting Men 82"/>
 <head>Rain</head>
 
 <lg type="stanza">
@@ -2489,10 +2462,8 @@ CORNWALL'S LIGHT INFANTRY</docAuthor>
 <dateline>France, 1917.</dateline>
 </div>
 
-
-<pb n="R. Watson Kerr 83"/>
-
 <div id="moresongs2052" type="poem">
+<pb n="R. Watson Kerr 83"/>
 <head>The Ancient Thought</head>
 
 <lg type="stanza">
@@ -2530,9 +2501,8 @@ CORNWALL'S LIGHT INFANTRY</docAuthor>
 <dateline>France, <date><hi rend="italic">July</hi>, 1917.</date></dateline>
 </div>
 
-<pb n="More Songs by the Fighting Men 84"/>
-
 <div id="moresongs2053" type="poem">
+<pb n="More Songs by the Fighting Men 84"/>
 <head>In Bitterness</head>
 
 <lg type="stanza">
@@ -2605,7 +2575,6 @@ CORNWALL'S LIGHT INFANTRY</docAuthor>
 <head>Belgium, 1914</head>
 <docAuthor><name>FRANK C. LEWIS</name>FLIGHT SUB-LIEUT., R.N.A.S.</docAuthor>
 
-
 <lg type="stanza">
 <l>THE lithe flames flicker through the veil of</l>
 <l>night,</l>
@@ -2664,9 +2633,8 @@ were written in 1911; while he was a bny at Marlborough,
 </lg>
 </div>
 
-<pb n="More Songs by the Fighting Men 88"/>
-
 <div id="moresongs2056" type="poem">
+<pb n="More Songs by the Fighting Men 88"/>
 <head>Ad Profunda</head>
 
 <lg type="stanza">
@@ -2698,10 +2666,9 @@ were written in 1911; while he was a bny at Marlborough,
 </lg>
 </div>
 
-<pb n="Frank C. Lewis 89"/>
-
 
 <div id="moresongs2056" type="poem">
+<pb n="Frank C. Lewis 89"/>
 <head>The Downs, looking from Savernake<lb/>
 Forest</head>
 
@@ -2729,7 +2696,6 @@ Forest</head>
 <l>With thunder for their requiem</l>
 <l>And the dark clouds to weep for them,</l>
 </lg>
-
 
 <pb n="More Songs by the Fighting Men 90"/>
 
@@ -2815,9 +2781,8 @@ Forest</head>
 </lg>
 </div>
 
-<pb n="P.H.B. Lyon 93"/>
-
 <div id="moresongs2058" type="poem">
+<pb n="P.H.B. Lyon 93"/>
 <head>The Lay of the Bombardier<lb/>
 (Old style)</head>
 
@@ -2888,7 +2853,6 @@ Forest</head>
 
 <dateline>FLANDERS, 1915.</dateline>
 </div>
-
 
 <div id="moresongs2059" type="poem">
 <pb n="Ian H.T. Mackenzie 95"/>
@@ -2994,7 +2958,6 @@ Forest</head>
 <l>In the happiness of air.</l>
 </lg>
 
-
 <pb n="More Songs by the Fighting Men 98"/>
 
 <lg type="stanza">
@@ -3011,7 +2974,6 @@ Forest</head>
 <l>Through a twisted looking-glass.</l>
 </lg>
 </div>
-
 
 <div id="moresongs2061" type="poem">
 <pb n="Charles John Beech Masefield 99"/>
@@ -3041,7 +3003,6 @@ CAPT., 5TH NORTH STAFFS REGT.<lb/>(Killed in Action, July, 1917)</docAuthor>
 <l>warder seas.</l>
 </lg>
 
-
 <pb n="More Songs by the Fighting Men 100"/>
 
 <lg type="stanza">
@@ -3057,7 +3018,6 @@ CAPT., 5TH NORTH STAFFS REGT.<lb/>(Killed in Action, July, 1917)</docAuthor>
 
 <dateline>September, 1914.</dateline>
 </div>
-
 
 <div id="moresongs2062" type="poem">
 <head>Sailing for Flanders</head>
@@ -3130,7 +3090,6 @@ CAPT., 5TH NORTH STAFFS REGT.<lb/>(Killed in Action, July, 1917)</docAuthor>
 <l>Yea, life was given to be given; March onward,</l>
 <l>my brothers!</l>
 </lg>
-
 <dateline>January, 1915.</dateline>
 </div>
 
@@ -3184,7 +3143,6 @@ CAPT., 5TH NORTH STAFFS REGT.<lb/>(Killed in Action, July, 1917)</docAuthor>
 <l>Grief though it be to die, 'tis grief yet more</l>
 <l>To live and count the dear dead comrades o'er.</l>
 </lg>
-
 
 <lg type="stanza">
 <l>Peace. After all you died not. We've no fear</l>
@@ -3285,7 +3243,6 @@ CAPT., 5TH NORTH STAFFS REGT.<lb/>(Killed in Action, July, 1917)</docAuthor>
 <l>The sea that takes us home.</l>
 </lg>
 
-
 <pb n="More Songs by the Fighting Men 108"/>
 
 <lg type="stanza">
@@ -3340,10 +3297,8 @@ at
 <dateline>B.E.F., FRANCE, Sept., 1917.</dateline>
 </div>
 
-
-<pb n="More Songs by the Fighting Men 110"/>
-
 <div id="moresongs2068" type="poem">
+<pb n="More Songs by the Fighting Men 110"/>
 <head>Hills of Home</head>
 
 <lg type="stanza">
@@ -3384,11 +3339,10 @@ at
 <dateline>1916.</dateline>
 </div>
 
-<pb n="Murray McClymont 111"/>
 
 <div id="moresongs2069" type="poem">
+<pb n="Murray McClymont 111"/>
 <head>To a Fallen Comrade</head>
-
 
 <lg type="stanza">
 <l>I HEARD the voice of Spring come softly</l>
@@ -3497,7 +3451,6 @@ WEST YORKS</docAuthor>
 <l>years.</l>
 </lg>
 
-
 <pb n="Rudolphe Louis N&#x00E8;groz 115"/>
 
 <lg type="stanza">
@@ -3531,7 +3484,6 @@ WEST YORKS</docAuthor>
 <l>Echoing fear about my heart, and then.</l>
 <l>With his contempt content, my hand he freed</l>
 </lg>
-
 
 <pb n="More Songs by the Fighting Men 116"/>
 
@@ -3620,7 +3572,6 @@ WEST YORKS</docAuthor>
 <l>'Tis needed so, to praise you, by my pen!</l>
 </lg>
 
-
 <lg type="stanza">
 <l>There is not beauty enough in the whole world&#x2014;</l>
 <l>Could it be brought obedient to my will&#x2014;</l>
@@ -3638,7 +3589,6 @@ WEST YORKS</docAuthor>
 <l>Nothing that can outbid in all of this</l>
 <l>My pain-fraught joy feeling thy prideful kis?.</l>
 </lg>
-
 
 <pb n="Rudolphe Louis N&#x00E8;groz 119"/>
 
@@ -3798,7 +3748,6 @@ WEST YORKS</docAuthor>
 </lg>
 </div>
 
-
 <div id="moresongs2075" type="poem">
 <pb n="J. Peterson 125"/>
 <head>Arras</head>
@@ -3854,7 +3803,6 @@ WEST YORKS</docAuthor>
 </lg>
 </div>
 
-
 <div id="moresongs2076" type="poem">
 <pb n="Richard Raleigh 125"/>
 <head>A Soldier's Litany</head>
@@ -3887,8 +3835,6 @@ WEST YORKS</docAuthor>
 <l>Libera nos Domine!</l>
 </lg>
 
-
-
 <pb n="More Songs by the Fighting Men"/>
 
 <lg type="stanza">
@@ -3906,7 +3852,6 @@ WEST YORKS</docAuthor>
 <pb n="K.M. Scobie 125"/>
 <head>Lunae</head>
 <docAuthor><name>K.M. SCOBIE</name> 2ND LIEUT., R.G.A.</docAuthor>
-
 
 <lg type="stanza">
 <l>HAVE you ridden alone in the country ever</l>
@@ -3931,7 +3876,6 @@ WEST YORKS</docAuthor>
 <l>You know in your heart that you laughed too soon,</l>
 </lg>
 
-
 <pb n="More Songs by the Fighting Men 130"/>
 
 <lg type="stanza">
@@ -3946,8 +3890,6 @@ WEST YORKS</docAuthor>
 <l>Voices and lights: and the magic fails.</l>
 </lg>
 </div>
-
-
 
 <div id="moresongs2078" type="poem">
 <pb n="R. Howard Spring 125"/>
@@ -3982,9 +3924,8 @@ WEST YORKS</docAuthor>
 </lg>
 </div>
 
-<pb n="More Songs by the Fighting Men 132"/>
-
 <div id="moresongs2079" type="poem">
+<pb n="More Songs by the Fighting Men 132"/>
 <head>Knowledge</head>
 
 <lg type="stanza">
@@ -4023,7 +3964,6 @@ WEST YORKS</docAuthor>
 <l>Of June lies perfect in a crimson rose,</l>
 </lg>
 
-
 <pb n="R. Howard Spring 133"/>
 
 <lg type="stanza">
@@ -4052,9 +3992,7 @@ WEST YORKS</docAuthor>
 [In Germany church bells are being melted down<lb/>
  for war purposes.]</head>
 
-
 <hi rend="italic">The Bells:</hi>
-
 <lg type="stanza">
 <l>WHAT have we done</l>
 <l>That sacrilegious hands should tear us</l>
@@ -4064,12 +4002,9 @@ WEST YORKS</docAuthor>
 <l>We speak of life and death? What have we done?</l>
 </lg>
 
-
 <pb n="More Songs by the Fighting Men 134"/>
 
-
 <hi rend="italic">First Bell:</hi>
-
 <lg type="stanza">
 <l>We rang for the coming of souls to earth.</l>
 <l>We rang the joy of children's birth;</l>
@@ -4085,9 +4020,7 @@ WEST YORKS</docAuthor>
 <l>day.</l>
 </lg>
 
-
 <hi rend="italic">Second Bell:</hi>
-
 <lg type="stanza">
 <l>Sadly we tolled the old life out</l>
 <l>That was done with laughter and tears and doubt.</l>
@@ -4097,9 +4030,7 @@ WEST YORKS</docAuthor>
 <l>To meet the devil and wrestle through.</l>
 </lg>
 
-
 <hi rend="italic">Third Bell:</hi>
-
 <lg type="stanza">
 <l>We rang of peace and we rang good-will</l>
 <l>On the Christ-child's day, so ghostly-still;</l>
@@ -4119,7 +4050,6 @@ WEST YORKS</docAuthor>
 </lg>
 
 <hi rend="italic">The Bells:</hi>
-
 <lg type="stanza">
 <l>O men who tear us from our place on high</l>
 <l>To make us messengers of hate and death,</l>
@@ -4145,7 +4075,6 @@ WEST YORKS</docAuthor>
 <pb n="More Songs by the Fighting Men 136"/>
 <head>Before Action</head>
 <docAuthor><name>J.E. STEWART</name> M.C., CAPT., BORDER REGIMENT</docAuthor>
-
 
 <lg type="stanza">
 <l>OVER the down the road goes winding,</l>
@@ -4178,9 +4107,9 @@ WEST YORKS</docAuthor>
 <dateline>SOMME, July, 1916.</dateline>
 </div>
 
-<pb n="J.E. Stewart 137"/>
 
 <div id="moresongs2083" type="poem">
+<pb n="J.E. Stewart 137"/>
 <head>Renascence</head>
 
 <lg type="stanza">
@@ -4219,9 +4148,8 @@ WEST YORKS</docAuthor>
 <dateline>Flanders, 1917.</dateline>.
 </div>
 
-
-<pb n="More Songs by the Fighting Men 138"/>
 <div id="moresongs2084" type="poem">
+<pb n="More Songs by the Fighting Men 138"/>
 <head>Courage</head>
 
 <lg type="stanza">
@@ -4244,7 +4172,6 @@ WEST YORKS</docAuthor>
 <l>King of myself again.</l>
 </lg>
 
-
 <p rend="center">ENVOY</p>
 
 <lg type="stanza">
@@ -4256,6 +4183,7 @@ WEST YORKS</docAuthor>
 <l>Who blessed my powers with his Divine repair.</l>
 <l>And gave me back my soul!</l>
 </lg>
+</div>
 
 <div id="moresongs2085" type="poem">
 <pb n="Eric Fitzwalter Wilkonson 139"/>
@@ -4320,7 +4248,7 @@ AND SUTHERLAND HIGHLANDERS<lb/>(Killed on Vimy Ridge, April 9, 1917)</docAuthor>
 <l>Again I taste the Wine of Spring.</l>
 <l>(O Wine of Spring and Bread of Love,</l>
 <l>O lips that kiss and mouths that sing:</l>
-<l>0 Love and Spring in England now!)</l>
+<l>O Love and Spring in England now!)</l>
 <l>Peace! Vex me not, but pass above:</l>
 <l>Sweet English Love, fleet English Spring-</l>
 <l>Pass! Vex me not!</l>
@@ -4335,6 +4263,7 @@ AND SUTHERLAND HIGHLANDERS<lb/>(Killed on Vimy Ridge, April 9, 1917)</docAuthor>
 <l>The fledgling corn of England's Spring!</l>
 <l>Ah! pity thou my wearied heart:</l>
 <l>Cease! Vex me not!</l>
+</lg>
 
 <milestone unit="section" rends="stars"/>
 
@@ -4348,96 +4277,91 @@ AND SUTHERLAND HIGHLANDERS<lb/>(Killed on Vimy Ridge, April 9, 1917)</docAuthor>
 <l>Nay! be at peace, her loyal dead</l>
 <l>Sleep! Vex her not!</l>
 </lg>
+</div>
 
 <div id="moresongs2087" type="poem">
 <pb n="More Songs by the Fighting Men 142"/>
 <head>The Wayside Burial</head>
 
-<l>THEY'RE bringing in their recent dead—their</l>
+<lg type="stanza">
+<l>THEY'RE bringing in their recent dead&#x2014;their</l>
 <l>recent dead!</l>
 <l>I see the shoulder badge: a "Southern crush."</l>
-<l>How small he looks—(O damn that singing thrush!)</l>
+<l>How small he looks&#x2014;(O damn that singing thrush!)</l>
 <l>Not give foot five from boots to battered head!</l>
-<l>Give him a kindly burial, my friends,—</l>
+<l>Give him a kindly burial, my friends,&#x2014;</l>
 <l>S much is due, when some such loyal life ends!</l>
-<l>" For Country!" Ay, and so our brave do die:</l>
-<l>Comrade unknown, good rest to you!—Good-bye!</l>
+<l>"For Country!" Ay, and so our brave do die:</l>
+<l>Comrade unknown, good rest to you!&#x2014;Good-bye!</l>
+</lg>
 
-<l>They're bringing their recent dead!—No pomp,</l>
-
+<lg type="stanza">
+<l>They're bringing their recent dead!&#x2014;No pomp,</l>
 <l>no show:</l>
-<l>A dingy khaki crowd—his friends, his own.</l>
-<l>I, too, would like—(God, how that wind does</l>
-
-<l>moan!)—</l>
+<l>A dingy khaki crowd&#x2014;his friends, his own.</l>
+<l>I, too, would like&#x2014;(God, how that wind does</l>
+<l>moan!)&#x2014;</l>
 <l>To be laid down by friends: it's sweetest so!</l>
-<l>A young life, as I take it; just a lad—</l>
-<l>(Hc.v cold it blows; and that grey sky, how sad!)—</l>
-<l>And yet: "For Country "—so a man should die:</l>
-<l>Comrade unknown, good rest to you!—Good-bye!</l>
+<l>A young life, as I take it; just a lad&#x2014;</l>
+<l>(Hc.v cold it blows; and that grey sky, how sad!)&#x2014;</l>
+<l>And yet: "For Country"&#x2014;so a man should die:</l>
+<l>Comrade unknown, good rest to you!&#x2014;Good-bye!</l>
+</lg>
 
-<l>They're burying their dead!—I wonder now:</l>
-<l>A wife?—or mother? Mother it must be—</l>
+<lg type="stanza">
+<l>They're burying their dead!&#x2014;I wonder now:</l>
+<l>A wife?&#x2014;or mother? Mother it must be&#x2014;</l>
 <l>In some trim home that fronts the English sea.</l>
 <l>(A sea-coast country: that the badges show.)</l>
+</lg>
 
-<l>142</l>
+<pb n="Walter Lightowler Wilkinson 143"/>
 
-
-
-<pb n=""/>
-
-
-
-<l>Walter Lightowler Wilkinson</l>
-
-<l>And she?—I sense her grief, I feel her tears!</l>
+<lg type="stanza">
+<l>And she?&#x2014;I sense her grief, I feel her tears!</l>
 <l>"This, then, the garnered harvest of my years!"</l>
 <l>And he? "For Country, dear, a man must</l>
 <l>die!"</l>
-<l>Comrade unknown, good rest to you!—Good-bye!</l>
+<l>Comrade unknown, good rest to you!&#x2014;Good-bye!</l>
+</lg>
 
+<lg type="stanza">
 <l>It's reeded: he is buried! Comrade, sleep!</l>
 <l>A wooden cross at your brave head will stand.</l>
-<l>A cross of wood?  A Calvary!—The Land</l>
+<l>A cross of wood?  A Calvary!&#x2014;The Land</l>
 <l>For whose sake you laid down sweet life, will keep</l>
 <l>Watch, lad, and ward that none may bring to shame.</l>
 <l>That Name for which you died! "What's in a</l>
-
-<l>name"?—</l>
+<l>name"?&#x2014;</l>
 <l>England shall answer! Tou will hear Her cry:</l>
-<l>" Well done, my own! my son—good rest: Good-</l>
+<l>" Well done, my own! my son&#x2014;good rest: Good-</l>
 <l>bye!"</l>
+</lg>
 
-<l>B.E.F., France, 4.3.17.</l>
+<dateline>B.E.F., France, 4.3.17.</dateline>
+</div>
 
-<l>At Last Post</l>
+<div id="moresongs2088" type="poem">
+<head>At Last Post</head>
 
-<l>COME home!—Come home!</l>
+<lg type="stanza">
+<l>COME home!&#x2014;Come home!</l>
 <l>The winds are at rest in the restful trees;</l>
 <l>At rest are the waves of the sundown seas;</l>
-<l>And home—they're home—</l>
-<l>The wearied hearts and the broken lives—</l>
-<l>At home!  At ease!</l>
-<l>B.E.F., France.</l>
+<l>And home&#x2014;they're home&#x2014;</l>
+<l>The wearied hearts and the broken lives&#x2014;</l>
+<l>At home! At ease!</l>
+</lg>
 
-<l>H3</l>
+<dateline>B.E.F., France.</dateline>
+</div>
 
+<div id="moresongs2089" type="poem">
+<pb n="More Songs by the Fighting Men 144"/>
+<head>Night in War Time</head>
 
-
-<pb n=""/>
-
-
-
-<l>More Songs by the Fighting Men</l>
-
-
-
-
-
-<l>Night in War Time</l>
-
-<l>NIGHT  and night's  menace:  Death hath</l>
+<lg type="stanza">
+<l>NIGHT and night's menace: Death hath</l>
 <l>forged a dart</l>
 <l>Of every moment's pause and stealthy pass:</l>
 <l>Blind Terror reigns: darkly, as in a glass,</l>
@@ -4446,266 +4370,18 @@ AND SUTHERLAND HIGHLANDERS<lb/>(Killed on Vimy Ridge, April 9, 1917)</docAuthor>
 <l>Light Chance, the harlot-goddess, holding Mass,</l>
 <l>Scatters her favours broadcast on the grass</l>
 <l>As might a drunkard spill his wares in mart!</l>
+</lg>
 
+<lg type="stanza">
 <l>Time and sweet Order have forsaken men.</l>
 <l>So near Eternal seems the Night's foul sway:</l>
 <l>We ask of Life: "Has Chaos come again.</l>
 <l>With Ruin, and Confusion, and Decay? "</l>
 <l>Yet slowly, surely darkness dies:  and then.</l>
 <l>Out of the deep night's menace, dawns the Day!</l>
+</lg>
 
-<l>B.E.F., France, January 2^th, 1917.</l>
+<dateline>B.E.F., France, January 25th, 1917.</dateline>
+</div>
 
-
-
-
-
-<l>WM.  BRkNDOH  AND  SON,  LTD.,  PRINTBK9,</l>
-<l>PLYMOUTH,  KNCI.AND.</l>
-
-
-
-<pb n=""/>
-
-
-
-<l>THE</l>
-
-<l>REBIRTH  OF  POETRY</l>
-
-<l>The Daily Telegraph, in the course of a remarkable leading</l>
-<l>article under the abpve heading, on June 12th, said:—</l>
-
-<l>Then came the war, with its strong appeal to chivalry and hardihood</l>
-<l>and moral fervour, and our young men responded not only with the</l>
-<l>hazard of their lives, but with all the warmth and generosity of deeply</l>
-<l>stirred hearts. And then the miracle happened. For many of these young</l>
-<l>men, whom the novelty and romance of their lofty enterprise had shaken</l>
-<l>out of their habitual reserve and their intellectual shyness, discovered</l>
-<l>that they must join also the great army of singers and bards, and that</l>
-<l>only by means of poetry could they give expression to all the multiform</l>
-<l>emotional experience engendered in their minds by the great Crusade.</l>
-
-<l>So it came about that Poetry was reborn in the throes ofiuar, and that</l>
-<l>Mars once more claimed kinship with Apollo and the Muses. Guards¬</l>
-<l>men wrote sonnets; privates composed odes; corporals and sergeants—</l>
-<l>so unlike the non-commissioned officers of the past—relaxed their stern</l>
-<l>and practical souls in "soldier songs." The phenomenon is not so</l>
-<l>surprising as at first sight it appears, although no one probably foresaw</l>
-<l>what large dimensions it would assume. It is only reasonable to</l>
-<l>suppose that moments of crisis causing a great emotional strain should</l>
-<l>find their issue in verse. Poetry is, after all, the natural outlet for</l>
-<l>those who feel deeply, and if hitherto the whole range of feeling and</l>
-<l>sentiment has been kept under lock and key, owing to a modesty and</l>
-<l>shame-facedness extremely characteristic of Englishmen, it is not</l>
-<l>altogether surprising that even those who thought themselves dumb</l>
-<l>should at such supreme moments suddenly find a tongue.</l>
-
-<l>Mr. Erskine Macdonald, a publisher who has interested himself</l>
-<l>deeply in this department of literature, produced a series of little books</l>
-<l>of Georgian verse and Soldier Songs, which have a distinct character of</l>
-<l>their own, and often astonish us by their fecundity and their power.</l>
-<l>Sometimes, as might be expected, they are a little rough and uncouth;</l>
-<l>sometimes they grate on the aesthetic sense by their deliberate disdain of</l>
-<l>beauty; but they never fail for want of strength. The best of them</l>
-<l>come hot from excited brains, and are written by those who have an</l>
-<l>actual and vivid experience of what modern warfare means, who know</l>
-<l>its squalor and its hideousness, and yet are able to throw round it a</l>
-<l>kind of forlorn fascination and charm, thanks to the energy of their</l>
-
-
-
-<pb n=""/>
-
-
-
-<l>own imagination and ancy. Not for them the Wordsworthian dictum</l>
-<l>that poetry is "emotion remembered in tranquillity"; they have had</l>
-<l>no time to become tranquil before they poured out their souli in song.</l>
-
-<l>Much of the work may even be destined to last. , Nothing has</l>
-<l>been more remarkable than the part which our young men have played</l>
-<l>in this world crisis; nothing which brings home to our minds so vividly</l>
-<l>the faith and fervour of the original stock whence they came. Their</l>
-<l>great romance has been their actual participation in the war. But in</l>
-<l>lesser forms also—by the poetry they have written and the letters they</l>
-<l>have sent home—they have given yet another proof of the virile qualities</l>
-<l>of our race.</l>
-
-
-
-
-
-<l>SOLDIER POETS: SONGS OF THE FIGHTING MEN. 24</l>
-<l>contributors. Fcp. 8vo, cloth, 2/6 net; trench edition (pap"</l>
-<l>wrappers), 1/6 net.</l>
-
-<l>SOLDIER POETS: MORE SONGS BY THE FIGHTING MEN.</l>
-<l>(31 contributors). Fcp. 8vo, cloth, 2/6 net; trench edition, paper,</l>
-<l>1/6 net.</l>
-
-
-<l>Paper Wrappers, i/- net.  Cloth, 2/6 net.</l>
-
-<l>FROM AN OUTPOST and Other Poems, by the late Sirgt. Leslie</l>
-
-<l>Coulson, R.F.</l>
-<l>VERSES FROM THE GRAND FLEET, by "Etienni," R.N.</l>
-<l>TRIOLETS FROM THE TRENCHES, by Capt. Du Cank (boards).</l>
-<l>GRAPES OF THORNS, by Capt. J.C. Stewart, M.C. (Border Regt.).</l>
-<l>YOUTH'S HERITAGE, by Lieut. Brian Hill (D.L.I.).</l>
-<l>UNDER THE OPEN SKY, by Harley Matthews (Private A.LF.).</l>
-<l>FLEUR DE LYS, by Lieut. Dyneley Hussey (Lancashire Fusiliers).</l>
-<l>PASTORALS, by Lieut. E.A. Blunden (Sussex Regt.).</l>
-<l>POEMS, by Lieut. A.C. Macartney (Wiltshire Regt.).</l>
-<l>SONGS  FROM  CAMP  AND  COLLEGE, by Lieut.  Lodge and</l>
-
-<l>A. A. Cock.</l>
-
-<l>FROM FIELD AND HOSPITAL, by H. Smalley Sarson (Private,</l>
-
-<l>C.r.F.).</l>
-<l>SUNRISK DREAMS, by Liku r. K. F V/ilki:. on, M.C. (W.'st V..r:;s).</l>
-<l>RAILHEAD, by Litui-. Gildkrv W\r£RHoijsE (Essex Regt.).</l>
-<l>MOODS, by Lieut. J.D. Ck,,:,nw.\v (Rifle Brigade).</l>
-
-
-
-<pb n=""/>
-
-
-
-<l>SONGS OF YOUTH AND WAR, by Lieut. P.H.B. Lvon</l>
-<l>(D.L.I.), 2/6net.</l>
-
-<l>TRAMPLED CLAY, by Colin Mitchell (Rifle Brigade), l/- net.</l>
-
-<l>REFINING FIRES, by Lieut. W. F. Halliday (West Yorki), 2/6</l>
-<l>net.</l>
-
-<l>THE D.^WN PATROL and Other Poems of an Airman, by Sub-</l>
-<l>Lieut. Paul Bewsher (R.N.A.S,), i/- net.</l>
-
-<l>GOLD AND OCHRE, by the Hon. Evan Morgan (Welsh Guards),</l>
-
-<l>cloth, 3/6 net.</l>
-<l>THE WANDERING V/IND, by Norman Anglin, A.B.R.N., cloth,</l>
-
-<l>3/6 net.</l>
-<l>THE UNDYING SPLENDOUR, by the late Sergt. J.W. Streets,</l>
-
-<l>2/6 net.</l>
-<l>TWO PIERROT PLAYS, by Lieut. Eric Lyall, 2/6 net.</l>
-<l>FRAGMENTS, by the Hon. Evan Morgan (Welsh Guards), 2/6 net.</l>
-<l>VERSES  AND VIGNETTES, by the late G.M.  Stanton, 2nd</l>
-
-<l>Lieut. (Middlesex Regt.), cloth, 2/6 net.</l>
-
-<l>CRIMSON  STAINS, by  Lieut. A. Newberry  Choyce (Leicester</l>
-
-<l>Regt.), 2/6 net.</l>
-<l>DE PROFUNDIS, by Rifleman Cross, 6d. net.</l>
-
-<l>A CROWN OF AMARANTH: A collection of noble poems to the</l>
-<l>Memory of the Brave and Gallant Gentlemen who have given</l>
-<l>their lives for Great and Greater Britain, 1914-17. The con¬</l>
-<l>tributors include Capt. Julian Grenfell, Lord Crewe, Mrs.</l>
-<l>Msynell, Katharine Tynan, L.^urence Binyon, etc. New</l>
-<l>edition, paper wrappers, 1/3 net; violet cioth, 2/6 net.</l>
-
-<l>TOMMY'S TUNES: A collection of soldiers' songs, marching</l>
-<l>melodies, parodies and ditties.   Crown 8vo, 2/6 net.</l>
-
-<l>PRENTICE POEMS, by Capt. Du Cann, 2/6 net.</l>
-<l>BLUE SEA BALLADS, by W. Reedy, R.N., 2/6 net.</l>
-<l>CARRACK AN ARTH: Poems by Major A.C. Osburn, 3/6 net.</l>
-<l>FRIGHTFUL CHRYMES, by Lieut. E.L. Roberts.</l>
-
-
-
-
-
-<l>ERSKINE  MACDONALD, Ltd.</l>
-
-<l>(Mr. Galloway Kyle, Managing Director;  Sir Alixamdek</l>
-
-<l>MacDonald of The Isles, Bart.; Mrs. Eyri. Macklin;</l>
-
-<l>Lt. F.W. Palmer, V.C, M.C.)</l>
-
-<l>Malory House, Featherstone Buildings, London, W.C. 1</l>
-
-
-
-<pb n=""/>
-
-
-
-<l>Wrappers, it. net. Art Linen, Zs, 6d. net. At all Booksellert,</l>
-<l>" Here is a brave new publishing adventure which I know will take</l>
-<l>your fancy. Mr. Erskine MacDonald, one of the most alive and enter¬</l>
-<l>prising of our younger publishers, has just issued the first volumes in a</l>
-<l>series of 'Little Books of Georgian Verse.' "From "What to Read,"</l>
-<l>in Tht Bookman.</l>
-
-<l>"It is a bold and interesting experiment that Mr. Erskine Mac¬</l>
-<l>Donald is making with the Georgian series of daintily produced volumes</l>
-<l>of verse by writers of the neo-Georgian era. These Little Books o</l>
-<l>Georgian Verse are all so good that they should ha-ve a considerable success</l>
-<l>as small greeting-gifts on birthdays and other occasions."—Daily Telegraph.</l>
-
-<l>"THE LITTLE GEORGIAN BOOKS</l>
-
-<l>of a publisher who deserves commendation."—New Witness,</l>
-
-<l>MANX SONG AND MAIDEN SONG, by Mona Douglas, with a</l>
-<l>General Introduction by Miss S. Gertrude Ford.</l>
-
-<l>POEMS, by Lieut. C.A. Macartney.</l>
-
-<l>HEATHER WAYS, by Hylda C. Cole.</l>
-
-<l>THE FIELDS OF HEAVEN, by Nora Tynan O'Mahony.</l>
-
-<l>ROAD OF LIFE, by Ianthe Jerrold.</l>
-
-<l>DREAMS O' MINE, by G.W. Bullett.</l>
-
-<l>ODDS AND ENDS, by Dorothy Tweedale.</l>
-
-<l>SONGS OF A WANDERER, by E.H.K.</l>
-
-<l>BROOKDOWN, by Egbert Sandford.</l>
-
-<l>SONGS OF THE SUSSEX DOWNS, by Peggy Whitehouse.</l>
-
-<l>NIGHT VISIONS AND DAY DREAMS, by John A. Bill-</l>
-<l>chambers.</l>
-
-<l>HILL AND HEATHER, by Mary G. Cherry.</l>
-
-<l>Second Series, Fcp. ^-vo,</l>
-<l>SONGS FROM CAMP AND COLLEGE, by Albert A. Cock and</l>
-
-<l>Lieut. John Lodge.</l>
-<l>FLEUR DE LYS, by Lieut. Dyneley Hussey.</l>
-<l>THE WOMAN AND THE SAGE, by O. A. Joergens.</l>
-<l>SONGS FROM THE SOUTHLAND, by Lieut. E. A. Bluncen.</l>
-<l>THE CALL OF THE MILES, by Leonard Galletley.</l>
-<l>THE JOYOUS JOURNEY, by G. Duncan Grey, LL.D.</l>
-<l>DREAM SONGS, by Kathleen A. Braimbridge.</l>
-<l>THE WHITE ROADS, by R. B. Ince.</l>
-<l>IN THE WAKE OF THE SWORD, by Percy Hazledin.</l>
-<l>HONEYSIGHT, by R. N. Tinkler.</l>
-<l>IN A BELGIAN GARDEN, by F O. Call.</l>
-<l>HOMEWARD, by Irene Bell.</l>
-<l>POST MERIDIAN, by W. E. Barnard.</l>
-<l>MAY IN THE WOOD, by Dorothy Kempe (Mrs. Gardiner).</l>
-
-<l>ERSKINE MACDONALD, Ltd.</l>
-<l>Malory House, Featherstone  Buildings, London, W.C. i</l>
-
-
-
-<pb n=""/>
-
+<!-- ***back matter page images go here*** -->

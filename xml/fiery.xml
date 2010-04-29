@@ -1,39 +1,30 @@
-<TEI.2>
-   <teiHeader type="text">
-      <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader><fileDesc>
          <titleStmt n="THE FIERY CROSS">
             <title>THE FIERY CROSS: An Anthology of War Poems</title>
-            <editor><name type="person" reg="Edwards, Mabel C.">Mabel C. Edwards</name> and <name type="person" reg="Booth, Mary">Mary Booth</name></editor>
+            <editor><name type="person"><choice><reg/><sic> Edwards, Mabel C.Mabel C. Edwards</sic></choice></name> and <name type="person"><choice><reg/><sic>Booth, MaryMary Booth</sic></choice></name></editor>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Beck Center</name>
-            </respStmt>
+            <name/></respStmt>
          </titleStmt>
          <extent/>
-         <publicationStmt>
-            <publisher>Lewis H. Beck Center</publisher>
-            <pubPlace>Emory University</pubPlace>
-            <address>
+         <publicationStmt><publisher>Lewis H. Beck Center</publisher><pubPlace>Emory University</pubPlace><address>
                <addrLine>Atlanta, Georgia</addrLine>
-            </address>
-            <availability>
+            </address><availability>
                <p>2002 Emory University. Permission is granted to download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact either: Women Writers Resource Project or Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
-            </availability>
-            <date>2002</date>
-         </publicationStmt>
+            </availability><date>2002</date></publicationStmt>
          <seriesStmt>
             <title>Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
             <bibl><editor>Edwards, Mabel C. and Mary Booth</editor> <title>THE FIERY CROSS: An Anthology of War Poems</title><pubPlace>London</pubPlace><publisher>Grant Richards Ltd.</publisher><date>1915</date>  96 pages. Sold for the benefit of the funds of the Red Cross.</bibl>
          </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
+      </fileDesc><encodingDesc>
          <projectDesc>
             <p>This digital text is produced from a first-edition volume of the 1915 anthology <hi rend="italic">The Fiery Cross: An Anthology of War Poems</hi> compiled by Mabel C. Edwards and Mary Booth.  This anthology, charitably produced to benefit the funds of the Red Cross, includes verse from a range of historical periods and poems by both male and female poets.  We have included in this electronic edition only those poems written by women that do not appear elsewhere on this site and that have not been recently re-published.  The production of this digital text was undertaken by the Beck Center for the Women Writers Resource Project at Emory University.</p>
          </projectDesc>
-      </encodingDesc>
-      <profileDesc>
+      </encodingDesc><profileDesc>
          <creation>
             <rs type="ethnicity">Caucasian</rs>
             <rs type="form">Unedited</rs>
@@ -41,39 +32,20 @@
             <rs type="geography">Great Britain</rs>
             <date>1900-1999</date>
          </creation>
-      </profileDesc>
-      <revisionDesc>
-         <change>
-            <date>2002</date>
-            <respStmt>
-               <name>Erika Farr</name>
-               <resp>Project Manager</resp>
-            </respStmt>
-            <item>SGML tags inserted in compliance with TEI guidelines using TEILITE</item>
-         </change>
-<change>
-            <date>2002</date>
-            <respStmt>
-               <name>Alden Mahler</name>
-               <resp>Beck Center staff</resp>
-            </respStmt>
-            <item>scanned, proofread, and encoded additional poems</item>
-         </change>
-      </revisionDesc>
-   </teiHeader>
+      </profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2002</date><label>Project Manager</label><name>Erika Farr</name>SGML tags inserted in compliance with TEI guidelines using TEILITE</change><change><date>2002</date><label>Beck Center staff</label><name>Alden Mahler</name>scanned, proofread, and encoded additional poems</change></revisionDesc></teiHeader>
 
 <text>
 <front>
 
 <pb n="5"/>
 
-<div id="fiery001" type="dedication">
+<div xml:id="fiery001" type="dedication">
 <p rend="center"><hi rend="smallcaps">TO</hi><lb/>
 HER MAJESTY QUEEN ALEXANDRA<lb/>
 <hi rend="smallcaps">WHO HAS GRACIOUSLY ACCEPTED THE</hi><lb/>
 <hi rend="smallcaps">DEDICATION OF THIS BOOK</hi></p>
 
-<div id="fiery002" type="poem" n="Dedication">
+<div xml:id="fiery002" type="poem" n="Dedication">
 <lg type="stanza">
 <l n="1">Oh, Queen, whose gracious mind doth dwell</l>
 <l rend="indent">Upon the sorrows of our war,</l>
@@ -96,14 +68,14 @@ HER MAJESTY QUEEN ALEXANDRA<lb/>
 
 <pb n="6"/>
 <pb n="7"/>
-<div id="fiery003" type="preface" n="Preface">
+<div xml:id="fiery003" type="preface" n="Preface">
 <head rend="center">Preface</head>
 
 <p>
 THE compilers of the collection of Poems which follows have asked me to write for them, and for it, a few words by way of Preface. I willingly make the attempt, though I do not think it is really needed. The true occasion and justification of such books is the Great War, in which we, one and all, desire to do, and also to say, anything we can, however small, that can help or comfort, and to do, or say, it quite simply, looking for no praise, but letting it go in with the rest, and therefore not attempting ourselves to reckon its value very closely.</p>
 
 <p>
-That is the underlying reason of many of the Anthologies which are being put forth to-day. It is certainly the reason of this one. The poems which are contained in this little volume, some seventy in number, show as much of themselves. When they are the work of living poets they have been given freely by their authors. They are drawn from every quarter, from old and favourite writers, and also from writers newer <corr sic="anl">and</corr> less known. Mr Thomas Hardy, Sir Owen Seaman and Sir Henry Newbolt, Mr William Watson and Alfred Noyes, Mr Austin Dobson and Mr W. L. Courtney, Canon Rawnsley and Mr Laurence Binyon, Mr G. K. Chesterton and Mr C. L. Graves, the Duchess of Sutherland and the Marquess of Crewe, Mrs Meynell nd Mrs Woods and Mrs Katharine Tynan, may be said to lead the way, but, as can be seen, there are many other well-accredited and well-graced names.</p>
+That is the underlying reason of many of the Anthologies which are being put forth to-day. It is certainly the reason of this one. The poems which are contained in this little volume, some seventy in number, show as much of themselves. When they are the work of living poets they have been given freely by their authors. They are drawn from every quarter, from old and favourite writers, and also from writers newer <choice><corr>and</corr><sic>anl</sic></choice> less known. Mr Thomas Hardy, Sir Owen Seaman and Sir Henry Newbolt, Mr William Watson and Alfred Noyes, Mr Austin Dobson and Mr W. L. Courtney, Canon Rawnsley and Mr Laurence Binyon, Mr G. K. Chesterton and Mr C. L. Graves, the Duchess of Sutherland and the Marquess of Crewe, Mrs Meynell nd Mrs Woods and Mrs Katharine Tynan, may be said to lead the way, but, as can be seen, there are many other well-accredited and well-graced names.</p>
 
 <p>
 To each and all, the volume is indebted, and its com<pb n="8"/>pilers are grateful. One poem deserves special notice, the very remarkable piece "The Day," the work of Mr Henry Chappell, a railway porter at the Great Western Station at Bath. Put out at the very beginning of the War, it struck with sure force the note of splendid indignation then roused, and it is well that it should find here a permanent and accessible place.</p>
@@ -154,11 +126,11 @@ And they will aid a gracious and tender Patroness, Queen Alexandra, whose coming
 <pb n="11"/>
 <pb n="12"/>
 
-<div id="fiery004" type="anthology" n="The Fiery Cross:  An Anthology">
+<div xml:id="fiery004" type="anthology" n="The Fiery Cross:  An Anthology">
 
 
 <pb n="13"/>
-<div id="fiery005" type="poem" n="For the Red Cross">
+<div xml:id="fiery005" type="poem" n="For the Red Cross">
 <head rend="center">For the Red Cross</head>
 <docAuthor n="Seaman, Owen">Owen Seaman</docAuthor>
 <note rend="center"><hi rend="italic">Reprinted by special permission of the proprietors of </hi>Punch.</note>
@@ -229,7 +201,7 @@ And they will aid a gracious and tender Patroness, Queen Alexandra, whose coming
 
 
 <pb n="24"/>
-<div id="fiery012" type="poem" n="From Germany">
+<div xml:id="fiery012" type="poem" n="From Germany">
 <head rend="center">From Germany</head>
 <head rend="center"><hi rend="smallcaps">"Lusitania," 7th May 1915.</hi></head>
 <docAuthor n="Booth, Mary">Mary Booth</docAuthor>
@@ -259,7 +231,7 @@ And they will aid a gracious and tender Patroness, Queen Alexandra, whose coming
 
 
 <pb n="26"/>
-<div id="fiery014" type="poem" n="The Cause">
+<div xml:id="fiery014" type="poem" n="The Cause">
 <head rend="center">The Cause</head>
 <docAuthor n="Binyon, Laurence">Laurence Binyon</docAuthor>
 <lg type="stanza">
@@ -323,7 +295,7 @@ And they will aid a gracious and tender Patroness, Queen Alexandra, whose coming
 
 
 <pb n="28"/>
-<div id="fiery015" type="poem" n="To the Allies">
+<div xml:id="fiery015" type="poem" n="To the Allies">
 <head rend="center">To the Allies</head>
 <head rend="center"><hi rend="smallcaps">From America</hi>.</head>
 <docAuthor n="Jevons, Seton">Seton Jevons</docAuthor>
@@ -359,7 +331,7 @@ And they will aid a gracious and tender Patroness, Queen Alexandra, whose coming
 
 
 <pb n="29"/>
-<div id="fiery016" type="poem" n="Probation">
+<div xml:id="fiery016" type="poem" n="Probation">
 <head rend="center">Probation</head>
 <head rend="center"><hi rend="smallcaps">To A King's
 Recruit.</hi></head>
@@ -409,7 +381,7 @@ Recruit.</hi></head>
 
 
 <pb n="31"/>
-<div id="fiery018" type="poem" n="The Nation's Teachers">
+<div xml:id="fiery018" type="poem" n="The Nation's Teachers">
 <head rend="center">The Nation's Teachers</head>
 <docAuthor n="Rawnsley, H. D. ">H. D. Rawnsley</docAuthor>
 <lg type="stanza">
@@ -435,7 +407,7 @@ Recruit.</hi></head>
 
 
 <pb n="32"/>
-<div id="fiery019" type="poem" n="L'Angelus">
+<div xml:id="fiery019" type="poem" n="L'Angelus">
 <head rend="center">L'Angelus</head>
 <docAuthor n="Cammaerts, Emile">Emile Cammaerts</docAuthor>
 <note rend="center"><hi rend="italic">Written for the Anniversary of the German ultimatum to Belgium.</hi></note>
@@ -445,44 +417,44 @@ Recruit.</hi></head>
 <l>Et que la mer est sage,</l>
 <l>On peut entendre, certains soirs, sur la plage</l>
 <l>Mourir le son plaintif et doux</l>
-<l>De 1'Angelus: Don, d&eacute;,</l>
-<l>Din don, din don d&eacute;.</l></lg>
+<l>De 1'Angelus: Don, dé,</l>
+<l>Din don, din don dé.</l></lg>
 
 <lg>
-<l>Pourtant &agrave; trois lieues &agrave; la ronde</l>
+<l>Pourtant à trois lieues é la ronde</l>
 <l>Toutes les tours sont abattues,</l>
 <l>Depuis dix mois que le canon gronde</l>
 <l>Toutes les cloches se sont tues,</l>
-<l>Et l'on &eacute;coute, sans trop comprendre,</l>
-<l>Cette voix myst&eacute;rieuse et tendre</l>
+<l>Et l'on écoute, sans trop comprendre,</l>
+   <l>Cette voix mystérieuse et tendre</l>
 <l>Qui ne cesse de murmurer:</l>
-<l>Din don, din don d&eacute;.</l></lg>
+   <l>Din don, din don dé.</l></lg>
 
 <lg>
-<l>D'o&uacute; vient-elle?</l>
+<l>D'oú vient-elle?</l>
 <l>De plus loin que Nieuport, de plus loin que 1'Escaut,</l>
 <l>De plus loin et de plus haut.</l>
-<l>D'o&uacute; sonne-t-elle?</l>
-<l>D'une &eacute;glise et d'un beffroi</l>
+<l>D'oú sonne-t-elle?</l>
+   <l>D'une église et d'un beffroi</l>
 <l>Que les obus n'atteindront pas,</l>
 <l>L'entendez vous vibrer</l>
-<l>Au fond de vos poitrines? Don d&eacute;,</l>
-<l>Din don, din don d&eacute;.</l></lg>
+   <l>Au fond de vos poitrines? Don dé,</l>
+   <l>Din don, din don dé.</l></lg>
 
 <lg>
 <l>C'est le coeur du pays</l>
 <l>Qui sonne comme une cloche,</l>
 <pb n="33"/>
-<l>Avec ses villages, ses pr&eacute;s fleuris,</l>
+   <l>Avec ses villages, ses prés fleuris,</l>
 <l>Ses bois, ses ruisseaux et ses roches.</l>
 <l>C'est notre sang qui bat</l>
 <l>Contre les murs de sa prison</l>
-<l>Et qui r&eacute;p&egrave;te tout bas</l>
-<l>Son &eacute;ternelle chanson.</l>
-<l>C'est notre &acirc;me qui, sans trop comprendre,</l>
-<l>Murmure d'une voix <corr sic="mysterieuse">myst&eacute;rieuse</corr> et tendre</l>
-<l>Les trois notes de l'Angelus: Don d&eacute;,</l>
-<l>Din don, din don d&eacute;.</l></lg>
+<l>Et qui répète tout bas</l>
+   <l>Son éternelle chanson.</l>
+<l>C'est notre âme qui, sans trop comprendre,</l>
+   <l>Murmure d'une voix <choice><corr>mystérieuse</corr><sic>mysterieuse</sic></choice> et tendre</l>
+   <l>Les trois notes de l'Angelus: Don dé,</l>
+   <l>Din don, din don dé.</l></lg>
 <byline>Emile Cammaerts.</byline>
 <trailer>Observer.</trailer>
 </div>
@@ -495,7 +467,7 @@ Recruit.</hi></head>
 
 
 <pb n="36"/>
-<div id="fiery021" type="poem" n="St George for England">
+<div xml:id="fiery021" type="poem" n="St George for England">
 <head rend="center">St George for England</head>
 <docAuthor n="Booth, Mary">Mary Booth</docAuthor>
 <lg type="stanza">
@@ -538,7 +510,7 @@ Recruit.</hi></head>
 
 
 <pb n="37"/>
-<div id="fiery022" type="poem" n="The Coming of the Colonies">
+<div xml:id="fiery022" type="poem" n="The Coming of the Colonies">
 <head rend="center">The Coming of the Colonies</head>
 <docAuthor n="Gurney, Dorothy Frances ">Dorothy Frances Gurney</docAuthor>
 <lg type="stanza">
@@ -564,7 +536,7 @@ Recruit.</hi></head>
 
 
 <pb n="38"/>
-<div id="fiery023" type="poem" n="For the Men at the Front">
+<div xml:id="fiery023" type="poem" n="For the Men at the Front">
 <head rend="center">For the Men at the Front</head>
 <docAuthor n="Oxenham, John">John Oxenham</docAuthor>
 <lg type="stanza">
@@ -611,7 +583,7 @@ Recruit.</hi></head>
 </div>
 
 
-<div id="fiery024" type="poem" n="The Admonition">
+<div xml:id="fiery024" type="poem" n="The Admonition">
 <head rend="center">The Admonition</head>
 <head rend="center"><hi rend="smallcaps">To Betsey.</hi></head>
 <docAuthor n="Eden, Helen Parry ">Helen Parry Eden</docAuthor>
@@ -644,9 +616,9 @@ Recruit.</hi></head>
 
 
 <pb n="40"/>
-<div id="fiery025" type="poem" n="The Tirailleur">
+<div xml:id="fiery025" type="poem" n="The Tirailleur">
 <head rend="center">The Tirailleur</head>
-<head rend="center"><hi rend="smallcaps">To the Memory of Ren&eacute;.</hi></head>
+   <head rend="center"><hi rend="smallcaps">To the Memory of René.</hi></head>
 <docAuthor n="Sutherland, Millicent">Millicent Sutherland</docAuthor>
 <lg type="stanza">
 <l n="1">HE was so young to die --</l>
@@ -702,7 +674,7 @@ Recruit.</hi></head>
 
 
 
-<div id="fiery028" type="poem" n="Searchlights on the Mersey">
+<div xml:id="fiery028" type="poem" n="Searchlights on the Mersey">
 <head rend="center">Searchlights on the Mersey</head>
 <docAuthor n="Haselden, P.">P. Haselden</docAuthor><note rend="center"><hi rend="italic">Reprinted by special permission of the proprietors of</hi> Punch.</note>
 
@@ -728,7 +700,7 @@ Recruit.</hi></head>
 
 
 <pb n="44"/>
-<div id="fiery029" type="poem" n="Here and There">
+<div xml:id="fiery029" type="poem" n="Here and There">
 <head rend="center">Here and There</head>
 <docAuthor n="Allsopp, Henry">Henry Allsopp</docAuthor>
 <lg type="stanza">
@@ -766,7 +738,7 @@ Recruit.</hi></head>
 
 
 <pb n="45"/>
-<div id="fiery030" type="poem" n="Gifts">
+<div xml:id="fiery030" type="poem" n="Gifts">
 <head rend="center">Gifts</head>
 <head rend="center"><hi rend="smallcaps">To Queen Elisabeth of the Belgians.</hi></head>
 <docAuthor n="Booth, Mary">Mary Booth</docAuthor>
@@ -808,7 +780,7 @@ Recruit.</hi></head>
 
 
 <pb n="46"/>
-<div id="fiery031" type="poem" n="Chalk and Flint">
+<div xml:id="fiery031" type="poem" n="Chalk and Flint">
 <head rend="center">Chalk and Flint</head>
 <docAuthor n="Clarke, Dudley">Dudley Clarke</docAuthor><note rend="center"><hi rend="italic">Reprinted by special permission of the proprietors of</hi> Punch.</note>
 
@@ -859,7 +831,7 @@ Recruit.</hi></head>
 
 
 <pb n="48"/>
-<div id="fiery032" type="poem" n="Devon Men">
+<div xml:id="fiery032" type="poem" n="Devon Men">
 <head rend="center">Devon Men</head>
 <docAuthor n="Haselden, P.">P. Haselden</docAuthor><note rend="center"><hi rend="italic">Reprinted by special permission of the proprietors of</hi> Punch.</note>
 
@@ -897,7 +869,7 @@ Recruit.</hi></head>
 </div>
 
 
-<div id="fiery033" type="poem" n="If e'er my Son">
+<div xml:id="fiery033" type="poem" n="If e'er my Son">
 <head rend="center">If e'er my Son</head>
 <docAuthor n="Massinger">Massinger</docAuthor>
 <lg type="stanza">
@@ -917,7 +889,7 @@ Recruit.</hi></head>
 
 
 <pb n="50"/>
-<div id="fiery034" type="poem" n="The Knitting Song">
+<div xml:id="fiery034" type="poem" n="The Knitting Song">
 <head rend="center">The Knitting Song</head>
 <docAuthor n="Pope, Jessie">Jessie Pope</docAuthor>
 <lg type="stanza">
@@ -971,7 +943,7 @@ Recruit.</hi></head>
 
 
 <pb n="52"/>
-<div id="fiery035" type="poem" n="Burgomaster Max">
+<div xml:id="fiery035" type="poem" n="Burgomaster Max">
 <head rend="center">Burgomaster Max</head>
 <docAuthor n="Graves, C. L. ">C. L. Graves</docAuthor><note rend="center"><hi rend="italic">Reprinted by special permission of the proprietors of</hi> Punch.</note>
 
@@ -1013,7 +985,7 @@ Recruit.</hi></head>
 
 
 <pb n="54"/>
-<div id="fiery037" type="poem" n="The Lads of the Maple Leaf">
+<div xml:id="fiery037" type="poem" n="The Lads of the Maple Leaf">
 <head rend="center">The Lads of the Maple Leaf</head>
 <docAuthor n="Pope, Jessie">Jessie Pope</docAuthor>
 <lg type="stanza">
@@ -1050,7 +1022,7 @@ Recruit.</hi></head>
 </div>
 
 
-<div id="fiery038" type="poem" n="The Noble Nature">
+<div xml:id="fiery038" type="poem" n="The Noble Nature">
 <head rend="center">The Noble Nature</head>
 <docAuthor n="Jonson, Ben">Ben Jonson</docAuthor>
 <lg type="stanza">
@@ -1069,7 +1041,7 @@ Recruit.</hi></head>
 
 
 <pb n="56"/>
-<div id="fiery039" type="poem" n="The Day">
+<div xml:id="fiery039" type="poem" n="The Day">
 <head rend="center">The Day</head>
 <docAuthor n="Chappell, Henry">Henry Chappell</docAuthor>
 <lg type="stanza">
@@ -1126,7 +1098,7 @@ Recruit.</hi></head>
 
 
 <pb n="58"/>
-<div id="fiery040" type="poem" n="Valhalla">
+<div xml:id="fiery040" type="poem" n="Valhalla">
 <head rend="center">Valhalla</head>
 <head rend="smallcaps">A Vision and a Protest.</head>
 <docAuthor n="Knox, E. G. V.">E. G. V. Knox</docAuthor><note rend="center"><hi rend="italic">Reprinted by special permission of the proprietors of</hi> Punch.</note>
@@ -1227,7 +1199,7 @@ Recruit.</hi></head>
 
 
 <pb n="61"/>
-<div id="fiery041" type="poem" n="Britain to Belgium">
+<div xml:id="fiery041" type="poem" n="Britain to Belgium">
 <head rend="center">Britain to Belgium</head>
 <docAuthor n="Lyon, L. Bowes ">L. Bowes Lyon</docAuthor><note rend="center"><hi rend="italic">Reprinted by special permission of the proprietors of</hi> Punch.</note>
 
@@ -1270,7 +1242,7 @@ Recruit.</hi></head>
 
 
 
-<div id="fiery043" type="poem" n="Requiescant">
+<div xml:id="fiery043" type="poem" n="Requiescant">
 <head rend="center">Requiescant</head>
 <docAuthor n="Gurney, Dorothy Frances ">Dorothy Frances Gurney</docAuthor>
 <lg type="stanza">
@@ -1300,7 +1272,7 @@ Recruit.</hi></head>
 
 
 <pb n="65"/>
-<div id="fiery045" type="poem" n="The Hour">
+<div xml:id="fiery045" type="poem" n="The Hour">
 <head rend="center">The Hour</head>
 <docAuthor n="Fagan, James Bernard ">James Bernard Fagan</docAuthor>
 <lg type="stanza">
@@ -1341,7 +1313,7 @@ Recruit.</hi></head>
 
 
 <pb n="66"/>
-<div id="fiery046" type="poem" n="Called Up">
+<div xml:id="fiery046" type="poem" n="Called Up">
 <head rend="center">Called Up</head>
 <docAuthor n="Clarke, Dudley">Dudley Clarke</docAuthor>
 <lg type="stanza">
@@ -1376,7 +1348,7 @@ Recruit.</hi></head>
 </div>
 
 
-<div id="fiery047" type="poem" n="Expiation">
+<div xml:id="fiery047" type="poem" n="Expiation">
 <head rend="center">Expiation</head>
 <docAuthor n="Booth, Mary">Mary Booth</docAuthor>
 <lg type="stanza">
@@ -1405,7 +1377,7 @@ Recruit.</hi></head>
 
 
 <pb n="70"/>
-<div id="fiery049" type="poem" n="Veterans">
+<div xml:id="fiery049" type="poem" n="Veterans">
 <head rend="center">Veterans</head>
 <docAuthor n="Noyes, Alfred">Alfred Noyes</docAuthor>
 <lg type="stanza">
@@ -1425,7 +1397,7 @@ Recruit.</hi></head>
 <l>If, with duty done like yours, we lie beneath the stars?</l></lg>
 
 <lg>
-<l>When the great r&eacute;veill&eacute; sounds</l>
+   <l>When the great réveillé sounds</l>
 <l rend="indent">For the terrible last Sabaoth,</l>
 <l>All the legions of the dead shall hear the trumpet ring!</l>
 <l rend="indent">Will it not be well with us,</l>
@@ -1436,7 +1408,7 @@ Recruit.</hi></head>
 
 
 <pb n="71"/>
-<div id="fiery050" type="poem" n="To Lucasta on going to the Wars">
+<div xml:id="fiery050" type="poem" n="To Lucasta on going to the Wars">
 <head rend="center">To Lucasta on going to the Wars</head>
 <docAuthor n="Lovelace">Lovelace</docAuthor>
 <lg type="stanza">
@@ -1461,12 +1433,12 @@ Recruit.</hi></head>
 
 
 <pb n="72"/>
-<div id="fiery051" type="poem" n="The R&eacute;veill&eacute;">
-<head rend="center">The R&eacute;veill&eacute;</head>
+   <div xml:id="fiery051" type="poem" n="The Réveillé">
+      <head rend="center">The Réveillé</head>
 <docAuthor n="Harte, Bret">Bret Harte</docAuthor>
 <lg type="stanza">
 <l n="1">HARK! I hear the tramp of thousands,</l>
-<l rend="indent">And of arm&egrave;d men the hum;</l>
+<l rend="indent">And of armèd men the hum;</l>
 <l>Lo! a nation's host have gathered</l>
 <l rend="indent">Round the quick alarming drum --</l>
 <l rend="indent4">Saying, "Come,</l>
@@ -1504,10 +1476,10 @@ Recruit.</hi></head>
 </div>
 
 
-<div id="fiery052" type="poem" n="'Despise not the Day of Small Things'">
+<div xml:id="fiery052" type="poem" n="'Despise not the Day of Small Things'">
 <head rend="center">"Despise not the Day of Small Things"</head>
 <docAuthor n="Cruttwell, E. Mary ">E. Mary Cruttwell</docAuthor><note>
-<hi rend="italic">Niu&euml;, a little island in the South Seas, sent a message, on the outbreak of war, to offer to Great Britain "From a little child of the Empire," two portions -- first, men; secondly, money.</hi></note>
+<hi rend="italic">Niuü, a little island in the South Seas, sent a message, on the outbreak of war, to offer to Great Britain "From a little child of the Empire," two portions -- first, men; secondly, money.</hi></note>
 
 <lg type="stanza">
 <l n="1">A LITTLE child of Empire, I</l>
@@ -1515,7 +1487,7 @@ Recruit.</hi></head>
 <l>Two portions have I, men and gold,</l>
 <l>Would I could give a hundredfold!</l>
 <l>To Britain's mighty army then</l>
-<l>Does "Niu&euml;" offer twenty men</l>
+<l>Does "Niuü" offer twenty men</l>
 <l>And money in a like degree,</l>
 <l>With dark hearts' love and loyalty.</l>
 <l>For surely he, our Great White King,</l>
@@ -1527,7 +1499,7 @@ Recruit.</hi></head>
 
 
 <pb n="74"/>
-<div id="fiery053" type="poem" n="Commemoration Ode">
+<div xml:id="fiery053" type="poem" n="Commemoration Ode">
 <head rend="center">Commemoration Ode</head>
 <docAuthor n="Lowell, James Russell ">James Russell Lowell</docAuthor>
 <lg type="stanza">
@@ -1541,7 +1513,7 @@ Recruit.</hi></head>
 <l>I strive to mix some gladness with my strain,</l>
 <l rend="indent">But the sad strings complain,</l>
 <l rend="indent">And will not please the ear.</l>
-<l>I sweep them for a P&aelig;an, but they wane</l>
+<l>I sweep them for a Pæan, but they wane</l>
 <l rend="indent">Again and yet again</l>
 <l>Into a dirge, and die away, in pain.</l>
 <l>In these brave ranks I only see the gaps,</l>
@@ -1563,7 +1535,7 @@ Recruit.</hi></head>
 
 
 <pb n="75"/>
-<div id="fiery054" type="poem" n="Valour">
+<div xml:id="fiery054" type="poem" n="Valour">
 <head rend="center">Valour</head>
 <docAuthor n="Crosland, T. W. H.">T. W. H. Crosland</docAuthor>
 <lg type="stanza">
@@ -1588,7 +1560,7 @@ Recruit.</hi></head>
 
 
 <pb n="76"/>
-<div id="fiery055" type="poem" n="21st September 1870">
+<div xml:id="fiery055" type="poem" n="21st September 1870">
 <head rend="center">21st September 1870</head>
 <docAuthor n="Kingsley, Charles">Charles Kingsley</docAuthor>
 <lg type="stanza">
@@ -1619,7 +1591,7 @@ Recruit.</hi></head>
 
 
 <pb n="77"/>
-<div id="fiery056" type="poem" n="A New Song to an Old Tune">
+<div xml:id="fiery056" type="poem" n="A New Song to an Old Tune">
 <head rend="center">A New Song to an Old Tune</head>
 <docAuthor n="Henley, W. E. ">W. E. Henley</docAuthor>
 <lg type="stanza">
@@ -1656,7 +1628,7 @@ Recruit.</hi></head>
 
 
 <pb n="78"/>
-<div id="fiery057" type="poem" n="Before Sedan">
+<div xml:id="fiery057" type="poem" n="Before Sedan">
 <head rend="center">Before Sedan</head>
 <docAuthor n="Dobson, Austin">Austin Dobson</docAuthor>
 <lg type="stanza">
@@ -1712,7 +1684,7 @@ Recruit.</hi></head>
 
 
 <pb n="80"/>
-<div id="fiery058" type="poem" n="Men who die for England">
+<div xml:id="fiery058" type="poem" n="Men who die for England">
 <head rend="center">Men who die for England</head>
 <docAuthor n="Woods, Margaret L. ">Margaret L. Woods</docAuthor>
 <lg type="stanza">
@@ -1767,7 +1739,7 @@ Recruit.</hi></head>
 
 
 <pb n="82"/>
-<div id="fiery059" type="poem" n="Pro Rege Nostro">
+<div xml:id="fiery059" type="poem" n="Pro Rege Nostro">
 <head rend="center">Pro Rege Nostro</head>
 <docAuthor n="Henley, W. E. ">W. E. Henley</docAuthor>
 <lg type="stanza">
@@ -1836,7 +1808,7 @@ Recruit.</hi></head>
 
 
 <pb n="86"/>
-<div id="fiery061" type="poem" n="Last Post">
+<div xml:id="fiery061" type="poem" n="Last Post">
 <head rend="center">Last Post</head>
 <docAuthor n="Henley, W. E. ">W. E. Henley</docAuthor>
 <lg type="stanza">
@@ -1883,7 +1855,7 @@ Recruit.</hi></head>
 
 
 <pb n="88"/>
-<div id="fiery063" type="poem" n="Farewell">
+<div xml:id="fiery063" type="poem" n="Farewell">
 <head rend="center">Farewell</head>
 <docAuthor n="Newbolt, Henry">Henry Newbolt</docAuthor>
 <lg type="stanza">
@@ -1919,7 +1891,7 @@ Recruit.</hi></head>
 
 
 <pb n="90"/>
-<div id="fiery065" type="poem" n="Flower of Youth">
+<div xml:id="fiery065" type="poem" n="Flower of Youth">
 <head rend="center">Flower of Youth</head>
 <docAuthor n="Tynan, Katharine">Katharine Tynan</docAuthor>
 <lg type="stanza">
@@ -1967,7 +1939,7 @@ Recruit.</hi></head>
 
 
 <pb n="92"/>
-<div id="fiery066" type="poem" n="Lay your Head on the Earth's Breast">
+<div xml:id="fiery066" type="poem" n="Lay your Head on the Earth's Breast">
 <head rend="center">Lay your Head on the Earth's Breast</head>
 <docAuthor n="Congreve, Celia">Celia Congreve</docAuthor>
 <epigraph>
@@ -2006,7 +1978,7 @@ Recruit.</hi></head>
 
 
 <pb n="94"/>
-<div id="fiery067" type="poem" n="The Roll of Honour">
+<div xml:id="fiery067" type="poem" n="The Roll of Honour">
 <head rend="center">The Roll of Honour</head>
 <docAuthor n="Coulson, F. Raymond ">F. Raymond Coulson</docAuthor>
 <lg type="stanza">
@@ -2043,7 +2015,7 @@ Recruit.</hi></head>
 
 
 <pb n="95"/>
-<div id="fiery068" type="poem" n="In Memory">
+<div xml:id="fiery068" type="poem" n="In Memory">
 <head rend="center">In Memory</head>
 <head><hi rend="smallcaps">To Those who died in the Early Days of the War.</hi></head>
 <docAuthor n="Boyle, W. S. ">W. S. Boyle</docAuthor><note rend="center"><hi rend="italic">Reprinted by special permission of the proprietors of</hi> Punch.</note>
@@ -2054,7 +2026,7 @@ Recruit.</hi></head>
 <l>For England's sake and duty. Be their name</l>
 <l>Sacred among us! Wouldst thou seek to frame</l>
 <l>Their fitting epitaph? Then let it be</l>
-<l>Simple, as that which marked Thermopyl&aelig;,</l>
+<l>Simple, as that which marked Thermopylæ,</l>
 <l>"Tell it in England, thou that passest by,</l>
 <l>Here faithful to their charge, her soldiers lie."</l></lg>
 <byline>W. S. Boyle.</byline>
@@ -2062,26 +2034,26 @@ Recruit.</hi></head>
 
 
 <pb n="96"/>
-<div id="fiery069" type="poem" n="Aux Po&egrave;tes Futurs">
-<head rend="center">Aux Po&egrave;tes Futurs</head>
+<div xml:id="fiery069" type="poem" n="Aux Poètes Futurs">
+<head rend="center">Aux Poètes Futurs</head>
 <docAuthor n="Prudhomme, Sully">Sully Prudhomme</docAuthor>
 <lg type="stanza">
-<l n="1">PO&Egrave;TES &agrave; venir, qui saurez tant de choses,</l>
+<l n="1">POèTES à venir, qui saurez tant de choses,</l>
 <l>Et les direz sans doute en un verbe plus beau,</l>
 <l>Portant plus loin que nous un plus large flambeau</l>
-<l>Sur les supr&ecirc;mes fins et les premi&egrave;res causes;</l>
+<l>Sur les suprêmes fins et les premières causes;</l>
 <l>Quand vos vers sacreront des pensers grandioses,</l>
-<l>Depuis longtemps d&eacute;j&agrave; nous serons au tombeau;</l>
+   <l>Depuis longtemps déjà nous serons au tombeau;</l>
 <l>Rien ne vivra de nous qu'un terne et froid lambeau</l>
-<l>De notre &oelig;uvre enfouie avec nos l&egrave;vres closes.</l></lg>
+<l>De notre œuvre enfouie avec nos lèvres closes.</l></lg>
 
 <lg>
 <l>Songez que nous chantions les fleurs et les amours</l>
-<l>Dans un &acirc;ge plein d'ombre, au mortel bruit des armes,</l>
-<l>Pour des c&oelig;urs anxieux que ce bruit rendait sourds;</l>
-<l>Lors plaignez nos chansons, o&ugrave; tremblaient tant d'alarmes,</l>
-<l>Vous qui, mieux &eacute;cout&eacute;s, ferez en d'heureux jours</l>
-<l>Sur de plus hauts objets des po&egrave;mes sans larmes.</l></lg>
+<l>Dans un âge plein d'ombre, au mortel bruit des armes,</l>
+<l>Pour des cœurs anxieux que ce bruit rendait sourds;</l>
+<l>Lors plaignez nos chansons, où tremblaient tant d'alarmes,</l>
+   <l>Vous qui, mieux écoutés, ferez en d'heureux jours</l>
+<l>Sur de plus hauts objets des poèmes sans larmes.</l></lg>
 <byline>Sully Prudhomme.</byline>
 </div>
 
@@ -2089,4 +2061,4 @@ Recruit.</hi></head>
 
 </body>
 </text>
-</TEI.2>
+</TEI>

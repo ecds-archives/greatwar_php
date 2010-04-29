@@ -1,20 +1,15 @@
-<TEI.2>
-   <teiHeader>
-      <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader><fileDesc>
          <titleStmt>
-            <title>Songs &#x0026; Sonnets for England in War Time: Electronic Edition</title>
+            <title>Songs &amp; Sonnets for England in War Time: Electronic Edition</title>
 
          </titleStmt>
-	 <publicationStmt>
-	   <publisher>Lewis H. Beck Center for Electronic Collections
-	   and Services, Emory University</publisher>
-	   <pubPlace>Atlanta, GA</pubPlace>
-	   <address>
+	 <publicationStmt><publisher>Lewis H. Beck Center for Electronic Collections
+	   and Services, Emory University</publisher><pubPlace>Atlanta, GA</pubPlace><address>
 	     <addrLine>540 Asbury Circle</addrLine>
 	     <addrLine>Woodruff Library</addrLine>
 	     <addrLine>Atlanta, GA 30322</addrLine>
-	   </address>
-	   <availability><p>&#x00A9;Emory University. Permission is
+	   </address><availability><p>©Emory University. Permission is
 	   granted to download, transmit, or otherwise reproduce,
 	   distribute or display the contributions to the work claimed
 	   by Emory University for non-profit educational purposes,
@@ -23,9 +18,7 @@
 	   for Jewish Studies, Emory University, Atlanta GA 30322 or
 	   the Lewis H. Beck Center for Electronic Collections and
 	   Services, Woodruff Library, Emory University, Atlanta,
-	   Georgia 30322 </p></availability> 
-	   <date>2004</date>
-	 </publicationStmt>
+	   Georgia 30322 </p></availability><date>2004</date></publicationStmt>
 	 <seriesStmt>
 	   <title>The Great War</title>
 	 </seriesStmt>
@@ -33,7 +26,7 @@
          <sourceDesc><!-- put the actual publication data for the book
 	   in this section --> 
             <bibl>
-	     <title>Songs &#x0026; Sonnets for England in War Time:
+	     <title>Songs &amp; Sonnets for England in War Time:
 	      Being a Collection of Lyrics by Various Authors Inspired
 	      by the Great War</title>
 	     <pubPlace>London</pubPlace>
@@ -41,36 +34,28 @@
 	     <date>1914</date>
 	   </bibl>
          </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
+      </fileDesc><encodingDesc>
 	<projectDesc><p>Poetry contemporary to World War I (the Great
 	War) has been digitized by OCR or rekeying. The work has been
 	done in conjunction with Dr. Harry Rusche of the English
 	Department, Emory University</p></projectDesc>
-	<tagsDecl>
-	  <rendition id="quote">Paragraphs including q or quote
+	<tagsDecl><rendition xml:id="quote">Paragraphs including q or quote
 	  elements indicate material that is in a block
-	  quote.</rendition>
-	  <rendition id="title">Where the title of a work is
+	  quote.</rendition><rendition xml:id="title">Where the title of a work is
 	  italicized, it is marked with a title element, both in the
-	  text and in footnotes.</rendition>
-	  <tagUsage gi="q" render="quote">blockquote</tagUsage>
-	  <tagUsage gi="quote" render="quote">blockquote</tagUsage>
-	  <tagUsage gi="title" render="title">italic</tagUsage>
-	</tagsDecl>
+	  text and in footnotes.</rendition><namespace name="http://www.tei-c.org/ns/1.0"><tagUsage gi="q" render="#quote">blockquote</tagUsage><tagUsage gi="quote" render="#quote">blockquote</tagUsage><tagUsage gi="title" render="#title">italic</tagUsage></namespace></tagsDecl>
 	<refsDecl><p>The page numbers of the volumes are indicated by
 	page break elements</p>
 	<p/>
 	</refsDecl>
 	<classDecl>
-	  <taxonomy id="lcsh">
+	  <taxonomy xml:id="lcsh">
 	    <bibl>
 	      <title>Library of Congress Subject Headings</title>
 	    </bibl>
 	  </taxonomy>
 	</classDecl>
-      </encodingDesc>
-      <profileDesc>
+      </encodingDesc><profileDesc>
          <creation>
 	   <rs type="collection">poetry</rs>
 	   <rs type="language">English</rs>
@@ -81,49 +66,30 @@
             <date>1900-1999</date>
          </creation>
 	 <textClass>
-	   <keywords scheme="lcsh">
+	   <keywords scheme="#lcsh">
 	     <list>
 	       <item>World War, 1914-1918--Poetry.</item>
 	       <item>English poetry--20th Century.</item>
 	       <item>War.</item>
 	     </list>
 	   </keywords>
-	 </textClass></profileDesc>
-      <revisionDesc>
-	<change>
-	  <date>June-July2004</date>
-	  <respStmt>
-	    <name>Alden Mahler</name>
-	    <resp>Beck Center staff</resp>
-	  </respStmt>
-	    <item>scanning, OCR, proofreading and encoding</item>
-	</change>
-	<change>
-	  <date>August 2004</date>
-	  <respStmt>
-	    <name>Alice Hickcox</name>
-	    <resp>Beck Center Staff</resp>
-	  </respStmt>
-	    <item>Header added; markup parsed</item>
-	</change>
-      </revisionDesc>
-   </teiHeader>
+	 </textClass></profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>June-July2004</date><label>Beck Center staff</label><name>Alden Mahler</name>scanning, OCR, proofreading and encoding</change><change><date>August 2004</date><label>Beck Center Staff</label><name>Alice Hickcox</name>Header added; markup parsed</change></revisionDesc></teiHeader>
 
 <text>
 <front>
 <pb n="ii"/>
 
-<div id="lane001" type="dedication">
+<div xml:id="lane001" type="dedication">
 <p>The entire profits from the sale of this volume will be given to the Prince of Wales's National Relief Fund</p>
 </div>
 
 
 <pb n="iii"/>
-<div id="lane002" type="title page">
+<div xml:id="lane002" type="titlepage">
 <head rend="center">SONGS &amp; SONNETS FOR ENGLAND IN WAR TIME</head>
 <head rend="center">BEING A COLLECTION OF LYRICS BY VARIOUS AUTHORS INSPIRED BY THE GREAT WAR</head>
 
-<div id="lane003" type="epigraph">
+<div xml:id="lane003" type="epigraph">
 <q rend="center">
 <l rend="italic">Sound, sound the clarion, fill the fife!</l>
 <l rend="indent4"><hi rend="italic">To all the sensual world proclaim,</hi></l>
@@ -134,7 +100,7 @@
 </div>
 
 <pb n="v"/>
-<div id="lane004" type="chapter" n="Introduction">
+<div xml:id="lane004" type="chapter" n="Introduction">
 <head rend="center">INTRODUCTION</head>
 
 <p><hi rend="smallcap">In</hi> the stress of a nation's peril some of its greatest songs are born. In the stress of a nation's peril the poet at last comes into his own again, and with clarion call he rouses the sleeping soul of the empire. Prophet he is, champion and consoler.</p>
@@ -152,13 +118,13 @@
 <l>Song passes not away.</l>
 <l>Captains and conquerors leave a little dust,</l>
 <l>And kings a dubious legend of their reign;</l>
-<l>The swords of C&#x00E6;sars, they are less than rust:</l>
+<l>The swords of Cæsars, they are less than rust:</l>
 <l>The poet doth remain."</l></q>
 </div>
 
 
 <pb n="vii"/>
-<div id="lane005" type="chapter" n="Publisher's Note">
+<div xml:id="lane005" type="chapter" n="Publisher's Note">
 <head rend="center">PUBLISHER'S NOTE</head>
 
 <p><hi rend="smallcap">Of</hi> our poets who have been inspired to write and publish separate volumes of war poems during the actual progress of a campaign, we can only recall one -- the late Sydney Dobell, whose "Sonnets on the War," and "England in Time of War," both dealt with the Crimea. Mr. William Watson's "The Purple East" was read and quoted the world over during the Armenian atrocities: indeed, "Abdul the Damned" has passed into the language. Although this famous sonnet sequence sprang out of events which could not be called a campaign in the accepted and legitimate sense of the word, yet it may be fairly argued that the Kaiser has surpassed the Turk in inflicting suffering on defenceless people.</p>
@@ -169,8 +135,8 @@
 <p>Viscount Dillon sends me the following, taken from <hi rend="italic">La France du Nord</hi> of August 23. These lines, by a poetic ally, who remains anonymous, are as correct in feeling as they are ingenious in adapting themselves to the rhythm of our own National Anthem.</p>
 
 <pb n="ix"/>
-<q><text><body>
-<div id="lane006" type="poem" n="Welcome to You, Gallant Britons">
+<floatingText><body>
+<div xml:id="lane006" type="poem" n="Welcome to You, Gallant Britons">
 <head rend="center">WELCOME TO YOU, GALLANT BRITONS</head>
 
 <lg type="stanza">
@@ -188,7 +154,7 @@
 <l rend="indent5">And the Russians;</l>
 <l>The Belgians so gallant,</l>
 <l>Who have checked the tyrant</l>
-<l>From Li&#x00E8;ge to Dinant;</l>
+<l>From Liège to Dinant;</l>
 <l rend="indent5">Hail to them all!</l></lg>
 
 <lg>
@@ -202,21 +168,21 @@
 <byline>G. C.</byline>
 </div>
 </body>
-</text>
-</q>
+</floatingText>
+
 
 <pb n="x"/>
 <p>I have also been favoured with another poem which has an added interest from the fact that the writer has for many years been well acquainted with German politics and German statesmen.</p>
-<q>
-<text>
+
+<floatingText>
 <body>
-<div id="lane007" type="poem" n="A Partnership">
+<div xml:id="lane007" type="poem" n="A Partnership">
 <head rend="center">A PARTNERSHIP</head>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">God</hi> for the Kaiser! God for the Hun! </l>
 <l>God for the fiercest war ever the sun </l>
-<l>Shone on! -- No wonder it hid its face<ref target="lane007n1" targOrder="U">*</ref><note id="lane007n1" place="foot" n="1" anchored="yes">The eclipse of the sun.</note></l>
+<l>Shone on! -- No wonder it hid its face<ref target="#lane007n1">*</ref><note xml:id="lane007n1" place="foot" n="1" anchored="true">The eclipse of the sun.</note></l>
 <l>When the Kaiser rode forth to his big disgrace.</l></lg>
 
 <lg>
@@ -251,8 +217,8 @@
 <l>The blasphemous Kaiser a fitting end.</l></lg>
 </div>
 </body>
-</text>
-</q>
+</floatingText>
+
 
 <p>My thanks are due for the great generosity displayed by all the authors whose poems appear in this volume, and whose names will be found on following pages; and also to the Editors of the <hi rend="italic">Times</hi>, <hi rend="italic">Daily Chronicle</hi>, <hi rend="italic">Westminster Gazette</hi>, <hi rend="italic">Daily News and Leader</hi>, <hi rend="italic">Morning Post</hi>, <hi rend="italic">Daily Telegraph</hi>, <hi rend="italic">Evening Standard</hi>, <hi rend="italic">Daily Express</hi>, <hi rend="italic">Pall Mall Gazette</hi>, <hi rend="italic">Punch</hi>, <hi rend="italic">New Weekly</hi>, <hi rend="italic">New Witness</hi>, <hi rend="italic">Truth</hi>, <hi rend="italic">Saturday Review</hi>, <hi rend="italic">T.P.'s Weekly</hi>, <hi rend="italic">Yorkshire Post</hi>, <hi rend="italic">Glasgow Evening News</hi>, for full permission to reprint the poems that have appeared in their columns.</p>
 
@@ -266,10 +232,10 @@
 
 <body>
 
-<div id="lane008" type="anthology" n="Songs &#x0026; Sonnets For England in War Time">
+<div xml:id="lane008" type="anthology" n="Songs &amp; Sonnets For England in War Time">
 
 <pb n="1"/>
-<div id="lane009" type="poem" n="To the Troubler of the World">
+<div xml:id="lane009" type="poem" n="To the Troubler of the World">
 <docAuthor n="Watson, William">William Watson</docAuthor>
 <head rend="center">TO THE TROUBLER OF THE WORLD</head>
 
@@ -294,7 +260,7 @@
 
 
 <pb n="2"/>
-<div id="lane010" type="poem" n="To Britain">
+<div xml:id="lane010" type="poem" n="To Britain">
 <docAuthor n="Coutts, Francis">Francis Coutts</docAuthor>
 <head rend="center">TO BRITAIN</head>
 <head rend="center">(BEFORE HER DECLARATION OF WAR)</head>
@@ -317,7 +283,7 @@
 
 
 <pb n="3"/>
-<div id="lane011" type="poem" n="Armageddon">
+<div xml:id="lane011" type="poem" n="Armageddon">
 <docAuthor n="McCarthy, Justin Huntly">Justin Huntly McCarthy</docAuthor>
 <head rend="center">ARMAGEDDON</head>
 
@@ -334,14 +300,14 @@
 <l>Who break an age in pieces for your play:</l>
 <l>Please God your trampling vanities will jar</l>
 <l>A sleeping giant, and such petty things</l>
-<l>As crowns and C&#x00E6;sars shall at last make way</l>
+<l>As crowns and Cæsars shall at last make way</l>
 <l>Before mankind's Republic, ending war.</l></lg><byline>JUSTIN HUNTLY McCARTHY</byline>
 <closer><hi rend="italic">Daily Chronicle, August</hi> 3 ,1914</closer> 
 </div>
 
 
 <pb n="4"/>
-<div id="lane012" type="poem" n="A Prayer for Peace">
+<div xml:id="lane012" type="poem" n="A Prayer for Peace">
 <docAuthor n="Rawnsley, H. D. (Hardwicke Drummond)">H. D. Rawnsley</docAuthor>
 <head rend="center">A PRAYER FOR PEACE</head>
 
@@ -368,7 +334,7 @@
 
 
 <pb n="5"/>
-<div id="lane013" type="poem" n="The Song of the Britons">
+<div xml:id="lane013" type="poem" n="The Song of the Britons">
 <docAuthor n="Gill, Anthony Kirby">Anthony Kirby Gill</docAuthor>
 <head rend="center">THE SONG OF THE BRITONS</head>
 
@@ -413,7 +379,7 @@
 <pb n="7"/>
 <pb n="8"/>
 <pb n="9"/>
-<div id="lane015" type="poem" n="War">
+<div xml:id="lane015" type="poem" n="War">
 <docAuthor n="Jourdain, M">M Jourdain</docAuthor>
 <head rend="center">WAR</head>
 
@@ -445,10 +411,10 @@
 
 
 <pb n="10"/>
-<div id="lane016" type="poem" n="Hymn After Battle">
+<div xml:id="lane016" type="poem" n="Hymn After Battle">
 <docAuthor n="Adcock, A. St. John">A. St. John Adcock</docAuthor>
 <head rend="center">HYMN AFTER BATTLE</head>
-<note anchored="yes">[The Kaiser has been thanking God for his successes; and whilst the Christian nations of Europe are engaged in murdering each other, the heathen, whom they have failed to convert, remain so ignorant of the gospel that they are still living together in peace.]</note>
+<note anchored="true">[The Kaiser has been thanking God for his successes; and whilst the Christian nations of Europe are engaged in murdering each other, the heathen, whom they have failed to convert, remain so ignorant of the gospel that they are still living together in peace.]</note>
 
 <lg type="stanza">
 <head rend="center">I</head>
@@ -507,7 +473,7 @@
 
 
 <pb n="13"/>
-<div id="lane017" type="poem" n="Britannia">
+<div xml:id="lane017" type="poem" n="Britannia">
 <docAuthor n="Stacpoole, H. De Vere">H. De Vere Stacpoole</docAuthor>
 <head rend="center">BRITANNIA</head>
 
@@ -547,10 +513,10 @@
 
 
 <pb n="15"/>
-<div id="lane018" type="poem" n="The Answer">
+<div xml:id="lane018" type="poem" n="The Answer">
 <docAuthor n="Colvin, Ian">Ian Colvin</docAuthor>
 <head rend="center">THE ANSWER</head>
-<note anchored="yes">["...It would be a disgrace for us to make this bargain with
+<note anchored="true">["...It would be a disgrace for us to make this bargain with
 Germany at the expense of France, a disgrace from which the good name
 of this country would never recover." -- <hi rend="smallcap">Sir
 Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
@@ -618,7 +584,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <pb n="18"/>
 <pb n="19"/>
 <pb n="20"/>
-<div id="lane021" type="poem" n="To 'Little' Belgium">
+<div xml:id="lane021" type="poem" n="To 'Little' Belgium">
 <docAuthor n="Kernahan, Coulson">Coulson Kernahan</docAuthor>
 <head rend="center">TO "LITTLE" BELGIUM</head>
 
@@ -668,7 +634,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 
 <pb n="22"/>
-<div id="lane022" type="poem" n="The Tribute">
+<div xml:id="lane022" type="poem" n="The Tribute">
 <docAuthor n="Begbie, Harold">Harold Begbie</docAuthor>
 <head rend="center">THE TRIBUTE</head>
 
@@ -708,7 +674,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 
 <pb n="24"/>
-<div id="lane023" type="poem" n="In the Red Dawn">
+<div xml:id="lane023" type="poem" n="In the Red Dawn">
 <docAuthor n="Stuart, Dorothy Margaret">Dorothy Margaret Stuart</docAuthor>
 <head rend="center">IN THE RED DAWN</head>
 
@@ -755,7 +721,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 
 <pb n="28"/>
-<div id="lane025" type="poem" n="The War Cry">
+<div xml:id="lane025" type="poem" n="The War Cry">
 <docAuthor n="Freeman, R. M.">R. M. Freeman</docAuthor>
 <head rend="center">THE WAR CRY</head>
 
@@ -823,7 +789,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 
 <pb n="35"/>
-<div id="lane028" type="poem" n="The Hush">
+<div xml:id="lane028" type="poem" n="The Hush">
 <docAuthor n="Phillips, Stephen">Stephen Phillips</docAuthor>
 <head rend="center">THE HUSH</head>
 
@@ -848,11 +814,11 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 
 <pb n="36"/>
-<div id="lane029" type="poem" n="Alliterativism">
+<div xml:id="lane029" type="poem" n="Alliterativism">
 <docAuthor n="Chesterton, G. K. (Gilbert Keith)">G. K. Chesterton</docAuthor>
 <head rend="center">ALLITERATIVISM</head>
 <head rend="center">(THE LATEST SCHOOL)</head>
-<note anchored="yes">[French airmen have been flying over Baden and Bavaria, violating Belgian neutrality. -- Stated, on German authority, in "Westminster Gazette."]</note>
+<note anchored="true">[French airmen have been flying over Baden and Bavaria, violating Belgian neutrality. -- Stated, on German authority, in "Westminster Gazette."]</note>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">See</hi> the flying French depart</l>
@@ -892,7 +858,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 
 <pb n="38"/>
-<div id="lane030" type="poem" n="To the Aggressor">
+<div xml:id="lane030" type="poem" n="To the Aggressor">
 <docAuthor n="Buckley, Reginald R.">Reginald R. Buckley</docAuthor>
 <head rend="center">TO THE AGGRESSOR</head>
 
@@ -917,7 +883,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 
 <pb n="39"/>
-<div id="lane031" type="poem" n="Evening Prayer of a People">
+<div xml:id="lane031" type="poem" n="Evening Prayer of a People">
 <docAuthor n="Munro, Neil">Neil Munro</docAuthor>
 <head rend="center">EVENING PRAYER OF A PEOPLE</head>
 <head rend="center">SUNDAY, AUGUST 9, 1914</head>
@@ -964,7 +930,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 
 <pb n="41"/>
-<div id="lane032" type="poem" n="The Man Forsworn">
+<div xml:id="lane032" type="poem" n="The Man Forsworn">
 <docAuthor n="Watson, William">William Watson</docAuthor>
 <head rend="center">THE MAN FORSWORN</head>
 
@@ -1080,7 +1046,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 
 <pb n="45"/>
-<div id="lane033" type="poem" n="To the King of the Belgians">
+<div xml:id="lane033" type="poem" n="To the King of the Belgians">
 <docAuthor n="M., H.">H. M</docAuthor>
 <head rend="center">TO THE KING OF THE BELGIANS</head>
 
@@ -1107,10 +1073,10 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 
 <pb n="46"/>
-<div id="lane034" type="poem" n="The Vindication">
+<div xml:id="lane034" type="poem" n="The Vindication">
 <docAuthor n="Bussy, Philip">Philip Bussy</docAuthor>
 <head rend="center">THE VINDICATION</head>
-<note anchored="yes">[It is announced that all the Territorial battalions are already at full strength, and that Lord Kitchener's "second army" is now in course of formation.]</note>
+<note anchored="true">[It is announced that all the Territorial battalions are already at full strength, and that Lord Kitchener's "second army" is now in course of formation.]</note>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">The</hi> Summer wanes: and, 'Erbert, in the haunts</l>
@@ -1179,7 +1145,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 
 <pb n="49"/>
-<div id="lane035" type="poem" n="The Spirit of England">
+<div xml:id="lane035" type="poem" n="The Spirit of England">
 <docAuthor n="Cannan, Gilbert">Gilbert Cannan</docAuthor>
 <head rend="center">THE SPIRIT OF ENGLAND</head>
 
@@ -1237,7 +1203,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 
 <pb n="51"/>
-<div id="lane036" type="poem" n="The Naval Reserve">
+<div xml:id="lane036" type="poem" n="The Naval Reserve">
 <docAuthor n="Underhill, Evelyn">Evelyn Underhill</docAuthor>
 <head rend="center">THE NAVAL RESERVE</head>
 
@@ -1279,7 +1245,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 
 <pb n="53"/>
-<div id="lane037" type="poem" n="Iconoclastes">
+<div xml:id="lane037" type="poem" n="Iconoclastes">
 <docAuthor n="Archer, William">William Archer</docAuthor>
 <head rend="center">ICONOCLASTES</head>
 
@@ -1365,9 +1331,9 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 <lg>
 <l>Hierarchies of priests before him</l>
-<l>Moved through ponderous <hi rend="italic">Kriegs-Man&#x00F6;ver</hi>,</l>
+<l>Moved through ponderous <hi rend="italic">Kriegs-Manöver</hi>,</l>
 <l>Headed by the Archimandrite</l>
-<l rend="indent4">Of the far-famed Mail&#x00EB;d Fist.</l></lg>
+<l rend="indent4">Of the far-famed Mailëd Fist.</l></lg>
 
 <lg>
 <pb n="56"/>
@@ -1416,12 +1382,12 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <lg>
 <l>Saying, "Let us smash the Idol,</l>
 <l>Pulverize the Moloch-image,</l>
-<l>Exorcize the accurs&#x00EB;d vampire --</l>
+<l>Exorcize the accursëd vampire --</l>
 <l rend="indent4">From its menace free the world:</l></lg>
 
 <lg>
 <l>"Free ourselves, and free the noble,</l>
-<l>Richly dowered, <hi rend="italic">gem&#x00FC;tlich</hi> nation,</l>
+<l>Richly dowered, <hi rend="italic">gemütlich</hi> nation,</l>
 <l>Doomed by some malign enchantment</l>
 <l rend="indent4">To this dire idolatry:</l></lg>
 
@@ -1445,7 +1411,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 
 <pb n="59"/>
-<div id="lane038" type="poem" n="The Call to Arms in Our Street">
+<div xml:id="lane038" type="poem" n="The Call to Arms in Our Street">
 <docAuthor n="Letts, Winifred M.">W. M. Letts</docAuthor>
 <head rend="center">THE CALL TO ARMS IN OUR STREET</head>
 
@@ -1496,7 +1462,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 
 <pb n="61"/>
-<div id="lane039" type="poem" n="To the Crew of H.M.S. Birmingham">
+<div xml:id="lane039" type="poem" n="To the Crew of H.M.S. Birmingham">
 <docAuthor n="Forster, R. H.">R. H. Forster</docAuthor>
 <head rend="center">TO THE CREW OF H.M.S. <hi rend="italic">BIRMINGHAM</hi></head>
 
@@ -1538,7 +1504,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 
 <pb n="63"/>
-<div id="lane040" type="poem" n="Germania">
+<div xml:id="lane040" type="poem" n="Germania">
 <docAuthor n="Phillpotts, Eden">Eden Phillpotts</docAuthor>
 <head rend="center">GERMANIA</head>
 
@@ -1580,8 +1546,8 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 
 <pb n="65"/>
-<div id="lane041" type="poem" n="The Call">
-<docAuthor n="Vernede, R. E. (Robert Ernest)">R. E. Vern&#x00c8;de</docAuthor>
+<div xml:id="lane041" type="poem" n="The Call">
+<docAuthor n="Vernede, R. E. (Robert Ernest)">R. E. VernÈde</docAuthor>
 <head rend="center">THE CALL</head>
 
 <lg type="stanza">
@@ -1645,13 +1611,13 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <l>Hark once more to the clarion call --</l>
 <l rend="indent">Sounded by him who deathless died --</l>
 <l>"This day England expects you all."</l></lg>
-<byline>R. E. VERN&#x00C8;DE</byline>
+<byline>R. E. VERNÈDE</byline>
 <closer><hi rend="italic">Times, August</hi> 19, 1914</closer>
 </div>
 
 
 <pb n="68"/>
-<div id="lane042" type="poem" n="Dies Irae">
+<div xml:id="lane042" type="poem" n="Dies Irae">
 <docAuthor n="Seaman, Owen">Sir Owen Seaman</docAuthor>
 <head rend="center">DIES IRAE</head>
 <head rend="center">TO THE GERMAN KAISER</head>
@@ -1723,7 +1689,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 
 <pb n="71"/>
-<div id="lane043" type="poem" n="To Women">
+<div xml:id="lane043" type="poem" n="To Women">
 <docAuthor n="Binyon, Laurence">Laurence Binyon</docAuthor>
 <head rend="center">TO WOMEN</head>
 
@@ -1769,7 +1735,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 
 <pb n="73"/>
-<div id="lane044" type="poem" n="Towards the Light">
+<div xml:id="lane044" type="poem" n="Towards the Light">
 <docAuthor n="Sichel, Walter">Walter Sichel</docAuthor>
 <head rend="center">TOWARDS THE LIGHT</head>
 
@@ -1792,7 +1758,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 
 <pb n="74"/>
-<div id="lane045" type="poem" n="Roll Up!">
+<div xml:id="lane045" type="poem" n="Roll Up!">
 <docAuthor n="Hutchinson, W. M. L.">W. M. L. Hutchinson</docAuthor>
 <head rend="center">ROLL UP!</head>
 
@@ -1842,7 +1808,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 
 <pb n="76"/>
-<div id="lane046" type="poem" n="[Untitled]">
+<div xml:id="lane046" type="poem" n="[Untitled]">
 <docAuthor n="Rhoades, James">James Rhoades</docAuthor>
 
 <lg type="stanza">
@@ -1887,7 +1853,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 
 <pb n="78"/>
-<div id="lane047" type="poem" n="To the British Army">
+<div xml:id="lane047" type="poem" n="To the British Army">
 <docAuthor n="Barnes, R. Gorell">R. Gorell Barnes</docAuthor>
 <head rend="center">TO THE BRITISH ARMY</head>
 
@@ -1929,7 +1895,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 
 <pb n="80"/>
-<div id="lane048" type="poem" n="Redemption">
+<div xml:id="lane048" type="poem" n="Redemption">
 <docAuthor n="Goad, Harold E.">Harold E. Goad</docAuthor>
 <head rend="center">REDEMPTION</head>
 
@@ -1954,7 +1920,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 
 <pb n="81"/>
-<div id="lane049" type="poem" n="A Battle-Song">
+<div xml:id="lane049" type="poem" n="A Battle-Song">
 <docAuthor n="Courtney, W. L.">W. L. Courtney</docAuthor>
 <head rend="center">A BATTLE-SONG</head>
 
@@ -2015,10 +1981,10 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <pb n="84"/>
 <pb n="85"/>
 <pb n="86"/>
-<div id="lane051" type="poem" n="The Shirker">
+<div xml:id="lane051" type="poem" n="The Shirker">
 <docAuthor n="Phillips, Stephen">Stephen Phillips</docAuthor>
 <head rend="center">THE SHIRKER</head>
-<note anchored="yes">[Suggested by Mr. Robert Blatchford's article in <hi rend="italic">The Daily Mail</hi>.]</note>
+<note anchored="true">[Suggested by Mr. Robert Blatchford's article in <hi rend="italic">The Daily Mail</hi>.]</note>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcap">He</hi> moors the skiff within the cooler gloom</l>
@@ -2039,7 +2005,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 
 <pb n="87"/>
-<div id="lane052" type="poem" n="Ghosts at Boulogne">
+<div xml:id="lane052" type="poem" n="Ghosts at Boulogne">
 <docAuthor n="McCarthy, Justin Huntly">Justin Huntly McCarthy</docAuthor>
 <head rend="center">GHOSTS AT BOULOGNE</head>
 
@@ -2064,7 +2030,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 
 <pb n="88"/>
-<div id="lane053" type="poem" n="To the Belgians">
+<div xml:id="lane053" type="poem" n="To the Belgians">
 <docAuthor n="Hewlett, Maurice">Maurice Hewlett</docAuthor>
 <head rend="center">TO THE BELGIANS</head>
 <head rend="center">FROM ENGLAND</head>
@@ -2073,9 +2039,9 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 <l n="1">O <hi rend="smallcap">men</hi> of mickle heart and little speech,</l>
 <l>Slow, stubborn countrymen of heath and plain,</l>
 <l>Now have ye shown these insolent again</l>
-<l>That which to C&#x00E6;sar's legions ye could teach,</l>
+<l>That which to Cæsar's legions ye could teach,</l>
 <l>That slow-provok'd is long-provok'd. May each</l>
-<l>Crass C&#x00E6;sar learn this of the Keltic grain,</l>
+<l>Crass Cæsar learn this of the Keltic grain,</l>
 <l>Until at last they reckon it in vain</l>
 <l>To browbeat us who hold the Western reach.</l>
 <l>For even as you, so we are, ill to rouse,</l>
@@ -2090,7 +2056,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 
 <pb n="89"/>
-<div id="lane054" type="poem" n="Song of the Soldiers">
+<div xml:id="lane054" type="poem" n="Song of the Soldiers">
 <docAuthor n="Hardy, Thomas">Thomas Hardy</docAuthor>
 <head rend="center">SONG OF THE SOLDIERS</head>
 
@@ -2145,7 +2111,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 
 <pb n="91"/>
-<div id="lane055" type="poem" n="A Cap to Fit the Kaiser">
+<div xml:id="lane055" type="poem" n="A Cap to Fit the Kaiser">
 <docAuthor n="The Bishop Of Lincoln">The Bishop Of Lincoln</docAuthor>
 <head rend="center">A CAP TO FIT THE KAISER</head>
 <q rend="italic">
@@ -2170,7 +2136,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 
 
 <pb n="95"/>
-<div id="lane057" type="poem" n="The Battle of the Bight">
+<div xml:id="lane057" type="poem" n="The Battle of the Bight">
 <docAuthor n="Watson, William">William Watson</docAuthor>
 <head rend="center">THE BATTLE OF THE BIGHT</head>
 
@@ -2221,4 +2187,4 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
 </div>
 </body>
 </text>
-</TEI.2>
+</TEI>

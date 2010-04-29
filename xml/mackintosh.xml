@@ -1,21 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI.2>
-   <teiHeader>
-      <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader><fileDesc>
          <titleStmt>
             <title>Great Poems of the World War: Electronic Edition</title>
-            <editor><name reg="Mackintosh, E.A., 1893-1917">Ewart Alan Mackintosh</name></editor>
+            <editor><name><choice><reg>Mackintosh, E.A., 1893-1917</reg><sic>Ewart Alan Mackintosh</sic></choice></name></editor>
          </titleStmt>
-	 <publicationStmt>
-	   <publisher>Lewis H. Beck Center for Electronic Collections
-	   and Services, Emory University</publisher>
-	   <pubPlace>Atlanta, GA</pubPlace>
-	   <address>
+	 <publicationStmt><publisher>Lewis H. Beck Center for Electronic Collections
+	   and Services, Emory University</publisher><pubPlace>Atlanta, GA</pubPlace><address>
 	     <addrLine>540 Asbury Circle</addrLine>
 	     <addrLine>Woodruff Library</addrLine>
 	     <addrLine>Atlanta, GA 30322</addrLine>
-	   </address>
-	   <availability><p>&#x00A9;Emory University. Permission is
+	   </address><availability><p>©Emory University. Permission is
 	   granted to download, transmit, or otherwise reproduce,
 	   distribute or display the contributions to the work claimed
 	   by Emory University for non-profit educational purposes,
@@ -24,9 +18,7 @@
 	   for Jewish Studies, Emory University, Atlanta GA 30322 or
 	   the Lewis H. Beck Center for Electronic Collections and
 	   Services, Woodruff Library, Emory University, Atlanta,
-	   Georgia 30322 </p></availability> 
-	   <date>2004</date>
-	 </publicationStmt>
+	   Georgia 30322 </p></availability><date>2004</date></publicationStmt>
 	 <seriesStmt>
 	   <title>The Great War</title>
 	 </seriesStmt>
@@ -41,36 +33,28 @@
 	     <date>1918</date>
 	   </bibl>
          </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
+      </fileDesc><encodingDesc>
 	<projectDesc><p>Poetry contemporary to World War I (the Great
 	War) has been digitized by OCR or rekeying. The work has been
 	done in conjunction with Dr. Harry Rusche of the English
 	Department, Emory University</p></projectDesc>
-	<tagsDecl>
-	  <rendition id="quote">Paragraphs including q or quote
+	<tagsDecl><rendition xml:id="quote">Paragraphs including q or quote
 	  elements indicate material that is in a block
-	  quote.</rendition>
-	  <rendition id="title">Where the title of a work is
+	  quote.</rendition><rendition xml:id="title">Where the title of a work is
 	  italicized, it is marked with a title element, both in the
-	  text and in footnotes.</rendition>
-	  <tagUsage gi="q" render="quote">blockquote</tagUsage>
-	  <tagUsage gi="quote" render="quote">blockquote</tagUsage>
-	  <tagUsage gi="title" render="title">italic</tagUsage>
-	</tagsDecl>
+	  text and in footnotes.</rendition><namespace name="http://www.tei-c.org/ns/1.0"><tagUsage gi="q" render="#quote">blockquote</tagUsage><tagUsage gi="quote" render="#quote">blockquote</tagUsage><tagUsage gi="title" render="#title">italic</tagUsage></namespace></tagsDecl>
 	<refsDecl><p>The page numbers of the volumes are indicated by
 	page break elements</p>
 	<p/>
 	</refsDecl>
 	<classDecl>
-	  <taxonomy id="lcsh">
+	  <taxonomy xml:id="lcsh">
 	    <bibl>
 	      <title>Library of Congress Subject Headings</title>
 	    </bibl>
 	  </taxonomy>
 	</classDecl>
-      </encodingDesc>
-      <profileDesc>
+      </encodingDesc><profileDesc>
          <creation>
 	   <rs type="collection">poetry</rs>
 	   <rs type="language">English</rs>
@@ -81,36 +65,17 @@
             <date>1900-1999</date>
          </creation>
 	 <textClass>
-	   <keywords scheme="lcsh">
+	   <keywords scheme="#lcsh">
 	     <list>
 	       <item>World War, 1914-1918--Poetry.</item>
 	       <item>English poetry--20th Century.</item>
 	       <item>War.</item>
 	     </list>
 	   </keywords>
-	 </textClass></profileDesc>
-      <revisionDesc><!-- add your information here -->
-	<change>
-	  <date>2009</date>
-	  <respStmt>
-	    <name>Shruthi Vissa, encoder</name>
-	    <resp>Beck Center staff</resp>
-	  </respStmt>
-	    <item>encoded according to TEI encoding guidelines</item>
-	</change>
-	<change>
-	  <date>2009</date>
-	  <respStmt>
-	    <name>Alice Hickcox</name>
-	    <resp>Beck Center Staff</resp>
-	  </respStmt>
-	  <item>Header added. Encoding corrected.</item>
-	</change>
-      </revisionDesc>
-   </teiHeader>
+	 </textClass></profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><!-- add your information here --><change><date>2009</date><label>Beck Center staff</label><name>Shruthi Vissa, encoder</name>encoded according to TEI encoding guidelines</change><change><date>2009</date><label>Beck Center Staff</label><name>Alice Hickcox</name>Header added. Encoding corrected.</change></revisionDesc></teiHeader>
 <text>
 <front>
-<titlePage id="mackintosh2000" type="half">
+<titlePage xml:id="mackintosh2000" type="half">
      <docTitle>
        <titlePart type="main">WAR, THE LIBERATOR
        </titlePart>
@@ -118,13 +83,13 @@
    </titlePage>
 <pb n="[i]"/>
 <pb n="[ii]"/>
-<div id="mackintosh2001" type="image">
-<figure entity="mackintoshfm1" rend="inline">
+<div xml:id="mackintosh2001" type="image">
+<figure><graphic url="" rend="inline"/>
 <p>A photograph of the author included in front matter of Mackintosh's War the Liberator</p>
 </figure>
 </div>
 <pb n="[iii]"/>
-<titlePage id="mackintosh2002" type="main">
+<titlePage xml:id="mackintosh2002" type="main">
      <docTitle>
        <titlePart type="main">WAR, THE LIBERATOR<lb/>AND OTHER PIECES
        BY<lb/>E.A.MACKINTOSH, M.C.<lb/> LT. SEAFORTH HIGHLANDERS (51st
@@ -135,19 +100,19 @@
 	 <pubPlace>LONDON:</pubPlace>
 	 <publisher>JOHN LANE, THE BODLEY HEAD</publisher>
 <pubPlace> NEW YORK:</pubPlace>
-<publisher> JOHN LANE COMPANY</publisher> <docDate>MCMXVIII</docDate>
+<publisher> JOHN LANE COMPANY</publisher> 
        </docImprint>
    </titlePage>
 <pb n="[iv]"/>
 
-<div id="mackintosh2003" type="colophon">
+<div xml:id="mackintosh2003" type="colophon">
 <p><hi rend="italic">Printed in Great Britain</hi></p>
-<p><hi rend="italic">by Turnbull &#x0026; Spears, Edinburgh</hi></p>
+<p><hi rend="italic">by Turnbull &amp; Spears, Edinburgh</hi></p>
 </div>
 
 <pb n="[1]"/>
 
-<div id="mackintosh2004" type="dedication">
+<div xml:id="mackintosh2004" type="dedication">
 <head>TO SYLVIA</head>
 
 <lg type="stanza">
@@ -186,14 +151,14 @@
 <l>I can look my dead friends in the face</l>
 <l>As I couldn't two months ago.</l></lg>
 
-<dateline><date value="1917-10-20"><hi rend="italic">October 20th</hi>, 1917</date></dateline>
+<dateline><date when="1917-10-20"><hi rend="italic">October 20th</hi>, 1917</date></dateline>
 
 </div>
 
 <pb n="[2]"/>
 <pb n="[3]"/>
 
-<div id="mackintosh2005" type="memoir">
+<div xml:id="mackintosh2005" type="memoir">
 
 <head type="main">MEMOIR</head>
 <head type="sub">EWART ALAN MACKINTOSH</head>
@@ -233,8 +198,7 @@ routine study of the schools, he cared little. Native power and a
 felicitous exuberance in literary things gained him his place in
 honour classical moderations. He played with Socialism, to the point
 of having scruples about the possession of wealth. He read poetry
-enthusiastically, and notably French poetry, in which his <hi
-rend="italic">r&#x00E9;pertoire</hi> was very large. Both in term and
+enthusiastically, and notably French poetry, in which his <hi rend="italic">répertoire</hi> was very large. Both in term and
 out of term he cultivated, above all, the sentiments and the arts of
 the Highlands. He learned to play the pipes and to speak Gaelic,
 things which later endeared him to his regiment. His friendships were
@@ -286,27 +250,27 @@ martyrdom rises whole-souled above the storm of violence and is
 humanity's true victory. And not that martyrdom only.</p>
 
 <signed>JOHN MURRAY</signed>
-<dateline><name type="place">CHRIST CHURCH, OXFORD</name><date value="1918-04">
+<dateline><name type="place">CHRIST CHURCH, OXFORD</name><date when="1918-04">
 <hi rend="italic">April</hi> 1918</date></dateline>
 
 </div>
 
 <pb n="7"/>
 
-<div id="mackintosh2006" type="table of contents">
-<figure type="mackintoshfm2" rend="inline">
+<div xml:id="mackintosh2006" type="table_of_contents">
+<figure rend="inline">
 <figDesc> Table of contents included in front matter of Mackintosh's "War the Liberator"</figDesc>
 </figure>
 
 <pb n="8"/>
 
-<figure type="mackintoshfm3" rend="inline">
+<figure rend="inline">
 <figDesc> Table of contents included in front matter of Mackintosh's "War the Liberator"</figDesc>
 </figure>
 
 <pb n="9"/>
 
-<figure type="mackintoshfm4" rend="inline">
+<figure rend="inline">
 <figDesc> Table of contents included in front matter of Mackintosh's "War the Liberator"</figDesc>
 </figure>
 </div>
@@ -317,7 +281,7 @@ humanity's true victory. And not that martyrdom only.</p>
 <front>
 
 <pb n="[11]"/>
-<titlePage id="mackintosh2007" type="half">
+<titlePage xml:id="mackintosh2007" type="half">
     <docTitle>
        <titlePart type="main">I<lb/>WAR, THE LIBERATOR
        </titlePart>
@@ -332,7 +296,7 @@ humanity's true victory. And not that martyrdom only.</p>
 
 <!-- title page here-->
 
-<div id="mackintosh001" type="poem" n="1">
+<div xml:id="mackintosh001" type="poem" n="1">
 <head>WAR, THE LIBERATOR<lb/>
 (TO THE AUTHORESS OF "NON-COMBATANTS")</head>
 
@@ -382,7 +346,7 @@ humanity's true victory. And not that martyrdom only.</p>
 </div>
 
 
-<div id="mackintosh002" type="poem" n="2">
+<div xml:id="mackintosh002" type="poem" n="2">
 <pb n="RECRUITING 15"/>
 <head>RECRUITING</head>
 
@@ -460,7 +424,7 @@ humanity's true victory. And not that martyrdom only.</p>
 </lg>
 </div>
 
-<div id="mackintosh003" type="poem" n="3">
+<div xml:id="mackintosh003" type="poem" n="3">
 <pb n="18 THE GERMAN AND THE GAEL"/>
 <head>THE GERMAN AND THE GAEL</head>
 
@@ -512,15 +476,15 @@ humanity's true victory. And not that martyrdom only.</p>
 </div>
 
 
-<div id="mackintosh004" type="poem" n="4">
+<div xml:id="mackintosh004" type="poem" n="4">
 <pb n="20 BEAUMONT-HAMEL"/>
 <head rend="left" type="main">BEAUMONT-HAMEL</head>
 <head rend="center" type="sub"><hi rend="italic">Captured, November 16th,</hi> 1916</head>
 
-<p>
-<text>
+
+<floatingText>
 <body>
-<div id="mackintosh1000" type="section" n="1">
+<div xml:id="mackintosh1000" type="section" n="1">
 <head rend="center">I</head>
 <lg type="stanza">
 <l>DEAD men at Beaumont</l>
@@ -534,13 +498,13 @@ humanity's true victory. And not that martyrdom only.</p>
 </lg>
 </div>
 </body>
-</text>
-</p>
+</floatingText>
 
-<p>
-<text>
+
+
+<floatingText>
 <body>
-<div id="mackintosh1001" type="section" n="2">
+<div xml:id="mackintosh1001" type="section" n="2">
 <head rend="center">2</head>
 <lg type="stanza">
 <l>Dead men at Beaumont,</l>
@@ -559,13 +523,13 @@ humanity's true victory. And not that martyrdom only.</p>
 </lg>
 </div>
 </body>
-</text>
-</p>
+</floatingText>
 
-<p>
-<text>
+
+
+<floatingText>
 <body>
-<div id="mackintosh1002" type="section" n="3">
+<div xml:id="mackintosh1002" type="section" n="3">
 <head rend="center">3</head>
 <lg type="stanza">
 <l>Maybe in the night-time</l>
@@ -578,14 +542,14 @@ humanity's true victory. And not that martyrdom only.</p>
 <l>Where they used to be.</l></lg>
 </div>
 </body>
-</text>
-</p>
+</floatingText>
 
 
-<p>
-<text>
+
+
+<floatingText>
 <body>
-<div id="mackintosh1003" type="section" n="4">
+<div xml:id="mackintosh1003" type="section" n="4">
 <head rend="center">4</head>
 <lg type="stanza">
 <l>Nay, not so I see you,</l>
@@ -599,13 +563,13 @@ humanity's true victory. And not that martyrdom only.</p>
 </lg>
 </div>
 </body>
-</text>
-</p>
+</floatingText>
 
-<p>
-<text>
+
+
+<floatingText>
 <body>
-<div id="mackintosh1004" type="section" n="5">
+<div xml:id="mackintosh1004" type="section" n="5">
 <pb n="22 BEAUMONT-HAMEL"/>
 <head rend="center">5</head>
 <l>So we still shall see you,</l>
@@ -618,12 +582,12 @@ humanity's true victory. And not that martyrdom only.</p>
 <l>Forward evermore.</l>
 </div>
 </body>
-</text>
-</p>
+</floatingText>
+
 
 </div>
 
-<div id="mackintosh005" type="poem" n="5">
+<div xml:id="mackintosh005" type="poem" n="5">
 <pb n="FAREWELL 23"/>
 <head type="main">FAREWELL</head>
 <head type="sub">To SERGEANT H. FRASER AND L.-SERGEANT G. M'Kay</head>
@@ -655,7 +619,7 @@ humanity's true victory. And not that martyrdom only.</p>
 <l>We shall not see again,</l>
 <l>The bitter winter trenches</l>
 <l>And the marches in the rain.</l>
-<l>B&#x00E9;court, Authuille, Thiepval,</l>
+<l>Bécourt, Authuille, Thiepval,</l>
 <l>Henancourt, Avelay,</l>
 <l>Their names are keys that open</l>
 <l>Remembered doors to me.</l></lg>
@@ -671,16 +635,16 @@ humanity's true victory. And not that martyrdom only.</p>
 <l>As I remember you.</l></lg>
 </div>
 
-<div id="mackintosh006" type="poem" n="6">
+<div xml:id="mackintosh006" type="poem" n="6">
 <pb n="THREE BATTLES 25"/>
 <head>THREE BATTLES</head>
 <head type="sub">To THE 51ST DIVISION</head>
 
 
-<p>
-<text>
+
+<floatingText>
 <body>
-<div id="mackintosh1005" type="section" n="5">
+<div xml:id="mackintosh1005" type="section" n="5">
 <head>HIGH WOOD, <hi rend="italic">July-August</hi> 1916</head>
 
 <lg type="stanza">
@@ -718,13 +682,13 @@ humanity's true victory. And not that martyrdom only.</p>
 </lg>
 </div>
 </body>
-</text>
-</p>
+</floatingText>
 
-<p>
-<text>
+
+
+<floatingText>
 <body>
-<div id="mackintosh1006" type="section" n="2">
+<div xml:id="mackintosh1006" type="section" n="2">
 <head>BEAUMONT-HAMEL, <hi rend="italic">November</hi> 16<hi rend="italic">th,</hi> 1916</head>
 
 <lg type="stanza">
@@ -771,14 +735,14 @@ humanity's true victory. And not that martyrdom only.</p>
 <l>Has arisen again.</l></lg>
 </div>
 </body>
-</text>
-</p>
+</floatingText>
 
 
-<p>
-<text>
+
+
+<floatingText>
 <body>
-<div id="mackintosh007" type="poem" n="7">
+<div xml:id="mackintosh007" type="poem" n="7">
 <pb n="28 VICTORY AND FAILURE"/>
 <head>VICTORY AND FAILURE</head>
 <head type="sub">ARRAS, <hi rend="italic">April</hi> 9<hi rend="italic">th</hi><lb/>
@@ -805,13 +769,13 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <l>To die along with you.</l></lg>
 </div>
 </body>
-</text>
-</p>
+</floatingText>
+
 
 </div>
 
 
-<div id="mackintosh008" type="poem" n="8">
+<div xml:id="mackintosh008" type="poem" n="8">
 <pb n="FROM HOME 29"/>
 <head type="main">FROM HOME</head>
 <head type="sub">TO THE MEN WHO FELL AT BEAUMONT-HAMEL<lb/>
@@ -853,7 +817,7 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 </div>
 
 
-<div id="mackintosh009" type="poem" n="9">
+<div xml:id="mackintosh009" type="poem" n="9">
 <pb n="FROM HOME 31"/>
 <head rend="left" type="main">FROM HOME</head>
 <head rend="center" type="sub">CAMBRIDGE</head>
@@ -893,7 +857,7 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 
 
 
-<div id="mackintosh010" type="poem" n="10">
+<div xml:id="mackintosh010" type="poem" n="10">
 <pb n="THE DEAD MEN 33"/>
 <head>THE DEAD MEN</head>
 
@@ -939,16 +903,16 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 
 
 
-<div id="mackintosh011" type="poem" n="11">
+<div xml:id="mackintosh011" type="poem" n="11">
 <pb n="THE SHIP OF THE SOUL 35"/>
 <head type="main">THE SHIP OF THE SOUL</head>
 <head type="sub">To E.J.S</head>
 
 
-<p>
-<text>
+
+<floatingText>
 <body>
-<div id="mackintosh1007" type="section" n="1">
+<div xml:id="mackintosh1007" type="section" n="1">
 <head rend="center">I</head>
 
 <lg type="stanza">
@@ -962,14 +926,15 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <l>Down to the glorious feet of Ra.</l></lg>
 </div>
 </body>
-</text>
-</p>
+</floatingText>
 
 
-<p>
-<text>
+
+
+
+<floatingText>
 <body>
-<div id="mackintosh1008" type="section" n="2">
+<div xml:id="mackintosh1008" type="section" n="2">
 <lg type="stanza">
 <l>Dust is wisdom, its dream forgotten,</l>
 <l>But still in the light of the setting sun</l>
@@ -985,14 +950,14 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <l>Still puts forth the ship of the soul.</l></lg>
 </div>
 </body>
-</text>
-</p>
+</floatingText>
 
 
-<p>
-<text>
+
+
+<floatingText>
 <body>
-<div id="mackintosh1009" type="section" n="3">
+<div xml:id="mackintosh1009" type="section" n="3">
 <head rend="center">3</head>
 
 <l>Ship after ship puts into harbour,</l>
@@ -1005,13 +970,13 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <l>Every one but you and I.</l>
 </div>
 </body>
-</text>
-</p>
+</floatingText>
 
-<p>
-<text>
+
+
+<floatingText>
 <body>
-<div id="mackintosh1010" type="section" n="4">
+<div xml:id="mackintosh1010" type="section" n="4">
 <head rend="center">4</head>
 <l>Why can we not stay? we that are wanting</l>
 <l>Nothing more than the others are,</l>
@@ -1023,15 +988,15 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <l>"Come, there are better things beyond."</l>
 </div>
 </body>
-</text>
-</p>
+</floatingText>
+
 
 <pb n="THE SHIP OF THE SOUL 37"/>
 
-<p>
-<text>
+
+<floatingText>
 <body>
-<div id="mackintosh1011" type="section" n="5">
+<div xml:id="mackintosh1011" type="section" n="5">
 <head rend="center">5</head>
 <l>Others may find their loves and keep them,</l>
 <l>But for us two there still shall be</l>
@@ -1042,13 +1007,13 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <l>Many a joyous port and city,</l>
 <l>Never the harbour lights of home.</l></div>
 </body>
-</text>
-</p>
+</floatingText>
+
 
 </div>
 
 
-<div id="mackintosh012" type="poem" n="12">
+<div xml:id="mackintosh012" type="poem" n="12">
 <pb n="38 GHOSTS OF WAR"/>
 <head type="main">GHOSTS OF WAR</head>
 <head type="sub">(SENT FROM FRANCE IN OCTOBER 1917)</head>
@@ -1096,7 +1061,7 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 </lg>
 
 <lg type="stanza">
-<l>This is our Earth baptiz&#x00E8;d</l>
+<l>This is our Earth baptizèd</l>
 <l>With the red wine of War.</l>
 <l>Horror and courage hand in hand</l>
 <l>Shall brood upon the stricken land</l>
@@ -1104,7 +1069,7 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 </lg>
 </div>
 
-<div id="mackintosh013" type="poem" n="13">
+<div xml:id="mackintosh013" type="poem" n="13">
 <pb n="40 GHOSTS OF WAR"/>
 <head rend="left">MINES</head>
 <head rend="center" type="sub">(SENT FROM FRANCE IN NOVEMBER 1917)</head>
@@ -1150,7 +1115,7 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 </div>
 
 
-<div id="mackintosh014" type="poem" n="14">
+<div xml:id="mackintosh014" type="poem" n="14">
 <pb n="42 GHOSTS OF WAR"/>
 <head rend="left">DEATH</head>
 
@@ -1192,7 +1157,7 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 </div> ***title page here***-->
 
 
-<div id="mackintosh015" type="poem" n="15">
+<div xml:id="mackintosh015" type="poem" n="15">
 <pb n="44"/>
 <pb n="45 TO THE UNKOWN LOVE"/>
 <head>TO THE UNKNOWN LOVE</head>
@@ -1228,7 +1193,7 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 </div>
 
 
-<div id="mackintosh016" type="poem" n="16">
+<div xml:id="mackintosh016" type="poem" n="16">
 <pb n="SONNET TO THE UNKNOWN LOVE 47"/>
 <head>SONNET TO THE UNKNOWN LOVE</head>
 
@@ -1254,7 +1219,7 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 </div>
 
 
-<div id="mackintosh017" type="poem" n="17">
+<div xml:id="mackintosh017" type="poem" n="17">
 <pb n="48 SONG"/>
 <head>SONG</head>
 
@@ -1295,7 +1260,7 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 </div>
 
 
-<div id="mackintosh018" type="poem" n="18">
+<div xml:id="mackintosh018" type="poem" n="18">
 <pb n="50 THE GHOST OF YOUTH"/>
 <head rend="left">THE GHOST OF YOUTH</head>
 
@@ -1347,7 +1312,7 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 </div>
 
 
-<div id="mackintosh1012" type="frontmatter">
+<div xml:id="mackintosh1012" type="frontmatter">
 <pb n="52 THE REMEMBERED GODS"/>
 
 <list type="ordered">
@@ -1362,7 +1327,7 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 </div>
 
 
-<div id="mackintosh1013" type="dedication">
+<div xml:id="mackintosh1013" type="dedication">
 <head>DEDICATION</head>
 
 <lg type="stanza">
@@ -1387,7 +1352,7 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 </div>
 
 
-<div id="mackintosh1014" type="Act" n="1">
+<div xml:id="mackintosh1014" type="Act" n="1">
 <pb n="THE REMEMBERED GODS 53"/>
 <head>THE REMEMBERED GODS</head>
 
@@ -1429,8 +1394,7 @@ a wreath of mist.</p>
 </sp>
 
 <stage type="setting">[<hi rend="italic">Day dawns, and the stage is empty</hi>.</stage>
-<stage type="entrance">CALUM <hi rend="italic">and</hi> IAN <hi
-rend="italic">come in</hi>.</stage>
+<stage type="entrance">CALUM <hi rend="italic">and</hi> IAN <hi rend="italic">come in</hi>.</stage>
 
 <sp>
 <speaker>CALUM.</speaker>
@@ -1544,7 +1508,7 @@ rend="italic">come in</hi>.</stage>
 <l>Or in the mazy fastness of the air,</l>
 <l>Draw near in peace. For I have learned too well</l>
 <l>The lesson of Christ's love, to hate the sad</l>
-<l>Discrown&#x00E8;d gods that are His enemies.</l>
+<l>Discrownèd gods that are His enemies.</l>
 </lg>
 </sp>
 
@@ -1741,7 +1705,7 @@ rend="italic">come in</hi>.</stage>
 <lg type="stanza"> 
 <l>Oh Ian, Ian, will you not remember</l>
 <l>The poor feet that the nails were driven through,</l>
-<l>The pierc&#x00E8;d hands and the spear-riven side,</l>
+<l>The piercèd hands and the spear-riven side,</l>
 <l>And the heroic brow false-crowned with thorns?</l>
 </lg>
 </sp>
@@ -1780,14 +1744,12 @@ rend="italic">come in</hi>.</stage>
 <stage>END OF ACT I</stage>
 </div>
 
-<div id="mackintosh1015" type="ACT" n="2">
+<div xml:id="mackintosh1015" type="ACT" n="2">
 <pb n="62 THE REMEMBERED GODS"/>
 <head>ACT II</head>
 
-<stage><p><hi rend="italic">The scene is</hi> IAN's <hi
-rend="italic">cottage. A wide fireplace with peats burning,and big
-chests along the walls. At a table sits</hi> MAIRI BAIN. IAN <hi
-rend="italic">and</hi> ALASTAIR <hi rend="italic">come
+<stage><p><hi rend="italic">The scene is</hi> IAN's <hi rend="italic">cottage. A wide fireplace with peats burning,and big
+chests along the walls. At a table sits</hi> MAIRI BAIN. IAN <hi rend="italic">and</hi> ALASTAIR <hi rend="italic">come
 in.</hi></p></stage>
 
 <sp>
@@ -1862,8 +1824,7 @@ in.</hi></p></stage>
 </lg>
 </sp>
 
-<stage>[<hi rend="italic">He goes out.</hi> MAIRI <hi
-rend="italic">bursts into tears.</hi></stage>
+<stage>[<hi rend="italic">He goes out.</hi> MAIRI <hi rend="italic">bursts into tears.</hi></stage>
 
 <sp>
 <speaker>MAIRI.</speaker> 
@@ -2066,7 +2027,7 @@ heard. ALASTAIR starts and turns round</hi>.</p></stage>
 </div>
 
 
-<div id="macintosh1016" type="Act" n="3">
+<div xml:id="macintosh1016" type="Act" n="3">
 <pb n="68 THE REMEMBERED GODS"/>
 <head>ACT III</head>
 
@@ -2172,8 +2133,7 @@ sing.</hi>
 </lg>
 </sp>
 
-<stage type="entrance">>MAIRI <hi rend="italic">and</hi> CALUM <hi
-rend="italic">come in</hi>.</stage>
+<stage type="entrance">&gt;MAIRI <hi rend="italic">and</hi> CALUM <hi rend="italic">come in</hi>.</stage>
 
 <sp>
 <lg>
@@ -2208,8 +2168,7 @@ silence, leaving on the stage only</hi>
 
 <pb n="THE REMEMBERED GODS 71"/>
 
-ALASTAIR, MAIRI, <hi rend="italic">and</hi> CALUM. MAIRI <hi
-rend="italic">is struck at first with terror. Then she comes up
+ALASTAIR, MAIRI, <hi rend="italic">and</hi> CALUM. MAIRI <hi rend="italic">is struck at first with terror. Then she comes up
 to</hi> ALASTAIR <hi rend="italic">and speaks,
 weeping.</hi></p></stage>
 
@@ -2233,8 +2192,7 @@ weeping.</hi></p></stage>
 <l>And I am seeing the white feet of the mist.</l>
 </sp>
 
-<stage type="exit">[<hi rend="italic">He goes out</hi>. MAIRI <hi
-rend="italic">sits down with her head in her hands.</hi></stage>
+<stage type="exit">[<hi rend="italic">He goes out</hi>. MAIRI <hi rend="italic">sits down with her head in her hands.</hi></stage>
 
 <sp>
 <speaker>MAIRI.</speaker> 
@@ -2248,7 +2206,7 @@ rend="italic">sits down with her head in her hands.</hi></stage>
 
 <pb n="72 THE REMEMBERED GODS"/>
 
-<l>Is bruis&#x00E8;d with the beating of their wings.</l>
+<l>Is bruisèd with the beating of their wings.</l>
 </sp>
 
 <sp>
@@ -2290,14 +2248,13 @@ rend="italic">sits down with her head in her hands.</hi></stage>
 </div>
 
 
-<div id="macintosh1017" type="Act" n="4">
+<div xml:id="macintosh1017" type="Act" n="4">
 <pb n="THE REMEMBERED GODS 73"/>
 <head>ACT IV</head>
 
 <stage type="setting">
 <p><hi rend="italic">The scene is the same as the first. It is
-night, but the great tree shows blacker. Below it sits </hi>ANGUS<hi
-rend="italic"> in a wreath of mist.</hi>
+night, but the great tree shows blacker. Below it sits </hi>ANGUS<hi rend="italic"> in a wreath of mist.</hi>
 </p>
 </stage>
 
@@ -2367,8 +2324,7 @@ speaks.</hi></stage>
 
 <stage type="setting"><p>[<hi rend="italic">The murmur of the sea
 swells into a roar, and the darkness in the west lightens to an
-emerald glow. From it </hi>LIOR <hi
-rend="italic">speaks</hi>.</p></stage>
+emerald glow. From it </hi>LIOR <hi rend="italic">speaks</hi>.</p></stage>
 
 <sp>
 <speaker>LIOR.</speaker> 
@@ -2391,8 +2347,7 @@ rend="italic">speaks</hi>.</p></stage>
 </sp>
 
 
-<stage>[<hi rend="italic">From the great ben</hi> BALOR <hi
-rend="italic">speaks through the falling rain.</hi></stage>
+<stage>[<hi rend="italic">From the great ben</hi> BALOR <hi rend="italic">speaks through the falling rain.</hi></stage>
 
 <sp>
 <speaker>BALOR.</speaker> 
@@ -2567,7 +2522,7 @@ in</hi>.</p></stage>
 <l>To hearts that know the end of happiness;</l>
 <l>For I will never press the floor of Heaven,</l>
 <l>Nor hear the angels' voices sweet and clear,</l>
-<l>Nor ever kiss the pierc&#x00E8;d feet of Christ.</l>
+<l>Nor ever kiss the piercèd feet of Christ.</l>
 <l>But sometimes I shall hear them far away</l>
 <l>Singing the melodies of Paradise,</l>
 <l>While I lie torn and anguished evermore,</l>
@@ -2710,7 +2665,7 @@ tree and sees who it is.</hi></p></stage>
 </div> ***title page here*** -->
 
 
-<div id="mackintosh020" type="poem" n="19">
+<div xml:id="mackintosh020" type="poem" n="19">
 <pb n="THE BALEFUL BARD 85"/>
 
 <head type="main">THE BALEFUL BARD</head>
@@ -2788,7 +2743,7 @@ tree and sees who it is.</hi></p></stage>
 </lg>
 </div>
 
-<div id="mackintosh021" type="poem" n="20">
+<div xml:id="mackintosh021" type="poem" n="20">
 <pb n="88 THE SMOKE HELMET"/>
 <head type="main">THE SMOKE HELMET</head>
 <head type="sub"><hi rend="italic">Tune</hi>--" The Lum Hat wantin' a Croon "</head>
@@ -2851,7 +2806,7 @@ tree and sees who it is.</hi></p></stage>
 </lg>
 </div>
 
-<div id="mackintosh022" type="poem" n="21">
+<div xml:id="mackintosh022" type="poem" n="21">
 <pb n="90 THE CHARGE OF THE LIGHT BRIGADE"/>
 <head type="main">THE CHARGE OF THE LIGHT<lb/>
 BRIGADE</head>
@@ -2919,7 +2874,7 @@ BRIGADE</head>
 </lg>
 </div>
 
-<div id="mackintosh023" type="poem" n="22">
+<div xml:id="mackintosh023" type="poem" n="22">
 <pb n="TO BASIL 93"/>
 <head type="main">TO BASIL, A BAVARIAN BOMBER</head>
 <head type="sub">In MEMORY OF THE BARRICADES IN THE LABYRINTH</head>
@@ -2963,7 +2918,7 @@ BRIGADE</head>
 <l>But now that I am far from war's alarms</l>
 <l>I like to muse upon the years to come</l>
 <l>When we shall both have done with force and arms,</l>
-<l>And Mills and Spaeter<ref target="mackintosh94">1</ref>
+<l>And Mills and Spaeter<ref target="#mackintosh94">1</ref>
  will alike be dumb,</l>
 <l>And those familiar accents I shall hear.</l>
 <l>And we shall meet, oh peerless grenadier--</l>
@@ -2978,7 +2933,7 @@ BRIGADE</head>
 <l>Health to the barricades at which we threw</l>
 </lg>
 
-<note id="mackintosh94" n="1" resp="mackintosh" place="foot">Karl Spaeter, a
+<note xml:id="mackintosh94" n="1" resp="#mackintosh" place="foot">Karl Spaeter, a
 prominent Bosche munitioneer.</note>
 
 <pb n="TO BASIL 95"/>
@@ -2990,7 +2945,7 @@ prominent Bosche munitioneer.</note>
 </lg>
 </div>
 
-<div id="mackintosh024" type="poem">
+<div xml:id="mackintosh024" type="poem">
 <pb n="96 WHERE THE TRENCHES RUN"/>
 <head>WHERE THE TRENCHES RUN<lb/>DOWN FROM THE SOMME TO<lb/>
 THE SEA</head>
@@ -3045,7 +3000,7 @@ THE SEA</head>
 </lg>
 </div>
 
-<div id="mackintosh00024" type="poem" n="23">
+<div xml:id="mackintosh00024" type="poem" n="23">
 <pb n="98 WHERE TRENCHES RUN"/>
 <head type="main"><sic>THE WHOLE DUTY OF A COMPAN</sic><lb/>
 OFFICER</head>
@@ -3080,7 +3035,7 @@ OFFICER</head>
 </lg>
 </div>
 
-<div id="mackintosh1020" type="section" n="2">
+<div xml:id="mackintosh1020" type="section" n="2">
 <head type="main">(ii) Co-operation</head>
 
 <lg type="stanza">
@@ -3110,7 +3065,7 @@ OFFICER</head>
 </lg>
 </div>
 
-<div id="mackintosh1021" type="section" n="3">
+<div xml:id="mackintosh1021" type="section" n="3">
 <head>(iii) The ACQUISITION OF DECORATIONS</head>
 
 <lg type="stanza">
@@ -3139,7 +3094,7 @@ OFFICER</head>
 </div>
 
 
-<div id="mackintosh025" type="poem" n="24">
+<div xml:id="mackintosh025" type="poem" n="24">
 <pb n="HIGH WOOD 101"/>
 <head>HIGH WOOD TO WATERLOT FARM</head>
 <head type="sub"><hi rend="italic">Tune</hi>--" Chalk Farm to Camberwell Green "</head>
@@ -3167,7 +3122,7 @@ OFFICER</head>
 </lg>
 </div>
 
-<div id="mackintosh026" type="poem" n="25">
+<div xml:id="mackintosh026" type="poem" n="25">
 <pb n="102 THE GERMAN"/>
 <head type="main">THE GERMAN IN HIS BLINDNESS</head>
 <head type="sub"><hi rend="italic">Tune</hi>--" Greenland's icy mountains "</head>
@@ -3194,7 +3149,7 @@ OFFICER</head>
 <pb n="THE GERMAN 103"/>
 
 <l>An intimate acquaintance</l>
-<l rend="inline">With our old Number 5.<ref target="mackintosh103">1</ref></l>
+<l rend="inline">With our old Number 5.<ref target="#mackintosh103">1</ref></l>
 </lg>
 
 <lg type="stanza">
@@ -3208,12 +3163,12 @@ OFFICER</head>
 <l>The day the Seaforths come.</l>
 </lg>
 
-<note id="mackintosh103" n="1" resp="mackintosh" place="foot">No. 5 Mills hand
+<note xml:id="mackintosh103" n="1" resp="#mackintosh" place="foot">No. 5 Mills hand
 grenade, a handy little bomb.</note>
 
 </div>
 
-<div id="mackintosh027" type="poem" n="26">
+<div xml:id="mackintosh027" type="poem" n="26">
 <pb n="104 ODE"/>
 <head type="main">ODE TO A FRENCH REGIMENT</head>
 <head type="sub">ON FINDING THEY HAD LEFT BEHIND MORE STORES THAN WE<lb/> HAD BARGAINED FOR</head>
@@ -3258,19 +3213,19 @@ grenade, a handy little bomb.</note>
 <l>Nay, then I shall slay you, preferring</l>
 <l rend="inline">To think you the breed of the Bosche,</l>
 <l>Who leap from your trenches preparing</l>
-<l rend="inline">To feed on the vitals of Tosh,<ref target="mackintosh105">1</ref></l>
+<l rend="inline">To feed on the vitals of Tosh,<ref target="#mackintosh105">1</ref></l>
 <l>When the iron of the tailor is singeing</l>
 <l rend="inline">The pleats of the kilt that was mine,</l>
 <l>I like to think you will die singing</l>
 <l rend="inline">The Watch on the Rhine.</l>
 </lg>
 
-<note id="mackintosh105" n="1" resp="mackintosh" place="foot"> Name by which I
+<note xml:id="mackintosh105" n="1" resp="#mackintosh" place="foot"> Name by which I
 was known in the battalion.</note>
 
 </div>
 
-<div id="mackintosh028" type="poem" n="27">
+<div xml:id="mackintosh028" type="poem" n="27">
 <pb n="106 MY OLD GRENADE"/>
 <head>MY OLD GRENADE</head>
 <head type="sub"><hi rend="italic">Tune</hi>--"My Old Shako"</head>
@@ -3300,7 +3255,7 @@ was known in the battalion.</note>
 <pb n="MY OLD GRENADE 107"/>
 
 <l>'Twas in a most unpleasant wood,</l>
-<l rend="inline">The Hammerhead<ref target="mackintosh107">1</ref> by name,</l>
+<l rend="inline">The Hammerhead<ref target="#mackintosh107">1</ref> by name,</l>
 <l>When we waited for three hours or more</l>
 <l rend="inline">Under the Bosches' fire--</l>
 <l>But I only got a beastly cold</l>
@@ -3325,7 +3280,7 @@ was known in the battalion.</note>
 <l rend="inline">That loathed his old grenade."</l>
 </lg>
 
-<note place="foot" id="mackintosh107" n="1">Hammerhead Wood, Thiepval, where the Bosches nearly cut short a bright young life.</note>
+<note place="foot" xml:id="mackintosh107" n="1">Hammerhead Wood, Thiepval, where the Bosches nearly cut short a bright young life.</note>
 
 <pb n="108 MY OLD GRENADE"/>
 <lg>
@@ -3336,7 +3291,7 @@ was known in the battalion.</note>
 </lg>
 </div>
 
-<div id="mackintosh029" type="poem" n="28">
+<div xml:id="mackintosh029" type="poem" n="28">
 <pb n="A BOMBER'S LIFE 109"/>
 <head type="main">A BOMBER'S LIFE</head>
 <head type="sub"><hi rend="italic">Tune</hi>--" A Policeman's Life is not a Happy One."</head>
@@ -3368,7 +3323,7 @@ was known in the battalion.</note>
 
 <lg type="stanza">
 <l>When our parties we are personally taking</l>
-<l rend="inline">Through a salient<ref target="mackintosh110">1</ref> that's like a rabbit-run,</l>
+<l rend="inline">Through a salient<ref target="#mackintosh110">1</ref> that's like a rabbit-run,</l>
 <l>And our knees with fear of oil-cans both are quaking,</l>
 <l rend="inline">Oh, a bomber's life is not a happy one.</l>
 </lg>
@@ -3386,10 +3341,10 @@ was known in the battalion.</note>
 
 <l><hi rend="italic">Chorus</hi>as before.</l>
 
-<note place="foot" id="mackintosh110" n="1"> Thiepval South Salient, of evil memory.</note>
+<note place="foot" xml:id="mackintosh110" n="1"> Thiepval South Salient, of evil memory.</note>
 </div>
 
-<div id="mackintosh030" type="poem" n="29">
+<div xml:id="mackintosh030" type="poem" n="29">
 <pb n="COMPLAINT 111"/>
 <head type="main">COMPLAINT OF OUR PRIVATE SOLDIERS</head>
 <head type="sub"><hi rend="italic">Tune</hi>--" We are but little children weak "</head>
@@ -3422,7 +3377,7 @@ record my thanks to them here.
 </div>
 
 
-<div id="mackintosh031" type="poem" n="30">
+<div xml:id="mackintosh031" type="poem" n="30">
 <pb n="112 FOUR AND TWENTY BOMBERS"/>
 <head type="main">FOUR AND TWENTY BOMBERS</head>
 <head type="sub"><hi rend="italic">Tune</hi>--" The Ball at Kirriemuir "</head>
@@ -3465,11 +3420,10 @@ ballad.
 </p>
 </div>
 
-<div id="mackintosh032" type="poem" n="31">
+<div xml:id="mackintosh032" type="poem" n="31">
 <pb n="114 SNIPER SANDY"/>
 <head type="main">SNIPER SANDY<lb/>
-(SERGEANT ALEXANDER MACDONALD, KILLED IN ACTION AT BEAUMONT-HAMEL, <hi
-rend="italic">November</hi> 18<hi rend="italic">th</hi>, 1916)</head>
+(SERGEANT ALEXANDER MACDONALD, KILLED IN ACTION AT BEAUMONT-HAMEL, <hi rend="italic">November</hi> 18<hi rend="italic">th</hi>, 1916)</head>
 <head type="sub"><hi rend="italic">Tune</hi>--" Sister Susie sewing shirts for soldiers"</head>
 
 <lg type="stanza">
@@ -3532,7 +3486,7 @@ Staff--</l>
 
 </div>
 
-<div id="mackintosh033" type="poem" n="32">
+<div xml:id="mackintosh033" type="poem" n="32">
 <pb n="116 A SONG IN PRAISE"/>
 <head type="main">A SONG IN PRAISE OF THE ARMY SERVICE CORPS</head>
 <head type="sub"><hi rend="italic">Tune</hi>--" The Minstrel Boy to the War has gone "</head>
@@ -3587,7 +3541,7 @@ Staff--</l>
 <pb n="A RAID 121"/>
 </div> ***title page here*** -->
 
-<div id="mackintosh034" type="story">
+<div xml:id="mackintosh034" type="story">
 <head>A RAID</head>
 
 <p>"PARTY, 'shun! Left-tum! You will parade again at 2.15 in
@@ -4004,8 +3958,7 @@ was filled with unreasonable anger against the man for being so heavy
 and making such a filthy row.</p>
 
 <p>" Oh, <hi rend="italic">come</hi> on, you silly devil," he said,
-with a pull which made the man scream; then " Oh, I <hi
-rend="italic">am</hi> sorry, Thompson.No matter. You'll be home
+with a pull which made the man scream; then " Oh, I <hi rend="italic">am</hi> sorry, Thompson.No matter. You'll be home
 soon."</p>
 
 <p>As they dragged him to the point of exit they saw MacRae still
@@ -4173,15 +4126,15 @@ again.</p>
 men, walked slowly up the hill to the billet, where he and Charles had
 stayed together.</p>
 
-<p>Their landlady came to the door crying, "Mais o&#x00F9; est l'autre officier?"</p>
+<p>Their landlady came to the door crying, "Mais où est l'autre officier?"</p>
 
-<p>"II est bless&#x00E9;, Madame," said MacTaggart heavily, " mais
-nous avons tu&#x00E9; plus que quarante Bosches--et je suis tres
-fatigu&#x00E9;."</p>
+<p>"II est blessé, Madame," said MacTaggart heavily, " mais
+nous avons tué plus que quarante Bosches--et je suis tres
+fatigué."</p>
 </div>
 
 
-<div id="mackintosh035" type="story">
+<div xml:id="mackintosh035" type="story">
 <pb n="IN THE WOOD 143"/>
 <head>IN THE WOOD</head>
 
@@ -4459,7 +4412,7 @@ same.</p>
 
 <pb n="GOLD BRAID 153"/>
 
-<div id="mackintosh036" type="story">
+<div xml:id="mackintosh036" type="story">
 <head type="main">GOLD BRAID</head>
 <head type="sub">In Memory of a Friend</head>
 
@@ -4543,28 +4496,28 @@ watched the falling bomb with rapid and instinctive calculation.</p>
 </body>
 
 <back>
-<div id="mackintosh" type="back matter">
-<figure entity="mackintoshbm1" rend="inline">
+<div xml:id="mackintosh" type="backmatter">
+<figure><graphic url="" rend="inline"/>
 <figDesc>An image of a page of advertisements included in the back
 matter of Mackintosh's War the Liberator</figDesc>
 </figure>
 <pb n="[158]"/> 
 
-<figure entity="mackintoshbm2" rend="inline">
+<figure><graphic url="" rend="inline"/>
 <figDesc>An image of a page of advertisements included in the back
 matter of Mackintosh's War the Liberator</figDesc>
 </figure>
 
 <pb n="[159]"/>
 
-<figure entity="mackintoshbm3" rend="inline">
+<figure><graphic url="" rend="inline"/>
 <figDesc>An image of a page of advertisements included in the back
 matter of Mackintosh's War the Liberator</figDesc>
 </figure>
 
 <pb n="[160]"/>
 
-<figure entity="mackintoshbm4" rend="inline">
+<figure><graphic url="" rend="inline"/>
 <figDesc>An image of a page of advertisements included in the back
 matter of Mackintosh's War the Liberator</figDesc>
 </figure>
@@ -4573,4 +4526,4 @@ matter of Mackintosh's War the Liberator</figDesc>
 </text>
 </group>
 </text>
-</TEI.2>
+</TEI>

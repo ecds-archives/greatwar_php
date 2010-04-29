@@ -1,20 +1,15 @@
-<TEI.2>
-   <teiHeader>
-      <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader><fileDesc>
          <titleStmt>
             <title>Lest We Forget: Electronic Edition</title>
-            <editor><name type="person" reg="Elliot, H. B.">H. B. Elliot</name></editor>
+            <editor><name type="person"><choice><reg>Elliot, H. B.</reg><sic>H. B. Elliot</sic></choice></name></editor>
          </titleStmt>
-	 <publicationStmt>
-	   <publisher>Lewis H. Beck Center for Electronic Collections
-	   and Services, Emory University</publisher>
-	   <pubPlace>Atlanta, GA</pubPlace>
-	   <address>
+	 <publicationStmt><publisher>Lewis H. Beck Center for Electronic Collections
+	   and Services, Emory University</publisher><pubPlace>Atlanta, GA</pubPlace><address>
 	     <addrLine>540 Asbury Circle</addrLine>
 	     <addrLine>Woodruff Library</addrLine>
 	     <addrLine>Atlanta, GA 30322</addrLine>
-	   </address>
-	   <availability><p>&#x00A9;Emory University. Permission is
+	   </address><availability><p>©Emory University. Permission is
 	   granted to download, transmit, or otherwise reproduce,
 	   distribute or display the contributions to the work claimed
 	   by Emory University for non-profit educational purposes,
@@ -23,9 +18,7 @@
 	   for Jewish Studies, Emory University, Atlanta GA 30322 or
 	   the Lewis H. Beck Center for Electronic Collections and
 	   Services, Woodruff Library, Emory University, Atlanta,
-	   Georgia 30322 </p></availability> 
-	   <date>2004</date>
-	 </publicationStmt>
+	   Georgia 30322 </p></availability><date>2004</date></publicationStmt>
 	 <seriesStmt>
 	   <title>The Great War</title>
 	 </seriesStmt>
@@ -36,12 +29,11 @@
 	     <title>Lest We Forget</title>
 	     <editor>H. B. Elliot</editor>
 	     <pubPlace>London</pubPlace>
-	     <publisher>Jarrold &#x0026; Sons</publisher>
+	     <publisher>Jarrold &amp; Sons</publisher>
 	     <date>1915</date>
 	   </bibl>
          </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
+      </fileDesc><encodingDesc>
 	<projectDesc><p>Poetry contemporary to World War I (the Great
 	War) has been digitized by OCR or rekeying. The work has been
 	done in conjunction with Dr. Harry Rusche of the English
@@ -50,39 +42,26 @@
 	<p>Block quotes are marked with q or quote
 	elements</p>
 	</editorialDecl>
-	<tagsDecl>
-	  <rendition id="quote">Paragraphs including q or quote
+	<tagsDecl><rendition xml:id="quote">Paragraphs including q or quote
 	  elements indicate material that is in a block
-	  quote.</rendition>
-	  <rendition id="title">Where the title of a work is
+	  quote.</rendition><rendition xml:id="title">Where the title of a work is
 	  italicized, it is marked with a title element, both in the
-	  text and in footnotes.</rendition>
-	  <rendition id="byline">Bylines in this text are aligned
-	  right after the last line of text</rendition>
-	  <rendition id="note">Notes (<note/>) are always
-	  italic.</rendition>
-	  <rendition id="indent">The "indent" value is two spaces,
-	  unless otherwise noted.</rendition>
-	  <tagUsage gi="q" render="quote">blockquote</tagUsage>
-	  <tagUsage gi="quote" render="quote">blockquote</tagUsage>
-	  <tagUsage gi="title" render="title">italic</tagUsage>
-	  <tagUsage gi="byline" render="byline">right</tagUsage>
-	  <tagUsage gi="note" render="note">italic</tagUsage>
-	  <tagUsage gi="l" render="indent">indent 2</tagUsage>
-	</tagsDecl>
+	  text and in footnotes.</rendition><rendition xml:id="byline">Bylines in this text are aligned
+	  right after the last line of text</rendition><rendition xml:id="note">Notes are always
+	  italic.</rendition><rendition xml:id="indent">The "indent" value is two spaces,
+	  unless otherwise noted.</rendition><namespace name="http://www.tei-c.org/ns/1.0"><tagUsage gi="q" render="#quote">blockquote</tagUsage><tagUsage gi="quote" render="#quote">blockquote</tagUsage><tagUsage gi="title" render="#title">italic</tagUsage><tagUsage gi="byline" render="#byline">right</tagUsage><tagUsage gi="note" render="#note">italic</tagUsage><tagUsage gi="l" render="#indent">indent 2</tagUsage></namespace></tagsDecl>
 	<refsDecl><p>The page numbers of the volumes are indicated by
 	page break elements</p>
 	<p/>
 	</refsDecl>
 	<classDecl>
-	  <taxonomy id="lcsh">
+	  <taxonomy xml:id="lcsh">
 	    <bibl>
 	      <title>Library of Congress Subject Headings</title>
 	    </bibl>
 	  </taxonomy>
 	</classDecl>
-      </encodingDesc>
-      <profileDesc>
+      </encodingDesc><profileDesc>
          <creation>
 	   <rs type="collection">poetry</rs>
 	   <rs type="language">English</rs>
@@ -93,39 +72,20 @@
             <date>1900-1999</date>
          </creation>
 	 <textClass>
-	   <keywords scheme="lcsh">
+	   <keywords scheme="#lcsh">
 	     <list>
 	       <item>World War, 1914-1918--Poetry.</item>
 	       <item>English poetry--20th Century.</item>
 	       <item>War.</item>
 	     </list>
 	   </keywords>
-	 </textClass></profileDesc>
-      <revisionDesc>
-	<change>
-	  <date>2004</date>
-	  <respStmt>
-	    <name>Alden Mahler</name>
-	    <resp>Beck Center Staff</resp>
-	  </respStmt>
-	    <item>Scanning, proofreading and encoding</item>
-	</change>
-	<change>
-	  <date>September 2004</date>
-	  <respStmt>
-	    <name>Alice Hickcox</name>
-	    <resp>Beck Center Staff</resp>
-	  </respStmt>
-	    <item>Header added; encoding checked</item>
-	</change>
-      </revisionDesc>
-   </teiHeader>
+	 </textClass></profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2004</date><label>Beck Center Staff</label><name>Alden Mahler</name>Scanning, proofreading and encoding</change><change><date>September 2004</date><label>Beck Center Staff</label><name>Alice Hickcox</name>Header added; encoding checked</change></revisionDesc></teiHeader>
 
 <text>
 <front>
 <pb n="1"/>
-<div id="elliott001" type="epigraph">
-<epigraph><q direct="unspecified">
+<div xml:id="elliott001" type="epigraph">
+<epigraph><q>
 <l rend="indent7">"O God to-day</l>
 <milestone unit="line" rend="dots"/>
 <l>Shield with Thy wings the many, far away;</l>
@@ -138,7 +98,7 @@
 
 
 
-<div id="elliott002" type="note">
+<div xml:id="elliott002" type="note">
 <head rend="center">NOTE.</head>
 
 <p>
@@ -154,7 +114,7 @@ I am under a heavy obligation to the various authors who have so generously plac
 </div>
 
 <pb n="7"/>
-<div id="elliott003" type="foreword">
+<div xml:id="elliott003" type="foreword">
 <head rend="center">FOREWORD.</head>
 
 <p>
@@ -172,11 +132,11 @@ Kent.</name></dateline>
 
 <body>
 
-<div id="elliott004" type="anthology" n="Lest We Forget:  A War Anthology">
+<div xml:id="elliott004" type="anthology" n="Lest We Forget:  A War Anthology">
 
 
 <pb n="11"/>
-<div id="elliott005" type="poem" n="Ode">
+<div xml:id="elliott005" type="poem" n="Ode">
 <docAuthor n="Binyon, Laurence">Laurence Binyon</docAuthor>
 <head rend="center">"ODE."</head>
 
@@ -316,7 +276,7 @@ Fortnightly Review.</byline>
 
 
 <pb n="17"/>
-<div id="elliott006" type="poem" n="The Roll of Honour">
+<div xml:id="elliott006" type="poem" n="The Roll of Honour">
 <docAuthor n="Peterson, Margaret">Margaret Peterson</docAuthor>
 <head rend="center">THE ROLL OF HONOUR.</head>
 
@@ -347,7 +307,7 @@ Fortnightly Review.</byline>
 
 
 <pb n="19"/>
-<div id="elliott007" type="poem" n="Litany in War-Time">
+<div xml:id="elliott007" type="poem" n="Litany in War-Time">
 <docAuthor n="Allen, J. W.">J. W. Allen</docAuthor>
 <head rend="center">LITANY IN WAR-TIME.</head>
 
@@ -362,7 +322,7 @@ Fortnightly Review.</byline>
 <l rend="indent">Lord, forgive us our sins!</l></lg>
 
 <lg>
-<l>The naked we have not cloth&egrave;d,</l>
+<l>The naked we have not clothèd,</l>
 <l rend="indent">The hungry we have not fed,</l>
 <l>The women degraded and outcast,</l>
 <l rend="indent">The children crying for bread!</l>
@@ -423,7 +383,7 @@ Fortnightly Review.</byline>
 <pb n="23"/>
 
 <pb n="24"/>
-<div id="elliott009" type="poem" n="The Women of Belgium to the Women of England">
+<div xml:id="elliott009" type="poem" n="The Women of Belgium to the Women of England">
 <docAuthor n="Booth, Mary">Mary Booth</docAuthor>
 <head rend="center">THE WOMEN OF BELGIUM TO THE WOMEN OF ENGLAND.</head>
 
@@ -453,7 +413,7 @@ Fortnightly Review.</byline>
 
 
 <pb n="25"/>
-<div id="elliott010" type="poem" n="Le Jour Des Morts">
+<div xml:id="elliott010" type="poem" n="Le Jour Des Morts">
 <docAuthor n="Chesterton, Frances">Frances Chesterton</docAuthor>
 <head rend="center">LE JOUR DES MORTS.</head>
 
@@ -513,7 +473,7 @@ Fortnightly Review.</byline>
 
 
 <pb n="27"/>
-<div id="elliott011" type="poem" n="The Men Who Man">
+<div xml:id="elliott011" type="poem" n="The Men Who Man">
 <docAuthor n="Watson, William">William Watson</docAuthor>
 <head rend="center">THE MEN WHO MAN.</head>
 
@@ -604,7 +564,7 @@ Fortnightly Review.</byline>
 
 
 <pb n="30"/>
-<div id="elliott012" type="poem" n="Suspense">
+<div xml:id="elliott012" type="poem" n="Suspense">
 <docAuthor n="Gard, Lillian">Lillian Gard</docAuthor>
 <head rend="center">SUSPENSE.</head>
 
@@ -633,7 +593,7 @@ Fortnightly Review.</byline>
 <pb n="34"/>
 
 <pb n="35"/>
-<div id="elliott014" type="poem" n="Honour's Utmost Task">
+<div xml:id="elliott014" type="poem" n="Honour's Utmost Task">
 <docAuthor n="Danby, Frank">Frank Danby</docAuthor>
 <head rend="center">HONOUR'S UTMOST TASK.</head>
 
@@ -685,7 +645,7 @@ Fortnightly Review.</byline>
 
 
 <pb n="37"/>
-<div id="elliott015" type="poem" n="Called Up!">
+<div xml:id="elliott015" type="poem" n="Called Up!">
 <docAuthor n="Gard, Lillian">Lillian Gard</docAuthor>
 <head rend="center">CALLED UP!</head>
 
@@ -714,7 +674,7 @@ Fortnightly Review.</byline>
 
 
 <pb n="38"/>
-<div id="elliott016" type="poem" n="A Singsong of England">
+<div xml:id="elliott016" type="poem" n="A Singsong of England">
 <docAuthor n="Hewlett, Maurice">Maurice Hewlett</docAuthor>
 <head rend="center">A SINGSONG OF ENGLAND.</head>
 
@@ -802,7 +762,7 @@ Fortnightly Review.</byline>
 <pb n="46"/>
 
 <pb n="47"/>
-<div id="elliott019" type="poem" n="The Call">
+<div xml:id="elliott019" type="poem" n="The Call">
 <docAuthor n="Gomme, Laurence">Laurence Gomme</docAuthor>
 <head rend="center">THE CALL.</head>
 
@@ -836,7 +796,7 @@ Fortnightly Review.</byline>
 
 <lg>
 <head rend="center">IV.</head>
-<l>Torn away from lov&egrave;d homes to hurl the savage back,</l>
+   <l>Torn away from lovèd homes to hurl the savage back,</l>
 <l>To learn the lust of fight, the joy of the attack;</l>
 <l>But when they throw away the sword and bring the banner home,</l>
 <l>'Twill be enscrolled with victories won for ages yet to come.</l>
@@ -860,7 +820,7 @@ Fortnightly Review.</byline>
 <pb n="53"/>
 <pb n="54"/>
 <pb n="55"/>
-<div id="elliott022" type="poem" n="The Avengers">
+<div xml:id="elliott022" type="poem" n="The Avengers">
 <docAuthor n="Seaman, Owen">Owen Seaman</docAuthor>
 <head rend="center">THE AVENGERS</head>
 <note place="inline" rend="center">To our Soldiers in the Field.</note>
@@ -875,7 +835,7 @@ Fortnightly Review.</byline>
 <l>Not this high thought alone shall brace your thews</l>
 <l rend="indent">To trample under heel those Vandal hordes</l>
 <l>Who laugh when blood of mother and babe imbrues</l>
-<l rend="indent8">Their damn&egrave;d craven swords.</l></lg>
+   <l rend="indent8">Their damnèd craven swords.</l></lg>
 
 <lg>
 <l>But here must be hot passion, white of flame,</l>
@@ -920,7 +880,7 @@ Fortnightly Review.</byline>
 
 
 <pb n="58"/>
-<div id="elliott023" type="poem" n="Dirae Faces">
+<div xml:id="elliott023" type="poem" n="Dirae Faces">
 <docAuthor n="Gales, R. L.">R. L. Gales</docAuthor>
 <head rend="center">DIRAE FACES.</head>
 
@@ -945,7 +905,7 @@ Fortnightly Review.</byline>
 
 
 <pb n="59"/>
-<div id="elliott024" type="poem" n="To Wilhelm II">
+<div xml:id="elliott024" type="poem" n="To Wilhelm II">
 <docAuthor n="Gales, R. L.">R. L. Gales</docAuthor>
 <head rend="center">TO WILHELM II.</head>
 
@@ -964,7 +924,7 @@ Fortnightly Review.</byline>
 
 
 <pb n="60"/>
-<div id="elliott025" type="poem" n="Four Things I Ask">
+<div xml:id="elliott025" type="poem" n="Four Things I Ask">
 <docAuthor n="Leonard, G. H.">G. H. Leonard</docAuthor>
 <head rend="center">FOUR THINGS I ASK.</head>
 
@@ -1005,7 +965,7 @@ Fortnightly Review.</byline>
 
 
 <pb n="61"/>
-<div id="elliott026" type="poem" n="The People's Gift">
+<div xml:id="elliott026" type="poem" n="The People's Gift">
 <docAuthor n="Sidgwick, Frank">Frank Sidgwick</docAuthor>
 <head rend="center">THE PEOPLE'S GIFT.</head>
 
@@ -1047,7 +1007,7 @@ Fortnightly Review.</byline>
 <pb n="63"/>
 <pb n="64"/>
 <pb n="65"/>
-<div id="elliott028" type="poem" n="Verse">
+<div xml:id="elliott028" type="poem" n="Verse">
 <docAuthor n="Jung, Nizamat">Nizamat Jung</docAuthor>
 <head rend="center">VERSE.</head>
 <head rend="center">TO OUR INDIAN TROOPS GOING TO THE WAR.</head>
@@ -1099,7 +1059,7 @@ Fortnightly Review.</byline>
 
 
 <pb n="67"/>
-<div id="elliott029" type="poem" n="War and Peace">
+<div xml:id="elliott029" type="poem" n="War and Peace">
 <docAuthor n="Jung, Nizamat">Nizamat Jung</docAuthor>
 <head rend="center">WAR AND PEACE.</head>
 <note>[We specially commend to the British Nation, no less renowned for the victories of peace than for those of war, the following poem by Nawab Nizamat Jung, of Hyderabad, whose loyal tribute of verse to Great Britain will, we feel sure, be no less welcome to her than other offerings from India's dutiful sons. -- <hi rend="smallcap">Editor</hi>.]</note>
@@ -1138,7 +1098,7 @@ Fortnightly Review.</byline>
 
 
 <pb n="69"/>
-<div id="elliott030" type="poem" n="Louvain">
+<div xml:id="elliott030" type="poem" n="Louvain">
 <docAuthor n="Archer, William">William Archer</docAuthor>
 <head rend="center">LOUVAIN.</head>
 
@@ -1158,14 +1118,14 @@ Fortnightly Review.</byline>
 <l rend="indent">Our kinship with a breed reversive-bred,</l>
 <l rend="indent4">Who war on arts and learning. We were Men."</l></lg>
 <byline>WILLIAM ARCHER.
-<title>Observer</title>, <date value="1914-08-30">August 30th, 1914.</date></byline>
+<title>Observer</title>, <date when="1914-08-30">August 30th, 1914.</date></byline>
 </div>
 
 
 <pb n="70"/>
 <pb n="71"/>
 <pb n="72"/>
-<div id="elliott032" type="poem" n="A Call to the Four Nations">
+<div xml:id="elliott032" type="poem" n="A Call to the Four Nations">
 <docAuthor n="McCarthy, Justin Huntly">Justin Huntly McCarthy</docAuthor>
 <head rend="center">A CALL TO THE FOUR NATIONS.</head>
 
@@ -1232,7 +1192,7 @@ Fortnightly Review.</byline>
 
 
 <pb n="76"/>
-<div id="elliott033" type="poem" n="Winter Night">
+<div xml:id="elliott033" type="poem" n="Winter Night">
 <docAuthor n="Phillpotts, Eden">Eden Phillpotts</docAuthor>
 <head rend="center">WINTER NIGHT.</head>
 
@@ -1282,7 +1242,7 @@ Fortnightly Review.</byline>
 <pb n="81"/>
 <pb n="82"/>
 <pb n="83"/>
-<div id="elliott035" type="poem" n="To Great Britain">
+<div xml:id="elliott035" type="poem" n="To Great Britain">
 <docAuthor n="Rawnsley, H. D. (Hardwicke Drummond)">H. D. Rawnsley</docAuthor>
 <head rend="center">TO GREAT BRITAIN.</head>
 
@@ -1319,7 +1279,7 @@ Fortnightly Review.</byline>
 
 
 <pb n="84"/>
-<div id="elliott036" type="poem" n="Reason and Honour">
+<div xml:id="elliott036" type="poem" n="Reason and Honour">
 <docAuthor n="Phillpotts, Eden">Eden Phillpotts</docAuthor>
 <head rend="center">REASON AND HONOUR.</head>
 
@@ -1409,7 +1369,7 @@ Fortnightly Review.</byline>
 
 
 <pb n="88"/>
-<div id="elliott037" type="poem" n="The New Spirit">
+<div xml:id="elliott037" type="poem" n="The New Spirit">
 <docAuthor n="Melbourne, Edward">Edward Melbourne</docAuthor>
 <head rend="center">THE NEW SPIRIT.</head>
 
@@ -1442,7 +1402,7 @@ Fortnightly Review.</byline>
 
 
 <pb n="89"/>
-<div id="elliott038" type="poem" n="To Our Dead">
+<div xml:id="elliott038" type="poem" n="To Our Dead">
 <docAuthor n="Courtney, W. L.">W. L. Courtney</docAuthor>
 <head rend="center">TO OUR DEAD.</head>
 
@@ -1469,7 +1429,7 @@ Fortnightly Review.</byline>
 
 
 <pb n="90"/>
-<div id="elliott039" type="poem" n="Mediation in War-Time">
+<div xml:id="elliott039" type="poem" n="Mediation in War-Time">
 <docAuthor n="Tynan, Katharine">Katherine Tynan</docAuthor>
 <head rend="center">MEDIATION IN WAR-TIME</head>
 <note place="inline" rend="center">(After St. Anselm.)</note>
@@ -1512,7 +1472,7 @@ Fortnightly Review.</byline>
 
 
 <pb n="92"/>
-<div id="elliott040" type="poem" n="To the Memory of Field-Marshal Earl Roberts">
+<div xml:id="elliott040" type="poem" n="To the Memory of Field-Marshal Earl Roberts">
 <docAuthor n="Seaman, Owen">Owen Seaman</docAuthor>
 <head rend="center">TO THE MEMORY</head>
 <head rend="center">of</head>
@@ -1568,7 +1528,7 @@ Fortnightly Review.</byline>
 
 
 <pb n="94"/>
-<div id="elliott041" type="poem" n="The War-Shadow">
+<div xml:id="elliott041" type="poem" n="The War-Shadow">
 <docAuthor n="Hardy, Thomas">Thomas Hardy</docAuthor>
 <head rend="center">THE WAR-SHADOW.</head>
 
@@ -1593,7 +1553,7 @@ Fortnightly Review.</byline>
 
 
 <pb n="95"/>
-<div id="elliott042" type="poem" n="Mater Dolorosa">
+<div xml:id="elliott042" type="poem" n="Mater Dolorosa">
 <docAuthor n="Stuart, Dorothy Margaret">Dorothy Margaret Stuart</docAuthor>
 <head rend="center">MATER DOLOROSA.</head>
 
@@ -1635,7 +1595,7 @@ Fortnightly Review.</byline>
 
 
 <pb n="97"/>
-<div id="elliott043" type="poem" n="Abi, Viator --">
+<div xml:id="elliott043" type="poem" n="Abi, Viator --">
 <docAuthor n="Stuart, Dorothy Margaret">Dorothy Margaret Stuart</docAuthor>
 <head rend="center">ABI, VIATOR --.</head>
 
@@ -1684,7 +1644,7 @@ Fortnightly Review.</byline>
 
 
 <pb n="99"/>
-<div id="elliott044" type="poem" n="A Re Alberto">
+<div xml:id="elliott044" type="poem" n="A Re Alberto">
 <docAuthor n="Chartres, Annie Vivanti">Annie Vivanti Chartres</docAuthor>
 <head rend="center">A RE ALBERTO.</head>
 <head rend="center">Saluto Italico.</head>
@@ -1692,22 +1652,22 @@ Fortnightly Review.</byline>
 <lg type="stanza">
 <l n="1">O <hi rend="smallcap">Alberto</hi>, biondo e leggendario re,</l>
 <l>Che ne lusinga menzognera ammalia</l>
-<l>N&egrave; ferreo pugno piega -- noi vorremmo</l>
+   <l>Nè ferreo pugno piega -- noi vorremmo</l>
 <l>Mietere tutti i flori dell'Italia</l>
 <l>E darli a te!</l></lg>
 
 <lg>
 <l>Anche I'Italia contro l'oppressore</l>
-<l>Magnifica e furente combatt&egrave;;</l>
+   <l>Magnifica e furente combattè;</l>
 <l>Tra le antiche ferite nel suo cuore</l>
 <l>Una nuova ferita di dolore</l>
-<l>Aperta or s'&egrave;:</l></lg>
+   <l>Aperta or s'è:</l></lg>
 
 <lg>
 <l>Questa -- che pur fremente di stupenda</l>
 <l>Ferocia e di magnanimo fervore</l>
 <l>Il popolo d'Italia, o eroico re,</l>
-<l>Nell'ora tua pi&#x00F9; sacra e pi&#x00F9; tremenda</l>
+<l>Nell'ora tua più sacra e più tremenda</l>
 <l>Non fu con te.</l></lg>
 <byline>ANNIE VIVANTI CHARTRES.<lb/>
 <title rend="left">Times.</title></byline>
@@ -1715,7 +1675,7 @@ Fortnightly Review.</byline>
 
 
 <pb n="100"/>
-<div id="elliott045" type="poem" n="A Tribute from Italy">
+<div xml:id="elliott045" type="poem" n="A Tribute from Italy">
 <docAuthor n="Chartres, Annie Vivanti">Annie Vivanti Chartres</docAuthor>
 <head rend="center">A TRIBUTE FROM ITALY.</head>
 
@@ -1736,7 +1696,7 @@ Fortnightly Review.</byline>
 
 
 <pb n="101"/>
-<div id="elliott046" type="poem" n="The Yser">
+<div xml:id="elliott046" type="poem" n="The Yser">
 <docAuthor n="Clayton, Philip Byard">Philip Byard Clayton</docAuthor>
 <head rend="center">THE YSER.</head>
 
@@ -1794,7 +1754,7 @@ Fortnightly Review.</byline>
 <pb n="105"/>
 <pb n="106"/>
 <pb n="107"/>
-<div id="elliott049" type="poem" n="The Army of the Dead">
+<div xml:id="elliott049" type="poem" n="The Army of the Dead">
 <docAuthor n="Pain, Barry">Barry Pain</docAuthor>
 <head rend="center">THE ARMY OF THE DEAD.</head>
 
@@ -1850,7 +1810,7 @@ Fortnightly Review.</byline>
 <pb n="111"/>
 <pb n="112"/>
 <pb n="113"/>
-<div id="elliott052" type="poem" n="The Bulwarks">
+<div xml:id="elliott052" type="poem" n="The Bulwarks">
 <docAuthor n="Bustridge, A. W.">A. W. Bustridge</docAuthor>
 <head rend="center">THE BULWARKS.</head>
 <note place="inline">[The splendid spirt of gallantry and devotion which animates the officers and men of his Majesty's forces. -- Sir John French.]</note>
@@ -1877,7 +1837,7 @@ Fortnightly Review.</byline>
 
 
 <pb n="114"/>
-<div id="elliott053" type="poem" n="In Lachrymarum Valle">
+<div xml:id="elliott053" type="poem" n="In Lachrymarum Valle">
 <docAuthor n="Gales, R. L.">R. L. Gales</docAuthor>
 <head rend="center">IN LACHRYMARUM VALLE.</head>
 <head rend="center"><hi rend="italic">Christmas, 1914.</hi></head>
@@ -1903,7 +1863,7 @@ Fortnightly Review.</byline>
 
 
 <pb n="115"/>
-<div id="elliott054" type="poem" n="In a Harvest Field">
+<div xml:id="elliott054" type="poem" n="In a Harvest Field">
 <docAuthor n="Rawnsley, H. D. (Hardwicke Drummond)">H. D. Rawnsley</docAuthor>
 <head rend="center">IN A HARVEST FIELD.</head>
 
@@ -1929,7 +1889,7 @@ Fortnightly Review.</byline>
 
 
 <pb n="116"/>
-<div id="elliott055" type="poem" n="A Contrast">
+<div xml:id="elliott055" type="poem" n="A Contrast">
 <docAuthor n="Rawnsley, H. D. (Hardwicke Drummond)">H. D. Rawnsley</docAuthor>
 <head rend="center">A CONTRAST.</head>
 
@@ -1958,7 +1918,7 @@ Fortnightly Review.</byline>
 <pb n="117"/>
 <pb n="118"/>
 <pb n="119"/>
-<div id="elliott057" type="poem" n="All's Well">
+<div xml:id="elliott057" type="poem" n="All's Well">
 <docAuthor n="Bourdillon, F. W.">F. W. Bourdillon</docAuthor>
 <head rend="center">"ALL'S WELL"</head>
 <note place="inline">[Reprinted from "Christmas Roses" by permission of the author.]</note>
@@ -2012,7 +1972,7 @@ Fortnightly Review.</byline>
 <pb n="121"/>
 <pb n="122"/>
 <pb n="123"/>
-<div id="elliott059" type="poem" n="To the Prussianizers of Germany">
+<div xml:id="elliott059" type="poem" n="To the Prussianizers of Germany">
 <docAuthor n="Steuart, Douglas S. Spens">Douglas S. Spens Steuart</docAuthor>
 <head rend="center">TO THE PRUSSIANIZERS OF GERMANY.</head>
 
@@ -2231,7 +2191,7 @@ Fortnightly Review.</byline>
 
 
 <pb n="129"/>
-<div id="elliott060" type="poem" n="To a Friend -- Killed in Action">
+<div xml:id="elliott060" type="poem" n="To a Friend -- Killed in Action">
 <docAuthor n="Simpson, Harold">Harold Simpson</docAuthor>
 <head rend="center">TO A FRIEND -- KILLED IN ACTION.</head>
 
@@ -2256,7 +2216,7 @@ Fortnightly Review.</byline>
 
 
 <pb n="130"/>
-<div id="elliott061" type="poem" n="War">
+<div xml:id="elliott061" type="poem" n="War">
 <docAuthor n="Tollemache, Grace E.">Grace E. Tollemache</docAuthor>
 <head rend="center">WAR.</head>
 
@@ -2284,12 +2244,12 @@ Fortnightly Review.</byline>
 <l>And blackened ruin, where thou goest, mar</l>
 <l rend="indent">The goodly pleasantness of Earth!</l></lg>
 <byline>GRACE E. TOLLEMACHE.<lb/>
-<date rend="left" value="1915-08-01"><hi rend="italic">August 1st.</hi></date></byline>
+<date rend="left" when="1915-08-01"><hi rend="italic">August 1st.</hi></date></byline>
 </div>
 
 
 <pb n="131"/>
-<div id="elliott062" type="poem" n="Sonnet">
+<div xml:id="elliott062" type="poem" n="Sonnet">
 <docAuthor n="Tollemache, Grace E.">Grace E. Tollemache</docAuthor>
 <head rend="center">SONNET.</head>
 
@@ -2309,13 +2269,13 @@ Fortnightly Review.</byline>
 <l>But in your death, thrice-gloriously ye'll die, --</l>
 <l>For England, for men's hearths, and Liberty!</l></lg>
 <byline>GRACE E. TOLLEMACHE.<lb/>
-<date rend="left" value="1915-09-01"><hi rend="italic">September 1st.</hi></date></byline>
+<date rend="left" when="1915-09-01"><hi rend="italic">September 1st.</hi></date></byline>
 </div>
 
 
 <pb n="132"/>
 <pb n="133"/>
-<div id="elliott064" type="poem" n="One Night">
+<div xml:id="elliott064" type="poem" n="One Night">
 <docAuthor n="Sutherland, Millicent">Millicent Sutherland</docAuthor>
 <head rend="center">ONE NIGHT.</head>
 
@@ -2402,7 +2362,7 @@ Malo, Dunkirk, France.<lb/>
 
 
 <pb n="136"/>
-<div id="elliott065" type="poem" n="Night Outposts">
+<div xml:id="elliott065" type="poem" n="Night Outposts">
 <docAuthor n="Whiting-Baker, A. E.">A. E. Whiting-Baker</docAuthor>
 <head rend="center">NIGHT OUTPOSTS.</head>
 <note>(British Expeditionary Force.)</note>
@@ -2435,7 +2395,7 @@ Malo, Dunkirk, France.<lb/>
 
 
 <pb n="137"/>
-<div id="elliott066" type="poem" n="God Save the King">
+<div xml:id="elliott066" type="poem" n="God Save the King">
 <docAuthor n="Flecker, James Elroy">James Elroy Flecker</docAuthor>
 <head rend="center">GOD SAVE THE KING.</head>
 <note>[Copyright. By permission of the late Mr. James Elroy Flecker's representatives.]</note>
@@ -2491,4 +2451,4 @@ Malo, Dunkirk, France.<lb/>
 </div>
 </body>
 </text>
-</TEI.2>
+</TEI>

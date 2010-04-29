@@ -1,19 +1,99 @@
-
-
-<div id="macfie2000" type="part" n="1">
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader><fileDesc>
+        <titleStmt>
+            <title>War: an Ode And Other Poems: Electronic Edition</title>
+            <editor><name type="person"><choice><reg>Macfie, Ronald Campbell</reg><sic>Ronald Campbell Macfie</sic></choice></name></editor>
+        </titleStmt>
+        <publicationStmt><publisher>Lewis H. Beck Center for Electronic Collections
+            and Services, Emory University</publisher><pubPlace>Atlanta, GA</pubPlace><address>
+	     <addrLine>540 Asbury Circle</addrLine>
+	     <addrLine>Woodruff Library</addrLine>
+	     <addrLine>Atlanta, GA 30322</addrLine>
+	   </address><availability><p>©Emory University. Permission is
+	       granted to download, transmit, or otherwise reproduce,
+	       distribute or display the contributions to the work claimed
+	       by Emory University for non-profit educational purposes,
+	       provided this header is included in its entirety.  For
+	       inquiries about commercial uses, contact either: Institute
+	       for Jewish Studies, Emory University, Atlanta GA 30322 or
+	       the Lewis H. Beck Center for Electronic Collections and
+	       Services, Woodruff Library, Emory University, Atlanta,
+	       Georgia 30322 </p></availability><date>2004</date></publicationStmt>
+        <seriesStmt>
+            <title>War: an Ode And Other Poems</title>
+        </seriesStmt>
+        <notesStmt><note/></notesStmt>
+        <sourceDesc><!-- put the actual publication data for the book
+            in this section --> 
+            <bibl>
+                <title>War: an Ode And Other Poems</title>
+                <editor>Ronald Campbell Macfie</editor>
+                <pubPlace>New York</pubPlace>
+                <publisher>E.P. Dutton and Company</publisher>
+                <date>1920</date>
+            </bibl>
+        </sourceDesc>
+    </fileDesc><encodingDesc>
+        <projectDesc><p>Poetry contemporary to World War I (the Great
+            War) has been digitized by OCR or rekeying. The work has been
+            done in conjunction with Dr. Harry Rusche of the English
+            Department, Emory University</p></projectDesc>
+        <tagsDecl><rendition xml:id="quote">Paragraphs including q or quote
+            elements indicate material that is in a block
+            quote.</rendition><rendition xml:id="title">Where the title of a work is
+                italicized, it is marked with a title element, both in the
+                text and in footnotes.</rendition><namespace name="http://www.tei-c.org/ns/1.0"><tagUsage gi="q" render="#quote">blockquote</tagUsage><tagUsage gi="quote" render="#quote">blockquote</tagUsage><tagUsage gi="title" render="#title">italic</tagUsage></namespace></tagsDecl>
+        <refsDecl><p>The page numbers of the volumes are indicated by
+            page break elements</p>
+            <p/>
+        </refsDecl>
+        <classDecl>
+            <taxonomy xml:id="lcsh">
+                <bibl>
+                    <title>Library of Congress Subject Headings</title>
+                </bibl>
+            </taxonomy>
+        </classDecl>
+    </encodingDesc><profileDesc>
+        <creation>
+            <rs type="collection">poetry</rs>
+            <rs type="language">English</rs>
+            <rs type="ethnicity">Caucasian</rs>
+            <rs type="form">Unedited</rs>
+            <rs type="genre">Poetry</rs>
+            <rs type="geography">United States</rs>
+            <date>1900-1999</date>
+        </creation>
+        <textClass>
+            <keywords scheme="#lcsh">
+                <list>
+                    <item>World War, 1914-1918--Poetry.</item>
+                    <item>English poetry--20th Century.</item>
+                    <item>War.</item>
+                </list>
+            </keywords>
+        </textClass></profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>June-July 2004</date><label>Beck Center Staff</label><name>Alden Mahler</name>Scan, OCR, proofread and encoded</change><change><date>August 2004</date><label>Beck Center Staff</label><name>Alice Hickcox</name>Added header; checked encoding</change></revisionDesc></teiHeader>
+    <text>
+        
+        <front>
+<pb/>
+            
+<div xml:id="macfie2000" type="part" n="1">
 <head>WAR: an Ode</head>
 
 
-<pb n=""/>
+<pb n="1"/>
 
 <pb n="War: An Ode   1"/>
 
-
-<div id="macfie1000" type="poem" n="1">
+</div>
+        </front>
+        <body>
+<div xml:id="macfie1000" type="poem" n="1">
 <head>War: An Ode</head>
-<div id="macfie100" type="part" n="1">
+<div xml:id="macfie100" type="part" n="1">
 <head>PART I</head>
-<div id="macfie001" type="section" n="1">
+<div xml:id="macfie001" type="section" n="1">
 <head>i</head>
 
 <lg type="stanza">
@@ -39,12 +119,12 @@
 <l>Around whose fiery wrack was furled the cloud,</l>
 <l>Like swaddling robes, or bridal veil, or shroud.</l></lg></div>
 
-<div id="macfie002" type="section" n="2">
+<div xml:id="macfie002" type="section" n="2">
 <head>ii</head>
 
 <lg type="stanza">
 <l>So seethed the cloud, and reeling from the gurge,</l>
-<l>Smelted and smoothened from the rough d&#x00E9;bris</l>
+<l>Smelted and smoothened from the rough débris</l>
 <l>By the hot hands of Fire, the Thaumaturge,</l>
 <l>The Earth leapt free.</l></lg>
 
@@ -55,7 +135,7 @@
 <l>That ever by the cruel knotted scourge</l>
 <l>Of a wild crashing rain of crimson scree</l>
 <l>Was whipped to plashing whirls of purple foam.</l>
-<l>And ever lashing from its d&#x00E6;dal dome</l>
+<l>And ever lashing from its dædal dome</l>
 <l>There hissed a heavy hail of falling stars</l>
 <l>Whose flick upon the lava's filigree</l>
 <l>Made rosy scars.</l>
@@ -68,7 +148,7 @@
 <l>And steamed and wallowed in the red fiords</l>
 <l>Like monstrous hordes</l>
 <l>Of snorting dragons weltering in gore,</l>
-<l>Stabbed in the loins with the long jagg&#x00E8;d swords</l>
+<l>Stabbed in the loins with the long jaggèd swords</l>
 <l>Of the livid lightning.   Yea, and evermore</l>
 <l>Came from volcano-throats the raucous roar</l>
 <l>Of lava and of thunder; and the shore</l>
@@ -77,7 +157,7 @@
 <l>--Till  the  astounded  stars heard  the torn granite gride--</l>
 <l>The bossy, slaggy moon from the Earth's riven side.</l></lg></div>
 
-<div id="macfie003" type="section" n="3">
+<div xml:id="macfie003" type="section" n="3">
 <head>iii</head>
 
 <lg type="stanza">
@@ -98,7 +178,7 @@
 <l>And groaned</l>
 <l>And rose and fell</l>
 <l>Like the hot surges in the heart of hell.</l>
-<l>But round the planet in &#x00E6;therial space</l>
+<l>But round the planet in ætherial space</l>
 <l>There lurked a frost that gripped it like a vice</l>
 <l>A frost so fierce could curdle flame to ice--</l>
 <l>The frost of nothingness that never knew</l>
@@ -109,13 +189,13 @@
 <l>Unlighted by the sun,</l>
 <l>A clattering clinker fell of iron snow.</l></lg></div>
 
-<div id="macfie004" type="section" n="4">
+<div xml:id="macfie004" type="section" n="4">
 <head>iv</head>
 
 <lg type="stanza">
-<l>And from the white becloud&#x00E8;d skies,</l>
+<l>And from the white becloudèd skies,</l>
 <l>Like scalding tears.</l>
-<l>From clos&#x00E8;d eyes,</l>
+<l>From closèd eyes,</l>
 <l>Held shut by fears,</l>
 
 
@@ -131,7 +211,7 @@
 <l>Amber and blue.</l></lg>
 </div>
 
-<div id="macfie005" type="section" n="5">
+<div xml:id="macfie005" type="section" n="5">
 <head>v</head>
 
 <lg type="stanza">
@@ -141,7 +221,7 @@
 <l>Plunged madly out of view</l>
 <l>Down precipices steep</l>
 <l>Into a chasm deep</l>
-<l>Trench&#x00E8;d and torn</l>
+<l>Trenchèd and torn</l>
 <l>In the Earth's wounded side</l>
 <l>By the phrenetic tide</l>
 <l>When the white moon was born;</l>
@@ -157,7 +237,7 @@
 <l>And played and swayed,</l>
 <l>And surged and sang <hi rend="italic">the sea!</hi></l></lg></div>
 
-<div id="macfie006" type="section" n="6">
+<div xml:id="macfie006" type="section" n="6">
 <head>vi</head>
 
 <lg type="stanza">
@@ -175,7 +255,7 @@
 </div>
 
 
-<div id="macfie007" type="section" n="7">
+<div xml:id="macfie007" type="section" n="7">
 <head>Vii</head>
 
 <lg type="stanza">
@@ -203,7 +283,7 @@
 </lg>
 </div>
 
-<div id="macfie008" type="section" n="8">
+<div xml:id="macfie008" type="section" n="8">
 <head>viii</head>
 
 <lg type="stanza">
@@ -226,7 +306,7 @@
 </lg>
 </div>
 
-<div id="macfie" type="section" n="9">
+<div xml:id="macfie" type="section" n="9">
 <head>ix</head>
 
 <lg type="stanza">
@@ -254,7 +334,7 @@
 </lg>
 </div>
 
-<div id="macfie" type="section" n="10">
+<div xml:id="macfie" type="section" n="10">
 <head>x</head>
 <lg type="stanza">
 
@@ -262,7 +342,7 @@
 <l>Upon the fairy anvil beat the sun;</l>
 <l>Into the elfin furnace rushed the air</l>
 <l>Forging shapes weak and strong, and foul and fair,</l>
-<l>While unseen Death and unsurmis&#x00E8;d Love</l>
+<l>While unseen Death and unsurmisèd Love</l>
 <l>Stood watching there</l>
 <l>Ready to test and prove,</l>
 <l>To kill and spare;</l>
@@ -284,7 +364,7 @@
 </lg>
 </div>
 
-<div id="macfie011" type="section" n="11">
+<div xml:id="macfie011" type="section" n="11">
 <head>xi</head>
 
 <lg type="stanza">
@@ -297,7 +377,7 @@
 <l>Anon, in marshes like the bogs of Styx</l>
 <l>Uncanny things half bird, half bat,</l>
 <l>And monstrous reptile shapes bloated or gaunt,--</l>
-<l>Atlantosaur, and arch&#x00E6;opteryx,</l>
+<l>Atlantosaur, and archæopteryx,</l>
 <l>And dinothere, and labyrinthodont,</l>
 <l>And pterodactyl, monstrous things begat.</l>
 <l>And evermore Death came, and laughed, and slew.</l>
@@ -308,12 +388,12 @@
 
 <pb n="War: An Ode 11"/>
 
-<div id="macfie012" type="section" n="12">
+<div xml:id="macfie012" type="section" n="12">
 
 <head>xii</head>
 
 <lg type="stanza">
-<l>Death wrought with divers tools. Unweari&#x00E8;d</l>
+<l>Death wrought with divers tools. Unwearièd</l>
 <l>Across the warp of life that wimpled red</l>
 <l>The lightning flashed, shooting a livid thread</l>
 <l>Like signatures of the undying dead--</l>
@@ -331,18 +411,18 @@
 </lg>
 </div>
 
-<div id="macfie013" type="section" n="13">
+<div xml:id="macfie013" type="section" n="13">
 <head>xiii</head>
 
 <lg type="stanza">
 <l>Crumpled the cooling crust, and the deep ocean bed</l>
 <l>Luted with lime and slime of creatures dead</l>
-<l>--That snow of death through the long &#x00E6;ons shed--</l>
+<l>--That snow of death through the long æons shed--</l>
 
 <pb n="12  War: An Ode"/>
 
 <l>Was puckered into marble mountain heights</l>
-<l>--Him&#x00E1;layas and Alps, and Dolomites--</l>
+<l>--Himálayas and Alps, and Dolomites--</l>
 <l>Where eagles had their eyries, and once more</l>
 <l>Subsided and became the ocean floor;</l>
 <l>And fire piled high sierras, and the rains</l>
@@ -356,13 +436,13 @@
 </lg>
 </div>
 
-<div id="macfie014" type="section" n="14">
+<div xml:id="macfie014" type="section" n="14">
 <head>xiv</head>
 
 <lg type="stanza">
-<l>So the fierce &#x00E6;ons ran,</l>
+<l>So the fierce æons ran,</l>
 <l>Till with exalted head</l>
-<l>Thron&#x00E8;d upon the dead,</l>
+<l>Thronèd upon the dead,</l>
 <l>There stood immortal man--</l>
 <l>Fruitage of all the tilth</l>
 <l>And spilth</l>
@@ -381,7 +461,7 @@
 </lg>
 </div>
 
-<div id="macfie015" type="section" n="15">
+<div xml:id="macfie015" type="section" n="15">
 <head>xv</head>
 
 <lg type="stanza">
@@ -402,7 +482,7 @@
 
 <pb n="14  War:An Ode"/>
 
-<div id="macfie016" type="section" n="16">
+<div xml:id="macfie016" type="section" n="16">
 
 <head>xvi</head>
 
@@ -447,7 +527,7 @@
 </lg>
 </div>
 
-<div id="macfie017" type="section" n="17">
+<div xml:id="macfie017" type="section" n="17">
 <head>xvii</head>
 
 <lg type="stanza">
@@ -468,7 +548,7 @@
 </lg>
 </div>
 
-<div id="macfie018" type="section" n="18">
+<div xml:id="macfie018" type="section" n="18">
 <head>xviii</head>
 
 <lg type="stanza">
@@ -490,7 +570,7 @@
 
 <pb n="War: an Ode  17"/>
 
-<div id="macfie019" type="section" n="19">
+<div xml:id="macfie019" type="section" n="19">
 
 <head>xix</head>
 
@@ -518,9 +598,9 @@
 
 <pb n="18  War: An Ode"/>
 
-<div id="macfie200" type="book" n="2">
+<div xml:id="macfie200" type="book" n="2">
 <head>PART II</head>
-<div id="macfie020" type="section" n="1">
+<div xml:id="macfie020" type="section" n="1">
 
 <head>i</head>
 
@@ -544,7 +624,7 @@
 </div>
 
 <pb n="War: An Ode   19"/>
-<div id="macfie021" type="section" n="2">
+<div xml:id="macfie021" type="section" n="2">
 
 <lg type="stanza">
 <l>The fiery chimneys belch Fear's mordant breath.</l>
@@ -563,7 +643,7 @@
 <l>In the grim red machine of war.</l>
 </lg>
 </div>
-<div id="macfie022" type="section" n="3">
+<div xml:id="macfie022" type="section" n="3">
 <head>iii</head>
 
 <lg type="stanza">
@@ -590,7 +670,7 @@
 </lg>
 </div>
 
-<div id="macfie023" type="section" n="4">
+<div xml:id="macfie023" type="section" n="4">
 <head>IV</head>
 
 <lg type="stanza">
@@ -613,13 +693,13 @@
 <l>These are the warriors Fate has hurled</l>
 <l>To slaughter and redeem</l>
 <l>The world.</l>
-<l>These are the fierce prim&#x00E6;val fires,</l>
+<l>These are the fierce primæval fires,</l>
 <l>Of God's desires--</l>
 <l>His furnace flame, His breaker-surge,</l>
 <l>His graving tool, His pruning knife, His punitory scourge !</l>
 </lg></div>
 
-<div id="macfie023" type="section" n="4">
+<div xml:id="macfie023" type="section" n="4">
 <head>V</head>
 
 <lg type="stanza">
@@ -644,7 +724,7 @@
 </lg>
 </div>
 
-<div id="macfie024" type="section" n="5">
+<div xml:id="macfie024" type="section" n="5">
 <head>vi</head>
 
 <lg type="stanza">
@@ -654,7 +734,7 @@
 <l>I see them in a blazing hell</l>
 <l>Of poison-gas, and shot, and shell,</l>
 <l>At Vimy Ridge, and La Boiselle,</l>
-<l>At Pozi&#x00E8;res and Neuve Chapelle,</l>
+<l>At Pozières and Neuve Chapelle,</l>
 <l>At Ypres, and Fler, and Le Cateau;</l>
 <l>I see them march by Meuse and Marne</l>
 <l>Trudging along through mud and clay;</l>
@@ -674,7 +754,7 @@
 </div>
 
 <milestone unit="section" rend="stars"/>
-<div id="macfie025" type="poem" n="6">
+<div xml:id="macfie025" type="poem" n="6">
 <head>vii</head>
 <lg type="stanza">
 <l>O eyes with dauntless courage lit</l>
@@ -691,9 +771,9 @@
 </div>
 
 <pb n="24 War:An Ode"/>
-<div id="macfie300" type="book" n="3">
+<div xml:id="macfie300" type="book" n="3">
 <head>PART III</head>
-<div id="macfie026" type="section" n="7">
+<div xml:id="macfie026" type="section" n="7">
 <head>i</head>
 <lg type="stanza">
 <l>What troglodytes are these,--these men like moles,</l>
@@ -719,7 +799,7 @@
 </lg>
 </div>
 
-<div id="macfie027" type="section" n="8">
+<div xml:id="macfie027" type="section" n="8">
 <head>ii</head>
 
 <lg type="stanza">
@@ -748,7 +828,7 @@
 </lg>
 </div>
 
-<div id="macfie028" type="section" n="9">
+<div xml:id="macfie028" type="section" n="9">
 <head>iii</head>
 
 <lg type="stanza">
@@ -769,7 +849,7 @@
 </div>
 <pb n="War: An Ode  27"/>
 
-<div id="macfie029" type="section" n="10">
+<div xml:id="macfie029" type="section" n="10">
 
 <head>iv</head>
 
@@ -798,7 +878,7 @@
 </div>
 <pb n="28  War:An Ode"/>
 
-<div id="macfie030" type="section" n="11">
+<div xml:id="macfie030" type="section" n="11">
 
 <head>v</head>
 
@@ -808,7 +888,7 @@
 <l>Make every mound and parapet a pyre,</l>
 <l>And bloody shards that turn the spirit sick</l>
 <l>Lie mangled in the mire,</l>
-<l>Or on the barb&#x00E8;d wire</l>
+<l>Or on the barbèd wire</l>
 <l>Where the infernal flammenwerfer lick</l>
 <l>Shrivel and blacken.   E'en the gracious air</l>
 <l>That has been wont to tremble into prayer,</l>
@@ -829,7 +909,7 @@
 
 <pb n="War:An Ode  29"/>
 
-<div id="macfie031" type="section" n="12">
+<div xml:id="macfie031" type="section" n="12">
 <head>vi</head>
 
 <lg type="stanza">
@@ -859,12 +939,12 @@
 </div>
 <pb n="30 War: An Ode"/>
 
-<div id="macfie032" type="section" n="13">
+<div xml:id="macfie032" type="section" n="13">
 <head>vii</head>
 
 <lg type="stanza">
 <l>Now through the forests drives the shrapnel hail;</l>
-<l>Great jagg&#x00E8;d flying hatchets hew and hack,</l>
+<l>Great jaggèd flying hatchets hew and hack,</l>
 <l>And whirling blazing flambeaus flash and flare,</l>
 <l>Flaying the beeches bare,</l>
 <l>Burning the birches black.</l>
@@ -878,7 +958,7 @@
 <l>A Golgotha of skulls, a hideous house of Pain.</l>
 </lg></div>
 
-<div id="macfie033" type="section" n="14">
+<div xml:id="macfie033" type="section" n="14">
 <head>viii</head>
 
 <lg type="stanza">
@@ -899,7 +979,7 @@
 </lg>
 </div>
 
-<div id="macfie034" type="section" n="15">
+<div xml:id="macfie034" type="section" n="15">
 <head>ix</head>
 
 <lg type="stanza">
@@ -923,7 +1003,7 @@
 
 <pb n="32  War: An Ode"/>
 
-<div id="macfie035" type="section" n="16">
+<div xml:id="macfie035" type="section" n="16">
 <head>x</head>
 
 <lg type="stanza">
@@ -945,7 +1025,7 @@
 </lg>
 </div>
 
-<div id="macfie036" type="section" n="17">
+<div xml:id="macfie036" type="section" n="17">
 <head>xi</head>
 
 <lg type="stanza">
@@ -954,7 +1034,7 @@
 
 <pb n="War: An Ode  33"/>
 
-<l>The white-washed cottage with the thatch&#x00E8;d eaves</l>
+<l>The white-washed cottage with the thatchèd eaves</l>
 <l>And portico entwined with ivy leaves,</l>
 <l>The rugged poplars of the avenue,</l>
 <l>The hedges glistening with morning dew</l>
@@ -985,7 +1065,7 @@
 </lg>
 </div>
 
-<div id="macfie037" type="section" n="18">
+<div xml:id="macfie037" type="section" n="18">
 <head>xii</head>
 
 <lg type="stanza">
@@ -1010,7 +1090,7 @@
 
 <pb n="War: An Ode  35"/>
 
-<div id="macfie038" type="section" n="19">
+<div xml:id="macfie038" type="section" n="19">
 <head>xiii</head>
 
 <lg type="stanza">
@@ -1034,11 +1114,11 @@
 </lg>
 </div>
 
-<div id="macfie039" type="section" n="20">
+<div xml:id="macfie039" type="section" n="20">
 <head>xiv</head>
 
 <lg type="stanza">
-<l>Yet still in Tartar&#x00E6;an glooms,</l>
+<l>Yet still in Tartaræan glooms,</l>
 <l>In muddy pits like fetid tombs,</l>
 
 <pb n="36  War: An Ode"/>
@@ -1055,7 +1135,7 @@
 </lg>
 </div>
 
-<div id="macfie040" type="section" n="21">
+<div xml:id="macfie040" type="section" n="21">
 <head>xv</head>
 
 <lg type="stanza">
@@ -1083,7 +1163,7 @@
 </lg>
 </div>
 
-<div id="macfie041" type="section" n="22">
+<div xml:id="macfie041" type="section" n="22">
 <head>xvi</head>
 
 <lg type="stanza">
@@ -1105,7 +1185,7 @@
 
 <pb n="38  War: An Ode"/>
 
-<div id="macfie042" type="section" n="23">
+<div xml:id="macfie042" type="section" n="23">
 <head>xvii</head>
 
 <lg type="stanza">
@@ -1127,7 +1207,7 @@
 </lg>
 </div>
 
-<div id="macfie043" type="section" n="24">
+<div xml:id="macfie043" type="section" n="24">
 <head>xviii</head>
 
 <lg type="stanza">
@@ -1147,7 +1227,7 @@
 </lg>
 </div>
 
-<div id="macfie044" type="section" n="25">
+<div xml:id="macfie044" type="section" n="25">
 <head>xix</head>
 
 <lg type="stanza">
@@ -1175,7 +1255,7 @@
 </lg>
 </div>
 
-<div id="macfie045" type="section" n="26">
+<div xml:id="macfie045" type="section" n="26">
 <head>xx</head>
 
 <lg type="stanza">
@@ -1197,9 +1277,9 @@
 
 <pb n="War: An Ode   41"/>
 
-<div id="macfie400" type="poem" n="4">
+<div xml:id="macfie400" type="poem" n="4">
 <head> PART IV</head>
-<div id="macfie046" type="section" n="27">
+<div xml:id="macfie046" type="section" n="27">
 <head>i</head>
 
 <lg type="stanza">
@@ -1215,7 +1295,7 @@
 </lg>
 </div>
 
-<div id="macfie047" type="section" n="28">
+<div xml:id="macfie047" type="section" n="28">
 <head>ii</head>
 <lg type="stanza">
 <l>Still in our Armageddon burn the old creative fires.</l>
@@ -1230,7 +1310,7 @@
 <l>But how can we whose paltry life is pent in a petty hour</l>
 <l>How can we in faith foresee that Hate in Love will flower?</l>
 <l>How can we know what the fiery Woe smelting the bloody clay</l>
-<l>Moulds and fashions, with pains and passions, for &#x00E6;ons as far away</l>
+<l>Moulds and fashions, with pains and passions, for æons as far away</l>
 <l>As the lava and lime of bygone time when the young Earth panted flame,</l>
 <l>And out of its wondrous thund'rous heart the burning mountains came?</l>
 <l>How can we know that the soul will grow?   Seen have we the past</l>
@@ -1244,7 +1324,7 @@
 <l>As sapphire seas, and emerald trees, and meadows of yellow gold.</l>
 </lg></div>
 
-<div id="macfie048" type="section" n="29">
+<div xml:id="macfie048" type="section" n="29">
 <head>iii</head>
 <lg type="stanza">
 <l>We who have seen white Peace come forth thro' the fiery gates of Strife,</l>
@@ -1263,7 +1343,7 @@
 <l>And we know tho' Death may come and go yet Beauty never dies.</l>
 </lg></div>
 
-<div id="macfie049" type="section" n="30">
+<div xml:id="macfie049" type="section" n="30">
 <head>iv</head>
 
 <lg type="stanza">
@@ -1286,7 +1366,7 @@
 <l>Moulding to beauty and to truth our bodies and our souls.</l>
 </lg></div>
 
-<div id="macfie050" type="section" n="31">
+<div xml:id="macfie050" type="section" n="31">
 
 <head>v</head>
 
@@ -1318,12 +1398,12 @@
 </lg></div>
 
 
-<div id="macfie051" type="section" n="32">
+<div xml:id="macfie051" type="section" n="32">
 
 <head>vi</head>
 
 <lg type="stanza">
-<l>Ca&#x00E6;sar and Tamurlaine and Rameses</l>
+<l>Caæsar and Tamurlaine and Rameses</l>
 <l>Martel the Hammer, Attila the Scourge,</l>
 <l>Sardanapalus and Miltiades,</l>
 <l>Cyrus, Sennacherib, yea all of these</l>
@@ -1349,7 +1429,7 @@
 </lg>
 </div>
 
-<div id="macfie052" type="section" n="33">
+<div xml:id="macfie052" type="section" n="33">
 <head>vii</head>
 
 <lg type="stanza">
@@ -1371,7 +1451,7 @@
 </lg>
 </div>
 
-<div id="macfie053" type="section" n="34">
+<div xml:id="macfie053" type="section" n="34">
 <head>viii</head>
 
 <lg type="stanza">
@@ -1384,7 +1464,7 @@
 <l>The cornflowers and the poppies burst in bud</l>
 <l>From the warm ichor of Life's genial veins;</l>
 <l>And in the ulcerous gashes of the shells</l>
-<l>In f&#x0153;tid hells,</l>
+<l>In fœtid hells,</l>
 <l>In leprous thickets full of death and shame,</l>
 <l>Twinkle the starwort, and the pimpernels,</l>
 <l>And gorse, and charlock, and laburnum flame;</l>
@@ -1404,7 +1484,7 @@
 </lg>
 </div>
 
-<div id="macfie054" type="section" n="35">
+<div xml:id="macfie054" type="section" n="35">
 <head>ix</head>
 
 <lg type="stanza">
@@ -1422,7 +1502,7 @@
 <l>And buds in every flower.</l></lg>
 </div>
 
-<div id="macfie055" type="section" n="36">
+<div xml:id="macfie055" type="section" n="36">
 <head>x</head>
 
 <lg type="stanza">
@@ -1451,7 +1531,7 @@
 </lg>
 </div>
 
-<div id="macfie056" type="section" n="37">
+<div xml:id="macfie056" type="section" n="37">
 <head>xi</head>
 
 <lg type="stanza">
@@ -1480,7 +1560,7 @@
 </lg>
 </div>
 
-<div id="macfie057" type="section" n="38">
+<div xml:id="macfie057" type="section" n="38">
 <head>xii</head>
 
 <lg type="stanza">
@@ -1516,6 +1596,7 @@
 </div>
 </div>
 
+            <div>
 <pb n="[53]"/>
 
 
@@ -1524,12 +1605,12 @@
 
 
 
-<pb n=""/>
+<pb/>
 
-<pb n=""/>
+<pb/>
 
 
-<div id="macfie058" type="poem" n="1">
+<div xml:id="macfie058" type="poem" n="1">
 <head>A Quatercentenary Ode*</head>
 <lg type="stanza">
 <l>ETERNITY is throned upon thy spires:</l>
@@ -1692,7 +1773,7 @@
 
 <pb n="A Quartercenternary Ode  61"/>
 
-<l>Will bud and blossom nebul&#x00E6; of soul,</l>
+<l>Will bud and blossom nebulæ of soul,</l>
 <l>Till bright, and true, and round, and whole,</l>
 <l>Love's planets in their orbits roll,</l>
 <l>And wandering Wills their Centre find.</l></lg>
@@ -1701,7 +1782,7 @@
 <pb n="62  Blue of Smoke"/>
 
 
-<div id="macfie059" type="poem" n="2">
+<div xml:id="macfie059" type="poem" n="2">
 <head>"Blue of Smoke"</head>
 
 <lg type="stanza">
@@ -1720,7 +1801,7 @@
 
 <pb n="General Booth   63"/>
 
-<div id="macfie060" type="poem" n="3">
+<div xml:id="macfie060" type="poem" n="3">
 
 <head>General Booth</head>
 
@@ -1771,7 +1852,7 @@
 
 <pb n="A Flying Song  65"/>
 
-<div id="macfie061" type="poem" n="4">
+<div xml:id="macfie061" type="poem" n="4">
 
 <head>A Flying Song</head>
 
@@ -1829,7 +1910,7 @@
 
 <pb n="68  In The White City Of Thy Soul"/>
 
-<div id="macfie062" type="poem" n="5">
+<div xml:id="macfie062" type="poem" n="5">
 
 <head>"In the White City of Thy Soul"</head>
 
@@ -1941,7 +2022,7 @@
 
 <pb n="72  To Sir William Watson"/>
 
-<div id="macfie063" type="poem" n="6">
+<div xml:id="macfie063" type="poem" n="6">
 <head type="main">To Sir William Watson</head>
 
 <head type="sub">(ON THE OCCASION OF HIS RECEIVING AN LL.D. FROM ABERDEEN UNIVERSITY)</head>
@@ -1969,10 +2050,10 @@
 
 <pb n="To Sir William Watson   73"/>
 
-<div id="macfie064" type="poem" n="7">
+<div xml:id="macfie064" type="poem" n="7">
 
 <head>Battle</head>
-<lg tye="stanza">
+<lg type="stanza">
 <l>Thy beauty is bugle and banner--bugle, and banner, and prize!</l>
 <l>I march to the beat of thy heart, and the oriflamme of thine eyes.</l>
 <l>My falchion flashes thy smile, as I fight to the far-off goal--</l>
@@ -1985,11 +2066,11 @@
 
 <pb n="74  Thunder And Lightening"/>
 
-<div id="macfie065" type="poem" n="8">
+<div xml:id="macfie065" type="poem" n="8">
 
 <head>Six Fragments</head>
 
-<div id="macfie700" type="section" n="1">
+<div xml:id="macfie700" type="section" n="1">
 <head>THUNDER AND LIGHTENING</head>
 
 <lg type="stanza">
@@ -2000,7 +2081,7 @@
 </lg>
 </div>
 
-<div id="macfie701" type="section" n="2">
+<div xml:id="macfie701" type="section" n="2">
 <head>A NEST</head>
 <lg type="stanza">
 <l>My heart is full of lovely words--</l>
@@ -2009,7 +2090,7 @@
 <l>With broken wings.</l></lg>
 </div>
 
-<div id="macfie702" type="section" n="3">
+<div xml:id="macfie702" type="section" n="3">
 <head>WITCHERY</head>
 
 <lg type="stanza">
@@ -2024,7 +2105,7 @@
 <pb n="A Heart  75"/>
 
 
-<div id="macfie703" type="section" n="4">
+<div xml:id="macfie703" type="section" n="4">
 <head>A HEART</head>
 
 <lg type="stanza">
@@ -2033,7 +2114,7 @@
 </lg>
 </div>
 
-<div id="macfie704" type="section" n="5">
+<div xml:id="macfie704" type="section" n="5">
 <head>PARADOXES</head>
 
 <lg type="stanza">
@@ -2044,7 +2125,7 @@
 </lg>
 </div>
 
-<div id="macfie705" type="section" n="6">
+<div xml:id="macfie705" type="section" n="6">
 <head>ARTIFICE</head>
 
 <lg type="stanza">
@@ -2060,11 +2141,11 @@
 
 <pb n="76  City of Granite Tower"/>
 
-<div id="macfie066" type="poem" n="9">
+<div xml:id="macfie066" type="poem" n="9">
 
 <head>City of Granite Tower</head>
 
-<div id="macfie706" type="section" n="1">
+<div xml:id="macfie706" type="section" n="1">
 <head>i</head>
 
 <lg type="stanza">
@@ -2102,7 +2183,7 @@
 </lg>
 </div>
 
-<div id="macfie707" type="section" n="2">
+<div xml:id="macfie707" type="section" n="2">
 <head>ii</head>
 
 <lg type="stanza">
@@ -2124,7 +2205,7 @@
 </lg>
 </div>
 
-<div id="macfie708" type="section" n="3">
+<div xml:id="macfie708" type="section" n="3">
 
 <head>iii</head>
 
@@ -2148,7 +2229,7 @@
 
 <pb n="City of Granite Tower  79"/>
 
-<div id="macfie709" type="section" n="4">
+<div xml:id="macfie709" type="section" n="4">
 
 <head>iv</head>
 
@@ -2176,7 +2257,7 @@
 </div>
 <pb n="80  Eugeny"/>
 
-<div id="macfie067" type="poem" n="10">
+<div xml:id="macfie067" type="poem" n="10">
 
 <head>Eugeny</head>
 
@@ -2230,14 +2311,14 @@
 
 <pb n="82  In Memory"/>
 
-<div id="macfie068" type="poem" n="11">
+<div xml:id="macfie068" type="poem" n="11">
 
 <head>In Memory of Major William La Touche Congreve, V.C.</head>
 
-<q><epigraph><cit>
-<l>" The best always befalls the best."</l>
+<epigraph><cit>
+<q><l>" The best always befalls the best."</l>
 <l>--<hi rend="italics">Quotation from letter of his tutor at Eton.</hi></l>
-</cit></epigraph></q>
+</q></cit></epigraph>
 
 <lg type="stanza">
 <l>ONLY the best can e'er the best befall,</l>
@@ -2259,7 +2340,7 @@
 
 <pb n="Wild Rose  83"/>
 
-<div id="macfie069" type="poem" n="12">
+<div xml:id="macfie069" type="poem" n="12">
 
 <head>Wild Rose</head>
 <lg type="stanza">
@@ -2418,15 +2499,15 @@
 
 <pb n="How Little Seem The Joys of The World   89"/>
 
-<div id="macfie070" type="poem" n="13">
+<div xml:id="macfie070" type="poem" n="13">
 
 
 <head>"How Little Seem the Joys and Fears"</head>
 
-<q><epigraph><p>
-"He has placed the world in man's heart" <cit>(<hi rend="italic">Ecclesiastes</hi>).</cit></p></epigraph></q>
-<q><epigraph><p>"War' nicht das Auge sonnenhaft wie konnt es dann das Licht
-erblicken."</p>***** can't find code for umlauts...</epigraph></q>
+    <epigraph><p><quote>
+"He has placed the world in man's heart"</quote><ref>(<hi rend="italic">Ecclesiastes</hi>).</ref></p></epigraph>
+    <epigraph><p><q>"War' nicht das Auge sonnenhaft wie konnt es dann das Licht
+erblicken."</q></p></epigraph>
 
 <lg type="stanza">
 <l>HOW little seem the joys and fears</l>
@@ -2438,7 +2519,7 @@ erblicken."</p>***** can't find code for umlauts...</epigraph></q>
 </lg>
 
 <lg type="stanza">
-<l>Natheless the spinning d&#x00E6;dal world,</l>
+<l>Natheless the spinning dædal world,</l>
 <l>Floats in the current of our veins;</l>
 <l>Within our souls the stars are whirled;</l>
 <l>We breed the planets in our brains.</l>
@@ -2451,11 +2532,11 @@ erblicken."</p>***** can't find code for umlauts...</epigraph></q>
 
 <pb n="90    Daring"/>
 
-<div id="macfie071" type="poem" n="14">
+<div xml:id="macfie071" type="poem" n="14">
 
 <head>Daring</head>
 
-<lg typ="stanza">
+<lg type="stanza">
 <l>I DARE not worship Love, whose warm hands hold</l>
 <l>The true immortal worth of mortal breath,</l>
 <l>And every deathless beauty this side death,</l>
@@ -2478,7 +2559,7 @@ erblicken."</p>***** can't find code for umlauts...</epigraph></q>
 
 <pb n="Death, The Child  91"/>
 
-<div id="macfie072" type="poem" n="15">
+<div xml:id="macfie072" type="poem" n="15">
 
 <head>Death, the Child</head>
 
@@ -2533,10 +2614,10 @@ erblicken."</p>***** can't find code for umlauts...</epigraph></q>
 
 <pb n="Wedding Ode  93"/>
 
-<div id="macfie073" type="poem" n="16">
+<div xml:id="macfie073" type="poem" n="16">
 <head>Wedding Ode</head>
 
-<div id="macfie710" type="section" n="1">
+<div xml:id="macfie710" type="section" n="1">
 <head>To A Poetess<lb/>
 i</head>
 
@@ -2552,7 +2633,7 @@ i</head>
 </lg>
 </div>
 
-<div id="macfie711" type="section" n="2">
+<div xml:id="macfie711" type="section" n="2">
 <head>ii</head>
 <lg type="stanza">
 <l>We two have wandered hand in hand</l>
@@ -2572,7 +2653,7 @@ i</head>
 </lg>
 </div>
 
-<div id="macfie712" type="section" n="3">
+<div xml:id="macfie712" type="section" n="3">
 <head>iii</head>
 <lg type="stanza">
 <l>Your dream of Love takes human form,</l>
@@ -2584,7 +2665,7 @@ i</head>
 </lg>
 </div>
 
-<div id="macfie713" type="section" n="4">
+<div xml:id="macfie713" type="section" n="4">
 <head>iv</head>
 <lg type="stanza">
 <l>Yet mid the glory flicker gleams</l>
@@ -2603,14 +2684,14 @@ i</head>
 </lg>
 </div>
 
-<div id="macfie714" type="section" n="5">
+<div xml:id="macfie714" type="section" n="5">
 
 <head>v</head>
 <lg type="stanza">
 <l>O be a poet-dreamer still,</l>
 <l>With heart and will</l>
 <l>Athrob, athrill,</l>
-<l>&#x00C6;olian harps in Beauty's breath,</l>
+<l>Æolian harps in Beauty's breath,</l>
 <l>Until at last God's Love fulfil</l>
 <l>All dreams of Life in the dream of Death,</l>
 <l>Still dream; still let thy spirit change,</l>
@@ -2623,7 +2704,7 @@ i</head>
 
 <pb n="96  The Heart Of A Child"/>
 
-<div id="macfie074" type="poem" n="17">
+<div xml:id="macfie074" type="poem" n="17">
 <head>The Heart of a Child</head>
 <lg type="stanza">
 <l>BUDDING her dreams and budding her bosom,</l>
@@ -2635,7 +2716,7 @@ i</head>
 
 <pb n="Ode Of Welcome To Queen Alexandra  97"/>
 
-<div id="macfie075" type="poem" n="18">
+<div xml:id="macfie075" type="poem" n="18">
 
 <head type="main">Ode of Welcome to Queen Alexandra</head>
 
@@ -2688,7 +2769,7 @@ Quatercentenary of Aberdeen University</head>
 
 <pb n="Death's Lover  99"/>
 
-<div id="macfie076" type="poem" n="19">
+<div xml:id="macfie076" type="poem" n="19">
 
 <head>Death's Lover</head>
 
@@ -2735,7 +2816,7 @@ Quatercentenary of Aberdeen University</head>
 
 <pb n="Homeland   101"/>
 
-<div id="macfie077" type="poem" n="20">
+<div xml:id="macfie077" type="poem" n="20">
 
 <head>Homeland</head>
 
@@ -2779,7 +2860,7 @@ Quatercentenary of Aberdeen University</head>
 
 <pb n="In Memory Of A Young Airman  103"/>
 
-<div id="macfie078" type="poem" n="21">
+<div xml:id="macfie078" type="poem" n="21">
 
 <head>In Memory of a Young Airman</head>
 
@@ -2798,7 +2879,7 @@ Quatercentenary of Aberdeen University</head>
 </lg>
 
 <lg type="stanza">
-<l>Or Hermes, with his wing&#x00E9;d feet</l>
+<l>Or Hermes, with his wingéd feet</l>
 <l rend="inline">Flying on messages divine;</l>
 <l>Or Ganymede, the stripling sweet,</l>
 <l rend="inline">Pouring the gods their ruby wine;</l>
@@ -2875,7 +2956,7 @@ Quatercentenary of Aberdeen University</head>
 </lg>
 
 <lg type="stanza">
-<l>The bloody fangs of barb&#x00E9;d wire,</l>
+<l>The bloody fangs of barbéd wire,</l>
 <l rend="inline">The muddy craters choked with dead,</l>
 <l>The cannon belching smoke and fire,</l>
 <l rend="inline">The crests of battle breaking red.</l>
@@ -2933,7 +3014,7 @@ Quatercentenary of Aberdeen University</head>
 <l>And still meseems the boundless force,</l>
 <l rend="inline">The beauty and the love set free</l>
 <l>From the gross flesh, will run its course</l>
-<l rend="inline">Through &#x00E6;ons of Eternity;--</l>
+<l rend="inline">Through æons of Eternity;--</l>
 </lg>
 
 <lg type="stanza">
@@ -2953,7 +3034,7 @@ Quatercentenary of Aberdeen University</head>
 
 <pb n="108  The Resurrection Of A Dream"/>
 
-<div id="mackintosh079" type="poem" n="22">
+<div xml:id="mackintosh079" type="poem" n="22">
 
 <head>The Resurrection of a Dream</head>
 
@@ -3021,7 +3102,7 @@ Quatercentenary of Aberdeen University</head>
 
 <pb n="The Blue Bird   111"/>
 
-<div id="macfie080" type="poem" n="23">
+<div xml:id="macfie080" type="poem" n="23">
 
 <head type="main">The Blue Bird</head>
 
@@ -3051,7 +3132,7 @@ Quatercentenary of Aberdeen University</head>
 
 <pb n="112  To J.F. White"/>
 
-<div id="macfie081" type="poem" n="24">
+<div xml:id="macfie081" type="poem" n="24">
 
 <head>To J. F. White (Art Critic) When Dying</head>
 
@@ -3109,7 +3190,7 @@ Quatercentenary of Aberdeen University</head>
 
 <pb n="114   Pan's Flute"/>
 
-<div id="macfie082" type="poem" n="25">
+<div xml:id="macfie082" type="poem" n="25">
 
 <head>Pan's Flute</head>
 <lg type="stanza">
@@ -3135,13 +3216,13 @@ Quatercentenary of Aberdeen University</head>
 
 <pb n="The Titanic   115"/>
 
-<div id="macfie083" type="poem" n="26">
+<div xml:id="macfie083" type="poem" n="26">
 
 <head type="main">The "Titanic"</head>
 
 <head type="sub">(An Ode of Immortality)</head>
 
-<div id="macfie715" type="section" n="1">
+<div xml:id="macfie715" type="section" n="1">
 <head> i</head>
 <lg type="stanza">
 <l>O, RIBBED and riveted with iron and steel,</l>
@@ -3155,7 +3236,7 @@ Quatercentenary of Aberdeen University</head>
 </lg>
 </div>
 
-<div id="macfie716" type="section" n="2">
+<div xml:id="macfie716" type="section" n="2">
 <head>ii</head>
 
 <lg type="stanza">
@@ -3178,14 +3259,14 @@ Quatercentenary of Aberdeen University</head>
 <l>At the prodigious panoply of steel,</l>
 <l>The pounding rods, the whirling blades, the invulnerable keel.</l>
 
-<milestone section="unit" rend="dots">•                    •                    •</milestone>
-
+<milestone unit="section" rend="dots"/>
+    
 <l>Natheless, old Charon, paddling in his boat,</l>
 <l>Smiled, and the laughter rattled in his throat.</l>
 </lg>
 </div>
 
-<div id="macfie717" type="section" n="3">
+<div xml:id="macfie717" type="section" n="3">
 <head>iii</head>
 
 <lg type="stanza">
@@ -3209,7 +3290,7 @@ Quatercentenary of Aberdeen University</head>
 </lg>
 </div>
 
-<div id="macfie718" type="section" n="4">
+<div xml:id="macfie718" type="section" n="4">
 <head>iv</head>
 
 <lg type="stanza">
@@ -3233,7 +3314,7 @@ Quatercentenary of Aberdeen University</head>
 </lg>
 </div>
 
-<div id="macfie718" type="section" n="4">
+<div xml:id="macfie718" type="section" n="4">
 <lg type="stanza">
 <l>Ah! woe is me!   A host of men must die,</l>
 <l>A host of men must leave the April sky,</l>
@@ -3266,7 +3347,7 @@ Quatercentenary of Aberdeen University</head>
 </lg>
 </div>
 
-<div id="macfie719" type="section" n="5">
+<div xml:id="macfie719" type="section" n="5">
 <head>vi</head>
 
 <lg type="stanza">
@@ -3296,14 +3377,14 @@ Quatercentenary of Aberdeen University</head>
 </lg>
 </div>
 
-<div id="macfie720" type="section" n="6">
+<div xml:id="macfie720" type="section" n="6">
 <head>vii</head>
 
 <lg type="stanza">
 <l>And yet the Soul in whom all beings are</l>
 <l>Discerns so deep, foresees so far,</l>
 <l>He plans the meadows of a star</l>
-<l>&#x00C6;ons before the star is made,</l>
+<l>Æons before the star is made,</l>
 <l>And in the fire</l>
 <l>He moulds to his desire</l>
 <l>The tiny blossom and the tender blade.</l>
@@ -3320,7 +3401,7 @@ Quatercentenary of Aberdeen University</head>
 </lg>
 </div>
 
-<div id="macfie721" type="section" n="7">
+<div xml:id="macfie721" type="section" n="7">
 <head>viii</head>
 <lg type="stanza">
 <l rend="inline">Behold! the hands of Fate,</l>
@@ -3339,7 +3420,7 @@ Quatercentenary of Aberdeen University</head>
 
 <pb n="122  The Titanic"/>
 
-<div id="macfie722" type="section" n="8">
+<div xml:id="macfie722" type="section" n="8">
 <head>ix</head>
 <lg type="inline">
 <l rend="inline">And we have glimpsed a good,</l>
@@ -3368,7 +3449,7 @@ Quatercentenary of Aberdeen University</head>
 
 <pb n="The Titanic   123"/>
 
-<div id="macfie723" type="section" n="9">
+<div xml:id="macfie723" type="section" n="9">
 <head>x</head>
 
 <lg type="stanza">
@@ -3390,7 +3471,7 @@ Quatercentenary of Aberdeen University</head>
 </lg>
 </div>
 
-<div id="macfie724" type="section" n="10">
+<div xml:id="macfie724" type="section" n="10">
 <head>xi</head>
 
 <lg type="stanza">
@@ -3420,7 +3501,7 @@ Quatercentenary of Aberdeen University</head>
 </lg>
 </div>
 
-<div id="macfie725" type="section" n="11">
+<div xml:id="macfie725" type="section" n="11">
 
 <head>xii</head>
 <lg type="stanza">
@@ -3450,7 +3531,7 @@ Quatercentenary of Aberdeen University</head>
 </lg>
 </div>
 
-<div id="macfie726" type="section" n="12">
+<div xml:id="macfie726" type="section" n="12">
 <head>xiii</head>
 
 <lg type="stanza">
@@ -3473,7 +3554,7 @@ Quatercentenary of Aberdeen University</head>
 
 <pb n="An Extravaganza   127"/>
 
-<div id="macfie084" type="poem" n="27">
+<div xml:id="macfie084" type="poem" n="27">
 <head>An Extravaganza</head>
 
 <lg type="stanza">
@@ -3508,7 +3589,7 @@ Quatercentenary of Aberdeen University</head>
 
 <lg type="stanza">
 <l>You blind me like the lissom blade</l>
-<l redn="inline">Of sudden summer-lightning flashes,</l>
+<l rend="inline">Of sudden summer-lightning flashes,</l>
 <l>Your witchery makes my heart afraid,</l>
 <l rend="inline">Your beauty baffles and abashes;</l>
 <l>I seek a dewy ambuscade</l>
@@ -3527,7 +3608,7 @@ Quatercentenary of Aberdeen University</head>
 
 <pb n="The Nile   129"/>
 
-<div id="macfie085" type="poem" n="28">
+<div xml:id="macfie085" type="poem" n="28">
 
 <head>The Nile</head>
 <lg type="stanza">
@@ -3545,9 +3626,9 @@ Quatercentenary of Aberdeen University</head>
 </lg>
 
 <lg type="stanza">
-<l>&#x00C6;ons ago, in dreams He saw it,</l>
+<l>Æons ago, in dreams He saw it,</l>
 <l rend="inline">Lying in unborn beauty afar;</l>
-<l>&#x00C6;ons long He toiled to draw it,</l>
+<l>Æons long He toiled to draw it,</l>
 <l rend="inline">Out of the core of a burning star.</l>
 </lg>
 
@@ -3624,7 +3705,7 @@ Quatercentenary of Aberdeen University</head>
 
 <pb n="132  A Pastel"/>
 
-<div id="macfie086" type="poem" n="29">
+<div xml:id="macfie086" type="poem" n="29">
 
 <head>A Pastel</head>
 
@@ -3637,7 +3718,7 @@ Quatercentenary of Aberdeen University</head>
 
 <lg type="stanza">
 <l>Her breasts are like two clusters of white may</l>
-<l>In a blue-vein&#x00e9;d alabaster bowl,--</l>
+<l>In a blue-veinéd alabaster bowl,--</l>
 <l>And, shaken by her heart's wild beating, spray</l>
 <l>A drench of dew upon my dusty soul.</l>
 </lg>
@@ -3652,7 +3733,7 @@ Quatercentenary of Aberdeen University</head>
 
 <pb n="Ski Song   133"/>
 
-<div id="macfie087" type="poem" n="30">
+<div xml:id="macfie087" type="poem" n="30">
 
 <head>Ski Song</head>
 
@@ -3674,11 +3755,11 @@ Quatercentenary of Aberdeen University</head>
 
 <pb n="134  On The Death of John Davidson"/>
 
-<div id="macfie088" type="poem" n="31">
+<div xml:id="macfie088" type="poem" n="31">
 
 <head>On the Death of John Davidson</head>
 
-<div id="macfie726" type="section" n="1">
+<div xml:id="macfie726" type="section" n="1">
 
 <head>i</head>
 <lg type="stanza">
@@ -3707,7 +3788,7 @@ Quatercentenary of Aberdeen University</head>
 </lg>
 </div>
 
-<div id="macfie727" type="section" n="2">
+<div xml:id="macfie727" type="section" n="2">
 <head>ii</head>
 <lg type="stanza">
 <l>O bitter smoke to come from such a flame!</l>
@@ -3723,7 +3804,7 @@ Quatercentenary of Aberdeen University</head>
 </lg>
 </div>
 
-<div id="macfie728" type="section" n="3">
+<div xml:id="macfie728" type="section" n="3">
 <head>iii</head>
 <lg type="stanza">
 <l>Would it have braver been to slay thine art,</l>
@@ -3747,7 +3828,7 @@ Quatercentenary of Aberdeen University</head>
 </lg>
 </div>
 
-<div id="macfie729" type="section" n="4">
+<div xml:id="macfie729" type="section" n="4">
 <head>iv</head>
 <lg type="stanza">
 <l>What man may judge?  We know that thou wert strong,</l>
@@ -3782,7 +3863,7 @@ Quatercentenary of Aberdeen University</head>
 
 <pb n="138  Lady Moonlight"/>
 
-<div id="macfie089" type="poem" n="32">
+<div xml:id="macfie089" type="poem" n="32">
 
 <head>Lady Moonlight</head>
 
@@ -3814,7 +3895,7 @@ Quatercentenary of Aberdeen University</head>
 <pb n="The Isle of Song   139"/>
 
 
-<div id="macfie090" type="poem" n="34">
+<div xml:id="macfie090" type="poem" n="34">
 <head>The Isle of Song</head>
 
 <lg type="stanza">
@@ -3849,7 +3930,7 @@ Quatercentenary of Aberdeen University</head>
 
 <pb n="140  A Bee"/>
 
-<div id="macfie091" type="poem" n="35">
+<div xml:id="macfie091" type="poem" n="35">
 
 <head>A Bee</head>
 
@@ -3872,7 +3953,7 @@ Quatercentenary of Aberdeen University</head>
 
 <pb n="A Hybrid  141"/>
 
-<div id="macfie092" type="poem" n="36">
+<div xml:id="macfie092" type="poem" n="36">
 
 <head>A Hybrid</head>
 
@@ -3894,7 +3975,7 @@ Quatercentenary of Aberdeen University</head>
 
 <pb n="142  A Lie"/>
 
-<div id="macfie093" type="poem" n="37">
+<div xml:id="macfie093" type="poem" n="37">
 
 <head>A Lie</head>
 
@@ -3934,7 +4015,7 @@ Quatercentenary of Aberdeen University</head>
 <pb n="144  But"/>
 
 
-<div id="macfie094" type="poem" n="38">
+<div xml:id="macfie094" type="poem" n="38">
 <head>But</head>
 
 <lg type="stanza">
@@ -3954,8 +4035,8 @@ Quatercentenary of Aberdeen University</head>
 
 <pb n="Integer Vitae  145"/>
 
-<div id="macfie095" type="poem" n="39">
-<head>"Integer Vit&#x00E6;</head>
+<div xml:id="macfie095" type="poem" n="39">
+<head>"Integer Vitæ</head>
 
 <lg type="stanza">
 <l>HE whose incorrigible Hope redeems</l>
@@ -3988,7 +4069,7 @@ Quatercentenary of Aberdeen University</head>
 
 <pb n="146  Face Aflower"/>
 
-<div id="macfie096" type="poem" n="40">
+<div xml:id="macfie096" type="poem" n="40">
 
 <head>Face Aflower</head>
 
@@ -4004,7 +4085,7 @@ Quatercentenary of Aberdeen University</head>
 
 <pb n="A Word  147"/>
 
-<div id="macfie097" type="poem" n="41">
+<div xml:id="macfie097" type="poem" n="41">
 
 <head>A Word</head>
 <lg type="stanza">
@@ -4025,7 +4106,7 @@ Quatercentenary of Aberdeen University</head>
 
 <pb n="148  Memory"/>
 
-<div id="macfie098" type="poem" n="42">
+<div xml:id="macfie098" type="poem" n="42">
 
 <head>Memory</head>
 
@@ -4046,7 +4127,7 @@ Quatercentenary of Aberdeen University</head>
 
 <pb n="To A Son   149"/>
 
-<div id="macfie099" type="poem" n="43">
+<div xml:id="macfie099" type="poem" n="43">
 
 <head>To a Son on the Death of his Mother</head>
 
@@ -4095,7 +4176,7 @@ Quatercentenary of Aberdeen University</head>
 <pb n="Spring and Summer 151"/>
 
 
-<div id="macfie100" type="poem" n="44">
+<div xml:id="macfie100" type="poem" n="44">
 <head>Spring and Summer<lb/>
 To R. S.</head>
 
@@ -4166,7 +4247,7 @@ To R. S.</head>
 
 <pb n="154  To A Lady"/>
 
-<div id="macfie101" type="poem" n="45">
+<div xml:id="macfie101" type="poem" n="45">
 
 <head>To a Lady who Sent Verses to Correct<lb/>
 PUBLISHED IN "PUNCH"</head>
@@ -4195,7 +4276,7 @@ PUBLISHED IN "PUNCH"</head>
 <pb n="I Have Found Her  155"/>
 
 
-<div id="macfie102" type="poem" n="46">
+<div xml:id="macfie102" type="poem" n="46">
 <head>"I Have Found Her"</head>
 
 <lg type="stanza">
@@ -4218,7 +4299,7 @@ PUBLISHED IN "PUNCH"</head>
 <pb n="156  A Miracle"/>
 
 
-<div id="macfie103" type="poem" n="47">
+<div xml:id="macfie103" type="poem" n="47">
 <head>A Miracle</head>
 
 <lg type="stanza">
@@ -4235,11 +4316,11 @@ PUBLISHED IN "PUNCH"</head>
 
 <pb n="To a Lady   157"/>
 
-<div id="macfie104" type="poem" n="48">
+<div xml:id="macfie104" type="poem" n="48">
 
 <head>To a Lady in the Reading-Room of the British Museum</head>
 
-<div id="macfie730" type="section" n="1">
+<div xml:id="macfie730" type="section" n="1">
 
 <lg type="stanza">
 <l>WHAT are you doing there mid the dust,</l>
@@ -4256,7 +4337,7 @@ PUBLISHED IN "PUNCH"</head>
 </div>
 
 
-<div id="macfie731" type="section" n="2">
+<div xml:id="macfie731" type="section" n="2">
 <head>ii</head>
 
 <lg type="stanza">
@@ -4277,7 +4358,7 @@ PUBLISHED IN "PUNCH"</head>
 </lg>
 </div>
 
-<div id="macfie732" type="section" n="3">
+<div xml:id="macfie732" type="section" n="3">
 <head>iii</head>
 
 <lg type="stanza">
@@ -4285,7 +4366,7 @@ PUBLISHED IN "PUNCH"</head>
 <l>Botany?   History?   Cookery?   Art?</l>
 <l>Have you been choosing</l>
 <l>Something amusing,</l>
-<l>Fin de si&#x00E8;cle, and piquant, and smart?</l>
+<l>Fin de siècle, and piquant, and smart?</l>
 <l>Are you a sermon or sonnet perusing?</l>
 <l>Feed you your mind, or your soul, or your heart?</l>
 <l>Have you been choosing</l>
@@ -4296,7 +4377,7 @@ PUBLISHED IN "PUNCH"</head>
 
 <pb n="To A Lady  159"/>
 
-<div id="macfie733" type="section" n="4">
+<div xml:id="macfie733" type="section" n="4">
 
 <head>iv</head>
 <lg type="stanza">
@@ -4314,7 +4395,7 @@ PUBLISHED IN "PUNCH"</head>
 </div>
 
 
-<div id="macfie734" type="section" n="5">
+<div xml:id="macfie734" type="section" n="5">
 <head>v</head>
 <lg type="stanza">
 <l>Fair necromancer, with your warm beauty</l>
@@ -4334,7 +4415,7 @@ PUBLISHED IN "PUNCH"</head>
 </lg>
 </div>
 
-<div id="macfie735" type="section" n="6">
+<div xml:id="macfie735" type="section" n="6">
 <head>vi</head>
 
 <lg type="stanza">
@@ -4351,7 +4432,7 @@ PUBLISHED IN "PUNCH"</head>
 </lg>
 </div>
 
-<div id="macfie736" type="section" n="7">
+<div xml:id="macfie736" type="section" n="7">
 <head>vii</head>
 <lg type="stanza">
 <l>Dozens of passionate amorous poets</l>
@@ -4370,7 +4451,7 @@ PUBLISHED IN "PUNCH"</head>
 </lg>
 </div>
 
-<div id="macfie737" type="section" n="8">
+<div xml:id="macfie737" type="section" n="8">
 <head>viii</head>
 <lg type="stanza">
 <l>Come all the dreams of the beautiful dreamers,</l>
@@ -4388,7 +4469,7 @@ PUBLISHED IN "PUNCH"</head>
 
 <pb n="162  To A Lady"/>
 
-<div id="macfie738" type="section" n="9">
+<div xml:id="macfie738" type="section" n="9">
 <head>ix</head>
 
 
@@ -4407,7 +4488,7 @@ PUBLISHED IN "PUNCH"</head>
 </lg>
 </div>
 
-<div id="macfie739" type="section" n="10">
+<div xml:id="macfie739" type="section" n="10">
 
 <head>x</head>
 
@@ -4431,13 +4512,13 @@ PUBLISHED IN "PUNCH"</head>
 
 <pb n="164  Ex Unitate Vires"/>
 
-<div id="macfie105" type="poem" n="49">
+<div xml:id="macfie105" type="poem" n="49">
 <head type="main">Ex Unitate Vires ("Let Us Take Hands")</head>
 
 <head type="sub">AN ODE IN COMMEMORATION OF THE FEDERATION OF<lb/>
 THE SOUTH AFRICAN STATES</head>
 
-<div id="macfie740" type="section" n="1">
+<div xml:id="macfie740" type="section" n="1">
 <head>i</head>
 
 <lg type="stanza">
@@ -4468,7 +4549,7 @@ THE SOUTH AFRICAN STATES</head>
 </lg>
 </div>
 
-<div id="macfie741" type="section" n="2">
+<div xml:id="macfie741" type="section" n="2">
 <head>ii</head>
 <lg type="stanza">
 <l>Only a fool</l>
@@ -4495,7 +4576,7 @@ THE SOUTH AFRICAN STATES</head>
 </lg>
 </div>
 
-<div id="macfie742" type="section" n="3">
+<div xml:id="macfie742" type="section" n="3">
 <head>iii</head>
 <lg type="stanza">
 <l>Shall not our hearts confederate conspire,</l>
@@ -4508,7 +4589,7 @@ THE SOUTH AFRICAN STATES</head>
 </lg>
 </div>
 
-<div id="macfie743" type="section" n="4">
+<div xml:id="macfie743" type="section" n="4">
 <head>iv</head>
 <lg type="stanza">
 <l>Now that the Oath of Brotherhood we swear,</l>
@@ -4536,7 +4617,7 @@ THE SOUTH AFRICAN STATES</head>
 
 <pb n="168  Girl of the Golden Voice"/>
 
-<div id="macfie106" type="poem" n="50">
+<div xml:id="macfie106" type="poem" n="50">
 
 <head>Girl of the Golden Voice</head>
 
@@ -4562,7 +4643,7 @@ THE SOUTH AFRICAN STATES</head>
 
 <pb n="Ampelosis  169"/>
 
-<div id="macfie107" type="poem" n="51">
+<div xml:id="macfie107" type="poem" n="51">
 
 <head>Ampelopsis (Virginian Creeper)</head>
 <lg type="stanza">
@@ -4581,7 +4662,7 @@ THE SOUTH AFRICAN STATES</head>
 
 <pb n="170  Moons"/>
 
-<div id="macfie108" type="poem" n="52">
+<div xml:id="macfie108" type="poem" n="52">
 
 <head type="main">Moons</head>
 
@@ -4589,11 +4670,11 @@ THE SOUTH AFRICAN STATES</head>
 CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 
 <lg type="main">
-<l>&#x00C6;ONS ago, when Earth was still a star,</l>
+<l>ÆONS ago, when Earth was still a star,</l>
 <l>From his hot heart he tore the Moon away,</l>
 <l>And flung her forth to crumble and decay</l>
 <l>In deserts where no green oases are,--</l>
-<l>&#x00c6;ons ago, but still remains the scar,</l>
+<l>Æons ago, but still remains the scar,</l>
 <l>Filled with a briny ocean purple-grey;</l>
 <l>And still the Moon's caprice the tides can sway,</l>
 <l>And still she shines upon him from afar.</l>
@@ -4612,7 +4693,7 @@ CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 
 <pb n="I Called For Love"/>
 
-<div id="macfie109" type="poem" n="53">
+<div xml:id="macfie109" type="poem" n="53">
 
 <head>"I Called for Love"</head>
 
@@ -4633,10 +4714,10 @@ CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 
 <pb n="172  In Memoriam"/>
 
-<div id="macfie110" type="poem" n="54">
+<div xml:id="macfie110" type="poem" n="54">
 <head>In Memoriam: John Davidson</head>
 
-<div id="macfie744" type="section" n="1">
+<div xml:id="macfie744" type="section" n="1">
 
 <head>i</head>
 <lg type="stanza">
@@ -4661,7 +4742,7 @@ CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 
 <pb n="In Memoriam  173"/>
 
-<div id="macfie745" type="section" n="2">
+<div xml:id="macfie745" type="section" n="2">
 
 <head>ii</head>
 
@@ -4681,7 +4762,7 @@ CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 </lg>
 </div>
 
-<div id="macfie746" type="section" n="3">
+<div xml:id="macfie746" type="section" n="3">
 <head>iii</head>
 <lg type="stanza">
 <l>But mortised well, and founded deep,</l>
@@ -4709,7 +4790,7 @@ CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 </lg>
 </div>
 
-<div id="macfie747" type="section" n="4">
+<div xml:id="macfie747" type="section" n="4">
 <head>iv</head>
 <lg type="stanza">
 
@@ -4735,7 +4816,7 @@ CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 </div>
 
 
-<div id="macfie748" type="section" n="5">
+<div xml:id="macfie748" type="section" n="5">
 
 <head>v</head>
 
@@ -4765,7 +4846,7 @@ CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 </lg>
 </div>
 
-<div id="macfie749" type="section" n="6">
+<div xml:id="macfie749" type="section" n="6">
 <head>vi</head>
 
 <lg type="stanza">
@@ -4792,7 +4873,7 @@ CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 </lg>
 </div>
 
-<div id="macfie750" type="section" n="7">
+<div xml:id="macfie750" type="section" n="7">
 <head>vii</head>
 
 <lg type="stanza">
@@ -4810,7 +4891,7 @@ CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 </lg>
 </div>
 
-<div id="macfie751" type="section" n="8">
+<div xml:id="macfie751" type="section" n="8">
 <head>viii</head>
 <lg type="stanza">
 <l>Who, who will blame thee for thy broken sword.</l>
@@ -4838,10 +4919,10 @@ CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 <pb n="Queen Alexandra Day   179"/>
 
 
-<div id="macfie111" type="poem" n="55">
+<div xml:id="macfie111" type="poem" n="55">
 <head>Queen Alexandra Day</head>
 
-<div id="macfie752" type="section" n="1">
+<div xml:id="macfie752" type="section" n="1">
 
 <head>i</head>
 
@@ -4864,7 +4945,7 @@ CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 
 <pb n="180  Queen Alexandra Day"/>
 
-<div id="macfie753" type="section" n="2">
+<div xml:id="macfie753" type="section" n="2">
 <head>ii</head>
 <lg type="stanza">
 <l>Throned afar,</l>
@@ -4881,7 +4962,7 @@ CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 </lg>
 </div>
 
-<div id="macfie754" type="section" n="3">
+<div xml:id="macfie754" type="section" n="3">
 <head>iii</head>
 <lg type="stanza">
 <l>Mother-Queen,</l>
@@ -4908,7 +4989,7 @@ CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 </lg>
 </div>
 
-<div id="macfie755" type="section" n="4">
+<div xml:id="macfie755" type="section" n="4">
 <head>iv</head>
 <lg type="stanza">
 <l>Thy voice is like the bugle-voice of dawn--</l>
@@ -4938,7 +5019,7 @@ CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 
 <pb n="Because Unworthy  183"/>
 
-<div id="macfie112" type="poem" n="56">
+<div xml:id="macfie112" type="poem" n="56">
 
 <head>"Because Unworthy"</head>
 <lg type="stanza">
@@ -4966,7 +5047,7 @@ CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 <pb n="184  Rewards"/>
 
 
-<div id="macfie113" type="poem" n="57">
+<div xml:id="macfie113" type="poem" n="57">
 
 
 <head>Rewards</head>
@@ -5052,7 +5133,7 @@ CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 
 <pb n="Dreams  187"/>
 
-<div id="macfie114" type="poem" n="58">
+<div xml:id="macfie114" type="poem" n="58">
 
 <head type="main">Dreams</head>
 
@@ -5098,7 +5179,7 @@ CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 
 <pb n="Lilies  189"/>
 
-<div id="macfie115" type="poem" n="59">
+<div xml:id="macfie115" type="poem" n="59">
 <head>Lilies</head>
 <lg type="stanza">
 <l>THE solid world of sense dissolves away;</l>
@@ -5118,10 +5199,10 @@ CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 
 <pb n="190  The Joy of Youth"/>
 
-<div id="macfie116" type="poem" n="60">
+<div xml:id="macfie116" type="poem" n="60">
 <head>The Joy of Youth</head>
 
-<div id="macfie756" type="section" n="1">
+<div xml:id="macfie756" type="section" n="1">
 
 <head>i</head>
 <lg type="stanza">
@@ -5132,7 +5213,7 @@ CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 </lg>
 </div>
 
-<div id="macfie757" type="section" n="2">
+<div xml:id="macfie757" type="section" n="2">
 <head>ii</head>
 
 <lg type="stanza">
@@ -5146,7 +5227,7 @@ CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 
 <pb n="Love's Death  191"/>
 
-<div id="macfie117" type="poem" n="61">
+<div xml:id="macfie117" type="poem" n="61">
 <head>Love's Death</head>
 
 <lg type="stanza">
@@ -5173,7 +5254,7 @@ CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 
 <pb n="192  Thought"/>
 
-<div id="macfie118" type="poem" n="62">
+<div xml:id="macfie118" type="poem" n="62">
 
 <head>Thought</head>
 
@@ -5208,7 +5289,7 @@ CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 
 <pb n="Her Soul  193"/>
 
-<div id="macfie119" type="poem" n="63">
+<div xml:id="macfie119" type="poem" n="63">
 
 <head>"Her Soul"</head>
 
@@ -5244,7 +5325,7 @@ CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 
 <pb n="194  A Blossom of Flowering Seas"/>
 
-<div id="macfie120" type="poem" n="64">
+<div xml:id="macfie120" type="poem" n="64">
 <head>A Blossom of Flowering Seas</head>
 
 <lg type="stanza">
@@ -5293,7 +5374,7 @@ CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 
 <pb n="196  Love's Immortality"/>
 
-<div id="macfie121" type="poem" n="65">
+<div xml:id="macfie121" type="poem" n="65">
 
 <head>Love's Immortality</head>
 
@@ -5344,7 +5425,7 @@ CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 <pb n="198  Love's Youth"/>
 
 
-<div id="macfie122" type="poem" n="66">
+<div xml:id="macfie122" type="poem" n="66">
 <head>Love's Youth</head>
 <lg type="stanza">
 <l>WHEN hair of gold</l>
@@ -5397,7 +5478,7 @@ CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 
 <pb n="Is There No Hostel  200"/>
 
-<div id="macfie123" type="poem" n="67">
+<div xml:id="macfie123" type="poem" n="67">
 
 <head>Is There No Hostel by the Way of Life?"</head>
 
@@ -5471,7 +5552,7 @@ CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 <pb n="202  A Sea Song"/>
 
 
-<div id="macfie124" type="poem" n="68">
+<div xml:id="macfie124" type="poem" n="68">
 <head>A Sea Song</head>
 
 <lg type="stanza">
@@ -5491,13 +5572,13 @@ CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 
 <pb n="Starry Eyes  203"/>
 
-<div id="macfie125" type="poem" n="69">
+<div xml:id="macfie125" type="poem" n="69">
 
 <head>Starry Eyes</head>
 
-<q><epigraph>
+    <epigraph><q>
 <l>"Would I might be . . .<lb/>
-Yon host of starry eyes to gaze on thee."</l></epigraph></q>
+    Yon host of starry eyes to gaze on thee."</l></q></epigraph>
 
 <lg type="stanza">
 <l>THROUGH thine eyes of brown</l>
@@ -5516,7 +5597,7 @@ Yon host of starry eyes to gaze on thee."</l></epigraph></q>
 
 <pb n="204  Compensations"/>
 
-<div id="macfie126" type="poem" n="70">
+<div xml:id="macfie126" type="poem" n="70">
 
 <head>Compensations</head>
 
@@ -5544,7 +5625,7 @@ Yon host of starry eyes to gaze on thee."</l></epigraph></q>
 
 <pb n="Light and Darkness  205"/>
 
-<div id="macfie127" type="poem" n="71">
+<div xml:id="macfie127" type="poem" n="71">
 
 <head>Light and Darkness</head>
 
@@ -5559,7 +5640,7 @@ Yon host of starry eyes to gaze on thee."</l></epigraph></q>
 
 <pb n="206   Worship"/>
 
-<div id="macfie128" type="poem" n="72">
+<div xml:id="macfie128" type="poem" n="72">
 
 <head>Worship</head>
 
@@ -5577,7 +5658,7 @@ Yon host of starry eyes to gaze on thee."</l></epigraph></q>
 
 <pb n="The Husk of Life  207"/>
 
-<div id="macfie129" type="poem" n="73">
+<div xml:id="macfie129" type="poem" n="73">
 <head>"The Husk of Life"</head>
 
 <lg type="stanza">
@@ -5598,7 +5679,7 @@ Yon host of starry eyes to gaze on thee."</l></epigraph></q>
 
 <pb n="208  Reckless"/>
 
-<div id="macfie130" type="poem" n="74">
+<div xml:id="macfie130" type="poem" n="74">
 
 <head>Reckless</head>
 
@@ -5615,7 +5696,7 @@ Yon host of starry eyes to gaze on thee."</l></epigraph></q>
 
 <pb n="Transformation  209"/>
 
-<div id="macfie131" type="poem" n="75">
+<div xml:id="macfie131" type="poem" n="75">
 
 <head>Transformation</head>
 
@@ -5630,7 +5711,7 @@ Yon host of starry eyes to gaze on thee."</l></epigraph></q>
 <pb n="210   Bound"/>
 
 
-<div id="macfie132" type="poem" n="76">
+<div xml:id="macfie132" type="poem" n="76">
 <head>Bound</head>
 
 <lg type="stanza">
@@ -5657,7 +5738,7 @@ Yon host of starry eyes to gaze on thee."</l></epigraph></q>
 
 <pb n="Chapel   211"/>
 
-<div id="macfie133" type="poem" n="77">
+<div xml:id="macfie133" type="poem" n="77">
 
 <head type="main">The Chapel</head>
 
@@ -5681,6 +5762,8 @@ Yon host of starry eyes to gaze on thee."</l></epigraph></q>
 <l>Grinning to see an angel overthrown.</l>
 </lg>
 </div>
-
-
-
+</div>
+            </div>
+        </body>
+    </text>
+    </TEI>

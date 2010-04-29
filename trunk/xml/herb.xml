@@ -1,20 +1,15 @@
-<TEI.2>
-   <teiHeader>
-      <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader><fileDesc>
          <titleStmt>
             <title>Herb o' Grace: Electronic Edition</title>
-            <author><name type="person" reg="Tynan, Katharine, 1861-1931">Katharine Tynan</name></author>
+            <author><name type="person"><choice><reg>Tynan, Katharine, 1861-1931</reg><sic>Katharine Tynan</sic></choice></name></author>
          </titleStmt>
-	 <publicationStmt>
-	   <publisher>Lewis H. Beck Center for Electronic Collections
-	   and Services, Emory University</publisher>
-	   <pubPlace>Atlanta, GA</pubPlace>
-	   <address>
+	 <publicationStmt><publisher>Lewis H. Beck Center for Electronic Collections
+	   and Services, Emory University</publisher><pubPlace>Atlanta, GA</pubPlace><address>
 	     <addrLine>540 Asbury Circle</addrLine>
 	     <addrLine>Woodruff Library</addrLine>
 	     <addrLine>Atlanta, GA 30322</addrLine>
-	   </address>
-	   <availability><p>&#x00A9;Emory University. Permission is
+	   </address><availability><p>©Emory University. Permission is
 	   granted to download, transmit, or otherwise reproduce,
 	   distribute or display the contributions to the work claimed
 	   by Emory University for non-profit educational purposes,
@@ -23,9 +18,7 @@
 	   for Jewish Studies, Emory University, Atlanta GA 30322 or
 	   the Lewis H. Beck Center for Electronic Collections and
 	   Services, Woodruff Library, Emory University, Atlanta,
-	   Georgia 30322 </p></availability> 
-	   <date>2004</date>
-	 </publicationStmt>
+	   Georgia 30322 </p></availability><date>2004</date></publicationStmt>
 	 <seriesStmt>
 	   <title>The Great War</title>
 	 </seriesStmt>
@@ -36,40 +29,32 @@
 	     <title>Herb o' Grace: Poems in War-Time</title>
 	     <author>Katharine Tynan</author>
 	     <pubPlace>London</pubPlace>
-	     <publisher>Sidgwick &#x0026; Jackson, Ltd.</publisher>
+	     <publisher>Sidgwick &amp; Jackson, Ltd.</publisher>
 	     <date>1918</date>
 	   </bibl>
          </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
+      </fileDesc><encodingDesc>
 	<projectDesc><p>Poetry contemporary to World War I (the Great
 	War) has been digitized by OCR or rekeying. The work has been
 	done in conjunction with Dr. Harry Rusche of the English
 	Department, Emory University</p></projectDesc>
-	<tagsDecl>
-	  <rendition id="quote">Paragraphs including q or quote
+	<tagsDecl><rendition xml:id="quote">Paragraphs including q or quote
 	  elements indicate material that is in a block
-	  quote.</rendition>
-	  <rendition id="title">Where the title of a work is
+	  quote.</rendition><rendition xml:id="title">Where the title of a work is
 	  italicized, it is marked with a title element, both in the
-	  text and in footnotes.</rendition>
-	  <tagUsage gi="q" render="quote">blockquote</tagUsage>
-	  <tagUsage gi="quote" render="quote">blockquote</tagUsage>
-	  <tagUsage gi="title" render="title">italic</tagUsage>
-	</tagsDecl>
+	  text and in footnotes.</rendition><namespace name="http://www.tei-c.org/ns/1.0"><tagUsage gi="q" render="#quote">blockquote</tagUsage><tagUsage gi="quote" render="#quote">blockquote</tagUsage><tagUsage gi="title" render="#title">italic</tagUsage></namespace></tagsDecl>
 	<refsDecl><p>The page numbers of the volumes are indicated by
 	page break elements</p>
 	<p/>
 	</refsDecl>
 	<classDecl>
-	  <taxonomy id="lcsh">
+	  <taxonomy xml:id="lcsh">
 	    <bibl>
 	      <title>Library of Congress Subject Headings</title>
 	    </bibl>
 	  </taxonomy>
 	</classDecl>
-      </encodingDesc>
-      <profileDesc>
+      </encodingDesc><profileDesc>
          <creation>
 	   <rs type="collection">poetry</rs>
 	   <rs type="language">English</rs>
@@ -80,45 +65,26 @@
             <date>1900-1999</date>
          </creation>
 	 <textClass>
-	   <keywords scheme="lcsh">
+	   <keywords scheme="#lcsh">
 	     <list>
 	       <item>World War, 1914-1918--Poetry.</item>
 	       <item>English poetry--20th Century.</item>
 	       <item>War.</item>
 	     </list>
 	   </keywords>
-	 </textClass></profileDesc>
-      <revisionDesc><!-- add your information here -->
-	<change>
-	  <date>2004</date>
-	  <respStmt>
-	    <name>Alden Mahler</name>
-	    <resp>Beck Center staff</resp>
-	  </respStmt>
-	    <item>encoded according to TEI encoding guidelines</item>
-	</change>
-	<change>
-	  <date>2004</date>
-	  <respStmt>
-	    <name>Alice Hickcox</name>
-	    <resp>Beck Center Staff</resp>
-	  </respStmt>
-	  <item>Header added. Encoding corrected.</item>
-	</change>
-      </revisionDesc>
-   </teiHeader>
+	 </textClass></profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><!-- add your information here --><change><date>2004</date><label>Beck Center staff</label><name>Alden Mahler</name>encoded according to TEI encoding guidelines</change><change><date>2004</date><label>Beck Center Staff</label><name>Alice Hickcox</name>Header added. Encoding corrected.</change></revisionDesc></teiHeader>
 <text>
 <body>
 
 <pb n="9"/>
-<div id="herb001" type="chapter" n="Myrrh and Amaranth">
+<div xml:id="herb001" type="chapter" n="Myrrh and Amaranth">
 <head>MYRRH AND AMARANTH</head>
 <docAuthor n="Tynan, Katharine">Katharine Tynan</docAuthor>
 <pb n="10"/>
 
 
 <pb n="11"/>
-<div id="herb002" type="poem" n="Herbal">
+<div xml:id="herb002" type="poem" n="Herbal">
 <head rend="center">HERBAL</head>
 
 <lg>
@@ -130,7 +96,7 @@
 <l>Now in any garden plot.</l></lg>
 
 <lg>
-<l>Love-in-a-mist, bewilder&egrave;d</l>
+<l>Love-in-a-mist, bewilderèd</l>
 <l>With the many tears Love shed,</l>
 <l>Seeks for herb-o'-grace to bind</l>
 <l>Up her wounds, and fever-few</l>
@@ -153,7 +119,7 @@
 
 
 <pb n="13"/>
-<div id="herb003" type="poem" n="Telling the Bees">
+<div xml:id="herb003" type="poem" n="Telling the Bees">
 <head rend="center">TELLING THE BEES</head>
 <head rend="center"><hi rend="italic">(For Edward Tennant)</hi></head>
 
@@ -184,7 +150,7 @@
 
 
 <pb n="14"/>
-<div id="herb004" type="poem" n="No Man's Land">
+<div xml:id="herb004" type="poem" n="No Man's Land">
 <head rend="center">NO MAN'S LAND</head>
 
 <lg type="stanza">
@@ -239,7 +205,7 @@
 
 
 <pb n="16"/>
-<div id="herb005" type="poem" n="Quiet Eyes">
+<div xml:id="herb005" type="poem" n="Quiet Eyes">
 <head rend="center">QUIET EYES</head>
 
 <lg type="stanza">
@@ -276,7 +242,7 @@
 
 
 <pb n="18"/>
-<div id="herb006" type="poem" n="The Short Road to Heaven">
+<div xml:id="herb006" type="poem" n="The Short Road to Heaven">
 <head rend="center">THE SHORT ROAD TO HEAVEN</head>
 
 <lg type="stanza">
@@ -313,7 +279,7 @@
 
 
 <pb n="20"/>
-<div id="herb007" type="poem" n="A Connaught Man">
+<div xml:id="herb007" type="poem" n="A Connaught Man">
 <head rend="center">A CONNAUGHT MAN</head>
 <head rend="center"><hi rend="italic">(For Hugh Maguire)</hi></head>
 
@@ -351,7 +317,7 @@
 
 
 <pb n="22"/>
-<div id="herb008" type="poem" n="The Brothers">
+<div xml:id="herb008" type="poem" n="The Brothers">
 <head rend="center">THE BROTHERS</head>
 <head rend="center"><hi rend="italic">(For Arnold and Donald Fletcher.)</hi></head>
 
@@ -401,7 +367,7 @@
 
 
 <pb n="24"/>
-<div id="herb009" type="poem" n="The Secret Foe">
+<div xml:id="herb009" type="poem" n="The Secret Foe">
 <head rend="center">THE SECRET FOE</head>
 
 <lg type="stanza">
@@ -444,7 +410,7 @@
 
 
 <pb n="26"/>
-<div id="herb010" type="poem" n="A Song of Spring">
+<div xml:id="herb010" type="poem" n="A Song of Spring">
 <head rend="center">A SONG OF SPRING</head>
 
 <lg type="stanza">
@@ -486,7 +452,7 @@
 
 
 <pb n="28"/>
-<div id="herb011" type="poem" n="The Vestal">
+<div xml:id="herb011" type="poem" n="The Vestal">
 <head rend="center">THE VESTAL</head>
 
 <lg type="stanza">
@@ -529,7 +495,7 @@
 
 
 <pb n="30"/>
-<div id="herb012" type="poem" n="The Old House">
+<div xml:id="herb012" type="poem" n="The Old House">
 <head rend="center">THE OLD HOUSE</head>
 
 <lg type="stanza">
@@ -564,7 +530,7 @@
 
 
 <pb n="32"/>
-<div id="herb013" type="poem" n="When You Come Home">
+<div xml:id="herb013" type="poem" n="When You Come Home">
 <head rend="center">WHEN YOU COME HOME</head>
 
 <lg type="stanza">
@@ -611,7 +577,7 @@
 
 
 <pb n="34"/>
-<div id="herb014" type="poem" n="The Last Question">
+<div xml:id="herb014" type="poem" n="The Last Question">
 <head rend="center">THE LAST QUESTION</head>
 <head rend="center"><hi rend="italic">(For B. A. Bingham)</hi></head>
 
@@ -638,7 +604,7 @@
 
 
 <pb n="35"/>
-<div id="herb015" type="poem" n="A Holy Week Song, 1918">
+<div xml:id="herb015" type="poem" n="A Holy Week Song, 1918">
 <head rend="center">A HOLY WEEK SONG, 1918</head>
 
 <lg type="stanza">
@@ -675,7 +641,7 @@
 
 
 <pb n="37"/>
-<div id="herb016" type="poem" n="Flower O' the Year">
+<div xml:id="herb016" type="poem" n="Flower O' the Year">
 <head rend="center">FLOWER O' THE YEAR</head>
 
 <lg type="stanza">
@@ -710,7 +676,7 @@
 
 
 <pb n="39"/>
-<div id="herb017" type="poem" n="The Great May">
+<div xml:id="herb017" type="poem" n="The Great May">
 <head rend="center">THE GREAT MAY</head>
 
 <lg type="stanza">
@@ -758,14 +724,14 @@
 
 </div>
 <pb n="41"/>
-<div id="herb018" type="chapter" n="Love-Lies-Bleeding with Wound-Wort">
+<div xml:id="herb018" type="chapter" n="Love-Lies-Bleeding with Wound-Wort">
 <head>LOVE-LIES-BLEEDING WITH WOUND-WORT</head>
 <docAuthor n="Tynan, Katharine">Katharine Tynan</docAuthor>
 <pb n="42"/>
 
 
 <pb n="43"/>
-<div id="herb019" type="poem" n="Recompense">
+<div xml:id="herb019" type="poem" n="Recompense">
 <head rend="center">RECOMPENSE</head>
 <head rend="center"><hi rend="italic">(For Lord Kilhacken)</hi></head>
 
@@ -815,7 +781,7 @@
 
 
 <pb n="45"/>
-<div id="herb020" type="poem" n="A Birth-Night Song">
+<div xml:id="herb020" type="poem" n="A Birth-Night Song">
 <head rend="center">A BIRTH-NIGHT SONG</head>
 
 <lg type="stanza">
@@ -854,7 +820,7 @@
 
 
 <pb n="47"/>
-<div id="herb021" type="poem" n="The Crown">
+<div xml:id="herb021" type="poem" n="The Crown">
 <head rend="center">THE CROWN</head>
 
 <lg type="stanza">
@@ -901,7 +867,7 @@
 
 
 <pb n="49"/>
-<div id="herb022" type="poem" n="A Woman Commends Her Little Son">
+<div xml:id="herb022" type="poem" n="A Woman Commends Her Little Son">
 <head rend="center">A WOMAN COMMENDS HER LITTLE SON</head>
 
 <lg type="stanza">
@@ -956,7 +922,7 @@
 
 
 <pb n="51"/>
-<div id="herb023" type="poem" n="The Young Soldier">
+<div xml:id="herb023" type="poem" n="The Young Soldier">
 <head rend="center">THE YOUNG SOLDIER</head>
 
 <lg type="stanza">
@@ -993,7 +959,7 @@
 
 
 <pb n="53"/>
-<div id="herb024" type="poem" n="The Boys of the House">
+<div xml:id="herb024" type="poem" n="The Boys of the House">
 <head rend="center">THE BOYS OF THE HOUSE</head>
 <head rend="center"><hi rend="italic">(For Valentine and Hubert Blake)</hi></head>
 
@@ -1033,7 +999,7 @@
 
 
 <pb n="55"/>
-<div id="herb025" type="poem" n="Alienation">
+<div xml:id="herb025" type="poem" n="Alienation">
 <head rend="center">ALIENATION</head>
 
 <lg type="stanza">
@@ -1076,7 +1042,7 @@
 
 
 <pb n="57"/>
-<div id="herb026" type="poem" n="Any Mother">
+<div xml:id="herb026" type="poem" n="Any Mother">
 <head rend="center">ANY MOTHER</head>
 
 <lg type="stanza">
@@ -1121,7 +1087,7 @@
 
 
 <pb n="59"/>
-<div id="herb027" type="poem" n="Prayer at Night">
+<div xml:id="herb027" type="poem" n="Prayer at Night">
 <head rend="center">PRAYER AT NIGHT</head>
 
 <lg type="stanza">
@@ -1160,7 +1126,7 @@
 
 
 <pb n="61"/>
-<div id="herb028" type="poem" n="The Vision">
+<div xml:id="herb028" type="poem" n="The Vision">
 <head rend="center">THE VISION</head>
 <head rend="center"><hi rend="italic">(Katia: Easter Sunday, 1916)</hi></head>
 
@@ -1192,7 +1158,7 @@
 <pb n="62"/>
 <l>His banner floats upon the breeze,</l>
 <l rend="indent">Like a gold fleece it wraps him round --</l>
-<l>So, cap-&agrave;-pie from head to knee,</l>
+<l>So, cap-à-pie from head to knee,</l>
 <l rend="indent">His enemy he strikes to ground.</l></lg>
 
 <lg>
@@ -1210,7 +1176,7 @@
 
 
 <pb n="63"/>
-<div id="herb029" type="poem" n="A Colloquy">
+<div xml:id="herb029" type="poem" n="A Colloquy">
 <head rend="center">A COLLOQUY</head>
 <head rend="center"><hi rend="italic">(For M. W.)</hi></head>
 
@@ -1254,7 +1220,7 @@
 
 
 <pb n="65"/>
-<div id="herb030" type="poem" n="Palestine: 1917">
+<div xml:id="herb030" type="poem" n="Palestine: 1917">
 <head rend="center">PALESTINE: 1917</head>
 
 <lg type="stanza">
@@ -1303,7 +1269,7 @@
 
 
 <pb n="67"/>
-<div id="herb031" type="poem" n="Pilgrims to the East">
+<div xml:id="herb031" type="poem" n="Pilgrims to the East">
 <head rend="center">PILGRIMS TO THE EAST</head>
 
 <lg type="stanza">
@@ -1342,7 +1308,7 @@
 
 
 <pb n="69"/>
-<div id="herb032" type="poem" n="Comfort">
+<div xml:id="herb032" type="poem" n="Comfort">
 <head rend="center">COMFORT</head>
 
 <lg type="stanza">
@@ -1381,7 +1347,7 @@
 
 
 <pb n="71"/>
-<div id="herb033" type="poem" n="The Refreshment">
+<div xml:id="herb033" type="poem" n="The Refreshment">
 <head rend="center">THE REFRESHMENT</head>
 
 <lg type="stanza">
@@ -1418,7 +1384,7 @@
 
 
 <pb n="73"/>
-<div id="herb034" type="poem" n="The Promise">
+<div xml:id="herb034" type="poem" n="The Promise">
 <head rend="center">THE PROMISE</head>
 
 <lg type="stanza">
@@ -1450,14 +1416,14 @@
 </div>
 <pb n="74"/>
 <pb n="75"/>
-<div id="herb035" type="chapter" n="Pansies">
+<div xml:id="herb035" type="chapter" n="Pansies">
 <head>PANSIES</head>
 <docAuthor n="Tynan, Katharine">Katharine Tynan</docAuthor>
 <pb n="76"/>
 
 
 <pb n="77"/>
-<div id="herb036" type="poem" n="The Dream">
+<div xml:id="herb036" type="poem" n="The Dream">
 <head rend="center">THE DREAM</head>
 <head rend="center"><hi rend="italic">(For my Father)</hi></head>
 
@@ -1495,7 +1461,7 @@
 
 
 <pb n="79"/>
-<div id="herb037" type="poem" n="The Mother Gives Up Her Daughter">
+<div xml:id="herb037" type="poem" n="The Mother Gives Up Her Daughter">
 <head rend="center">THE MOTHER GIVES UP HER DAUGHTER</head>
 
 <lg type="stanza">
@@ -1525,7 +1491,7 @@
 
 
 <pb n="80"/>
-<div id="herb038" type="poem" n="The Little Old Woman">
+<div xml:id="herb038" type="poem" n="The Little Old Woman">
 <head rend="center">THE LITTLE OLD WOMAN</head>
 
 <lg type="stanza">
@@ -1562,7 +1528,7 @@
 
 
 <pb n="82"/>
-<div id="herb039" type="poem" n="Vigil">
+<div xml:id="herb039" type="poem" n="Vigil">
 <head rend="center">VIGIL</head>
 
 <lg type="stanza">
@@ -1605,7 +1571,7 @@
 
 
 <pb n="84"/>
-<div id="herb040" type="poem" n="The Garden">
+<div xml:id="herb040" type="poem" n="The Garden">
 <head rend="center">THE GARDEN</head>
 
 <lg type="stanza">
@@ -1660,7 +1626,7 @@
 
 
 <pb n="86"/>
-<div id="herb041" type="poem" n="Wind">
+<div xml:id="herb041" type="poem" n="Wind">
 <head rend="center">WIND</head>
 
 <lg type="stanza">
@@ -1709,7 +1675,7 @@
 
 
 <pb n="88"/>
-<div id="herb042" type="poem" n="Menace">
+<div xml:id="herb042" type="poem" n="Menace">
 <head rend="center">MENACE</head>
 
 <lg type="stanza">
@@ -1758,7 +1724,7 @@
 
 
 <pb n="90"/>
-<div id="herb043" type="poem" n="Wings in the Night">
+<div xml:id="herb043" type="poem" n="Wings in the Night">
 <head rend="center">WINGS IN THE NIGHT</head>
 
 <lg type="stanza">
@@ -1807,7 +1773,7 @@
 
 
 <pb n="92"/>
-<div id="herb044" type="poem" n="The Refuge">
+<div xml:id="herb044" type="poem" n="The Refuge">
 <head rend="center">THE REFUGE</head>
 
 <lg type="stanza">
@@ -1844,7 +1810,7 @@
 
 
 <pb n="94"/>
-<div id="herb045" type="poem" n="Evening">
+<div xml:id="herb045" type="poem" n="Evening">
 <head rend="center">EVENING</head>
 <head rend="center"><hi rend="italic">(In Connaught)</hi></head>
 
@@ -1882,7 +1848,7 @@
 
 
 <pb n="96"/>
-<div id="herb046" type="poem" n="After Ascension">
+<div xml:id="herb046" type="poem" n="After Ascension">
 <head rend="center">AFTER ASCENSION</head>
 
 <lg type="stanza">
@@ -1929,7 +1895,7 @@
 
 
 <pb n="98"/>
-<div id="herb047" type="poem" n="Colours">
+<div xml:id="herb047" type="poem" n="Colours">
 <head rend="center">COLOURS</head>
 
 <lg type="stanza">
@@ -1980,7 +1946,7 @@
 
 
 <pb n="100"/>
-<div id="herb048" type="poem" n="Epiphany">
+<div xml:id="herb048" type="poem" n="Epiphany">
 <head rend="center">EPIPHANY</head>
 <head rend="center"><hi rend="italic">(For Dora, 1918)</hi></head>
 
@@ -2018,7 +1984,7 @@
 
 
 <pb n="102"/>
-<div id="herb049" type="poem" n="The Image">
+<div xml:id="herb049" type="poem" n="The Image">
 <head rend="center">THE IMAGE</head>
 
 <lg type="stanza">
@@ -2061,7 +2027,7 @@
 
 
 <pb n="104"/>
-<div id="herb050" type="poem" n="The Aerodrome">
+<div xml:id="herb050" type="poem" n="The Aerodrome">
 <head rend="center">THE AERODROME</head>
 
 <lg type="stanza">
@@ -2104,7 +2070,7 @@
 
 
 <pb n="106"/>
-<div id="herb051" type="poem" n="A Song of Going">
+<div xml:id="herb051" type="poem" n="A Song of Going">
 <head rend="center">A SONG OF GOING</head>
 
 <lg type="stanza">
@@ -2135,14 +2101,14 @@
 
 </div>
 <pb n="107"/>
-<div id="herb052" type="chapter" n="Ladders to Heaven">
+<div xml:id="herb052" type="chapter" n="Ladders to Heaven">
 <head>LADDERS TO HEAVEN</head>
 <docAuthor n="Tynan, Katharine">Katharine Tynan</docAuthor>
 <pb n="108"/>
 
 
 <pb n="109"/>
-<div id="herb053" type="poem" n="Good Friday, A.D. 33">
+<div xml:id="herb053" type="poem" n="Good Friday, A.D. 33">
 <head rend="center">GOOD FRIDAY, A.D. 33</head>
 
 <lg type="stanza">
@@ -2191,7 +2157,7 @@
 
 
 <pb n="111"/>
-<div id="herb054" type="poem" n="Distraction">
+<div xml:id="herb054" type="poem" n="Distraction">
 <head rend="center">DISTRACTION</head>
 
 <lg type="stanza">
@@ -2234,7 +2200,7 @@
 
 
 <pb n="113"/>
-<div id="herb055" type="poem" n="The Deserted">
+<div xml:id="herb055" type="poem" n="The Deserted">
 <head rend="center">THE DESERTED</head>
 
 <lg type="stanza">
@@ -2247,7 +2213,7 @@
 
 <lg>
 <l>Where is the multitude that fed,</l>
-<l>With loaves and fishes comfort&egrave;d?</l>
+<l>With loaves and fishes comfortèd?</l>
 <l>The blind Thou mad'st to see? the lame</l>
 <l>That walked? the one leper who came</l>
 <l>Of nine made clean? The dumb that spoke?</l>
@@ -2298,7 +2264,7 @@
 
 
 <pb n="116"/>
-<div id="herb056" type="poem" n="Lenten Communion">
+<div xml:id="herb056" type="poem" n="Lenten Communion">
 <head rend="center">LENTEN COMMUNION</head>
 
 <lg type="stanza">
@@ -2350,7 +2316,7 @@
 
 
 <pb n="118"/>
-<div id="herb057" type="poem" n="The Test">
+<div xml:id="herb057" type="poem" n="The Test">
 <head rend="center">THE TEST</head>
 
 <lg type="stanza">
@@ -2393,8 +2359,8 @@
 
 
 <pb n="120"/>
-<div id="herb058" type="poem" n="Noel">
-<head rend="center">NO&Euml;L</head>
+<div xml:id="herb058" type="poem" n="Noel">
+<head rend="center">NOËL</head>
 
 <lg type="stanza">
 <l n="1">I <hi rend="smallcas">heard</hi> a song upon Christmas day</l>
@@ -2424,4 +2390,4 @@
 </div>
 </body>
 </text>
-</TEI.2>
+</TEI>

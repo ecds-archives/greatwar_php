@@ -1,20 +1,15 @@
-<TEI.2>
-   <teiHeader>
-      <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader><fileDesc>
          <titleStmt>
             <title>POEMS: Electronic Edition</title>
-            <author><name type="person" reg="Kerr, R. Watson">Kerr, R. Watson18??-19?? </name></author>
+            <author><name type="person"><choice><reg>Kerr, R. Watson</reg><sic>Kerr, R. Watson18??-19??</sic></choice></name></author>
          </titleStmt>
-	 <publicationStmt>
-	   <publisher>Lewis H. Beck Center for Electronic Collections
-	   and Services, Emory University</publisher>
-	   <pubPlace>Atlanta, GA</pubPlace>
-	   <address>
+	 <publicationStmt><publisher>Lewis H. Beck Center for Electronic Collections
+	   and Services, Emory University</publisher><pubPlace>Atlanta, GA</pubPlace><address>
 	     <addrLine>540 Asbury Circle</addrLine>
 	     <addrLine>Woodruff Library</addrLine>
 	     <addrLine>Atlanta, GA 30322</addrLine>
-	   </address>
-	   <availability><p>&#x00A9;Emory University. Permission is
+	   </address><availability><p>©Emory University. Permission is
 	   granted to download, transmit, or otherwise reproduce,
 	   distribute or display the contributions to the work claimed
 	   by Emory University for non-profit educational purposes,
@@ -23,13 +18,11 @@
 	   for Jewish Studies, Emory University, Atlanta GA 30322 or
 	   the Lewis H. Beck Center for Electronic Collections and
 	   Services, Woodruff Library, Emory University, Atlanta,
-	   Georgia 30322 </p></availability> 
-	   <date>2004</date>
-	 </publicationStmt>
+	   Georgia 30322 </p></availability><date>2004</date></publicationStmt>
 	 <seriesStmt>
 	   <title>War Daubs: Poems</title>
 	 </seriesStmt>
-	 <notesStmt><note></note></notesStmt>
+	 <notesStmt><note/></notesStmt>
          <sourceDesc>
             <bibl>
 	     <title>POEMS</title>
@@ -42,36 +35,28 @@
 	     <date>1919</date>
 	   </bibl>
          </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
+      </fileDesc><encodingDesc>
 	<projectDesc><p>Poetry contemporary to World War I (the Great
 	War) has been digitized by OCR or rekeying. The work has been
 	done in conjunction with Dr. Harry Rusche of the English
 	Department, Emory University</p></projectDesc>
-	<tagsDecl>
-	  <rendition id="quote">Paragraphs including q or quote
+	<tagsDecl><rendition xml:id="quote">Paragraphs including q or quote
 	  elements indicate material that is in a block
-	  quote.</rendition>
-	  <rendition id="title">Where the title of a work is
+	  quote.</rendition><rendition xml:id="title">Where the title of a work is
 	  italicized, it is marked with a title element, both in the
-	  text and in footnotes.</rendition>
-	  <tagUsage gi="q" render="quote">blockquote</tagUsage>
-	  <tagUsage gi="quote" render="quote">blockquote</tagUsage>
-	  <tagUsage gi="title" render="title">italic</tagUsage>
-	</tagsDecl>
+	  text and in footnotes.</rendition><namespace name="http://www.tei-c.org/ns/1.0"><tagUsage gi="q" render="#quote">blockquote</tagUsage><tagUsage gi="quote" render="#quote">blockquote</tagUsage><tagUsage gi="title" render="#title">italic</tagUsage></namespace></tagsDecl>
 	<refsDecl><p>The page numbers of the volumes are indicated by
 	page break elements</p>
-	<p></p>
+	<p/>
 	</refsDecl>
 	<classDecl>
-	  <taxonomy id="lcsh">
+	  <taxonomy xml:id="lcsh">
 	    <bibl>
 	      <title>Library of Congress Subject Headings</title>
 	    </bibl>
 	  </taxonomy>
 	</classDecl>
-      </encodingDesc>
-      <profileDesc>
+      </encodingDesc><profileDesc>
          <creation>
 	   <rs type="collection">poetry</rs>
 	   <rs type="language">English</rs>
@@ -82,31 +67,20 @@
             <date>1900-1999</date>
          </creation>
 	 <textClass>
-	   <keywords scheme="lcsh">
+	   <keywords scheme="#lcsh">
 	     <list>
 	       <item>World War, 1914-1918--Poetry.</item>
 	       <item>English poetry--20th Century.</item>
 	       <item>War.</item>
 	     </list>
 	   </keywords>
-	 </textClass></profileDesc>
-      <revisionDesc><!-- add your information here -->
-	<change>
-	  <date>2009</date>
-	  <respStmt>
-	    <name>Shruthi Vissa</name>
-	    <resp>Beck Center staff</resp>
-	  </respStmt>
-	    <item>Proofing, encoding</item>
-	</change>
-      </revisionDesc>
-   </teiHeader>
+	 </textClass></profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><!-- add your information here --><change><date>2009</date><label>Beck Center staff</label><name>Shruthi Vissa</name>Proofing, encoding</change></revisionDesc></teiHeader>
 <text>
 <front>
 
 <pb n="[i]"/>
 
-<titlePage id="kerrdaubs100" type="half">
+<titlePage xml:id="kerrdaubs100" type="half">
      <docTitle>
        <titlePart type="main">WAR DAUBS: POEMS
        </titlePart>
@@ -115,7 +89,7 @@
 
 <pb n="[ii]"/>
 <pb n="[iii]"/>
-<titlePage id="kerrdaubs101" type="full">
+<titlePage xml:id="kerrdaubs101" type="full">
      <docTitle>
        <titlePart type="main">WAR DAUBS<lb/>POEMS</titlePart>
      </docTitle>
@@ -123,17 +97,17 @@
        <docImprint>
         <pubPlace>LONDON: NEW YORK:</pubPlace>
 	 <publisher>JOHN LANE COMPANY,</publisher>
-	 <docDate>MCMXIX [1919]</docDate>
+	 
        </docImprint>
    </titlePage>
 
 <pb n="[iv]"/>
-<div id="kerrdaubs102" type="colophon">
+<div xml:id="kerrdaubs102" type="colophon">
 <p> PRINTED BY WILLIAM BRENDON AND SON LTD., PLYMOUTH, ENGLAND</p>
 </div>
 
 <pb n="[v]"/>
-<div id="kerrdaubs103" type="dedication">
+<div xml:id="kerrdaubs103" type="dedication">
 <figure type="kerrdaubsd" rend="inline">
 <figDesc> Dedication included in front of Watson Kerr's "War Daubs"</figDesc>
 </figure>
@@ -141,12 +115,12 @@
 
 <pb n="[vi]"/>
 <pb n="[vii]"/>
-<div id="kerrdaubs104" type="author's note">
+<div xml:id="kerrdaubs104" type="authorsnote">
 <p> I GIVE thanks to the Editor's of "The English Review," "The Poetry Review," and "More Songs of Soldier Poets," for permission to reprint several of the Poems in the present volume.</p>
 </div>
 <pb n="[viii]"/>
 <pb n="[ix]"/>
-<div id="kerrdaubs105" type="table of contents">
+<div xml:id="kerrdaubs105" type="tableofcontents">
 <figure type="kerrdaubstc1" rend="inline">
 <figDesc> Table of contents included in front matter of Watson Kerr's "War Daubs"</figDesc>
 </figure>
@@ -158,7 +132,7 @@
 </div>
 
 <pb n="[xi]"/>
-<titlePage id="kerrdaubs106" type="half">
+<titlePage xml:id="kerrdaubs106" type="half">
      <docTitle>
        <titlePart type="main">WAR DAUBS: POEMS
        </titlePart>
@@ -169,7 +143,7 @@
 </front>
 
 <body>
-<div id="kerrdaubs001" type="poem" n="1">
+<div xml:id="kerrdaubs001" type="poem" n="1">
 <pb n="A Vignette  1"/>
 <head rend="center">A VIGNETTE</head>
 
@@ -183,7 +157,7 @@
 </lg>
 </div>
 
-<div id="kerrdaubs002" type="poem" n="2">
+<div xml:id="kerrdaubs002" type="poem" n="2">
 <pb n="2  FROM  THE  LINE"/>
 <head rend="center">FROM THE LINE</head>
 <lg type="stanza">
@@ -247,7 +221,7 @@
 </lg>
 </div>
 
-<div id="kerrdaubs003" type="poem" n="3">
+<div xml:id="kerrdaubs003" type="poem" n="3">
 <pb n="TO  A  SORROWING  MOTHER  5"/>
 <head rend="center">TO A SORROWING MOTHER</head>
 <lg type="stanza">
@@ -279,7 +253,7 @@
 <l rend="inline">Secretly ?</l></lg>
 </div>
 
-<div id="kerrdaubs004" type="poem" n="4">
+<div xml:id="kerrdaubs004" type="poem" n="4">
 <pb n="THE  CORPSE  7"/>
 <head rend="center"> THE CORPSE</head>
 <lg type="stanza">
@@ -297,7 +271,7 @@
 <l>Upon its face !</l></lg>
 </div>
 
-<div id="kerrdaubs005." type="poem" n="5">
+<div xml:id="kerrdaubs005." type="poem" n="5">
 <pb n="8  MUSIC  IN A DUG-OUT"/>
 <head rend="center">MUSIC IN A DUG OUT</head>
 <lg type="tanza">
@@ -350,7 +324,7 @@
 </lg>
 </div>
 
-<div id="kerrdaubs006" type="poem" n="6">
+<div xml:id="kerrdaubs006" type="poem" n="6">
 <pb n="A  PORTRAIT  11"/>
 <head rend="center">A PORTRAIT</head>
 <lg type="stanza">
@@ -389,7 +363,7 @@
 </lg>
 </div>
 
-<div id="kerrdaubs007" type="poem" n="7">
+<div xml:id="kerrdaubs007" type="poem" n="7">
 <pb n="13 THE  GRAVE-DIGGER"/>
 <head rend="center">THE GRAVE-DIGGER</head>
 <lg type="stanza">
@@ -408,9 +382,9 @@
 </div>
 
 <pb n="RAIN  14"/>
-<div id="kerrdaubs008" type="poem" n="8">
+<div xml:id="kerrdaubs008" type="poem" n="8">
 <head rend="center"> RAIN</head>
-<div id="kerrdaubs1000" type="section" n="1">
+<div xml:id="kerrdaubs1000" type="section" n="1">
 <head rend="center">I</head>
 
 <lg type="stanza">
@@ -422,7 +396,7 @@
 <l>My soul cries out aloud</l>
 <l>In hopeless misery.</l></lg></div>
 
-<div id="kerrdaubs1001" type="section" n="2">
+<div xml:id="kerrdaubs1001" type="section" n="2">
 <head rend="center">II</head>
 
 <lg type="stanza">
@@ -437,7 +411,7 @@
 <l>Comfortless I fret</l>
 <l>In hopeless night!</l></lg></div>
 
-<div id="kerrdaubs1002" type="section" n="3">
+<div xml:id="kerrdaubs1002" type="section" n="3">
 <head rend="center">III</head>
 
 <lg type="stanza">
@@ -455,7 +429,7 @@
 
 <pb n="16  HOOGE"/>
 
-<div id="kerrdaubs009" type="section" n="9">
+<div xml:id="kerrdaubs009" type="section" n="9">
 <head rend="center">HOOGE</head>
 <lg type="stanza">
 <l>The moon--frozen eye--</l>
@@ -475,7 +449,7 @@
 
 <pb n="A  DEAD  MAN  17"/>
 
-<div id="kerrdaubs010" type="poem" n="10">
+<div xml:id="kerrdaubs010" type="poem" n="10">
 <head rend="center"> A DEAD MAN</head>
 <lg type="stanza">
 <l>A dead man dead for weeks</l>
@@ -519,7 +493,7 @@
 
 <pb n="LINES  19"/>
 
-<div id="kerrdaubs011" type="poem" n="11">
+<div xml:id="kerrdaubs011" type="poem" n="11">
 <head rend="center"> LINES</head>
 <lg type="stanza">
 <l>It is not sweet to die for one's countree :</l>
@@ -541,7 +515,7 @@
 
 <pb n="20 REBUKE"/>
 
-<div id="kerrdaubs012" type="poem" n="12">
+<div xml:id="kerrdaubs012" type="poem" n="12">
 <head rend="center">REBUKE</head>
 <lg type="stanza">
 <l>As one who was rebuked I stood</l>
@@ -565,7 +539,7 @@
 
 <pb n="THE ANCIENT THOUGHT 21"/>
 
-<div id="kerrdaubs013" type="poem" n="13">
+<div xml:id="kerrdaubs013" type="poem" n="13">
 <head rend="center">THE ANCIENT THOUGHT</head>
 <lg type="stanza">
 <l>The round moon hangs like a yellow lantern in the trees</l>
@@ -575,7 +549,7 @@
 
 <pb n="22  ARRAS,  1917"/>
 
-<div id="kerrdaubs014" type="poem" n="14">
+<div xml:id="kerrdaubs014" type="poem" n="14">
 <head rend="center">ARRAS, 1917</head>
 <lg type="stanza">
 <l>I HEAR a rat scurrying</l>
@@ -619,10 +593,10 @@
 <pb n="24 WAR DAUBS"/>
 
 <lg type="stanza">
-<l>Ah ! is the bruis&#x00E8;d spirit fled ?</l>
+<l>Ah ! is the bruisèd spirit fled ?</l>
 <l>Come ! and I will lead thro' winding thread</l>
 <l>Of pulseless streets, blanched with light</l>
-<l>Of th' an&#x00E153;mic moon, coldly bright!</l></lg>
+<l>Of th' anmic moon, coldly bright!</l></lg>
 
 <lg type="stanza">
 <l>Follow me, and I will lead a quest</l>
@@ -674,7 +648,7 @@
 <l>Will rush like rising sea</l>
 <l>Into the empty streets, bellowing Victory !</l></lg>
 
-<milestone unit="section"  rend="dots"/>
+<milestone unit="section" rend="dots"/>
 
 <lg type="stanza">
 <l>But still the wind runs around</l>
@@ -697,7 +671,7 @@
 </lg>
 </div>
 
-<div id="kerrdaubs015" type="poem" n="15">
+<div xml:id="kerrdaubs015" type="poem" n="15">
 <pb n="28 HOME"/>
 <head rend="center"> HOME</head>
 <lg type="stanza">
@@ -721,7 +695,7 @@
 
 <pb n="FAITH  29"/>
 
-<div id="kerrdaubs016" type="poem" n="16">
+<div xml:id="kerrdaubs016" type="poem" n="16">
 <head rend="center">FAITH</head>
 <lg type="stanza">
 <l>I HAVE leaned on God</l>
@@ -773,7 +747,7 @@
 </lg>
 </div>
 
-<div id="kerrdaubs017" type="poem" n="17">
+<div xml:id="kerrdaubs017" type="poem" n="17">
 <pb n="32 THE VISION"/>
 <head rend="center">THE VISION</head>
 <lg type="stanza">
@@ -790,7 +764,7 @@
 </lg>
 </div>
 
-<div id="kerrdaubs018" type="poem" n="18">
+<div xml:id="kerrdaubs018" type="poem" n="18">
 <pb n="DENIAL 33"/>
 <head rend="center">DENIAL</head>
 <lg type="stanza">
@@ -828,12 +802,12 @@
 <l>Oh! if I should die--chatter only this--</l>
 <l>'A bullet flew by that did not miss';</l>
 <l>I did not give life up because of a friend;</l>
-<l>That bullet came thro'—and <hi rend="italic">voil&#x00E0;</hi>, the
+<l>That bullet came thro'—and <hi rend="italic">voilà</hi>, the
 end!'</l>
 </lg>
 </div>
 
-<div id="kerrdaubs019" type="poem" n="19">
+<div xml:id="kerrdaubs019" type="poem" n="19">
 <pb n="RESOLVE 35"/>
 <head rend="center">RESOLVE</head>
 <lg type="stanza">
@@ -851,7 +825,7 @@ end!'</l>
 </lg>
 </div>
 
-<div id="kerrdaubs020" type="poem" n="20">
+<div xml:id="kerrdaubs020" type="poem" n="20">
 <pb n="36  JUNE,  1918"/>
 <head rend="center">JUNE, 1918</head>
 <lg type="stanza">
@@ -888,7 +862,7 @@ end!'</l>
 </lg>
 </div>
 
-<div id="kerrdaubs021" type="poem" n="21">
+<div xml:id="kerrdaubs021" type="poem" n="21">
 <pb n="38  STANDING  BY"/>
 <head rend="center">STANDING BY
 <lb/>(DESOLATORY REFLECTIONS)</head>
@@ -1004,7 +978,7 @@ death!</hi>
 </lg>
 </div>
 
-<div id="kerrdaubs022" type="poem" n="22">
+<div xml:id="kerrdaubs022" type="poem" n="22">
 <pb n="SOUNDS BY NIGHT 43"/>
 <head rend="center">SOUNDS BY NIGHT</head>
 <lg type="stanza">
@@ -1026,7 +1000,7 @@ death!</hi>
 </div>
 
 
-<div id="kerrdaubs023" type="poem" n="23">
+<div xml:id="kerrdaubs023" type="poem" n="23">
 <pb n="44  THE GAFF"/>
 <head rend="center">THE GAFF</head>
 <lg type="stanza">
@@ -1102,7 +1076,7 @@ death!</hi>
 </lg>
 </div>
 
-<div id="kerrdaubs024" type="poem" n="24">
+<div xml:id="kerrdaubs024" type="poem" n="24">
 <pb n="48 IN BITTERNESS"/>
 <head rend="center">IN BITTERNESS</head>
 <lg type="stanza">
@@ -1119,7 +1093,7 @@ death!</hi>
 </div>
 
 
-<div id="kerrdaubs025" type="poem" n="25">
+<div xml:id="kerrdaubs025" type="poem" n="25">
 <pb n="THE ARCHITECT AT SUZANNE  49"/>
 <head rend="center">THE ARCHITECT AT SUZANNE</head>
 <lg type="stanza">
@@ -1153,7 +1127,7 @@ death!</hi>
 </lg>
 </div>
 
-<div id="kerrdaubs026" type="poem" n="26">
+<div xml:id="kerrdaubs026" type="poem" n="26">
 <pb n="WOUNDED  51"/>
 <head rend="center">WOUNDED</head>
 <lg type="stanza">
@@ -1177,7 +1151,7 @@ death!</hi>
 <l>51</l>
 </div>
 
-<div id="kerrdaubs027" type="poem" n="27">
+<div xml:id="kerrdaubs027" type="poem" n="27">
 <pb n="52 ESCAPE"/>
 <head rend="center">ESCAPE</head>
 <lg type="stanza">
@@ -1201,7 +1175,7 @@ death!</hi>
 
 </div>
 
-<div id="kerrdaubs028" type="poem" n="28">
+<div xml:id="kerrdaubs028" type="poem" n="28">
 <pb n="WORSHIP  53"/>
 <head rend="center">WORSHIP</head>
 <lg type="stanza">
@@ -1240,7 +1214,7 @@ good.</l>
 </lg>
 </div>
 
-<div id="kerrdaubs0028" type="poem" n="28">
+<div xml:id="kerrdaubs0028" type="poem" n="28">
 <pb n="PRAYER 55"/>
 <head rend="center">PRAYER</head>
 <lg type="stanza">
@@ -1257,7 +1231,7 @@ good.</l>
 </lg>
 </div>
 
-<div id="kerrdaubs029" type="poem" n="29">
+<div xml:id="kerrdaubs029" type="poem" n="29">
 <pb n="56 A TRIOLET"/>
 <head rend="center">A TROILET</head>
 
@@ -1276,4 +1250,4 @@ good.</l>
 
 </body>
 </text>
-</TEI.2>
+</TEI>

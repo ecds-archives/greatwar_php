@@ -1,20 +1,15 @@
-<TEI.2>
-   <teiHeader>
-      <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader><fileDesc>
          <titleStmt>
             <title>POEMS: Electronic Edition</title>
-            <author><name type="person" reg="Sterling, Robert W.">Robert W. Sterling </name></author>
+            <author><name type="person"><choice><reg>Sterling, Robert W.</reg><orig>Robert W. Sterling</orig></choice></name></author>
          </titleStmt>
-	 <publicationStmt>
-	   <publisher>Lewis H. Beck Center for Electronic Collections
-	   and Services, Emory University</publisher>
-	   <pubPlace>Atlanta, GA</pubPlace>
-	   <address>
+	 <publicationStmt><publisher>Lewis H. Beck Center for Electronic Collections
+	   and Services, Emory University</publisher><pubPlace>Atlanta, GA</pubPlace><address>
 	     <addrLine>540 Asbury Circle</addrLine>
 	     <addrLine>Woodruff Library</addrLine>
 	     <addrLine>Atlanta, GA 30322</addrLine>
-	   </address>
-	   <availability><p>&#x00A9;Emory University. Permission is
+	   </address><availability><p>©Emory University. Permission is
 	   granted to download, transmit, or otherwise reproduce,
 	   distribute or display the contributions to the work claimed
 	   by Emory University for non-profit educational purposes,
@@ -23,13 +18,11 @@
 	   for Jewish Studies, Emory University, Atlanta GA 30322 or
 	   the Lewis H. Beck Center for Electronic Collections and
 	   Services, Woodruff Library, Emory University, Atlanta,
-	   Georgia 30322 </p></availability> 
-	   <date>2009</date>
-	 </publicationStmt>
+	   Georgia 30322 </p></availability><date>2009</date></publicationStmt>
 	 <seriesStmt>
 	   <title>Great War</title>
 	 </seriesStmt>
-	 <notesStmt><note></note></notesStmt>
+	 <notesStmt><note/></notesStmt>
          <sourceDesc>
             <bibl>
 	     <title>Songs and Sonnets for England in War Time: Being a Collection of Lyrics by Various Authors Inspired by the Great War</title>
@@ -40,36 +33,28 @@
 	     <date>1915</date>
 	   </bibl>
          </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
+      </fileDesc><encodingDesc>
 	<projectDesc><p>Poetry contemporary to World War I (the Great
 	War) has been digitized by OCR or rekeying. The work has been
 	done in conjunction with Dr. Harry Rusche of the English
 	Department, Emory University</p></projectDesc>
-	<tagsDecl>
-	  <rendition id="quote">Paragraphs including q or quote
+	<tagsDecl><rendition xml:id="quote">Paragraphs including q or quote
 	  elements indicate material that is in a block
-	  quote.</rendition>
-	  <rendition id="title">Where the title of a work is
+	  quote.</rendition><rendition xml:id="title">Where the title of a work is
 	  italicized, it is marked with a title element, both in the
-	  text and in footnotes.</rendition>
-	  <tagUsage gi="q" render="quote">blockquote</tagUsage>
-	  <tagUsage gi="quote" render="quote">blockquote</tagUsage>
-	  <tagUsage gi="title" render="title">italic</tagUsage>
-	</tagsDecl>
+	  text and in footnotes.</rendition><namespace name="http://www.tei-c.org/ns/1.0"><tagUsage gi="q" render="#quote">blockquote</tagUsage><tagUsage gi="quote" render="#quote">blockquote</tagUsage><tagUsage gi="title" render="#title">italic</tagUsage></namespace></tagsDecl>
 	<refsDecl><p>The page numbers of the volumes are indicated by
 	page break elements</p>
-	<p></p>
+	<p/>
 	</refsDecl>
 	<classDecl>
-	  <taxonomy id="lcsh">
+	  <taxonomy xml:id="lcsh">
 	    <bibl>
 	      <title>Library of Congress Subject Headings</title>
 	    </bibl>
 	  </taxonomy>
 	</classDecl>
-      </encodingDesc>
-      <profileDesc>
+      </encodingDesc><profileDesc>
          <creation>
 	   <rs type="collection">poetry</rs>
 	   <rs type="language">English</rs>
@@ -80,53 +65,42 @@
             <date>1900-1999</date>
          </creation>
 	 <textClass>
-	   <keywords scheme="lcsh">
+	   <keywords scheme="#lcsh">
 	     <list>
 	       <item>World War, 1914-1918--Poetry.</item>
 	       <item>English poetry--20th Century.</item>
 	       <item>War.</item>
 	     </list>
 	   </keywords>
-	 </textClass></profileDesc>
-      <revisionDesc><!-- add your information here -->
-	<change>
-	  <date>2009</date>
-	  <respStmt>
-	    <name>Shruthi Vissa</name>
-	    <resp>Beck Center staff</resp>
-	  </respStmt>
-	    <item>Proofing, encoding</item>
-	</change>
-      </revisionDesc>
-   </teiHeader>
+	 </textClass></profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><!-- add your information here --><change><date>2009</date><label>Beck Center staff</label><name>Shruthi Vissa</name>Proofing, encoding</change></revisionDesc></teiHeader>
 
 <text>
 <front>
 
 <pb n="[i]"/>
-<titlePage id="sterling1000" type="half">
+<titlePage xml:id="sterling1000" type="half">
      <docTitle>
        <titlePart type="main">THE POEMS OF<lb/>ROBERT W.STERLING</titlePart>
      </docTitle>
    </titlePage>
 <pb n="[ii]"/>
 
-<div id="sterling1001" type="colophon">
+<div xml:id="sterling1001" type="colophon">
 <p> PRINTED IN ENGLAND</p>
 <p>AT THE OXFORD UNIVERSITY PRESS</p>
 </div>
 
 <pb n="[iii]"/>
 
-<div id="sterling1002" type="frontispiece">
-<figure type="sterlingfp" rend="inline">
+<div xml:id="sterling1002" type="frontispiece">
+<figure rend="inline">
 <figDesc> Photograph of author in front matter of "The Poems of Robert W. Sterling"</figDesc>
 </figure>
 </div>
 
 <pb n="[iv]"/>
 
-<titlePage id="sterling1003" type="full">
+<titlePage xml:id="sterling1003" type="full">
      <docTitle>
        <titlePart type="main">THE POEMS<lb/>ROBERT W. STERLING</titlePart>
 <titlePart type="sub">BORN 19TH NOVEMBER, 1893<lb/>SCHOLAR OF PEMBROKE COLLEGE, OXFORD<lb/>LIEUTENANT, ROYAL SCOTS FUSILIERS<lb/>KILLED IN ACTION, S. GEORGE'S DAY, 1915</titlePart>
@@ -141,7 +115,7 @@
 
 <pb n="v"/>
 
-<div id="sterling1004" type="preface">
+<div xml:id="sterling1004" type="preface">
 <p>Robert Sterling's career at Oxford was cut short after two years by
 the outbreak of war. But these two years had sufficed to create an
 impression of him which will endure. As a poet he was known only to a
@@ -186,8 +160,7 @@ embodied. He understood also, and shared, the strenuous
 enjoyment of the football field, as afterwards of the river; but '
 perhaps his happiest hours were spent quietly wandering over the
 Sedbergh hills, now leisurely fishing some lonely beck, now lying on
-the grass in the sunshine, watching the clouds drift over Winder'<ref
-target="vii">1</ref>.
+the grass in the sunshine, watching the clouds drift over Winder'<ref target="#vii">1</ref>.
 </p>
 
 <p>In 1912 he left for Oxford. 'I remember', wrote another and older
@@ -201,7 +174,7 @@ was because whatever he learnt he learnt well, so that it became an
 intrinsic part of himself. For the same reason it was characteristic
 of him to be conscious of his own ignorance;
 
-<note place="foot" id="vii" n="1">' Winder', which is mentioned more
+<note place="foot" xml:id="vii" n="1">' Winder', which is mentioned more
 than once in the poems, is the fell nearest to the school, rising some
 1,100 feet above it. It is the most conspicuous and characteristic
 object in the view from the playing-fields, and has always been
@@ -318,12 +291,12 @@ it in his school-days, working at it afterwards from time to time, and
 that he was intensely fond of intoning its verses to himself. It was
 left unfinished, but he evidently wished it preserved in case he did
 not return, as is suggested by the explanatory note which he prefixed
-to it.<ref target="xii">1</ref>
+to it.<ref target="#xii">1</ref>
 </p>
 
 <p>In February 1915 he went out to France.
 
-<note place="foot" id="xii" n="1">This note is reproduced immediately
+<note place="foot" xml:id="xii" n="1">This note is reproduced immediately
 before the text of ' Maran '. With certain passages of this poem he
 associated other poems, which were apparently meant to interpret its
 meaning. A facsimile of this association is included with the text in
@@ -401,7 +374,7 @@ its author and <hi rend="italic">The Glasgow Herald</hi>.</p>
 </div>
 
 
-<div id="sterling1005" type="poem">
+<div xml:id="sterling1005" type="poem">
 <pb n="xvi"/>
 <head type="main">SONNET</head>
 <head type="sub">IN MEMORY OF R. W. STERLING</head>
@@ -428,9 +401,9 @@ its author and <hi rend="italic">The Glasgow Herald</hi>.</p>
 <byline>ROGER QUIN.</byline>
 </div>
 
-<div id="sterling1006" type="table of contents">
+<div xml:id="sterling1006" type="tableofcontents">
 <pb n="1"/>
-<figure type="Sterlingtc" rend="inline">
+<figure rend="inline">
 <figDesc> Image of table of contents in front matter of "The Poems of Robert W.Sterling"</figDesc>
 </figure>
 
@@ -443,7 +416,7 @@ its author and <hi rend="italic">The Glasgow Herald</hi>.</p>
 <group>
 <text>
 <front>
-<titlePage id="sterling1007" type="half">
+<titlePage xml:id="sterling1007" type="half">
    <docTitle>
     <titlePart type="main">THE<lb/>BURIAL OF SOPHOCLES</titlePart>
    </docTitle>
@@ -452,9 +425,9 @@ its author and <hi rend="italic">The Glasgow Herald</hi>.</p>
 
 
 <body>
-<div id="sterling100" type="part" n="1">
+<div xml:id="sterling100" type="part" n="1">
 <pb n="4"/>
-<figure type="sterlingfig" rend="inline">
+<figure rend="inline">
 <figDesc> Image of paragraph printed in Greek script in front matter
 of "The Poems of Robert W.Sterling"</figDesc>
 </figure>
@@ -471,7 +444,7 @@ Sophocles, sent a herald with permission for the
 burial.'</p></q></cit></epigraph>
 </div>
 
-<div id="sterling001" type="poem" n="1">
+<div xml:id="sterling001" type="poem" n="1">
 <pb n="The Burial of Sophocles 5"/>
 <head>THE BURIAL OF SOPHOCLES</head>
 
@@ -506,7 +479,7 @@ burial.'</p></q></cit></epigraph>
 </lg>
 
 <lg type="stanza">
-<l>Alas! poor city, fate-enshadow&#x00E8;d,</l>
+<l>Alas! poor city, fate-enshadowèd,</l>
 <l rend="inline">How powerless all thy pride of piety</l>
 <l>To give due service to thy poet dead--</l>
 <l rend="inline">Save by the favour of an enemy!--</l>
@@ -535,7 +508,7 @@ burial.'</p></q></cit></epigraph>
 
 <lg type="stanza">
 <l>Slowly we brought him forth--can I forget?--</l>
-<l rend="inline">And soft adown the lantern-hemm&#x00E8;d street</l>
+<l rend="inline">And soft adown the lantern-hemmèd street</l>
 <l>Parted the throngs who paid their pious debt</l>
 <l rend="inline">Of patient watching and of reverence meet.</l>
 <l>And there were sudden tears and murmurs faint</l>
@@ -551,7 +524,7 @@ darkest fortune!</hi></l>
 
 <lg type="stanza">
 <l>How lingeringly we reached the guarded gate</l>
-<l rend="inline">Of the dear city fate-enshadow&#x00E8;d!--</l>
+<l rend="inline">Of the dear city fate-enshadowèd!--</l>
 <l>As if reluctantly she bore the fate</l>
 <l rend="inline">That stole his presence. For of old ('twas said)</l>
 <l>The palaces of Kings had sought in vain</l>
@@ -678,7 +651,7 @@ darkest fortune!</hi></l>
 <text>
 <front>
 <pb n="[13]"/>
-<titlePage id="sterling1008" type="half">
+<titlePage xml:id="sterling1008" type="half">
    <docTitle>
     <titlePart type="main">EARLY POEMS</titlePart>
    </docTitle>
@@ -686,7 +659,7 @@ darkest fortune!</hi></l>
 </front>
 
 <body>
-<div id="sterling002" type="poem" n="2">
+<div xml:id="sterling002" type="poem" n="2">
 <pb n="[14]"/>
 <pb n="Prologue to a Children's Play 15"/>
 <head type="main">PROLOGUE TO A CHILDREN'S PLAY</head>
@@ -716,11 +689,11 @@ darkest fortune!</hi></l>
 <l>That we present to you, O maidens gay.</l>
 <l>And you, O gallant youths, and last of all</l>
 <l>(And also least) to you, O puppy small.</l></lg>
-<dateline><date value="1909">1909.</date></dateline>
+<dateline><date when="1909">1909.</date></dateline>
 <pb n="SONNET 17"/>
 </div>
 
-<div id="sterling003" type="poem" n="3">
+<div xml:id="sterling003" type="poem" n="3">
 <head type="main">SONNET</head>
 <head type="sub">ON A PICTURE BY R. MACAULAY<lb/>
 STEVENSON</head>
@@ -745,7 +718,7 @@ STEVENSON</head>
 <dateline><date>1910.</date></dateline>
 </div> 
 
-<div id="sterling0003" type="poem" n="3">
+<div xml:id="sterling0003" type="poem" n="3">
 <pb n="18 THE RIVER BATHE"/>
 <head>THE RIVER BATHE</head>
 
@@ -798,7 +771,7 @@ STEVENSON</head>
 <dateline><date><hi rend="italic">November</hi>, 1910.</date></dateline>
 </div>
 
-<div id="sterling004" type="poem" n="4">
+<div xml:id="sterling004" type="poem" n="4">
 <pb n="20 HAIL"/>
 <head>HAIL</head>
 
@@ -862,11 +835,11 @@ STEVENSON</head>
 <l rend="inline">Long reign our king!</l>
 </lg>
 
-<dateline><date value="1911-06"><hi rend="italic">June</hi>,
+<dateline><date when="1911-06"><hi rend="italic">June</hi>,
 1911.</date></dateline>
 </div>
 
-<div id="sterling005" type="poem" n="5">
+<div xml:id="sterling005" type="poem" n="5">
 <pb n="In Hendencasyllables 23"/>
 
 <head>IN HENDECASYLLABLES<lb/>
@@ -911,10 +884,10 @@ DYING LILIES</head>
 <l>Still more joyfully grace the Heav'nly Gardens!</l>
 </lg>
 
-<dateline><date value="1911-07"><hi rend="italic">June</hi>, 1911.</date></dateline>
+<dateline><date when="1911-07"><hi rend="italic">June</hi>, 1911.</date></dateline>
 </div>
 
-<div id="sterling006" type="poem" n="6">
+<div xml:id="sterling006" type="poem" n="6">
 <pb n="THE TREASURES OF THE SNOW 25"/>
 <head>THE TREASURES OF THE SNOW</head>
 
@@ -923,7 +896,7 @@ DYING LILIES</head>
 <l rend="inline">Toning the world to the faery voice of Spring?</l>
 <l>Love you the storm-rack riding o'er him ghostly,</l>
 <l rend="inline">While rush the streamlets, madly bickering?</l>
-<l>Fairer I ween is the dower of horn&#x00E8;d Winter;</l>
+<l>Fairer I ween is the dower of hornèd Winter;</l>
 <l rend="inline">Joy-shafts keener than arrows he can throw;</l>
 <l>Lovelier his tresses than all the wealth of Summer:</l>
 <l rend="inline">Say, have you seen the treasures of the snow?</l>
@@ -978,13 +951,13 @@ unmeasur'd soaring:</l>
 <l rend="inline">Nay, for I glean'd its treasure as it pass'd.</l>
 </lg>
 
-<dateline><date value="1912-02"><hi rend="italic">February</hi>,
+<dateline><date when="1912-02"><hi rend="italic">February</hi>,
 1912.</date></dateline>
 </div>
 
 <pb n="28 The Faery Birth"/>
 
-<div id="sterling007" type="poem" n="7">
+<div xml:id="sterling007" type="poem" n="7">
 
 <head>THE FAERY BIRTH</head>
 
@@ -1025,16 +998,16 @@ unmeasur'd soaring:</l>
 <l rend="inline">Then flitted forth to glad the skies.</l>
 </lg>
 
-<dateline><date value="1912-03"><hi rend="italic">March</hi>,
+<dateline><date when="1912-03"><hi rend="italic">March</hi>,
 1912.</date></dateline>
 </div>
 
-<div id="sterling008" type="poem" n="8">
+<div xml:id="sterling008" type="poem" n="8">
 <pb n="30 Gleams and Glimspes"/>
 
 <head>GLEAMS AND GLIMPSES</head>
 
-<div id="sterling8000" type="short poem" n="1">
+<div xml:id="sterling8000" type="short_poem" n="1">
 <head>MORNING--AND EARLY PREP.</head>
 
 <lg type="stanza">
@@ -1049,13 +1022,13 @@ unmeasur'd soaring:</l>
 </lg>
 </div>
 
-<div id="sterling8001" type="short poem" n="2">
+<div xml:id="sterling8001" n="2">
 
 <head>NIGHT AND DEJECTION</head>
 
 <lg type="stanza">
 <l rend="inline">MIRROR'D light the moon doth shed,</l>
-<l rend="inline">And the sun 's remember&#x00E8;d:</l>
+<l rend="inline">And the sun 's rememberèd:</l>
 <l rend="inline">For she promises the gloom</l>
 <l rend="inline">Day arising from her tomb.</l>
 <l>Alas! no Hope doth lighten so</l>
@@ -1063,7 +1036,7 @@ unmeasur'd soaring:</l>
 </div>
 
 
-<div id="sterling8002" type="short poem" n="3">
+<div xml:id="sterling8002" type="short_poem" n="3">
 <pb n="Gleams and Glimpses 31"/>
 <head>ON THE WEATHER</head>
 
@@ -1077,7 +1050,7 @@ unmeasur'd soaring:</l>
 </lg>
 </div>
 
-<div id="sterling8003" type="short poem" n="4">
+<div xml:id="sterling8003" type="short_poem" n="4">
 <head>ANOTHER ON THE SAME</head>
 
 <lg type="stanza">
@@ -1088,7 +1061,7 @@ unmeasur'd soaring:</l>
 </lg>
 </div>
 
-<div id="sterling8004" type="short poem" n="5">
+<div xml:id="sterling8004" type="short_poem" n="5">
 <pb n="32 Gleams and Glimpses"/>
 <head>RETURNING FROM THE RIVER BATHE</head>
 
@@ -1105,7 +1078,7 @@ unmeasur'd soaring:</l>
 <l rend="inline">Listens, oh! listens.</l></lg>
 </div>
 
-<div id="sterling8005" type="short poem" n="6">
+<div xml:id="sterling8005" type="short_poem" n="6">
 
 <head>EVENING FROM THE CRICKET FIELD</head>
 
@@ -1119,11 +1092,11 @@ unmeasur'd soaring:</l>
 <l>Glorious the day--richly together roll</l>
 <l>In single wealth: Sedbergh reveals her soul.</l></lg>
 
-<dateline><date value="1912-06"><hi rend="italic">June</hi>,
+<dateline><date when="1912-06"><hi rend="italic">June</hi>,
 1912.</date></dateline>
 </div>
 
-<div id="sterling8006" type="short poem" n="7">
+<div xml:id="sterling8006" type="short_poem" n="7">
 <pb n="Gleams and Glimpses 33"/>
 
 <head>VALE</head>
@@ -1151,7 +1124,7 @@ unmeasur'd soaring:</l>
 <l>Our pleasure, toil, and striving keen,</l>
 <l rend="inline">The songs we've sung:</l>
 <l>But Time shall spend his treasuries</l>
-<l>Or ever the wing&#x00E8;d Spirit dies,</l>
+<l>Or ever the wingèd Spirit dies,</l>
 <l>Far flung from out thy bosom, Sedbergh,</l>
 <l rend="inline">To the world from out thy bosom flung.</l></lg>
 
@@ -1166,7 +1139,7 @@ unmeasur'd soaring:</l>
 <l rend="inline">Proud borne upon thy banner, Sedbergh,</l>
 <l rend="inline">To the stars upon thy banner borne.</l>
 
-<dateline><date value="1912-07"><hi rend="italic">July</hi>,
+<dateline><date when="1912-07"><hi rend="italic">July</hi>,
 1912.</date></dateline></lg>
 </div>
 
@@ -1177,7 +1150,7 @@ unmeasur'd soaring:</l>
 <text>
 <front>
 <pb n="[35]"/>
-<titlePage id="sterling10000" type="half">
+<titlePage xml:id="sterling10000" type="half">
   <docTitle>
     <titlePart type="main"> POEMS<lb/>1913-1915</titlePart>
    </docTitle>
@@ -1190,7 +1163,7 @@ unmeasur'd soaring:</l>
 
 <pb n="To B.W. 37"/>
 
-<div id="sterling009" type="poem" n="9">
+<div xml:id="sterling009" type="poem" n="9">
 
 <head>To B. W.<lb/>
 (Thirty-seven years master at Sedbergh; died January, 1913.)</head>
@@ -1207,7 +1180,7 @@ unmeasur'd soaring:</l>
 </lg>
 </div>
 
-<div id="sterling010" type="poem" n="10">
+<div xml:id="sterling010" type="poem" n="10">
 <pb n="[38 Oxford--First Vision]"/>
 
 <head>OXFORD--FIRST VISION</head>
@@ -1246,7 +1219,7 @@ unmeasur'd soaring:</l>
 </lg>
 </div>
 
-<div id="sterling011" type="poem" n="11">
+<div xml:id="sterling011" type="poem" n="11">
 <pb n="40 Oxford's Promise"/>
 
 <head>OXFORD'S PROMISE</head>
@@ -1272,7 +1245,7 @@ unmeasur'd soaring:</l>
 </lg>
 </div>
 
-<div id="sterling012" type="poem" n="12">
+<div xml:id="sterling012" type="poem" n="12">
 <pb n="Oxford's Promise 41"/>
 
 <head>OXFORD'S DAWN</head>
@@ -1332,7 +1305,7 @@ unmeasur'd soaring:</l>
 </lg>
 </div>
 
-<div id="sterling013" type="poem" n="13">
+<div xml:id="sterling013" type="poem" n="13">
 <pb n="Historic Oxford 43"/>
 
 <head>HISTORIC OXFORD</head>
@@ -1341,7 +1314,7 @@ unmeasur'd soaring:</l>
 <l>AH! Time hath loaded thee with memories</l>
 <l>Processional. What could these piles unfold</l>
 <l>Of war's lost travail, and the wearied cries</l>
-<l>Of vex&#x00E8;d warriors, struggling to hold</l>
+<l>Of vexèd warriors, struggling to hold</l>
 <l>Their hearth secure against proud Norman arms?</l>
 <l>-—And yet the while thy quest was not forgot;</l>
 <l>'Mid war and waste and perilous alarms</l>
@@ -1387,7 +1360,7 @@ unmeasur'd soaring:</l>
 </lg>
 </div>
 
-<div id="sterling014" type="poem" n="14">
+<div xml:id="sterling014" type="poem" n="14">
 <pb n="To Pembroke College 45"/>
 
 <head>TO PEMBROKE COLLEGE</head>
@@ -1399,10 +1372,10 @@ unmeasur'd soaring:</l>
 <l>Calling the storied stone to yield its dead:</l>
 <l>And I have seen the sunlight richly thrown</l>
 <l>On spire and patient turret, conjuring</l>
-<l>Old glass to marl&#x00E8;d beauty with its kiss,</l>
+<l>Old glass to marlèd beauty with its kiss,</l>
 <l>And making blossom all the foison sown</l>
-<l>Through laps&#x00E8;d years. I've felt the deeper bliss</l>
-<l>Of eve calm-brooding o'er her lov&#x00E8;d care,</l>
+<l>Through lapsèd years. I've felt the deeper bliss</l>
+<l>Of eve calm-brooding o'er her lovèd care,</l>
 <l>And tingeing her one all-embosoming tone.</l>
 <l>And I have dream'd on thee, thou college fair.</l>
 <l>Dearest to me of all, until I seem'd</l>
@@ -1415,7 +1388,7 @@ unmeasur'd soaring:</l>
 <l>Vaunting the banner still of what hath been and is.</l></lg>
 </div>
 
-<div id="sterling015" type="poem" n="15">
+<div xml:id="sterling015" type="poem" n="15">
 <pb n="46 A SONNET"/>
 
 <head>A SONNET</head>
@@ -1439,22 +1412,22 @@ unmeasur'd soaring:</l>
 </div>
 
 
-<div id="sterling016" type="poem" n="16">
+<div xml:id="sterling016" type="poem" n="16">
 <pb n="Lines written on Loch Lomond 47"/>
 
 <head>LINES WRITTEN ON LOCH LOMOND</head>
 
-<p>
-<text>
-<body>
-<div id="sterling8007" type="section" n="1">
+
+ 
+
+<div xml:id="sterling8007" type="section" n="1">
 <head>I</head>
 
 <lg type="stanza">
 <l>LONELY I linger'd when you went,</l>
 <l rend="inline">Recalling how the days had fled</l>
 <l>Each with its mingled treasure pent</l>
-<l rend="inline">Of shine and shade remember&#x00E8;d. . . .</l>
+<l rend="inline">Of shine and shade rememberèd. . . .</l>
 <l>Oh, how I crush'd the grapes divine,</l>
 <l>Blending a flood of wakeful wine.</l></lg>
 
@@ -1467,16 +1440,13 @@ unmeasur'd soaring:</l>
 <l>That vintage of our joy, and I</l>
 <l>Drink deep the draught of memory.</l></lg>
 
-<dateline><date value="1914--07"><hi rend="italic">July,</hi> 1914.</date></dateline>
+<dateline><date when="1914-07"><hi rend="italic">July,</hi> 1914.</date></dateline>
 </div>
-</body>
-</text>
-</p>
 
-<p>
-<text>
-<body>
-<div id="sterling8008" type="section" n="2">
+
+
+
+<div xml:id="sterling8008" type="section" n="2">
 <pb n="48 Lines written on Loch Lomond"/>
 <head>II</head>
 
@@ -1493,21 +1463,17 @@ unmeasur'd soaring:</l>
 
 <dateline><date><hi rend="italic">July,</hi> 1914.</date></dateline>
 </div>
-</body>
-</text>
-</p>
+
 
 </div>
 
-<div id="sterling017" type="poem" n="17">
+<div xml:id="sterling017" type="poem" n="17">
 <pb n="Lines written in the trenches 49"/>
 
 <head>LINES WRITTEN IN THE TRENCHES</head>
 
-<p>
-<text>
-<body>
-<div id="sterling8009" type="section" n="1">
+
+<div xml:id="sterling8009" type="section" n="1">
 
 <head>I</head>
 
@@ -1517,14 +1483,9 @@ unmeasur'd soaring:</l>
 <l>Not it, not it commands and mourns and bears</l>
 <l>The storm and bitter glory of red war.</l></lg>
 </div>
-</body>
-</text>
-</p>
 
-<p>
-<text>
-<body>
-<div id="sterling8010" type="section" n="2">
+
+<div xml:id="sterling8010" type="section" n="2">
 <head>II</head>
 
 <p>To J. H. S. M., killed in action, March 13, 1915.</p>
@@ -1535,9 +1496,6 @@ unmeasur'd soaring:</l>
 <l>Can song reveal my grief's infinity:</l>
 <l>The menace of thy silence made me dumb.</l></lg>
 </div>
-</body>
-</text>
-</p>
 
 
 <pb n="[50]"/>
@@ -1550,7 +1508,7 @@ unmeasur'd soaring:</l>
 <text>
 <front>
 
-<titlePage id="sterling1009" type="half">
+<titlePage xml:id="sterling1009" type="half">
     <docTitle>
       <titlePart type="main">MARAN</titlePart>
     </docTitle>
@@ -1565,7 +1523,7 @@ unmeasur'd soaring:</l>
 </front>
 
 <body>
-<div id="sterling0017" type="editor's note">
+<div xml:id="sterling0017" type="editorsnote">
 <pb n="58"/>
 <p>The fragment <hi rend="italic">Maran</hi> is valuable, not for its theme or language (which are both in parts immature, uncertain, and childish), but for its rhythm, which reveals a new music, and properly handled might afford a contribution to literature and the melody of the world.</p>
 
@@ -1575,33 +1533,33 @@ unmeasur'd soaring:</l>
 
 <p>Lyrical; stanzas superficially resembling Norman convention. Should be intoned, with emphasis on each stressed word, with special care to mark the structure-rhymes of the even lines. Only one accentuated syllable in each line is unalliterative.</p>
 
-<l>The<hi rend="italic">w</hi>&#x00Ed;nd was<hi rend="italic">w</hi>&#x00Ed;ling over the l&#x00E1;nd <hi rend="italic">w</hi>&#x00Ed;ldly</l>
-<l><hi rend="italic">S</hi>&#x00F3;ng-<hi rend="italic">s</hi>&#x00Ed;ghing, and the m&#x00F3;on</l>
-<l><hi rend="italic">L</hi>&#x00E1;nguishing, a <hi rend="italic">l</hi>&#x00F3;ve-<hi rend="italic">l</hi>&#x00F3;rn m&#x00E1;iden</l>
-<l><hi rend="italic">P</hi>&#x00E1;le-<hi rend="italic">p</hi>&#x00E9;ering from a shr&#x00F3;ud.</l>
+<l>The<hi rend="italic">w</hi>índ was<hi rend="italic">w</hi>íling over the lánd <hi rend="italic">w</hi>íldly</l>
+<l><hi rend="italic">S</hi>óng-<hi rend="italic">s</hi>íghing, and the móon</l>
+<l><hi rend="italic">L</hi>ánguishing, a <hi rend="italic">l</hi>óve-<hi rend="italic">l</hi>órn máiden</l>
+<l><hi rend="italic">P</hi>ále-<hi rend="italic">p</hi>éering from a shróud.</l>
 
-<figure type="sterling053" rend="inline">
-<figDesc> Image of rhyme structure of Sterling's poem Maran in body of <hi rend="italic">The Poems of Robert W. Sterling</hi></figDesc>
+<figure rend="inline">
+<figDesc> Image of rhyme structure of Sterling's poem Maran in body of The Poems of Robert W. Sterling</figDesc>
 </figure>
 
 <p>The number of unaccentuated syllables (x) does not matter. Accentuated syllables (—) must be four and three alternately. Second and fourth lines coincide in structure.</p>
 
 <pb n="[54]"/>
 
-<figure type="sterling054" rend="inline">
-<figDesc> Image of poem <hi rend="italic">Maran</hi> in the author's own writing in the body of <hi rend="italic">The Poems of Robert W. Sterling</hi></figDesc>
+<figure rend="inline">
+<figDesc> Image of poem Maran in the author's own writing in the body of The Poems of Robert W. Sterling</figDesc>
 </figure>
 
-<figure type="sterling055" rend="inline">
-<figDesc> Image of poem <hi rend="italic">Maran</hi> in the author's own writing in the body of <hi rend="italic">The Poems of Robert W. Sterling</hi></figDesc>
+<figure rend="inline">
+<figDesc> Image of poem Maran in the author's own writing in the body of The Poems of Robert W. Sterling</figDesc>
 </figure>
 
-<figure type="sterling056" rend="inline">
-<figDesc> Image of poem <hi rend="italic">Maran</hi> in the author's own writing in the body of <hi rend="italic">The Poems of Robert W. Sterling</hi></figDesc>
+<figure  rend="inline">
+<figDesc> Image of poem Maran in the author's own writing in the body of The Poems of Robert W. Sterling</figDesc>
 </figure>
 </div>
 
-<div id="sterling018" type="poem" n="18">
+<div xml:id="sterling018" type="poem" n="18">
 <pb n="Maran 55"/>
 <pb n="56 Maran"/>
 
@@ -1865,8 +1823,8 @@ unmeasur'd soaring:</l>
 <pb n="Maran 63"/>
 
 <lg type="stanza">
-<l>Oh, agony beyond utterance, and stain&#x00E8;d horror!</l>
-<l rend="inline">He watch'd the wing&#x00E8;d shadow</l>
+<l>Oh, agony beyond utterance, and stainèd horror!</l>
+<l rend="inline">He watch'd the wingèd shadow</l>
 <l>Fast flitting through the aw'd forest</l>
 <l rend="inline">To Maran the maid gentle.</l>
 </lg>
@@ -1941,7 +1899,7 @@ unmeasur'd soaring:</l>
 <lg type="stanza">
 <l>Then wail'd the wind in bereavement wasted,</l>
 <l rend="inline">Sighing a broken song,</l>
-<l>Like a mermaid moaning the drown&#x00E8;d millions</l>
+<l>Like a mermaid moaning the drownèd millions</l>
 <l rend="inline">Lost in the sceptred sea.</l>
 </lg>
 
@@ -1967,7 +1925,7 @@ unmeasur'd soaring:</l>
 </lg>
 </div>
 
-<div id="sterling019" type="poem" n="19">
+<div xml:id="sterling019" type="poem" n="19">
 <pb n="66 Maran"/>
 <lg type="stanza">
 <l>The wind among</l>
@@ -2004,7 +1962,7 @@ unmeasur'd soaring:</l>
 </lg>
 </div>
 
-<div id="sterling020" type="poem" n="20">
+<div xml:id="sterling020" type="poem" n="20">
 <pb n="67"/>
 <lg type="stanza">
 <l>I TIP-TOED from the palace gates</l>
@@ -2031,7 +1989,7 @@ unmeasur'd soaring:</l>
 </lg>
 </div>
 
-<div id="sterling021" type="poem" n="21">
+<div xml:id="sterling021" type="poem" n="21">
 <pb n="68 The Round"/>
 <head>THE ROUND</head>
 
@@ -2064,4 +2022,4 @@ unmeasur'd soaring:</l>
 </group>
 
 </text>
-</TEI.2>
+</TEI>

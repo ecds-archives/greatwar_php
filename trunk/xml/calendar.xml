@@ -1,20 +1,15 @@
-<TEI.2>
-   <teiHeader>
-      <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader><fileDesc>
          <titleStmt>
             <title>A Calendar of Verse: Electronic Edition</title>
-            <editor><name>R. A. L.</name></editor>
+            <editor><name><choice><reg/><sic>R. A. L.</sic></choice></name></editor>
          </titleStmt>
-	 <publicationStmt>
-	   <publisher>Lewis H. Beck Center for Electronic Collections
-	   and Services, Emory University</publisher>
-	   <pubPlace>Atlanta, GA</pubPlace>
-	   <address>
+	 <publicationStmt><publisher>Lewis H. Beck Center for Electronic Collections
+	   and Services, Emory University</publisher><pubPlace>Atlanta, GA</pubPlace><address>
 	     <addrLine>540 Asbury Circle</addrLine>
 	     <addrLine>Woodruff Library</addrLine>
 	     <addrLine>Atlanta, GA 30322</addrLine>
-	   </address>
-	   <availability><p>&#x00A9;Emory University. Permission is
+	   </address><availability><p>©Emory University. Permission is
 	   granted to download, transmit, or otherwise reproduce,
 	   distribute or display the contributions to the work claimed
 	   by Emory University for non-profit educational purposes,
@@ -23,24 +18,21 @@
 	   for Jewish Studies, Emory University, Atlanta GA 30322 or
 	   the Lewis H. Beck Center for Electronic Collections and
 	   Services, Woodruff Library, Emory University, Atlanta,
-	   Georgia 30322 </p></availability> 
-	   <date>2004</date>
-	 </publicationStmt>
+	   Georgia 30322 </p></availability><date>2004</date></publicationStmt>
 	 <seriesStmt>
 	   <title>The Great War</title>
 	 </seriesStmt>
-	 <notesStmt><note></note></notesStmt>
+	 <notesStmt><note/></notesStmt>
          <sourceDesc> 
             <bibl>
 	     <title>A Calendar of War Verse</title>
 	     <editor>R. A. L.</editor>
-	     <pubPlace></pubPlace>
-	     <publisher></publisher>
+	     <pubPlace/>
+	     <publisher/>
 	     <date>1918</date>
 	   </bibl>
          </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
+      </fileDesc><encodingDesc>
 	<projectDesc><p>Poetry contemporary to World War I (the Great
 	War) has been digitized by OCR or rekeying. The work has been
 	done in conjunction with Dr. Harry Rusche of the English
@@ -49,30 +41,23 @@
 	<p>Block quotes are marked with q or quote
 	elements</p>
 	</editorialDecl>
-	<tagsDecl>
-	  <rendition id="quote">Paragraphs including q or quote
+	<tagsDecl><rendition xml:id="quote">Paragraphs including q or quote
 	  elements indicate material that is in a block
-	  quote.</rendition>
-	  <rendition id="title">Where the title of a work is
+	  quote.</rendition><rendition xml:id="title">Where the title of a work is
 	  italicized, it is marked with a title element, both in the
-	  text and in footnotes.</rendition>
-	  <tagUsage gi="q" render="quote">blockquote</tagUsage>
-	  <tagUsage gi="quote" render="quote">blockquote</tagUsage>
-	  <tagUsage gi="title" render="title">italic</tagUsage>
-	</tagsDecl>
+	  text and in footnotes.</rendition><namespace name="http://www.tei-c.org/ns/1.0"><tagUsage gi="q" render="#quote">blockquote</tagUsage><tagUsage gi="quote" render="#quote">blockquote</tagUsage><tagUsage gi="title" render="#title">italic</tagUsage></namespace></tagsDecl>
 	<refsDecl><p>The page numbers of the volumes are indicated by
 	page break elements</p>
-	<p></p>
+	<p/>
 	</refsDecl>
 	<classDecl>
-	  <taxonomy id="lcsh">
+	  <taxonomy xml:id="lcsh">
 	    <bibl>
 	      <title>Library of Congress Subject Headings</title>
 	    </bibl>
 	  </taxonomy>
 	</classDecl>
-      </encodingDesc>
-      <profileDesc>
+      </encodingDesc><profileDesc>
          <creation>
 	   <rs type="collection">poetry</rs>
 	   <rs type="language">English</rs>
@@ -83,37 +68,26 @@
             <date>1900-1999</date>
          </creation>
 	 <textClass>
-	   <keywords scheme="lcsh">
+	   <keywords scheme="#lcsh">
 	     <list>
 	       <item>World War, 1914-1918--Poetry.</item>
 	       <item>English poetry--20th Century.</item>
 	       <item>War.</item>
 	     </list>
 	   </keywords>
-	 </textClass></profileDesc>
-      <revisionDesc>
-	<change>
-	  <date>2004</date>
-	  <respStmt>
-	    <name>Alden Mahler</name>
-	    <resp>Beck Center staff</resp>
-	  </respStmt>
-	    <item>scanning, proofreading, encoding</item>
-	</change>
-      </revisionDesc>
-   </teiHeader>
+	 </textClass></profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2004</date><label>Beck Center staff</label><name>Alden Mahler</name>scanning, proofreading, encoding</change></revisionDesc></teiHeader>
 <text>
 <front>
 
 <pb n="{1]"/>
-<div id="calendar001" type="dedication">
+<div xml:id="calendar001" type="dedication">
 <head rend="center">Dedication</head>
 
-<div id="calendar002" type="epigraph">
+<div xml:id="calendar002" type="epigraph">
 <q rend="center">
 <l rend="italic">"And poets shall dawn in pearl and gold of speech to crown his deeds"</l></q>
 </div>
-<div type="dedication" id="calendar059">
+<div type="dedication" xml:id="calendar059">
 <p>
 To the memory of Alan Seeger, our soldier-poet, who met death in July, 1916, fighting for the high cause to which now all America is consecrated, we dedicate this offering for the American Red Cross.</p>
 </div>
@@ -121,7 +95,7 @@ To the memory of Alan Seeger, our soldier-poet, who met death in July, 1916, fig
 
 <milestone unit="paragraph" rend="line"/>
 
-<div id="calendar003" type="introduction">
+<div xml:id="calendar003" type="introduction">
 <p>
 One of the rich heritages of this war will be its golden treasury of song, so full of the vision that soars above the battle to the spiritual gleam that crowns the darkness. Nobly and tenderly the poets have glorified the sacrifice of those who have gone down into the night to rise as stars in the skies of Freedom.</p>
 
@@ -133,7 +107,7 @@ The singers of the war have also shared its fires. Many from afar have faced the
 
 <milestone unit="paragraph" rend="thing"/>
 
-<div id="calendar004" type="acknowledgement">
+<div xml:id="calendar004" type="acknowledgement">
 <p>
 Grateful acknowledgment is expressed to the authors and publishers who have permitted the use of their verses in this calendar. The deepest appreciation is also accorded to Mr. R. Weir Crouch for his design of the cover -- page and border, symbolic of our victorious war and future peace.</p>
 </div>
@@ -143,9 +117,9 @@ Grateful acknowledgment is expressed to the authors and publishers who have perm
 <body>
 
 <pb n="[2]"/>
-<div id="calendar005" type="anthology" n="A Calendar of War Verse:  Starry-vision'd Songs of Fame Crown with Love the Warrior's Name!">
+<div xml:id="calendar005" type="anthology" n="A Calendar of War Verse:  Starry-vision'd Songs of Fame Crown with Love the Warrior's Name!">
 
-<div id="calendar006" type="poem" n="The Vision of Peace">
+<div xml:id="calendar006" type="poem" n="The Vision of Peace">
 <head rend="center">THE VISION OF PEACE</head>
 <docAuthor n="Dole, Nathan Haskell">Nathan Haskell Dole</docAuthor>
 <lg type="stanza">
@@ -176,7 +150,7 @@ Grateful acknowledgment is expressed to the authors and publishers who have perm
 
 
 <pb n="[4]"/>
-<div id="calendar008" type="poem" n="The Trumpet-Call">
+<div xml:id="calendar008" type="poem" n="The Trumpet-Call">
 <head rend="center">THE TRUMPET-CALL</head>
 <docAuthor n="Noyes, Alfred">Alfred Noyes</docAuthor>
 <lg type="stanza">
@@ -215,7 +189,7 @@ Grateful acknowledgment is expressed to the authors and publishers who have perm
 
 
 <pb n="[5]"/>
-<div id="calendar009" type="poem" n="France">
+<div xml:id="calendar009" type="poem" n="France">
 <head rend="center">FRANCE</head>
 <docAuthor n="Mackaye, Percy">Percy Mackaye</docAuthor>
 <lg type="stanza">
@@ -245,7 +219,7 @@ Grateful acknowledgment is expressed to the authors and publishers who have perm
 
 
 <pb n="[8]"/>
-<div id="calendar012" type="poem" n="The Dead">
+<div xml:id="calendar012" type="poem" n="The Dead">
 <head rend="center">THE DEAD</head>
 <docAuthor n="Thayer, Sigourney">Sigourney Thayer</docAuthor>
 <lg type="stanza">
@@ -272,7 +246,7 @@ Grateful acknowledgment is expressed to the authors and publishers who have perm
 
 
 <pb n="[9]"/>
-<div id="calendar013" type="poem" n="America">
+<div xml:id="calendar013" type="poem" n="America">
 <head rend="center">AMERICA</head>
 <docAuthor n="Miller, J. Corson">J. Corson Miller</docAuthor>
 <lg type="stanza">
@@ -301,9 +275,9 @@ Grateful acknowledgment is expressed to the authors and publishers who have perm
 
 
 <pb n="[10]"/>
-<div id="calendar014" type="poem" n="The Sword of Lafayette">
+<div xml:id="calendar014" type="poem" n="The Sword of Lafayette">
 <head rend="center">THE SWORD OF LAFAYETTE</head>
-<docAuthor n="Johnson, Robert Underwood">Robert Underwood Johnson</docAuthor><note>(Inscribed to Raymond Poincar&eacute;, President of the French Republic)</note>
+<docAuthor n="Johnson, Robert Underwood">Robert Underwood Johnson</docAuthor><note>(Inscribed to Raymond Poincaré, President of the French Republic)</note>
 
 <lg type="stanza">
 <l n="1">It was the time of our despair,</l>
@@ -352,7 +326,7 @@ Grateful acknowledgment is expressed to the authors and publishers who have perm
 
 
 <pb n="[11]"/>
-<div id="calendar015" type="poem" n="Prayer During Battle">
+<div xml:id="calendar015" type="poem" n="Prayer During Battle">
 <head rend="center">PRAYER DURING BATTLE</head>
 <docAuthor n="Hagedorn, Hermann">Hermann Hagedorn</docAuthor>
 <lg type="stanza">
@@ -374,7 +348,7 @@ Grateful acknowledgment is expressed to the authors and publishers who have perm
 
 
 <pb n="[12]"/>
-<div id="calendar016" type="poem" n="To Peace">
+<div xml:id="calendar016" type="poem" n="To Peace">
 <head rend="center">TO PEACE</head>
 <docAuthor n="Bates, Katharine Lee">Katharine Lee Bates</docAuthor>
 <lg type="stanza">
@@ -407,7 +381,7 @@ Grateful acknowledgment is expressed to the authors and publishers who have perm
 
 
 <pb n="[13]"/>
-<div id="calendar017" type="poem" n="Holy Russia">
+<div xml:id="calendar017" type="poem" n="Holy Russia">
 <head rend="center">HOLY RUSSIA</head>
 <docAuthor n="Burr, Amelia Josephine">Amelia Josephine Burr</docAuthor>
 <lg type="stanza">
@@ -446,7 +420,7 @@ Grateful acknowledgment is expressed to the authors and publishers who have perm
 
 
 <pb n="[14]"/>
-<div id="calendar018" type="poem" n="The Call">
+<div xml:id="calendar018" type="poem" n="The Call">
 <head rend="center">THE CALL</head>
 <docAuthor n="Bourdillon, F. W.">F. W. Bourdillon</docAuthor>
 <lg type="stanza">
@@ -479,7 +453,7 @@ Grateful acknowledgment is expressed to the authors and publishers who have perm
 
 
 <pb n="[15]"/>
-<div id="calendar019" type="poem" n="The Heroes">
+<div xml:id="calendar019" type="poem" n="The Heroes">
 <head rend="center">THE HEROES</head>
 <docAuthor n="Tynan, Katharine">Katharine Tynan</docAuthor>
 <lg type="stanza">
@@ -525,7 +499,7 @@ Grateful acknowledgment is expressed to the authors and publishers who have perm
 
 
 <pb n="[16]"/>
-<div id="calendar020" type="poem" n="America Resurgent">
+<div xml:id="calendar020" type="poem" n="America Resurgent">
 <head rend="center">AMERICA RESURGENT</head>
 <docAuthor n="Stafford, Wendell Phillips">Wendell Phillips Stafford</docAuthor>
 <lg type="stanza">
@@ -566,7 +540,7 @@ Grateful acknowledgment is expressed to the authors and publishers who have perm
 
 
 <pb n="[17]"/>
-<div id="calendar021" type="poem" n="America, To Arms!">
+<div xml:id="calendar021" type="poem" n="America, To Arms!">
 <head rend="center">AMERICA, TO ARMS!</head>
 <docAuthor n="Wagstaff, Blanche Shoemaker">Blanche Shoemaker Wagstaff</docAuthor>
 <lg type="stanza">
@@ -588,7 +562,7 @@ Grateful acknowledgment is expressed to the authors and publishers who have perm
 
 
 <pb n="[18]"/>
-<div id="calendar022" type="poem" n="They Also Serve">
+<div xml:id="calendar022" type="poem" n="They Also Serve">
 <head rend="center">THEY ALSO SERVE</head>
 <docAuthor n="Baldwin, Faith">Faith Baldwin</docAuthor>
 <lg type="stanza">
@@ -618,7 +592,7 @@ Grateful acknowledgment is expressed to the authors and publishers who have perm
 
 
 <pb n="[19]"/>
-<div id="calendar023" type="poem" n="The Volunteer">
+<div xml:id="calendar023" type="poem" n="The Volunteer">
 <head rend="center">THE VOLUNTEER</head>
 <docAuthor n="Hayne, William Hamilton">William Hamilton Hayne</docAuthor>
 <lg type="stanza">
@@ -646,7 +620,7 @@ Scribner's Magazine.</title>
 
 
 <pb n="[20]"/>
-<div id="calendar024" type="poem" n="Spring in War Time">
+<div xml:id="calendar024" type="poem" n="Spring in War Time">
 <head rend="center">SPRING IN WAR TIME</head>
 <docAuthor n="Wagstaff, Blanche Shoemaker">Blanche Shoemaker Wagstaff</docAuthor>
 <lg type="stanza">
@@ -683,7 +657,7 @@ Scribner's Magazine.</title>
 
 
 <pb n="[21]"/>
-<div id="calendar025" type="poem" n="The Naval Reserves">
+<div xml:id="calendar025" type="poem" n="The Naval Reserves">
 <head rend="center">THE NAVAL RESERVES</head>
 <docAuthor n="Baldwin, Faith">Faith Baldwin</docAuthor>
 <lg type="stanza">
@@ -711,7 +685,7 @@ The All Story Weekly</title>
 
 
 <pb n="[22]"/>
-<div id="calendar026" type="poem" n="To the Mothers">
+<div xml:id="calendar026" type="poem" n="To the Mothers">
 <head rend="center">TO THE MOTHERS</head>
 <docAuthor n="Smith, Marion Couthoy">Marion Couthoy Smith</docAuthor>
 <lg type="stanza">
@@ -751,7 +725,7 @@ The All Story Weekly</title>
 
 
 <pb n="[23]"/>
-<div id="calendar027" type="poem" n="To a Flower, Blooming on a Battlefield in France">
+<div xml:id="calendar027" type="poem" n="To a Flower, Blooming on a Battlefield in France">
 <head rend="center">TO A FLOWER, BLOOMING ON A BATTLEFIELD IN FRANCE</head>
 <docAuthor n="Wachter, Carl">Carl Wachter</docAuthor>
 <lg type="stanza">
@@ -768,7 +742,7 @@ The All Story Weekly</title>
 
 
 <pb n="[24]"/>
-<div id="calendar028" type="poem" n="To Those in Nameless Graves">
+<div xml:id="calendar028" type="poem" n="To Those in Nameless Graves">
 <head rend="center">TO THOSE IN NAMELESS GRAVES</head>
 <docAuthor n="Houzeau, L.">L. Houzeau</docAuthor>
 <lg type="stanza">
@@ -792,13 +766,13 @@ The All Story Weekly</title>
 <l>On earth they nobly did their share</l>
 <l rend="indent">When they for home and country fell.</l></lg>
 <byline>-- L. Houzeau.<lb/>
-<title>La Libert&eacute; (Paris).</title>
+<title>La Liberté (Paris).</title>
 </byline>
 </div>
 
 
 <pb n="[25]"/>
-<div id="calendar029" type="poem" n="The Lark">
+<div xml:id="calendar029" type="poem" n="The Lark">
 <head rend="center">THE LARK</head>
 <docAuthor n="Service, Robert W.">Robert W. Service</docAuthor>
 <lg type="stanza">
@@ -838,7 +812,7 @@ The All Story Weekly</title>
 
 
 <pb n="[26]"/>
-<div id="calendar030" type="poem" n="The Stars and Stripes">
+<div xml:id="calendar030" type="poem" n="The Stars and Stripes">
 <head rend="center">THE STARS AND STRIPES</head>
 <docAuthor n="Garrison, Theodosia">Theodosia Garrison</docAuthor>
 <lg type="stanza">
@@ -869,7 +843,7 @@ The All Story Weekly</title>
 
 
 <pb n="[27]"/>
-<div id="calendar031" type="poem" n="The Vigil">
+<div xml:id="calendar031" type="poem" n="The Vigil">
 <head rend="center">THE VIGIL</head>
 <docAuthor n="Andrews, Mary Raymond Shipman">Mary Raymond Shipman Andrews</docAuthor>
 <lg type="stanza">
@@ -908,7 +882,7 @@ The All Story Weekly</title>
 
 
 <pb n="[29]"/>
-<div id="calendar033" type="poem" n="Our Country">
+<div xml:id="calendar033" type="poem" n="Our Country">
 <head rend="center">OUR COUNTRY</head>
 <docAuthor n="Stanton, Frank L.">Frank L. Stanton</docAuthor>
 <lg type="stanza">
@@ -945,7 +919,7 @@ The All Story Weekly</title>
 
 
 <pb n="[31]"/>
-<div id="calendar035" type="poem" n="'The Poet of the Foreign Legion'">
+<div xml:id="calendar035" type="poem" n="'The Poet of the Foreign Legion'">
 <head rend="center">"THE POET OF THE FOREIGN LEGION"</head>
 <docAuthor n="Miller, J. Corson">J. Corson Miller</docAuthor><note rend="center"><hi rend="italic">Alan Seeger, American soldier-poet, killed in action at Belloy-en-Santerre, France, July 4th, 1916.</hi></note>
 
@@ -981,7 +955,7 @@ The All Story Weekly</title>
 
 
 <pb n="[32]"/>
-<div id="calendar036" type="poem" n="'Buttadeus'">
+<div xml:id="calendar036" type="poem" n="'Buttadeus'">
 <head rend="center">"BUTTADEUS"</head>
 <head rend="center"><hi rend="italic">(The Peace of God)</hi></head>
 <docAuthor n="Johnson, William Samuel">William Samuel Johnson</docAuthor>
@@ -1020,8 +994,8 @@ The All Story Weekly</title>
 
 
 <pb n="[34]"/>
-<div id="calendar038" type="poem" n="Li&egrave;ge">
-<head rend="center">LI&Egrave;GE</head>
+<div xml:id="calendar038" type="poem" n="Liège">
+   <head rend="center">LIÈGE</head>
 <docAuthor n="Watson, William">William Watson</docAuthor>
 <lg type="stanza">
 <l n="1">Betwixt the Foe and France was she --</l>
@@ -1061,7 +1035,7 @@ Arising out of the War. <lb/>
 
 
 <pb n="[35]"/>
-<div id="calendar039" type="poem" n="Better to Die">
+<div xml:id="calendar039" type="poem" n="Better to Die">
 <head rend="center">BETTER TO DIE</head>
 <docAuthor n="Coates, Florence Earle">Florence Earle Coates</docAuthor>
 <lg type="stanza">
@@ -1091,7 +1065,7 @@ Arising out of the War. <lb/>
 
 
 <pb n="[36]"/>
-<div id="calendar040" type="poem" n="Germany">
+<div xml:id="calendar040" type="poem" n="Germany">
 <head rend="center">GERMANY</head>
 <docAuthor n="Marion Couthouy Smith">Marion Couthouy Smith</docAuthor>
 <lg type="stanza">
@@ -1130,7 +1104,7 @@ Arising out of the War. <lb/>
 
 
 <pb n="[37]"/>
-<div id="calendar041" type="poem" n="The German-American">
+<div xml:id="calendar041" type="poem" n="The German-American">
 <head rend="center">THE GERMAN-AMERICAN</head>
 <docAuthor n="Bates, Katharine Lee">Katharine Lee Bates</docAuthor>
 <lg type="stanza">
@@ -1164,7 +1138,7 @@ Arising out of the War. <lb/>
 
 
 <pb n="[38]"/>
-<div id="calendar042" type="poem" n="The Road to France">
+<div xml:id="calendar042" type="poem" n="The Road to France">
 <head rend="center">THE ROAD TO FRANCE</head>
 <docAuthor n="Henderson, Daniel M.">Daniel M. Henderson</docAuthor>
 <lg type="stanza">
@@ -1214,7 +1188,7 @@ Prize War Poem.</title>
 
 
 <pb n="[39]"/>
-<div id="calendar043" type="poem" n="A Woman of Paris">
+<div xml:id="calendar043" type="poem" n="A Woman of Paris">
 <head rend="center">A WOMAN OF PARIS</head>
 <head rend="center"><hi rend="italic">(September, 1914)</hi></head>
 <docAuthor n="Proctor, Edna Dean">Edna Dean Proctor</docAuthor>
@@ -1258,13 +1232,13 @@ Prize War Poem.</title>
 
 
 <pb n="[40]"/>
-<div id="calendar044" type="poem" n="The Smile of Rheims">
+<div xml:id="calendar044" type="poem" n="The Smile of Rheims">
 <head rend="center">THE SMILE OF RHEIMS</head>
 <docAuthor n="Coates, Florence Earle">Florence Earle Coates</docAuthor>
 <lg type="stanza">
 <l n="1">"The Smile," they called her -- "La Sourire"; and fair --</l>
 <l rend="indent">A sculptured angel on the northern door</l>
-<l rend="indent">Of the Cathedral's west fa&ccedil;ade -- she wore</l>
+<l rend="indent">Of the Cathedral's west façade -- she wore</l>
 <l>Through the long centuries of toil and care</l>
 <l>That smile, mysteriously wrought and rare,</l>
 <l rend="indent">As if she saw brave visions evermore --</l>
@@ -1289,7 +1263,7 @@ Prize War Poem.</title>
 
 
 <pb n="[42]"/>
-<div id="calendar046" type="poem" n="The Recruit">
+<div xml:id="calendar046" type="poem" n="The Recruit">
 <head rend="center">THE RECRUIT</head>
 <docAuthor n="Helen A. Saxon">Helen A. Saxon</docAuthor>
 <lg type="stanza">
@@ -1322,7 +1296,7 @@ Prize War Poem.</title>
 
 
 <pb n="[43]"/>
-<div id="calendar047" type="poem" n="Indian Summer">
+<div xml:id="calendar047" type="poem" n="Indian Summer">
 <head rend="center">INDIAN SUMMER</head>
 <docAuthor n="Tynan, Katharine">Katharine Tynan</docAuthor>
 <lg type="stanza">
@@ -1352,7 +1326,7 @@ Prize War Poem.</title>
 
 
 <pb n="[44]"/>
-<div id="calendar048" type="poem" n="Edith Cavell">
+<div xml:id="calendar048" type="poem" n="Edith Cavell">
 <head rend="center">EDITH CAVELL</head>
 <docAuthor n="George Edward Woodberry">George Edward Woodberry</docAuthor>
 <lg type="stanza">
@@ -1381,7 +1355,7 @@ Anthology of Magazine Verse.</title>
 
 
 <pb n="[45]"/>
-<div id="calendar049" type="poem" n="Song of the Belgians">
+<div xml:id="calendar049" type="poem" n="Song of the Belgians">
 <head rend="center">SONG OF THE BELGIANS</head>
 <docAuthor n="Cammaerts, Emile">Emile Cammaerts</docAuthor>
 <lg type="stanza">
@@ -1422,7 +1396,7 @@ of Kedleston. (John Lane Co.)</title>
 
 
 <pb n="[46]"/>
-<div id="calendar050" type="poem" n="'L'Envoi'">
+<div xml:id="calendar050" type="poem" n="'L'Envoi'">
 <head rend="center">"L'ENVOI"</head>
 <docAuthor n="Robert W. Service">Robert W. Service</docAuthor>
 <milestone unit="stanza" rend="stars"/>
@@ -1450,7 +1424,7 @@ of Kedleston. (John Lane Co.)</title>
 
 
 <pb n="[48]"/>
-<div id="calendar052" type="poem" n="After the War">
+<div xml:id="calendar052" type="poem" n="After the War">
 <head rend="center">AFTER THE WAR</head>
 <docAuthor n="Le Gallienne, Richard">Richard Le Gallienne</docAuthor>
 <lg type="stanza">
@@ -1493,7 +1467,7 @@ of Kedleston. (John Lane Co.)</title>
 
 
 <pb n="[50]"/>
-<div id="calendar054" type="poem" n="The Winds of God">
+<div xml:id="calendar054" type="poem" n="The Winds of God">
 <head rend="center">THE WINDS OF GOD</head>
 <docAuthor n="Clinton Scollard">Clinton Scollard</docAuthor>
 <lg type="stanza">
@@ -1533,7 +1507,7 @@ of Kedleston. (John Lane Co.)</title>
 
 
 <pb n="[54]"/>
-<div id="calendar058" type="poem" n="Christmas Eve, 1914">
+<div xml:id="calendar058" type="poem" n="Christmas Eve, 1914">
 <head rend="center">CHRISTMAS EVE, 1914</head>
 <docAuthor n="Eliot, Frederick M.">Frederick M. Eliot</docAuthor>
 <lg type="stanza">
@@ -1548,7 +1522,7 @@ of Kedleston. (John Lane Co.)</title>
 
 <lg>
 <l>Silent, to-night, is Bethlehem:</l>
-<l rend="indent">Along the hush&egrave;d ways</l>
+   <l rend="indent">Along the hushèd ways</l>
 <l>No eager feet of worshippers,</l>
 <l rend="indent">No melodies of praise;</l>
 <l>Yet, in the quietness that fills</l>
@@ -1571,4 +1545,4 @@ of Kedleston. (John Lane Co.)</title>
 </div>
 </body>
 </text>
-</TEI.2>
+</TEI>

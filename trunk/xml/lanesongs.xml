@@ -1,20 +1,15 @@
-<TEI.2>
-   <teiHeader>
-      <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader><fileDesc>
          <titleStmt>
             <title>POEMS: Electronic Edition</title>
-            <author><name type="person" reg="Lane, John">John Lane ed. </name></author>
+            <author><name type="person"><choice> <reg>Lane, John</reg><orig>John Lane ed.</orig> </choice></name></author>
          </titleStmt>
-	 <publicationStmt>
-	   <publisher>Lewis H. Beck Center for Electronic Collections
-	   and Services, Emory University</publisher>
-	   <pubPlace>Atlanta, GA</pubPlace>
-	   <address>
+	 <publicationStmt><publisher>Lewis H. Beck Center for Electronic Collections
+	   and Services, Emory University</publisher><pubPlace>Atlanta, GA</pubPlace><address>
 	     <addrLine>540 Asbury Circle</addrLine>
 	     <addrLine>Woodruff Library</addrLine>
 	     <addrLine>Atlanta, GA 30322</addrLine>
-	   </address>
-	   <availability><p>&#x00A9;Emory University. Permission is
+	   </address><availability><p>©Emory University. Permission is
 	   granted to download, transmit, or otherwise reproduce,
 	   distribute or display the contributions to the work claimed
 	   by Emory University for non-profit educational purposes,
@@ -23,13 +18,11 @@
 	   for Jewish Studies, Emory University, Atlanta GA 30322 or
 	   the Lewis H. Beck Center for Electronic Collections and
 	   Services, Woodruff Library, Emory University, Atlanta,
-	   Georgia 30322 </p></availability> 
-	   <date>2004</date>
-	 </publicationStmt>
+	   Georgia 30322 </p></availability><date>2004</date></publicationStmt>
 	 <seriesStmt>
 	   <title>Great War</title>
 	 </seriesStmt>
-	 <notesStmt><note></note></notesStmt>
+	 <notesStmt><note/></notesStmt>
          <sourceDesc>
             <bibl>
 	     <title>Songs and Sonnets for England in War Time: Being a Collection of Lyrics by Various Authors Inspired by the Great War</title>
@@ -41,36 +34,28 @@
 	     <date>1919</date>
 	   </bibl>
          </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
+      </fileDesc><encodingDesc>
 	<projectDesc><p>Poetry contemporary to World War I (the Great
 	War) has been digitized by OCR or rekeying. The work has been
 	done in conjunction with Dr. Harry Rusche of the English
 	Department, Emory University</p></projectDesc>
-	<tagsDecl>
-	  <rendition id="quote">Paragraphs including q or quote
+	<tagsDecl><rendition xml:id="quote">Paragraphs including q or quote
 	  elements indicate material that is in a block
-	  quote.</rendition>
-	  <rendition id="title">Where the title of a work is
+	  quote.</rendition><rendition xml:id="title">Where the title of a work is
 	  italicized, it is marked with a title element, both in the
-	  text and in footnotes.</rendition>
-	  <tagUsage gi="q" render="quote">blockquote</tagUsage>
-	  <tagUsage gi="quote" render="quote">blockquote</tagUsage>
-	  <tagUsage gi="title" render="title">italic</tagUsage>
-	</tagsDecl>
+	  text and in footnotes.</rendition><namespace name="http://www.tei-c.org/ns/1.0"><tagUsage gi="q" render="#quote">blockquote</tagUsage><tagUsage gi="quote" render="#quote">blockquote</tagUsage><tagUsage gi="title" render="#title">italic</tagUsage></namespace></tagsDecl>
 	<refsDecl><p>The page numbers of the volumes are indicated by
 	page break elements</p>
-	<p></p>
+	<p/>
 	</refsDecl>
 	<classDecl>
-	  <taxonomy id="lcsh">
+	  <taxonomy xml:id="lcsh">
 	    <bibl>
 	      <title>Library of Congress Subject Headings</title>
 	    </bibl>
 	  </taxonomy>
 	</classDecl>
-      </encodingDesc>
-      <profileDesc>
+      </encodingDesc><profileDesc>
          <creation>
 	   <rs type="collection">poetry</rs>
 	   <rs type="language">English</rs>
@@ -81,32 +66,21 @@
             <date>1900-1999</date>
          </creation>
 	 <textClass>
-	   <keywords scheme="lcsh">
+	   <keywords scheme="#lcsh">
 	     <list>
 	       <item>World War, 1914-1918--Poetry.</item>
 	       <item>English poetry--20th Century.</item>
 	       <item>War.</item>
 	     </list>
 	   </keywords>
-	 </textClass></profileDesc>
-      <revisionDesc><!-- add your information here -->
-	<change>
-	  <date>2009</date>
-	  <respStmt>
-	    <name>Shruthi Vissa</name>
-	    <resp>Beck Center staff</resp>
-	  </respStmt>
-	    <item>Proofing, encoding</item>
-	</change>
-      </revisionDesc>
-   </teiHeader>
+	 </textClass></profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><!-- add your information here --><change><date>2009</date><label>Beck Center staff</label><name>Shruthi Vissa</name>Proofing, encoding</change></revisionDesc></teiHeader>
 <text>
 <front>
 
 <pb n="i"/>
-<titlePage id="lanesongs000" type="half">
+<titlePage xml:id="lanesongs000" type="half">
      <docTitle>
-       <titlePart type="main">SONGS &#x0026; SONNETS<lb/>FOR ENGLAND IN<lb/>WAR TIME</titlePart>
+       <titlePart type="main">SONGS &amp; SONNETS<lb/>FOR ENGLAND IN<lb/>WAR TIME</titlePart>
      </docTitle>
    </titlePage>
 
@@ -114,7 +88,7 @@
 <!--?????not sure what to call this page.-->
 
 <pb n="[iii]"/>
-<titlePage id="lanesongs0001" type="full">
+<titlePage xml:id="lanesongs0001" type="full">
      <docTitle>
        <titlePart type="main">SONGS AND SONNETS<lb/>FOR ENGLAND IN<lb/>WAR TIME</titlePart>
 <titlePart type="sub">BEING A COLLECTION OF LYRICS<lb/>BY VARIOUS AUTHORS INSPIRED BY<lb/>THE GREAT WAR</titlePart>
@@ -131,17 +105,17 @@
 	 <publisher>JOHN LANE COMPANY,</publisher>
 <pubPlace> TORONTO:</pubPlace>
  <publisher> BELL AND COCKBURN</publisher>
-	 <docDate>MCMXIV [1914]</docDate>
+	 
        </docImprint>
    </titlePage>
 
 <pb n="iv"/>
-<div type="colophon" id="fm2">
+<div type="colophon" xml:id="fm2">
 <p>THE BALLANTYNE PRESS TAVISTOCK STREET COVENT GARDEN LONDON</p>
 </div>
 
 <pb n="v"/>
-<div type="introduction" id="fm3">
+<div type="introduction" xml:id="fm3">
 <head>INTRODUCTION</head>
 
 <p>In the stress of a nation's peril some of its greatest songs are born. In the stress of a nation's peril the poet at last comes into his own again, and with clarion call he rouses the sleeping soul of the empire. Prophet he is, champion and consoler.</p>
@@ -167,7 +141,7 @@ soldier ready for the ultimate sacrifice, cheered on his way by the lilt of a hu
 </div>
 
 
-<div id="fm4" type="publisher's note">
+<div xml:id="fm4" type="publishersnote">
 <head>PUBLISHER'S NOTE</head>
 
 <p>Of our poets who have been inspired to write and publish separate
@@ -204,18 +178,17 @@ poem's appearance in one collection only. In this way the public may
 be induced to buy the various collections rather than any particular
 one.</p>
 
-<p>Viscount Dillon sends me the following, taken from <hi
-rend="italic">La France du Nord</hi> of August 23. These lines, by a
+<p>Viscount Dillon sends me the following, taken from <hi rend="italic">La France du Nord</hi> of August 23. These lines, by a
 poetic ally, who remains anonymous, are as correct in feeling as they
 are ingenious in adapting themselves to the rhythm of our own National
 Anthem.</p>
 
 <pb n="PUBLISHER'S NOTE   ix"/>
 
-<p>
-<text>
+
+<floatingText>
 <body>
-<div id="fm1000" type="poem"  n="1">
+<div xml:id="fm1000" type="poem" n="1">
 <head>WELCOME TO YOU, GALLANT BRITONS</head>
 
 <lg type="stanza">
@@ -234,7 +207,7 @@ Anthem.</p>
 <l rend="inline">And the Russians;</l>
 <l>The Belgians so gallant,</l>
 <l>Who have checked the tyrant</l>
-<l>From Li&#x00E8;ge to Dinant;</l>
+<l>From Liège to Dinant;</l>
 <l rend="inline">Hail to them all!</l>
 </lg>
 
@@ -251,8 +224,8 @@ Anthem.</p>
 <closer><signed><name>G.C.</name></signed></closer>
 </div>
 </body>
-</text>
-</p>
+</floatingText>
+
 
 <pb n="X PUBLISHER'S NOTE"/>
 
@@ -260,16 +233,16 @@ Anthem.</p>
 interest from the fact that the writer has for many years been well
 acquainted with German politics and German statesmen.</p>
 
-<p>
-<text>
+
+<floatingText>
 <body>
-<div id="fm1001" type="poem" n="2">
+<div xml:id="fm1001" type="poem" n="2">
 <head>A PARTNERSHIP</head>
 
 <lg type="stanza">
 <l>God for the Kaiser!    God for the Hun!</l>
 <l>God for the fiercest war ever the sun</l>
-<l>Shone on!--No wonder it hid its face <ref target="p2">1</ref></l>
+<l>Shone on!--No wonder it hid its face <ref target="#p2">1</ref></l>
 <l>When the Kaiser rode forth to his big disgrace.</l>
 </lg>
 
@@ -294,7 +267,7 @@ acquainted with German politics and German statesmen.</p>
 <l>Scatter their bodies abroad for dung.</l>
 </lg>
 
-<note place="foot" id="p2" n="1">The eclipse of the sun.</note>
+<note place="foot" xml:id="p2" n="1">The eclipse of the sun.</note>
 
 <pb n="PUBLISHER'S NOTE  xi"/>
 
@@ -313,8 +286,8 @@ acquainted with German politics and German statesmen.</p>
 </lg>
 </div>
 </body>
-</text>
-</p>
+</floatingText>
+
 
 <p>My thanks are due for the great generosity displayed by all the authors whose poems appear in this volume, and whose names will be found on following pages ;and also to the Editors of the <hi rend="italic">Times, Daily Chronicle, Westminster Gazette, Daily News and Leader, Morning Post, Daily Telegraph, Evening Standard, Daily Express,Pall Mall Gazette, Punch, New Weekly, New Witness, Truth, Saturday Review, T.P.'s Weekly, Yorkshire Post, Glasgow Evening News</hi>, for full permission to reprint the poems that have appeared in their columns.</p>
 
@@ -326,15 +299,15 @@ acquainted with German politics and German statesmen.</p>
 
 </div>
 
-<div id="lanesongsfm5" type="list of authors">
+<div xml:id="lanesongsfm5" type="listofauthors">
 <pb n="[xi]"/>
 <pb n="xiii"/>
-<figure type="lanesongsl1" rend="inline">
+<figure rend="inline">
 <figDesc> Alphabetic list of authors in front of "Songs and Sonnets for England in War Time"</figDesc>
 </figure>
 
 <pb n="xiv"/>
-<figure type="lanesongsl2" rend="inline">
+<figure rend="inline">
 <figDesc> Alphabetic list of authors in front of "Songs and Sonnets for England in War Time"</figDesc>
 </figure>
 </div>
@@ -342,7 +315,7 @@ acquainted with German politics and German statesmen.</p>
 
 <body>
 <pb n="1"/>
-<div id="lanesongs001" type="poem" n="1">
+<div xml:id="lanesongs001" type="poem" n="1">
 <head>TO THE TROUBLER OF THE WORLD</head>
 
 <lg type="stanza">
@@ -365,7 +338,7 @@ acquainted with German politics and German statesmen.</p>
 <dateline><date>Times, August 6, 1914</date></dateline></closer>
 </div>
 
-<div id="lanesongs002" type="poem" n="2">
+<div xml:id="lanesongs002" type="poem" n="2">
 <pb n="2"/>
 <head>TO BRITAIN<lb/>
 (BEFORE HER DECLARATION OF WAR)</head>
@@ -391,7 +364,7 @@ acquainted with German politics and German statesmen.</p>
 
 <pb n="3"/>
 
-<div id="lanesongs003" type="poem" n="3">
+<div xml:id="lanesongs003" type="poem" n="3">
 <head>ARMAGEDDON</head>
 
 <lg type="stanza">
@@ -407,7 +380,7 @@ acquainted with German politics and German statesmen.</p>
 <l>Who break an age in pieces for your play :</l>
 <l>Please God your trampling vanities will jar</l>
 <l>A sleeping giant, and such petty things</l>
-<l>As crowns and C&#x00E6;sars shall at last make way</l>
+<l>As crowns and Cæsars shall at last make way</l>
 <l>Before mankind's Republic, ending war.</l>
 </lg>
 
@@ -421,7 +394,7 @@ acquainted with German politics and German statesmen.</p>
 <pb n="4"/>
 
 
-<div id="lanesongs004" type="poem" n="4">
+<div xml:id="lanesongs004" type="poem" n="4">
 <head>A PRAYER FOR PEACE</head>
 
 <lg type="stanza">
@@ -447,8 +420,8 @@ acquainted with German politics and German statesmen.</p>
 <dateline><date><hi rend="italic">Westminster Gazette, August</hi> 4, 1914</date></dateline></closer>
 </div>
 
-<div id="lanesongs005" type="poem" n="5">
-<div id="lanesongs1000" type="section" n="1">
+<div xml:id="lanesongs005" type="poem" n="5">
+<div xml:id="lanesongs1000" type="section" n="1">
 <pb n="5"/>
 <head>THE SONG OF THE BRITONS</head>
 
@@ -476,7 +449,7 @@ acquainted with German politics and German statesmen.</p>
 
 </div>
 
-<div id="lanesongs1001" type="section" n="2">
+<div xml:id="lanesongs1001" type="section" n="2">
 <pb n="6 THE SONG OF THE BRITONS"/>
 <head>THE LIVING</head>
 
@@ -501,7 +474,7 @@ acquainted with German politics and German statesmen.</p>
 </div>
 
 
-<div id="lanesongs006" type="poem" n="6">
+<div xml:id="lanesongs006" type="poem" n="6">
 <pb n="7"/>
 <head>THE VIGIL</head>
 
@@ -558,7 +531,7 @@ acquainted with German politics and German statesmen.</p>
 </div>
 
 
-<div id="lanesongs007" type="poem" n="7">
+<div xml:id="lanesongs007" type="poem" n="7">
 <pb n="9"/>
 <head>WAR</head>
 
@@ -594,13 +567,13 @@ acquainted with German politics and German statesmen.</p>
 </div>
 
 
-<div id="lanesongs008" type="poem" n="8">
+<div xml:id="lanesongs008" type="poem" n="8">
 <pb n="10"/>
 <head>HYMN AFTER BATTLE</head>
 
 <p>[The Kaiser has been thanking God for his successes; and whilst the Christian nations of Europe are engaged in murdering each other, the heathen, whom they have failed to convert, remain so ignorant of the gospel that they are still living together in peace.]</p>
 
-<div id="mackintosh1002" type="section" n="1">
+<div xml:id="mackintosh1002" type="section" n="1">
 <head>I</head>
 
 <lg type="stanza">
@@ -634,7 +607,7 @@ acquainted with German politics and German statesmen.</p>
 
 </div>
 
-<div id="lanesongs1003" type="section" n="2">
+<div xml:id="lanesongs1003" type="section" n="2">
 <head>II</head>
 
 <lg type="stanza">
@@ -672,7 +645,7 @@ acquainted with German politics and German statesmen.</p>
 </div>
 </div>
 
-<div id="lanesongs009" type="poem" n="9">
+<div xml:id="lanesongs009" type="poem" n="9">
 <pb n="13"/>
 <head>BRITANNIA</head>
 
@@ -716,7 +689,7 @@ acquainted with German politics and German statesmen.</p>
 1914</date></dateline></closer>
 </div>
 
-<div id="lanesongs010" type="poem" n="10">
+<div xml:id="lanesongs010" type="poem" n="10">
 <pb n="15"/>
 <head>THE ANSWER</head>
 
@@ -796,7 +769,7 @@ rest."</l>
 1914</date></dateline></closer>
 </div>
 
-<div id="lanesongs011" type="poem" n="11">
+<div xml:id="lanesongs011" type="poem" n="11">
 <pb n="18  THE KAISER AND BELGIUM"/>
 <head>THE KAISER AND BELGIUM</head>
 
@@ -806,7 +779,7 @@ rest."</l>
 <l>But sudden a dry land caught fire like grass,</l>
 <l rend="inline">And answer hurtled but from shell and steel.</l>
 <l>He looked for silence, but a thunder came;</l>
-<l rend="inline">Upon him from Li&#x00E8;ge a leaden hail.</l>
+<l rend="inline">Upon him from Liège a leaden hail.</l>
 <l>All Belgium flew up at his throat in flame,</l>
 <l rend="inline">Till at her gates amazed his legions quail!</l>
 </lg>
@@ -826,7 +799,7 @@ rest."</l>
 </div>
 
 
-<div id="lanesongs012" type="poem" n="12">
+<div xml:id="lanesongs012" type="poem" n="12">
 <pb n="CANADA TO ENGLAND  19"/>
 <head>CANADA TO ENGLAND</head>
 
@@ -854,11 +827,11 @@ rest."</l>
 </div>
 
 
-<div id="lanesongs013" type="poem" n="13">
+<div xml:id="lanesongs013" type="poem" n="13">
 <pb n=" 20 TO LITTLE BELGIUM"/>
 
 <head>TO "LITTLE" BELGIUM</head>
-<div id="lanesongs1004" type="section" n="1">
+<div xml:id="lanesongs1004" type="section" n="1">
 
 <head>I</head>
 
@@ -887,7 +860,7 @@ rest."</l>
 </lg>
 </div>
 
-<div id="lanesongs1005" type="section" n="2">
+<div xml:id="lanesongs1005" type="section" n="2">
 <pb n="TO  LITTLE  BELGIUM  21"/>
 <head>II</head>
 
@@ -922,7 +895,7 @@ Book)</bibl></q></cit></epigraph>
 </div>
 
 
-<div id="lanesongs014" type="poem" n="14">
+<div xml:id="lanesongs014" type="poem" n="14">
 <pb n="22  THE TRIBUTE"/>
 <head>THE TRIBUTE</head>
 
@@ -978,7 +951,7 @@ swords.</l>
 1914</date></dateline></closer>
 </div>
 
-<div id="lanesongs015" type="poem" n="15">
+<div xml:id="lanesongs015" type="poem" n="15">
 <pb n="24  IN THE RED DAWN"/>
 <head>IN THE RED DAWN</head>
 
@@ -1026,7 +999,7 @@ swords.</l>
 </div>
 
 
-<div id="lanesongs016" type="poem" n="16">
+<div xml:id="lanesongs016" type="poem" n="16">
 <pb n="26  PRO PATRIA"/>
 <head>PRO PATRIA</head>
 
@@ -1100,7 +1073,7 @@ swords.</l>
 1914</date></dateline></closer>
 </div>
 
-<div id="lanesongs017" type="poem" n="17">
+<div xml:id="lanesongs017" type="poem" n="17">
 <pb n="28    THE WAR CRY"/>
 <head>THE WAR CRY</head>
 
@@ -1174,7 +1147,7 @@ through!</hi></l>
 
 </div>
 
-<div id="lanesongs018" type="poem" n="18">
+<div xml:id="lanesongs018" type="poem" n="18">
 <pb n="FRANCE 31"/>
 <head>FRANCE</head>
 
@@ -1221,7 +1194,7 @@ through!</hi></l>
 1914</date></dateline></closer>
 </div>
 
-<div id="lanesongs019" type="poem" n="19">
+<div xml:id="lanesongs019" type="poem" n="19">
 <pb n="TO FRANCE    33"/>
 <head>TO FRANCE</head>
 
@@ -1250,7 +1223,7 @@ through!</hi></l>
 1914</date></dateline></closer>
 </div>
 
-<div id="lanesongs0019" type="poem" n="19">
+<div xml:id="lanesongs0019" type="poem" n="19">
 <pb n="THE HUSH   35"/>
 <head>THE HUSH</head>
 
@@ -1276,7 +1249,7 @@ through!</hi></l>
 1914</date></dateline></closer>
 </div>
 
-<div id="lanesongs00019" type="poem" n="19"> 
+<div xml:id="lanesongs00019" type="poem" n="19"> 
 <pb n="36  ALLITERATIVISM"/>
 <head type="main">ALLITERATIVISM</head>
 <head type="sub">(THE LATEST SCHOOL)</head>
@@ -1330,7 +1303,7 @@ through!</hi></l>
 1914</date></dateline></closer>
 </div>
 
-<div id="lanesongs020" type="poem" n="20">
+<div xml:id="lanesongs020" type="poem" n="20">
 <pb n="38   TO THE AGGRESSOR"/>
 <head>TO THE AGGRESSOR</head>
 
@@ -1357,7 +1330,7 @@ through!</hi></l>
 1914</hi></date></dateline></closer>
 </div>
 
-<div id="lanesongs021" type="poem" n="21">
+<div xml:id="lanesongs021" type="poem" n="21">
 <pb n="EVENING PRAYER"/>
 <head>EVENING PRAYER OF A PEOPLE<lb/>
 SUNDAY, AUGUST 9, 1914</head>
@@ -1408,11 +1381,11 @@ SUNDAY, AUGUST 9, 1914</head>
 </lg>
 
 <closer><signed><name>NEIL MUNRO</name></signed>
-<dateline><date><hi rend="italic">>Glasgow Evening News, August</hi>
+<dateline><date><hi rend="italic">&gt;Glasgow Evening News, August</hi>
 9, 1914</date></dateline></closer>
 </div>
 
-<div id="lanesongs022" type="poem" n="22">
+<div xml:id="lanesongs022" type="poem" n="22">
 <pb n="THE MAN FORSWORN   41"/>
 <head>THE MAN FORSWORN</head>
 
@@ -1546,7 +1519,7 @@ SUNDAY, AUGUST 9, 1914</head>
 1914</date></dateline></closer>
 </div>
 
-<div id="lanesongs023" type="poem" n="23">
+<div xml:id="lanesongs023" type="poem" n="23">
 <pb n="TO THE KING   45"/>
 <head>TO THE KING OF THE BELGIANS</head>
 
@@ -1575,7 +1548,7 @@ SUNDAY, AUGUST 9, 1914</head>
 1914</date></dateline></closer>
 </div>
 
-<div id="lanesongs024" type="poem" n="24">
+<div xml:id="lanesongs024" type="poem" n="24">
 <pb n="46   THE VINDICATION"/>
 <head>THE VINDICATION</head>
 
@@ -1663,7 +1636,7 @@ course of formation.]</p>
 </div>
 
 
-<div id="mackintosh025" type="poem" n="25">
+<div xml:id="mackintosh025" type="poem" n="25">
 <pb n="THE SPIRIT OF ENGLAND    49"/>
 <head>THE SPIRIT OF ENGLAND</head>
 
@@ -1730,7 +1703,7 @@ course of formation.]</p>
 1914</date></dateline></closer>
 </div>
 
-<div id="lanesongs026" type="poem" n="26">
+<div xml:id="lanesongs026" type="poem" n="26">
 <pb n="THE NAVAL RESERVE    51"/>
 <head>THE NAVAL RESERVE</head>
 
@@ -1778,7 +1751,7 @@ course of formation.]</p>
 </div>
 
 
-<div id="lanesongs027" type="poem" n="27">
+<div xml:id="lanesongs027" type="poem" n="27">
 <pb n="ICONOCLASTS    53"/>
 <head>ICONOCLASTES</head>
 
@@ -1879,9 +1852,9 @@ course of formation.]</p>
 
 <lg type="stanza">
 <l>Hierarchies of priests before him</l>
-<l>Moved through ponderous <hi rend="italic">Kriegs-Man&#x00F6;ver</hi>,</l>
+<l>Moved through ponderous <hi rend="italic">Kriegs-Manöver</hi>,</l>
 <l>Headed by the Archimandrite</l>
-<l rend="inline">Of the far-famed Mail&#x00EB;d Fist.</l>
+<l rend="inline">Of the far-famed Mailëd Fist.</l>
 </lg>
 
 <pb n="56                                      ICONOCLASTES"/>
@@ -1890,8 +1863,7 @@ course of formation.]</p>
 <l>O'er the land his spirit brooded :</l>
 <l><hi rend="italic">Renommieren, Schwadronieren</hi></l>
 <l>Were accounted saving graces,</l>
-<l rend="inline">And heel-clicking <hi
-rend="italic">Schneidigkeit</hi>.</l>
+<l rend="inline">And heel-clicking <hi rend="italic">Schneidigkeit</hi>.</l>
 </lg>
 
 <lg type="stanza">
@@ -1941,13 +1913,13 @@ rend="italic">Schneidigkeit</hi>.</l>
 <lg type="stanza">
 <l>Saying, " Let us smash the Idol,</l>
 <l>Pulverize the Moloch-image,</l>
-<l>Exorcize the accurs&#x00EB;d vampire--</l>
+<l>Exorcize the accursëd vampire--</l>
 <l rend="inline">From its menace free the world:</l>
 </lg>
 
 <lg type="stanza">
 <l>" Free ourselves, and free the noble,</l>
-<l>Richly dowered, <hi rend="italic">gem&#x00FC;tlich</hi> nation,</l>
+<l>Richly dowered, <hi rend="italic">gemütlich</hi> nation,</l>
 <l>Doomed by some malign enchantment</l>
 <l rend="inline">To this dire idolatry:</l>
 </lg>
@@ -1973,7 +1945,7 @@ rend="italic">Schneidigkeit</hi>.</l>
 1914</date></dateline></closer>
 </div>
 
-<div id="lanesongs028" type="poem" n="28">
+<div xml:id="lanesongs028" type="poem" n="28">
 <pb n="THE CALL TO ARMS     59"/>
 <head>THE CALL TO ARMS IN OUR<lb/>STREET</head>
 
@@ -2031,7 +2003,7 @@ rend="italic">Schneidigkeit</hi>.</l>
 </div>
 
 
-<div id="lanesongs029" type="poem" n="29">
+<div xml:id="lanesongs029" type="poem" n="29">
 <pb n="TO THE CREW    61"/>
 <head>TO THE CREW OF H.M.S.<lb/>
 <hi rend="italic">BIRMINGHAM</hi></head>
@@ -2080,7 +2052,7 @@ rend="italic">Schneidigkeit</hi>.</l>
 1914</date></dateline></closer>
 </div>
 
-<div id="lanesongs030" type="poem" n="30">
+<div xml:id="lanesongs030" type="poem" n="30">
 <pb n="GERMANIA     63"/>
 <head>GERMANIA</head>
 
@@ -2126,7 +2098,7 @@ rend="italic">Schneidigkeit</hi>.</l>
 1914</date></dateline></closer>
 </div>
 
-<div id="lanesongs031" type="poem" n="31">
+<div xml:id="lanesongs031" type="poem" n="31">
 <pb n="THE CALL     65"/>
 <head>THE CALL</head>
 
@@ -2203,12 +2175,12 @@ rend="italic">Schneidigkeit</hi>.</l>
 <l rend="inline">" This day England expects you all."</l>
 </lg>
 
-<closer><signed><name>R.E. VERN&#x00C8;DE</name></signed>
+<closer><signed><name>R.E. VERNÈDE</name></signed>
 <dateline><date><hi rend="italic">Times, August</hi> 19,
 1914</date></dateline></closer>
 </div>
 
-<div id="lanesongs032" type="poem" n="32">
+<div xml:id="lanesongs032" type="poem" n="32">
 <pb n="68 DIES IRAE"/>
 <head>DIES IRAE<lb/>TO THE GERMAN KAISER</head>
 
@@ -2290,7 +2262,7 @@ rend="italic">Schneidigkeit</hi>.</l>
 1914</date></dateline></closer>
 </div>
 
-<div id="lanesongs0032" type="poem" n="32">
+<div xml:id="lanesongs0032" type="poem" n="32">
 <pb n="TO WOMEN       71"/>
 <head>TO WOMEN</head>
 
@@ -2342,7 +2314,7 @@ rend="italic">Schneidigkeit</hi>.</l>
 20,1914</date></dateline></closer>
 </div>
 
-<div id="lanesongs033" type="poem" n="33">
+<div xml:id="lanesongs033" type="poem" n="33">
 <pb n="TOWARDS THE LIGHT      73"/>
 <head>TOWARDS THE LIGHT</head>
 
@@ -2366,7 +2338,7 @@ rend="italic">Schneidigkeit</hi>.</l>
 1914</date></dateline></closer>
 </div>
 
-<div id="lanesongs034" type="poem" n="34">
+<div xml:id="lanesongs034" type="poem" n="34">
 <pb n="74 ROLL UP!"/>
 <head>ROLL UP!</head>
 
@@ -2424,7 +2396,7 @@ round.</hi></l>
 1914</date></dateline></closer>
 </div>
 
-<div id="lanesongs0034" type="poem" n="34">
+<div xml:id="lanesongs0034" type="poem" n="34">
 <pb n="76"/>
 <lg type="stanza">
 <l>NOT for passion or for power,</l>
@@ -2475,7 +2447,7 @@ round.</hi></l>
 1914</date></dateline></closer>
 </div>
 
-<div id="lanesongs00034" type="poem">
+<div xml:id="lanesongs00034" type="poem">
 <head>TO THE BRITISH ARMY</head>
 <pb n="78    TO THE BRITISH ARMY"/>
 <lg type="stanza">
@@ -2521,7 +2493,7 @@ round.</hi></l>
 </div>
 </div>
 
-<div id="lanesongs035" type="poem" n="35">
+<div xml:id="lanesongs035" type="poem" n="35">
 <pb n="80    REDEMPTION"/>
 <head>REDEMPTION</head>
 
@@ -2547,7 +2519,7 @@ round.</hi></l>
 1914</date></dateline></closer>
 </div>
 
-<div id="lanesongs036" type="poem" n="36">
+<div xml:id="lanesongs036" type="poem" n="36">
 <pb n="A BATTLE SONG 81"/>
 <head>A BATTLE-SONG</head>
 
@@ -2612,7 +2584,7 @@ round.</hi></l>
 1914</date></dateline></closer>
 </div>
 
-<div id="lanesongs037" type="poem" n="37">
+<div xml:id="lanesongs037" type="poem" n="37">
 <pb n="THE KAISER AND GOD 83"/>
 <head>THE KAISER AND GOD</head>
 
@@ -2690,7 +2662,7 @@ souls</hi>.</l>
 1914</date></dateline></closer>
 </div>
 
-<div id="lanesongs038" type="poem" n="38">
+<div xml:id="lanesongs038" type="poem" n="38">
 <pb n="86 THE SHIRKER"/>
 <head type="main">THE SHIRKER</head>
 
@@ -2717,7 +2689,7 @@ souls</hi>.</l>
 1914</date></dateline></closer>
 </div>
 
-<div id="lanesongs039" type="poem" n="39">
+<div xml:id="lanesongs039" type="poem" n="39">
 <pb n="GHOSTS AT BOULOGNE    87"/>
 <head>GHOSTS AT BOULOGNE</head>
 
@@ -2743,7 +2715,7 @@ souls</hi>.</l>
 30,1914</date></dateline></closer>
 </div>
 
-<div id="lanesongs040" type="poem" n="40">
+<div xml:id="lanesongs040" type="poem" n="40">
 <pb n="88   TO THE BELGIANS"/>
 <head>TO THE  BELGIANS<lb/>
 FROM ENGLAND</head>
@@ -2752,7 +2724,7 @@ FROM ENGLAND</head>
 <l>O MEN of mickle heart and little speech,</l>
 <l>Slow, stubborn countrymen of heath and plain,</l>
 <l>Now have ye shown these insolent again</l>
-<l>That which to C&#x00E6;sar's legions ye could teach,</l>
+<l>That which to Cæsar's legions ye could teach,</l>
 <l>That slow-provok'd is long-provok'd.    May each</l>
 <l>Crass Caesar learn this of the Keltic grain,</l>
 <l>Until at last they reckon it in vain</l>
@@ -2772,7 +2744,7 @@ FROM ENGLAND</head>
 9, 1914</date></dateline></closer>
 </div>
 
-<div id="lanesongs041" type="poem" n="41">
+<div xml:id="lanesongs041" type="poem" n="41">
 <pb n="SONG OF THE SOLDIERS 89"/>
 <head>SONG OF THE SOLDIERS</head>
 
@@ -2834,7 +2806,7 @@ FROM ENGLAND</head>
 1914</date></dateline></closer>
 </div>
 
-<div id="lanesongs042" type="poem" n="42">
+<div xml:id="lanesongs042" type="poem" n="42">
 <pb n="A CAP TO FIT THE KAISER 91"/>
 <head>A CAP TO FIT THE KAISER</head>
 
@@ -2854,7 +2826,7 @@ FROM ENGLAND</head>
 <closer><signed><name>THE BISHOP OF LINCOLN</name></signed></closer>
 </div>
 
-<div id="lanesongs043" type="poem" n="43">
+<div xml:id="lanesongs043" type="poem" n="43">
 <pb n="92 FOR ALL WE HAVE AND ARE"/>
 <head>"FOR ALL WE HAVE AND ARE"</head>
 
@@ -2928,7 +2900,7 @@ FROM ENGLAND</head>
 1914</date></dateline></closer>
 </div>
 
-<div id="lanesongs044" type="poem" n="44">
+<div xml:id="lanesongs044" type="poem" n="44">
 <pb n="THE BATTLE OF THE BIGHT 95"/>
 <head>THE BATTLE OF THE BIGHT</head>
 
@@ -2984,8 +2956,4 @@ FROM ENGLAND</head>
 </div>
 </body>
 </text>
-</TEI.2>
-
-
-
-
+</TEI>

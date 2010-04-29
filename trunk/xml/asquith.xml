@@ -1,20 +1,15 @@
-<TEI.2>
-   <teiHeader>
-      <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader><fileDesc>
          <titleStmt>
             <title>The Volunteer and Other Poems: Electronic Edition</title>
-            <author><name type="person" reg="Asquith, Herbert">Herbert Asquith</name></author>
+            <author><name type="person"><choice><reg>Asquith, Herbert</reg><sic>Herbert Asquith</sic></choice></name></author>
          </titleStmt>
-	 <publicationStmt>
-	   <publisher>Lewis H. Beck Center for Electronic Collections
-	   and Services, Emory University</publisher>
-	   <pubPlace>Atlanta, GA</pubPlace>
-	   <address>
+	 <publicationStmt><publisher>Lewis H. Beck Center for Electronic Collections
+	   and Services, Emory University</publisher><pubPlace>Atlanta, GA</pubPlace><address>
 	     <addrLine>540 Asbury Circle</addrLine>
 	     <addrLine>Woodruff Library</addrLine>
 	     <addrLine>Atlanta, GA 30322</addrLine>
-	   </address>
-	   <availability><p>&#x00A9;Emory University. Permission is
+	   </address><availability><p>©Emory University. Permission is
 	   granted to download, transmit, or otherwise reproduce,
 	   distribute or display the contributions to the work claimed
 	   by Emory University for non-profit educational purposes,
@@ -23,52 +18,42 @@
 	   for Jewish Studies, Emory University, Atlanta GA 30322 or
 	   the Lewis H. Beck Center for Electronic Collections and
 	   Services, Woodruff Library, Emory University, Atlanta,
-	   Georgia 30322 </p></availability> 
-	   <date>2004</date>
-	 </publicationStmt>
+	   Georgia 30322 </p></availability><date>2004</date></publicationStmt>
 	 <seriesStmt>
 	   <title>The Great War</title>
 	 </seriesStmt>
-	 <notesStmt><note></note></notesStmt>
+	 <notesStmt><note/></notesStmt>
          <sourceDesc>
             <bibl>
 	     <title>The Volunteer and Other Poems</title>
 	     <author>Herbert Asquith</author>
 	     <pubPlace>London</pubPlace>
-	     <publisher>Sidgwick &#x0026; Jackson</publisher>
+	     <publisher>Sidgwick &amp; Jackson</publisher>
 	     <date>1917</date>
 	   </bibl>
          </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
+      </fileDesc><encodingDesc>
 	<projectDesc><p>Poetry contemporary to World War I (the Great
 	War) has been digitized by OCR or rekeying. The work has been
 	done in conjunction with Dr. Harry Rusche of the English
 	Department, Emory University</p></projectDesc>
-	<tagsDecl>
-	  <rendition id="quote">Paragraphs including q or quote
+	<tagsDecl><rendition xml:id="quote">Paragraphs including q or quote
 	  elements indicate material that is in a block
-	  quote.</rendition>
-	  <rendition id="title">Where the title of a work is
+	  quote.</rendition><rendition xml:id="title">Where the title of a work is
 	  italicized, it is marked with a title element, both in the
-	  text and in footnotes.</rendition>
-	  <tagUsage gi="q" render="quote">blockquote</tagUsage>
-	  <tagUsage gi="quote" render="quote">blockquote</tagUsage>
-	  <tagUsage gi="title" render="title">italic</tagUsage>
-	</tagsDecl>
+	  text and in footnotes.</rendition><namespace name="http://www.tei-c.org/ns/1.0"><tagUsage gi="q" render="#quote">blockquote</tagUsage><tagUsage gi="quote" render="#quote">blockquote</tagUsage><tagUsage gi="title" render="#title">italic</tagUsage></namespace></tagsDecl>
 	<refsDecl><p>The page numbers of the volumes are indicated by
 	page break elements</p>
-	<p></p>
+	<p/>
 	</refsDecl>
 	<classDecl>
-	  <taxonomy id="lcsh">
+	  <taxonomy xml:id="lcsh">
 	    <bibl>
 	      <title>Library of Congress Subject Headings</title>
 	    </bibl>
 	  </taxonomy>
 	</classDecl>
-      </encodingDesc>
-      <profileDesc>
+      </encodingDesc><profileDesc>
          <creation>
 	   <rs type="collection">poetry</rs>
 	   <rs type="language">English</rs>
@@ -79,42 +64,23 @@
             <date>1900-1999</date>
          </creation>
 	 <textClass>
-	   <keywords scheme="lcsh">
+	   <keywords scheme="#lcsh">
 	     <list>
 	       <item>World War, 1914-1918--Poetry.</item>
 	       <item>English poetry--20th Century.</item>
 	       <item>War.</item>
 	     </list>
 	   </keywords>
-	 </textClass></profileDesc>
-      <revisionDesc><!-- add your information here -->
-	<change>
-	  <date>2004</date>
-	  <respStmt>
-	    <name>Josh Klehr</name>
-	    <resp>Beck Center staff</resp>
-	  </respStmt>
-	    <item>encoded according to TEI encoding guidelines</item>
-	</change>
-	<change>
-	  <date>2004</date>
-	  <respStmt>
-	    <name>Alice Hickcox</name>
-	    <resp>Beck Center Staff</resp>
-	  </respStmt>
-	  <item>Header added. Encoding corrected.</item>
-	</change>
-      </revisionDesc>
-   </teiHeader>
+	 </textClass></profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><!-- add your information here --><change><date>2004</date><label>Beck Center staff</label><name>Josh Klehr</name>encoded according to TEI encoding guidelines</change><change><date>2004</date><label>Beck Center Staff</label><name>Alice Hickcox</name>Header added. Encoding corrected.</change></revisionDesc></teiHeader>
 <text>
 <body>
-<div id="asquith01" type="anthology" n ="The Volunteer And Other Poems">
+<div xml:id="asquith01" type="anthology" n="The Volunteer And Other Poems">
    <docAuthor n="Asquith, Herbert">Herbert Asquith</docAuthor>
    <head>The Volunteer And Other Poems</head>
-   <docDate>1917</docDate>
-   <bibl>London: Sidgwick &#x0026; Jackson.</bibl>
+   
+   <bibl>London: Sidgwick &amp; Jackson.</bibl>
 
-<div id="asquith02" type="poem" n="The Volunteer">
+<div xml:id="asquith02" type="poem" n="The Volunteer">
 <head rend="center">THE VOLUNTEER</head>
 
 <lg><l n="1">HERE lies a clerk who half his life had spent</l>
@@ -136,7 +102,7 @@
 <l>Who goes to join the men of Agincourt.<pb n="10"/></l></lg></div>
 
 
-<div id="asquith03" type="poem" n="War's Cataract, 1915">
+<div xml:id="asquith03" type="poem" n="War's Cataract, 1915">
 <head rend="center">WAR'S CATARACT, 1915</head>
 
 <lg><l n="1">In this red havoc of the patient earth,</l>
@@ -156,7 +122,7 @@
 <l>The rainbows climb above to meet the day.<pb n="11"/></l></lg></div>
 
 
-<div id="asquit04h" type="poem" n="On A Troopship">
+<div xml:id="asquit04h" type="poem" n="On A Troopship">
 <head rend="center">ON A TROOPSHIP, 1915</head>
 
 <lg><l n="1">FAREWELL, the village leaning to the hill,</l>
@@ -181,7 +147,7 @@
 <l>We find the haven, where her spirit dwells.<pb n="13"/></l></lg></div>
 
 
-<div id="asquith05" type="poem" n="Ares, God Of War">
+<div xml:id="asquith05" type="poem" n="Ares, God Of War">
 <head rend="center">ARES, GOD OF WAR</head>
 
 <lg><l n="1">UNDER the stars the armies lie asleep: </l>
@@ -256,7 +222,7 @@
 <l>O lord of thunder, Arcs of the crimson mail !<pb n="17"/>"</l></lg></div>
 
 
-<div id="asquith06" type="poem" n="The Western Line">
+<div xml:id="asquith06" type="poem" n="The Western Line">
 <head rend="center">THE WESTERN</head>
 <byline rend="center">FLANDERS, 1915.</byline>
 
@@ -326,7 +292,7 @@
 <l rend="indent">To banquet with their foes?<pb n="20"/></l></lg></div>
 
 
-<div id="asquith07" type="poem" n="Sunset.">
+<div xml:id="asquith07" type="poem" n="Sunset.">
 <head rend="center">SUNSET.</head>
 
 <lg><l n="1">HOODED in angry mist, the sun goes down:</l>
@@ -339,7 +305,7 @@
 <l>The laughter lives within the sentry's eyes.<pb n="21"/></l></lg></div>
 
 
-<div id="asquith08" type="poem" n="After The Salvo">
+<div xml:id="asquith08" type="poem" n="After The Salvo">
 <head rend="center">AFTER THE SALVO.</head>
 
 <lg><l n="1">UP and down, up and down </l>
@@ -377,7 +343,7 @@
 <lg><l>The nightwind rustles overhead.<pb n="23"/></l></lg></div>
 
 
-<div id="asquith09" type="poem" n="The Fallen Subaltern">
+<div xml:id="asquith09" type="poem" n="The Fallen Subaltern">
 <head rend="center">THE FALLEN SUBALTERN.</head>
 
 <lg><l n="1">THE starshells float above, the bayonets glisten</l>
@@ -406,7 +372,7 @@
 <l>To us, who march upon their burial-ground.<pb n="25"/></l></lg></div>
 
 
-<div id="asquith10" type="poem" n="The Fallen Spire">
+<div xml:id="asquith10" type="poem" n="The Fallen Spire">
 <head rend="center">THE FALLEN SPIRE.<lb/>
 (A FLEMISH VILLAGE).</head>
 
@@ -431,7 +397,7 @@
 <l rend="indent">And settling low upon the listless plains.<pb n="26"/></l></lg></div>
 
 
-<div id="asquith11" type="poem" n="The Fallen Poet">
+<div xml:id="asquith11" type="poem" n="The Fallen Poet">
 <head rend="center">THE FALLEN POET</head>
 
 <lg><l n="1">NOW that the soul has left its throne</l>
@@ -453,7 +419,7 @@
 <l rend="indent">"The dead are near: the dead are near."<pb n="27"/></l></lg></div>
 
 
-<div id="asquith12" type="poem" n="Soldiers At Peace">
+<div xml:id="asquith12" type="poem" n="Soldiers At Peace">
 <head rend="center">SOLDIERS AT PEACE</head>
 <lg><l n="1">Mourn not for these, the children of the spring :</l>
 <l>On Flemish plains and far Aegean sand,</l>
@@ -473,7 +439,7 @@
 
 
 
-<div id="asquith13" type="poem" n="To A Baby Found Paddling Near The Lines">
+<div xml:id="asquith13" type="poem" n="To A Baby Found Paddling Near The Lines">
 <head rend="center">TO A BABY FOUND PADDLING NEAR THE </head>
 
 <lg><l n="1">HAIL! O Baby of the May </l>
@@ -529,7 +495,7 @@
 <l>Playing where the cannon play.<pb n="34"/></l></lg></div>
 
 
-<div id="asquith14" type="poem" n=" Fortune Of War">
+<div xml:id="asquith14" type="poem" n=" Fortune Of War">
 <head rend="center">FORTUNE OF WAR.</head>
 <lg><l n="1">THE far guns boom: shell-struck the church is rolled </l>
 <l>Skyward athunder, dust of rose and gold:</l>
@@ -537,7 +503,7 @@
 <l>The limelight lives: extinguished is the star.<pb n="35"/></l></lg></div>
 
 
-<div id="asquith15" type="poem" n="Jewels. A Young Man To A Merchant">
+<div xml:id="asquith15" type="poem" n="Jewels. A Young Man To A Merchant">
 <head rend="center">JEWELS.<lb/>
 A YOUNG MAN TO A MERCHANT.</head>
 
@@ -577,7 +543,7 @@ A YOUNG MAN TO A MERCHANT.</head>
 <l rend="indent">Or opals of the moon<pb n="37"/></l></lg></div>
 
 
-<div id="asquith16" type="poem" n="Love And Humour">
+<div xml:id="asquith16" type="poem" n="Love And Humour">
 <head rend="center">LOVE AND HUMOUR.</head>
 <lg><l n="1">WHEN first I saw you, in eclipse,</l>
 <l rend="indent">A veil about your head, </l>
@@ -601,8 +567,8 @@ A YOUNG MAN TO A MERCHANT.</head>
 <l>For love, a world of laughter lost.<pb n="38"/></l></lg></div>
 
 
-<div id="asquith17" type="poem" n="The Bather">
-<head rend="center">l>THE BATHER.</head>
+<div xml:id="asquith17" type="poem" n="The Bather">
+<head rend="center">l&gt;THE BATHER.</head>
 
 <lg><l n="1"> THE sea-breeze beating on her brow, </l>
 <l>The foam asurge her shining feet, </l>
@@ -612,7 +578,7 @@ A YOUNG MAN TO A MERCHANT.</head>
 <l>The winged vanguard of the free.<pb n="39"/></l></lg></div>
 
 
-<div id="asquith18" type="poem" n="The Charioteer">
+<div xml:id="asquith18" type="poem" n="The Charioteer">
 <head rend="center">THE CHARIOTEER</head>
 <byline rend="center">(TO A CHILD).</byline>
 
@@ -645,7 +611,7 @@ A YOUNG MAN TO A MERCHANT.</head>
 <l>Be thou so charioted!<pb n="41"/></l></lg></div>
 
 
-<div id="asquith19" type="poem" n="The Silver Birch">
+<div xml:id="asquith19" type="poem" n="The Silver Birch">
 <head rend="center">THE SILVER BIRCH.</head>
 
 <lg><l n="1"> O SILVER one, O silver one,</l>
@@ -669,7 +635,7 @@ A YOUNG MAN TO A MERCHANT.</head>
 <l>I would thy valley were my goal!<pb n="42"/></l></lg></div>
 
 
-<div id="asquith20" type="poem" n="Riding">
+<div xml:id="asquith20" type="poem" n="Riding">
 <head rend="center">RIDING</head>
 
 <lg><l n="1"> FILL up, fill up the stirrup-cup!</l>
@@ -694,7 +660,7 @@ A YOUNG MAN TO A MERCHANT.</head>
 <l rend="indent">Over the brink of the world.<pb n="43"/></l></lg></div>
 
 
-<div id="asquith21" type="poem" n="The Fairy Lover">
+<div xml:id="asquith21" type="poem" n="The Fairy Lover">
 <head rend="center">THE FAIRY LOVER.</head>
 
 <lg><l n="1"> SHE lay beneath an appletree,</l>
@@ -713,7 +679,7 @@ A YOUNG MAN TO A MERCHANT.</head>
 <l rend="indent">He made it toll.<pb n="44"/></l></lg></div>
 
 
-<div id="asquith22" type="poem" n="A Dedication">
+<div xml:id="asquith22" type="poem" n="A Dedication">
 <head rend="center">A DEDICATION</head>
 
 <lg><l n="1"> FRIEND if all these verses die:</l>
@@ -722,7 +688,7 @@ A YOUNG MAN TO A MERCHANT.</head>
 <l>Then that word to you I give.<pb n="45"/></l></lg></div>
 
 
-<div id="asquith23" type="poem" n="Venice">
+<div xml:id="asquith23" type="poem" n="Venice">
 <head rend="center">VENICE</head>
 
 <lg><l n="1"> IN domes of dim and ancient gold, </l>
@@ -784,4 +750,4 @@ A YOUNG MAN TO A MERCHANT.</head>
 </div>
 </body>
 </text>
-</TEI.2>
+</TEI>

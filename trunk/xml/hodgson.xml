@@ -1,21 +1,15 @@
-
-<TEI.2>
-   <teiHeader>
-      <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader><fileDesc>
          <titleStmt>
             <title>POEMS: Electronic Edition</title>
-            <author><name type="person" reg="Hodgson,Ralph">Ralph Hodgson, 1871-1962</name></author>
+            <author><name type="person"><choice><reg>Hodgson,Ralph</reg><sic>Ralph Hodgson, 1871-1962</sic></choice></name></author>
          </titleStmt>
-	 <publicationStmt>
-	   <publisher>Lewis H. Beck Center for Electronic Collections
-	   and Services, Emory University</publisher>
-	   <pubPlace>Atlanta, GA</pubPlace>
-	   <address>
+	 <publicationStmt><publisher>Lewis H. Beck Center for Electronic Collections
+	   and Services, Emory University</publisher><pubPlace>Atlanta, GA</pubPlace><address>
 	     <addrLine>540 Asbury Circle</addrLine>
 	     <addrLine>Woodruff Library</addrLine>
 	     <addrLine>Atlanta, GA 30322</addrLine>
-	   </address>
-	   <availability><p>&#x00A9;Emory University. Permission is
+	   </address><availability><p>©Emory University. Permission is
 	   granted to download, transmit, or otherwise reproduce,
 	   distribute or display the contributions to the work claimed
 	   by Emory University for non-profit educational purposes,
@@ -24,13 +18,11 @@
 	   for Jewish Studies, Emory University, Atlanta GA 30322 or
 	   the Lewis H. Beck Center for Electronic Collections and
 	   Services, Woodruff Library, Emory University, Atlanta,
-	   Georgia 30322 </p></availability> 
-	   <date>2004</date>
-	 </publicationStmt>
+	   Georgia 30322 </p></availability><date>2004</date></publicationStmt>
 	 <seriesStmt>
 	   <title>The Great War</title>
 	 </seriesStmt>
-	 <notesStmt><note></note></notesStmt>
+	 <notesStmt><note/></notesStmt>
          <sourceDesc>
             <bibl>
 	     <title>POEMS</title>
@@ -40,36 +32,28 @@
 	     <date>1924</date>
 	   </bibl>
          </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
+      </fileDesc><encodingDesc>
 	<projectDesc><p>Poetry contemporary to World War I (the Great
 	War) has been digitized by OCR or rekeying. The work has been
 	done in conjunction with Dr. Harry Rusche of the English
 	Department, Emory University</p></projectDesc>
-	<tagsDecl>
-	  <rendition id="quote">Paragraphs including q or quote
+	<tagsDecl><rendition xml:id="quote">Paragraphs including q or quote
 	  elements indicate material that is in a block
-	  quote.</rendition>
-	  <rendition id="title">Where the title of a work is
+	  quote.</rendition><rendition xml:id="title">Where the title of a work is
 	  italicized, it is marked with a title element, both in the
-	  text and in footnotes.</rendition>
-	  <tagUsage gi="q" render="quote">blockquote</tagUsage>
-	  <tagUsage gi="quote" render="quote">blockquote</tagUsage>
-	  <tagUsage gi="title" render="title">italic</tagUsage>
-	</tagsDecl>
+	  text and in footnotes.</rendition><namespace name="http://www.tei-c.org/ns/1.0"><tagUsage gi="q" render="#quote">blockquote</tagUsage><tagUsage gi="quote" render="#quote">blockquote</tagUsage><tagUsage gi="title" render="#title">italic</tagUsage></namespace></tagsDecl>
 	<refsDecl><p>The page numbers of the volumes are indicated by
 	page break elements</p>
-	<p></p>
+	<p/>
 	</refsDecl>
 	<classDecl>
-	  <taxonomy id="lcsh">
+	  <taxonomy xml:id="lcsh">
 	    <bibl>
 	      <title>Library of Congress Subject Headings</title>
 	    </bibl>
 	  </taxonomy>
 	</classDecl>
-      </encodingDesc>
-      <profileDesc>
+      </encodingDesc><profileDesc>
          <creation>
 	   <rs type="collection">poetry</rs>
 	   <rs type="language">English</rs>
@@ -80,32 +64,21 @@
             <date>1900-1999</date>
          </creation>
 	 <textClass>
-	   <keywords scheme="lcsh">
+	   <keywords scheme="#lcsh">
 	     <list>
 	       <item>World War, 1914-1918--Poetry.</item>
 	       <item>English poetry--20th Century.</item>
 	       <item>War.</item>
 	     </list>
 	   </keywords>
-	 </textClass></profileDesc>
-      <revisionDesc><!-- add your information here -->
-	<change>
-	  <date>2009</date>
-	  <respStmt>
-	    <name>Shruthi Vissa</name>
-	    <resp>Beck Center staff</resp>
-	  </respStmt>
-	    <item>Proofing, encoding</item>
-	</change>
-      </revisionDesc>
-   </teiHeader>
+	 </textClass></profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><!-- add your information here --><change><date>2009</date><label>Beck Center staff</label><name>Shruthi Vissa</name>Proofing, encoding</change></revisionDesc></teiHeader>
 <text>
 <front>
 
-<pb n=""/>
+
 <pb n="[i]"/>
 
-<titlePage id="Hodgson100" type="half">
+<titlePage xml:id="Hodgson100" type="half">
      <docTitle>
        <titlePart type="main">POEMS
        </titlePart>
@@ -113,7 +86,7 @@
    </titlePage>
 <pb n="[ii]"/>
 
-<div id="hodgson101" type="imprint">
+<div xml:id="hodgson101" type="imprint">
 <figure type="hodgsonfm1" rend="inline">
 <figDesc> Imprint included in front matter of Hodgson's "Poems"</figDesc>
 </figure>
@@ -121,7 +94,7 @@
 
 <pb n="[iii]"/>
 
-   <titlePage id="binns102" type="full">
+   <titlePage xml:id="binns102" type="full">
      <docTitle>
        <titlePart type="main">POEMS</titlePart>
      </docTitle>
@@ -129,40 +102,40 @@
        <docImprint>
 	 <pubPlace>NEW YORK</pubPlace>
 	 <publisher>THE MACMILLAN COMPANY</publisher>
-	 <docDate>1924</docDate>
+	 
        </docImprint>
    </titlePage>
 
 <pb n="iv"/>
-<div id="hodgson103" type="copyright">
+<div xml:id="hodgson103" type="copyright">
 <figure type="hodgsonfm2" rend="inline">
 <figDesc> Image of copyright claim at front of Hogdson's "Poems"</figDesc>
 </figure>
 </div>
 
 <pb n="[v]"/>
-<div id="hodgson104" type="dedication">
+<div xml:id="hodgson104" type="dedication">
 <p> TO </p>
 <p>MY MOTHER</p>
 </div>
 
 <pb n="[vi]"/>
 <pb n="[vii]"/>
-<div id="hodgson105" type="table of contents">
+<div xml:id="hodgson105" type="tableofcontents">
 <figure type="hodgsontc1" rend="inline">
 <figDesc> Table of contents included in front matter of Hodgson's "Poems"</figDesc>
 </figure>
 </div>
 
 <pb n="viii"/>
-<div id="hodgson106" type="table of contents">
+<div xml:id="hodgson106" type="tableofcontents">
 <figure type="hodgsontc2" rend="inline">
 <figDesc> Table of contents included in front matter of Hodgson's "Poems"</figDesc>
 </figure>
 </div>
 
 <pb n="[ix]"/>
-<titlePage id="Hodgson107" type="half">
+<titlePage xml:id="Hodgson107" type="half">
      <docTitle>
        <titlePart type="main">POEMS
        </titlePart>
@@ -175,7 +148,7 @@
 
 
 <pb n="[The Gipsy Girl  1]"/>
-<div id="hodgson001" type="poem" n="1">
+<div xml:id="hodgson001" type="poem" n="1">
 <head rend="center">THE GIPSY GIRL</head>
 
 <lg type="stanza">
@@ -213,7 +186,7 @@
 </lg>
 </div>
 
-<div id="hodgson002" type="poem" n="2">
+<div xml:id="hodgson002" type="poem" n="2">
 <pb n="[A SONG  3]"/>
 <head rend="center">A SONG</head>
 <lg type="stanza">
@@ -234,7 +207,7 @@
 </lg>
 </div>
 
-<div id="hodgson003" type="poem" n="3">
+<div xml:id="hodgson003" type="poem" n="3">
 <pb n="[4 TIME, YOU OLD GIPSY MAN]"/>
 <head rend="center">TIME, YOU OLD GIPSY MAN</head>
 <lg type="stanza">
@@ -284,7 +257,7 @@
 </lg>
 </div>
 
-<div id="hodgson004" type="poem" n="4">
+<div xml:id="hodgson004" type="poem" n="4">
 <pb n="[6 GHOUL CARE]"/>
 <head rend="center">GHOUL CARE</head>
 <lg type="stanza">
@@ -332,7 +305,7 @@
 </div>
 
 
-<div id="hodgson005" type="poem" n="5">
+<div xml:id="hodgson005" type="poem" n="5">
 <pb n="[8 EVE]"/>
 <head rend="center">EVE</head>
 <lg type="stanza">
@@ -434,7 +407,7 @@
 </lg>
 </div>
 
-<div id="hodgson006" type="poem" n="6">
+<div xml:id="hodgson006" type="poem" n="6">
 <pb n="[12   THE SONG OF HONOUR]"/>
 <head rend="center">THE SONG OF HONOUR</head>
 <lg type="stanza">
@@ -742,7 +715,7 @@
 </lg>
 </div>
 
-<div id="hodgson007" type="poem" n="7">
+<div xml:id="hodgson007" type="poem" n="7">
 <pb n="[THE MYSTERY  23]"/>
 <head rend="center">THE MYSTERY</head>
 
@@ -760,7 +733,7 @@
 </lg>
 </div>
 
-<div id="hodgson008" type="poem" n="8">
+<div xml:id="hodgson008" type="poem" n="8">
 <pb n="[24 STUPIDITY STREET]"/>
 <head rend="center">STUPIDITY STREET</head>
 <lg type="stanza">
@@ -782,7 +755,7 @@
 </lg>
 </div>
 
-<div id="hodgson009" type="poem" n="9">
+<div xml:id="hodgson009" type="poem" n="9">
 <pb n="[THE BELLS OF HEAVEN  25]"/>
 <head rend="center">THE BELLS OF HEAVEN</head>
 <lg type="stanza">
@@ -799,7 +772,7 @@
 </lg>
 </div>
 
-<div id="hodgson010" type="poem" n="10">
+<div xml:id="hodgson010" type="poem" n="10">
 <pb n=" 26  THE JOURNEYMAN "/>
 <head rend="center">THE JOURNEYMAN</head>
 <lg type="stanza">
@@ -832,7 +805,7 @@
 </lg>
 </div>
 
-<div id="hodgson011" type="poem" n="11">
+<div xml:id="hodgson011" type="poem" n="11">
 <pb n="[28  THE BULL]"/>
 <head rend="center">THE BULL</head>
 <lg type="stanza">
@@ -1116,7 +1089,7 @@
 </lg>
 </div>
 
-<div id="hodgson012" type="poem" n="12">
+<div xml:id="hodgson012" type="poem" n="12">
 <pb n="[PLAYMATES 37]"/>
 <head rend="center">PLAYMATES</head>
 <lg type="stanza">
@@ -1143,7 +1116,7 @@
 <l>The minute we grow up too big to play"------</l></lg></div>
 
 
-<div id="hodgson013" type="poem" n="13">
+<div xml:id="hodgson013" type="poem" n="13">
 <pb n="[THE HOUSE ACROSS THE WAY   39]"/>
 <head rend="center">THE HOUSE ACROSS<lb/>THE WAY</head>
 <lg type="stanza">
@@ -1176,7 +1149,7 @@
 
 
 
-<div id="hodgson014" type="poem" n="14">
+<div xml:id="hodgson014" type="poem" n="14">
 <pb n="[THE BEGGAR  41]"/>
 <head rend="center">THE BEGGAR</head>
 <lg type="stanza">
@@ -1191,7 +1164,7 @@
 </div>
 
 
-<div id="hodgson015" type="poem" n="15">
+<div xml:id="hodgson015" type="poem" n="15">
 <pb n="[42  BABYLON]"/>
 <head rend="center">BABYLON</head>
 <lg type="stanza">
@@ -1250,7 +1223,7 @@
 <l>In its proper time and way</l>
 <l>Will take her to itself again.</l></lg></div>
 
-<div id="hodgson0015" type="poem" n="15">
+<div xml:id="hodgson0015" type="poem" n="15">
 <pb n="[44  THE MOOR]"/>
 <head rend="center">THE MOOR</head>
 <lg type="stanza">
@@ -1280,7 +1253,7 @@
 </lg>
 </div>
 
-<div id="hodgson016" type="poem" n="16">
+<div xml:id="hodgson016" type="poem" n="16">
 <pb n="[46 FEBRUARY]"/>
 <head rend="center">FEBRUARY</head>
 <lg type="stanza">
@@ -1299,7 +1272,7 @@
 <l>And iron breeds germane.</l></lg>
 </div>
 
-<div id="hodgson017" type="poem" n="17">
+<div xml:id="hodgson017" type="poem" n="17">
 <pb n="[THE LATE, LAST ROOK  47]"/>
 <head rend="center">THE LATE, LAST ROOK</head>
 <lg type="stanza">
@@ -1322,7 +1295,7 @@
 </div>
 
 
-<div id="hodgson018" type="poem" n="18">
+<div xml:id="hodgson018" type="poem" n="18">
 <pb n="[48  THE BIRDCATCHER]"/>
 <head rend="center">THE BIRDCATCHER</head>
 <lg type="stanza">
@@ -1340,7 +1313,7 @@
 </div>
 
 
-<div id="hodgson019" type="poem" n="19">
+<div xml:id="hodgson019" type="poem" n="19">
 <pb n="[THE ROYAL MAILS  49]"/>
 <head rend="center">THE ROYAL MAILS</head>
 <lg type="stanza">
@@ -1557,7 +1530,7 @@
 </lg>
 </div>
 
-<div id="hodgson020" type="poem" n="20">
+<div xml:id="hodgson020" type="poem" n="20">
 <pb n="[THE SWALLOW  57]"/>
 <head rend="center">THE SWALLOW</head>
 
@@ -1574,7 +1547,7 @@
 </lg>
 </div>
 
-<div id="hodgson021" type="poem" n="21">
+<div xml:id="hodgson021" type="poem" n="21">
 <pb n="[58  A WOOD SONG]"/>
 <head rend="center"> A WOOD SONG</head>
 
@@ -1600,7 +1573,7 @@
 </lg>
 </div>
 
-<div id="hodgson022" type="poem" n="22">
+<div xml:id="hodgson022" type="poem" n="22">
 <pb n="[59]"/>
 <lg type="stanza">
 <l>Reason has moons, but moons not hers,</l>
@@ -1625,7 +1598,7 @@
 </lg>
 </div>
 
-<div id="hodgson023" type="poem" n="23">
+<div xml:id="hodgson023" type="poem" n="23">
 <pb n="[60   THE BRIDE]"/>
 <head rend="center">THE BRIDE</head>
 
@@ -1746,7 +1719,7 @@
 </lg>
 </div>
 
-<div id="hodgson024" type="poem" n="24">
+<div xml:id="hodgson024" type="poem" n="24">
 <pb n="[64 AFTER]"/>
 <head rend="center">AFTER</head>
 <lg type="stanza">
@@ -1768,4 +1741,4 @@
 </div>
 </body>
 </text>
-</TEI.2>
+</TEI>

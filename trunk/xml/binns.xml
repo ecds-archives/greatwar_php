@@ -1,20 +1,15 @@
-<TEI.2>
-   <teiHeader>
-      <fileDesc>
+<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader><fileDesc>
          <titleStmt>
             <title>NOVEMBER: Poems in War Time, Electronic Edition</title>
-            <author><name type="person" reg="Binns, Henry Bryan">Henry Bryan Binns, 1873-1923</name></author>
+            <author><name type="person"><choice><reg>Binns, Henry Bryan</reg><sic>Henry Bryan Binns, 1873-1923</sic></choice></name></author>
          </titleStmt>
-	 <publicationStmt>
-	   <publisher>Lewis H. Beck Center for Electronic Collections
-	   and Services, Emory University</publisher>
-	   <pubPlace>Atlanta, GA</pubPlace>
-	   <address>
+	 <publicationStmt><publisher>Lewis H. Beck Center for Electronic Collections
+	   and Services, Emory University</publisher><pubPlace>Atlanta, GA</pubPlace><address>
 	     <addrLine>540 Asbury Circle</addrLine>
 	     <addrLine>Woodruff Library</addrLine>
 	     <addrLine>Atlanta, GA 30322</addrLine>
-	   </address>
-	   <availability><p>&#x00A9;Emory University. Permission is
+	   </address><availability><p>©Emory University. Permission is
 	   granted to download, transmit, or otherwise reproduce,
 	   distribute or display the contributions to the work claimed
 	   by Emory University for non-profit educational purposes,
@@ -23,52 +18,42 @@
 	   for Jewish Studies, Emory University, Atlanta GA 30322 or
 	   the Lewis H. Beck Center for Electronic Collections and
 	   Services, Woodruff Library, Emory University, Atlanta,
-	   Georgia 30322 </p></availability> 
-	   <date>2004</date>
-	 </publicationStmt>
+	   Georgia 30322 </p></availability><date>2004</date></publicationStmt>
 	 <seriesStmt>
 	   <title>The Great War</title>
 	 </seriesStmt>
-	 <notesStmt><note></note></notesStmt>
+	 <notesStmt><note/></notesStmt>
          <sourceDesc>
             <bibl>
 	     <title>NOVEMBER: Poems in War Time</title>
 	     <author>Henry Bryan Binns</author>
 	     <pubPlace>New York</pubPlace>
-	     <publisher>Dodd, Mead &#x0026; Company</publisher>
+	     <publisher>Dodd, Mead &amp; Company</publisher>
 	     <date>1918</date>
 	   </bibl>
          </sourceDesc>
-      </fileDesc>
-      <encodingDesc>
+      </fileDesc><encodingDesc>
 	<projectDesc><p>Poetry contemporary to World War I (the Great
 	War) has been digitized by OCR or rekeying. The work has been
 	done in conjunction with Dr. Harry Rusche of the English
 	Department, Emory University</p></projectDesc>
-	<tagsDecl>
-	  <rendition id="quote">Paragraphs including q or quote
+	<tagsDecl><rendition xml:id="quote">Paragraphs including q or quote
 	  elements indicate material that is in a block
-	  quote.</rendition>
-	  <rendition id="title">Where the title of a work is
+	  quote.</rendition><rendition xml:id="title">Where the title of a work is
 	  italicized, it is marked with a title element, both in the
-	  text and in footnotes.</rendition>
-	  <tagUsage gi="q" render="quote">blockquote</tagUsage>
-	  <tagUsage gi="quote" render="quote">blockquote</tagUsage>
-	  <tagUsage gi="title" render="title">italic</tagUsage>
-	</tagsDecl>
+	  text and in footnotes.</rendition><namespace name="http://www.tei-c.org/ns/1.0"><tagUsage gi="q" render="#quote">blockquote</tagUsage><tagUsage gi="quote" render="#quote">blockquote</tagUsage><tagUsage gi="title" render="#title">italic</tagUsage></namespace></tagsDecl>
 	<refsDecl><p>The page numbers of the volumes are indicated by
 	page break elements</p>
-	<p></p>
+	<p/>
 	</refsDecl>
 	<classDecl>
-	  <taxonomy id="lcsh">
+	  <taxonomy xml:id="lcsh">
 	    <bibl>
 	      <title>Library of Congress Subject Headings</title>
 	    </bibl>
 	  </taxonomy>
 	</classDecl>
-      </encodingDesc>
-      <profileDesc>
+      </encodingDesc><profileDesc>
          <creation>
 	   <rs type="collection">poetry</rs>
 	   <rs type="language">English</rs>
@@ -79,30 +64,19 @@
             <date>1900-1999</date>
          </creation>
 	 <textClass>
-	   <keywords scheme="lcsh">
+	   <keywords scheme="#lcsh">
 	     <list>
 	       <item>World War, 1914-1918--Poetry.</item>
 	       <item>English poetry--20th Century.</item>
 	       <item>War.</item>
 	     </list>
 	   </keywords>
-	 </textClass></profileDesc>
-      <revisionDesc><!-- add your information here -->
-	<change>
-	  <date>2009</date>
-	  <respStmt>
-	    <name>Shruthi Vissa</name>
-	    <resp>Beck Center staff</resp>
-	  </respStmt>
-	    <item>Proofing, encoding</item>
-	</change>
-      </revisionDesc>
-   </teiHeader>
+	 </textClass></profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><!-- add your information here --><change><date>2009</date><label>Beck Center staff</label><name>Shruthi Vissa</name>Proofing, encoding</change></revisionDesc></teiHeader>
 
 <text>
 <front>
 <pb n="[1]"/>
-   <titlePage id="binns300" type="half">
+   <titlePage xml:id="binns300" type="half">
      <docTitle>
        <titlePart type="main">NOVEMBER
        </titlePart>
@@ -110,20 +84,20 @@
    </titlePage>
 <pb n="[2]"/>
 <pb n="[3]"/>
-   <titlePage id="binns301" type="full">
+   <titlePage xml:id="binns301" type="full">
      <docTitle>
        <titlePart type="main">NOVEMBER<lb/> Poems in War Time</titlePart>
      </docTitle>
        <byline> BY<lb/> HENRY BRYAN BINNS</byline>
        <docImprint>
 	 <pubPlace>NEW YORK</pubPlace>
-	 <publisher>DODD, MEAD&#x0026;COMPANY</publisher>
-	 <docDate>1918</docDate>
+	 <publisher>DODD, MEAD&amp;COMPANY</publisher>
+	 
        </docImprint>
    </titlePage>
 
 <pb n="[4]"/>
-<div id="binns302" type="copyright">
+<div xml:id="binns302" type="copyright">
 <p>Copyright, 1917,
 </p>
 <p>BY DODD, MEAD AND COMPANY, INC.
@@ -132,7 +106,7 @@
 
 
 <pb n="5"/>
-<div id="binns3002">
+<div xml:id="binns3002">
 <q>
 <l><hi rend="italic">DRAW into thine own being the circumambient Power,</hi></l>
 <l rend="indent"><hi rend="italic">Till wholly invigorated by its
@@ -151,19 +125,19 @@ divinity.</hi></l>
 </div>
 
 <pb n="6"/>
-<div id="binns3003">
+<div xml:id="binns3003">
 <p>Note. --The Fourth and Fifth Preludes and "A Non-Combatant" first appeared in the <hi rend="italic">Ploughshare</hi>, and "The Hill-top
 Wood" in the <hi rend="italic">Poetry Review</hi>. "A Schoolmaster in
 Picardy" was
 suggested by Albert Thierry's <hi rend="italic">Des Conditions de la
 Paix</hi> (Paris,
-<hi rend="italic">L'Union pour la Verit&#x009;</hi>, 1916), partly
+<hi rend="italic">L'Union pour la Verit	</hi>, 1916), partly
 written in the trenches.
 Its author was killed at Aix Noulette, 26 May, 1915.</p>
 </div>
 
 <pb n="7"/>
-<div id="binns303" type="table of contents">
+<div xml:id="binns303" type="tableofcontents">
 <figure type="binnstc" rend="inline">
 <figDesc>Table of contents at front of Binns' "November"</figDesc>
 </figure>
@@ -179,12 +153,12 @@ Its author was killed at Aix Noulette, 26 May, 1915.</p>
 
 <body>
 
-<div id="binns001" type="poem" n="1">
+<div xml:id="binns001" type="poem" n="1">
 <pb n="11"/>
 <head rend="center">November<lb/>
 FIVE PRELUDES</head>
 
-<div id="binns100" type="section" n="1">
+<div xml:id="binns100" type="section" n="1">
 <lg type="stanza">
 <head rend="center">I</head>
 <l>UP dripping from the sea</l>
@@ -206,7 +180,7 @@ FIVE PRELUDES</head>
 <l>Of colour any more!</l></lg></div>
 
 
-<div id="binns101" type="section" n="2">
+<div xml:id="binns101" type="section" n="2">
 <lg type="stanza">
 
 <head rend="center">II</head>
@@ -255,7 +229,7 @@ FIVE PRELUDES</head>
 </div>
 
 
-<div id="binns102" type="section" n="3">
+<div xml:id="binns102" type="section" n="3">
 <pb n="NOVEMBER 13"/>
 <lg type="stanza">
 <head rend="center">III</head>
@@ -296,7 +270,7 @@ spoken.</l></lg>
 <l>Even their grief is presently a toy</l>
 <l>For the spirit of young laughter.</l></lg></div>
 
-<div id="binns103" type="essay" n="4">
+<div xml:id="binns103" type="essay" n="4">
 <head rend="center">IV</head>
 
 <!--****wasn't sure whether to format as paragraphs or as stanzas.-->
@@ -329,7 +303,7 @@ and lying in His bosom, desolate.
 </div>
 
 
-<div id="binns104" type="section" n="5">
+<div xml:id="binns104" type="section" n="5">
 <pb n="NOVEMBER 15"/>
 <head rend="center">V</head>
 <lg type="stanza">
@@ -371,11 +345,11 @@ art thou:</l>
 </div>
 
 
-<div id="binnns002" type="poem" n="2">
+<div xml:id="binnns002" type="poem" n="2">
 <pb n="17"/>
 <head>Freedom's Fellowship</head>
 
-<div id="binns106" type="section" n="1">
+<div xml:id="binns106" type="section" n="1">
 <head rend="center">I</head>
 <lg type="stanza">
 <l>SEATED in the World's Playhouse, I beheld</l>
@@ -385,7 +359,7 @@ art thou:</l>
 <l>Of Man's Redemption, a spectator, far</l>
 <l>Removed from the actual agonists of a war</l>
 <l>Wherein myself was mixed.   Till onlooking,</l>
-<l>There woke within me the &#x00E6;onian Thing</l>
+<l>There woke within me the æonian Thing</l>
 <l>Displayed in all that action.   I was 'ware</l>
 <l>Of Him whom I beheld: the Actor there</l>
 <l>Across the footlights, the Protagonist.</l>
@@ -412,7 +386,7 @@ art thou:</l>
 </lg>
 </div>
 
-<div id="binns107" type="section" n="2">
+<div xml:id="binns107" type="section" n="2">
 <head rend="center">II</head>
 <lg type="stanza">
 <l>AS a tall pine, grappling the rock below</l>
@@ -483,7 +457,7 @@ fount</l>
 <l>The Earth is quick with it beneath my feet,</l>
 <l>So nearly is the whole of life complete.</l></lg></div>
 
-<div id="binns108" type="section" n="3">
+<div xml:id="binns108" type="section" n="3">
 <head rend="center">III</head>
 <lg type="stanza">
 <l>A ROOT was I, and burrowed down my way</l>
@@ -574,7 +548,7 @@ fount</l>
 <l>I live in the earth: I am no flickering wraith</l>
 <l>Of fancy but the embodiment of faith.</l></lg></div>
 
-<div id="binns109" type="section" n="4">
+<div xml:id="binns109" type="section" n="4">
 <head rend="center">IV</head>
 <lg type="stanza">
 <l>THERE are great spirits that stand up alone</l>
@@ -655,7 +629,7 @@ fount</l>
 </lg>
 </div>
 
-<div id="binns110" type="section" n="5">
+<div xml:id="binns110" type="section" n="5">
 <pb n="FREEDOM'S FELLOWSHIP   26"/>
 <head rend="center">V</head>
 <lg type="stanza">
@@ -707,7 +681,7 @@ fount</l>
 </lg>
 </div>
 
-<div id="binns111" type="section" n="6">
+<div xml:id="binns111" type="section" n="6">
 <head rend="center">VI</head>
 <lg type="stanza">
 <l>I AM myself at last, with now no more</l>
@@ -769,7 +743,7 @@ fount</l>
 <l>Usurps its government, but all their will</l>
 <l>Is Gladness, his commandments to fulfil.</l></lg></div>
 
-<div id="binns112" type="section" n="7">
+<div xml:id="binns112" type="section" n="7">
 <head rend="center">VII</head>
 <lg type="stanza">
 <l>O LARGE is life!--The life I come into</l>
@@ -828,7 +802,7 @@ fount</l>
 </lg>
 </div>
 
-<div id="binns113" type="section" n="8">
+<div xml:id="binns113" type="section" n="8">
 <head rend="center">VIII</head>
 <lg type="stanza">
 <l>I AM among my comrades: my delight</l>
@@ -873,7 +847,7 @@ fount</l>
 <l>Respiring with me that immortal breath</l>
 <l>That is one life beyond despair and death.</l></lg></div>
 
-<div id="binns114" type="section" n="9">
+<div xml:id="binns114" type="section" n="9">
 <head rend="center">IX</head>
 <lg type="stanza">
 <l>FELLOWSHIP is a  grove of trees that stand</l>
@@ -965,7 +939,7 @@ fount</l>
 
 </div>
 
-<div id="binns003" type="poem" n="3">
+<div xml:id="binns003" type="poem" n="3">
 <pb n="36"/>
 <head rend="center">To Love</head>
 <lg type="stanza">
@@ -994,14 +968,14 @@ fount</l>
 
 <lg type="stanza">
 <l>To beget a love-child who would not give the price Earth asks?</l>
-<l>But O, bless&#x00E8;d are they that, loving, beget the invisible</l>
+<l>But O, blessèd are they that, loving, beget the invisible</l>
 <l>Form of Thy pure power, mighty deliverer,</l>
 <l>Spirit of Sunshine!--</l>
 <l>Apart from Thee, Love, Power is a monster.</l>
 <l rend="indent">Empty of value.</l>
 <l>Vain all the wealth of nations, if it be not for</l>
 <l rend="indent">Thy spending:</l>
-<l>Wasted the resolute toil of a people not learn&#x00E8;d in Thee.--</l>
+<l>Wasted the resolute toil of a people not learnèd in Thee.--</l>
 <l>Thine is fruition.   There is no joy but rejoiceth in Thee.--</l>
 <l>Love, lacking Thee, the ages miscarry.   Their gathered-up knowledge</l>
 <l>Is naught, for without Thee Truth is not.--</l>
@@ -1078,7 +1052,7 @@ fount</l>
 
 <lg type="stanza">
 <l>Who now shall sustain the lad, the soldier descending,</l>
-<l>Snatched like Kor&#x00E9; the Maid from an April world, down</l>
+<l>Snatched like Koré the Maid from an April world, down</l>
 <l>Into the bowels of death, into the underworld air,</l>
 <l>There to do battle, to make corpses with his young hands--?</l>
 <l>Only Thou art sufficient, down in that place, to keep</l>
@@ -1092,7 +1066,7 @@ fount</l>
 </lg>
 </div>
 
-<div id="binns004" type="poem" n="4">
+<div xml:id="binns004" type="poem" n="4">
 <pb n="43"/>
 <head rend="center">DELAY NOT, LOVE</head>
 <lg type="stanza">
@@ -1132,7 +1106,7 @@ fount</l>
 </div>
 
 
-<div id="binns005" type="poem" n="5">
+<div xml:id="binns005" type="poem" n="5">
 <pb n="45"/>
 <head rend="center">The Greeting</head>
 <lg type="stanza">
@@ -1170,14 +1144,14 @@ fount</l>
 <l>Wherein its quiet hands may find employment.</l></lg></div>
 
 
-<div id="binns006" type="poem" n="6">
+<div xml:id="binns006" type="poem" n="6">
 <pb n="47"/>
 <head rend="center">THE EXILE</head>
 
 <p>Heribert Freimuth, hyphenated American, writes:</p>
 
 
-<div id="binns115" type="section" n="1">
+<div xml:id="binns115" type="section" n="1">
 <head type="sub">I.  OF GERMANY</head>
 
 <q>
@@ -1289,7 +1263,7 @@ liberty.</l>
 </q>
 </div>
 
-<div id="binns116" type="section" n="2">
+<div xml:id="binns116" type="section" n="2">
 <head type="sub">2.    OF HIS YOUTH</head>
 
 <q>
@@ -1321,7 +1295,7 @@ liberty.</l>
 <l>For though, in chambers dark</l>
 <l>Beyond imagining, his love she endures,</l>
 <l>Its nakedness is not so stark</l>
-<l>As your &#x00C6;gisthean lord's,</l>
+<l>As your Ægisthean lord's,</l>
 <l>To whose tyrannous pleasure, rather</l>
 <l>Than bid him do his worst,</l>
 <l>Your too complaisant beauty accords</l>
@@ -1448,7 +1422,7 @@ liberty.</l>
 <l>That burst upon America: I knew him</l>
 <l>Then ever beside me, and before</l>
 <l>Ever that Siegfried-murdering Attila,</l>
-<l>Ever that sinister &#x00c6;gisthean form</l>
+<l>Ever that sinister Ægisthean form</l>
 <l>That pursues Freedom if he may</l>
 <l>Seduce his bride from him once more:</l>
 <l>And here in this New World, wrestling with him, we threw
@@ -1457,7 +1431,7 @@ him.</l>
 </q>
 </div>
 
-<div id="binns117" type="section" n="3">
+<div xml:id="binns117" type="section" n="3">
 <head type="sub">3. TO THE ALLIES</head>
 
 <q>
@@ -1644,7 +1618,7 @@ him.</l>
 </div>
 </div>
 
-<div id="binns007" type="poem" n="7">
+<div xml:id="binns007" type="poem" n="7">
 <pb n="Siegesallee Fantasia  62"/>
 <p><hi rend="italic">The Avenue of Hohenzollerns near Berlin.
 Enter, in full fig, his scabbard dragging at
@@ -1653,7 +1627,7 @@ his heels, the KAISER, talking to himself:</hi>
 
 <q>
 I'LD like to pack these ancestors of mine
-To K&#x00F6;nigsberg or somewhere over-Rhine
+To Königsberg or somewhere over-Rhine
 Where they could not keep watch upon me!
 How,
 With them about me, can I face the now
@@ -1680,7 +1654,7 @@ My Prussian-eagle eye could not detect
 Any self-interest or any fear.
 For once I should have relished not to hear
 My All-highness spoken of.    If, let us say
-Some <sic>Roos&#x00E9;velt</sic>, fresh from America
+Some <sic>Roosévelt</sic>, fresh from America
 Had flouted all my favourites, confronted
 Flattery with stark fact: relentless, hunted
 Down the deception that we practise, under
@@ -2163,7 +2137,7 @@ But the All-highest.</p>
 </p>
 </div>
 
-<div id="binns008" type="poem" n="8">
+<div xml:id="binns008" type="poem" n="8">
 <pb n="The Blacksmith  79"/>
 
 <lg type="stanza">
@@ -2210,7 +2184,7 @@ But the All-highest.</p>
 
 </div>
 
-<div id="binns009" type="poem" n="9">
+<div xml:id="binns009" type="poem" n="9">
 <pb n="81"/>
 <head rend="center">Decision</head>
 <lg type="stanza">
@@ -2233,7 +2207,7 @@ But the All-highest.</p>
 </lg>
 </div>
 
-<div id="binns010" type="poem" n="10">
+<div xml:id="binns010" type="poem" n="10">
 <pb n="82"/>
 <head rend="center">The Peacemaker--August,<lb/>
 1914</head>
@@ -2287,10 +2261,10 @@ But the All-highest.</p>
 </lg>
 </div>
 
-<div id="binns011" type="poem" n="11">
+<div xml:id="binns011" type="poem" n="11">
 <pb n="84"/>
 <head rend="center">A Non-Combatant</head>
-<div id="binns118" type="section" n="1">
+<div xml:id="binns118" type="section" n="1">
 <head rend="center">I</head>
 <lg type="stanza">
 <l>I  SAW my neighbour going gay</l>
@@ -2346,7 +2320,7 @@ But the All-highest.</p>
 </lg>
 </div>
 
-<div id="binn119" type="section" n="2">
+<div xml:id="binn119" type="section" n="2">
 <head rend="center">2</head>
 <lg type="stanza">
 <l>I saw soldiers going gay</l>
@@ -2398,7 +2372,7 @@ But the All-highest.</p>
 </lg>
 </div>
 
-<div id="binns120" type="section" n="3">
+<div xml:id="binns120" type="section" n="3">
 <head rend="center">3</head>
 <lg type="stanza">
 <l>When myself I utterly</l>
@@ -2443,7 +2417,7 @@ But the All-highest.</p>
 </div>
 </div>
 
-<div id="binns012" type="poem" n="12">
+<div xml:id="binns012" type="poem" n="12">
 <pb n="89"/>
 <head rend="center">A Schoolmaster in Picardy</head>
 
@@ -2509,7 +2483,7 @@ But the All-highest.</p>
 <l>And when her masterful accompaniment</l>
 <l>Challenged the singer in him with its strange</l>
 <l>Rhythms, his exulting spirit answering cried</l>
-<l>New p&#x00E6;ans against it in the praise of Peace.</l></lg>
+<l>New pæans against it in the praise of Peace.</l></lg>
 
 <lg type="stanza">
 <l>Through all this visionary April night</l>
@@ -2663,7 +2637,7 @@ But the All-highest.</p>
 
 <pb n="97"/>
 
-<div id="binns013" type="poem" n="13">
+<div xml:id="binns013" type="poem" n="13">
 <head rend="center">THE HILL-TOP WOOD</head>
 <lg type="stanza">
 <l>UP In the hill-top wood</l>
@@ -2733,7 +2707,7 @@ But the All-highest.</p>
 
 </div>
 
-<div id="binns014" type="poem" n="14">
+<div xml:id="binns014" type="poem" n="14">
 <pb n="99"/>
 <head rend="center">The Quaker Women</head>
 <lg type="stanza">
@@ -2783,7 +2757,7 @@ But the All-highest.</p>
 </lg>
 </div>
 
-<div id="binns015" type="poem" n="15">
+<div xml:id="binns015" type="poem" n="15">
 <pb n="101"/>
 <head rend="center">The Stay-at-Home</head>
 <lg type="stanza">
@@ -2819,12 +2793,12 @@ But the All-highest.</p>
 </div>
 
 
-<div id="binns016" type="play" n="16">
+<div xml:id="binns016" type="play" n="16">
 <pb n="103"/>
 
 <!--***parser doesn't like titlepage element here but don't know what to
      put instead-->
-<titlePage id="binns304" type="half">
+<titlePage xml:id="binns304" type="half">
      <docTitle>
        <titlePart type="main">THE PRICE OF FREEDOM
        </titlePart>
@@ -2832,7 +2806,7 @@ But the All-highest.</p>
    </titlePage>
 </div>
 
-<div id="binns0016">
+<div xml:id="binns0016">
 <pb n="[104]"/>
 <pb n="105"/>
 
@@ -3188,7 +3162,7 @@ participation in the integrity of God himself.</p>
 </div>
 
 
-<div id="binns017" type="poem" n="17">
+<div xml:id="binns017" type="poem" n="17">
 <pb n="118"/>
 <head>Greeting to America Entering the War</head>
 
@@ -3210,10 +3184,10 @@ participation in the integrity of God himself.</p>
 
 <byline>HENRY BRYAN BINNS.</byline>
 <dateline><name type="place">London</name><lb/>
-<date value="1917-10-28"> October the 28th 1917</date></dateline>
+<date when="1917-10-28"> October the 28th 1917</date></dateline>
 </div>
 
-<div id="binns018" type="poem" n="18">
+<div xml:id="binns018" type="poem" n="18">
 <pb n="119"/>
 
 <p><hi rend="italic">THY love is all about me like the loveliness
@@ -3237,13 +3211,8 @@ That by the magic of thy love is changed for me
 Into a welcoming presence, friendly and wonderful.</hi>
 </p>
 
-
-
-<pb n=""/>
-<pb n=""/>
-
 </div>
 
 </body>
 </text>
-</TEI.2>
+</TEI>

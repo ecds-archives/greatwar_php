@@ -1,21 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?>
-<TEI.2>
+<?xml version="1.0" encoding="UTF-8"?><TEI.2>
 <teiHeader>
 
 <fileDesc>
 <titleStmt>
 <title>The Great War in Postcards</title>
 <author>Beck Center staff</author>
-<respStmt><resp></resp>
-<name></name></respStmt>
+<respStmt><resp/>
+<name/></respStmt>
 </titleStmt>
-<extent></extent>
+<extent/>
 <publicationStmt>
 <publisher>Lewis H. Beck Center for Electronic Collections and
 Services, Woodruff Library, Emory University</publisher>
 <pubPlace>Atlanta, GA</pubPlace>
 <address><addrLine>540 Asbury Circle</addrLine></address>
-<availability><p></p></availability>
+<availability><p/></availability>
 <date>2004</date>
 </publicationStmt>
 <seriesStmt><title>The Great War</title>
@@ -27,7 +26,7 @@ Services, Woodruff Library, Emory University</publisher>
 </fileDesc>
 
 <encodingDesc>
-<projectDesc><p></p>
+<projectDesc><p/>
 </projectDesc>
 </encodingDesc>
 
@@ -85,8 +84,7 @@ Baon<lb/>4 Feldkompagnie</figDesc>
 <figDesc>Text in bottom right corner: "1915". Text in bottom left corner: "1914". Five embroidered flags cover a screened pocket with a small, removable card inside.  The card has flowers and the word "Remembrance" embossed on the front, as well as a penciled message which reads "28 October 1915 Best love Will". On reverse:  same message as written on the card. </figDesc>
 </figure>
 
-<figure entity="wwi_1918_souvenir1" ana="nat-fr con-f im-s nat-us
-	nat-it nat-rus nat-brit nat-ee nat-bel">
+<figure entity="wwi_1918_souvenir1" ana="nat-fr con-f im-s nat-us  nat-it nat-rus nat-brit nat-ee nat-bel">
 <head>Souvenir de France</head>
 <figDesc>The front of this postcard functions as an envelope with "Souvenir de France" and "1918" on the outside flap.  "Love &#x0026; Kisses from Charlie" is written on the inside.  The postcard also has an embroidered American flag on the bottom left corner and an embroidered French flag on the bottom right.  On reverse:  handwritten message. </figDesc>
 </figure>
@@ -117,8 +115,7 @@ Baon<lb/>4 Feldkompagnie</figDesc>
 small, crude train, crossing a bridge.  Text at top right: "Argonnenbahn".  On reverse:  "Herausgegeben von der Feldbuchhandlung der 5. Armee."</figDesc>
 </figure>
 
-<figure entity="Army_Navy_Reserve" ana="nat-us mil-a mil-na hf-w im-dr
-	t-wwi">
+<figure entity="Army_Navy_Reserve" ana="nat-us mil-a mil-na hf-w im-dr  t-wwi">
 <head>Army, Navy and Reserve</head> <figDesc>This postcard is a
 colored drawing of a woman in a pink dress standing in between a
 soldier and a sailor. Text centered at bottom: "Army, Navy and
@@ -127,7 +124,7 @@ Postal Card &#x0026; Nov. Co. N. Y."</figDesc>
 </figure>
 
 <figure entity="army_trench" ana="mil-a mil-f im-ph t-wwi">
-<head></head>
+<head>Army Trench</head>
 <figDesc>This postcard is a black and white photo of an army trench with two soldiers standing in it. There is also netting which hangs above the trench. On reverse: blank.</figDesc>
 </figure>
 
@@ -143,7 +140,7 @@ Postal Card &#x0026; Nov. Co. N. Y."</figDesc>
 
 <figure entity="artilleur" ana="nat-fr mil-a mil-f im-ph t-wwi">
 <head>Souvenir d'un Artilleur</head>
-<figDesc>This postcard is a color-tinted, sepia-toned picture of two soldiers. One is in the background and the other is in the foreground. The soldier in front wears a blue-grey uniform and helmet. To his right is a tree with a pink sun behind it. Text at bottom right corner: "Souvenir d'un Artilleur" and "Boulanger 122." On reverse: "Fabrication Fran&ccedil;aise - Vise Paris/J. Tailha[o]es - Levallois-Perret"; a handwritten message.</figDesc>
+<figDesc>This postcard is a color-tinted, sepia-toned picture of two soldiers. One is in the background and the other is in the foreground. The soldier in front wears a blue-grey uniform and helmet. To his right is a tree with a pink sun behind it. Text at bottom right corner: "Souvenir d'un Artilleur" and "Boulanger 122." On reverse: "Fabrication Fran&#x00E7;aise - Vise Paris/J. Tailha[o]es - Levallois-Perret"; a handwritten message.</figDesc>
 </figure>
 
 <figure entity="belgique" ana="nat-bel nat-fr mil-a im-pa con-m t-wwi">
@@ -153,23 +150,23 @@ Postal Card &#x0026; Nov. Co. N. Y."</figDesc>
 
 <figure entity="best_xmas_wishes1" ana="im-s nat-fr hf-h t-wwi">
 <head>Best Xmas Wishes</head>
-<figDesc>This postcard has an embroidered cabin on the top and "Best Xmas Wishes embroidered on the bottom. The front of the postcard also functions as an envelope with a small, removable card inside. A picture of a castle and "To my dear Sweetheart" are on the front of the card, and there is a penciled message on the back. On reverse: a handwritten message; handwritten date of "xmas 1918" and "France" in top right corner; "Fabrication fran&ccedil;aise, vise Paris".</figDesc>
+<figDesc>This postcard has an embroidered cabin on the top and "Best Xmas Wishes embroidered on the bottom. The front of the postcard also functions as an envelope with a small, removable card inside. A picture of a castle and "To my dear Sweetheart" are on the front of the card, and there is a penciled message on the back. On reverse: a handwritten message; handwritten date of "xmas 1918" and "France" in top right corner; "Fabrication fran&#x00E7;aise, vise Paris".</figDesc>
 </figure>
 
 <figure entity="best_xmas_wishes2" ana="nat-fr im-s t-wwi">
 <head>Best Xmas Wishes</head>
-<figDesc>This postcard has embroidered flowers, three cabins embroidered on the top and "Best Xmas Wishes" embroidered on the bottom. The front of the postcard also functions as an envelope, but has nothing inside. On reverse: "fabrication fran&ccedil;aise"; handwritten message.</figDesc>
+<figDesc>This postcard has embroidered flowers, three cabins embroidered on the top and "Best Xmas Wishes" embroidered on the bottom. The front of the postcard also functions as an envelope, but has nothing inside. On reverse: "fabrication fran&#x00E7;aise"; handwritten message.</figDesc>
 </figure>
 
 <figure entity="boheme" ana="nat-it hf-p con-h im-ca t-wwi">
-<head><hi rend="italic">Boh&egrave;me</hi> - G. Puccini</head>
+<head><hi rend="italic">Boh&#x00E8;me</hi> - G. Puccini</head>
 <figDesc>This black and white drawing depicts a very tall man, a very
-short man, and a faceless figure, a skeleton, in a bed. The tall gentleman has a pointy mustache and wears a cross. The short gentleman wears a black coat and black hat. At the foot of the bed is a can of "disinfettante." Text centered beneath picture: "<hi rend="italic">Boh&egrave;me </hi>- G. Puccini: ...Mim&igrave; &egrave; tanto ammalata la povera piccina &egrave; condannata...". On reverse: blank.</figDesc>
+short man, and a faceless figure, a skeleton, in a bed. The tall gentleman has a pointy mustache and wears a cross. The short gentleman wears a black coat and black hat. At the foot of the bed is a can of "disinfettante." Text centered beneath picture: "<hi rend="italic">Boh&#x00E8;me </hi>- G. Puccini: ...Mim&#x00EC; &#x00E8; tanto ammalata la povera piccina &#x00E8; condannata...". On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="bombardment" ana="im-ph nat-fr t-wwi con-r">
 <head>Bombardment de Paris</head>
-<figDesc>This postcard is a black and white photo of the ruins of a Parisian church. Text centered at bottom: "Bombardment de Paris par canons &agrave; longue port&eacute;e. 'Berthas.' Vendredi-Taine. 29 mars.1918. Eglis de Gervais." On reverse: a handwritten message which translates the caption as "Bombardment of Paris by canons of long range-29 March 1918-church of St. Gervais."; message also notes that the date in the caption was Good Friday. </figDesc>
+<figDesc>This postcard is a black and white photo of the ruins of a Parisian church. Text centered at bottom: "Bombardment de Paris par canons &#x00E0; longue port&#x00E9;e. 'Berthas.' Vendredi-Taine. 29 mars.1918. Eglis de Gervais." On reverse: a handwritten message which translates the caption as "Bombardment of Paris by canons of long range-29 March 1918-church of St. Gervais."; message also notes that the date in the caption was Good Friday. </figDesc>
 </figure>
 
 <figure entity="boy_soldier" ana="hf-c t-pre im-ph nat-brit">
@@ -189,7 +186,7 @@ short man, and a faceless figure, a skeleton, in a bed. The tall gentleman has a
 
 <figure entity="campagne" ana="nat-fr mil-f hf-p con-r im-ph t-wwi">
 <head>Senlis Campagne 1914-1917</head>
-<figDesc>This postcard is a black and white photo of cathedral ruins. Text centered at bottom: "Senlis", "Campagne 1914-1917" and "La Galerie des Tours de l'Eglise de la Cath&eacute;drale apr&egrave;s le bombardement par les Allemands." Text at bottom left: "Vis&eacute; Paris". Text at bottom right: "ND. Phot." On reverse: "Imp. Prot. &AElig;urdein Et Cie, 52, Av. De Breteuil. - Paris."</figDesc>
+<figDesc>This postcard is a black and white photo of cathedral ruins. Text centered at bottom: "Senlis", "Campagne 1914-1917" and "La Galerie des Tours de l'Eglise de la Cath&#x00E9;drale apr&#x00E8;s le bombardement par les Allemands." Text at bottom left: "Vis&#x00E9; Paris". Text at bottom right: "ND. Phot." On reverse: "Imp. Prot. &#x00C6;urdein Et Cie, 52, Av. De Breteuil. - Paris."</figDesc>
 </figure>
 
 <figure entity="cannon_blast3" ana="nat-us mil-na con-el im-ph t-wwi">
@@ -244,7 +241,7 @@ his adherents will do such a thing.</p>
 
 <figure entity="Chateau-Thierry" ana="nat-fr mil-f con-r t-wwi">
 <head>Chateau-Thierry</head>
-<figDesc>This postcard is a black and white photo of a town. The town is in the distance and a bare tree is in the foreground. Text at bottom: "Vis&eacute; Paris no 3627" and "Chateau-Thierry et la Vall&eacute;e de la Marne (Vue prise de la C&ocirc;te 204)." On reverse: "Levy Fils et Cie Paris".</figDesc>
+<figDesc>This postcard is a black and white photo of a town. The town is in the distance and a bare tree is in the foreground. Text at bottom: "Vis&#x00E9; Paris no 3627" and "Chateau-Thierry et la Vall&#x00E9;e de la Marne (Vue prise de la C&#x00F4;te 204)." On reverse: "Levy Fils et Cie Paris".</figDesc>
 </figure>
 
 <figure entity="constant_love" ana="hf-ro nat-brit mil-f">
@@ -264,7 +261,7 @@ his adherents will do such a thing.</p>
 
 <figure entity="crater" ana="im-ph nat-fr t-wwi">
 <head>Souain</head>
-<figDesc>This postcard is a black and white photo of a crater left by a shell explosion. Text at bottom: "873 Souain. -- Entonnoir coupant la Route de Souain &agrave; Tahure. Ruta cortada de Souain &agrave; Tahure por la explosion de un obus. - LL". On reverse: "Imp. Levy Fils et Cie, Paris".</figDesc>
+<figDesc>This postcard is a black and white photo of a crater left by a shell explosion. Text at bottom: "873 Souain. -- Entonnoir coupant la Route de Souain &#x00E0; Tahure. Ruta cortada de Souain &#x00E0; Tahure por la explosion de un obus. - LL". On reverse: "Imp. Levy Fils et Cie, Paris".</figDesc>
 </figure>
 
 <figure entity="cuirassiers" ana="nat-fr mil-a con-m im-pa t-wwi">
@@ -279,17 +276,17 @@ his adherents will do such a thing.</p>
 
 <figure entity="dear_father" ana="im-s nat-fr">
 <head>To my dear Father</head>
-<figDesc>This postcard has embroidered flowers, an embroidered horseshoe and "To my dear Father" embroidered on the right. On reverse: "J.J. Saint-Omer - Paris (Marque d&eacute;pos&eacute;)".</figDesc>
+<figDesc>This postcard has embroidered flowers, an embroidered horseshoe and "To my dear Father" embroidered on the right. On reverse: "J.J. Saint-Omer - Paris (Marque d&#x00E9;pos&#x00E9;)".</figDesc>
 </figure>
 
 <figure entity="dear_mother1" ana="im-s nat-fr">
 <head>To My Dear Mother</head>
-<figDesc>This postcard has embossed flowers surrounding an embroidered picture of flowers and a sailboat. Embroidered text at bottom: "To My Dear Mother". On reverse: "Mod&egrave;le D&eacute;pos&eacute;", "Vise Paris" and "Fabrication Fran&ccedil;aise"; a handwritten message.</figDesc>
+<figDesc>This postcard has embossed flowers surrounding an embroidered picture of flowers and a sailboat. Embroidered text at bottom: "To My Dear Mother". On reverse: "Mod&#x00E8;le D&#x00E9;pos&#x00E9;", "Vise Paris" and "Fabrication Fran&#x00E7;aise"; a handwritten message.</figDesc>
 </figure>
 
 <figure entity="dear_mother2" ana="nat-fr im-s hf-h t-wwi">
 <head>To My Dear Mother</head>
-<figDesc>This postcard has purple embroidered flowers which cover a screened pocket. Embroidered text at bottom: "To My Dear Mother". On reverse: "Fabrication fran&ccedil;aise, A. O. Vis&eacute; Paris."</figDesc>
+<figDesc>This postcard has purple embroidered flowers which cover a screened pocket. Embroidered text at bottom: "To My Dear Mother". On reverse: "Fabrication fran&#x00E7;aise, A. O. Vis&#x00E9; Paris."</figDesc>
 </figure>
 
 <figure entity="destroyed_mill" ana="nat-fr mil-f con-r im-ph">
@@ -319,7 +316,7 @@ his adherents will do such a thing.</p>
 
 <figure entity="dixmude_ruins_5" ana="nat-bel con-r im-ph t-wwi">
 <head>Ruines de Dixmude</head>
-<figDesc>This postcard is a black and white photo of a canal with ruins on both banks. Text at top left: "Ruines de Dixmude 1914-18 Canal d'Handzaeme dans la travers&eacute;e de la ville."; "The ruins at Dixmude Handzaeme canal passing through the town." On reverse: "Ern. Thill, Bruxelles."</figDesc>
+<figDesc>This postcard is a black and white photo of a canal with ruins on both banks. Text at top left: "Ruines de Dixmude 1914-18 Canal d'Handzaeme dans la travers&#x00E9;e de la ville."; "The ruins at Dixmude Handzaeme canal passing through the town." On reverse: "Ern. Thill, Bruxelles."</figDesc>
 </figure>
 
 <figure entity="dixmude_ruins_6" ana="nat-bel con-r im-ph t-wwi">
@@ -354,7 +351,7 @@ his adherents will do such a thing.</p>
 
 <figure entity="doux" ana="nat-fr mil-a hf-p hf-w hf-ro t-wwi">
 <head>Doux Entretien</head>
-<figDesc>This postcard is a color-tinted, sepia-toned picture of a soldier kissing a young woman on the cheek. Text at bottom left: "Doux Entretien". Text at bottom center: "Un baiser est bien facile &agrave; prendre/Quand l'aim&eacute; le demande de sa voix tendre." Text to right of the picture: "Gloria". At bottom right: "430". On reverse: handwritten message</figDesc>
+<figDesc>This postcard is a color-tinted, sepia-toned picture of a soldier kissing a young woman on the cheek. Text at bottom left: "Doux Entretien". Text at bottom center: "Un baiser est bien facile &#x00E0; prendre/Quand l'aim&#x00E9; le demande de sa voix tendre." Text to right of the picture: "Gloria". At bottom right: "430". On reverse: handwritten message</figDesc>
 </figure>
 
 <figure entity="dugout_chalk_mine" ana="nat-fr im-ph mil-f t-wwi">
@@ -369,7 +366,7 @@ his adherents will do such a thing.</p>
 
 <figure entity="Ecce_Homo" ana="nat-it hf-re t-wwi">
 <head>Ecco L'Uomo (Ecce Homo!) 1915. Ecce Homo</head>
-<figDesc>This postcard is a black and white drawing of a statue of a man which has fallen over into rubble. Text at top left: "Ecco L'Uomo (Ecce Homo!)"; "1915. Ecce Homo". Text at bottom left: "Noi, tedeschi, non temiamo che Dio." Text at bottom right: "Nous, Allemands, nous ne craignons que Dieu." On reverse: "Copyright di Societ&agrave; Editoriale Milanese - Milano/Reproduction interdite"; "Ufficio Rev. Stampa - Milano, 30-3-1917-N.162".</figDesc>
+<figDesc>This postcard is a black and white drawing of a statue of a man which has fallen over into rubble. Text at top left: "Ecco L'Uomo (Ecce Homo!)"; "1915. Ecce Homo". Text at bottom left: "Noi, tedeschi, non temiamo che Dio." Text at bottom right: "Nous, Allemands, nous ne craignons que Dieu." On reverse: "Copyright di Societ&#x00E0; Editoriale Milanese - Milano/Reproduction interdite"; "Ufficio Rev. Stampa - Milano, 30-3-1917-N.162".</figDesc>
 </figure>
 
 <figure entity="Edinburgh_Castle1" ana="im-ph con-m t-post nat-brit">
@@ -382,10 +379,9 @@ his adherents will do such a thing.</p>
 <figDesc>This postcard is a sepia-toned photo of Edinburgh Castle. Text at bottom left: "Scottish National War Memorial, Edinburgh Castle". At bottom right: "Knox Series." On reverse: "Printed in Edinburgh"; "Published by W.J. Hay John Knox's HO. Edinb".</figDesc>
 </figure>
 
-<figure entity="embroidered_flags" ana="nat-fr im-s con-f nat-it
-	nat-rus nat-brit nat-bel">
+<figure entity="embroidered_flags" ana="nat-fr im-s con-f nat-it  nat-rus nat-brit nat-bel">
 <head>Five flags</head>
-<figDesc>This postcard has five embroidered flags and embroidered flowers, framed with embossed holly. The front of the postcard functions as an envelope with a removable card inside. Text on card: "My best kisses". On reverse: "Fabrication Fran&ccedil;aise".</figDesc>
+<figDesc>This postcard has five embroidered flags and embroidered flowers, framed with embossed holly. The front of the postcard functions as an envelope with a removable card inside. Text on card: "My best kisses". On reverse: "Fabrication Fran&#x00E7;aise".</figDesc>
 </figure>
 
 <figure entity="embroidered_screen" ana="nat-bel im-s">
@@ -431,8 +427,7 @@ produce. At bottom right: "2194". On reverse: handwritten message.</figDesc>
 <figDesc>This postcard is a black and white picture of a soldier sitting at a desk and writing a letter. In the top right corner is an inset of a woman. Text at top left: "Fond Memories". Text at bottom center: "Though distance may us sever,/And keep us far apart,/Sweet thoughts of you my loved one,/Arise within my heart." On reverse: "Entirely British Manufacture".</figDesc>
 </figure>
 
-<figure entity="for_freedom" ana="nat-brit con-f nat-fr nat-it
-	nat-bel nat-rus nat-ee nat-jp hf-p">
+<figure entity="for_freedom" ana="nat-brit con-f nat-fr nat-it  nat-bel nat-rus nat-ee nat-jp hf-p">
 <head>For Freedom</head>
 <figDesc>This postcard is a color picture of a winged woman standing
 in between ten flags. She stands on top of the earth with a wreath in
@@ -459,7 +454,7 @@ guardians of civilization in the future."</figDesc>
 
 <figure entity="forget_not1" ana="im-s nat-fr">
 <head>Forget Me Not</head>
-<figDesc>This postcard has purple embroidered flowers on a front flap and embossed flowers around the edges. Embroidered text at bottom center: "Forget Me Not". On reverse: handwritten message; "Mod&egrave;le D&eacute;pose&eacute;"; "Fabrication Fran&ccedil;aise"; "Vis&eacute; Paris".</figDesc>
+<figDesc>This postcard has purple embroidered flowers on a front flap and embossed flowers around the edges. Embroidered text at bottom center: "Forget Me Not". On reverse: handwritten message; "Mod&#x00E8;le D&#x00E9;pose&#x00E9;"; "Fabrication Fran&#x00E7;aise"; "Vis&#x00E9; Paris".</figDesc>
 </figure>
 
 <figure entity="forget_not2" ana="mil-a mil-f hf-ro hf-h con-v t-wwi">
@@ -508,15 +503,16 @@ misfortune to become victims of Hun 'Kultur'"</p><p rend="right">From a press cu
 <l>Wenn es sich nahte seinem Gl&#x00FC;cke,</l>
 <l>Durch Hader,Ha&#x00DF; und Leidenschaft.&#x2104;</l></lg>
 </body></text></p>
-<figDesc>This postcard is a black and white drawing of a battefield. In the top left corner is a large bird and in the bottom right corner is a warrior with his head in his hand. Beside him are snakes and other reptiles. In the middle of the postcard is a set of verses entitled "Germania Schicksal." Text at bottom of verses: "Dr. F. Mehns. Hauptmann d. L. und Bataillons-F&uuml;hrer. Frankreich." On reverse: "'Vita-Venus' von Dr. F. Mehns. Xenien-Verlag, Leipzig./Beste Sch&uuml;tzengraben-Lekt&uuml;re."; "Lithogr. Anst.-Druckerei G. Mechling u. Sohn, Metz, Coislinstra&#x00DF;e 16."</figDesc>
+<figDesc>This postcard is a black and white drawing of a battefield. In the top left corner is a large bird and in the bottom right corner is a warrior with his head in his hand. Beside him are snakes and other reptiles. In the middle of the postcard is a set of verses entitled "Germania Schicksal." Text at bottom of verses: "Dr. F. Mehns. Hauptmann d. L. und Bataillons-F&#x00FC;hrer. Frankreich." On reverse: "'Vita-Venus' von Dr. F. Mehns. Xenien-Verlag, Leipzig./Beste Sch&#x00FC;tzengraben-Lekt&#x00FC;re."; "Lithogr. Anst.-Druckerei G. Mechling u. Sohn, Metz, Coislinstra&#x00DF;e 16."</figDesc>
 </figure>
 
 <figure entity="girl_boy2" ana="nat-brit hf-p im-ph hf-c con-f t-wwi">
-<head></head>
+<head>British Children with Flags-1</head>
 <figDesc>This is a hand-painted, sepia-toned photo of a girl holding two flags and a boy in a soldier's uniform. Text at bottom left: "Copyright". Text at bottom right: "Rotary Photo A.1520-3". On reverse: "Printed in Britain"; "This is a hand-painted real photograph of British children."; "Rotary Photo, London, E.C.".</figDesc>
 </figure>
 
 <figure entity="girl_boy1" ana="nat-brit hf-p im-ph hf-c con-f t-wwi">
+<head>>British Children with Flags-2</head>
 <figDesc> This is a hand-painted, sepia-toned photo of a girl holding two flags and shaking hands with a boy in a soldier's uniform. Text at bottom left: "Copyright". Text at bottom right: "Rotary Photo A.1520-2". On reverse: "Printed in Britain"; "This is a hand-painted real photograph of British children."; "Rotary Photo, London, E.C.".</figDesc>
 </figure>
 
@@ -542,7 +538,7 @@ misfortune to become victims of Hun 'Kultur'"</p><p rend="right">From a press cu
 <l>(Let the coward cringe and falter,)</l>
 <l>God defend the right!</l>
 <l>True as truth though lorn and lonely</l>
-<l>Tender, as the brave are only;</l>
+<l>Tender, as teh brave are only;</l>
 <l>Men who tread where saints have trod,</l>
 <l>Men for Country&#x2014;Home&#x2014;and God:</l>
 <l>Give us Men! I say again&#x2014;again&#x2014;</l>
@@ -552,13 +548,13 @@ misfortune to become victims of Hun 'Kultur'"</p><p rend="right">From a press cu
 </figure>
 
 <figure entity="globst" ana="nat-au mil-a con-m t-wwi">
-<head>Globst. Franz Freih. Conrad v. H&ouml;tzendorf.</head>
-<figDesc>This postcard is a black and white picture of a room with a bust carved into one wall. Text at bottom center: "Franz Freih. Conrad v. H&ouml;tzendorf./Modelliert von einem Einj. Freiw. an der Wand eines Unterstandes./(Reinertrag f&uuml;r den Offz.u.Uoffz. Witwen u. Waisenfonds des 3. Kps.)". On reverse: "Druck and Verlag "Senefelder" Graz."</figDesc>
+<head>Globst. Franz Freih. Conrad v. H&#x00F6;tzendorf.</head>
+<figDesc>This postcard is a black and white picture of a room with a bust carved into one wall. Text at bottom center: "Franz Freih. Conrad v. H&#x00F6;tzendorf./Modelliert von einem Einj. Freiw. an der Wand eines Unterstandes./(Reinertrag f&#x00FC;r den Offz.u.Uoffz. Witwen u. Waisenfonds des 3. Kps.)". On reverse: "Druck and Verlag "Senefelder" Graz."</figDesc>
 </figure>
 
 <figure entity="gloria" ana="nat-fr hf-w hf-ro mil-a">
 <head>Gloria</head>
-<figDesc>This postcard is a color-tinted, sepia-toned picture of a soldier with a bouquet looking up at a woman holding a bouquet. Text in middle left: "Vous avez pris ma fleur d'amour!/Gardez-l&agrave; jusqu'&agrave; mon retour!" In bottom left: "380". Text in bottom right: "Gloria". On reverse: "Fabrication Fran&ccedil;aise". </figDesc>
+<figDesc>This postcard is a color-tinted, sepia-toned picture of a soldier with a bouquet looking up at a woman holding a bouquet. Text in middle left: "Vous avez pris ma fleur d'amour!/Gardez-l&#x00E0; jusqu'&#x00E0; mon retour!" In bottom left: "380". Text in bottom right: "Gloria". On reverse: "Fabrication Fran&#x00E7;aise". </figDesc>
 </figure>
 
 <figure entity="God_with_you" ana="nat-us mil-f mil-a hf-re hf-w t-wwi">
@@ -568,7 +564,7 @@ misfortune to become victims of Hun 'Kultur'"</p><p rend="right">From a press cu
 
 <figure entity="gold_warrior" ana="nat-de hf-p">
 <head>[Warrior and Dragon]</head>
-<figDesc>This postcard is a picture of a golden warrior walking on a ground of red and brown. On reverse: "Wohlfahrts-Ausschu&#x00DF;/der K. Haupt-und Residenzstadt M&uuml;nchen/(F&uuml;rsorge f&uuml;r die Angeh&ouml;rigen der Kriegsteilnehmer)/Offizielle Postkarte." </figDesc>
+<figDesc>This postcard is a picture of a golden warrior walking on a ground of red and brown. On reverse: "Wohlfahrts-Ausschu&#x00DF;/der K. Haupt-und Residenzstadt M&#x00FC;nchen/(F&#x00FC;rsorge f&#x00FC;r die Angeh&#x00F6;rigen der Kriegsteilnehmer)/Offizielle Postkarte." </figDesc>
 </figure>
 
 <figure entity="goumiers" ana="im-pa nat-fr con-m t-wwi">
@@ -583,67 +579,67 @@ misfortune to become victims of Hun 'Kultur'"</p><p rend="right">From a press cu
 
 <figure entity="Guerre_Notre_Dame_267" ana="nat-fr mil-f con-r im-ph t-wwi">
 <head>Guerre 1914-1918</head>
-<figDesc>This postcard is a black and white photo of the ruins of the Notre Dame Basilica. Text at top right: "Guerre 1914-1918/267 -- La Basilique de Notre-Dame de Brebi&egrave;res/Vue prise de la rue Jeanne d'Harcourt/apr&egrave;s le bombardement du 29 Septembre 1914/The Basilica of N.-D. de Brebi&egrave;res/after several bombardment -- Sept. 1914." Text alongside left edge: "Vis&eacute; Paris no 228". Text alongside right edge: "G. Lelong, 21, Rue St-Martin, Amiens". On reverse: "Imp. Catala Fr&egrave;res, Paris."</figDesc>
+<figDesc>This postcard is a black and white photo of the ruins of the Notre Dame Basilica. Text at top right: "Guerre 1914-1918/267 -- La Basilique de Notre-Dame de Brebi&#x00E8;res/Vue prise de la rue Jeanne d'Harcourt/apr&#x00E8;s le bombardement du 29 Septembre 1914/The Basilica of N.-D. de Brebi&#x00E8;res/after several bombardment -- Sept. 1914." Text alongside left edge: "Vis&#x00E9; Paris no 228". Text alongside right edge: "G. Lelong, 21, Rue St-Martin, Amiens". On reverse: "Imp. Catala Fr&#x00E8;res, Paris."</figDesc>
 </figure>
 
 <figure entity="Guerre_statue_1406" ana="nat-fr im-ph con-r t-wwi">
 <head>La Grande Guerre 1914-18</head>
-<figDesc>This postcard is a black and white photo of a statue outside Place Royale of Louis XV. Text at top center: "1406.--La Grande Guerre 1914-18 -- Bombardement de REIMS - Place Royale,/(La Statue de Louis XV est toujours debout." On reverse: "Phototypie Paris Baudini&egrave;re".</figDesc>
+<figDesc>This postcard is a black and white photo of a statue outside Place Royale of Louis XV. Text at top center: "1406.--La Grande Guerre 1914-18 -- Bombardement de REIMS - Place Royale,/(La Statue de Louis XV est toujours debout." On reverse: "Phototypie Paris Baudini&#x00E8;re".</figDesc>
 </figure>
 
 <figure entity="Guerre_Albert-Notre_Dame_80" ana="nat-fr mil-f con-r im-ph t-wwi">
 <head>Guerre 1914-1918</head>
-<figDesc> This postcard is a black and white photo of the ruins of the Notre Dame Basilica. Text at top right: "Guerre 1914-1918/80 -- Albert (Somme) - Basilique de N.-D. de Brebi&egrave;res (c&ocirc;t&eacute; Est)/Apr&egrave;s plusieurs bombardements par les Allemands./The Basilica after several bombardments." Text alongside left edge: "Vis&eacute; Paris no 113". On reverse: "Imp. Catala Fr&egrave;res, Paris."</figDesc>
+<figDesc> This postcard is a black and white photo of the ruins of the Notre Dame Basilica. Text at top right: "Guerre 1914-1918/80 -- Albert (Somme) - Basilique de N.-D. de Brebi&#x00E8;res (c&#x00F4;t&#x00E9; Est)/Apr&#x00E8;s plusieurs bombardements par les Allemands./The Basilica after several bombardments." Text alongside left edge: "Vis&#x00E9; Paris no 113". On reverse: "Imp. Catala Fr&#x00E8;res, Paris."</figDesc>
 </figure>
 
 <figure entity="Guerre_Albert_85" ana="nat-fr mil-f con-r im-ph t-wwi">
 <head>Guerre 1914-1918</head>
-<figDesc>This postcard is a black and white photo of the ruins inside a basilica. A soldier stands in the foreground on a pile of broken beams. Text at bottom center: "Guerre 1914-1918 Vis&eacute; Paris no 117/85--Albert (Somme) - Int&eacute;rieur de la Basilique/Les Grandes Orgues, apr&egrave;s le Bombardement/Interior of Basilica - The Great Organ. After the bombardment." Text alongside right edge: "G. Lelong, 21, Rue St-Martin, Amiens". On reverse: "Imp. Catala Fr&egrave;res, Paris."</figDesc>
+<figDesc>This postcard is a black and white photo of the ruins inside a basilica. A soldier stands in the foreground on a pile of broken beams. Text at bottom center: "Guerre 1914-1918 Vis&#x00E9; Paris no 117/85--Albert (Somme) - Int&#x00E9;rieur de la Basilique/Les Grandes Orgues, apr&#x00E8;s le Bombardement/Interior of Basilica - The Great Organ. After the bombardment." Text alongside right edge: "G. Lelong, 21, Rue St-Martin, Amiens". On reverse: "Imp. Catala Fr&#x00E8;res, Paris."</figDesc>
 </figure>
 
 <figure entity="Guerre_Albert_90" ana="nat-fr mil-f con-r im-ph t-wwi">
 <head>Guerre 1914-1918</head>
-<figDesc>This postcard is a black and white photo of ruins in a street. Text at top left: "Guerre 1914-1918--90--Albert (Somme)/Ce qui reste de la rue Gambetta, dans le fonds la Place d'Armes/Le Caf&eacute; de la Musique est marqu&eacute; d'un/Gambetta street after the bombardment". Text at bottom left: "Vis&eacute; Paris no 88". On reverse: "Imp. Catala Fr&egrave;res, Paris."</figDesc>
+<figDesc>This postcard is a black and white photo of ruins in a street. Text at top left: "Guerre 1914-1918--90--Albert (Somme)/Ce qui reste de la rue Gambetta, dans le fonds la Place d'Armes/Le Caf&#x00E9; de la Musique est marqu&#x00E9; d'un/Gambetta street after the bombardment". Text at bottom left: "Vis&#x00E9; Paris no 88". On reverse: "Imp. Catala Fr&#x00E8;res, Paris."</figDesc>
 </figure>
 
 <figure entity="Guerre_Albert_262" ana="nat-fr mil-f con-r im-ph t-wwi">
 <head>Guerre 1914-1918</head>
-<figDesc>This postcard is a black and white photo ruined houses along a street. Text at top center: "Guerre 1914-1918/262--Albert (Somme) - La Place d'Armes apr&egrave;s 15 mois de bombardement/The Arm Place after several bombardment." Text at bottom left: "G. Lelong, 21, Rue St-Martin, Amiens". Text at bottom right: "Vis&eacute; Paris no 207". On reverse: "Imp. Catala Fr&egrave;res, Paris."</figDesc>
+<figDesc>This postcard is a black and white photo ruined houses along a street. Text at top center: "Guerre 1914-1918/262--Albert (Somme) - La Place d'Armes apr&#x00E8;s 15 mois de bombardement/The Arm Place after several bombardment." Text at bottom left: "G. Lelong, 21, Rue St-Martin, Amiens". Text at bottom right: "Vis&#x00E9; Paris no 207". On reverse: "Imp. Catala Fr&#x00E8;res, Paris."</figDesc>
 </figure>
 
 <figure entity="Guerre_Albert_580" ana="nat-fr mil-f con-r im-ph t-wwi">
 <head>Guerre 1914-1918</head>
-<figDesc>This postcard is a black and white photo of a ruined home. Text at top left: "Guerre 1914-1918/580--Albert (Somme)/La Maison de Mr Watelain, notaire/apr&egrave;s le bombardement./The home of Mr Watelain, after the bombardment./Vis&eacute; Paris no 583". On reverse: "Imp. Catala Fr&egrave;res, Paris."</figDesc>
+<figDesc>This postcard is a black and white photo of a ruined home. Text at top left: "Guerre 1914-1918/580--Albert (Somme)/La Maison de Mr Watelain, notaire/apr&#x00E8;s le bombardement./The home of Mr Watelain, after the bombardment./Vis&#x00E9; Paris no 583". On reverse: "Imp. Catala Fr&#x00E8;res, Paris."</figDesc>
 </figure>
 
 <figure entity="Guerre_Lorraine" ana="nat-fr mil-f con-r im-ph t-wwi">
 <head>La Guerre en Lorraine</head>
-<figDesc>This postcard is a black and white photo taken inside the ruins of a church. Text at bottom center: "La Guerre en Lorraine/Badonviller.-Int&eacute;rieur de l'Eglise apr&egrave;s l'invasion du 12 Ao&ucirc;t 1914". Text at bottom right: "Clich&eacute; &Eacute;mile Fourmier". On reverse: blank.</figDesc>
+<figDesc>This postcard is a black and white photo taken inside the ruins of a church. Text at bottom center: "La Guerre en Lorraine/Badonviller.-Int&#x00E9;rieur de l'Eglise apr&#x00E8;s l'invasion du 12 Ao&#x00DB;t 1914". Text at bottom right: "Clich&#x00E9; &#x00C9;mile Fourmier". On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="Guerre_Senlis_street" ana="nat-fr im-ph con-r t-wwi">
-<head>Guerre 1914 &agrave; 1918 - Senlis</head>
-<figDesc>This postcard is a black and white photo of a street with delapidated buildings. Text at top right: "Guerre 1914 &agrave; 1918 - Senlis/Maison SIMON Rue de la R&eacute;publique/incendi&eacute;e par les allemands T. M. K." Text at bottom left: "Visa 86". On reverse: "Timinsky, 104 Rue Lafayette Paris".</figDesc>
+<head>Guerre 1914 &#x00E0; 1918 - Senlis</head>
+<figDesc>This postcard is a black and white photo of a street with delapidated buildings. Text at top right: "Guerre 1914 &#x00E0; 1918 - Senlis/Maison SIMON Rue de la R&#x00E9;publique/incendi&#x00E9;e par les allemands T. M. K." Text at bottom left: "Visa 86". On reverse: "Timinsky, 104 Rue Lafayette Paris".</figDesc>
 </figure>
 
 <figure entity="Guerre_Senlis_53" ana="nat-fr im-ph con-r t-wwi">
-<head>53. Guerre 1914 &agrave; 1917</head>
-<figDesc>This postcard is a black and white photo of a ruined auto garage. Text at top left: "53. Guerre 1914 &agrave; 1917/Senlis--Rue de la R&eacute;publique/Maisons incendi&eacute;es par les Allemands/T. M. K." Text at bottom left: "Vis&eacute; Paris 53". Text on outside of building: "Garage pour cycles et autos". On reverse: "Timinsky, 104 Rue Lafayette Paris".</figDesc>
+<head>53. Guerre 1914 &#x00E0; 1917</head>
+<figDesc>This postcard is a black and white photo of a ruined auto garage. Text at top left: "53. Guerre 1914 &#x00E0; 1917/Senlis--Rue de la R&#x00E9;publique/Maisons incendi&#x00E9;es par les Allemands/T. M. K." Text at bottom left: "Vis&#x00E9; Paris 53". Text on outside of building: "Garage pour cycles et autos". On reverse: "Timinsky, 104 Rue Lafayette Paris".</figDesc>
 </figure>
 
 <figure entity="Guerre_Senlis_57" ana="nat-fr im-ph con-r t-wwi">
-<head>57. Guerre 1914 &agrave; 1918 - Senlis</head>
-<figDesc>This postcard is a black and white photo of a street with ruins on both sides. Two men stand on a pile of rubble. Text at top center: "Guerre 1914 &agrave; 1918 - Senlis/Rue de la R&eacute;publique incendi&eacute;e par les allemands/T. M. K." Text at bottom left: "Vis&eacute; Paris 57". On reverse: "Timinsky, 104 Rue Lafayette Paris".</figDesc>
+<head>57. Guerre 1914 &#x00E0; 1918 - Senlis</head>
+<figDesc>This postcard is a black and white photo of a street with ruins on both sides. Two men stand on a pile of rubble. Text at top center: "Guerre 1914 &#x00E0; 1918 - Senlis/Rue de la R&#x00E9;publique incendi&#x00E9;e par les allemands/T. M. K." Text at bottom left: "Vis&#x00E9; Paris 57". On reverse: "Timinsky, 104 Rue Lafayette Paris".</figDesc>
 </figure>
 
 <figure entity="Guerre_Senlis_pond" ana="nat-fr im-ph con-r t-wwi">
-<head>Guerre 1914 &agrave; 1918 - Senlis</head>
-<figDesc>This postcard is a black and white photo of a mill pond surrounded by ruined buildings. Text at top left: "Guerre 1914 &agrave; 1918 - Senlis/Le Moulin des Carmes incendi&eacute;/par les Allemands T. M. K." Text at bottom right: "Vis&eacute; Paris 250". On reverse: "Timinsky, 104 Rue Lafayette Paris".</figDesc>
+<head>Guerre 1914 &#x00E0; 1918 - Senlis</head>
+<figDesc>This postcard is a black and white photo of a mill pond surrounded by ruined buildings. Text at top left: "Guerre 1914 &#x00E0; 1918 - Senlis/Le Moulin des Carmes incendi&#x00E9;/par les Allemands T. M. K." Text at bottom right: "Vis&#x00E9; Paris 250". On reverse: "Timinsky, 104 Rue Lafayette Paris".</figDesc>
 </figure>
 
 <figure entity="Guerre_Senlis_hotel" ana="nat-fr mil-f con-r im-ph t-wwi">
-<head>Guerre 1914 &agrave; 1918 - Senlis</head>
-<figDesc>This postcard is a black and white photo of a ruined hotel and mansion. Text at top right: "Guerre 1914 &agrave; 1918 - Senlis/L'H&ocirc;tel du Nord et la Maison ENCAUSSE/incendi&eacute;s par les allemands T. M. K." Text at bottom left: "Visa 244". On reverse: "Timinsky, 104 Rue Lafayette Paris"; handwritten message.</figDesc>
+<head>Guerre 1914 &#x00E0; 1918 - Senlis</head>
+<figDesc>This postcard is a black and white photo of a ruined hotel and mansion. Text at top right: "Guerre 1914 &#x00E0; 1918 - Senlis/L'H&#x00F4;tel du Nord et la Maison ENCAUSSE/incendi&#x00E9;s par les allemands T. M. K." Text at bottom left: "Visa 244". On reverse: "Timinsky, 104 Rue Lafayette Paris"; handwritten message.</figDesc>
 </figure>
 
 <figure entity="gun_instructions" ana="nat-us mil-a mil-p im-ph t-wwi">
@@ -666,26 +662,25 @@ misfortune to become victims of Hun 'Kultur'"</p><p rend="right">From a press cu
 <figDesc>This postcard is a black and white photo of a ship harbor. On reverse: blank.</figDesc>
 </figure>
 
-<figure entity="hearty_greetings" ana="con-f nat-brit nat-bel nat-fr
-	nat-it nat-ee t-wwi mil-a">
+<figure entity="hearty_greetings" ana="con-f nat-brit nat-bel nat-fr  nat-it nat-ee t-wwi mil-a">
 <head>Hearty Greetings and Best Wishes for Christmas and the Coming Year</head>
 <figDesc>This postcard is a color drawing of an entryway with a royal crest in the center and three flags on either side. Text in center: "Hearty Greetings and Best Wishes/...for.../Christmas and the Coming Year/- From -/Bill [handwritten]." Text at bottom left: "5th Royal Fusiliers,/Dover." On reverse: "Copyright E. Mack, King Henry's Rd. Hampstead, London."; handwritten message.</figDesc>
 </figure>
 
 <figure entity="heavy_sea-way" ana="mil-na con-el im-ph t-post">
 <head>A Heavy Sea-Way</head>
-<figDesc>This postcard is a black and white photo of two ships, partially obscured by waves. Text at bottom left: "A Heavy Sea-Way". Text at bottom right: "&copy; N. Moser, N.Y." On reverse: blank.</figDesc>
+<figDesc>This postcard is a black and white photo of two ships, partially obscured by waves. Text at bottom left: "A Heavy Sea-Way". Text at bottom right: "&#x00A9; N. Moser, N.Y." On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="if_dreams" ana="hf-w hf-ro mil-f">
 <head>If dreams would only just come true, Then, sweetheart dear, I'd be with you.</head>
-<figDesc>This postcard has two color pictures. In the center is a picture of a soldier sleeping in a tent. To the left is a picture of him walking with a young woman. Text at bottom right: "If dreams would only/just come true,/Then, sweetheart dear,/I'd be with you." On reverse: "&copy; Illustrated Postal Card &#x0026; Nov. Co., N. Y."</figDesc>
+<figDesc>This postcard has two color pictures. In the center is a picture of a soldier sleeping in a tent. To the left is a picture of him walking with a young woman. Text at bottom right: "If dreams would only/just come true,/Then, sweetheart dear,/I'd be with you." On reverse: "&#x00A9; Illustrated Postal Card &#x0026; Nov. Co., N. Y."</figDesc>
 </figure>
 
 <figure entity="if_wishes" ana="nat-us mil-a hf-ro hf-w t-wwi">
 <head>If Wishes Came True</head>
 <figDesc>This postcard is a color drawing of a soldier by the water
-with an image of a woman standing next to him. Artist: Archie Gunn. Text at bottom center: "If Wishes Came True". On reverse: "1368 &copy; Illustrated Postal Card &#x0026; Nov. Co. N. Y."; handwritten message.</figDesc>
+with an image of a woman standing next to him. Artist: Archie Gunn. Text at bottom center: "If Wishes Came True". On reverse: "1368 &#x00A9; Illustrated Postal Card &#x0026; Nov. Co. N. Y."; handwritten message.</figDesc>
 </figure>
 
 <figure entity="in_memoriam" ana="nat-brit con-m im-dr">
@@ -719,12 +714,12 @@ now assembled as God's happy warriors on the Plains of Peace.</p>
 
 <figure entity="Jeder_Schuss" ana="im-ca nat-de t-wwi mil-p">
 <head>Jeder Schuss ein Russ'</head>
-<figDesc>This postcard has several black and white cartoons. In the top left corner is a cartoon of a soldier shooting a Russian soldier. Text underneath: "Jeder Schuss ein Russ'." In the top right corner is a cartoon of a soldier stabbing a French soldier. Text underneath: "Jeder Stoss ein Franzos'." In the middle left is a cartoon of a sailor kicking a man from behind. Text underneath: "Der Englishmann kommtauch jetzt dran." In the middle right is a cartoon of a rooster and a man standing behind it with a knife. Text underneath: "Nach Japan kr&auml;hf kein Hahn." In the bottom left is a cartoon of a soldier holding another man up by his collar. Text beneath: "Jhr in Belgien k&ouml;nntuns nicht behelligen." In the bottom center is a cartoon of a fat man and three roosters. Text underneath: "&Uuml;ber die Montenegriner lachen selbst die H&uuml;hner". In the bottom right is a cartoon of a soldier stabbing a man on the ground. Text underneath: "Auch in Serbien soll'n se sterbien". On reverse: blank.</figDesc>
+<figDesc>This postcard has several black and white cartoons. In the top left corner is a cartoon of a soldier shooting a Russian soldier. Text underneath: "Jeder Schuss ein Russ'." In the top right corner is a cartoon of a soldier stabbing a French soldier. Text underneath: "Jeder Stoss ein Franzos'." In the middle left is a cartoon of a sailor kicking a man from behind. Text underneath: "Der Englishmann kommtauch jetzt dran." In the middle right is a cartoon of a rooster and a man standing behind it with a knife. Text underneath: "Nach Japan kr&#x00E4;hf kein Hahn." In the bottom left is a cartoon of a soldier holding another man up by his collar. Text beneath: "Jhr in Belgien k&#x00F6;nntuns nicht behelligen." In the bottom center is a cartoon of a fat man and three roosters. Text underneath: "&#x00DC;ber die Montenegriner lachen selbst die H&#x00FC;hner". In the bottom right is a cartoon of a soldier stabbing a man on the ground. Text underneath: "Auch in Serbien soll'n se sterbien". On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="Je_suis" ana="nat-fr mil-a hf-p im-ca hf-re t-wwi">
 <head>Je suis celui qui a dit: "Tu ne tueras point!"</head>
-<figDesc>This postcard is a black and white drawing of a man with a halo standing in a doorway in front of some surprised soldiers. Text at bottom center: "Je suis celui qui a dit: 'Tu ne tueras point!'" On reverse: "Galerie Patriotique - (vis&eacute; Paris No au verse)"; "A. Noyer. Paris (Fabrication Fran&ccedil;aise)-60".</figDesc>
+<figDesc>This postcard is a black and white drawing of a man with a halo standing in a doorway in front of some surprised soldiers. Text at bottom center: "Je suis celui qui a dit: 'Tu ne tueras point!'" On reverse: "Galerie Patriotique - (vis&#x00E9; Paris No au verse)"; "A. Noyer. Paris (Fabrication Fran&#x00E7;aise)-60".</figDesc>
 </figure>
 
 <figure entity="kaisers_dream" ana="nat-brit con-v con-h t-wwi">
@@ -774,7 +769,7 @@ now assembled as God's happy warriors on the Plains of Peace.</p>
 
 <figure entity="kriegsanleihe" ana="nat-de im-po t-wwi hf-p">
 <head>Kriegsanleihe</head>
-<figDesc>This postcard is colored drawing of people tearing down the British flag. Text at bottom center: "St&uuml;tzt Unsre Feldgrauen";"Zereisst Englands Macht Zeichnet"; "Kriegsanleihe". Text at bottom left: "Druck v. Wilh.Eisfeller-C&ouml;ln". Text at bottom right: "Otto Lehmann-C&ouml;ln". On reverse: "Dalkeith Classic Poster P83/Otto Lehmann, Germany/Translation: 'Support our field grey. Rend England's might. Subscribe to the war loan'". </figDesc>
+<figDesc>This postcard is colored drawing of people tearing down the British flag. Text at bottom center: "St&#x00FC;tzt Unsre Feldgrauen";"Zereisst Englands Macht Zeichnet"; "Kriegsanleihe". Text at bottom left: "Druck v. Wilh.Eisfeller-C&#x00F6;ln". Text at bottom right: "Otto Lehmann-C&#x00F6;ln". On reverse: "Dalkeith Classic Poster P83/Otto Lehmann, Germany/Translation: 'Support our field grey. Rend England's might. Subscribe to the war loan'". </figDesc>
 </figure>
 
 <figure entity="la_serbie" ana="nat-fr mil-a con-m t-wwi">
@@ -784,7 +779,7 @@ now assembled as God's happy warriors on the Plains of Peace.</p>
 
 <figure entity="last_goodbyes" ana="hf-w hf-ro hf-p t-wwi mil-a">
 <head>When the Last Goodbyes Are Whispered</head>
-<figDesc>This postcard is a color drawing of a soldier and a woman embracing. Text beside picture: "Archie Gunn". Text at bottom center: "When the Last Goodbyes Are Whispered". On reverse: "1368 &copy; Illustrated Postal Card &#x0026; Nov. Co. N. Y."; "Printed in the U.S.A."</figDesc>
+<figDesc>This postcard is a color drawing of a soldier and a woman embracing. Text beside picture: "Archie Gunn". Text at bottom center: "When the Last Goodbyes Are Whispered". On reverse: "1368 &#x00A9; Illustrated Postal Card &#x0026; Nov. Co. N. Y."; "Printed in the U.S.A."</figDesc>
 </figure>
 
 <figure entity="liberty_flag" ana="con-f nat-us hf-p con-v t-wwi">
@@ -794,7 +789,7 @@ now assembled as God's happy warriors on the Plains of Peace.</p>
 
 <figure entity="liege_soldiers" ana="nat-fr mil-a hf-p con-h im-ca t-wwi">
 <head>Liege</head>
-<figDesc>This postcard is a black and white cartoon of two soldiers walking with their chests stuck out. Text at bottom right of picture: "Pierre". Text at bottom center: "--Ils cherchent leur &eacute;tendard qu'ils ont &eacute;gar&eacute;/dans les environs de Li&egrave;ge./--They are looking for their flag and they have/mislaid somewhere about Liege." On reverse: blank.</figDesc>
+<figDesc>This postcard is a black and white cartoon of two soldiers walking with their chests stuck out. Text at bottom right of picture: "Pierre". Text at bottom center: "--Ils cherchent leur &#x00E9;tendard qu'ils ont &#x00E9;gar&#x00E9;/dans les environs de Li&#x00E8;ge./--They are looking for their flag and they have/mislaid somewhere about Liege." On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="loading_cannon" ana="mil-na im-ph t-pre">
@@ -805,7 +800,7 @@ now assembled as God's happy warriors on the Plains of Peace.</p>
 <figure entity="loving_son" ana="im-s nat-fr t-wwi">
 <head>From Your Loving Son</head>
 <figDesc>This postcard has embroidered flowers and a butterfly; the
-wings are flags; "From Your Loving Son" embroidered in the bottom right corner. On reverse: "Fabrication Fran&ccedil;aise"; handwritten message.</figDesc>
+wings are flags; "From Your Loving Son" embroidered in the bottom right corner. On reverse: "Fabrication Fran&#x00E7;aise"; handwritten message.</figDesc>
 </figure>
 
 <figure entity="loving_thoughts" ana="hf-h t-wwi con-v nat-us mil-f">
@@ -821,7 +816,7 @@ corner. To the right of the inset is "Loving Thoughts". Beneath the
 inset are two flowers, an open book, and a poem entitled "The Trail
 that Leads to Home". Text beneath poem: "Bamforth copyright. By kind
 permission of West &#x0026; Co., Rathbone Place, London, W." On
-reverse: "&copy; 1918 Bamforth &#x0026; Co., 96 Warren St., New
+reverse: "&#x00A9; 1918 Bamforth &#x0026; Co., 96 Warren St., New
 York."; handwritten message; uses mirror writing.</figDesc>
 </figure>
 
@@ -841,20 +836,20 @@ York."; handwritten message; uses mirror writing.</figDesc>
 </figure>
 
 <figure entity="moulin" ana="nat-fr im-pa hf-ro hf-w mil-a t-wwi">
-<head>Pr&egrave;s du Moulin</head>
+<head>Pr&#x00E8;s du Moulin</head>
 <figDesc>This postcard is a sepia-toned, color-tinted picture of a
 soldier and a woman sitting on a bench. He is smelling a rose in her
 hand and there is a windmill in the background. Text at top left:
-"Pr&egrave;s du Moulin". Text at top right: "De la nature riante
+"Pr&#x00E8;s du Moulin". Text at top right: "De la nature riante
 empruntons son charine/Du parfum de las rose enivrons notre
-&aacute;me." Text at bottom left: "Gloria". On reverse: handwritten
+&#x00E1;me." Text at bottom left: "Gloria". On reverse: handwritten
 message. Faint printing on the back says "Tirage Dr[e]mure Lico,
 Boulogne, Paris/Vis Paris, No. ad verso."</figDesc>
 </figure>
 
 <figure entity="Nieppe" ana="nat-fr mil-f con-r im-ph t-wwi">
 <head>Nieppe</head>
-<figDesc>This postcard is a black and white photo of a ruined building on the corner of a street. Text at top center: "Nieppe--La Grand'Place--Estaminet du Cerf, d&eacute;truit par les obus/The Square--'Estaminet du Cerf', destroyed by the sheels". On reverse: "Vis&eacute; Nancy A. 5321".</figDesc>
+<figDesc>This postcard is a black and white photo of a ruined building on the corner of a street. Text at top center: "Nieppe--La Grand'Place--Estaminet du Cerf, d&#x00E9;truit par les obus/The Square--'Estaminet du Cerf', destroyed by the sheels". On reverse: "Vis&#x00E9; Nancy A. 5321".</figDesc>
 </figure>
 
 <figure entity="nobody_else" ana="nat-brit hf-h hf-ro mil-a">
@@ -882,8 +877,8 @@ ship's wake and a plume of water. On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="officers_in_camp" ana="nat-de mil-a im-ph t-wwi">
-<head></head>
-<figDesc>This postcard is a black and white photo of officers in a camp. On reverse: "Prinz Leopold von Bayern/im Sch&uuml;tzengraben der/Deutschmeister/1917"; "Lichtdruck v. Max Jaff&eacute;, Wien."; handwritten message.</figDesc>
+<head>Officers in Camp</head>
+<figDesc>This postcard is a black and white photo of officers in a camp. On reverse: "Prinz Leopold von Bayern/im Sch&#x00FC;tzengraben der/Deutschmeister/1917"; "Lichtdruck v. Max Jaff&#x00E9;, Wien."; handwritten message.</figDesc>
 </figure>
 
 <figure entity="old_chum" ana="nat-brit con-v im-ph mil-a mil-f t-wwi">
@@ -915,13 +910,13 @@ ship's wake and a plume of water. On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="parade" ana="im-ph mil-a hf-h nat-us con-p t-wwi">
-<head></head>
+<head>Parade</head>
 <figDesc>This postcard is a sepia-toned picture of a parade in front
 of a bank (Riggs National Bank). A man (General John J. Pershing?) on horseback salutes. On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="potato_peelers" ana="nat-us mil-na con-el im-ph t-wwi">
-<head></head>
+<head>Potato Peelers</head>
 <figDesc>This postcard is a sepia-toned photo of two sailors peeling potatoes. On reverse: blank.</figDesc>
 </figure>
 
@@ -934,54 +929,53 @@ of a bank (Riggs National Bank). A man (General John J. Pershing?) on horseback 
 <head>204. Reims</head>
 <figDesc>This postcard is a black and white picture of a ruined
 cathedral. Text at top left: "204. Reims--Les tours de la
-Cath&eacute;drale/After the bombardment". At bottom: "Guis nicr.,
+Cath&#x00E9;drale/After the bombardment". At bottom: "Guis nicr.,
 editeur, Reims" On reverse: handwritten message.</figDesc>
 </figure>
 
 <figure entity="Reims_cathedral_63" ana="nat-fr mil-f con-r im-ph t-wwi">
 <head>63. Reims</head>
-<figDesc>This postcard is a black and white photograph of a cathedral among ruins. Text at top center: "63. Reims dans le Ruines apr&egrave;s la Retraite des Allemands". Text at bottom center: "La Cath&eacute;drale travers les Ruines--The Cathedral among the ruins. Text on left side: "G. Graff edit. Reims". On reverse: blank.</figDesc>
+<figDesc>This postcard is a black and white photograph of a cathedral among ruins. Text at top center: "63. Reims dans le Ruines apr&#x00E8;s la Retraite des Allemands". Text at bottom center: "La Cath&#x00E9;drale travers les Ruines--The Cathedral among the ruins. Text on left side: "G. Graff edit. Reims". On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="Reims_fountain1" ana="nat-fr hf-p con-r im-ph t-pre">
 <head>Reims avant la Grande Guerre</head>
-<figDesc>This postcard is a black and white picture of a large fountain with statues in it. Text at top center: "Reims avant la Grande Guerre". Text at bottom center: "Fontaine Bartholdi, Place de la Republique -- Bartholdi Fountain, R&eacute;public Square before the War." Text on left side: "G. Graff edit. Reims". On reverse: blank.</figDesc>
+<figDesc>This postcard is a black and white picture of a large fountain with statues in it. Text at top center: "Reims avant la Grande Guerre". Text at bottom center: "Fontaine Bartholdi, Place de la Republique -- Bartholdi Fountain, R&#x00E9;public Square before the War." Text on left side: "G. Graff edit. Reims". On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="Reims_fountain2" ana="nat-fr hf-p con-r im-ph t-wwi">
-<head>20. Reims dans les Ruines apr&egrave;s la Retraite des Allemands</head>
-<figDesc>This postcard is a black and white picture of a large fountain of statues. Ruined buildings are in the background. Text at top center: "20. Reims dans les Ruines apr&egrave;s la Retraite des Allemands". Text at bottom center: "Fontaine Bartholdi et Place de la Republique -- Bartholdi Fountain and R&eacute;public Square." Text on left side: "G. Graff edit. Reims". On reverse: blank.</figDesc>
+<head>20. Reims dans les Ruines apr&#x00E8;s la Retraite des Allemands</head>
+<figDesc>This postcard is a black and white picture of a large fountain of statues. Ruined buildings are in the background. Text at top center: "20. Reims dans les Ruines apr&#x00E8;s la Retraite des Allemands". Text at bottom center: "Fontaine Bartholdi et Place de la Republique -- Bartholdi Fountain and R&#x00E9;public Square." Text on left side: "G. Graff edit. Reims". On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="Reims_market_sq_16" ana="nat-fr hf-p con-r im-ph t-wwi">
-<head>16. - Reims dans les Ruines apr&egrave;s la Retraite des Allemands</head>
-<figDesc>This postcard is a black and white picture of ruins in a market square. Text at top center: "Reims dans les Ruines apr&egrave;s la Retraite des Allemands". Text at bottom center: "Place de March&eacute;s - Emplacement des Maisons historiques -- The Market Square - Place of the Historic Houses." Text on left side: "G. Graff edit. Reims". On reverse: blank.</figDesc>
+<head>16. - Reims dans les Ruines apr&#x00E8;s la Retraite des Allemands</head>
+<figDesc>This postcard is a black and white picture of ruins in a market square. Text at top center: "Reims dans les Ruines apr&#x00E8;s la Retraite des Allemands". Text at bottom center: "Place de March&#x00E9;s - Emplacement des Maisons historiques -- The Market Square - Place of the Historic Houses." Text on left side: "G. Graff edit. Reims". On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="Reims_square_22" ana="nat-fr mil-f con-r im-ph t-wwi">
-<head>22. Reims dans les Ruines apr&egrave;s la Retraite des Allemands </head>
-<figDesc>This postcard is a black and white picture of ruins in the square. Text at top center: "22. Reims dans les Ruines apr&egrave;s la Retraite des Allemands." Text at bottom center: "Place d'Erlon vers la Cath&eacute;drale et St-Jacques--Erlon Square towards the Cathedral and St. James Church". Text on left side: "G. Graff edit. Reims". On reverse: blank.</figDesc>
+<head>22. Reims dans les Ruines apr&#x00E8;s la Retraite des Allemands </head>
+<figDesc>This postcard is a black and white picture of ruins in the square. Text at top center: "22. Reims dans les Ruines apr&#x00E8;s la Retraite des Allemands." Text at bottom center: "Place d'Erlon vers la Cath&#x00E9;drale et St-Jacques--Erlon Square towards the Cathedral and St. James Church". Text on left side: "G. Graff edit. Reims". On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="Reims_street" ana="nat-fr hf-p con-r im-ph t-pre">
 <head>Reims avant la Grande Guerre</head>
-<figDesc>This postcard is a black and white picture of a street and square before the war. Text at top center: "Reims avant la Grande Guerre". Text at bottom center: "Vue g&eacute;n&eacute;rale de la Place d'Erlon vers St-Jacques -- General view of Erlon Square towards St-James Church before the War." Text on left side: "G. Graff edit. Reims". On reverse: blank.</figDesc>
+<figDesc>This postcard is a black and white picture of a street and square before the war. Text at top center: "Reims avant la Grande Guerre". Text at bottom center: "Vue g&#x00E9;n&#x00E9;rale de la Place d'Erlon vers St-Jacques -- General view of Erlon Square towards St-James Church before the War." Text on left side: "G. Graff edit. Reims". On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="Reims_town_hall" ana="nat-fr mil-f con-r im-ph t-wwi">
-<head>14. Reims dans les Ruines apr&egrave;s la Retraite des Allemands. -H&ocirc;tel de Ville -- The Town Hall.</head>
-<figDesc>This postcard is a black and white picture of a ruined town hall. Text at bottom center: "14. Reims dans les Ruines apr&egrave;s la Retraite des Allemands. -H&ocirc;tel de Ville -- The Town Hall." Text on left side: "G. Graff edit. Reims". On reverse: blank.</figDesc>
+<head>14. Reims dans les Ruines apr&#x00E8;s la Retraite des Allemands. -H&#x00F4;tel de Ville -- The Town Hall.</head>
+<figDesc>This postcard is a black and white picture of a ruined town hall. Text at bottom center: "14. Reims dans les Ruines apr&#x00E8;s la Retraite des Allemands. -H&#x00F4;tel de Ville -- The Town Hall." Text on left side: "G. Graff edit. Reims". On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="repairing" ana="nat-us mil-nur mil-f t-wwi hf-p">
 <head>Repairing a Man of War</head>
-<figDesc>This postcard is a color drawing of a nurse bandaging a soldier. Text at bottom center: "Repairing a Man of War". On reverse: "1368 &copy; Illustrated Postal Card &#x0026; Nov. Co. N.Y."; "Printed in the U.S.A."</figDesc>
+<figDesc>This postcard is a color drawing of a nurse bandaging a soldier. Text at bottom center: "Repairing a Man of War". On reverse: "1368 &#x00A9; Illustrated Postal Card &#x0026; Nov. Co. N.Y."; "Printed in the U.S.A."</figDesc>
 </figure>
 
-<figure entity="rule_britania" ana="im-s nat-fr con-f nat-it nat-rus
-	nat-bel nat-brit">
+<figure entity="rule_britania" ana="im-s nat-fr con-f nat-it nat-rus  nat-bel nat-brit">
 <head>Rule Britania</head>
-<figDesc>This postcard has an embroidered British flag with a crown above it and two flags on either side. Embroidered text beneath flag: "Rule Britania". On reverse: "Fabrication Fran&ccedil;aise"; handwritten message.</figDesc>
+<figDesc>This postcard has an embroidered British flag with a crown above it and two flags on either side. Embroidered text beneath flag: "Rule Britania". On reverse: "Fabrication Fran&#x00E7;aise"; handwritten message.</figDesc>
 </figure>
 
 <figure entity="sailor_puppy" ana="nat-us mil-na con-el im-ph t-wwi">
@@ -1000,13 +994,13 @@ editeur, Reims" On reverse: handwritten message.</figDesc>
 </figure>
 
 <figure entity="sailors_in_water" ana="nat-us mil-na con-el im-ph t-pre">
-<head></head>
+<head>Untitled</head>
 <figDesc>This postcard is a black and white group photo of sailors
 standing in the water on the beach, with an overturned boat. On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="sailors_in_white_3" ana="nat-us mil-na con-el im-ph t-wwi">
-<head></head>
+<head>Untitled</head>
 <figDesc>This postcard is a black and white photo of a group of sailors in white uniforms. On reverse: blank.</figDesc>
 </figure>
 
@@ -1017,17 +1011,17 @@ standing in the water on the beach, with an overturned boat. On reverse: blank.<
 
 <figure entity="sealed_with_kiss" ana="nat-fr im-s t-wwi">
 <head>Sealed with a Kiss</head>
-<figDesc>This postcard has embroidered flowers and the message "Sealed with a Kiss" embroidered on the bottom. The postcard also functions as an envelope with a small card inside its pocket. The card has a small picture on it of a woman at a riverside and has the words "To my dear Sister". On reverse: "Fabrication Fran&ccedil;aise"; handwritten message.</figDesc>
+<figDesc>This postcard has embroidered flowers and the message "Sealed with a Kiss" embroidered on the bottom. The postcard also functions as an envelope with a small card inside its pocket. The card has a small picture on it of a woman at a riverside and has the words "To my dear Sister". On reverse: "Fabrication Fran&#x00E7;aise"; handwritten message.</figDesc>
 </figure>
 
 <figure entity="Senlis1" ana="nat-fr im-ph hf-p con-r t-wwi">
 <head>19. Senlis</head>
-<figDesc>This postcard is a black and white picture of the entrance to a town. Text at top center: "19. Senlis - Septembre 1914 - Place du Ch&acirc;telet et entr&eacute;e de la Ville/Senlis - September 1914 - Chalet's Place and The entrance of the town. A.B." On reverse: "Imp. A. Faucheux, Chelles."; "Bouillon, edit. 1-8, Rue des Couronnes, Paris".</figDesc>
+<figDesc>This postcard is a black and white picture of the entrance to a town. Text at top center: "19. Senlis - Septembre 1914 - Place du Ch&#x00E2;telet et entr&#x00E9;e de la Ville/Senlis - September 1914 - Chalet's Place and The entrance of the town. A.B." On reverse: "Imp. A. Faucheux, Chelles."; "Bouillon, edit. 1-8, Rue des Couronnes, Paris".</figDesc>
 </figure>
 
 <figure entity="Senlis2" ana="nat-fr im-ph hf-p con-r t-wwi">
 <head>Senlis</head>
-<figDesc>This postcard is a black and white picture of ruins.  Text at top center: "Senlis apr&egrave;s le passage des Allemands (septembre 1914)." Text at bottom left: "Vis&eacute; Paris No 15". Text at bottom center: "Int&eacute;rieur de la Gare." On reverse: "Imp. Phot. Neurdein Et Cie. --Paris."</figDesc>
+<figDesc>This postcard is a black and white picture of ruins.  Text at top center: "Senlis apr&#x00E8;s le passage des Allemands (septembre 1914)." Text at bottom left: "Vis&#x00E9; Paris No 15". Text at bottom center: "Int&#x00E9;rieur de la Gare." On reverse: "Imp. Phot. Neurdein Et Cie. --Paris."</figDesc>
 </figure>
 
 <figure entity="Senlis3" ana="nat-fr im-ph hf-p con-r t-wwi">
@@ -1037,7 +1031,7 @@ standing in the water on the beach, with an overturned boat. On reverse: blank.<
 
 <figure entity="Serbie_Belgique" ana="nat-fr nat-ee nat-bel con-f">
 <head>Serbie Belgique</head>
-<figDesc>This postcard depicts two flags and two flowers underneath them, each flower having a human face in the center. Text at top left: "Serbie". Text at top right: "Belgique". Text at bottom left: "Juan Ruiz". On reverse: "Fantaisies trichromes"; "Paris -- S&eacute;rie no 85"; "Les Drapeaux du droit, par Juan Ruiz."; "Vis&eacute; Paris. -- 455"; "Fabrication fran&ccedil;aise".</figDesc>
+<figDesc>This postcard depicts two flags and two flowers underneath them, each flower having a human face in the center. Text at top left: "Serbie". Text at top right: "Belgique". Text at bottom left: "Juan Ruiz". On reverse: "Fantaisies trichromes"; "Paris -- S&#x00E9;rie no 85"; "Les Drapeaux du droit, par Juan Ruiz."; "Vis&#x00E9; Paris. -- 455"; "Fabrication fran&#x00E7;aise".</figDesc>
 </figure>
 
 <figure entity="Sherman_cannon" ana="nat-us mil-a im-ph t-wwi">
@@ -1068,26 +1062,29 @@ Zoebel's uncle Will Zoebel is the one on the left".</figDesc>
 </figure>
 
 <figure entity="cannon_blast2" ana="nat-us mil-na con-el im-ph t-wwi">
+<head>Cannon Blast</head>
 <figDesc>This postcard is a black and white photo of cannons firing from a ship. On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="ship1" ana="nat-us mil-na con-el im-ph t-wwi">
+<head>Ship</head>
 <figDesc>This postcard is a black and white photo of a large ship on the water. On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="ship2" ana="nat-us mil-na con-el im-ph t-wwi">
+<head>Ship</head>
 <figDesc>This postcard is a black and white photo of a long steam ship on the water. On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="shipyard" ana="nat-us mil-na con-el im-ph t-post">
-<head></head>
+<head>Shipyard</head>
 <figDesc>This postcard is a black and white photo of a shipyard. On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="shoulder" ana="nat-us hf-w hf-p hf-ro mil-a im-dr t-wwi">
 <head>"Shoulder Arms"</head>
 <figDesc>This postcard is a color drawing of a soldier and a woman
-with a white dress and red bow. Lower left: "Archie Gunn." Text at bottom center: "'Shoulder Arms'". On reverse:"1368 &copy; Illustrated Postal Card &#x0026; Nov. Co. N.Y."; "Printed in the U.S.A."</figDesc>
+with a white dress and red bow. Lower left: "Archie Gunn." Text at bottom center: "'Shoulder Arms'". On reverse:"1368 &#x00A9; Illustrated Postal Card &#x0026; Nov. Co. N.Y."; "Printed in the U.S.A."</figDesc>
 </figure>
 
 <figure entity="simpsons" ana="nat-brit hf-p con-v con-h t-wwi">
@@ -1121,8 +1118,7 @@ with a white dress and red bow. Lower left: "Archie Gunn." Text at bottom center
 <figDesc>This postcard has a poem entitled "40 Men from Simpson's" by Herbert Kaufman. Subtitle: "(Forty Members of the Staff of Simpson's in the Strand--Waiters and Cooks--have enlisted.)" Text at top center: "Reprinted from The Standard Newspaper, Wednesday, September 9, 1914, by kind permission of the editor." Text at bottom center: "Simpson's in the Strand/The Famous Old English Dining House/Open on Sundays for Dinner from 6 p.m./Telephone Nos. - - - 4352 Gerrard and 6480 Regent./Telegrams - - - 'Simpson's, Strand, London.'" On reverse: blank.</figDesc>
 </figure>
 
-<figure entity="sincere_wishes" ana="nat-us mil-a hf-w hf-ro hf-h
-	con-v t-wwi">
+<figure entity="sincere_wishes" ana="nat-us mil-a hf-w hf-ro hf-h  con-v t-wwi">
 <head>Sincere Wishes</head>
 <p><text><body>
 <lg><l>I'm counting the days to the end of the War,</l>
@@ -1136,19 +1132,18 @@ with a white dress and red bow. Lower left: "Archie Gunn." Text at bottom center
 <figure entity="sleeping_qtrs" ana="nat-us mil-a im-ph t-wwi">
 <head>Camp--Grant Sleeping Quarters</head>
 <figDesc>This postcard is a black and white photo of soldiers standing
-by their beds in the barracks. Text at bottom right: "&copy; 1917
+by their beds in the barracks. Text at bottom right: "&#x00A9; 1917
 R.I.CO.  Camp -- Grant Sleeping Quarters". On reverse: "Published by the Photo-Post Card Co., Rockford, Ill."</figDesc>
 </figure>
 
 
 
 <figure entity="soldier_flag" ana="nat-us mil-a hf-p con-v con-f im-dr t-wwi">
-<head></head>
+<head>Soldier with Flag</head>
 <figDesc>This postcard has an inset of a soldier standing in front of the American flag. Text at bottom center: "We miss you awfully, old man,/So drop a line whene'er you can;/The fellows join me in a cheer,/And wish to goodness you were here." On reverse: "Pub by Christy Col Print. Eng. Inc Rochester N.Y. Series No 1."</figDesc>
 </figure>
 
-<figure entity="soldier_sailor" ana="nat-us mil-a con-v con-f hf-p
-	im-dr t-wwi">
+<figure entity="soldier_sailor" ana="nat-us mil-a con-v con-f hf-p  im-dr t-wwi">
 <head>To our Soldiers and Sailors</head>
 <figDesc>This postcard has an inset of two soldiers aiming their rifles, one in a boat and one in the water beside it. Text at bottom center: "To our Soldiers and Sailors--/Let us all sing their praise,/To the Blue and the Brown/Our hats let us raise." On reverse: "Pub by Christy Col Print. Eng. Inc Rochester N.Y. Series No 1."</figDesc>
 </figure>
@@ -1160,53 +1155,50 @@ R.I.CO.  Camp -- Grant Sleeping Quarters". On reverse: "Published by the Photo-P
 
 <figure entity="soldier_statue" ana="nat-de mil-a hf-p im-ph t-wwi">
 <head>Heinrich Wadere</head>
-<figDesc>This postcard is a sepia-toned picture of a statue of a soldier. Text beneath picture: "Heinrich Wadere  M&uuml;nchen". On reverse: "Opfertag 1917/Handgranatenwerfer/im Besitze Seiner Majestat des K&ouml;nigs/(Gefertigt von Professor Heinrich Wadere)/in M&uuml;nchen."; "Rehse &#x0026; Co. Photographische Kunstanstalt, M&uuml;nchen."; handwritten message.</figDesc>
+<figDesc>This postcard is a sepia-toned picture of a statue of a soldier. Text beneath picture: "Heinrich Wadere  M&#x00FC;nchen". On reverse: "Opfertag 1917/Handgranatenwerfer/im Besitze Seiner Majestat des K&#x00F6;nigs/(Gefertigt von Professor Heinrich Wadere)/in M&#x00FC;nchen."; "Rehse &#x0026; Co. Photographische Kunstanstalt, M&#x00FC;nchen."; handwritten message.</figDesc>
 </figure>
 
 <figure entity="soldier_tomb" ana="nat-de mil-a con-m im-ph">
 <head>Kriegerdenkmal</head>
-<figDesc>This postcard is a black and white photo of a tomb which has a stone covering shaped like a soldier. Text at bottom left: "M&uuml;nchen. Kriegerdenkmal." On reverse: "No 13025 August Zerle, M&uuml;nchen, Viktoriastr.1.Nachdruck verboten."; "Echte Photographie".</figDesc>
+<figDesc>This postcard is a black and white photo of a tomb which has a stone covering shaped like a soldier. Text at bottom left: "M&#x00FC;nchen. Kriegerdenkmal." On reverse: "No 13025 August Zerle, M&#x00FC;nchen, Viktoriastr.1.Nachdruck verboten."; "Echte Photographie".</figDesc>
 </figure>
 
 <figure entity="soldiers_letter" ana="nat-us mil-a hf-h con-v im-dr t-wwi">
 <head>A letter</head>
-<figDesc>This postcard is a color drawing of three soldiers reading a letter. Two of them are smoking pipes and in the smoke is a picture of a home. Text at bottom right: "A letter from one so far away/Makes the outlook Brighter,/Clears the way and cheers the day/And makes our Tasks the lighter." On reverse: "&copy; Illustrated Postal Card &#x0026; Nov. Co. N.Y."; "Printed in the U.S.A."</figDesc>
+<figDesc>This postcard is a color drawing of three soldiers reading a letter. Two of them are smoking pipes and in the smoke is a picture of a home. Text at bottom right: "A letter from one so far away/Makes the outlook Brighter,/Clears the way and cheers the day/And makes our Tasks the lighter." On reverse: "&#x00A9; Illustrated Postal Card &#x0026; Nov. Co. N.Y."; "Printed in the U.S.A."</figDesc>
 </figure>
 
-<figure entity="souvenir_de_france_1" ana="nat-fr im-s con-f nat-brit
-	nat-us t-wwi">
+<figure entity="souvenir_de_france_1" ana="nat-fr im-s con-f nat-brit  nat-us t-wwi">
 <head>Souvenir de France</head>
-<figDesc>This postcard has embroidered birds and flowers on the top and "Souvenir de France" embroidered on the bottom. The front of the postcard also functions as an envelope with three small cards on the inside. Each card has a picture of flowers and flags and the words "With Loving Christmas Greetings" on it. On reverse: "Fabrication fran&ccedil;aise, vis&eacute; Paris".</figDesc>
+<figDesc>This postcard has embroidered birds and flowers on the top and "Souvenir de France" embroidered on the bottom. The front of the postcard also functions as an envelope with three small cards on the inside. Each card has a picture of flowers and flags and the words "With Loving Christmas Greetings" on it. On reverse: "Fabrication fran&#x00E7;aise, vis&#x00E9; Paris".</figDesc>
 </figure>
 
 <figure entity="souvenir_de_france_2" ana="im-s nat-fr t-post">
 <head>Souvenir de France</head>
-<figDesc>This postcard has embroidered birds and flowers on the top and "Souvenir de France" embroidered on the bottom. The front of the postcard also functions as an envelope, but has nothing inside. On reverse: "Tous les pays &eacute;trangers n'acceptent pas la correspondance au recto, se renseigner &agrave; la poste"; handwritten message.</figDesc>
+<figDesc>This postcard has embroidered birds and flowers on the top and "Souvenir de France" embroidered on the bottom. The front of the postcard also functions as an envelope, but has nothing inside. On reverse: "Tous les pays &#x00E9;trangers n'acceptent pas la correspondance au recto, se renseigner &#x00E0; la poste"; handwritten message.</figDesc>
 </figure>
 
 <figure entity="souvenir_de_france_3" ana="im-s nat-fr t-post">
 <head>Souvenir de France</head>
-<figDesc>This postcard has embroidered flowers on the top and "Souvenir de France" embroidered on the bottom. The front of the postcard also functions as an envelope, but has nothing inside. On reverse: "Fabrication fran&ccedil;aise"; "Vis&eacute; Paris";"Mod&egrave;le d&eacute;pos&eacute;"; handwritten message.</figDesc>
+<figDesc>This postcard has embroidered flowers on the top and "Souvenir de France" embroidered on the bottom. The front of the postcard also functions as an envelope, but has nothing inside. On reverse: "Fabrication fran&#x00E7;aise"; "Vis&#x00E9; Paris";"Mod&#x00E8;le d&#x00E9;pos&#x00E9;"; handwritten message.</figDesc>
 </figure>
 
 <figure entity="souvenir_de_france_4" ana="nat-fr nat-us im-s con-f t-wwi">
 <head>Souvenir de France</head>
-<figDesc>This postcard has a flower and two flags embroidered on it and "Souvenir de France" embroidered in the bottom right corner. On reverse: "Fabrication fran&ccedil;aise, vis&eacute; Paris".</figDesc>
+<figDesc>This postcard has a flower and two flags embroidered on it and "Souvenir de France" embroidered in the bottom right corner. On reverse: "Fabrication fran&#x00E7;aise, vis&#x00E9; Paris".</figDesc>
 </figure>
 
-<figure entity="souvenir_de_france_5" ana="nat-fr nat-brit nat-us
-	con-f im-s t-wwi">
+<figure entity="souvenir_de_france_5" ana="nat-fr nat-brit nat-us  con-f im-s t-wwi">
 <head>Souvenir de France</head>
-<figDesc>This postcard has embroidered flags and flowers on the top and "Souvenir de France" embroidered on the bottom. The front of the postcard also functions as an envelope with a small card on the inside. The card has a picture of flags and the words "Gloire Aux Allies" and "I'm thinking of you" on it. On reverse: "Fabrication fran&ccedil;aise".</figDesc>
+<figDesc>This postcard has embroidered flags and flowers on the top and "Souvenir de France" embroidered on the bottom. The front of the postcard also functions as an envelope with a small card on the inside. The card has a picture of flags and the words "Gloire Aux Allies" and "I'm thinking of you" on it. On reverse: "Fabrication fran&#x00E7;aise".</figDesc>
 </figure>
 
 <figure entity="souvenir_fireworks" ana="nat-fr im-s t-wwi">
 <head>Souvenir of Ypres</head>
-<figDesc>This postcard has an embroidered picture of a building and fireworks. "Souvenir of Ypres" is embroidered beneath the picture. On reverse: "Fabrication fran&ccedil;aise"; handwritten message.</figDesc>
+<figDesc>This postcard has an embroidered picture of a building and fireworks. "Souvenir of Ypres" is embroidered beneath the picture. On reverse: "Fabrication fran&#x00E7;aise"; handwritten message.</figDesc>
 </figure>
 
-<figure entity="souvenir_flags" ana="nat-fr im-s con-f nat-us nat-brit
-	t-wwi">
+<figure entity="souvenir_flags" ana="nat-fr im-s con-f nat-us nat-brit  t-wwi">
 <head>Souvenir</head>
 <figDesc>This postcard has two flowers and three flags embroidered on it, as well as "Souvenir" at the top. On reverse: "Made in France - Tarare".</figDesc>
 </figure>
@@ -1227,12 +1219,11 @@ R.I.CO.  Camp -- Grant Sleeping Quarters". On reverse: "Published by the Photo-P
 </figure>
 
 <figure entity="though_skies" ana="nat-us hf-w hf-ro con-v t-wwi">
-<head></head>
-<figDesc>This postcard is a color-tinted picture of a woman in purple leaning her head on a soldier's shoulder. Text at bottom center: "Though skies awhile be overcast,/There's blue beyond the clouds above;/Soon shall the storm of war be past,/And all our thoughts be only love." On reverse: "&copy; Illustrated Postal Card &#x0026; Nov. Co. N.Y."; handwritten message.</figDesc>
+<head>Though Skies be Overcast</head>
+<figDesc>This postcard is a color-tinted picture of a woman in purple leaning her head on a soldier's shoulder. Text at bottom center: "Though skies awhile be overcast,/There's blue beyond the clouds above;/Soon shall the storm of war be past,/And all our thoughts be only love." On reverse: "&#x00A9; Illustrated Postal Card &#x0026; Nov. Co. N.Y."; handwritten message.</figDesc>
 </figure>
 
-<figure entity="thoughts_of_you" ana="nat-fr im-s con-f nat-rus
-	nat-bel nat-brit nat-it t-wwi">
+<figure entity="thoughts_of_you" ana="nat-fr im-s con-f nat-rus  nat-bel nat-brit nat-it t-wwi">
 <head>Thoughts of You</head>
 <figDesc>This postcard has embroidered flags and "Thoughts of You" embroidered beneath them. The front of the postcard also functions as an envelope, but has nothing in it. On reverse: handwritten message.</figDesc>
 </figure>
@@ -1245,7 +1236,7 @@ field. A figure appears in the clouds which are in front of the soldiers. Text a
 
 <figure entity="to_my_mother" ana="nat-fr im-s hf-h t-wwi">
 <head>To My Mother</head>
-<figDesc>This postcard has embroidered flowers on the top and "To My Mother" embroidered on the bottom. The front of the postcard also functions as an envelope and has a small card with "To my dear Mother" written on it. On reverse: "Fabrication fran&ccedil;aise, vis&eacute; Paris"; handwritten message.</figDesc>
+<figDesc>This postcard has embroidered flowers on the top and "To My Mother" embroidered on the bottom. The front of the postcard also functions as an envelope and has a small card with "To my dear Mother" written on it. On reverse: "Fabrication fran&#x00E7;aise, vis&#x00E9; Paris"; handwritten message.</figDesc>
 </figure>
 
 <figure entity="traviata" ana="nat-it im-dr hf-p">
@@ -1284,8 +1275,7 @@ Text at lower right: "&#x00A9; Martinson / 1919 Tiffany/
 New York" On reverse: blank.</figDesc>
 </figure>
 
-<figure entity="Kieler_Woche_1911" ana="t-pre nat-de nat-us mil-na
-	con-el im-ph">
+<figure entity="Kieler_Woche_1911" ana="t-pre nat-de nat-us mil-na  con-el im-ph">
 <head>Kieler Woche 1911</head>
 <figDesc>This postcard is a black and white photo of four ships in the water. Text at bottom left: "Amerikanisches Geschwader U.S.S. Louisiana  Kansas  New Hampshire  South Carolina". Text at bottom right: "Kieler Woche 1911". On reverse: "Verlag: Marinebazar, Kiel."</figDesc>
 </figure>
@@ -1297,7 +1287,7 @@ New York" On reverse: blank.</figDesc>
 
 <figure entity="vicit_arcy" ana="nat-fr mil-f con-r im-ph t-wwi">
 <head>Vicit Arcy (Soissons Sector)</head>
-<figDesc>This postcard is a black and white photo which gives a bird's eye view of some houses and other buildings. Text at bottom left: "Vicit Arcy (Soissons Sector)". Text at bottom right: "&copy; 1919 Martinson Tiffany New York". On reverse: blank.</figDesc>
+<figDesc>This postcard is a black and white photo which gives a bird's eye view of some houses and other buildings. Text at bottom left: "Vicit Arcy (Soissons Sector)". Text at bottom right: "&#x00A9; 1919 Martinson Tiffany New York". On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="viribus" ana="nat-au im-pa hf-p">
@@ -1310,12 +1300,12 @@ the crest on the right. On reverse: At bottom: "B.K.W.I. 259-176" and at left:
 
 <figure entity="vision_patriotique" ana="nat-fr mil-na hf-w hf-ro t-wwi">
 <head>Vision Patriotique</head>
-<figDesc>This postcard is a sepia-toned, color-tinted picture of a sailor siting by the water. In the top left corner, there is a faded inset of a woman's face. Text in top right corner: "Vision Patriotique/Le marin brave tout danger/Mais est tr&egrave;s sensible au baiser". Text in bottom left: "Revanche 217". On reverse: handwritten message.</figDesc>
+<figDesc>This postcard is a sepia-toned, color-tinted picture of a sailor siting by the water. In the top left corner, there is a faded inset of a woman's face. Text in top right corner: "Vision Patriotique/Le marin brave tout danger/Mais est tr&#x00E8;s sensible au baiser". Text in bottom left: "Revanche 217". On reverse: handwritten message.</figDesc>
 </figure>
 
 <figure entity="warriors" ana="im-po nat-de t-pre">
 <head>Bismark quote</head>
-<figDesc>This postcard is a color drawing of warriors. Text at bottom center: "Wir werden mit eisernem Schritte zermalmen was der herstellung deutscher Nation in ihrer herrlichkeit und Macht entgegensteht! Bismark am 23 Marz 1870 in Reichstage". On reverse: "K&uuml;nstlerkarten 'Deutsche Art', erste Reihe, Nr. 3, herausgegeben von der Buchhandlung des Deutschnationalen handlungsgehilfen-Verbaudes in Hamburg, Holstenwall 4"; handwritten message.</figDesc>
+<figDesc>This postcard is a color drawing of warriors. Text at bottom center: "Wir werden mit eisernem Schritte zermalmen was der herstellung deutscher Nation in ihrer herrlichkeit und Macht entgegensteht! Bismark am 23 Marz 1870 in Reichstage". On reverse: "K&#x00FC;nstlerkarten 'Deutsche Art', erste Reihe, Nr. 3, herausgegeben von der Buchhandlung des Deutschnationalen handlungsgehilfen-Verbaudes in Hamburg, Holstenwall 4"; handwritten message.</figDesc>
 </figure>
 
 <figure entity="waterfront" ana="nat-us mil-na con-el im-ph t-wwi">
@@ -1367,8 +1357,7 @@ the crest on the right. On reverse: At bottom: "B.K.W.I. 259-176" and at left:
 <figDesc>This postcard is a color picture of Wilhelm II. Text at bottom center: "Wilhelm II". On reverse: "Stengel &#x0026; Co., G. m. b. H., Dresden 49276".</figDesc>
 </figure>
 
-<figure entity="world_leaders" ana="nat-us nat-brit nat-it nat-fr
-	nat-de nat-bel nat-au im-dr con-p t-wwi">
+<figure entity="world_leaders" ana="nat-us nat-brit nat-it nat-fr  nat-de nat-bel nat-au im-dr con-p t-wwi">
 <head>Leaders of Contending Armies and Navies in World War</head>
 <figDesc>This postcard has color portraits of twelve world leaders from World War I: General Armando Diaz, Italy; Admiral W.S. Sims, United States; Admiral Sir David Beatty, Great Britain; Field Marshal Sir Douglas Haig, Great Britain; General John J. Pershing, United States; Marshal Ferdinand Foch, France; Vice Admiral Scheer, Germany; Enver Pasha, Turkey; Archduke Frederick, Austria; General Baron Jacques, Belgium; Field Marshal Von Hindenburg,Germany; Vice Admiral Thaon Di Revel, Italy. Text at bottom center: "Leaders of Contending Armies an Navies in World War". On reverse: ad for The Boston Mutual.</figDesc>
 </figure>
@@ -1401,8 +1390,8 @@ the crest on the right. On reverse: At bottom: "B.K.W.I. 259-176" and at left:
 <figDesc>This postcard has purple, embroidered flowers and "Christmas
 Greetings" embroidered beneath them. The front of the postcard also
 functions as an envelope, but has nothing inside it. On reverse:
-"Fabrication fran&ccedil;aise"; Vis&eacute; Paris"; "Mod&egrave;le
-D&eacute;pos&eacute;"; handwritten message.</figDesc>
+"Fabrication fran&#x00E7;aise"; Vis&#x00E9; Paris"; "Mod&#x00E8;le
+D&#x00E9;pos&#x00E9;"; handwritten message.</figDesc>
 </figure>
 
 <figure entity="york_home" ana="nat-us hf-h con-p im-pa t-wwi">
@@ -1422,8 +1411,7 @@ U. S. Medal of Honor and the French "Croix de Guerre". In 1942 York
 was commissioned a Major in the U. S. Army."</figDesc>
 </figure>
 
-<figure entity="yuletide_greetings" ana="nat-us mil-a hf-h con-v con-f
-	t-wwi">
+<figure entity="yuletide_greetings" ana="nat-us mil-a hf-h con-v con-f  t-wwi">
 <head>Yuletide Greetings</head>
 <p><text><body>
 <lg><l>Each holly leaf and birght red berry</l>
@@ -1431,97 +1419,97 @@ was commissioned a Major in the U. S. Army."</figDesc>
 <l>With wishes old, yet ever new,</l>
 <l>for those beneath the Colors true.</l></lg>
 </body></text></p>
-<figDesc>This postcard has a color drawing of a soldier standing next to a Christmas wreath, which has a picture of a home in the middle of it. There is also a short poem entitled "Yuletide Greetings" in the bottom, right corner. On reverse: "&copy; Illustrated Postal Card &#x0026; Nov. Co., N.Y."; "Printed in the U.S.A."</figDesc>
+<figDesc>This postcard has a color drawing of a soldier standing next to a Christmas wreath, which has a picture of a home in the middle of it. There is also a short poem entitled "Yuletide Greetings" in the bottom, right corner. On reverse: "&#x00A9; Illustrated Postal Card &#x0026; Nov. Co., N.Y."; "Printed in the U.S.A."</figDesc>
 </figure>
 
 <figure entity="Zeebrugge" ana="nat-bel mil-f con-r im-ph t-wwi">
 <head>Zeebrugge</head>
-<figDesc>This postcard is a sepia-toned photo of a fire-damaged pier by the shore. Text at top left: "No 17 Zeebrugge"; "Estacade incendi&eacute;e et le Th&eacute;tis./Pier and the 'Thetis'/Afgebrande Pier en de Thetis." On reverse: "Edition J. Revyn, Zeebrugge-M&ocirc;le."</figDesc>
+<figDesc>This postcard is a sepia-toned photo of a fire-damaged pier by the shore. Text at top left: "No 17 Zeebrugge"; "Estacade incendi&#x00E9;e et le Th&#x00E9;tis./Pier and the 'Thetis'/Afgebrande Pier en de Thetis." On reverse: "Edition J. Revyn, Zeebrugge-M&#x00F4;le."</figDesc>
 </figure>
 
 <figure entity="wwi_3_drunks" ana="im-ca con-h">
+<head>Drunk Last Night</head>
 <figDesc>This postcard has a color cartoon drawing of three men in tuxedoes. Text at top right: "'Drunk last night/Drunk the night before/I'm going to get drunk again tonight/If I never get drunk any more'". Text at bottom: "Copyright 1907 P. Gordon". On reverse: blank.</figDesc>
 </figure>
 
-<figure entity="wwi_3_sailors_in_black" ana="nat-us mil-na con-el
-	im-ph t-wwi">
+<figure entity="wwi_3_sailors_in_black" ana="nat-us mil-na con-el  im-ph t-wwi">
+<head>Sailors</head>
 <figDesc>This postcard is a black and white photo of three sailors posing for a picture in dark uniforms. On reverse: blank.</figDesc>
 </figure>
 
-<figure entity="wwi_3_sailors_in_white" ana="nat-us mil-na con-el
-	im-ph t-wwi">
+<figure entity="wwi_3_sailors_in_white" ana="nat-us mil-na con-el  im-ph t-wwi">
+<head>Sailors</head>
 <figDesc>This postcard is a black and white photo of three sailors posing for a picture in white uniforms. On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="wwi_3_ships" ana="nat-us mil-na con-el im-ph t-post">
-<head></head>
+<head>Three Ships</head>
 <figDesc>This postcard is a black and white photo of three steam boats in the distance. On reverse: blank.</figDesc>
 </figure>
 
-<figure entity="wwi_3_sitting_sailors" ana="nat-us mil-na con-el im-ph
-	t-wwi">
-<head></head>
+<figure entity="wwi_3_sitting_sailors" ana="nat-us mil-na con-el im-ph  t-wwi">
+<head>Three Sailors</head>
 <figDesc>This postcard is a faded black and white photo of three sailors sitting on the floor of a ship. The sailor in the middle is wearing a white sailor cap. On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="cannon_blast1" ana="nat-us mil-na con-el im-ph t-wwi">
-<head></head>
+<head>Cannon Blast</head>
 <figDesc>This postcard is a black and white photo of a cannon firing. On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="cannon_in_trench" ana="nat-de mil-a mil-f im-ph t-wwi">
-<head>Feuernder M&ouml;rser bei Nacht</head>
-<figDesc>This postcard is a black and white photo of a cannon firing at night from within a trench. Text at top left: "Feuernder M&ouml;rser bei Nacht". On reverse: blank.</figDesc>
+<head>Feuernder M&#x00F6;rser bei Nacht</head>
+<figDesc>This postcard is a black and white photo of a cannon firing at night from within a trench. Text at top left: "Feuernder M&#x00F6;rser bei Nacht". On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="dog" ana="nat-us mil-na t-wwi con-el im-ph t-wwi">
-<head></head>
+<head>Dog on ship</head>
 <figDesc>This postcard is a black and white photo of a black dog with a white chest. On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="farm_house_dug_out2" ana="nat-fr mil-f con-r im-ph t-wwi">
 <head>Ferm Du Metz</head>
-<figDesc>This postcard is a black and white photo of a farm house which was used as a dug out. There are a few soldiers standing in front of it. Text at middle left: "'Dug Out'". Text at bottom left: "&copy; 1919 Martinson Tiffany New York". Text at middle right: "Ferm Du Metz France"; "Formerly a Farm House". On reverse: blank.</figDesc>
+<figDesc>This postcard is a black and white photo of a farm house which was used as a dug out. There are a few soldiers standing in front of it. Text at middle left: "'Dug Out'". Text at bottom left: "&#x00A9; 1919 Martinson Tiffany New York". Text at middle right: "Ferm Du Metz France"; "Formerly a Farm House". On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="Guerre_Albert_88" ana="nat-fr mil-f con-r im-ph t-wwi">
 <head>Guerre 1914-1918</head>
-<figDesc>This postcard is a black and white photo of the ruins of an altar in a basilica. Text at bottom left: "G. Lelong, 21, Rue St-Martin, Amiens". Text at bottom right: "Vis&eacute; Paris no 118". Text at bottom center: "88--Guerre 1914-1918-Albert (Somme)/Int&eacute;rieur de la Basilique - Le Ma&icirc;tre-Autel - Apr&egrave;s le bombardement/Interior of the Basilica - The Great Altar - After the bombardment." On reverse: "Imp. Catala Fr&egrave;res, Paris."</figDesc>
+<figDesc>This postcard is a black and white photo of the ruins of an altar in a basilica. Text at bottom left: "G. Lelong, 21, Rue St-Martin, Amiens". Text at bottom right: "Vis&#x00E9; Paris no 118". Text at bottom center: "88--Guerre 1914-1918-Albert (Somme)/Int&#x00E9;rieur de la Basilique - Le Ma&#x00EE;tre-Autel - Apr&#x00E8;s le bombardement/Interior of the Basilica - The Great Altar - After the bombardment." On reverse: "Imp. Catala Fr&#x00E8;res, Paris."</figDesc>
 </figure>
 
 <figure entity="Guerre_Albert_92" ana="nat-fr im-ph con-r t-wwi">
 <head>Guerre 1914-1918</head>
-<figDesc>This postcard is a black and white photo of ruins along a street. Text at top center: "Guerre 1914-1918/92--Albert (Somme) - Aspect de la Rue d'Amiens/apr&egrave;s le bombardement./Amiens street after the Bombardment." Text at bottom right: "G. Lelong, 21, Rue St-Martin, Amiens". On reverse: "Imp. Catala Fr&egrave;res, Paris."</figDesc>
+<figDesc>This postcard is a black and white photo of ruins along a street. Text at top center: "Guerre 1914-1918/92--Albert (Somme) - Aspect de la Rue d'Amiens/apr&#x00E8;s le bombardement./Amiens street after the Bombardment." Text at bottom right: "G. Lelong, 21, Rue St-Martin, Amiens". On reverse: "Imp. Catala Fr&#x00E8;res, Paris."</figDesc>
 </figure>
 
 <figure entity="Guerre_Albert_97" ana="nat-fr mil-f con-r im-ph t-wwi">
 <head>Guerre 1914-1918</head>
-<figDesc>This postcard is a black and white photo of delapidated houses. Text at top left: "Guerre 1914-1918". Text at top right: "97--Albert (Somme) - Rue de Bapaume apr&egrave;s plusieurs/bombardements. Au premier plan le d&eacute;bit de Tabac/de Mme Richard/Bapaume Street after several bombardments./In the foreground the tobacco shop of Madam Richard." Text at bottom right: "G. Lelong, 21, Rue St-Martin, Amiens". On reverse: "Imp. Catala Fr&egrave;res, Paris."</figDesc>
+<figDesc>This postcard is a black and white photo of delapidated houses. Text at top left: "Guerre 1914-1918". Text at top right: "97--Albert (Somme) - Rue de Bapaume apr&#x00E8;s plusieurs/bombardements. Au premier plan le d&#x00E9;bit de Tabac/de Mme Richard/Bapaume Street after several bombardments./In the foreground the tobacco shop of Madam Richard." Text at bottom right: "G. Lelong, 21, Rue St-Martin, Amiens". On reverse: "Imp. Catala Fr&#x00E8;res, Paris."</figDesc>
 </figure>
 
 <figure entity="Guerre_Albert_103" ana="nat-fr mil-f con-r im-ph t-wwi">
 <head>Guerre 1914-1918</head>
-<figDesc>This postcard is a black and white photo of ruins along a street. Text at top center: "Guerre 1914-1918/103--Albert (Somme) - La rue Jeanne d'Harcourt (c&ocirc;t&eacute; Ouest) presque compl&egrave;tement d&eacute;truite/d&egrave;s le premier bombardement./Jeanne d'Harcourt street after the first bombardment." Text at bottom left: "Vis&eacute; Paris No 81". Text at bottom right: "G. Lelong, 21, Rue St-Martin, Amiens". On reverse: "Imp. Catala Fr&egrave;res, Paris."</figDesc>
+<figDesc>This postcard is a black and white photo of ruins along a street. Text at top center: "Guerre 1914-1918/103--Albert (Somme) - La rue Jeanne d'Harcourt (c&#x00F4;t&#x00E9; Ouest) presque compl&#x00E8;tement d&#x00E9;truite/d&#x00E8;s le premier bombardement./Jeanne d'Harcourt street after the first bombardment." Text at bottom left: "Vis&#x00E9; Paris No 81". Text at bottom right: "G. Lelong, 21, Rue St-Martin, Amiens". On reverse: "Imp. Catala Fr&#x00E8;res, Paris."</figDesc>
 </figure>
 
 <figure entity="Guerre_Albert_111" ana="nat-fr mil-f con-r im-ph t-wwi">
 <head>Guerre 1914-1918</head>
-<figDesc>This postcard is a black and white photo of building ruins. Text at bottom left: "G. Lelong, 21, rue St-Martin, Amiens". Text at bottom right: "Vis&eacute; Paris No 213". Text at bottom center: "Guerre 1914-1918/111--Albert (Somme) - La Place Faidherbe - Le Pensionnat de Mlle Cordier/Rue Jeanne d'Harcourt apr&egrave;s le bombardement.--The Place Faidherbe after the bombardment." On reverse: "Imp. Catala Fr&egrave;res, Paris."</figDesc>
+<figDesc>This postcard is a black and white photo of building ruins. Text at bottom left: "G. Lelong, 21, rue St-Martin, Amiens". Text at bottom right: "Vis&#x00E9; Paris No 213". Text at bottom center: "Guerre 1914-1918/111--Albert (Somme) - La Place Faidherbe - Le Pensionnat de Mlle Cordier/Rue Jeanne d'Harcourt apr&#x00E8;s le bombardement.--The Place Faidherbe after the bombardment." On reverse: "Imp. Catala Fr&#x00E8;res, Paris."</figDesc>
 </figure>
 
 <figure entity="Guerre_Albert_124" ana="nat-fr mil-f con-r im-ph t-wwi">
 <head>Guerre 1914-1918</head>
-<figDesc>This postcard is a black and white photo of the side of a basilica after a bombardment. Text at top right: "Guerre 1914-1918/124--Albert (Somme) - Basilique de N.-D. de Brebi&egrave;res/C&ocirc;t&eacute; Est qui a le plus souffert par le bombardement./Basilica of N.-D. of Brebi&egrave;res - The East side which has/the most endured from the bombardment." Text at bottom left: "Vis&eacute; Paris No 81". Text at bottom right: "G. Lelong, 21, Rue St-Martin, Amiens". On reverse: "Imp. Catala Fr&egrave;res, Paris."</figDesc>
+<figDesc>This postcard is a black and white photo of the side of a basilica after a bombardment. Text at top right: "Guerre 1914-1918/124--Albert (Somme) - Basilique de N.-D. de Brebi&#x00E8;res/C&#x00F4;t&#x00E9; Est qui a le plus souffert par le bombardement./Basilica of N.-D. of Brebi&#x00E8;res - The East side which has/the most endured from the bombardment." Text at bottom left: "Vis&#x00E9; Paris No 81". Text at bottom right: "G. Lelong, 21, Rue St-Martin, Amiens". On reverse: "Imp. Catala Fr&#x00E8;res, Paris."</figDesc>
 </figure>
 
 <figure entity="Guerre_Albert_259" ana="nat-fr mil-f con-r im-ph t-wwi">
 <head>Guerre 1914-1918</head>
-<figDesc>This postcard is a black and white photo of two men standing in a hole caused by an explosion. Text at bottom center: "Guerre 1914-1918/259--Albert (Somme) - Les effets d'un obus &agrave; l'emplacement/du Caf&eacute; Divry. --After the Explosion of one german shell." Text at bottom left: "Vis&eacute; Paris No 81". Text at bottom right: "G. Lelong, 21, Rue St-Martin, Amiens". On reverse: "Imp. Catala Fr&egrave;res, Paris."</figDesc>
+<figDesc>This postcard is a black and white photo of two men standing in a hole caused by an explosion. Text at bottom center: "Guerre 1914-1918/259--Albert (Somme) - Les effets d'un obus &#x00E0; l'emplacement/du Caf&#x00E9; Divry. --After the Explosion of one german shell." Text at bottom left: "Vis&#x00E9; Paris No 81". Text at bottom right: "G. Lelong, 21, Rue St-Martin, Amiens". On reverse: "Imp. Catala Fr&#x00E8;res, Paris."</figDesc>
 </figure>
 
 <figure entity="Guerre_Albert_575" ana="nat-fr mil-f con-r im-ph t-wwi">
 <head>Guerre 1914-1918</head>
-<figDesc>This postcard is a black and white photo of a home which has been bombarded by shells. Text at top center: "Guerre 1914-1918/575--Albert (Somme) - Une Maison bombard&eacute;e rue de Bapaume/The Baupaume Street - One bombarded home." Text at bottom left: "Vis&eacute; Paris No 81". Text at bottom right: "G. Lelong, 21, Rue St-Martin, Amiens". On reverse: "Imp. Catala Fr&egrave;res, Paris."</figDesc>
+<figDesc>This postcard is a black and white photo of a home which has been bombarded by shells. Text at top center: "Guerre 1914-1918/575--Albert (Somme) - Une Maison bombard&#x00E9;e rue de Bapaume/The Baupaume Street - One bombarded home." Text at bottom left: "Vis&#x00E9; Paris No 81". Text at bottom right: "G. Lelong, 21, Rue St-Martin, Amiens". On reverse: "Imp. Catala Fr&#x00E8;res, Paris."</figDesc>
 </figure>
 
 <figure entity="Josephus_Daniels" ana="nat-us mil-na im-ph t-wwi">
@@ -1530,42 +1518,43 @@ was commissioned a Major in the U. S. Army."</figDesc>
 </figure>
 
 <figure entity="life_boat" ana="nat-us mil-na con-el im-ph t-wwi">
-<head></head>
+<head>Life Boat</head>
 <figDesc>This postcard is a black and white photo of a life boat
 hanging off the side of a ship. There are other ships in the distance.On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="man_in_kilt" ana="im-ph nat-brit">
-<head></head>
+<head>Man in Kilt</head>
 <figDesc>A black and white photo of a man posing for a picture in a
 kilt. On reverse: faint printing "Wall Studios Edinburgh".</figDesc>
 </figure>
 
 <figure entity="mast_smoke" ana="nat-us mil-na con-el im-ph t-wwi">
-<head></head>
+<head>Mast</head>
 <figDesc>This postcard is a black and white photo of a mast partially covered up by smoke. On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="sailor_halo" ana="nat-us mil-na con-el im-ph t-wwi">
-<head></head>
+<head>"Mutt"</head>
 <figDesc>This postcard is a black and white photograph of a sailor in a white uniform leaning his hand against part of a ship. There is a hand-drawn halo over the sailor's head and a handwritten word at the bottom ("Mutt"). On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="sailor_in_white_1" ana="nat-us mil-na con-el im-ph t-wwi">
-<head></head>
+<head>Sailor</head>
 <figDesc>This postcard is a black and white photo of a sailor in a white uniform posing for a picture on ship. There is a large cannon behind him. On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="sailor_in_white_2" ana="nat-us mil-na con-el im-ph t-wwi">
+<head>Sailor</head>
 <figDesc>This postcard is a black and white photo of a sailor on a ship, looking to the side of the camera. On reverse: handwritten message.</figDesc>
 </figure>
 
 <figure entity="sailor_in_white_3" ana="nat-us mil-na con-el im-ph t-wwi">
+<head>Sailor</head>
 <figDesc>This postcard is a black and white photograph of a sailor in a white uniform leaning his hand against part of a ship. On reverse: handwritten message.</figDesc>
 </figure>
 
-<figure entity="sailor_on_flag" ana="nat-us mil-na con-el im-ph
-	t-post">
+<figure entity="sailor_on_flag" ana="nat-us mil-na con-el im-ph  t-post">
 <head>Portrait of a Sailor</head>
 <figDesc>This postcard is a portrait-style, black and white photo of a sailor in a dark uniform sitting on a bench with an American flag over it. On reverse: blank.</figDesc>
 </figure>
@@ -1586,10 +1575,12 @@ kilt. On reverse: faint printing "Wall Studios Edinburgh".</figDesc>
 </figure>
 
 <figure entity="sailors_in_white_1" ana="nat-us mil-na con-el im-ph t-pre">
+<head>Sailors</head>
 <figDesc>This postcard is a black and white group photo of sailors in white uniforms. On reverse: handwritten message.</figDesc>
 </figure>
 
 <figure entity="sailors_in_white_2" ana="nat-us mil-na con-el im-ph t-wwi">
+<head>Sailors</head>
 <figDesc>This postcard is a black and white group photo of sailors in white uniforms. On reverse: blank.</figDesc>
 </figure>
 
@@ -1635,7 +1626,7 @@ kilt. On reverse: faint printing "Wall Studios Edinburgh".</figDesc>
 
 <figure entity="snipers_post" ana="nat-us nat-fr mil-f im-ph t-wwi">
 <head>"Sniper's Post" (Soisson Sector)</head>
-<figDesc>This postcard is a black and white photo of a sniper's post on the ground. Text at bottom left: "'Sniper's Post' (Soisson Sector)". Text at bottom right: "&copy; 1919 Martinson Tiffany N.Y." On reverse: blank.</figDesc>
+<figDesc>This postcard is a black and white photo of a sniper's post on the ground. Text at bottom left: "'Sniper's Post' (Soisson Sector)". Text at bottom right: "&#x00A9; 1919 Martinson Tiffany N.Y." On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="soldier_new_year" ana="nat-us mil-na con-el im-ph t-wwi">
@@ -1660,11 +1651,11 @@ kilt. On reverse: faint printing "Wall Studios Edinburgh".</figDesc>
 
 <figure entity="typhus_shots" ana="nat-us mil-a im-ph t-wwi">
 <head>Typhus Inoculation</head>
-<figDesc>This postcard is a color-tinted picture of soldiers receiving typhus shots. Text at bottom left: "Typhus Inoculation". On reverse: "&copy; Illustrated Postal Card &#x0026; Nov. Co., N.Y."; handwritten message.</figDesc>
+<figDesc>This postcard is a color-tinted picture of soldiers receiving typhus shots. Text at bottom left: "Typhus Inoculation". On reverse: "&#x00A9; Illustrated Postal Card &#x0026; Nov. Co., N.Y."; handwritten message.</figDesc>
 </figure>
 
 <figure entity="zeppelin" ana="nat-de mil-f im-dr hf-p t-wwi">
-<head>Die Eroberung von L&uuml;ttich</head>
+<head>Die Eroberung von L&#x00FC;ttich</head>
 <p>Text on reverse side:<text><body>
 <lg>
 <head>Die Eroberung L&#x00FC;ttichs.
@@ -1696,7 +1687,7 @@ kilt. On reverse: faint printing "Wall Studios Edinburgh".</figDesc>
 Neustadt a.Hdt.</byline>
 <trailer>Preis pro St&#x00FC;ck 10 pfg.</trailer>
 </body></text></p>
-<figDesc>This postcard is a black and white drawing of a zeppelin dropping bombs on a city. Text at bottom left: "Die Eroberung von L&uuml;ttich." On reverse: a lengthy passage in German.</figDesc>
+<figDesc>This postcard is a black and white drawing of a zeppelin dropping bombs on a city. Text at bottom left: "Die Eroberung von L&#x00FC;ttich." On reverse: a lengthy passage in German.</figDesc>
 </figure>
 
 <figure entity="united_for_liberty" ana="im-s con-f nat-brit nat-fr">
@@ -1727,14 +1718,13 @@ No 10162592. 3. 9-9097. T. 1
 </figDesc>
 </figure>
 
-<figure entity="wwi_1918_souvenir2" ana="im-s hf-w con-f nat-brit nat-fr nat-us
-	nat-it t-wwi">
+<figure entity="wwi_1918_souvenir2" ana="im-s hf-w con-f nat-brit nat-fr nat-us  nat-it t-wwi">
 <head>1918 Souvenir de France</head>
 <figDesc>This postcard has "1918" embroidered on the top and "Souvenir de
 France" embroidered on the bottom. Each digit in "1918" represents a national flag. The front of the postcard also
 functions as an envelope with a small, removable card inside. An
 illustration of a woman pushing a wheelbarrow full of flowers is on
-the front of the inserted card. Text at bottom of the inserted card: "Keep me in your heart". On reverse of postcard: a handwritten message; "Fabrication fran&ccedil;aise, vise Paris".</figDesc>
+the front of the inserted card. Text at bottom of the inserted card: "Keep me in your heart". On reverse of postcard: a handwritten message; "Fabrication fran&#x00E7;aise, vise Paris".</figDesc>
 </figure>
 
 <figure entity="a_face_i_see" ana="hf-w nat-us t-wwi con-v im-pa mil-a">
@@ -1743,7 +1733,7 @@ the front of the inserted card. Text at bottom of the inserted card: "Keep me in
 woman in the foreground and a group of soldiers in the
 background. Text at right: "There is a face I seem to see/Through all
 our Duty's call,/And that is yours,/my dearest one,/Just yours and
-that is all." In lower left corner is a number: 1362. On reverse: "&copy; Illustrated Postal Card &#x0026; Nov. Co. N.Y."; "Printed in the U.S.A."</figDesc>
+that is all." In lower left corner is a number: 1362. On reverse: "&#x00A9; Illustrated Postal Card &#x0026; Nov. Co. N.Y."; "Printed in the U.S.A."</figDesc>
 </figure>
 
 <figure entity="advice" ana="hf-p con-h">
@@ -1770,11 +1760,10 @@ divide.</l>
 
 <figure entity="AlbertTower" ana="nat-fr im-ph con-r">
 <head>Guerre 1914-1918</head>
-<figDesc>This postcard is a black and white photo of a tower in ruins. Text at top center: "Guerre 1914-1918/81--Albert (Somme) - Le Clocher de N.-D. de Brebi&egrave;res/ apr&egrave;s plusieurs bombardements par les Allemands./ The steeple of N.-D. Brebi&egrave;res bombarded by the Germans." Text along left edge: "G. Lelong, 21, Rue St-Martin, Amiens". Text along right edge: "Vis&eacute; Paris no 87". On reverse: "Imp. Catala Fr&egrave;res, Paris."</figDesc>
+<figDesc>This postcard is a black and white photo of a tower in ruins. Text at top center: "Guerre 1914-1918/81--Albert (Somme) - Le Clocher de N.-D. de Brebi&#x00E8;res/ apr&#x00E8;s plusieurs bombardements par les Allemands./ The steeple of N.-D. Brebi&#x00E8;res bombarded by the Germans." Text along left edge: "G. Lelong, 21, Rue St-Martin, Amiens". Text along right edge: "Vis&#x00E9; Paris no 87". On reverse: "Imp. Catala Fr&#x00E8;res, Paris."</figDesc>
 </figure>
 
-<figure entity="allies_flowers" ana="im-pa nat-us nat-brit
-	nat-fr nat-it nat-ca nat-bel nat-jp t-wwi">
+<figure entity="allies_flowers" ana="im-pa nat-us nat-brit  nat-fr nat-it nat-ca nat-bel nat-jp t-wwi">
 <head>Flowers of the Allies</head>
 <figDesc>This postcard has a color illustration of flowers from France (Fleur de Lis), the United States (Golden-Rod), England (Rose), Scotland (Thistle), Portugal (Daffodil), Canada (Maple Leaf), Australia (Wattle), Belgium (Forget-Me-Not), Japan (Chrysanthemum), Cuba (Jasmine), and Ireland (Shamrock). Text at center: "Flowers of the Allies". Text at bottom center: "Copyright, 1918, by Curtice S. McCain". Text at bottom right: "Patent Pending". On reverse: "Printed in America"; "Curtice S. McCain 35 Warren Street, N.Y.C."</figDesc>
 </figure>
@@ -1850,7 +1839,7 @@ defend it against all enemies.</p>
 <figure entity="american_spirit" ana="im-pa nat-us mil-a t-wwi">
 <head>The American Spirit</head>
 <figDesc>This postcard has a color illustration of an elderly man
-shaking hands with a soldier. Artist's name, Archie Gunn, is at lower right. Text at top center: "Greetings from Camp Shelby, Hattiesburg, Miss." Text at bottom center: "1861-1917 The American Spirit". On reverse: "&copy; Illustrated Postal Card &#x0026; Nov. Co. N.Y."; "Printed in the U.S.A."</figDesc>
+shaking hands with a soldier. Artist's name, Archie Gunn, is at lower right. Text at top center: "Greetings from Camp Shelby, Hattiesburg, Miss." Text at bottom center: "1861-1917 The American Spirit". On reverse: "&#x00A9; Illustrated Postal Card &#x0026; Nov. Co. N.Y."; "Printed in the U.S.A."</figDesc>
 </figure>
 
 <figure entity="angels_at_tomb" ana="im-ph con-m">
@@ -1909,15 +1898,14 @@ l)./Miss Edith Cavell Memorial."</figDesc>
 <figDesc>This postcard mocks official battalion orders, listing out such activities as a barefoot parade, a camel parade, and a nose inspection. Text at top center: "Battalion Orders/By Kernal Dooly Dooly Commanding/Sunmarine Lancers." Text at bottom right: "(Signed) C.H. Crippin, Adjutant." Text at bottom left: "Copyright, 'Times,' Ryde." On reverse: blank.</figDesc>
 </figure>
 
-<figure entity="belgian_troops" ana="nat-bel nat-us nat-brit mil-a
-	mil-f im-ph">
+<figure entity="belgian_troops" ana="nat-bel nat-us nat-brit mil-a  mil-f im-ph">
 <head>Belgian Troops in Action Round Louvain.</head>
-<figDesc>This postcard is a color-tinted picture of soldiers lying on the dirt and crouching in the grass. Text at top left: "Belgian Troops in Action Round Louvain." Text at bottom: "&copy; by the International News Service, N.Y." On reverse: "Belgian Troops in Action 'round Louvain. Belgian infantry taking cover from the German rifle fire during the defense of Louvain."; "W.C.A. 145"; "Made in U.S.A.", "New York", "London".</figDesc>
+<figDesc>This postcard is a color-tinted picture of soldiers lying on the dirt and crouching in the grass. Text at top left: "Belgian Troops in Action Round Louvain." Text at bottom: "&#x00A9; by the International News Service, N.Y." On reverse: "Belgian Troops in Action 'round Louvain. Belgian infantry taking cover from the German rifle fire during the defense of Louvain."; "W.C.A. 145"; "Made in U.S.A.", "New York", "London".</figDesc>
 </figure>
 
 <figure entity="best_wishes" ana="im-s con-f nat-brit nat-fr nat-bel">
 <head>Best Wishes</head>
-<figDesc>This postcard has three flags and three flowers embroidered at the bottom. At the top, "Best Wishes" is embroidered. On reverse: "M.J.B.O. Paris. Marque d&eacute;pos&eacute;e."; handwritten message.</figDesc>
+<figDesc>This postcard has three flags and three flowers embroidered at the bottom. At the top, "Best Wishes" is embroidered. On reverse: "M.J.B.O. Paris. Marque d&#x00E9;pos&#x00E9;e."; handwritten message.</figDesc>
 </figure>
 
 <figure entity="birthday_greetings" ana="nat-us con-v">
@@ -1975,15 +1963,15 @@ Photo. E.C."; at bottom left "8142". Text at bottom: "By permission of Messrs. F
 </figure>
 
 <figure entity="bonne_annee-plane" ana="nat-fr nat-us t-wwi">
-<head>Bonne Ann&eacute;e</head>
-<figDesc>This postcard is a sepia-toned, color-tinted picture of a plane flying over a road in the mountains. The plane has roses on top of its wings and carries the message "Meilleurs Baisers". Text at top left: "Bonne Ann&eacute;e". Text at bottom right: "DIX Paris 2059". On reverse: handwritten message.</figDesc>
+<head>Bonne Ann&#x00E9;e</head>
+<figDesc>This postcard is a sepia-toned, color-tinted picture of a plane flying over a road in the mountains. The plane has roses on top of its wings and carries the message "Meilleurs Baisers". Text at top left: "Bonne Ann&#x00E9;e". Text at bottom right: "DIX Paris 2059". On reverse: handwritten message.</figDesc>
 </figure>
 
 <figure entity="bonne_annee" ana="hf-c hf-p nat-fr mil-f t-wwi">
-<head>Bonne Ann&eacute;e a Mon Papa</head>
+<head>Bonne Ann&#x00E9;e a Mon Papa</head>
 <figDesc>This postcard is a sepia-toned, color-tinted picture of
 soldiers in a trench. Above the picture is an inset of a little
-girl. Text to right of inset: "Bonne Ann&eacute;e a Mon Papa". Text
+girl. Text to right of inset: "Bonne Ann&#x00E9;e a Mon Papa". Text
 beneath inset: "Gloire aux braves". In lower right corner: "Mondial/84" On reverse: handwritten message.</figDesc>
 </figure>
 
@@ -2030,7 +2018,7 @@ figures are children. Text at right: "Broken legs or heads/Yield to medic art,/B
 
 <figure entity="building_embroidered" ana="im-s nat-fr">
 <head>[Mont-St.-Michel]</head>
-<figDesc>This postcard has an embroidered building with pink and yellow embroidered flowers on each side. On reverse: "Paris D&eacute;pose"; "Fabrication Fran&ccedil;aise".</figDesc>
+<figDesc>This postcard has an embroidered building with pink and yellow embroidered flowers on each side. On reverse: "Paris D&#x00E9;pose"; "Fabrication Fran&#x00E7;aise".</figDesc>
 </figure>
 
 <figure entity="bye_little_girl" ana="hf-w t-pre con-v im-ph mil-a nat-brit">
@@ -2063,10 +2051,11 @@ campground. Printed at top left: "Passed by Censor"; at top right:
 
 <figure entity="cannon_1" ana="nat-fr mil-a im-ph">
 <head>Camp D'Auvours</head>
-<figDesc>This postcard is a black and white photo of a soldier standing beside a cannon which is pointing upward. Text at bottom right: "R. Barbier, Edit., Le Mans". Text at bottom center: "Camp D'Auvours. Artillerie Lourde de Campagne. -- Man&oelig;uvre du Canon Rimailho, pi&egrave;ce de 155 C.T.R. du poids de 4.200 kilos, pouvant lancer 5 projectiles de 43 kilos par minute, &agrave; plus de 6 kilom&egrave;tres." On reverse: "Imp. Phot. Paris"; handwritten message.</figDesc>
+<figDesc>This postcard is a black and white photo of a soldier standing beside a cannon which is pointing upward. Text at bottom right: "R. Barbier, Edit., Le Mans". Text at bottom center: "Camp D'Auvours. Artillerie Lourde de Campagne. -- Man&#x0153;uvre du Canon Rimailho, pi&#x00E8;ce de 155 C.T.R. du poids de 4.200 kilos, pouvant lancer 5 projectiles de 43 kilos par minute, &#x00E0; plus de 6 kilom&#x00E8;tres." On reverse: "Imp. Phot. Paris"; handwritten message.</figDesc>
 </figure>
 
 <figure entity="cannon_2" ana="nat-fr mil-a im-ph">
+<head>Soldiers with Cannon</head>
 <figDesc>This postcard is a black and white photo of two soldiers standing beside a cannon which is pointing toward the ground. On reverse: blank.</figDesc>
 </figure>
 
@@ -2092,7 +2081,7 @@ campground. Printed at top left: "Passed by Censor"; at top right:
 
 <figure entity="collaborateurs" ana="con-p nat-fr">
 <head>Les Auteurs et les principaux Collaborateurs</head>
-<figDesc>This postcard has black and white portraits of eighteen men with names by each picture. Text at top center: P. Carrier-Belleuse -- Panth&eacute;on de la Guerre -- A.-F. Gorguet". Text at bottom left: "13 Edit. Art. H. Manuel,  Paris". Text at bottom center: "Les Auteurs et les principaux Collaborateurs". On reverse: "Imp E Le Deley, Paris".</figDesc>
+<figDesc>This postcard has black and white portraits of eighteen men with names by each picture. Text at top center: P. Carrier-Belleuse -- Panth&#x00E9;on de la Guerre -- A.-F. Gorguet". Text at bottom left: "13 Edit. Art. H. Manuel,  Paris". Text at bottom center: "Les Auteurs et les principaux Collaborateurs". On reverse: "Imp E Le Deley, Paris".</figDesc>
 </figure>
 
 <figure entity="come_home_poem" ana="con-v hf-w hf-ro t-wwi">
@@ -2112,12 +2101,12 @@ campground. Printed at top left: "Passed by Censor"; at top right:
 
 <figure entity="cornucopia" ana="im-s nat-fr">
 <head>A Happy New Year</head>
-<figDesc>This postcard has an embroidered cornucopia on the front. The postcard also functions as an envelope with a small card inside. The card has a picture of flowers and flags on it with the words "A Happy New Year". On reverse: handwritten message; "Fabrication Fran&ccedil;aise".</figDesc>
+<figDesc>This postcard has an embroidered cornucopia on the front. The postcard also functions as an envelope with a small card inside. The card has a picture of flowers and flags on it with the words "A Happy New Year". On reverse: handwritten message; "Fabrication Fran&#x00E7;aise".</figDesc>
 </figure>
 
 <figure entity="Craonne_trench" ana="nat-fr mil-a t-wwi im-ph">
 <head>Craonne</head>
-<figDesc>This postcard is a black and white photo of a trench. Text at bottom: "793 Craonne. -- Entr&eacute;e d'une Cagna. -- Entrada de una Cava&ntilde;a. --LL." On reverse: "Imp. Levy Fils et Cie, Paris".</figDesc>
+<figDesc>This postcard is a black and white photo of a trench. Text at bottom: "793 Craonne. -- Entr&#x00E9;e d'une Cagna. -- Entrada de una Cava&#x00F1;a. --LL." On reverse: "Imp. Levy Fils et Cie, Paris".</figDesc>
 </figure>
 
 <figure entity="Cristo" ana="nat-it im-en t-wwi hf-p">
@@ -2136,17 +2125,17 @@ bottm right: "Serie A. No. 5" On reverse: handwritten message;
 
 <figure entity="dear_mother_3" ana="im-s nat-fr t-wwi">
 <head>To My Dear Mother</head>
-<figDesc>This postcard has red, embroidered flowers and the words "To My Dear Mother" at the top. The postcard also functions as an envelope with a small card inside that has "Souvenir from camp" printed on the front. On reverse: handwritten message, including the date "Aug. 27, 1916"; "Fabrication Fran&ccedil;aise".</figDesc>
+<figDesc>This postcard has red, embroidered flowers and the words "To My Dear Mother" at the top. The postcard also functions as an envelope with a small card inside that has "Souvenir from camp" printed on the front. On reverse: handwritten message, including the date "Aug. 27, 1916"; "Fabrication Fran&#x00E7;aise".</figDesc>
 </figure>
 
 <figure entity="dear_sweetheart" ana="im-s nat-fr">
 <head>To My Dear Sweetheart</head>
-<figDesc>This postcard has embroidered, purple flowers and the words "To my dear Sweetheart" embroidered in the top left corner. On reverse: "Brod&eacute;es 'La Pens&eacute;e', Paris".</figDesc>
+<figDesc>This postcard has embroidered, purple flowers and the words "To my dear Sweetheart" embroidered in the top left corner. On reverse: "Brod&#x00E9;es 'La Pens&#x00E9;e', Paris".</figDesc>
 </figure>
 
 <figure entity="die_deutlche" ana="mil-f nat-de mil-p t-wwi mil-na">
 <head>Die deutsche Frau im Kriege</head>
-<figDesc>This postcard has a color illustration of a woman in Greek/Roman dress holding a flag and handing a cup to a wounded soldier. Three other wounded soldiers sit on the ground beside him. Text beneath picture: "Die deutsche Frau im Kriege". On reverse: "Bayer. Landeskomitee f&uuml;r freiwillige Krankenpflege im Kriege"; "Offizielle Postkarte".</figDesc>
+<figDesc>This postcard has a color illustration of a woman in Greek/Roman dress holding a flag and handing a cup to a wounded soldier. Three other wounded soldiers sit on the ground beside him. Text beneath picture: "Die deutsche Frau im Kriege". On reverse: "Bayer. Landeskomitee f&#x00FC;r freiwillige Krankenpflege im Kriege"; "Offizielle Postkarte".</figDesc>
 </figure>
 
 <figure entity="drill_ground" ana="mil-a im-ph t-wwi">
@@ -2159,10 +2148,9 @@ bottm right: "Serie A. No. 5" On reverse: handwritten message;
 <figDesc>This postcard has a color illustration of a Nazi soldier's head. Text at left: "Arbeit". Text at right: "Brot". Text at bottom center: "Drum Liste 1". Text beneath picture: "Idiomatic Translation: 'The need for work and bread - therefore on our first list'". On reverse: "Dalkeith Poster Card P116"; "Artist: Ludwig Hohlwein, Germany, c 1934."</figDesc>
 </figure>
 
-<figure entity="england_forever" ana="im-s con-f nat-fr nat-brit nat-us
-	nat-it nat-bel nat-jp nat-rus">
+<figure entity="england_forever" ana="im-s con-f nat-fr nat-brit nat-us  nat-it nat-bel nat-jp nat-rus">
 <head>England for Ever</head>
-<figDesc>This postcard has a banner of flags and two birds embroidered on it, as well as the words "England for Ever". On reverse: "Fabrication fran&ccedil;aise".</figDesc>
+<figDesc>This postcard has a banner of flags and two birds embroidered on it, as well as the words "England for Ever". On reverse: "Fabrication fran&#x00E7;aise".</figDesc>
 </figure>
 
 <figure entity="figli" ana="nat-it im-en t-wwi hf-p">
@@ -2183,10 +2171,9 @@ bottm right: "Serie A. No. 5" On reverse: handwritten message;
 <figDesc>This postcard has a color illustration of the American flag and a short poem stating its significance as proof of valiance to the rest of the world. On reverse: handwritten message; "Published by the Gibson Art Company - Cincinnati".</figDesc>
 </figure>
 
-<figure entity="French_dragoons" ana="nat-us nat-fr nat-de mil-f mil-p
-	im-ph t-wwi">
+<figure entity="French_dragoons" ana="nat-us nat-fr nat-de mil-f mil-p  im-ph t-wwi">
 <head>German Uhlans Captured by French Dragoons</head>
-<figDesc>This postcard is a color-tinted photo of soldiers being led on foot through the street by soldiers on horses. Text at top left: "German Uhlans Captured by French Dragoons." Text at bottom right: "&copy; by the International News Service, N.Y."On reverse: "German Uhlans Captured by French Dragoons. The dragoons marching the prisoners through Douai."; "New York"; "London"; "Made in U.S.A."</figDesc>
+<figDesc>This postcard is a color-tinted photo of soldiers being led on foot through the street by soldiers on horses. Text at top left: "German Uhlans Captured by French Dragoons." Text at bottom right: "&#x00A9; by the International News Service, N.Y."On reverse: "German Uhlans Captured by French Dragoons. The dragoons marching the prisoners through Douai."; "New York"; "London"; "Made in U.S.A."</figDesc>
 </figure>
 
 <figure entity="french_lady" ana="im-pa hf-p nat-fr">
@@ -2215,8 +2202,7 @@ console". Text at bottom right: "Xavier Sager". On reverse: "Paris."
 <figDesc>This postcard has a color illustration of an American flag and a short poem beneath it, which is entitled "The Wish of a Friend of a Soldier Boy". The poet hopes for a quick end to the war and the soldier's return. On reverse: "No. 2212, 10 designs, Soldier Boy Message"; handwritten message.</figDesc>
 </figure>
 
-<figure entity="friendships_name" ana="nat-brit mil-a hf-ro hf-w hf-h
-	con-v t-wwi">
+<figure entity="friendships_name" ana="nat-brit mil-a hf-ro hf-w hf-h  con-v t-wwi">
 <head>In Friendship's Name (2)</head>
 <p><text><body>
 <lg><l>As firends we met, as friends we part,</l>
@@ -2235,7 +2221,7 @@ console". Text at bottom right: "Xavier Sager". On reverse: "Paris."
 
 <figure entity="German_friend" ana="nat-it nat-de im-po mil-a mil-p hf-p t-ww2">
 <head>Germany Is Truly Your Friend</head>
-<figDesc>This postcard has an illustration of a Nazi soldier, smiling and extending his hand. Text at bottom of picture: "La Germania&egrave; Veramente Vostra Amica". Text beneath picture: "Translation: 'Germany Is Truly Your Friend'". On reverse: "Dalkeith Poster Card P119"; "Artist: Boccasile. Published in Italy, c1943."</figDesc>
+<figDesc>This postcard has an illustration of a Nazi soldier, smiling and extending his hand. Text at bottom of picture: "La Germania&#x00E8; Veramente Vostra Amica". Text beneath picture: "Translation: 'Germany Is Truly Your Friend'". On reverse: "Dalkeith Poster Card P119"; "Artist: Boccasile. Published in Italy, c1943."</figDesc>
 </figure>
 
 <figure entity="German_trenches" ana="nat-brit mil-f mil-p im-ph t-wwi">
@@ -2278,10 +2264,9 @@ when God gave "you to me." On reverse: "The two cents placed here
 speeds your boy a word of cheer." Handwritten message.</figDesc>
 </figure>
 
-<figure entity="good_luck" ana="im-s nat-fr con-f nat-us nat-ee
-	nat-bel nat-it t-wwi">
+<figure entity="good_luck" ana="im-s nat-fr con-f nat-us nat-ee  nat-bel nat-it t-wwi">
 <head>Good Luck</head>
-<figDesc>This postcard has embroidered flags and the phrase "Good Luck". The postcard also functions as an envelope, with two small cards inside. One card has an illustration of a woman with a wheelbarrow and the words: "Sincere Friendship". The other card has an illustration of a dog holding a basket of flowers in its mouth. Underneath it is the phrase "To my dear Mother". On reverse: "Vis&eacute; Paris et Exportation J.S. Paris-D&eacute;pos&eacute;".</figDesc>
+<figDesc>This postcard has embroidered flags and the phrase "Good Luck". The postcard also functions as an envelope, with two small cards inside. One card has an illustration of a woman with a wheelbarrow and the words: "Sincere Friendship". The other card has an illustration of a dog holding a basket of flowers in its mouth. Underneath it is the phrase "To my dear Mother". On reverse: "Vis&#x00E9; Paris et Exportation J.S. Paris-D&#x00E9;pos&#x00E9;".</figDesc>
 </figure>
 
 <figure entity="good_xmas_wish" ana="nat-us hf-ro hf-p con-v">
@@ -2299,7 +2284,7 @@ speeds your boy a word of cheer." Handwritten message.</figDesc>
 
 <figure entity="grant_bridge" ana="nat-us mil-a t-wwi">
 <head>Camp Grant Military Bridge Over Rock River</head>
-<figDesc>This postcard is a black and white photo of a wooden bridge over a river. Text at bottom left: "&copy; 1917 R.I.C.O." Text at bottom right: "Camp Grant Military Bridge Over Rock River". On reverse: "Published by the Photo-Post Card Co., Rockford, ILL." </figDesc>
+<figDesc>This postcard is a black and white photo of a wooden bridge over a river. Text at bottom left: "&#x00A9; 1917 R.I.C.O." Text at bottom right: "Camp Grant Military Bridge Over Rock River". On reverse: "Published by the Photo-Post Card Co., Rockford, ILL." </figDesc>
 </figure>
 
 <figure entity="grant_kitchens" ana="nat-us mil-a t-wwi">
@@ -2309,17 +2294,17 @@ speeds your boy a word of cheer." Handwritten message.</figDesc>
 
 <figure entity="grant_ovens" ana="nat-us mil-a t-wwi">
 <head>Camp--Grant Army Bake Ovens</head>
-<figDesc>This postcard is a black and white photo of soldiers standing by the ovens in their camp. Text at bottom left: "Camp--Grant Army Bake Ovens"; "&copy; 1917 R.I.C.O." On reverse: blank.</figDesc>
+<figDesc>This postcard is a black and white photo of soldiers standing by the ovens in their camp. Text at bottom left: "Camp--Grant Army Bake Ovens"; "&#x00A9; 1917 R.I.C.O." On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="grant_road" ana="nat-us mil-a t-wwi">
 <head>On The Road To Camp Grant</head>
-<figDesc>This postcard is a black and white photo of cars lined up on a road. Text at top right: "On The Road To Camp Grant"; "&copy; 1917 R.I.C.O." On reverse: blank.</figDesc>
+<figDesc>This postcard is a black and white photo of cars lined up on a road. Text at top right: "On The Road To Camp Grant"; "&#x00A9; 1917 R.I.C.O." On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="grant_ymca" ana="nat-us mil-a t-wwi">
 <head>Camp--Grant Y.M.C.A. Building</head>
-<figDesc>This postcard is a black and white photo of the Y.M.C.A. building at Camp Grant. Text at bottom left: "Camp--Grant Y.M.C.A. Building"; "&copy; 1917 R.I.C.O." On reverse: blank.</figDesc>
+<figDesc>This postcard is a black and white photo of the Y.M.C.A. building at Camp Grant. Text at bottom left: "Camp--Grant Y.M.C.A. Building"; "&#x00A9; 1917 R.I.C.O." On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="great_soldier_making" ana="con-h t-wwi nat-us">
@@ -2327,10 +2312,9 @@ speeds your boy a word of cheer." Handwritten message.</figDesc>
 <figDesc>This postcard has a color illustration of a burning cigarette, a notebook and a liquor bottle. Text beneath the picture: "The Makings of a Great Soldier." On reverse: "Printed in Saxony"; handwritten message; stamped date of September 10, 1914.</figDesc>
 </figure>
 
-<figure entity="great_war_souvenir" ana="im-s nat-fr nat-brit nat-us
-	nat-it nat-rus">
+<figure entity="great_war_souvenir" ana="im-s nat-fr nat-brit nat-us  nat-it nat-rus">
 <head>Souvenir of the Great War</head>
-<figDesc>This postcard has "Souvenir of the Great War" embroidered on the front and it also functions as an envelope with a small card inside. The card has an illustration of a woman and "A Happy Christmas" on it. On reverse: "Vis&eacute;, Paris et Exportation. J.S. Paris - D&eacute;pos&eacute;"; handwritten message.</figDesc>
+<figDesc>This postcard has "Souvenir of the Great War" embroidered on the front and it also functions as an envelope with a small card inside. The card has an illustration of a woman and "A Happy Christmas" on it. On reverse: "Vis&#x00E9;, Paris et Exportation. J.S. Paris - D&#x00E9;pos&#x00E9;"; handwritten message.</figDesc>
 </figure>
 
 <figure entity="gvado" ana="nat-it im-en hf-p t-wwi">
@@ -2340,22 +2324,22 @@ speeds your boy a word of cheer." Handwritten message.</figDesc>
 
 <figure entity="happy_b-day_2" ana="im-s nat-fr">
 <head>Happy Birthday</head>
-<figDesc>This postcard has pink, embroidered flowers and "Happy Birthday" embroidered at the bottom. On reverse: "Brod&eacute;es 'La Pens&eacute;e'. Paris".</figDesc>
+<figDesc>This postcard has pink, embroidered flowers and "Happy Birthday" embroidered at the bottom. On reverse: "Brod&#x00E9;es 'La Pens&#x00E9;e'. Paris".</figDesc>
 </figure>
 
 <figure entity="happy_new_year" ana="im-s nat-fr nat-brit">
 <head>Happy New Year</head>
-<figDesc>This postcard has an embroidered bird, flowers, and "Happy New Year" embroidered along the bottom. The postcard also functions as an envelope, but has nothing inside. On reverse: "Paris D&eacute;pos&eacute; Fabrication Fran&ccedil;aise".</figDesc>
+<figDesc>This postcard has an embroidered bird, flowers, and "Happy New Year" embroidered along the bottom. The postcard also functions as an envelope, but has nothing inside. On reverse: "Paris D&#x00E9;pos&#x00E9; Fabrication Fran&#x00E7;aise".</figDesc>
 </figure>
 
 <figure entity="happy_xmas" ana="im-s nat-fr t-wwi">
 <head>A Happy Christmas</head>
-<figDesc>This postcard has purple, embroidered flowers and "A Happy Christmas" embroidered along the bottom. The postcard also functions as an envelope with a small card inside. The card has an illustration of a house and a rose, along with the text, "A Happy Christmas". On reverse: "Mod&egrave;le D&eacute;pos&eacute;"; "Vis&eacute; Paris"; "Fabrication Fran&ccedil;aise"; handwritten message.</figDesc>
+<figDesc>This postcard has purple, embroidered flowers and "A Happy Christmas" embroidered along the bottom. The postcard also functions as an envelope with a small card inside. The card has an illustration of a house and a rose, along with the text, "A Happy Christmas". On reverse: "Mod&#x00E8;le D&#x00E9;pos&#x00E9;"; "Vis&#x00E9; Paris"; "Fabrication Fran&#x00E7;aise"; handwritten message.</figDesc>
 </figure>
 
 <figure entity="hello_central" ana="hf-w hf-ro mil-f con-v nat-us">
 <head>Hello, Central!</head>
-<figDesc>This postcard has a color illustration of a soldier and a woman each at a phone, separated by power lines. Text at bottom center: "Hello, Central! Give me-well- / Give me the one that I hold true / The only one in all the World / Hello, Sweetheart! Is that you?" On reverse: "&copy; Illustrated Postal Card &#x0026; Nov. Co. N.Y."; "Printed in the U.S.A."</figDesc>
+<figDesc>This postcard has a color illustration of a soldier and a woman each at a phone, separated by power lines. Text at bottom center: "Hello, Central! Give me-well- / Give me the one that I hold true / The only one in all the World / Hello, Sweetheart! Is that you?" On reverse: "&#x00A9; Illustrated Postal Card &#x0026; Nov. Co. N.Y."; "Printed in the U.S.A."</figDesc>
 </figure>
 
 <figure entity="his_sweetheart" ana="hf-p hf-w con-v">
@@ -2403,12 +2387,12 @@ speeds your boy a word of cheer." Handwritten message.</figDesc>
 
 <figure entity="hourglass" ana="nat-us nat-de hf-p im-ca t-wwi">
 <head>"Will They Last?"</head>
-<figDesc>The postcard has a pencil illustration of a large hourglass. Instead of sand, the hourglass has men in the top portion and their blood in the bottom. Two men, one dressed in a robe and crown and the other as a captain or soldier, look on. Text at bottom center: "'Will they last?' / The grave question with Germany has long been one of man power." Text at bottom left of picture: "&ccedil; 1019". On reverse: "Raemaekers Post Card Series"; "Brown Robertson Co. N.Y."; handwritten message; postage date of April 16, 1918.</figDesc>
+<figDesc>The postcard has a pencil illustration of a large hourglass. Instead of sand, the hourglass has men in the top portion and their blood in the bottom. Two men, one dressed in a robe and crown and the other as a captain or soldier, look on. Text at bottom center: "'Will they last?' / The grave question with Germany has long been one of man power." Text at bottom left of picture: "&#x00E7; 1019". On reverse: "Raemaekers Post Card Series"; "Brown Robertson Co. N.Y."; handwritten message; postage date of April 16, 1918.</figDesc>
 </figure>
 
 <figure entity="i_wish" ana="hf-w hf-ro nat-us mil-f t-wwi">
 <head>A letter from you</head>
-<figDesc>This postcard has a color illustration of a soldier smoking a pipe and looking through a stack of letters. At the top left is an inset of a woman handing  a letter to the postman. At the top right is an inset of soldiers at a camp site. Text at bottom right: "A letter from you / with good news and cheer / Makes Duty seem lighter / and home-coming near." On reverse: "&copy; Illustrated Postal Card and Nov. Co. N.Y."; "Printed in the U.S.A."</figDesc>
+<figDesc>This postcard has a color illustration of a soldier smoking a pipe and looking through a stack of letters. At the top left is an inset of a woman handing  a letter to the postman. At the top right is an inset of soldiers at a camp site. Text at bottom right: "A letter from you / with good news and cheer / Makes Duty seem lighter / and home-coming near." On reverse: "&#x00A9; Illustrated Postal Card and Nov. Co. N.Y."; "Printed in the U.S.A."</figDesc>
 </figure>
 <figure entity="imperialism" ana="nat-us nat-rus hf-p t-post2">
 <head>Imperialism is War!</head>
@@ -2423,8 +2407,8 @@ at bottom right: "Translation: 'Imperialism is War!'" On reverse:
 </figure>
 
 <figure entity="je_pense" ana="nat-fr im-s t-wwi">
-<head>Je Pense &agrave; toi</head>
-<figDesc>This postcard has embroidered flowers and "Je Pense &agrave; toi" embroidered across it diagonally. On reverse: "Marque d&eacute;posee Fabrication Fran&ccedil;aise"; handwritten message.</figDesc>
+<head>Je Pense &#x00E0; toi</head>
+<figDesc>This postcard has embroidered flowers and "Je Pense &#x00E0; toi" embroidered across it diagonally. On reverse: "Marque d&#x00E9;posee Fabrication Fran&#x00E7;aise"; handwritten message.</figDesc>
 </figure>
 
 <figure entity="Kaiser_Wilhelm" ana="nat-nl im-ph con-p">
@@ -2483,8 +2467,7 @@ at bottom right: "Translation: 'Imperialism is War!'" On reverse:
 <figDesc>This postcard has a crest with a picture of a house on it and some verses beside it. Text at top right: "To One In Khaki Who Is Missed At Home This Christmas-Time". Author: "Wanderer". Text at bottom right: "Rotary Photo. E.C." On reverse: "Printed in Britain"; "Rotary Photographic Series"; "This is a Real Photograph".</figDesc>
 </figure>
 
-<figure entity="knee_up_sailor" ana="nat-us con-el im-ph mil-na
-	t-wwi">
+<figure entity="knee_up_sailor" ana="nat-us con-el im-ph mil-na  t-wwi">
 <head>Sailor</head>
 <figDesc>This postcard is a black and white photo of a sailor in white, standing with one leg propped up and leaning on his knee. On reverse: blank.</figDesc>
 </figure>
@@ -2496,11 +2479,10 @@ at bottom right: "Translation: 'Imperialism is War!'" On reverse:
 
 <figure entity="letter_from_you" ana="nat-us mil-f hf-h con-v">
 <head>A letter from you</head>
-<figDesc>This postcard has a color illustration of a soldier smoking a pipe and looking through a stack of letters. At the top left is an inset of a woman handing  a letter to the postman. At the top right is an inset of soldiers at a camp site. Text at bottom right: "A letter from you / with good news and cheer / Makes Duty seem lighter / and home-coming near." On reverse: "&copy; Illustrated Postal Card and Nov. Co. N.Y."; "Printed in the U.S.A."</figDesc>
+<figDesc>This postcard has a color illustration of a soldier smoking a pipe and looking through a stack of letters. At the top left is an inset of a woman handing  a letter to the postman. At the top right is an inset of soldiers at a camp site. Text at bottom right: "A letter from you / with good news and cheer / Makes Duty seem lighter / and home-coming near." On reverse: "&#x00A9; Illustrated Postal Card and Nov. Co. N.Y."; "Printed in the U.S.A."</figDesc>
 </figure>
 
-<figure entity="little_grey_home" ana="nat-brit hf-h mil-a con-v im-pa
-	t-wwi">
+<figure entity="little_grey_home" ana="nat-brit hf-h mil-a con-v im-pa  t-wwi">
 <head>Little Grey Home in the West (4)</head>
 <p><text><body>
 <lg><l>It's a corner of heaven itself,</l>
@@ -2561,7 +2543,7 @@ Georgia"</l>
 
 <figure entity="marguerite" ana="hf-w hf-ro mil-a nat-fr">
 <head>La Marguerite</head>
-<figDesc>This postcard is pink with a sepia photo of a soldier and a woman holding daisies. Text at bottom center: "La Marguerite"; "La Marguerite, ami, ne peut plus rien m'apprendre / Je sais que vous m'aimez d'un c&oelig;ur fid&egrave;le et tendre". On reverse: "Imprim&eacute; en France".</figDesc>
+<figDesc>This postcard is pink with a sepia photo of a soldier and a woman holding daisies. Text at bottom center: "La Marguerite"; "La Marguerite, ami, ne peut plus rien m'apprendre / Je sais que vous m'aimez d'un c&#x0153;ur fid&#x00E8;le et tendre". On reverse: "Imprim&#x00E9; en France".</figDesc>
 </figure>
 
 <figure entity="merry_xmas2" ana="im-s t-wwi">
@@ -2570,8 +2552,8 @@ Georgia"</l>
 </figure>
 
 <figure entity="monument" ana="con-m nat-fr im-ph">
-<head>Monument Ext&eacute;rieur</head>
-<figDesc>This postcard is a black and white photo of a large monument with pillars. Text at top center: "P. Carrier-Belleuse -- Panth&eacute;on de la Guerre -- A.-F. Gorguet". Text at bottom right: "20 Edit. Art. H. Manuel, Paris". Text at bottom center: "Monument Ext&eacute;rieur". On reverse: "Imp. E. Le Deley, Paris".</figDesc>
+<head>Monument Ext&#x00E9;rieur</head>
+<figDesc>This postcard is a black and white photo of a large monument with pillars. Text at top center: "P. Carrier-Belleuse -- Panth&#x00E9;on de la Guerre -- A.-F. Gorguet". Text at bottom right: "20 Edit. Art. H. Manuel, Paris". Text at bottom center: "Monument Ext&#x00E9;rieur". On reverse: "Imp. E. Le Deley, Paris".</figDesc>
 </figure>
 
 <figure entity="mother_at_camp" ana="nat-us im-ca hf-h hf-w con-h mil-a t-wwi">
@@ -2586,16 +2568,16 @@ Georgia"</l>
 
 <figure entity="never_know" ana="nat-us hf-h con-v im-pa mil-f t-wwi">
 <head>We never know how dear friends are</head>
-<figDesc>This postcard has a color illustration of a soldier sitting and smoking a pipe in the foreground. In the background is a rural road and a house. Text at bottom right: "We never know how dear friends are / Until they're far away, / And we recall with memory clear / Some happy by-gone day." On reverse: "&copy; Illustrated Postal Card and Nov. Co. N.Y."; handwritten message; postage date of 1918.</figDesc>
+<figDesc>This postcard has a color illustration of a soldier sitting and smoking a pipe in the foreground. In the background is a rural road and a house. Text at bottom right: "We never know how dear friends are / Until they're far away, / And we recall with memory clear / Some happy by-gone day." On reverse: "&#x00A9; Illustrated Postal Card and Nov. Co. N.Y."; handwritten message; postage date of 1918.</figDesc>
 </figure>
 
 <figure entity="night_bridge" ana="nat-de mil-a mil-f im-pa t-wwi">
 <head>Kaisersch&#x00FC;tzenregiment</head>
 <figDesc>This postcard is a color illustration of two men on horses
 and a group of men on foot crossing a bridge at night. On reverse in
-green print: "1. Kaisersch&uuml;tzenregiment passiert nachts die
-Br&uuml;cke Anghebeni im Vallarsatal im Mai 1916. (Unten italienische
-15 cm-Gesch&uuml;tze)." Other green print is obscured by black
+green print: "1. Kaisersch&#x00FC;tzenregiment passiert nachts die
+Br&#x00FC;cke Anghebeni im Vallarsatal im Mai 1916. (Unten italienische
+15 cm-Gesch&#x00FC;tze)." Other green print is obscured by black
 overprinting, but reads in part, "OFFIZIELLE KARTE F&#x00DC;R WITAEN UND
 WAISEI OND DER KAISERSCHUTZEN" The black overprinting reads, "ZU
 GUNSTEN DER LANSESVERB&#x00C4;NDE WIEN UND NIEDER.-&#x00D6;STERR. DES
@@ -2620,7 +2602,7 @@ masked man holdong a crowbar hidden under the bed. Text at top center: "'Another
 <figDesc>This postcard is a color illustration of a soldier walking
 through a campsite at night with a woman. Text at bottom right: "Oft
 at night I fancy I can see / A dear form walking close beside / And
-whispering love to me." At lower right is the number 1362. On reverse: "&copy; Illustrated Postal Card and Nov. Co. N.Y."; "Printed in the U.S.A."</figDesc>
+whispering love to me." At lower right is the number 1362. On reverse: "&#x00A9; Illustrated Postal Card and Nov. Co. N.Y."; "Printed in the U.S.A."</figDesc>
 </figure>
 
 <figure entity="old-fashioned_cottage" ana="nat-brit hf-h con-v im-ph t-wwi">
@@ -2645,17 +2627,17 @@ whispering love to me." At lower right is the number 1362. On reverse: "&copy; I
 
 <figure entity="our_allies" ana="nat-us hf-p con-f t-wwi">
 <head>Our Allies</head>
-<figDesc>This postcard has the flags and names of Cuba, Portugal, Serbia, Belgium, Russia, France, Great Britain, Japan, Italy, Roumania, Montenegro, and Panama. In the center is the American flag. Text at bottom center: "Our Allies". On reverse: "&copy; Illustrated Postal Card and Nov. Co. N.Y."; handwritten message.</figDesc>
+<figDesc>This postcard has the flags and names of Cuba, Portugal, Serbia, Belgium, Russia, France, Great Britain, Japan, Italy, Roumania, Montenegro, and Panama. In the center is the American flag. Text at bottom center: "Our Allies". On reverse: "&#x00A9; Illustrated Postal Card and Nov. Co. N.Y."; handwritten message.</figDesc>
 </figure>
 
 <figure entity="pantheon" ana="im-pa nat-fr con-m t-wwi">
-<head>Panth&eacute;on de la Guerre</head>
-<figDesc>This postcard is a black and white illustration of a crowd in front of the pantheon. Text at bottom center: "Edit. Art. H. Manuel, Paris"; "Les Marches du Panth&eacute;on (Fragment)"; "Carrier-Belleuse -- Panth&eacute;on de la Guerre -- A.-F. Gorguet". On reverse: "Imp. E. Le Deley, Paris".</figDesc>
+<head>Panth&#x00E9;on de la Guerre</head>
+<figDesc>This postcard is a black and white illustration of a crowd in front of the pantheon. Text at bottom center: "Edit. Art. H. Manuel, Paris"; "Les Marches du Panth&#x00E9;on (Fragment)"; "Carrier-Belleuse -- Panth&#x00E9;on de la Guerre -- A.-F. Gorguet". On reverse: "Imp. E. Le Deley, Paris".</figDesc>
 </figure>
 
 <figure entity="pattons_grave" ana="nat-us mil-a con-m im-ph t-ww2">
 <head>George S. Patton Jr.</head>
-<figDesc>This postcard is a black and white photo of a cemetery with white crosses as grave markers. In the top left corner is an inset of one cross with "George S. Patton Jr. General 3rd Army" on it. On reverse: "Luxembourg. Cimeti&egrave;re am&eacute;ricain. American Cemetery."; "E. A. Schaack, Luxembourg"; "photothill".</figDesc>
+<figDesc>This postcard is a black and white photo of a cemetery with white crosses as grave markers. In the top left corner is an inset of one cross with "George S. Patton Jr. General 3rd Army" on it. On reverse: "Luxembourg. Cimeti&#x00E8;re am&#x00E9;ricain. American Cemetery."; "E. A. Schaack, Luxembourg"; "photothill".</figDesc>
 </figure>
 
 <figure entity="peace_any_price" ana="im-ca con-h hf-p hf-c">
@@ -2668,10 +2650,9 @@ whispering love to me." At lower right is the number 1362. On reverse: "&copy; I
 <figDesc>This postcard is a color-tinted photo of a parade with American flags hung from all the buildings. Text at top center: "Peachtree St. looking through 5 Points, Flag raising day, Atlanta, Ga." On reverse: "Pub. By Imperial Post Card Co., Atlanta, Ga."; handwritten message.</figDesc>
 </figure>
 
-<figure entity="petite_armee" ana="nat-fr mil-p con-h con-v con-f
-	im-ca t-wwi">
-<head>Suis-je toujours 'la m&eacute;prisable Petite Arm&eacute;e'?</head>
-<figDesc>This postcard is a color cartoon-like picture of a little boy dressed as a soldier and carrying the flag of Iceland. Text beneath picture: "Suis-je toujours 'la m&eacute;prisable Petite Arm&eacute;e'? Well Kaiser Bill, not such a miserable army as you thought, eh?" On reverse: "'Lafayette' S&eacute;rie No 94 Vis&eacute; Paris Imp. J. Amiard - Printed in France".</figDesc>
+<figure entity="petite_armee" ana="nat-fr mil-p con-h con-v con-f  im-ca t-wwi">
+<head>Suis-je toujours 'la m&#x00E9;prisable Petite Arm&#x00E9;e'?</head>
+<figDesc>This postcard is a color cartoon-like picture of a little boy dressed as a soldier and carrying the flag of Iceland. Text beneath picture: "Suis-je toujours 'la m&#x00E9;prisable Petite Arm&#x00E9;e'? Well Kaiser Bill, not such a miserable army as you thought, eh?" On reverse: "'Lafayette' S&#x00E9;rie No 94 Vis&#x00E9; Paris Imp. J. Amiard - Printed in France".</figDesc>
 </figure>
 
 <figure entity="preghiera" ana="nat-it im-en hf-p t-wwi">
@@ -2686,18 +2667,17 @@ whispering love to me." At lower right is the number 1362. On reverse: "&copy; I
 
 <figure entity="refugees" ana="nat-brit nat-bel hf-c hf-p">
 <head>Refugees</head>
-<figDesc>This postcard is a color illustration of two small children huddled together on a rocky bank. In the background is a large cathedral. Text at bottom center: "Refugees. (Who wouldn't help?) R&eacute;fugi&eacute;s!" On reverse: "Inter-Art Co., Red Lion Square, London, W.C. 'Two-o-nine' Series. No. 211. British Manufacture."</figDesc>
+<figDesc>This postcard is a color illustration of two small children huddled together on a rocky bank. In the background is a large cathedral. Text at bottom center: "Refugees. (Who wouldn't help?) R&#x00E9;fugi&#x00E9;s!" On reverse: "Inter-Art Co., Red Lion Square, London, W.C. 'Two-o-nine' Series. No. 211. British Manufacture."</figDesc>
 </figure>
 
-<figure entity="Reims_cathedral_color_63" ana="nat-fr hf-p con-r im-ph
-	t-wwi">
+<figure entity="Reims_cathedral_color_63" ana="nat-fr hf-p con-r im-ph  t-wwi">
 <head>63.-Reims</head>
-<figDesc>This postcard is a colored photograph of a cathedral among ruins. Text at top right: "63. Reims dans le Ruines apr&egrave;s la Retraite des Allemands". Text at top left: "La Cath&eacute;drale &agrave; travers les Ruines. The Cathedral among the ruins. On reverse: blank.</figDesc>
+<figDesc>This postcard is a colored photograph of a cathedral among ruins. Text at top right: "63. Reims dans le Ruines apr&#x00E8;s la Retraite des Allemands". Text at top left: "La Cath&#x00E9;drale &#x00E0; travers les Ruines. The Cathedral among the ruins. On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="Reims_ruins_58" ana="nat-fr hf-p con-r im-ph t-wwi">
 <head>58.-Reims</head>
-<figDesc>This postcard is a colored photograph of a street with buildings in ruins. Text at top right: "58. Reims dans le Ruines apr&egrave;s la Retraite des Allemands. Rue Talleyrand et le The&acirc;tre. Talleyrand Street and the Theater". Text at bottom right: "V. Thuillier, &eacute;diteur, Reims". On reverse: blank. </figDesc>
+<figDesc>This postcard is a colored photograph of a street with buildings in ruins. Text at top right: "58. Reims dans le Ruines apr&#x00E8;s la Retraite des Allemands. Rue Talleyrand et le The&#x00E2;tre. Talleyrand Street and the Theater". Text at bottom right: "V. Thuillier, &#x00E9;diteur, Reims". On reverse: blank. </figDesc>
 </figure>
 
 <figure entity="remembrance" ana="nat-ca mil-a mil-na con-v mil-p t-wwi">
@@ -2707,22 +2687,22 @@ whispering love to me." At lower right is the number 1362. On reverse: "&copy; I
 
 <figure entity="Romagne_Cemetery_1" ana="nat-fr nat-us mil-a con-m im-ph t-wwi">
 <head>Romagne-sous-Montfaucon</head>
-<figDesc>This postcard is a black and white photo of a cemetery of white crosses. Text at top center: "275. Romagne-sous-Montfaucon -- Cimeti&egrave;re am&eacute;ricain de l'Argonne, 25.000 tombes, vue du c&ocirc;t&eacute; Est American Cemetery, 25.000 graves, Eastern side". On reverse: blank.</figDesc>
+<figDesc>This postcard is a black and white photo of a cemetery of white crosses. Text at top center: "275. Romagne-sous-Montfaucon -- Cimeti&#x00E8;re am&#x00E9;ricain de l'Argonne, 25.000 tombes, vue du c&#x00F4;t&#x00E9; Est American Cemetery, 25.000 graves, Eastern side". On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="Romagne_Cemetery_2" ana="nat-fr nat-us mil-a con-m im-ph t-post">
 <head>Romagne-sous-Montfaucon </head>
-<figDesc>This postcard is a black and white photo of a cemetery of white crosses. Text at top center: "268. Romagne-sous-Montfaucon -- Cimeti&egrave;re am&eacute;ricain de l'Argonne, 25.000 tombes. Les tombes d&eacute;cor&eacute;es pour la f&ecirc;tes des Morts -- The graves decorated for Memorial Day 1921, Main avenue Shoving". On reverse: blank.</figDesc>
+<figDesc>This postcard is a black and white photo of a cemetery of white crosses. Text at top center: "268. Romagne-sous-Montfaucon -- Cimeti&#x00E8;re am&#x00E9;ricain de l'Argonne, 25.000 tombes. Les tombes d&#x00E9;cor&#x00E9;es pour la f&#x00EA;tes des Morts -- The graves decorated for Memorial Day 1921, Main avenue Shoving". On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="Romagne_Cemetery_3" ana="nat-fr mil-a con-m im-ph t-wwi">
 <head>Romagne-sous-Montfaucon</head>
-<figDesc>This postcard is a black and white photo of a cemetery of white crosses. A large cannon is in the foreground. Text at top center: "274. Romagne-sous-Montfaucon -- Cimeti&egrave;re am&eacute;ricain de l'Argonne, 25.000 tombes, vue du c&ocirc;t&eacute; ouest -- American Cemetery, 25.000 graves, west side". On reverse: blank.</figDesc>
+<figDesc>This postcard is a black and white photo of a cemetery of white crosses. A large cannon is in the foreground. Text at top center: "274. Romagne-sous-Montfaucon -- Cimeti&#x00E8;re am&#x00E9;ricain de l'Argonne, 25.000 tombes, vue du c&#x00F4;t&#x00E9; ouest -- American Cemetery, 25.000 graves, west side". On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="Romagne_Cemetery_4" ana="nat-fr mil-a con-m im-ph t-wwi">
 <head>Romagne-sous-Montfaucon</head>
-<figDesc>This postcard is a black and white photo of a cemetery of white crosses with a large American flag on the pathway. Text at top center: "267. Romagne-sous-Montfaucon -- Cimeti&egrave;re am&eacute;ricain de l'Argonne, 25.000 tombes, all&eacute;e Centrale American Cemetery, 25.000 graves. View from center looking towards the entrance". On reverse: blank.</figDesc>
+<figDesc>This postcard is a black and white photo of a cemetery of white crosses with a large American flag on the pathway. Text at top center: "267. Romagne-sous-Montfaucon -- Cimeti&#x00E8;re am&#x00E9;ricain de l'Argonne, 25.000 tombes, all&#x00E9;e Centrale American Cemetery, 25.000 graves. View from center looking towards the entrance". On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="Rupert" ana="nat-brit im-dr con-p">
@@ -2741,11 +2721,10 @@ hospital. And old woman, holding tracts in one hand, is leaning over a wounded s
 <figDesc>This postcard is a black and white picture of men standing by
 a statue. Text on wall behind statue: "MDCCCXCI MDCCCXCIII / Alexandre
 III/ Sadi-Carnot / Alliance Franco-Ru[s]se" The statue partially
-obscures other text. Text at bottom right: "Edit. Art. H. Manuel, Paris". Text at bottom center: "Fragment de la Russie"; "P. Carrier-Belleuse -- Panth&eacute;on de la Guerre -- A.-F. Gorguet". On reverse: "Imp. E. Le Deley, Paris".</figDesc>
+obscures other text. Text at bottom right: "Edit. Art. H. Manuel, Paris". Text at bottom center: "Fragment de la Russie"; "P. Carrier-Belleuse -- Panth&#x00E9;on de la Guerre -- A.-F. Gorguet". On reverse: "Imp. E. Le Deley, Paris".</figDesc>
 </figure>
 
-<figure entity="sailor_portrait" ana="nat-us mil-na con-el im-ph
-	t-wwi">
+<figure entity="sailor_portrait" ana="nat-us mil-na con-el im-ph  t-wwi">
 <head>Portrait of a Sailor</head>
 <figDesc>This postcard is a black and white picture of a sailor. On reverse: "Vincent-Mitchell Studios 1022 Chestnut St., Philadelphia, Pa.  111 W. Lexington St., Baltimore, Md."</figDesc>
 </figure>
@@ -2812,16 +2791,14 @@ obscures other text. Text at bottom right: "Edit. Art. H. Manuel, Paris". Text a
 <figDesc>This postcard is a sepia toned photo of the Scottish National War Memorial's interior. Text at bottom center: "The Shrine, Scottish National War Memorial, Edinburgh Castle." On reverse: "This is a real photograph"; "Printed in Great Britain".</figDesc>
 </figure>
 
-<figure entity="silence_is_gold" ana="nat-fr nat-us hf-ro hf-w hf-p
-	mil-f t-wwi">
+<figure entity="silence_is_gold" ana="nat-fr nat-us hf-ro hf-w hf-p  mil-f t-wwi">
 <head>Le silence est d'or. Silence is of gold.</head>
 <figDesc>This postcard is a color illustration of a soldier whose
 mouth is bandaged, and arm in a sling and a woman in a fur trimmed
-dress. Text at bottom right: "Xavier Sager" Text at bottom center: "Le silence est d'or. Silence is of gold." On reverse: "Fantaisies trichromes"; "Paris."; "Proverbes Am&eacute;ricains, par X. Sager."; "Fabrication fran&ccedil;aise".</figDesc>
+dress. Text at bottom right: "Xavier Sager" Text at bottom center: "Le silence est d'or. Silence is of gold." On reverse: "Fantaisies trichromes"; "Paris."; "Proverbes Am&#x00E9;ricains, par X. Sager."; "Fabrication fran&#x00E7;aise".</figDesc>
 </figure>
 
-<figure entity="sit_stand_sailors" ana="nat-us mil-na con-el im-ph
-	t-pre">
+<figure entity="sit_stand_sailors" ana="nat-us mil-na con-el im-ph  t-pre">
 <head>Two Sailors</head>
 <figDesc>This postcard is a black and white photo of two sailors, one sitting and one standing. On reverse: handwritten message.</figDesc>
 </figure>
@@ -2948,7 +2925,7 @@ Passage de troupe (Photo 1918) M.D." In small letters above caption:
 
 <figure entity="tanned_japan" ana="nat-us hf-p con-v con-h im-ca">
 <head>Made in Japan</head>
-<figDesc>This postcard has an illustration of a Japanese soldier's skin stretched onto a wall. Text in center: "Made in Japan, Caught in the Pacific, Tanned in the U.S.A." Text at bottom center: "Here hangs the pelt of a Jap / Who mistook a Yank for a sap, / He never deserved to be preserved / So we just kept his hide and his cap." Text at bottom right: "&copy; All rights reserved. Babcock &#x0026; Borough--Albuquerque, N.M." On reverse: "Distributed by J.R. Willis, Box 665 Albuquerque, N.M."; handwritten message.</figDesc>
+<figDesc>This postcard has an illustration of a Japanese soldier's skin stretched onto a wall. Text in center: "Made in Japan, Caught in the Pacific, Tanned in the U.S.A." Text at bottom center: "Here hangs the pelt of a Jap / Who mistook a Yank for a sap, / He never deserved to be preserved / So we just kept his hide and his cap." Text at bottom right: "&#x00A9; All rights reserved. Babcock &#x0026; Borough--Albuquerque, N.M." On reverse: "Distributed by J.R. Willis, Box 665 Albuquerque, N.M."; handwritten message.</figDesc>
 </figure>
 
 <figure entity="the_allies" ana="con-f hf-p t-wwi">
@@ -2963,22 +2940,22 @@ Passage de troupe (Photo 1918) M.D." In small letters above caption:
 
 <figure entity="the_hun" ana="im-dr mil-p mil-f con-h t-wwi">
 <head>The Hun Ain't Born Yet-That Is to Get Me</head>
-<figDesc>This postcard has a color illustration of a soldier from the shoulders up. Text above soldier: "The Hun Ain't Born Yet - That Is to Get Me". Text beside picture: "Wall". On reverse: "&copy; Illustrated Postal Card &#x0026; Nov. Co. N.Y."; "Printed in the U.S.A."; handwritten message.</figDesc>
+<figDesc>This postcard has a color illustration of a soldier from the shoulders up. Text above soldier: "The Hun Ain't Born Yet - That Is to Get Me". Text beside picture: "Wall". On reverse: "&#x00A9; Illustrated Postal Card &#x0026; Nov. Co. N.Y."; "Printed in the U.S.A."; handwritten message.</figDesc>
 </figure>
 
 <figure entity="thoughts_of_love" ana="nat-us mil-f hf-h hf-ro">
 <head>Thoughts of love</head>
-<figDesc>This postcard has a color drawing of a soldier sitting on the ground, smoking a pipe, and reading a letter. One of the smoke rings forms an inset in the top right corner of a man sitting in a chair and woman playing the piano. Text at bottom right: "Thoughts of love and memory dear keep our hearts full of cheer." On reverse: "&copy; Illustrated Postal Card &#x0026; Nov. Co. N.Y."; "Printed in the U.S.A."</figDesc>
+<figDesc>This postcard has a color drawing of a soldier sitting on the ground, smoking a pipe, and reading a letter. One of the smoke rings forms an inset in the top right corner of a man sitting in a chair and woman playing the piano. Text at bottom right: "Thoughts of love and memory dear keep our hearts full of cheer." On reverse: "&#x00A9; Illustrated Postal Card &#x0026; Nov. Co. N.Y."; "Printed in the U.S.A."</figDesc>
 </figure>
 
 <figure entity="til_i_return" ana="nat-fr im-s hf-h">
 <head>God Be With You Until I Return</head>
-<figDesc>This postcard has embroidered flowers on the top and "God Be With You Until We Meet Again" embroidered along the bottom. The postcard also functions as an envelope with a small card inside. Text on card: "To My Dear Wife". On reverse: "Vis&eacute;, Paris et Exportation, J. S. Paris - D&eacute;pos&eacute;"; handwritten message.</figDesc>
+<figDesc>This postcard has embroidered flowers on the top and "God Be With You Until We Meet Again" embroidered along the bottom. The postcard also functions as an envelope with a small card inside. Text on card: "To My Dear Wife". On reverse: "Vis&#x00E9;, Paris et Exportation, J. S. Paris - D&#x00E9;pos&#x00E9;"; handwritten message.</figDesc>
 </figure>
 
 <figure entity="to_the_one" ana="nat-us con-v hf-ro hf-p mil-f">
 <head>Here's to the one</head>
-<figDesc>This postcard has a color drawing of a soldier and a woman sitting next to a large vase of roses. In the background is a troop of soldiers marching. Text at bottom right: "Here's to the one that holds me true while duty calls and wrongs are righted, for liberty and love shall win and in the end we'll be united." On reverse: "&copy; Illustrated Postal Card &#x0026; Nov. Co. N.Y."; "Printed in the U.S.A."</figDesc>
+<figDesc>This postcard has a color drawing of a soldier and a woman sitting next to a large vase of roses. In the background is a troop of soldiers marching. Text at bottom right: "Here's to the one that holds me true while duty calls and wrongs are righted, for liberty and love shall win and in the end we'll be united." On reverse: "&#x00A9; Illustrated Postal Card &#x0026; Nov. Co. N.Y."; "Printed in the U.S.A."</figDesc>
 </figure>
 
 <figure entity="troop_arrival" ana="nat-us mil-a im-ph t-wwi">
@@ -3016,7 +2993,7 @@ Passage de troupe (Photo 1918) M.D." In small letters above caption:
 
 <figure entity="victory" ana="nat-us hf-p t-ww2">
 <head>I'm All Out For Victory</head>
-<figDesc>The front of this postcard is blank. On reverse: "I'm all out for Victory"; "&copy; 1942 Benjamin E. Wertheimer, 220 West 19th Street, New York, N.Y."</figDesc>
+<figDesc>The front of this postcard is blank. On reverse: "I'm all out for Victory"; "&#x00A9; 1942 Benjamin E. Wertheimer, 220 West 19th Street, New York, N.Y."</figDesc>
 </figure>
 
 <figure entity="war_is_hell" ana="im-ca hf-w hf-c hf-h con-h">
@@ -3028,7 +3005,7 @@ Passage de troupe (Photo 1918) M.D." In small letters above caption:
 <head>When Duty calls I know my place</head>
 <figDesc>This postcard has a color illustration of a soldier and a
 woman on the beach and a group of soldiers next to them. Text at
-bottom right: "When Duty calls I know my place / But how I long to see your face." On reverse: "&copy; Illustrated Postal Card &#x0026; Nov. Co. N.Y."; "Printed in the U.S.A."</figDesc>
+bottom right: "When Duty calls I know my place / But how I long to see your face." On reverse: "&#x00A9; Illustrated Postal Card &#x0026; Nov. Co. N.Y."; "Printed in the U.S.A."</figDesc>
 </figure>
 
 <figure entity="woman_flag" ana="nat-us hf-w hf-p con-f">
@@ -3038,38 +3015,36 @@ bottom right: "When Duty calls I know my place / But how I long to see your face
 
 <figure entity="woman_portrait" ana="im-pa con-p nat-de">
 <head>Kaiserin Hermine</head>
-<figDesc>This postcard is a color portrait of a woman. On reverse: "Kaiserin Hermine"; "nach einem Gem&auml;lde von Prof. Alfred Schwarz".</figDesc>
+<figDesc>This postcard is a color portrait of a woman. On reverse: "Kaiserin Hermine"; "nach einem Gem&#x00E4;lde von Prof. Alfred Schwarz".</figDesc>
 </figure>
 
 <figure entity="xmas_cheer" ana="nat-us mil-a mil-f hf-h con-v im-dr t-wwi">
 <head>Christmas Cheer</head>
-<figDesc>On this postcard is a color illustration of a soldier standing in front of some tents. Text at bottom right: "Christmas Cheer / When Yule-logs burn upon the hearth / And Christmas bells are ringing, / From tented plains this little card / A cheery thought is bringing." On reverse: handwritten message; "&copy; Illustrated Postal Card &#x0026; Nov. Co. N.Y."; "Printed in the U.S.A."</figDesc>
+<figDesc>On this postcard is a color illustration of a soldier standing in front of some tents. Text at bottom right: "Christmas Cheer / When Yule-logs burn upon the hearth / And Christmas bells are ringing, / From tented plains this little card / A cheery thought is bringing." On reverse: handwritten message; "&#x00A9; Illustrated Postal Card &#x0026; Nov. Co. N.Y."; "Printed in the U.S.A."</figDesc>
 </figure>
 
 <figure entity="yellow_ribbon" ana="nat-us con-f hf-p t-post2">
 <head>Wear A Yellow Ribbon</head>
 <figDesc>This postcard has a black and white picture of a woman standing in front of a piano. In the top left corner is an American flag, and a yellow ribbon is attached to the card by a safety pin. Text at bottom left: "Support Our Troops". Text at bottom center: "Wear A Yellow Ribbon". On reverse: "Sanchez's Daughter Antique Postcards".</figDesc>
 </figure>
-<figure entity="liberty_and_union" ana="nat-brit nat-us nat-fr mil-a
-	mil-p t-wwi">
+<figure entity="liberty_and_union" ana="nat-brit nat-us nat-fr mil-a  mil-p t-wwi">
 <head>Liberty And Union Now And Forever</head>
-<figDesc>This postcard has a color illustration of two soldiers in army green attire shaking hands with a soldier in a blue uniform. Behind the soldier on the left is the flag of the United Kingdom. Behind the soldier in the center is the American crest. Behind the soldier on the right is the French flag. Text at bottom center: "Liberty And Union Now And Forever". On reverse: "&copy; Illustrated Postal Card and Nov. Co. N.Y."; "Printed in the U.S.A."</figDesc>
+<figDesc>This postcard has a color illustration of two soldiers in army green attire shaking hands with a soldier in a blue uniform. Behind the soldier on the left is the flag of the United Kingdom. Behind the soldier in the center is the American crest. Behind the soldier on the right is the French flag. Text at bottom center: "Liberty And Union Now And Forever". On reverse: "&#x00A9; Illustrated Postal Card and Nov. Co. N.Y."; "Printed in the U.S.A."</figDesc>
 </figure>
 
 <figure entity="hydra" ana="nat-de t-wwi mil-p con-f t-wwi">
-<head>Die achtk&ouml;pfige Hydra</head>
-<figDesc>This postcard is a color illustration of two soldiers battling serpents with different hats on their heads. Text at top left: "Die achtk&ouml;pfige Hydra." On reverse: "Postkartenverlag Br&uuml;der Kohn Wien"; "B.K.W.I. 259-137"; handwritten message.</figDesc>
+<head>Die achtk&#x00F6;pfige Hydra</head>
+<figDesc>This postcard is a color illustration of two soldiers battling serpents with different hats on their heads. Text at top left: "Die achtk&#x00F6;pfige Hydra." On reverse: "Postkartenverlag Br&#x00FC;der Kohn Wien"; "B.K.W.I. 259-137"; handwritten message.</figDesc>
 </figure>
 
-<figure entity="wait_till_the_clouds" ana="nat-brit hf-p hf-c con-f
-	t-wwi im-ca">
+<figure entity="wait_till_the_clouds" ana="nat-brit hf-p hf-c con-f  t-wwi im-ca">
 <head>Wait till the clouds roll by</head>
 <figDesc>This postcard has a color illustration of two  young girls standing beneath a green umbrella. Three of England's flags are above the umbrella. Text at bottom center: "Wait till the clouds roll by (England)". Text at bottom left: "M Sowerling". On reverse: "Little Folk of Many Lands. (Series 1.) Published by Henry Frowde and Hodder &#x0026; Stoughton"; "Printed in England"; handwritten message.</figDesc>
 </figure>
 
 <figure entity="le_petit_chaperon_rouge" ana="nat-fr hf-c t-wwi">
 <head>Le Petit Chaperon Rouge</head>
-<figDesc>This postcard is a color illustration of children dressed as soldiers. On the right side of the card, one soldier is shaving another. On the left side, a girl in red waves white flowers as a soldier in blue smokes behind her. Text at bottom right: "Le Petit Chaperon Rouge"; "T'Is A Good Thing He Is An Alliee!"; "Sadag, Paris". Text at bottom left: "Marechaux 1916". On reverse: "Fantaisie Trichrome A. Noyer, Paris"; "Fabrication fran&ccedil;aise"; "'Les Pr&eacute;cieuses'. - S&eacute;rie No 4.- Vis&eacute; Paris No 23".</figDesc>
+<figDesc>This postcard is a color illustration of children dressed as soldiers. On the right side of the card, one soldier is shaving another. On the left side, a girl in red waves white flowers as a soldier in blue smokes behind her. Text at bottom right: "Le Petit Chaperon Rouge"; "T'Is A Good Thing He Is An Alliee!"; "Sadag, Paris". Text at bottom left: "Marechaux 1916". On reverse: "Fantaisie Trichrome A. Noyer, Paris"; "Fabrication fran&#x00E7;aise"; "'Les Pr&#x00E9;cieuses'. - S&#x00E9;rie No 4.- Vis&#x00E9; Paris No 23".</figDesc>
 </figure>
 
 <figure entity="argonnie" ana="mil-f im-ph t-wwi">
@@ -3079,7 +3054,7 @@ bottom right: "When Duty calls I know my place / But how I long to see your face
 
 <figure entity="des_volkes_dank" ana="nat-de mil-a mil-p hf-w hf-p t-wwi">
 <head>Des Volkes Dank Ist Euch Gewiss!</head>
-<figDesc>This postcard is a color illustration of an older woman giving flowers to a wounded soldier. Text at bottom center: "Des Volkes Dank Ist Euch Gewiss!" On reverse: "Nach dem Gem&auml;lde des Hofmalers Art. Fischer"; "Rotophot A.-G. Berlin".</figDesc>
+<figDesc>This postcard is a color illustration of an older woman giving flowers to a wounded soldier. Text at bottom center: "Des Volkes Dank Ist Euch Gewiss!" On reverse: "Nach dem Gem&#x00E4;lde des Hofmalers Art. Fischer"; "Rotophot A.-G. Berlin".</figDesc>
 </figure>
 
 <figure entity="cruiser_montgomery" ana="nat-us mil-na t-pre">
@@ -3169,10 +3144,10 @@ bottom right: "When Duty calls I know my place / But how I long to see your face
 forth on a battlefield. Two of the soldiers have fallen onto the
 ground. Text at bottom center: "Ich hatt' einen Kameraden-einen bessern
 findst du nit--Die Trommel schlug zum Streite-er ging an meiner
-Seite-in gleichem Schritt und Tritt." On reverse: "Verein f&uuml;r das
+Seite-in gleichem Schritt und Tritt." On reverse: "Verein f&#x00FC;r das
 Deutschtum im Ausland E.V. 'Unsere Feldgrauen.'
 Soldatenliederpostkarte No. 8 von Paul Hen. 
-"Ich hatt' einen Kameraden..." "1914" is the date on the cross; "Geschaftsstelle Berlin W. 62, Kurf&uuml;rstenstrasze"; "Graphische Kunstanstalten F. Bruckmann A.-G, M&uuml;nchen".</figDesc>
+"Ich hatt' einen Kameraden..." "1914" is the date on the cross; "Geschaftsstelle Berlin W. 62, Kurf&#x00FC;rstenstrasze"; "Graphische Kunstanstalten F. Bruckmann A.-G, M&#x00FC;nchen".</figDesc>
 </figure>
 
 <figure entity="my_God_my_Father" ana="nat-brit hf-w hf-re con-v t-wwi">
@@ -3212,7 +3187,7 @@ Soldatenliederpostkarte No. 8 von Paul Hen.
 
 <figure entity="worth_while_fighting" ana="nat-us mil-a hf-w im-dr t-wwi">
 <head>Worth While Fighting For, To Make The World Safe For You</head>
-<figDesc>This postcard has a color illustration of a soldier holding hands with a woman in a blue dress and a hat. Text at bottom center: "Worth While Fighting For, To Make The World Safe For You". Text at bottom left: "Archie Gunn". On reverse: "&copy; Illustrated Postal Card &#x0026; Nov. Co. N.Y."; "Printed in the U.S.A."; handwritten message.</figDesc>
+<figDesc>This postcard has a color illustration of a soldier holding hands with a woman in a blue dress and a hat. Text at bottom center: "Worth While Fighting For, To Make The World Safe For You". Text at bottom left: "Archie Gunn". On reverse: "&#x00A9; Illustrated Postal Card &#x0026; Nov. Co. N.Y."; "Printed in the U.S.A."; handwritten message.</figDesc>
 </figure>
 
 <figure entity="Asian_soldiers" ana="nat-jp mil-a mil-p con-h im-ca">
@@ -3232,16 +3207,15 @@ Soldatenliederpostkarte No. 8 von Paul Hen.
 
 <figure entity="Juillet_14_1919" ana="nat-fr mil-a con-m im-ph t-wwi">
 <head>14 Juillet 1919</head>
-<figDesc>This postcard is a black and white photo of tanks rolling through a street in front of a large monument. Text at top right: "14 Juillet 1919--F&ecirc;tes de la Victoire 895. Les Chars d'assaut--'Tanks' E.C." On reverse: blank.</figDesc>
+<figDesc>This postcard is a black and white photo of tanks rolling through a street in front of a large monument. Text at top right: "14 Juillet 1919--F&#x00EA;tes de la Victoire 895. Les Chars d'assaut--'Tanks' E.C." On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="chateau_thierry2" ana="nat-fr mil-f con-r im-ph t-wwi">
 <head>Chateau-Thierry</head>
-<figDesc>This postcard is a black and white photo of ruined houses and ruins in the street. Five soldiers are walking through the ruins. Text at bottom center: "Chateau-Thierry -- Barricade et Ruines rue Carnot". Text at bottom right: "'La Pens&eacute;e'". On reverse: blank.</figDesc>
+<figDesc>This postcard is a black and white photo of ruined houses and ruins in the street. Five soldiers are walking through the ruins. Text at bottom center: "Chateau-Thierry -- Barricade et Ruines rue Carnot". Text at bottom right: "'La Pens&#x00E9;e'". On reverse: blank.</figDesc>
 </figure>
 
-<figure entity="we_are_seven" ana="nat-brit mil-a mil-p hf-c hf-p
-	im-dr t-wwi">
+<figure entity="we_are_seven" ana="nat-brit mil-a mil-p hf-c hf-p  im-dr t-wwi">
 <head>We Are Seven</head>
 <figDesc>This postcard is a color illustration of seven young boys dressed as soldiers from various nations. Beneath each boy is an initial. From left to right, they are as follows: "M.;S.;F.;E.;B.;R.;J." Text at top center: "Nous Sommes Sept." Text at bottom center: "'We Are Seven!' (The Lucky Number!)" Text at bottom right: "A.A. Nash". On reverse: "Inter-Art Co., Red Lion Square, London, W.C. 'Allies' Series. No. 833. British Manufacture."; handwritten message.</figDesc>
 </figure>
@@ -3285,17 +3259,17 @@ Soldatenliederpostkarte No. 8 von Paul Hen.
 
 <figure entity="armistice_souvenir_1" ana="nat-fr mil-a im-ph t-wwi">
 <head>Souvenir De L'Armistice: Mar&#x00E9;chal Foch</head>
-<figDesc>This postcard is the first in a set of ten miniature postcards from Paris labeled "Souvenir De L'Armistice". It is a black and white photo of an old soldier. Text at bottom: "L'H Paris Mar&eacute;chal FOCH 1851-1929 Sartony Laffitte Photograph". In the bottom right corner of the picture is a "1". On the outside of the enclosing envelope is "1. -- Mar&eacute;chal Foch." On reverse: blank.</figDesc>
+<figDesc>This postcard is the first in a set of ten miniature postcards from Paris labeled "Souvenir De L'Armistice". It is a black and white photo of an old soldier. Text at bottom: "L'H Paris Mar&#x00E9;chal FOCH 1851-1929 Sartony Laffitte Photograph". In the bottom right corner of the picture is a "1". On the outside of the enclosing envelope is "1. -- Mar&#x00E9;chal Foch." On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="armistice_souvenir_2" ana="nat-fr mil-a im-ph t-wwi">
 <head>Souvenir De L'Armistice: Le Wagon.</head>
-<figDesc>This postcard is the second in a set of ten miniature postcards from Paris labeled "Souvenir De L'Armistice". It is a black and white photo of soldiers outside of a train. Text at bottom right: "Clich&eacute; Pupier". In the bottom right corner of the picture is a "2". On the outside of the enclosing envelope is "2. -- Le Wagon. Descente des Alli&eacute;s apr&egrave;s la  signature." On reverse: blank.</figDesc>
+<figDesc>This postcard is the second in a set of ten miniature postcards from Paris labeled "Souvenir De L'Armistice". It is a black and white photo of soldiers outside of a train. Text at bottom right: "Clich&#x00E9; Pupier". In the bottom right corner of the picture is a "2". On the outside of the enclosing envelope is "2. -- Le Wagon. Descente des Alli&#x00E9;s apr&#x00E8;s la  signature." On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="armistice_souvenir_3" ana="nat-fr mil-a im-ph t-wwi">
 <head>Souvenir De L'Armistice: Int&#x00E9;rieur du Wagon</head>
-<figDesc>This postcard is the third in a set of ten miniature postcards from Paris labeled "Souvenir De L'Armistice". It is a black and white photo of the inside of a room with a large table and surrounding chairs. On the outside of the enclosing envelope is "3. -- Int&eacute;rieur du Wagon." On reverse: blank.</figDesc>
+<figDesc>This postcard is the third in a set of ten miniature postcards from Paris labeled "Souvenir De L'Armistice". It is a black and white photo of the inside of a room with a large table and surrounding chairs. On the outside of the enclosing envelope is "3. -- Int&#x00E9;rieur du Wagon." On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="armistice_souvenir_4" ana="nat-fr mil-a im-ph t-wwi">
@@ -3324,19 +3298,19 @@ of the picture is a "7". On the outside of the enclosing envelope is
 
 <figure entity="armistice_souvenir_8" ana="nat-fr mil-a im-ph t-wwi">
 <head>Souvenir De L'Armistice: La Dalle comm&#x00E9;morative</head>
-<figDesc>This postcard is the eighth in a set of ten miniature postcards from Paris labeled "Souvenir De L'Armistice". It is a black and white photo of a commemorative flagstone. In the bottom right corner of the picture is a "8". On the outside of the enclosing envelope is "8. -- La Dalle comm&eacute;morative." On reverse: blank.</figDesc>
+<figDesc>This postcard is the eighth in a set of ten miniature postcards from Paris labeled "Souvenir De L'Armistice". It is a black and white photo of a commemorative flagstone. In the bottom right corner of the picture is a "8". On the outside of the enclosing envelope is "8. -- La Dalle comm&#x00E9;morative." On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="armistice_souvenir_9" ana="nat-fr mil-a im-ph t-wwi">
 <head>Souvenir De L'Armistice: Emplacement du Wagon du Mar&#x00E9;chal
 Foch</head>
-<figDesc>This postcard is the ninth in a set of ten miniature postcards from Paris labeled "Souvenir De L'Armistice". It is a black and white photo of railroad tracks. In between the tracks is a stone with "Mar&eacute;chal Foch" engraved on it. In the bottom right corner of the picture is a "9". On the outside of the enclosing envelope is "9. -- Emplacement du Wagon du Mar&eacute;chal Foch." On reverse: blank.</figDesc>
+<figDesc>This postcard is the ninth in a set of ten miniature postcards from Paris labeled "Souvenir De L'Armistice". It is a black and white photo of railroad tracks. In between the tracks is a stone with "Mar&#x00E9;chal Foch" engraved on it. In the bottom right corner of the picture is a "9". On the outside of the enclosing envelope is "9. -- Emplacement du Wagon du Mar&#x00E9;chal Foch." On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="armistice_souvenir_10" ana="nat-fr mil-a im-ph t-wwi">
 <head>Souvenir De L'Armistice: Emplacement du Wagon des
 Pl&#x00E9;nipotentiaires Allemandes</head>
-<figDesc>This postcard is the tenth in a set of ten miniature postcards from Paris labeled "Souvenir De L'Armistice". It is a black and white photo of railroad tracks with a large stone marker in between them. In the bottom right corner of the picture is a "10". On the outside of the enclosing envelope is "10. -- Emplacement du Wagon des Pl&eacute;nipotentiaires Allemands." On reverse: blank.</figDesc>
+<figDesc>This postcard is the tenth in a set of ten miniature postcards from Paris labeled "Souvenir De L'Armistice". It is a black and white photo of railroad tracks with a large stone marker in between them. In the bottom right corner of the picture is a "10". On the outside of the enclosing envelope is "10. -- Emplacement du Wagon des Pl&#x00E9;nipotentiaires Allemands." On reverse: blank.</figDesc>
 </figure>
 
 <figure entity="ofv_working_man" ana="nat-brit hf-p im-dr t-wwi">

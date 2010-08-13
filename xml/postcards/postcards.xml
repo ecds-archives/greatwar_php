@@ -1,66 +1,66 @@
-<?xml version="1.0" encoding="UTF-8"?><TEI.2>
-<teiHeader>
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI.2>
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+	<title>The Great War in Postcards</title>
+	<author>Beck Center staff</author>
+	<respStmt><resp/>
+	<name/></respStmt>
+      </titleStmt>
+      <extent/>
+      <publicationStmt>
+	<publisher>Lewis H. Beck Center for Electronic Collections and
+	Services, Woodruff Library, Emory University</publisher>
+	<pubPlace>Atlanta, GA</pubPlace>
+	<address><addrLine>540 Asbury Circle</addrLine></address>
+	<availability><p/></availability>
+	<date>2004</date>
+      </publicationStmt>
+      <seriesStmt><title>The Great War</title>
+      </seriesStmt>
+      <sourceDesc>
+	<bibl>
+	</bibl>
+      </sourceDesc>
+    </fileDesc>
 
-<fileDesc>
-<titleStmt>
-<title>The Great War in Postcards</title>
-<author>Beck Center staff</author>
-<respStmt><resp/>
-<name/></respStmt>
-</titleStmt>
-<extent/>
-<publicationStmt>
-<publisher>Lewis H. Beck Center for Electronic Collections and
-Services, Woodruff Library, Emory University</publisher>
-<pubPlace>Atlanta, GA</pubPlace>
-<address><addrLine>540 Asbury Circle</addrLine></address>
-<availability><p/></availability>
-<date>2004</date>
-</publicationStmt>
-<seriesStmt><title>The Great War</title>
-</seriesStmt>
-<sourceDesc>
-<bibl>
-</bibl>
-</sourceDesc>
-</fileDesc>
+    <encodingDesc>
+      <projectDesc><p/>
+      </projectDesc>
+    </encodingDesc>
 
-<encodingDesc>
-<projectDesc><p/>
-</projectDesc>
-</encodingDesc>
-
-<revisionDesc>
-<change>
-<date>September 2003 - May 2004</date>
-<respStmt>
-<name>Amy Parker</name>
-<resp>Beck Center Staff</resp></respStmt>
-<item>Postcards scanned and described</item>
-</change>
-<change>
-<date>June-July 2004</date>
-<respStmt>
-<name>Alice Hickcox</name>
-<resp>Beck Center Staff</resp></respStmt>
-<item>Categories and header added</item>
-</change>
-<change>
-<date>October 2004</date>
-<respStmt>
-<name>Kate Schelbe</name>
-<resp>Beck Center Staff</resp></respStmt>
-<item>Postcards scanned</item>
-</change>
-<change>
-<date>November 2004</date>
-<respStmt>
-<name>Alice Hickcox</name>
-<resp>Beck Center Staff</resp></respStmt>
-<item>Descriptions, categories and header added</item>
-</change>
-</revisionDesc>
-</teiHeader>
+    <revisionDesc>
+      <change>
+	<date>September 2003 - May 2004</date>
+	<respStmt>
+	  <name>Amy Parker</name>
+	<resp>Beck Center Staff</resp></respStmt>
+	<item>Postcards scanned and described</item>
+      </change>
+      <change>
+	<date>June-July 2004</date>
+	<respStmt>
+	  <name>Alice Hickcox</name>
+	<resp>Beck Center Staff</resp></respStmt>
+	<item>Categories and header added</item>
+      </change>
+      <change>
+	<date>October 2004</date>
+	<respStmt>
+	  <name>Kate Schelbe</name>
+	<resp>Beck Center Staff</resp></respStmt>
+	<item>Postcards scanned</item>
+      </change>
+      <change>
+	<date>November 2004</date>
+	<respStmt>
+	  <name>Alice Hickcox</name>
+	<resp>Beck Center Staff</resp></respStmt>
+	<item>Descriptions, categories and header added</item>
+      </change>
+    </revisionDesc>
+  </teiHeader>
 <text>
 <body>
 <p>
@@ -1343,7 +1343,7 @@ the crest on the right. On reverse: At bottom: "B.K.W.I. 259-176" and at left:
 <lg><l>And now these Powers are calling out</l>
 <l>To us to feed them while they rout</l>
 <l>The enemy from their loved land,</l>
-<l>So we must take a streadfast stand</l></lg>
+<l>So we must take a steadfast stand</l></lg>
 <lg><l>Against the ruthless German horde</l>
 <l>Whose actions have been so deplored;</l>
 <l>We'll arm ourselves with gun or hoe</l>
@@ -3364,6 +3364,81 @@ Mail War Pictures. On reverse: Assisted by the Royal Fusiliers, the
 "Fighting Fifth" (Northumberland Fusiliers) took with splendid dash
 the first and second line trenches at St. Eloi. At left on reverse:
 Official War Photographs/Crown Copryright Reserved/Series 6. No. 46.</figDesc></figure>
+
+<figure entity="safe_democ" ana="nat-brit nat-fr nat-it nat-bel nat-us con-f t-wwi">
+  <head>To make the World Save for Democracy</head>
+  <figDesc>The flags flanking the U. S. flag and eagles are, from left to right, Liberia, Roumania, Montenegro, Serbia, Brazil, Greece, Russia, Great Britain, France, Italy, Belgium, Japan, Cuba, Siam, Portugal, and San Marino.</figDesc>
+</figure>
+
+<figure entity="rwb-liberty" ana="con-f nat-brit nat-fr nat-us t-wwi">
+  <head>The Red, White and Blue for International Liberty</head>
+  <figDesc>"The Red, White and Blue for International Liberty" with the flags of France, the United States, and Great Britain.  The card was published in 1917.</figDesc>
+</figure>
+
+<figure entity="school_soldiers" ana="nat-us mil-na im-ph t-wwi">
+  <head>Class at the Naval Hospital School, Newport, RI</head>
+  <figDesc>This is a real photo postcard of a class at the naval hospital school in New Port, Rhode Island. On the back of the card are these remarks by one of the students: "A class during a lecture period. The men in the rear are #1 instructor in chemistry and bacteriology #2 drill and first aid and minor surgery instructor. These two are the best instructors in the school."</figDesc>
+</figure>
+
+<figure entity="soldiers_portrait" ana="nat-us mil-a im-ph t-wwi">
+  <head>Photo of American Servicemen</head>
+  <figDesc>A real photo postcard of a group of American servicemen. One of the group has listed the men in the photograph: Sgt. Henry Stamm, Detroit, Michigan; Sgt. Fred Joyce, Gladstone, Michigan; Cpl. Oscar Wiggers, Evansville, Indiana; Pvt. Glenn Faught; Pvt. Gordon Collins, Rawson, North Dakota; Sgt. Henry Brown, Le Grande, Michigan; Pvt. Adolph Attwater, Walnut Hills Farm, Illinois; and Sgt. Troy Bradler, Phoenix, Arizona.</figDesc>
+</figure>
+
+<figure entity="paris_4th_1918" ana="nat-us nat-fr mil-a im-ph t-wwi">
+  <head>American Troops on Parade in Paris on July 4, 1918.</head>
+  <figDesc>This card was distributed to the U. S. soldiers by the American Red Cross.</figDesc>
+</figure>
+
+<figure entity="glee_130" ana="nat-us im-ph t-wwi mil-a t-wwi">
+  <head>Glee Club</head>
+  <figDesc>This real photograph card has a message on the back identifying this particular group of young men: "Give this card to Mother.  It is the glee club of 130 company and the ball team.  G. K."</figDesc>
+</figure>
+
+<figure entity="bruges_destroyer" ana="nat-brit nat-de im-ph t-wwi">
+  <head>Destroyer bombed at Bruges</head>
+  <figDesc>The back of the card says this is a German destroyer bombed by the British at Bruges.</figDesc>
+</figure>
+
+<figure entity="north_lancs" ana="nat-brit mil-a im-ph mil-a hf-p t-wwi">
+  <head>Loyal North Lancashire Regiment</head>
+  <figDesc>This is a typical card issued to raise the spirits of the fighting men.  On the front it says these are the "Loyal Lancs. Regiment cheering when ordered to the trenches."  It is identified as an "Official Photograph.  Crown Copyright Reserved."  On the back it says in the corner of the card "Passed by Censor"; it is an Official War Photograph, Series IX, No. 67.  "This inspiring picture shows men of the Loyal North Lancashire Regiment cheering gaily when ordered to take turn in the trenches,"  it says.  Censorship was strictly enforced under the terms of the Defense of the Realm Act and the card is really propaganda for the homefront.</figDesc>
+</figure>
+
+<figure entity="clermont_1915" ana="im-s nat-fr t-wwi">
+  <head>Clermont, Argonne</head>
+  <figDesc>This is a card with an insert woven in silk and framed as a postcard.  The scene is from Clermont in the Argonne, 1915.</figDesc>
+</figure>
+
+<figure entity="albert1914" ana="im-s nat-fr t-wwi">
+  <head>Basilica in Albert, 1914</head>
+  <figDesc>This is a card with an insert woven in silk and framed as a postcard.  The scene is the basilica in Albert (1914) with the virgin holding the Christ child at the top of the steeple. The soldiers said that when it finally fell the war would end. Of course, taking shots at the statue was an interesting pastime for the fighting men. Other accounts said that it was purposefully pulled over so that it did not give the Germans a target with which to calibrate their big guns.  Paul Fussell gives a full account of the “Golden Virgin” in <bibl><title>The Great War and Modern Memory</title> (131-35)</bibl>.</figDesc>
+</figure>
+
+<figure entity="berrydubac" ana="im-s nat-fr t-wwi">
+  <head>Berry au Bac</head>
+  <figDesc>This is a card with an insert woven in silk and framed as a postcard. The scene is the devastated church at Berry au Bac.</figDesc>
+</figure>
+
+<figure entity="somme_lihons" ana="im-s nat-fr t-wwi">
+  <head>Somme, 1915</head>
+  <figDesc>This is a card with an insert woven in silk and framed as a postcard.  The scene is from the Somme, 1915.</figDesc>
+</figure>
+
+<figure entity="kitchener" ana="con-v con-p nat-brit t-wwi mil-a">
+  <head>Lord Kitchener</head>
+  <figDesc>Herbert Lord Kitchener was a hero of the Great War; he was drowned when the ship HMS Hampshire carrying him on a mission to Russia hit a German mine and sank. His body was never recovered. Alfred Lord Tennyson wrote the tribute to him that is printed on this card. His face is of course familiar to us from the famous recruiting poster "Your Country Needs You."</figDesc>
+</figure>
+
+<figure entity="rounding" ana="nat-brit nat-fr nat-us nat-rus nat-jp nat-de nat-au nat-it nat-ee con-f t-wwi">
+  <head>Rounding Them Up</head>
+  <figDesc>The thirteen flags of the Allies surround the four flags--Germany, Austria, Bulgaria, and Turkey--of the Central Powers.</figDesc>
+</figure>
+
+<figure entity="flowers_fr" ana="nat-fr im-s t-wwi">
+  <head>Flowers of France</head>
+  <figDesc>This card was delivered from Paris just a month after the Armistice on December 12, 1918.  The card has an embroidered bouquet with real plant leaves: "Flowers of France, Gathered for you"</figDesc>
+</figure>
 
 </p>
 </body>

@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sterling">
    <teiHeader><fileDesc>
          <titleStmt>
-            <title>POEMS: Electronic Edition</title>
+            <title>The Poems of Robert W. Sterling: Electronic Edition</title>
             <author><name type="person"><choice><reg>Sterling, Robert W.</reg><orig>Robert W. Sterling</orig></choice></name></author>
          </titleStmt>
 	 <publicationStmt><publisher>Lewis H. Beck Center for Electronic Collections
@@ -25,7 +26,7 @@
 	 <notesStmt><note/></notesStmt>
          <sourceDesc>
             <bibl>
-	     <title>Songs and Sonnets for England in War Time: Being a Collection of Lyrics by Various Authors Inspired by the Great War</title>
+	     <title>The Poems of Robert W. Sterling</title>
 	     <author>Robert W. Sterling</author>
 	     <pubPlace>London, Edinburgh, Glasgow, New York, Toronto, Melbourne, Bombay</pubPlace>
 	     <publisher>Humphrey Milford</publisher>
@@ -72,7 +73,8 @@
 	       <item>War.</item>
 	     </list>
 	   </keywords>
-	 </textClass></profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><!-- add your information here --><change><date>2009</date><label>Beck Center staff</label><name>Shruthi Vissa</name>Proofing, encoding</change></revisionDesc></teiHeader>
+	 </textClass></profileDesc>
+<revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2009</date><label>Beck Center staff</label><name>Shruthi Vissa</name>Proofing, encoding</change></revisionDesc></teiHeader>
 
 <text>
 <front>
@@ -160,11 +162,17 @@ embodied. He understood also, and shared, the strenuous
 enjoyment of the football field, as afterwards of the river; but '
 perhaps his happiest hours were spent quietly wandering over the
 Sedbergh hills, now leisurely fishing some lonely beck, now lying on
-the grass in the sunshine, watching the clouds drift over Winder'<ref target="#vii">1</ref>.
+the grass in the sunshine, watching the clouds drift over Winder'<ref target="#vii">1</ref><note place="foot" xml:id="vii" n="1">' Winder', which is mentioned more
+than once in the poems, is the fell nearest to the school, rising some
+1,100 feet above it. It is the most conspicuous and characteristic
+object in the view from the playing-fields, and has always been
+regarded by Sedberghians as one source of their school's
+inspiration. A new boy is not considered initiated till he has climbed
+Winder.</note>.
 </p>
 
 <p>In 1912 he left for Oxford. 'I remember', wrote another and older
-friend, ' the delight of his cavalier soul when he found himself King
+friend, 'the delight of his cavalier soul when he found himself King
 Charles' scholar at Pembroke.' Hither the allegiance he had given his
 school was extended, not transferred. His presence still breathed the
 freshness of his school-days. This boyishness and simplicity he never
@@ -174,13 +182,7 @@ was because whatever he learnt he learnt well, so that it became an
 intrinsic part of himself. For the same reason it was characteristic
 of him to be conscious of his own ignorance;
 
-<note place="foot" xml:id="vii" n="1">' Winder', which is mentioned more
-than once in the poems, is the fell nearest to the school, rising some
-1,100 feet above it. It is the most conspicuous and characteristic
-object in the view from the playing-fields, and has always been
-regarded by Sedberghians as one source of their school's
-inspiration. A new boy is not considered initiated till he has climbed
-Winder.</note>
+
 
 <pb n="viii"/>
 
@@ -427,11 +429,12 @@ its author and <hi rend="italic">The Glasgow Herald</hi>.</p>
 <body>
 <div xml:id="sterling100" type="part" n="1">
 <pb n="4"/>
-<figure rend="inline">
-<figDesc> Image of paragraph printed in Greek script in front matter
-of "The Poems of Robert W.Sterling"</figDesc>
-</figure>
+<!-- <figure rend="inline"> -->
+<!-- <figDesc> Image of paragraph printed in Greek script in front matter -->
+<!-- of "The Poems of Robert W.Sterling"</figDesc> -->
+<!-- </figure> -->
 <epigraph><cit><q>
+<p>&#x039A;&#x03B1;&#x1F76;<!-- Kai --> &#x1F10;&#x03C0;&#x1F76;<!-- epi --> &#x03C4;&#x1F78;&#x03BD;<!-- ton --> &#x03C0;&#x03B1;&#x03C4;&#x03C1;&#x1FF7;&#x03BF;&#x03BD;<!-- patroon --> &#x03C4;&#x03AC;&#x03C6;&#x03BF;&#x03BD;<!-- taphon --> &#x1F10;&#x03C4;&#x03AD;&#x03B8;&#x03B7;<!-- etethe -->&#x03C4;&#x1F78;&#x03BD;<!-- ton --> &#x1F10;&#x03C0;&#x1F76;<!-- epi --> &#x03C4;&#x1FC7;<!-- te --> &#x03BA;&#x03B1;&#x03C4;&#x1F70;<!-- kata --> &#x03C4;&#x1F74;&#x03BD;<!-- ten --> &#x0394;&#x03B5;&#x03BA;&#x03AD;&#x03BB;&#x03B5;&#x03B9;&#x03B1;&#x03BD;<!-- Dekeleian --> &#x03C6;&#x03B5;&#x03C1;&#x03BF;&#x03CD;&#x03C3;&#x1FC3;<!-- pherouse --> &#x03BA;&#x03B5;&#x03AF;&#x03BC;&#x03B5;&#x03BD;&#x03BF;&#x03BD;<!-- keimenon --> &#x03C0;&#x03C1;&#x1F78;<!-- pro --> &#x03C4;&#x03BF;&#x1FE6;<!-- tou --> &#x03C4;&#x03B5;&#x03AF;&#x03C7;&#x03BF;&#x03C5;&#x03C2;<!-- teixous --> &#x1F15;&#x03BD;&#x03B4;&#x03B5;&#x03BA;&#x03B1;<!-- endeka --> &#x03C3;&#x03C4;&#x03B1;&#x03B4;&#x03AF;&#x03C9;&#x03BD;<!-- stadion -->. .... &#x03BA;&#x03B1;&#x1F76;<!-- kai --> &#x03C4;&#x03BF;&#x1FE6;&#x03C4;&#x03BF;&#x03BD;<!-- touton --> &#x03C4;&#x1F78;&#x03BD;<!-- ton --> &#x03C4;&#x03CC;&#x03C0;&#x03BF;&#x03BD;<!-- topon --> &#x1F10;&#x03C0;&#x03B9;&#x03C4;&#x03B5;&#x03C4;&#x03B5;&#x03B9;&#x03C7;&#x03B9;&#x03BA;&#x03CC;&#x03C4;&#x03C9;&#x03BD;<!-- epiteteixikoton --> &#x039B;&#x03B1;&#x03BA;&#x03B5;&#x03B4;&#x03B1;&#x03B9;&#x03BC;&#x03BF;&#x03BD;&#x03AF;&#x03C9;&#x03BD;<!-- Lakedaimonion --> &#x03BA;&#x03B1;&#x03C4;&#x1FBD;<!-- kat' --> &#x1F08;&#x03B8;&#x03B7;&#x03BD;&#x03B1;&#x03AF;&#x03C9;&#x03BD;<!-- Athenaion --> &#x0394;&#x03B9;&#x03CC;&#x03BD;&#x03C5;&#x03C3;&#x03BF;&#x03C2;<!-- Dionusos --> &#x03BA;&#x03B1;&#x03C4;&#x1FBD;<!-- kat' --> &#x1F44;&#x03BD;&#x03B1;&#x03C1;<!-- onar --> &#x1F10;&#x03C0;&#x03B9;&#x03C3;&#x03C4;&#x1F70;&#x03C2;<!-- epistas --> &#x039B;&#x03C5;&#x03C3;&#x03AC;&#x03BD;&#x03B4;&#x03C1;&#x1FF3;<!-- Lusandro --> &#x1F10;&#x03BA;&#x03AD;&#x03BB;&#x03B5;&#x03C5;&#x03C3;&#x03B5;&#x03BD;<!-- ekeleusen --> &#x1F10;&#x03C0;&#x03B9;&#x03C4;&#x03C1;&#x03AD;&#x03C8;&#x03B1;&#x03B9;<!-- epitrepsai --> &#x03C4;&#x03B5;&#x03B8;&#x1FC6;&#x03BD;&#x03B1;&#x03B9;<!-- tethenai --> &#x03C4;&#x1F78;&#x03BD;<!-- ton --> &#x1F04;&#x03BD;&#x03B4;&#x03C1;&#x03B1;<!-- andra --> &#x03B5;&#x1F30;&#x03C2;<!-- eis --> &#x03C4;&#x1F78;&#x03BD;<!-- ton --> &#x03C4;&#x03AC;&#x03C6;&#x03BF;&#x03BD;.<!-- taphon --> &#x1F61;&#x03C2;<!-- os --> &#x03B4;&#x1FBD;<!-- d' --> &#x03C9;&#x03BB;&#x03B9;&#x03B3;&#x03CE;&#x03C1;&#x03B7;&#x03C3;&#x03B5;&#x03BD;<!-- oligoresen --> &#x1F41;<!-- o --> &#x03B4;&#x1F72;<!-- de --> &#x039B;&#x03CD;&#x03C3;&#x03B1;&#x03BD;&#x03B4;&#x03C1;&#x03BF;&#x03C2;,<!-- Lusandros --> &#x03B4;&#x03B5;&#x03CD;&#x03C4;&#x03C1;&#x03BF;&#x03BD;<!-- deuteron --> &#x03B1;&#x1F50;&#x03C4;&#x1FF7;<!-- auto --> &#x1F10;&#x03C0;&#x03AD;&#x03C3;&#x03C4;&#x03B7;<!-- epeste --> &#x1F41;<!-- o --> &#x0394;&#x03B9;&#x03CC;&#x03BD;&#x03C5;&#x03C3;&#x03BF;&#x03C2;<!-- Dionusos --> &#x03C4;&#x1F78;<!-- to --> &#x03B1;&#x1F50;&#x03C4;&#x1F78;<!-- auto --> &#x03BA;&#x03B5;&#x03BB;&#x03B5;&#x03CD;&#x03C9;&#x03BD;.<!-- keleuon --> &#x1F41;<!-- o --> &#x03B4;&#x1F72;<!-- de --> &#x039B;&#x03CD;&#x03C3;&#x03B1;&#x03BD;&#x03B4;&#x03C1;&#x03BF;&#x03C2;<!-- Lusandros --> &#x03C0;&#x03C5;&#x03BD;&#x03B8;&#x03B1;&#x03BD;&#x03CC;&#x03BC;&#x03B5;&#x03BD;&#x03BF;&#x03C2;<!-- punthanomenos --> &#x03C0;&#x03B1;&#x03C1;&#x1F70;<!-- para --> &#x03C4;&#x1FF6;&#x03BD;<!-- ton --> &#x03C6;&#x03C5;&#x03B3;&#x03AC;&#x03B4;&#x03C9;&#x03BD;<!-- phugadon --> &#x03C4;&#x03AF;&#x03C2;<!-- tis --> &#x03B5;&#x1F34;&#x03BD;<!-- ein --> &#x1F41;<!-- o --> &#x03C4;&#x03B5;&#x03BB;&#x03B5;&#x03C5;&#x03C4;&#x03AE;&#x03C3;&#x03B1;&#x03C2;,<!-- teleutesas --> &#x03BA;&#x03B1;&#x1F76;<!-- kai --> &#x03BC;&#x03B1;&#x03B8;&#x1F7C;<!-- mathon --> &#x1F45;&#x03C4;&#x03B9;<!-- oti --> &#x03A3;&#x03BF;&#x03C6;&#x03BF;&#x03BA;&#x03BB;&#x1FC6;&#x03C2;<!-- Sophocles --> &#x1F51;&#x03C0;&#x03AC;&#x03C1;&#x03C7;&#x03B5;&#x03B9;,<!-- uparxei --> &#x03BA;&#x03AE;&#x03C1;&#x03C5;&#x03BA;&#x03B1;<!-- keruka --> &#x03C0;&#x03AD;&#x03BC;&#x03C8;&#x03B1;&#x03C2;<!-- pempsas --> &#x1F10;&#x03B4;&#x03AF;&#x03B4;&#x03BF;&#x03C5;<!-- edidou --> &#x03B8;&#x03AC;&#x03C0;&#x03C4;&#x03B5;&#x03B9;&#x03BD; &#x03C4;&#x1F78;&#x03BD;<!-- ton --> &#x1F04;&#x03BD;&#x03B4;&#x03C1;&#x03B1;.<!-- andra --></p>
 <p>' And he was laid in the tomb of his fathers, that is situated
 eleven furlongs in front of the wall, on the road leading past
 Decelea. . . Now Decelea had been taken from the Athenians and

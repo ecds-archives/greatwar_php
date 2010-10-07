@@ -1,9 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="watsonretro">
 <teiHeader>
       <fileDesc>
          <titleStmt>
             <title>Retrogression and Other Poems: Electronic Edition</title>
-            <author><name type="person"><choice><reg>Watson, William</reg><orig>William Watson</orig></choice></name></author>
+            <author><name type="person"><choice><reg>Watson, William, 1858-1935</reg><sic>William Watson</sic></choice></name></author>
          </titleStmt>
          <publicationStmt>
            <publisher>Lewis H. Beck Center for Electronic Collections
@@ -45,19 +46,19 @@
         War) has been digitized by OCR or rekeying. The work has been
         done in conjunction with Dr. Harry Rusche of the English
         Department, Emory University</p></projectDesc>
-        <tagsDecl>
-          <rendition xml:id="quote">Paragraphs including q or quote
-          elements indicate material that is in a block
-          quote.</rendition>
-          <rendition xml:id="title">Where the title of a work is
-          italicized, it is marked with a title element, both in the
-          text and in footnotes.</rendition>
-          <namespace name="http://www.tei-c.org/ns/1.0">
-          <tagUsage gi="q" render="#quote">blockquote</tagUsage>
-          <tagUsage gi="quote" render="#quote">blockquote</tagUsage>
-          <tagUsage gi="title" render="#title">italic</tagUsage>
-            </namespace>
-        </tagsDecl>
+        <!-- <tagsDecl> -->
+        <!--   <rendition xml:id="quote">Paragraphs including q or quote -->
+        <!--   elements indicate material that is in a block -->
+        <!--   quote.</rendition> -->
+        <!--   <rendition xml:id="title">Where the title of a work is -->
+        <!--   italicized, it is marked with a title element, both in the -->
+        <!--   text and in footnotes.</rendition> -->
+        <!--   <namespace name="http://www.tei-c.org/ns/1.0"> -->
+        <!--   <tagUsage gi="q" render="#quote">blockquote</tagUsage> -->
+        <!--   <tagUsage gi="quote" render="#quote">blockquote</tagUsage> -->
+        <!--   <tagUsage gi="title" render="#title">italic</tagUsage> -->
+        <!--     </namespace> -->
+        <!-- </tagsDecl> -->
         <refsDecl><p>The page numbers of the volumes are indicated by
         page break elements</p>
         <p/>
@@ -102,9 +103,9 @@
    <docAuthor n="Watson, William">William Watson</docAuthor>
    <head>Retrogression And Other Poems</head>
    
-   <bibl>***add other pub place info?***New York: John Lane Company</bibl>
-</div>
-<div type="note">
+   <bibl>New York: John Lane Company</bibl>
+
+<div type="note" xml:id="watsonretro02">
 <head rend="center">NOTE</head>
 <p>The contents of this volume now make their appearance for the first
 time, with the exception of six short pieces. Of these, two have been
@@ -1729,7 +1730,7 @@ the one at first contemplated
 <l>Toy with the troth that never wavers,</l>
 <l>And sell so dear their fatal favours.</l>
 </lg>
-
+</div>
 </div>
 </body>
 </text>

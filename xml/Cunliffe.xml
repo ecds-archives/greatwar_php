@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="cunliffe">
    <teiHeader><fileDesc>
          <titleStmt>
             <title>Poems of the Great War: Electronic Edition</title>
-            <editor><name type="person"><choice><reg>Cunliffe, John William</reg><sic>J. W. Cunliffe</sic></choice></name></editor>
+            <editor><name type="person"><choice><reg>Cunliffe, John William, 1865-1946</reg><sic>J. W. Cunliffe</sic></choice></name></editor>
          </titleStmt>
 	 <publicationStmt><publisher>Lewis H. Beck Center for Electronic Collections
 	   and Services, Emory University</publisher><pubPlace>Atlanta, GA</pubPlace><address>
@@ -4373,7 +4374,7 @@ message, see!</l>
 
 <pb n="216"/>
 <div xml:id="cunliffe100" type="poem" n="Belgium the Bar-Lass">
-<docAuthor n="Robinson, A. Mary F.">A. Mary F. Robinson. (madame Duclaux.</docAuthor>
+<docAuthor n="Robinson, A. Mary F.">A. Mary F. Robinson. (Madame Duclaux.)</docAuthor>
 <head rend="center">BELGIUM THE BAR-LASS</head>
 
 <lg type="stanza">

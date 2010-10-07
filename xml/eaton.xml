@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="eaton">
    <teiHeader><fileDesc>
          <titleStmt>
             <title>Great Poems of the World War: Electronic Edition</title>
-            <editor><name><choice><reg>Eaton, W. D.</reg><sic>W. D. Eaton</sic></choice></name></editor>
+            <editor><name><choice><reg>Eaton, William Dunseath</reg><sic>W. D. Eaton</sic></choice></name></editor>
          </titleStmt>
 	 <publicationStmt><publisher>Lewis H. Beck Center for Electronic Collections
 	   and Services, Emory University</publisher><pubPlace>Atlanta, GA</pubPlace><address>
@@ -4171,7 +4172,7 @@ Permission to reproduce in this book</byline>
 <l>When they greet you after the victory.
 </l></lg></div>
 
-<div xml:id="Eaton110" type="poem" n="The Goedenrod">
+<div xml:id="Eaton110" type="poem" n="The Goldenrod">
 <docAuthor n="Anchusa">"Anchusa"</docAuthor>
 <head rend="center">THE GOLDENROD</head>
 <byline rend="center">"ANCHUSA"<lb/>

@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="macfie">
     <teiHeader><fileDesc>
         <titleStmt>
             <title>War: an Ode And Other Poems: Electronic Edition</title>
-            <editor><name type="person"><choice><reg>Macfie, Ronald Campbell</reg><sic>Ronald Campbell Macfie</sic></choice></name></editor>
+            <editor><name type="person"><choice><reg>Macfie, Ronald Campbell, 1867-1931</reg><sic>Ronald Campbell Macfie</sic></choice></name></editor>
         </titleStmt>
         <publicationStmt><publisher>Lewis H. Beck Center for Electronic Collections
             and Services, Emory University</publisher><pubPlace>Atlanta, GA</pubPlace><address>
@@ -73,22 +74,10 @@
                 </list>
             </keywords>
         </textClass></profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>June-July 2004</date><label>Beck Center Staff</label><name>Alden Mahler</name>Scan, OCR, proofread and encoded</change><change><date>August 2004</date><label>Beck Center Staff</label><name>Alice Hickcox</name>Added header; checked encoding</change></revisionDesc></teiHeader>
+
     <text>
-        
-        <front>
-<pb/>
-            
-<div xml:id="macfie2000" type="part" n="1">
-<head>WAR: an Ode</head>
-
-
-<pb n="1"/>
-
-<pb n="War: An Ode   1"/>
-
-</div>
-        </front>
         <body>
+<!-- <div type="collection"> -->
 <div xml:id="macfie1000" type="poem" n="1">
 <head>War: An Ode</head>
 <div xml:id="macfie100" type="part" n="1">
@@ -256,7 +245,7 @@
 
 
 <div xml:id="macfie007" type="section" n="7">
-<head>Vii</head>
+<head>vii</head>
 
 <lg type="stanza">
 
@@ -306,7 +295,7 @@
 </lg>
 </div>
 
-<div xml:id="macfie" type="section" n="9">
+<div xml:id="macfie009" type="section" n="9">
 <head>ix</head>
 
 <lg type="stanza">
@@ -334,7 +323,7 @@
 </lg>
 </div>
 
-<div xml:id="macfie" type="section" n="10">
+<div xml:id="macfie010" type="section" n="10">
 <head>x</head>
 <lg type="stanza">
 
@@ -593,12 +582,14 @@
 <l>The human spirit grew,--</l>
 <l>Grew in the depth and height of its desire,</l>
 <l>Grew as the Earth had grown amid the fire.</l>
-</lg></div></div>
+</lg>
+</div>
+</div> <!-- end part I -->
 
 
 <pb n="18  War: An Ode"/>
 
-<div xml:id="macfie200" type="book" n="2">
+<div xml:id="macfie200" type="part" n="2">
 <head>PART II</head>
 <div xml:id="macfie020" type="section" n="1">
 
@@ -625,7 +616,7 @@
 
 <pb n="War: An Ode   19"/>
 <div xml:id="macfie021" type="section" n="2">
-
+<head>ii</head>
 <lg type="stanza">
 <l>The fiery chimneys belch Fear's mordant breath.</l>
 <l>The noisy forges beat the tune of Death.</l>
@@ -671,7 +662,7 @@
 </div>
 
 <div xml:id="macfie023" type="section" n="4">
-<head>IV</head>
+<head>iv</head>
 
 <lg type="stanza">
 <l>And who are these</l>
@@ -699,8 +690,8 @@
 <l>His graving tool, His pruning knife, His punitory scourge !</l>
 </lg></div>
 
-<div xml:id="macfie023" type="section" n="4">
-<head>V</head>
+<div xml:id="macfie223" type="section" n="4">
+<head>v</head>
 
 <lg type="stanza">
 <l>Great slogans drive them forth, great battle-cries--</l>
@@ -771,7 +762,7 @@
 </div>
 
 <pb n="24 War:An Ode"/>
-<div xml:id="macfie300" type="book" n="3">
+<div xml:id="macfie300" type="part" n="3">
 <head>PART III</head>
 <div xml:id="macfie026" type="section" n="7">
 <head>i</head>
@@ -1277,7 +1268,7 @@
 
 <pb n="War: An Ode   41"/>
 
-<div xml:id="macfie400" type="poem" n="4">
+<div xml:id="macfie400" type="part" n="4">
 <head> PART IV</head>
 <div xml:id="macfie046" type="section" n="27">
 <head>i</head>
@@ -1593,15 +1584,15 @@
 <l>A million Dagons down.</l>
 </lg>
 </div>
-</div>
-</div>
+</div> <!-- end part IV -->
+</div> <!-- end poem -->
 
-            <div>
+            
 <pb n="[53]"/>
 
 
-
-<l>OTHER POEMS</l>
+<div type="section" xml:id="macfie02">
+<head>OTHER POEMS</head>
 
 
 
@@ -1611,7 +1602,7 @@
 
 
 <div xml:id="macfie058" type="poem" n="1">
-<head>A Quatercentenary Ode*</head>
+<head>A Quatercentenary Ode<ref target="#macfie058n1">*</ref><note xml:id="macfie058n1" place="foot">Written for the University of Aberdeen.</note></head>
 <lg type="stanza">
 <l>ETERNITY is throned upon thy spires:</l>
 <l>Upon Eternity thy towers rest:</l>
@@ -1629,7 +1620,7 @@
 <l>The slow, fastidious finishing of Fate.</l>
 <l>Then the round earth grew furrowed and grew frore,</l>
 <l>And the encircling steam,</l>
-<l>♦Written for the University of Aberdeen.</l>
+
 
 <pb n="56  A Quartercenternary Ode"/>
 
@@ -1806,8 +1797,8 @@
 <head>General Booth</head>
 
 <lg type="stanza">
-<l rend="inline">OUT of the slums</l>
-<l rend="inline">Wild music comes,</l>
+<l rend="indent">OUT of the slums</l>
+<l rend="indent">Wild music comes,</l>
 <l>The pipe of flutes, the boom of drums,</l>
 <l>And down the street strange banners flare.</l>
 <l>What means this noise?  What means this blare?</l>
@@ -1821,8 +1812,8 @@
 </lg>
 
 <lg type="stanza">
-<l rend="inline">Out of the slums</l>
-<l rend="inline">Sad music comes,</l>
+<l rend="indent">Out of the slums</l>
+<l rend="indent">Sad music comes,</l>
 <l>Low mournful flutes, and muffled drums,</l>
 
 <pb n="64  General Booth"/>
@@ -1836,8 +1827,8 @@
 </lg>
 
 <lg type="stanza">
-<l rend="inline">Out of the slums.</l>
-<l rend="inline">Glad music comes,</l>
+<l rend="indent">Out of the slums.</l>
+<l rend="indent">Glad music comes,</l>
 <l>Exultant flutes, triumphant drums.</l>
 <l>He is not dead; he layeth down</l>
 <l>His sword and cross to take his crown.</l>
@@ -1857,41 +1848,41 @@
 <head>A Flying Song</head>
 
 <lg type="stanza">
-<l rend="inline">O THE proud purr of it!</l>
-<l rend="inline">Whiz of it, whir of it!</l>
-<l rend="inline">O the fierce might of it,</l>
-<l rend="inline">Flare of it, flight of it,</l>
-<l rend="inline">Spin of it, speed of it,</l>
-<l rend="inline">Grip of it, greed of it!</l>
-<l rend="inline">O the wild will of it,</l>
-<l rend="inline">Throb of it, thrill of it,</l>
-<l rend="inline">Vim of it, verve of it,</l>
-<l rend="inline">Swoop of it, swerve of it!</l>
-<l rend="inline">Like a great dragon-fly over the blue,</l>
-<l rend="inline">So it flared, so it flashed, so it flickered and flew.</l>
+<l rend="indent">O THE proud purr of it!</l>
+<l rend="indent">Whiz of it, whir of it!</l>
+<l rend="indent">O the fierce might of it,</l>
+<l rend="indent">Flare of it, flight of it,</l>
+<l rend="indent">Spin of it, speed of it,</l>
+<l rend="indent">Grip of it, greed of it!</l>
+<l rend="indent">O the wild will of it,</l>
+<l rend="indent">Throb of it, thrill of it,</l>
+<l rend="indent">Vim of it, verve of it,</l>
+<l rend="indent">Swoop of it, swerve of it!</l>
+<l>Like a great dragon-fly over the blue,</l>
+<l>So it flared, so it flashed, so it flickered and flew.</l>
 
 
 <pb n="66   A Flying Song"/>
 
-<l>Nay, but the Hand of it,</l>
-<l>Taking command of it;</l>
-<l>And the wise Soul of it,</l>
-<l>Keeping control of it;</l>
-<l>And the brave Heart of it,</l>
-<l>Beating as part of it,</l>
-<l>Aiming the dart of it</l>
-<l>Into the air:</l>
-<l>That is the best of it,</l>
-<l>Ruling the rest of it,</l>
-<l>That is the marvel and miracle there!</l>
+<l rend="indent">Nay, but the Hand of it,</l>
+<l rend="indent">Taking command of it;</l>
+<l rend="indent">And the wise Soul of it,</l>
+<l rend="indent">Keeping control of it;</l>
+<l rend="indent">And the brave Heart of it,</l>
+<l rend="indent">Beating as part of it,</l>
+<l rend="indent">Aiming the dart of it</l>
+<l rend="indent">Into the air:</l>
+<l rend="indent">That is the best of it,</l>
+<l rend="indent">Ruling the rest of it,</l>
+<l rend="indent">That is the marvel and miracle there!</l>
 </lg>
 
 <lg type="stanza">
 <l>Yonder no engine, witless and blind,</l>
 <l>Driven by senseless piston and rod;</l>
 <l>Its pinions are courage, its pilot is mind;</l>
-<l rend="inline">Its petrol and steam</l>
-<l rend="inline">Are vision and dream;</l>
+<l rend="indent">Its petrol and steam</l>
+<l rend="indent">Are vision and dream;</l>
 <l>Its nostrils are filled with the breath of a god,</l>
 <l>For there, like a speck, 'twixt the wings' mighty span,</l>
 <l>Sit the Courage and Cunning and Strength of a Man!</l>
@@ -1900,10 +1891,10 @@
 
 <pb n="A Flying Song  67"/>
 
-<l>O the way of it,</l>
-<l>Swoop of it, sway of it!</l>
-<l>O the wild will of it,</l>
-<l>Throb of it, thrill of it!</l>
+<l rend="indent">O the way of it,</l>
+<l rend="indent">Swoop of it, sway of it!</l>
+<l rend="indent">O the wild will of it,</l>
+<l rend="indent">Throb of it, thrill of it!</l>
 </lg>
 </div>
 
@@ -2025,7 +2016,7 @@
 <div xml:id="macfie063" type="poem" n="6">
 <head type="main">To Sir William Watson</head>
 
-<head type="sub">(ON THE OCCASION OF HIS RECEIVING AN LL.D. FROM ABERDEEN UNIVERSITY)</head>
+<head type="sub" rend="smallcaps">(On the Occasion of his Receiving an LL.D. from Aberdeen University)</head>
 
 <lg type="stanza">
 <l>NOT by such music as Amphion played;</l>
@@ -2071,13 +2062,13 @@
 <head>Six Fragments</head>
 
 <div xml:id="macfie700" type="section" n="1">
-<head>THUNDER AND LIGHTENING</head>
+<head>THUNDER AND LIGHTNING</head>
 
 <lg type="stanza">
 <l>GOD sowed the lightning and there grew a soul.</l>
-<l rend="inline">That soul is thou.</l>
+<l rend="indent">That soul is thou.</l>
 <l>God scattered thunder, and the thunder roll</l>
-<l rend="inline">Is in thine utterance now.</l>
+<l rend="indent">Is in thine utterance now.</l>
 </lg>
 </div>
 
@@ -2317,7 +2308,7 @@
 
 <epigraph><cit>
 <q><l>" The best always befalls the best."</l>
-<l>--<hi rend="italics">Quotation from letter of his tutor at Eton.</hi></l>
+<bibl>--<hi rend="italic">Quotation from letter of his tutor at Eton.</hi></bibl>
 </q></cit></epigraph>
 
 <lg type="stanza">
@@ -2504,10 +2495,10 @@
 
 <head>"How Little Seem the Joys and Fears"</head>
 
-    <epigraph><p><quote>
-"He has placed the world in man's heart"</quote><ref>(<hi rend="italic">Ecclesiastes</hi>).</ref></p></epigraph>
-    <epigraph><p><q>"War' nicht das Auge sonnenhaft wie konnt es dann das Licht
-erblicken."</q></p></epigraph>
+    <epigraph><cit><quote>
+"He has placed the world in man's heart"</quote><bibl>(<hi rend="italic">Ecclesiastes</hi>).</bibl></cit></epigraph>
+    <epigraph><cit><quote>"War' nicht das Auge sonnenhaft wie konnt es dann das Licht
+erblicken."</quote></cit></epigraph>
 
 <lg type="stanza">
 <l>HOW little seem the joys and fears</l>
@@ -2581,9 +2572,9 @@ erblicken."</q></p></epigraph>
 
 <lg type="stanza">
 <l>Seeds of unripened hopes thy fingers hold,</l>
-<l rend="inline">Wilt quicken the dead.</l>
-<l rend="inline">To white and red,</l>
-<l rend="inline">And green and gold,</l>
+<l rend="indent">Wilt quicken the dead.</l>
+<l rend="indent">To white and red,</l>
+<l rend="indent">And green and gold,</l>
 
 <pb n="92 Death, The Child"/>
 
@@ -2592,13 +2583,13 @@ erblicken."</q></p></epigraph>
 <l>What though our careworn lives may bitter and barren be--</l></lg>
 
 <lg type="stanza">
-<l rend="inline">Bitter and cold,</l>
-<l rend="inline">Barren and old,</l>
+<l rend="indent">Bitter and cold,</l>
+<l rend="indent">Barren and old,</l>
 <l>As the tides of an Arctic sea?</l>
 <l>What matter! Thy heart is young and bold,</l>
-<l rend="inline">Thy wings are strong and free.</l>
+<l rend="indent">Thy wings are strong and free.</l>
 <l>And health, and wisdom, and wonder are doled</l>
-<l rend="inline">By thy childish charity--</l>
+<l rend="indent">By thy childish charity--</l>
 <l>Wisdom, and Wonder, and gleams</l>
 <l>Of a glory new,</l>
 <l>Rest, and Sleep, and Dreams,</l>
@@ -2720,7 +2711,7 @@ i</head>
 
 <head type="main">Ode of Welcome to Queen Alexandra</head>
 
-<head type="sub">On a Visit to Aberdeen on the Occasion of the<lb/>
+<head type="sub" rend="smallcaps">On a Visit to Aberdeen on the Occasion of the 
 Quatercentenary of Aberdeen University</head>
 
 <lg type="stanza">
@@ -2775,42 +2766,42 @@ Quatercentenary of Aberdeen University</head>
 
 <lg type="stanza">
 <l>AMOROUS Lover of Death am I--</l>
-<l rend="inline">Lover! Lover!--</l>
+<l rend="indent">Lover! Lover!--</l>
 <l>All that is holy, and hidden and high,</l>
-<l rend="inline">He will discover.</l>
+<l rend="indent">He will discover.</l>
 <l>Lover of solemn Death am I,</l>
-<l rend="inline">Lover! Lover!</l>
+<l rend="indent">Lover! Lover!</l>
 </lg>
 
 <lg type="stanza">
 <l>Fervent Singer of Death am I--</l>
-<l rend="inline">Singer! Singer!--</l>
+<l rend="indent">Singer! Singer!--</l>
 <l>Subtile as dew, and soft as a sigh,</l>
-<l rend="inline">Comes the dream-bringer!</l>
+<l rend="indent">Comes the dream-bringer!</l>
 <l>Singer of silent Death am I,</l>
-<l rend="inline">Singer! Singer!</l>
+<l rend="indent">Singer! Singer!</l>
 </lg>
 
 <lg type="stanza">
 <l>Patient Wooer of Death am I--</l>
-<l rend="inline">Wooer! Wooer!--</l>
+<l rend="indent">Wooer! Wooer!--</l>
 <l>He knows no guile, and he speaks no lie,</l>
 
 <pb n="100 Death's Lover"/>
 
 <l>He treads the earth, and he wings the sky,</l>
-<l rend="inline">Dreamer and Doer,</l>
+<l rend="indent">Dreamer and Doer,</l>
 <l>Wooer of wonderful Death am I,</l>
-<l rend="inline">Wooer! Wooer!</l>
+<l rend="indent">Wooer! Wooer!</l>
 </lg>
 
 <lg type="stanza">
 <l>Passionate Poet of Death am I--</l>
-<l rend="inline">Poet! Poet!--</l>
+<l rend="indent">Poet! Poet!--</l>
 <l>Peace is his gift and by and by</l>
-<l rend="inline">He will bestow it.</l>
+<l rend="indent">He will bestow it.</l>
 <l>Poet of beautiful Death am I,</l>
-<l rend="inline">Poet! Poet!</l>
+<l rend="indent">Poet! Poet!</l>
 </lg>
 </div>
 
@@ -2866,30 +2857,30 @@ Quatercentenary of Aberdeen University</head>
 
 <lg type="stanza">
 <l>BROWN hair, brown brow, brown throat, like bronze</l>
-<l rend="inline">Sculptured by a Praxiteles,</l>
+<l rend="indent">Sculptured by a Praxiteles,</l>
 <l>And hazel eyes, like summer dawns,</l>
-<l rend="inline">Lighting the isles of Southern seas.</l>
+<l rend="indent">Lighting the isles of Southern seas.</l>
 </lg>
 
 <lg type="stanza">
 <l>He seemed like some great poet's dream</l>
-<l rend="inline">Of some white lovely Grecian god--</l>
+<l rend="indent">Of some white lovely Grecian god--</l>
 <l>Adonis, with young eyes agleam;</l>
-<l rend="inline">Or Herakles, with shoulders broad.</l>
+<l rend="indent">Or Herakles, with shoulders broad.</l>
 </lg>
 
 <lg type="stanza">
 <l>Or Hermes, with his wingéd feet</l>
-<l rend="inline">Flying on messages divine;</l>
+<l rend="indent">Flying on messages divine;</l>
 <l>Or Ganymede, the stripling sweet,</l>
-<l rend="inline">Pouring the gods their ruby wine;</l>
+<l rend="indent">Pouring the gods their ruby wine;</l>
 </lg>
 
 <lg type="stanza">
 <l>Or Hyacinthus, ere the wound</l>
-<l rend="inline">Turned him to flowers in Zephir's arms;</l>
+<l rend="indent">Turned him to flowers in Zephir's arms;</l>
 <l>Or tall Narcissus, ere he swooned</l>
-<l rend="inline">From love of his own mirrored charms.</l>
+<l rend="indent">From love of his own mirrored charms.</l>
 </lg>
 
 
@@ -2897,69 +2888,69 @@ Quatercentenary of Aberdeen University</head>
 
 <lg type="stanza">
 <l>Yet, though his beauty and his grace</l>
-<l rend="inline">Were as the dreams of Grecian art,</l>
+<l rend="indent">Were as the dreams of Grecian art,</l>
 <l>'Twas England's soul illumed his face,</l>
-<l rend="inline">'Twas England blossomed in his heart.</l>
+<l rend="indent">'Twas England blossomed in his heart.</l>
 </lg>
 
 <lg type="stanza">
 <l>And England, England, England lit</l>
-<l rend="inline">His eyes with loving, filial joy;</l>
+<l rend="indent">His eyes with loving, filial joy;</l>
 <l>He went and gave his life for it,</l>
-<l rend="inline">This happy-hearted English boy.</l>
+<l rend="indent">This happy-hearted English boy.</l>
 </lg>
 
 <lg type="stanza">
 <l>And gave it not as one might lay</l>
-<l rend="inline">A gift upon an altar high;</l>
+<l rend="indent">A gift upon an altar high;</l>
 <l>He did not kneel, he did not pray;</l>
-<l rend="inline">Gaily he sallied forth to die.</l>
+<l rend="indent">Gaily he sallied forth to die.</l>
 </lg>
 
 <lg type="stanza">
 <l>He had nor gods, nor marble fanes,</l>
-<l rend="inline">He had no pious faith forsooth,</l>
+<l rend="indent">He had no pious faith forsooth,</l>
 <l>Save English lawns, and English lanes,</l>
-<l rend="inline">And English homes, and English truth.</l>
+<l rend="indent">And English homes, and English truth.</l>
 </lg>
 
 <lg type="stanza">
 <l>England, his Merrie England, stood</l>
-<l rend="inline">For all things high, and all things free;</l>
+<l rend="indent">For all things high, and all things free;</l>
 
 
 <pb n="In Memory Of A Young Airman  105"/>
 
 <l>For all things wise, and all things good;</l>
-<l rend="inline">For Justice and for Liberty.</l>
+<l rend="indent">For Justice and for Liberty.</l>
 </lg>
 
 <lg type="stanza">
 <l>So he faced peril with a jest,</l>
-<l rend="inline">And with a smile he paid the price.</l>
+<l rend="indent">And with a smile he paid the price.</l>
 <l>England was worthy England's best,</l>
-<l rend="inline">England was worth all sacrifice.</l>
+<l rend="indent">England was worth all sacrifice.</l>
 </lg>
 
 <lg type="stanza">
 <l>There was such laughter in his breath,</l>
-<l rend="inline">He was so young, and strong, and straight,</l>
+<l rend="indent">He was so young, and strong, and straight,</l>
 <l>His beauty made a mock of death</l>
-<l rend="inline">His joyance had no place for hate.</l>
+<l rend="indent">His joyance had no place for hate.</l>
 </lg>
 
 <lg type="stanza">
 <l>He went as warrior of the air,</l>
-<l rend="inline">Above him were the sun and stars,</l>
+<l rend="indent">Above him were the sun and stars,</l>
 <l>And rosy clouds, and under there</l>
-<l rend="inline">The trenches' livid weals and scars;</l>
+<l rend="indent">The trenches' livid weals and scars;</l>
 </lg>
 
 <lg type="stanza">
 <l>The bloody fangs of barbéd wire,</l>
-<l rend="inline">The muddy craters choked with dead,</l>
+<l rend="indent">The muddy craters choked with dead,</l>
 <l>The cannon belching smoke and fire,</l>
-<l rend="inline">The crests of battle breaking red.</l>
+<l rend="indent">The crests of battle breaking red.</l>
 </lg>
 
 
@@ -2967,35 +2958,35 @@ Quatercentenary of Aberdeen University</head>
 
 <lg type="stanza">
 <l>He saw the glint of steel below,</l>
-<l rend="inline">The thunder of the guns he heard;</l>
+<l rend="indent">The thunder of the guns he heard;</l>
 <l>But what to him were death and woe!</l>
-<l rend="inline">He only was a boy, a bird--</l>
+<l rend="indent">He only was a boy, a bird--</l>
 </lg>
 
 <lg type="stanza">
 <l>A boy on high adventure bent,</l>
-<l rend="inline">An eagle soaring to the blue;</l>
+<l rend="indent">An eagle soaring to the blue;</l>
 <l>Up to the radiant sun he went,</l>
-<l rend="inline">Through the bright fields of air he flew.</l>
+<l rend="indent">Through the bright fields of air he flew.</l>
 </lg>
 
 <lg type="stanza">
 <l>He loosed his bolt. The bright death sped</l>
-<l rend="inline">Spinning like an Ithuriel's spear,</l>
+<l rend="indent">Spinning like an Ithuriel's spear,</l>
 <l>Earth spluttered red around the dead,</l>
-<l rend="inline">Yet felt he neither wrath nor fear.</l>
+<l rend="indent">Yet felt he neither wrath nor fear.</l>
 </lg>
 
 <lg type="stanza">
 <l>For he was messenger of Fate,</l>
-<l rend="inline">Merely a boy, a bird, a Doom,</l>
+<l rend="indent">Merely a boy, a bird, a Doom,</l>
 <l>And neither doubt, nor fear, nor hate</l>
-<l rend="inline">Within his boyish heart had room.</l>
+<l rend="indent">Within his boyish heart had room.</l>
 </lg>
 
 <lg type="stanza">
 <l>There came a blizzard through the skies,</l>
-<l rend="inline">A shrieking gust of shrapnel rain;</l>
+<l rend="indent">A shrieking gust of shrapnel rain;</l>
 
 <pb n="In Memory Of A Young Airman  107"/>
 
@@ -3005,30 +2996,30 @@ Quatercentenary of Aberdeen University</head>
 
 <lg type="stanza">
 <l>Then peace. With broken wings he lay</l>
-<l rend="inline">Upon the ground.   But still meseems</l>
+<l rend="indent">Upon the ground.   But still meseems</l>
 <l>The climbing spirit cleaves its way,</l>
-<l rend="inline">With the white wings of happy dreams.</l>
+<l rend="indent">With the white wings of happy dreams.</l>
 </lg>
 
 <lg type="stanza">
 <l>And still meseems the boundless force,</l>
-<l rend="inline">The beauty and the love set free</l>
+<l rend="indent">The beauty and the love set free</l>
 <l>From the gross flesh, will run its course</l>
-<l rend="inline">Through æons of Eternity;--</l>
+<l rend="indent">Through æons of Eternity;--</l>
 </lg>
 
 <lg type="stanza">
 <l>Unspoilt, unspent, will reach its aim,</l>
-<l rend="inline">And from the dead will spring perchance</l>
+<l rend="indent">And from the dead will spring perchance</l>
 <l>A Europe purged by steel and flame--</l>
-<l rend="inline">A nobler England, nobler France.</l>
+<l rend="indent">A nobler England, nobler France.</l>
 </lg>
 
 <lg type="stanza">
 <l>Yea, from his fame as white as snow,</l>
-<l rend="inline">And from his sacrificial blood,</l>
+<l rend="indent">And from his sacrificial blood,</l>
 <l>The lilies of new France will grow</l>
-<l rend="inline">The roses of new England bud.</l>
+<l rend="indent">The roses of new England bud.</l>
 </lg>
 </div>
 
@@ -3314,7 +3305,7 @@ Quatercentenary of Aberdeen University</head>
 </lg>
 </div>
 
-<div xml:id="macfie718" type="section" n="4">
+<div xml:id="macfie0718" type="section" n="4">
 <lg type="stanza">
 <l>Ah! woe is me!   A host of men must die,</l>
 <l>A host of men must leave the April sky,</l>
@@ -3404,14 +3395,14 @@ Quatercentenary of Aberdeen University</head>
 <div xml:id="macfie721" type="section" n="7">
 <head>viii</head>
 <lg type="stanza">
-<l rend="inline">Behold! the hands of Fate,</l>
-<l rend="inline">Wise and deliberate,</l>
+<l rend="indent">Behold! the hands of Fate,</l>
+<l rend="indent">Wise and deliberate,</l>
 <l>Most exquisite in art, most prodigal of power,</l>
-<l rend="inline">Shaped to a strange device</l>
-<l rend="inline">The murderous bit of ice</l>
+<l rend="indent">Shaped to a strange device</l>
+<l rend="indent">The murderous bit of ice</l>
 <l>Of a million starry flakes, each perfect as a flower,</l>
-<l rend="inline">Hammering flake to flake</l>
-<l rend="inline">Simply for Beauty's sake.</l>
+<l rend="indent">Hammering flake to flake</l>
+<l rend="indent">Simply for Beauty's sake.</l>
 <l>And if the berg was made with so much loving care,</l>
 <l>The end was surely good, the purpose surely fair.</l>
 </lg>
@@ -3422,23 +3413,23 @@ Quatercentenary of Aberdeen University</head>
 
 <div xml:id="macfie722" type="section" n="8">
 <head>ix</head>
-<lg type="inline">
-<l rend="inline">And we have glimpsed a good,</l>
-<l rend="inline">A meaning issuing thence,</l>
-<l rend="inline">Half-seen, half-understood,</l>
-<l rend="inline">Immortal and immense,--</l>
-<l rend="inline">For we have seen poor mortals die</l>
-<l rend="inline">As only the immortal durst;</l>
-<l rend="inline">And we have heard the deathless cry--</l>
-<l rend="inline">"Women and children first!"</l>
+<lg type="indent">
+<l rend="indent">And we have glimpsed a good,</l>
+<l rend="indent">A meaning issuing thence,</l>
+<l rend="indent">Half-seen, half-understood,</l>
+<l rend="indent">Immortal and immense,--</l>
+<l rend="indent">For we have seen poor mortals die</l>
+<l rend="indent">As only the immortal durst;</l>
+<l rend="indent">And we have heard the deathless cry--</l>
+<l rend="indent">"Women and children first!"</l>
 <l>"Women and children first!" The whole world hears;</l>
 <l>The cry reverberates adown the years</l>
-<l rend="inline">A trumpet blast, a trumpet call,</l>
-<l rend="inline">So vibrant that the prison-wall</l>
-<l rend="inline">That bars the vision of Humanity</l>
-<l rend="inline">Sags, totters to its fall,--</l>
-<l rend="inline">So brave and fearless that our spirits see</l>
-<l rend="inline">The Love behind it all.</l>
+<l rend="indent">A trumpet blast, a trumpet call,</l>
+<l rend="indent">So vibrant that the prison-wall</l>
+<l rend="indent">That bars the vision of Humanity</l>
+<l rend="indent">Sags, totters to its fall,--</l>
+<l rend="indent">So brave and fearless that our spirits see</l>
+<l rend="indent">The Love behind it all.</l>
 <l>Yea, in spite of glutted Death we feel</l>
 <l>That mightier than the Titan's mighty keel,</l>
 <l>Than whirling blade, and flashing piston-rod,</l>
@@ -3559,50 +3550,50 @@ Quatercentenary of Aberdeen University</head>
 
 <lg type="stanza">
 <l>HER eyes are dim, yet also bright</l>
-<l rend="inline">And wide-awake, yet natheless dreaming,</l>
+<l rend="indent">And wide-awake, yet natheless dreaming,</l>
 <l>Like moonbeams on a summer night,</l>
-<l rend="inline">Athro' a nimbus softly streaming,</l>
+<l rend="indent">Athro' a nimbus softly streaming,</l>
 <l>Or morning's liberating light,</l>
-<l rend="inline">The blind unhappy dark redeeming.</l>
+<l rend="indent">The blind unhappy dark redeeming.</l>
 </lg>
 
 <lg type="stanza">
 <l>Her eyes are bright, yet also dim,</l>
-<l rend="inline">As though with joy they had been weeping,</l>
+<l rend="indent">As though with joy they had been weeping,</l>
 <l>The lashes, broidering the brim,</l>
-<l rend="inline">Have tiny teardrops in their keeping,</l>
+<l rend="indent">Have tiny teardrops in their keeping,</l>
 <l>And rainbows arch from rim to rim,</l>
-<l rend="inline">And through the arch stars are peeping.</l>
+<l rend="indent">And through the arch stars are peeping.</l>
 </lg>
 
 <lg type="stanza">
 <l>O eyes so bright, so dim, so fair,</l>
-<l rend="inline">Sunlight and moonlight intertwining,</l>
+<l rend="indent">Sunlight and moonlight intertwining,</l>
 <l>Weeping and laughter, pride and prayer,</l>
-<l rend="inline">Within your lily lids enshrining,</l>
+<l rend="indent">Within your lily lids enshrining,</l>
 
 <pb n="128  An Extravaganza"/>
 
 <l>Your beauty fills me with despair,</l>
-<l rend="inline">You blind me, blind me with your shining.</l>
+<l rend="indent">You blind me, blind me with your shining.</l>
 </lg>
 
 <lg type="stanza">
 <l>You blind me like the lissom blade</l>
-<l rend="inline">Of sudden summer-lightning flashes,</l>
+<l rend="indent">Of sudden summer-lightning flashes,</l>
 <l>Your witchery makes my heart afraid,</l>
-<l rend="inline">Your beauty baffles and abashes;</l>
+<l rend="indent">Your beauty baffles and abashes;</l>
 <l>I seek a dewy ambuscade</l>
-<l rend="inline">In the lilied boscage of your lashes.</l>
+<l rend="indent">In the lilied boscage of your lashes.</l>
 </lg>
 
 <lg type="stanza">
 <l>Yet some day, when the lightnings dart</l>
-<l rend="inline">Between the lilies of my cover,</l>
+<l rend="indent">Between the lilies of my cover,</l>
 <l>Out of my ambush I will start</l>
-<l rend="inline">And leap the eyelids as a lover;</l>
+<l rend="indent">And leap the eyelids as a lover;</l>
 <l>And secret pathways to thy heart</l>
-<l rend="inline">My fervid passion will discover.</l>
+<l rend="indent">My fervid passion will discover.</l>
 </lg>
 </div>
 
@@ -3613,92 +3604,92 @@ Quatercentenary of Aberdeen University</head>
 <head>The Nile</head>
 <lg type="stanza">
 <l>HOW did He fashion it,He who made it--</l>
-<l rend="inline">This mysterious dreamy land,</l>
+<l rend="indent">This mysterious dreamy land,</l>
 <l>Here an oasis with palms to shade it,</l>
-<l rend="inline">Here a desert of tawny sand?</l>
+<l rend="indent">Here a desert of tawny sand?</l>
 </lg>
 
 <lg type="stanza">
 <l>How did He fashion it, how did He make it--</l>
-<l rend="inline">This enchanted land of the Nile?</l>
+<l rend="indent">This enchanted land of the Nile?</l>
 <l>With a thunder-peal or a sigh did He make it?</l>
-<l rend="inline">A lightning flash, or a loving smile?</l>
+<l rend="indent">A lightning flash, or a loving smile?</l>
 </lg>
 
 <lg type="stanza">
 <l>Æons ago, in dreams He saw it,</l>
-<l rend="inline">Lying in unborn beauty afar;</l>
+<l rend="indent">Lying in unborn beauty afar;</l>
 <l>Æons long He toiled to draw it,</l>
-<l rend="inline">Out of the core of a burning star.</l>
+<l rend="indent">Out of the core of a burning star.</l>
 </lg>
 
 <lg type="stanza">
 <l>Terrace by terrace, He built the mountains</l>
-<l rend="inline">Out of the silt of the ancient sea;</l>
+<l rend="indent">Out of the silt of the ancient sea;</l>
 <l>Cloudlet by cloudlet, He made the fountains</l>
-<l rend="inline">To feed the river that was to be.</l>
+<l rend="indent">To feed the river that was to be.</l>
 </lg>
 
 <pb n="130  The Nile"/>
 
 <lg type="stanza">
 <l>He made the Nile; He filled and fraught it</l>
-<l rend="inline">With golden loads of a magic mire;</l>
+<l rend="indent">With golden loads of a magic mire;</l>
 <l>He moulded the land, he forged and wrought it,</l>
-<l rend="inline">Now by earthquake, and now by fire.</l>
+<l rend="indent">Now by earthquake, and now by fire.</l>
 </lg>
 
 <lg type="stanza">
 <l>Age by age He brought to prepare it,</l>
-<l rend="inline">A sculptor's skill, and a painter's art,</l>
+<l rend="indent">A sculptor's skill, and a painter's art,</l>
 <l>Then, He thought in His love to share it,</l>
-<l rend="inline">And made a burning and beating heart.</l>
+<l rend="indent">And made a burning and beating heart.</l>
 </lg>
 
 <lg type="stanza">
 <l>He made thy heart that His heart might fill it</l>
-<l rend="inline">With dreams of beauty that He had made;</l>
+<l rend="indent">With dreams of beauty that He had made;</l>
 <l>He made thy soul that His Art might thrill it</l>
-<l rend="inline">With palm, and lotus, and sun, and shade.</l>
+<l rend="indent">With palm, and lotus, and sun, and shade.</l>
 </lg>
 
 <lg type="stanza">
 <l>And I who watch thee as thou art dreaming</l>
-<l rend="inline">The dream of the mind that made the whole,</l>
+<l rend="indent">The dream of the mind that made the whole,</l>
 <l>Discern His love in thy beauty gleaming,</l>
-<l rend="inline">In thy fair spirit discern His soul,</l>
+<l rend="indent">In thy fair spirit discern His soul,</l>
 </lg>
 
 <lg type="stanza">
 <l>And know to what end His Art has striven</l>
-<l rend="inline">In the desert below, and the sky above.--</l>
+<l rend="indent">In the desert below, and the sky above.--</l>
 
 
 <pb n="The Nile   131"/>
 
 <l>Know that the beauty of earth is given</l>
-<l rend="inline">To the heart of man by the Hand of Love.</l>
+<l rend="indent">To the heart of man by the Hand of Love.</l>
 </lg>
 
 <lg type="stanza">
 <l>Praise, O praise to the Artist Giver,</l>
-<l rend="inline">Who made the earth, and the sky, and the sea,</l>
+<l rend="indent">Who made the earth, and the sky, and the sea,</l>
 <l>And the lovely dream of the flowing river,</l>
-<l rend="inline">And the lovelier living dream of thee.</l>
+<l rend="indent">And the lovelier living dream of thee.</l>
 </lg>
 
 <lg type="stanza">
 <l>Here upon earth there is no abiding,</l>
-<l rend="inline">Still like the Nile life floweth on,</l>
+<l rend="indent">Still like the Nile life floweth on,</l>
 <l>And still our lives are floating, and gliding,</l>
-<l rend="inline">Into the twilight, out of the dawn.</l>
+<l rend="indent">Into the twilight, out of the dawn.</l>
 </lg>
 
 <lg type="stanza">
 <l>Yet in life can be no forgetting</l>
-<l rend="inline">Of the desert's peace, of the river's calm,</l>
+<l rend="indent">Of the desert's peace, of the river's calm,</l>
 <l>Of thy lips and eyes in their lovely setting</l>
-<l rend="inline">Of maize, and lotus, and corn, and palm.</l>
+<l rend="indent">Of maize, and lotus, and corn, and palm.</l>
 </lg>
 </div>
 
@@ -3759,7 +3750,7 @@ Quatercentenary of Aberdeen University</head>
 
 <head>On the Death of John Davidson</head>
 
-<div xml:id="macfie726" type="section" n="1">
+<div xml:id="macfie0726" type="section" n="1">
 
 <head>i</head>
 <lg type="stanza">
@@ -3870,23 +3861,23 @@ Quatercentenary of Aberdeen University</head>
 
 <lg type="stanza">
 <l>LADY MOONLIGHT, so I deem thee,</l>
-<l rend="inline">For I think some summer night</l>
+<l rend="indent">For I think some summer night</l>
 <l>God amid the stars did dream thee,</l>
-<l rend="inline">Mystical, and pure, and white.</l>
+<l rend="indent">Mystical, and pure, and white.</l>
 </lg>
 
 <lg type="stanza">
 <l>Yea, and Moonlight is the sunlight—-</l>
-<l rend="inline">The reflection of a star,</l>
+<l rend="indent">The reflection of a star,</l>
 <l>And all sunlight is the One Light</l>
-<l rend="inline">Of the Love that burns afar.</l>
+<l rend="indent">Of the Love that burns afar.</l>
 </lg>
 
 <lg type="stanza">
 <l>Lady Moonlight, Sunlight, Starlight,</l>
-<l rend="inline">Howsoever fair thou be,</l>
+<l rend="indent">Howsoever fair thou be,</l>
 <l>Fairer is the holy far light</l>
-<l rend="inline">That with love illumines thee.</l>
+<l rend="indent">That with love illumines thee.</l>
 </lg>
 </div>
 
@@ -3902,28 +3893,28 @@ Quatercentenary of Aberdeen University</head>
 <l>WAN Memories, with patient widow faces,</l>
 <l>Looked calmly backwards thro' the withered years,</l>
 <l>And smiled to find, like dew, in distant places,</l>
-<l rend="inline">Forgotten tears.</l>
+<l rend="indent">Forgotten tears.</l>
 </lg>
 
 <lg type="stanza">
 <l>And in the shadowy grove of cypress-trees,</l>
 <l>With ashes on their garments and their hair,</l>
 <l>I found a crowd of Sorrows on their knees</l>
-<l rend="inline">Before Despair.</l>
+<l rend="indent">Before Despair.</l>
 </lg>
 
 <lg type="stanza">
 <l>Also, I saw a Dream with misty face,</l>
 <l>And heavy languid eyelids lily-white,</l>
 <l>Who made a mockery of Time and Space</l>
-<l rend="inline">By day and night.</l>
+<l rend="indent">By day and night.</l>
 </lg>
 
 <lg type="stanza">
 <l>And Hope I met, with eyes so blue and blind</l>
 <l>They could discern the fruit within the pod,</l>
 <l>And in the darkness of the world could find</l>
-<l rend="inline">The Love of God.</l>
+<l rend="indent">The Love of God.</l>
 </lg>
 </div>
 
@@ -4020,16 +4011,16 @@ Quatercentenary of Aberdeen University</head>
 
 <lg type="stanza">
 <l>BUT if you have not met and kissed</l>
-<l rend="inline">Your lonely Love's Beloved One,</l>
+<l rend="indent">Your lonely Love's Beloved One,</l>
 <l>Your heart's a rosebud in a mist</l>
-<l rend="inline">That has not known the sun.</l>
+<l rend="indent">That has not known the sun.</l>
 </lg>
 
 <lg type="stanza">
 <l>And though the world be glad and loud</l>
-<l rend="inline">With all the singing joy of June,</l>
+<l rend="indent">With all the singing joy of June,</l>
 <l>Your soul's a lily in a cloud</l>
-<l rend="inline">That has not seen the moon.</l>
+<l rend="indent">That has not seen the moon.</l>
 </lg>
 </div>
 
@@ -4047,23 +4038,23 @@ Quatercentenary of Aberdeen University</head>
 
 <lg type="stanza">
 <l>And he who spends the sunny days of youth</l>
-<l rend="inline">Bent double over Reason's rusty shares</l>
+<l rend="indent">Bent double over Reason's rusty shares</l>
 <l>Will harvest only stacks of stubbly truth</l>
-<l rend="inline">And sheaves of golden tares;</l>
+<l rend="indent">And sheaves of golden tares;</l>
 </lg>
 
 <lg type="stanza">
 <l>But he who lives life plenary and whole--</l>
-<l rend="inline">Labour and laughter, loveliness and song--</l>
+<l rend="indent">Labour and laughter, loveliness and song--</l>
 <l>With dreams and visions in his inner soul</l>
-<l rend="inline">Speeding the plough along.</l>
+<l rend="indent">Speeding the plough along.</l>
 </lg>
 
 <lg type="stanza">
 <l>He who incarnates love in lovely deeds,</l>
-<l rend="inline">Whose dreams in charity their wings employ,</l>
+<l rend="indent">Whose dreams in charity their wings employ,</l>
 <l>Will fill Time's furrows with immortal seeds</l>
-<l rend="inline">And reap eternal joy.</l>
+<l rend="indent">And reap eternal joy.</l>
 </lg>
 </div>
 
@@ -4091,16 +4082,16 @@ Quatercentenary of Aberdeen University</head>
 <lg type="stanza">
 
 <l>YOU take a word,</l>
-<l rend="inline">And give it wings;</l>
+<l rend="indent">And give it wings;</l>
 <l>It grows a bird,</l>
-<l rend="inline">And soars and sings;</l>
+<l rend="indent">And soars and sings;</l>
 </lg>
 
 <lg type="stanza">
 <l>And by your art,</l>
-<l rend="inline">You make a scroll,</l>
+<l rend="indent">You make a scroll,</l>
 <l>A beating heart,</l>
-<l rend="inline">A living soul.</l>
+<l rend="indent">A living soul.</l>
 </lg>
 </div>
 
@@ -4112,16 +4103,16 @@ Quatercentenary of Aberdeen University</head>
 
 <lg type="stanza">
 <l>NIGHT may forget the day,</l>
-<l rend="inline">The roses and the dew,</l>
+<l rend="indent">The roses and the dew,</l>
 <l>And yet my heart alway,</l>
-<l rend="inline">Lady, remembers you.</l>
+<l rend="indent">Lady, remembers you.</l>
 </lg>
 
 <lg type="stanza">
 <l>Day may forget the night,</l>
-<l rend="inline">Forget both moon and star,</l>
+<l rend="indent">Forget both moon and star,</l>
 <l>Yet deathless, dark or light,</l>
-<l rend="inline">Your memories are!</l>
+<l rend="indent">Your memories are!</l>
 </lg>
 </div>
 
@@ -4176,7 +4167,7 @@ Quatercentenary of Aberdeen University</head>
 <pb n="Spring and Summer 151"/>
 
 
-<div xml:id="macfie100" type="poem" n="44">
+<div xml:id="macfie0100" type="poem" n="44">
 <head>Spring and Summer<lb/>
 To R. S.</head>
 
@@ -5054,28 +5045,28 @@ CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 
 <lg type="stanza">
 <l>YOU who wait on the Lord</l>
-<l rend="inline">You who pray for a prize,</l>
+<l rend="indent">You who pray for a prize,</l>
 <l>You who claim a reward,</l>
-<l rend="inline">Have you nor ears, nor eyes?</l>
+<l rend="indent">Have you nor ears, nor eyes?</l>
 </lg>
 
 <lg type="stanza">
 <l>Have you nor hands, nor feet,</l>
-<l rend="inline">Have you nor wife, nor son?</l>
+<l rend="indent">Have you nor wife, nor son?</l>
 <l>If greater reward be meet,</l>
-<l rend="inline">What have you said or done,</l>
+<l rend="indent">What have you said or done,</l>
 </lg>
 
 <lg type="stanza">
 <l>To merit a further grace?</l>
-<l rend="inline">O you have kept from sin!--</l>
+<l rend="indent">O you have kept from sin!--</l>
 <l>Kept from the tight embrace</l>
-<l rend="inline">Of the devil's snare and gin.</l>
+<l rend="indent">Of the devil's snare and gin.</l>
 </lg>
 
 <lg type="stanza">
 <l>Your deeds had a righteous shape,</l>
-<l rend="inline">Yet they were not done well;</l>
+<l rend="indent">Yet they were not done well;</l>
 
 
 <pb n="185  Rewards"/>
@@ -5086,46 +5077,46 @@ CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 
 <lg type="stanza">
 <l>And were ready to leave a wife,</l>
-<l rend="inline">Or a son, or a friend behind,</l>
+<l rend="indent">Or a son, or a friend behind,</l>
 <l>And enter eternal life</l>
-<l rend="inline">To your own fair soul assigned.</l>
+<l rend="indent">To your own fair soul assigned.</l>
 </lg>
 
 <lg type="stanza">
 <l>Not Love, not Love was the root</l>
-<l rend="inline">And the source of your noble deeds:</l>
+<l rend="indent">And the source of your noble deeds:</l>
 <l>Love has its own sweet fruit,</l>
-<l rend="inline">Never reward it needs.</l>
+<l rend="indent">Never reward it needs.</l>
 </lg>
 
 <lg type="stanza">
 <l>Love could never agree</l>
-<l rend="inline">To the creed you hold as true--</l>
+<l rend="indent">To the creed you hold as true--</l>
 <l>A hell for such as me,</l>
-<l rend="inline">A heaven for such as you.</l>
+<l rend="indent">A heaven for such as you.</l>
 </lg>
 
 <lg type="stanza">
 <l>The hell only I wot</l>
-<l rend="inline">Is such a creed to hold,</l>
+<l rend="indent">Is such a creed to hold,</l>
 <l>And such hell is not hot,</l>
-<l rend="inline">But narrow, and mean, and cold.</l>
+<l rend="indent">But narrow, and mean, and cold.</l>
 
 <milestone unit="section" rend="dots"/>
 
 <pb n="186  Rewards"/>
 
 <l>Reward!   You have life, and limb,</l>
-<l rend="inline">You have heart, and brain, and breath,</l>
+<l rend="indent">You have heart, and brain, and breath,</l>
 <l>And soon when your eyes grow dim</l>
-<l rend="inline">You will have the repose of death.</l>
+<l rend="indent">You will have the repose of death.</l>
 </lg>
 
 <lg type="stanza">
 <l>Best let rewards alone,</l>
-<l rend="inline">Sir Benjamin Pharisee,</l>
+<l rend="indent">Sir Benjamin Pharisee,</l>
 <l>And pray that mercy be shown</l>
-<l rend="inline">To sinners like you and me.</l>
+<l rend="indent">To sinners like you and me.</l>
 </lg>
 </div>
 
@@ -5141,39 +5132,39 @@ CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 
 <lg type="stanza">
 <l>O DREAMS are sweet, and dreams are swift,</l>
-<l rend="inline">Divinely bright, divinely dim,</l>
+<l rend="indent">Divinely bright, divinely dim,</l>
 <l>And dreams are free to dance and drift</l>
-<l rend="inline">Beyond life's round horizon-rim.</l>
+<l rend="indent">Beyond life's round horizon-rim.</l>
 </lg>
 
 <lg type="stanza">
 <l>O dreams are swift, and dreams are sweet,</l>
-<l rend="inline">And dreams are dim, and dreams are bright,</l>
+<l rend="indent">And dreams are dim, and dreams are bright,</l>
 <l>Yet braver are the human feet</l>
-<l rend="inline">That labour up the mountain height.</l>
+<l rend="indent">That labour up the mountain height.</l>
 </lg>
 
 <lg type="stanza">
 <l>And braver is the human heart</l>
-<l rend="inline">That dares to live its life alone,</l>
+<l rend="indent">That dares to live its life alone,</l>
 <l>That in a desert dwells apart,</l>
-<l rend="inline">And makes the loneliness a throne.</l>
+<l rend="indent">And makes the loneliness a throne.</l>
 </lg>
 
 <pb n="188  Dreams"/>
 
 <lg type="stanza">
 <l>And bravest is the heart that strives</l>
-<l rend="inline">To kindle other hearts with song,</l>
+<l rend="indent">To kindle other hearts with song,</l>
 <l>And make our mean discordant lives</l>
-<l rend="inline">Melodious, and free, and strong.</l>
+<l rend="indent">Melodious, and free, and strong.</l>
 </lg>
 
 <lg type="stanza">
 <l>That makes truth fairer than our dreams,</l>
-<l rend="inline">That makes our fairest dreams come true;</l>
+<l rend="indent">That makes our fairest dreams come true;</l>
 <l>Bravest is such a heart, meseems,</l>
-<l rend="inline">Lady, as beats in you.</l>
+<l rend="indent">Lady, as beats in you.</l>
 </lg>
 </div>
 
@@ -5260,30 +5251,30 @@ CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 
 <lg type="stanza">
 <l>WHAT is the firemist, but a thought,</l>
-<l rend="inline">A figment of the fervid brain?</l>
+<l rend="indent">A figment of the fervid brain?</l>
 <l>Without thy thinking it is nought--</l>
-<l rend="inline">Insensible, inert, inane.</l>
+<l rend="indent">Insensible, inert, inane.</l>
 </lg>
 
 <lg type="stanza">
 <l>And though the thought be wise and warm,</l>
-<l rend="inline">And from its womb a world arise,</l>
+<l rend="indent">And from its womb a world arise,</l>
 <l>And in the world strange monsters swarm,</l>
-<l rend="inline">And grow to men with human eyes,</l>
+<l rend="indent">And grow to men with human eyes,</l>
 </lg>
 
 <lg type="stanza">
 <l>Still, thought is the creative force;</l>
-<l rend="inline">And though the forms of thought decay,</l>
+<l rend="indent">And though the forms of thought decay,</l>
 <l>Natheless, the spiritual source,</l>
-<l rend="inline">Of thinking will not pass away.</l>
+<l rend="indent">Of thinking will not pass away.</l>
 </lg>
 
 <lg type="stanza">
 <l>Brain-cells?   These, too, in thought exist,</l>
-<l rend="inline">How then can thought on these depend?</l>
+<l rend="indent">How then can thought on these depend?</l>
 <l>The force of thought will still persist,</l>
-<l rend="inline">Altho' these things of thought do end.</l>
+<l rend="indent">Altho' these things of thought do end.</l>
 </lg>
 </div>
 
@@ -5295,30 +5286,30 @@ CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 
 <lg type="stanza">
 <l>Her soul is vague and shallow--</l>
-<l rend="inline">A thin uncertain stream</l>
+<l rend="indent">A thin uncertain stream</l>
 <l>That trickles o'er the fallow,</l>
-<l rend="inline">Dim deserts of a dream.</l>
+<l rend="indent">Dim deserts of a dream.</l>
 </lg>
 
 <lg type="stanza">
 <l>It knows nor nock nor mountain,</l>
-<l rend="inline">Nor cataract nor pool;</l>
+<l rend="indent">Nor cataract nor pool;</l>
 <l>It bubbles from a fountain,</l>
-<l rend="inline">And loiters calm and cool.</l>
+<l rend="indent">And loiters calm and cool.</l>
 </lg>
 
 <lg type="stanza">
 <l>It ripples not nor revels,</l>
-<l rend="inline">But lisps its lazy tunes,</l>
+<l rend="indent">But lisps its lazy tunes,</l>
 <l>Along the dusty levels,</l>
-<l rend="inline">Around the sandy dunes.</l>
+<l rend="indent">Around the sandy dunes.</l>
 </lg>
 
 <lg type="stanza">
 <l>Across the plains of dreaming</l>
-<l rend="inline">I watch it twist and run--</l>
+<l rend="indent">I watch it twist and run--</l>
 <l>A thread of silver gleaming</l>
-<l rend="inline">In a Sahara sun.</l>
+<l rend="indent">In a Sahara sun.</l>
 </lg>
 </div>
 
@@ -5483,68 +5474,68 @@ CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 <head>Is There No Hostel by the Way of Life?"</head>
 
 <lg type="stanza">
-<l rend="inline">IS there no hostel by the way of life,</l>
+<l rend="indent">IS there no hostel by the way of life,</l>
 <l>No place o'ershadowed from the sun and sin</l>
 <l>Of noisy noonday, sheltered from all strife,</l>
-<l rend="inline">And dust, and din?</l>
+<l rend="indent">And dust, and din?</l>
 </lg>
 
 <lg type="stanza">
-<l rend="inline">Is there no place where men may, mesh by mesh,</l>
+<l rend="indent">Is there no place where men may, mesh by mesh,</l>
 <l>Sunder their carnate bonds and walk abroad</l>
 <l>Free souls,--no place where they may doff the flesh</l>
-<l rend="inline">And talk with God?</l>
+<l rend="indent">And talk with God?</l>
 </lg>
 
 <lg type="stanza">
-<l rend="inline">Yea, there are holy hostels on our path,</l>
+<l rend="indent">Yea, there are holy hostels on our path,</l>
 <l>Where peace, and beauty, and refreshment are,</l>
 <l>Where God thrusts back the world, and cries in wrath,</l>
-<l rend="inline">"Thus far, thus far."</l>
+<l rend="indent">"Thus far, thus far."</l>
 </lg>
 
 <lg type="stanza">
-<l rend="inline">Go, watch the lily coming thro' the sod,</l>
+<l rend="indent">Go, watch the lily coming thro' the sod,</l>
 <l>And thou shalt be refreshed as if with wine,</l>
 <l>Supping, as in a hostel with thy God,</l>
-<l rend="inline">Of food divine.</l>
+<l rend="indent">Of food divine.</l>
 </lg>
 
 <pb n="Is There No Hostel   201"/>
 
 <lg type="stanza">
-<l rend="inline">Or gaze on Ocean when the twilight lingers</l>
+<l rend="indent">Or gaze on Ocean when the twilight lingers</l>
 <l>Over its waves, as young as at their birth,</l>
 <l>When thunderous they trickled thro' God's fingers</l>
-<l rend="inline">Upon the Earth.</l>
+<l rend="indent">Upon the Earth.</l>
 </lg>
 
 <lg type="stanza">
-<l rend="inline">Or climb a hill.   The world is short of breath,</l>
+<l rend="indent">Or climb a hill.   The world is short of breath,</l>
 <l>Thou wilt not find her cloven footprints there,</l>
 <l>And thou wilt recognise as angels, Death,</l>
-<l rend="inline">And Toil, and Care.</l>
+<l rend="indent">And Toil, and Care.</l>
 </lg>
 
 <lg type="stanza">
-<l rend="inline">There stand, a living and discarnate soul,</l>
+<l rend="indent">There stand, a living and discarnate soul,</l>
 <l>Until the angels drop their dark disguise,</l>
 <l>And show thee, hidden under veil and stole,</l>
-<l rend="inline">Their wings and eyes.</l>
+<l rend="indent">Their wings and eyes.</l>
 </lg>
 
 <lg type="stanza">
-<l rend="inline">Then thou shalt turn thee to thy task as one,</l>
+<l rend="indent">Then thou shalt turn thee to thy task as one,</l>
 <l>Who cometh from a hostel fresh and strong,</l>
 <l>Meeting and greeting dust, and rain, and sun,</l>
-<l rend="inline">With laugh and song.</l>
+<l rend="indent">With laugh and song.</l>
 </lg>
 
 <lg type="stanza">
-<l rend="inline">Yea, there are hostels on the path of duty,</l>
+<l rend="indent">Yea, there are hostels on the path of duty,</l>
 <l>Holy of Holies on the way of Life,</l>
 <l>Where men are comforted by Love and Beauty,</l>
-<l rend="inline">After their strife.</l>
+<l rend="indent">After their strife.</l>
 </lg>
 </div>
 
@@ -5557,16 +5548,16 @@ CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 
 <lg type="stanza">
 <l>HER bosom is white as the ocean-foam;</l>
-<l rend="inline">Her breath is sweet as the ocean breeze;</l>
+<l rend="indent">Her breath is sweet as the ocean breeze;</l>
 <l>And the tide of her beauty will lift me home,</l>
-<l rend="inline">Over the seas.</l>
+<l rend="indent">Over the seas.</l>
 </lg>
 
 <lg type="stanza">
 <l>The sails will fill, and the oars will beat,</l>
-<l rend="inline">And the sun will shine in the cloudless blue,</l>
+<l rend="indent">And the sun will shine in the cloudless blue,</l>
 <l>For a lady awaits me, fair and sweet,</l>
-<l rend="inline">And kind and true.</l>
+<l rend="indent">And kind and true.</l>
 </lg>
 </div>
 
@@ -5582,16 +5573,16 @@ CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 
 <lg type="stanza">
 <l>THROUGH thine eyes of brown</l>
-<l rend="inline">Would they gaze,</l>
+<l rend="indent">Would they gaze,</l>
 <l>Looking boldly down</l>
-<l rend="inline">Lonely ways.</l>
+<l rend="indent">Lonely ways.</l>
 </lg>
 
 <lg type="stanza">
-<l rend="inline">Till thy radiant mind,</l>
-<l rend="inline">Like a rising sun,</l>
+<l rend="indent">Till thy radiant mind,</l>
+<l rend="indent">Like a rising sun,</l>
 <l>Did eclipse and blind</l>
-<l rend="inline">Everyone.</l>
+<l rend="indent">Everyone.</l>
 </lg>
 </div>
 
@@ -5690,7 +5681,7 @@ CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 <l>As are the summer skies above her;--</l>
 <l>Merely because her eyes are blue,</l>
 <l>This is the foolish thing I do,</l>
-<l rend="inline">I love, love, love her.</l>
+<l rend="indent">I love, love, love her.</l>
 </lg>
 </div>
 
@@ -5716,23 +5707,23 @@ CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 
 <lg type="stanza">
 <l>I BIND thee to me, without sign or sound,</l>
-<l rend="inline">Beloved one;</l>
+<l rend="indent">Beloved one;</l>
 <l>I bind thee to me as the Earth is bound</l>
-<l rend="inline">Unto the sun.</l>
+<l rend="indent">Unto the sun.</l>
 </lg>
 
 <lg type="stanza">
 <l>Now, with thy budding hopes and April dreams</l>
-<l rend="inline">Around me roll,</l>
+<l rend="indent">Around me roll,</l>
 <l>And evermore my gentle fostering beams</l>
-<l rend="inline">Will sun thy soul.</l>
+<l rend="indent">Will sun thy soul.</l>
 </lg>
 
 <lg type="stanza">
 <l>Yea, evermore my silent wordless light</l>
-<l rend="inline">Shining above,</l>
+<l rend="indent">Shining above,</l>
 <l>Will ripen in thy heart the red and white</l>
-<l rend="inline">Blossoms of love.</l>
+<l rend="indent">Blossoms of love.</l>
 </lg>
 </div>
 

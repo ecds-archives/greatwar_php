@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="lanesongs">
    <teiHeader><fileDesc>
          <titleStmt>
-            <title>POEMS: Electronic Edition</title>
-            <author><name type="person"><choice> <reg>Lane, John</reg><orig>John Lane ed.</orig> </choice></name></author>
+            <title>Songs &#x0026; Sonnets for England in War Time: Electronic Edition</title>
+            <editor><name type="person"><choice> <reg>Lane, John</reg><sic>John Lane</sic> </choice></name></editor>
          </titleStmt>
 	 <publicationStmt><publisher>Lewis H. Beck Center for Electronic Collections
 	   and Services, Emory University</publisher><pubPlace>Atlanta, GA</pubPlace><address>
@@ -26,12 +27,12 @@
          <sourceDesc>
             <bibl>
 	     <title>Songs and Sonnets for England in War Time: Being a Collection of Lyrics by Various Authors Inspired by the Great War</title>
-	     <author>R. Watson Kerr</author>
+	     <editor>John Lane</editor>
 	     <pubPlace>London</pubPlace>
 	     <publisher>John Lane</publisher>
              <pubPlace>New York</pubPlace>
 	     <publisher>John Lane Company</publisher>
-	     <date>1919</date>
+	     <date>1914</date>
 	   </bibl>
          </sourceDesc>
       </fileDesc><encodingDesc>
@@ -78,41 +79,39 @@
 <front>
 
 <pb n="i"/>
-<titlePage xml:id="lanesongs000" type="half">
-     <docTitle>
-       <titlePart type="main">SONGS &amp; SONNETS<lb/>FOR ENGLAND IN<lb/>WAR TIME</titlePart>
-     </docTitle>
-   </titlePage>
+<!-- <titlePage xml:id="lanesongs000" type="half"> -->
+<!--      <docTitle> -->
+<!--        <titlePart type="main">SONGS &amp; SONNETS<lb/>FOR ENGLAND IN<lb/>WAR TIME</titlePart> -->
+<!--      </docTitle> -->
+<!--    </titlePage> -->
 
-<pb n="[ii]"/>
-<!--?????not sure what to call this page.-->
+<!-- <pb n="[ii]"/> -->
 
-<pb n="[iii]"/>
-<titlePage xml:id="lanesongs0001" type="full">
-     <docTitle>
-       <titlePart type="main">SONGS AND SONNETS<lb/>FOR ENGLAND IN<lb/>WAR TIME</titlePart>
-<titlePart type="sub">BEING A COLLECTION OF LYRICS<lb/>BY VARIOUS AUTHORS INSPIRED BY<lb/>THE GREAT WAR</titlePart>
-     </docTitle>
-       <epigraph><cit><q><lg type="stanza"><l><hi rend="italic">Sound, sound the clarion, fill the file !</hi></l>
-<l rend="inline"><hi rend="italic">To all the sensual world proclaim,</hi></l>
-<l><hi rend="italic">One crowded hour of glorious life</hi></l>
-<l rend="inline"><hi rend="italic">Is worth an age without a name.</hi></l></lg>
+<!-- <pb n="[iii]"/> -->
+<!-- <titlePage xml:id="lanesongs0001" type="full"> -->
+<!--      <docTitle> -->
+<!--        <titlePart type="main">SONGS AND SONNETS<lb/>FOR ENGLAND IN<lb/>WAR TIME</titlePart> -->
+<!-- <titlePart type="sub">BEING A COLLECTION OF LYRICS<lb/>BY VARIOUS AUTHORS INSPIRED BY<lb/>THE GREAT WAR</titlePart> -->
+<!--      </docTitle> -->
+<!--        <epigraph><cit><q><lg type="stanza"><l><hi rend="italic">Sound, sound the clarion, fill the file !</hi></l> -->
+<!-- <l rend="inline"><hi rend="italic">To all the sensual world proclaim,</hi></l> -->
+<!-- <l><hi rend="italic">One crowded hour of glorious life</hi></l> -->
+<!-- <l rend="inline"><hi rend="italic">Is worth an age without a name.</hi></l></lg> -->
 
-<bibl>SIR WALTER SCOTT, "Old Mortality"</bibl></q></cit></epigraph>
-<!--***check accuracy of bib material-->
-       <docImprint>
-        <pubPlace>LONDON: NEW YORK:</pubPlace>
-	 <publisher>JOHN LANE COMPANY,</publisher>
-<pubPlace> TORONTO:</pubPlace>
- <publisher> BELL AND COCKBURN</publisher>
+<!-- <bibl>SIR WALTER SCOTT, "Old Mortality"</bibl></q></cit></epigraph> -->
+
+<!--        <docImprint> -->
+<!--         <pubPlace>LONDON: </pubPlace> <publisher>JOHN LANE, THE BODLEY HEAD</publisher> -->
+<!-- 	<pubPlace>NEW YORK: </pubPlace> <publisher>JOHN LANE COMPANY,</publisher> -->
+<!-- <pubPlace> TORONTO: </pubPlace> <publisher> BELL AND COCKBURN </publisher><docDate>MCMXIV</docDate> -->
 	 
-       </docImprint>
-   </titlePage>
+<!--        </docImprint> -->
+<!--    </titlePage> -->
 
-<pb n="iv"/>
-<div type="colophon" xml:id="fm2">
-<p>THE BALLANTYNE PRESS TAVISTOCK STREET COVENT GARDEN LONDON</p>
-</div>
+<!-- <pb n="iv"/> -->
+<!-- <div type="colophon" xml:id="fm2"> -->
+<!-- <p>THE BALLANTYNE PRESS TAVISTOCK STREET COVENT GARDEN LONDON</p> -->
+<!-- </div> -->
 
 <pb n="v"/>
 <div type="introduction" xml:id="fm3">
@@ -242,7 +241,7 @@ acquainted with German politics and German statesmen.</p>
 <lg type="stanza">
 <l>God for the Kaiser!    God for the Hun!</l>
 <l>God for the fiercest war ever the sun</l>
-<l>Shone on!--No wonder it hid its face <ref target="#p2">1</ref></l>
+<l>Shone on!--No wonder it hid its face<ref target="#p2">1</ref></l>
 <l>When the Kaiser rode forth to his big disgrace.</l>
 </lg>
 
@@ -289,7 +288,7 @@ acquainted with German politics and German statesmen.</p>
 </floatingText>
 
 
-<p>My thanks are due for the great generosity displayed by all the authors whose poems appear in this volume, and whose names will be found on following pages ;and also to the Editors of the <hi rend="italic">Times, Daily Chronicle, Westminster Gazette, Daily News and Leader, Morning Post, Daily Telegraph, Evening Standard, Daily Express,Pall Mall Gazette, Punch, New Weekly, New Witness, Truth, Saturday Review, T.P.'s Weekly, Yorkshire Post, Glasgow Evening News</hi>, for full permission to reprint the poems that have appeared in their columns.</p>
+<p>My thanks are due for the great generosity displayed by all the authors whose poems appear in this volume, and whose names will be found on following pages; and also to the Editors of the <hi rend="italic">Times, Daily Chronicle, Westminster Gazette, Daily News and Leader, Morning Post, Daily Telegraph, Evening Standard, Daily Express,Pall Mall Gazette, Punch, New Weekly, New Witness, Truth, Saturday Review, T.P.'s Weekly, Yorkshire Post, Glasgow Evening News</hi>, for full permission to reprint the poems that have appeared in their columns.</p>
 
 <p>Mr. Vernon Hill has drawn and presented the cover design.</p>
 
@@ -299,39 +298,40 @@ acquainted with German politics and German statesmen.</p>
 
 </div>
 
-<div xml:id="lanesongsfm5" type="listofauthors">
-<pb n="[xi]"/>
-<pb n="xiii"/>
-<figure rend="inline">
-<figDesc> Alphabetic list of authors in front of "Songs and Sonnets for England in War Time"</figDesc>
-</figure>
+<!-- <div xml:id="lanesongsfm5" type="list of authors"> -->
+<!-- <pb n="[xi]"/> -->
+<!-- <pb n="xiii"/> -->
+<!-- <figure rend="inline"> -->
+<!-- <figDesc> Alphabetic list of authors in front of "Songs and Sonnets for England in War Time"</figDesc> -->
+<!-- </figure> -->
 
-<pb n="xiv"/>
-<figure rend="inline">
-<figDesc> Alphabetic list of authors in front of "Songs and Sonnets for England in War Time"</figDesc>
-</figure>
-</div>
+<!-- <pb n="xiv"/> -->
+<!-- <figure rend="inline"> -->
+<!-- <figDesc> Alphabetic list of authors in front of "Songs and Sonnets for England in War Time"</figDesc> -->
+<!-- </figure> -->
+<!-- </div> -->
 </front>
 
 <body>
 <pb n="1"/>
+<div xml:id="lanesongs01" type="anthology">
 <div xml:id="lanesongs001" type="poem" n="1">
 <head>TO THE TROUBLER OF THE WORLD</head>
 
 <lg type="stanza">
 <l>At last we know you, War-lord. You, that flung</l>
-<l rend="inline">The gauntlet down, fling down the mask you wore,</l>
-<l rend="inline">Publish your heart, and let its pent hate pour,</l>
+<l rend="indent">The gauntlet down, fling down the mask you wore,</l>
+<l rend="indent">Publish your heart, and let its pent hate pour,</l>
 <l>You that had God for ever on your tongue.</l>
 <l>We are old in war, and if in guile we are young,</l>
-<l rend="inline">Young also is the spirit that evermore</l>
-<l rend="inline">Burns in our bosom ev'n as heretofore,</l>
+<l rend="indent">Young also is the spirit that evermore</l>
+<l rend="indent">Burns in our bosom ev'n as heretofore,</l>
 <l>Nor are these thews unbraced, these nerves unstrung.</l>
 <l>We do not with God's name make wanton play;</l>
-<l rend="inline">We are not on such easy terms with Heaven ;</l>
+<l rend="indent">We are not on such easy terms with Heaven ;</l>
 <l>But in Earth's hearing we can verily say,</l>
-<l rend="inline">" Our hands are pure ; for peace, for peace we have striven ";</l>
-<l rend="inline">And not by Earth shall he be soon forgiven</l>
+<l rend="indent">" Our hands are pure ; for peace, for peace we have striven ";</l>
+<l rend="indent">And not by Earth shall he be soon forgiven</l>
 <l>Who lit the fire accurst that flames to-day.</l></lg>
 
 <closer><signed><name>WILLIAM WATSON</name></signed>
@@ -345,17 +345,17 @@ acquainted with German politics and German statesmen.</p>
 
 <lg type="stanza">
 <l>Art thou awake at last, or wilt thou sleep</l>
-<l rend="inline">Still on the downy cushions of thy sloth,</l>
+<l rend="indent">Still on the downy cushions of thy sloth,</l>
 <l>Trusting the ambient armour of the deep</l>
-<l rend="inline">To ward the foeman's darts ?    However loth,</l>
+<l rend="indent">To ward the foeman's darts ?    However loth,</l>
 <l>Thou must arise, draw thine own armour on,</l>
-<l rend="inline">Unsheathe thy sword, and, faithful, take thy stand,</l>
+<l rend="indent">Unsheathe thy sword, and, faithful, take thy stand,</l>
 <l>Foremost amid thy friends.   Thy banners shone</l>
-<l rend="inline">On Belgian fields before; as now, thy land</l>
+<l rend="indent">On Belgian fields before; as now, thy land</l>
 <l>Was menaced then ; as then, be strong, endure !</l>
-<l rend="inline">But when the dark days pass, if pass they do,</l>
+<l rend="indent">But when the dark days pass, if pass they do,</l>
 <l>Slumber no more, in foolish dream secure;</l>
-<l rend="inline">With blood and sweat anneal thy sword anew.</l>
+<l rend="indent">With blood and sweat anneal thy sword anew.</l>
 </lg>
 
 <closer><signed><name>FRANCIS COUTTS</name></signed></closer>
@@ -399,20 +399,20 @@ acquainted with German politics and German statesmen.</p>
 
 <lg type="stanza">
 <l>Nearer the eagles swoop in darkening rings,</l>
-<l rend="inline">Death scents his awful quarry from afar,</l>
-<l rend="inline">While men in millions march to bloody war</l>
+<l rend="indent">Death scents his awful quarry from afar,</l>
+<l rend="indent">While men in millions march to bloody war</l>
 <l>Hateless, unhated, at the word of Kings :</l>
 <l>But somewhere hid beneath His secret wings</l>
-<l rend="inline">The sons of God, before a juster bar,</l>
-<l rend="inline">Plead in His name who bore the cross and scar</l>
+<l rend="indent">The sons of God, before a juster bar,</l>
+<l rend="indent">Plead in His name who bore the cross and scar</l>
 <l>For Love that sees clear-eyed what war-lust brings.</l></lg>
 
 <lg type="stanza">
 <l>Plead on ye seers with love-enlightened eyes,</l>
-<l rend="inline">Hold up your hands to where the angels gaze</l>
-<l rend="inline">With deep compassion on our human strife;</l>
+<l rend="indent">Hold up your hands to where the angels gaze</l>
+<l rend="indent">With deep compassion on our human strife;</l>
 <l>Prayer moves the world with power beyond amaze.</l>
-<l rend="inline">And they who look beyond this mortal life</l>
+<l rend="indent">And they who look beyond this mortal life</l>
 <l>Know Peace on earth in Heaven hath great allies.</l>
 </lg>
 
@@ -421,10 +421,9 @@ acquainted with German politics and German statesmen.</p>
 </div>
 
 <div xml:id="lanesongs005" type="poem" n="5">
-<div xml:id="lanesongs1000" type="section" n="1">
 <pb n="5"/>
 <head>THE SONG OF THE BRITONS</head>
-
+<div xml:id="lanesongs1000" type="section" n="1">
 <head>THE DEAD</head>
 
 <lg type="stanza">
@@ -432,7 +431,7 @@ acquainted with German politics and German statesmen.</p>
 <l>Slain by glittering foemen's spears,</l>
 <l>With empty hands and a brow uncrowned,</l>
 <l>To our native land our eyes we turn</l>
-<l rend="inline">By snares encompassed round.</l>
+<l rend="indent">By snares encompassed round.</l>
 <l>Ah ! God, as we gaze our steeled hearts yearn !</l>
 <l>About her head, like a wind that veers,</l>
 <l>The vultures of war whirl thick in the skies,</l>
@@ -462,7 +461,7 @@ acquainted with German politics and German statesmen.</p>
 </lg>
 
 <lg type="stanza">
-<l rend="inline">When for the great assize</l>
+<l rend="indent">When for the great assize</l>
 <l>Thy trumpet sounds, O grant her strength to rise,</l>
 <l>Peerless from her omnipotent estate,</l>
 <l>With honour, power, and fame inviolate,</l>
@@ -472,7 +471,7 @@ acquainted with German politics and German statesmen.</p>
 <closer><signed><name>ANTHONY KIRBY GILL</name></signed>
 <dateline><date><hi rend="italic">Pall Mall Gazette, August</hi> 5, 1914</date></dateline></closer>
 </div>
-
+</div>
 
 <div xml:id="lanesongs006" type="poem" n="6">
 <pb n="7"/>
@@ -480,9 +479,9 @@ acquainted with German politics and German statesmen.</p>
 
 <lg type="stanza">
 <l>ENGLAND : where the sacred flame</l>
-<l rend="inline">Burns before the inmost shrine,</l>
+<l rend="indent">Burns before the inmost shrine,</l>
 <l>Where the lips that love thy name</l>
-<l rend="inline">Consecrate their hopes and thine,</l>
+<l rend="indent">Consecrate their hopes and thine,</l>
 <l>Where the banners of thy dead</l>
 <l>Weave their shadows overhead,</l>
 <l>Watch beside thine arms to-night,</l>
@@ -491,9 +490,9 @@ acquainted with German politics and German statesmen.</p>
 
 <lg type="stanza">
 <l>Think that when to-morrow comes</l>
-<l rend="inline">War shall claim command of all,</l>
+<l rend="indent">War shall claim command of all,</l>
 <l>Thou must hear the roll of drums,</l>
-<l rend="inline">Thou must hear the trumpet's call.</l>
+<l rend="indent">Thou must hear the trumpet's call.</l>
 <l>Now before they silence ruth,</l>
 <l>Commune with the voice of truth ;</l>
 <l>England ! on thy knees to-night</l>
@@ -505,9 +504,9 @@ acquainted with German politics and German statesmen.</p>
 
 <lg type="stanza">
 <l>Single-hearted, unafraid,</l>
-<l rend="inline">Hither all thy heroes came,</l>
+<l rend="indent">Hither all thy heroes came,</l>
 <l>On this altar's steps were laid</l>
-<l rend="inline">Gordon's life and Outram's fame.</l>
+<l rend="indent">Gordon's life and Outram's fame.</l>
 <l>England ! if thy will be yet</l>
 <l>By their great example set,</l>
 <l>Here beside thine arms to-night</l>
@@ -516,9 +515,9 @@ acquainted with German politics and German statesmen.</p>
 
 <lg type="stanza">
 <l>So shalt thou when morning comes</l>
-<l rend="inline">Rise to conquer or to fall,</l>
+<l rend="indent">Rise to conquer or to fall,</l>
 <l>Joyful hear the rolling drums,</l>
-<l rend="inline">Joyful hear the trumpets call.</l>
+<l rend="indent">Joyful hear the trumpets call.</l>
 <l>Then let Memory tell thy heart:</l>
 <l>"<hi rend="italic">England! what thou wert thou art! "</hi></l>
 <l>Gird thee with thine ancient might,</l>
@@ -537,15 +536,15 @@ acquainted with German politics and German statesmen.</p>
 
 <lg type="stanza">
 <l>We passed the days in the sun's eye,</l>
-<l rend="inline">The clouds that poised on high</l>
+<l rend="indent">The clouds that poised on high</l>
 <l>Ringed round about with luxury of light</l>
-<l rend="inline">For our delight,</l>
+<l rend="indent">For our delight,</l>
 <l>And her white oil of gladness the moon shed</l>
-<l rend="inline">On the untrampled ocean bed;</l>
+<l rend="indent">On the untrampled ocean bed;</l>
 <l>No admonition there, nor fear</l>
-<l rend="inline">Fell on the drowsy ear</l>
+<l rend="indent">Fell on the drowsy ear</l>
 <l>Louder than thunder rolled along the breeze</l>
-<l rend="inline">From surfless seas.</l>
+<l rend="indent">From surfless seas.</l>
 </lg>
 
 <milestone unit="section" rend="stars"/>
@@ -573,7 +572,7 @@ acquainted with German politics and German statesmen.</p>
 
 <p>[The Kaiser has been thanking God for his successes; and whilst the Christian nations of Europe are engaged in murdering each other, the heathen, whom they have failed to convert, remain so ignorant of the gospel that they are still living together in peace.]</p>
 
-<div xml:id="mackintosh1002" type="section" n="1">
+<div xml:id="lanesongs1002" type="section" n="1">
 <head>I</head>
 
 <lg type="stanza">
@@ -651,37 +650,37 @@ acquainted with German politics and German statesmen.</p>
 
 <lg type="stanza">
 <l>Men deemed her changed, and lo !</l>
-<l rend="inline">At word of war unveiled,</l>
+<l rend="indent">At word of war unveiled,</l>
 <l>She stands, as long ago,</l>
-<l rend="inline">She stood when Nelson sailed.</l>
+<l rend="indent">She stood when Nelson sailed.</l>
 <l>The sea wind in her hair.</l>
-<l rend="inline">The salt upon her lips,</l>
+<l rend="indent">The salt upon her lips,</l>
 <l>Upon the Forelands fair</l>
-<l rend="inline">She guards the English ships.</l>
+<l rend="indent">She guards the English ships.</l>
 </lg>
 
 <lg type="stanza">
 <l>She watched the Normans land,</l>
-<l rend="inline">The <hi rend="italic">Golden Hind</hi> set sail,</l>
+<l rend="indent">The <hi rend="italic">Golden Hind</hi> set sail,</l>
 <l>And, touched as by a hand,</l>
-<l rend="inline">The great Armada fail.</l>
+<l rend="indent">The great Armada fail.</l>
 <l>She watched the <hi rend="italic">Victory</hi></l>
-<l rend="inline">Lead out the Fleet to war,</l>
+<l rend="indent">Lead out the Fleet to war,</l>
 <l>And o'er the salt blue sea</l>
-<l rend="inline">Return from Trafalgar.</l>
+<l rend="indent">Return from Trafalgar.</l>
 </lg>
 
 <pb n="14      BRITANNIA"/>
 
 <lg type="stanza">
 <l>Men deemed her changed, and lo !</l>
-<l rend="inline">She stands unto the end,</l>
+<l rend="indent">She stands unto the end,</l>
 <l>With sword to strike the foe</l>
-<l rend="inline">And shield to guard a friend.</l>
+<l rend="indent">And shield to guard a friend.</l>
 <l>Across the wave she rules</l>
-<l rend="inline">That lesson shall be read</l>
+<l rend="indent">That lesson shall be read</l>
 <l>By foemen--and the fools</l>
-<l rend="inline">Who dream that Drake is dead.</l>
+<l rend="indent">Who dream that Drake is dead.</l>
 </lg>
 
 <closer><signed><name>H. DE VERE STACPOOLE</name></signed>
@@ -700,44 +699,44 @@ E. GOSCHEN.]</p>
 
 <lg type="stanza">
 <l>WHEN Honour on her silver bugle blows a point of war</l>
-<l rend="inline">Then Englishmen arise</l>
-<l rend="inline">With battle in their eyes,</l>
+<l rend="indent">Then Englishmen arise</l>
+<l rend="indent">With battle in their eyes,</l>
 <l>They can  only give  one  answer,  as  their  fathers answered, for</l>
-<l rend="inline">The choice that they are making</l>
-<l rend="inline">Is fighting or forsaking,</l>
+<l rend="indent">The choice that they are making</l>
+<l rend="indent">Is fighting or forsaking,</l>
 <l>And a false, fair-weather friendship is a lie that they abhor.</l>
 </lg>
 
 <lg type="stanza">
 <l>O'er the narrow seas the Gallic cock was crowing shrill alarms,</l>
-<l rend="inline">He saw them coming forth,</l>
-<l rend="inline">The War Lords of the North,</l>
+<l rend="indent">He saw them coming forth,</l>
+<l rend="indent">The War Lords of the North,</l>
 
 <pb n="16 THE ANSWER"/>
 
 <l>He said--" My little soldiers, it is time to fall to arms;</l>
-<l rend="inline">But our coasts are lying bare,</l>
-<l rend="inline">Will England do her share ?</l>
+<l rend="indent">But our coasts are lying bare,</l>
+<l rend="indent">Will England do her share ?</l>
 <l>A friendship that is fickle is the worst of Fortune's harms.</l>
 </lg>
 
 <lg type="stanza">
 <l>" Through Luxemburg and Belgium they are marching in their might,</l>
-<l rend="inline">They trample on the weak,</l>
-<l rend="inline">Our overthrow to seek;</l>
+<l rend="indent">They trample on the weak,</l>
+<l rend="indent">Our overthrow to seek;</l>
 <l>They tear up every treaty, and they laugh at every right;</l>
-<l rend="inline">Will England see her name</l>
-<l rend="inline">Put thus to open shame?</l>
+<l rend="indent">Will England see her name</l>
+<l rend="indent">Put thus to open shame?</l>
 <l>Will she see her Royal pledges torn in pieces in her sight"</l>
 </lg>
 
 <lg type="stanza">
 <l>But the  Germans  in   their arrogance   our   Minister addressed,</l>
-<l rend="inline">Half-wheedling, half-commanding--</l>
-<l rend="inline">" Let us make an understanding,</l>
+<l rend="indent">Half-wheedling, half-commanding--</l>
+<l rend="indent">" Let us make an understanding,</l>
 <l>Her coasts we will not batter nor her ports will we invest;</l>
-<l rend="inline">If you will stand apart</l>
-<l rend="inline">While we pierce her to the heart,</l>
+<l rend="indent">If you will stand apart</l>
+<l rend="indent">While we pierce her to the heart,</l>
 <l>We will let you show your friendship by a bargain for the
 rest."</l>
 </lg>
@@ -747,20 +746,20 @@ rest."</l>
 
 <lg type="stanza">
 <l>Then Sir Edward Grey replied, to the honour of his race--</l>
-<l rend="inline">To what England puts her hand,</l>
-<l rend="inline">Upon that she takes her stand,</l>
+<l rend="indent">To what England puts her hand,</l>
+<l rend="indent">Upon that she takes her stand,</l>
 <l>She will not barter treaties in your German market-place,</l>
-<l rend="inline">Nor will she condescend</l>
-<l rend="inline">To pledge away a friend,</l>
+<l rend="indent">Nor will she condescend</l>
+<l rend="indent">To pledge away a friend,</l>
 <l>Such contracting out of danger were  for  ever her disgrace."</l></lg>
 
 <lg type="stanza">
 <l>So o'er the perilous seas to Death or Victory we go,</l>
-<l rend="inline">Our sailors rushing forth,</l>
-<l rend="inline">To give battle in the North;</l>
+<l rend="indent">Our sailors rushing forth,</l>
+<l rend="indent">To give battle in the North;</l>
 <l>There as it was aforetime our ships will meet the foe;</l>
-<l rend="inline">And our brave soldiers too--</l>
-<l rend="inline">The Baltic, Waterloo</l>
+<l rend="indent">And our brave soldiers too--</l>
+<l rend="indent">The Baltic, Waterloo</l>
 <l>As then so now, twice armed are we since Honour backs the blow!</l>
 </lg>
 
@@ -775,20 +774,20 @@ rest."</l>
 
 <lg type="stanza">
 <l>He said: "Thou petty people, let me pass!</l>
-<l rend="inline">What canst thou do but bow to me and kneel?"</l>
+<l rend="indent">What canst thou do but bow to me and kneel?"</l>
 <l>But sudden a dry land caught fire like grass,</l>
-<l rend="inline">And answer hurtled but from shell and steel.</l>
+<l rend="indent">And answer hurtled but from shell and steel.</l>
 <l>He looked for silence, but a thunder came;</l>
-<l rend="inline">Upon him from Liège a leaden hail.</l>
+<l rend="indent">Upon him from Liège a leaden hail.</l>
 <l>All Belgium flew up at his throat in flame,</l>
-<l rend="inline">Till at her gates amazed his legions quail!</l>
+<l rend="indent">Till at her gates amazed his legions quail!</l>
 </lg>
 
 <lg type="stanza">
 <l>Take heed, for now on haunted ground thy tread;</l>
-<l rend="inline">There bowed a mightier War-Lord to his fall;</l>
+<l rend="indent">There bowed a mightier War-Lord to his fall;</l>
 <l>Fear!  Lest that very grass again grow red</l>
-<l rend="inline">With blood of German now, as then of Gaul!</l>
+<l rend="indent">With blood of German now, as then of Gaul!</l>
 <l>If him whom God destroys He maddens first.</l>
 <l>Then thy destruction slake thy madman's thirst!</l>
 </lg>
@@ -840,22 +839,22 @@ rest."</l>
 
 <lg type="stanza">
 <l>SURELY 'twas hell, not heaven, where first was war,</l>
-<l rend="inline">Where first infernal passions woke and stirred--</l>
-<l rend="inline">War, which makes heaven impossible in a word,</l>
+<l rend="indent">Where first infernal passions woke and stirred--</l>
+<l rend="indent">War, which makes heaven impossible in a word,</l>
 <l>And Murder bids her bloody gate unbar!</l>
 </lg>
 
 <lg type="stanza">
 <l>As well might one, under the Juggernaut car,</l>
-<l rend="inline">And knowing all annihilate shall be,</l>
-<l rend="inline">Babble of life and immortality</l>
+<l rend="indent">And knowing all annihilate shall be,</l>
+<l rend="indent">Babble of life and immortality</l>
 <l>As call that " heaven " where hell and hatred are.</l>
 </lg>
 
 <lg type="stanza">
 <l>Yet there was war in heaven, as on this star,</l>
-<l rend="inline">Yea, even there was War's red flag unfurled,</l>
-<l rend="inline">As if High God would warn a craven world</l>
+<l rend="indent">Yea, even there was War's red flag unfurled,</l>
+<l rend="indent">As if High God would warn a craven world</l>
 <l>In heaven itself, worse can befall than war.</l>
 </lg>
 </div>
@@ -870,21 +869,21 @@ Book)</bibl></q></cit></epigraph>
 
 <lg type="stanza">
 <l>So runs the ancient prayer, and I who hold</l>
-<l rend="inline">War to be bloody, damnable, abhorred,</l>
-<l rend="inline">Pray: " Not in our time, only, be it Lord,</l>
+<l rend="indent">War to be bloody, damnable, abhorred,</l>
+<l rend="indent">Pray: " Not in our time, only, be it Lord,</l>
 <l>But for all time may peace this isle enfold!"</l>
 </lg>
 
 <l>Yet rather than our England cease to be</l>
-<l rend="inline">What England is--Honour's own diadem ;</l>
-<l rend="inline">Rather than fail one promised sword to them</l>
+<l rend="indent">What England is--Honour's own diadem ;</l>
+<l rend="indent">Rather than fail one promised sword to them</l>
 <l>(Our word, God's arm, their surest guarantee),</l>
 </lg>
 
 <lg type="stanza">
 <l>That " little " but loyal race whom, near and far,</l>
-<l rend="inline">A world acclaims for glorious, deathless deed,</l>
-<l rend="inline">Rather than fail GREAT Belgium in her need,</l>
+<l rend="indent">A world acclaims for glorious, deathless deed,</l>
+<l rend="indent">Rather than fail GREAT Belgium in her need,</l>
 <l>Rather than this, in God's own name, be war!</l>
 </lg>
 
@@ -957,40 +956,40 @@ swords.</l>
 
 <lg type="stanza">
 <l>Oh, my England ! thou hast heard--</l>
-<l rend="inline">Could the hearing leave thee cold?--</l>
+<l rend="indent">Could the hearing leave thee cold?--</l>
 <l>Shattered vow and shameless word,</l>
-<l rend="inline">Bribe and menace and affront;</l>
+<l rend="indent">Bribe and menace and affront;</l>
 <l>Think they that thou growest old</l>
-<l rend="inline">Since La Haie and Hougoumont?</l>
+<l rend="indent">Since La Haie and Hougoumont?</l>
 </lg>
 
 <lg type="stanza">
 <l>Oh, my England ! thou hast seen,</l>
-<l rend="inline">Not with dull or hopeless eyes,</l>
+<l rend="indent">Not with dull or hopeless eyes,</l>
 <l>How they wait, elate, serene,</l>
-<l rend="inline">For thine utter darkening ;</l>
+<l rend="indent">For thine utter darkening ;</l>
 <l>How they hover o'er the prize,</l>
-<l rend="inline">Eagles red of claw and wing!</l>
+<l rend="indent">Eagles red of claw and wing!</l>
 </lg>
 
 <lg type="stanza">
 <l>Thou hast heard--and they shall hear ;</l>
-<l rend="inline">Thou hast seen--and they shall see;</l>
+<l rend="indent">Thou hast seen--and they shall see;</l>
 <l>With the sun upon thy spear,</l>
-<l rend="inline">And the moon upon thy helm,</l>
+<l rend="indent">And the moon upon thy helm,</l>
 <l>Thou hast spoken, thou art free--</l>
-<l rend="inline">Thou shalt strike and overwhelm.</l>
+<l rend="indent">Thou shalt strike and overwhelm.</l>
 </lg>
 
 <pb n="IN THE RED DAWN                                  25"/>
 
 <lg type="stanza">
 <l>Thou art ours, and we are thine,</l>
-<l rend="inline">And the circling sea is ours;</l>
+<l rend="indent">And the circling sea is ours;</l>
 <l>In the dark immortal wine</l>
-<l rend="inline">We will pledge them, though we die.</l>
+<l rend="indent">We will pledge them, though we die.</l>
 <l>For flame still upon our towers</l>
-<l rend="inline">Flags of hope and victory.</l>
+<l rend="indent">Flags of hope and victory.</l>
 </lg>
 
 <closer><signed><name>DOROTHY MARGARET STUART</name></signed>
@@ -1005,16 +1004,16 @@ swords.</l>
 
 <lg type="stanza">
 <l>ENGLAND, in this great fight to which you go</l>
-<l rend="inline">Because, where Honour calls you, go you must,</l>
+<l rend="indent">Because, where Honour calls you, go you must,</l>
 <l>Be glad, whatever comes, at least to know</l>
-<l rend="inline">You have your quarrel just.</l>
+<l rend="indent">You have your quarrel just.</l>
 </lg>
 
 <lg type="stanza">
 <l>Peace was your care; before the nations' bar</l>
-<l rend="inline">Her cause you pleaded and her ends you sought;</l>
+<l rend="indent">Her cause you pleaded and her ends you sought;</l>
 <l>But not for her sake, being what you are,</l>
-<l rend="inline">Could you be bribed and bought.</l>
+<l rend="indent">Could you be bribed and bought.</l>
 </lg>
 
 <lg type="stanza">
@@ -1026,9 +1025,9 @@ swords.</l>
 
 <lg type="stanza">
 <l>Forth, then, to front that peril of the deep</l>
-<l rend="inline">With smiling lips and in your eyes the light,</l>
+<l rend="indent">With smiling lips and in your eyes the light,</l>
 <l>Steadfast and confident, of those who keep</l>
-<l rend="inline">Their storied scutcheon bright.</l>
+<l rend="indent">Their storied scutcheon bright.</l>
 </lg>
 
 
@@ -1036,36 +1035,36 @@ swords.</l>
 
 <lg type="stanza">
 <l>And we, whose burden is to watch and wait--</l>
-<l rend="inline">High-hearted ever, strong in faith and prayer,</l>
+<l rend="indent">High-hearted ever, strong in faith and prayer,</l>
 <l>We ask what offering we may consecrate,</l>
-<l rend="inline">What humble service share.</l>
+<l rend="indent">What humble service share.</l>
 </lg>
 
 <lg type="stanza">
 <l>To steel our souls against the lust of ease ;</l>
-<l rend="inline">To find our welfare in the common good;</l>
+<l rend="indent">To find our welfare in the common good;</l>
 <l>To hold together, merging all degrees</l>
-<l rend="inline">In one wide brotherhood ;--</l></lg>
+<l rend="indent">In one wide brotherhood ;--</l></lg>
 
 <lg type="stanza">
 <l>To teach that he who saves himself is lost ;</l>
-<l rend="inline">To bear in silence though our hearts may bleed ;</l>
+<l rend="indent">To bear in silence though our hearts may bleed ;</l>
 <l>To spend ourselves and never count the cost,</l>
-<l rend="inline">For others' greater need;--</l>
+<l rend="indent">For others' greater need;--</l>
 </lg>
 
 <lg type="stanza">
 <l>To go our quiet ways, subdued and sane;</l>
-<l rend="inline">To hush all vulgar clamour of the street;</l>
+<l rend="indent">To hush all vulgar clamour of the street;</l>
 <l>With level calm to face alike the strain</l>
-<l rend="inline">Of triumph or defeat;--</l>
+<l rend="indent">Of triumph or defeat;--</l>
 </lg>
 
 <lg type="stanza">
 <l>This be our part, for so we serve you best,</l>
-<l rend="inline">So best confirm their prowess and their pride,</l>
+<l rend="indent">So best confirm their prowess and their pride,</l>
 <l>Your warrior sons, to whom in this high test</l>
-<l rend="inline">Our fortunes we confide.</l>
+<l rend="indent">Our fortunes we confide.</l>
 </lg>
 
 <closer><signed><name>SIR OWEN SEAMAN</name></signed>
@@ -1079,55 +1078,55 @@ swords.</l>
 
 <lg type="stanza">
 <l>GRIM the struggle we've to face!</l>
-<l rend="inline">Setting now our task about,</l>
+<l rend="indent">Setting now our task about,</l>
 <l>As becomes our name and race,</l>
-<l rend="inline">Grimly we must fight it out.</l>
+<l rend="indent">Grimly we must fight it out.</l>
 <l>Not elated, not depressed,</l>
-<l rend="inline">Equanimity our rule;</l>
+<l rend="indent">Equanimity our rule;</l>
 <l>Through all happenings self-possessed,</l>
-<l rend="inline">Silent, strong, determined, cool.</l>
+<l rend="indent">Silent, strong, determined, cool.</l>
 </lg>
 
 <lg type="stanza">
 <l>Came the challenge from the foe ;</l>
-<l rend="inline">Naught we did to court this fight;</l>
+<l rend="indent">Naught we did to court this fight;</l>
 <l>But since they will have it so,</l>
-<l rend="inline">Let them have--what they invite.</l>
+<l rend="indent">Let them have--what they invite.</l>
 <l>For a Europe's flouted laws</l>
-<l rend="inline">We the sword reluctant drew,</l>
+<l rend="indent">We the sword reluctant drew,</l>
 <l>Righteous in a righteous cause:</l>
-<l rend="inline">Britons, we must see it through.</l>
+<l rend="indent">Britons, we must see it through.</l>
 </lg>
 
 <pb n="THE WAR CRY                                      29"/>
 
 <lg type="stanza">
 <l>Wooden walls once held these strands</l>
-<l rend="inline">Safe from every foe that came.</l>
+<l rend="indent">Safe from every foe that came.</l>
 <l>Times are changed; but now our land's</l>
-<l rend="inline">Iron walls shall do the same.</l>
+<l rend="indent">Iron walls shall do the same.</l>
 <l>Times are changed--our sailors, nay !</l>
-<l rend="inline">What their sea-sires were they are.</l>
+<l rend="indent">What their sea-sires were they are.</l>
 <l>Drake's and Nelson's heart to-day</l>
-<l rend="inline">Beats in every British tar.</l>
+<l rend="indent">Beats in every British tar.</l>
 </lg>
 
 <lg type="stanza">
 <l>While they range the Northern deep,</l>
-<l rend="inline">Lies our sea-girt isle secure;</l>
+<l rend="indent">Lies our sea-girt isle secure;</l>
 <l>Britain's honour's theirs to keep ;</l>
-<l rend="inline">Trust we them to keep it sure.</l>
+<l rend="indent">Trust we them to keep it sure.</l>
 <l>What though random mine shall deal</l>
-<l rend="inline">Here and there its dastard blow,</l>
+<l rend="indent">Here and there its dastard blow,</l>
 <l>They'll avenge each shattered keel</l>
-<l rend="inline">Twice, thrice over, on the foe.</l>
+<l rend="indent">Twice, thrice over, on the foe.</l>
 </lg>
 
 <lg type="stanza">
 <l><hi rend="italic">Came the challenge from the foe;</hi></l>
-<l rend="inline"><hi rend="italic">Naught we did to court this fight;</hi></l>
+<l rend="indent"><hi rend="italic">Naught we did to court this fight;</hi></l>
 <l><hi rend="italic">But since they will have it so,</hi></l>
-<l rend="inline"><hi rend="italic">Let them have--what they invite.</hi></l>
+<l rend="indent"><hi rend="italic">Let them have--what they invite.</hi></l>
 </lg>
 
 
@@ -1153,30 +1152,30 @@ through!</hi></l>
 
 <lg type="stanza">
 <l>BECAUSE for once the sword broke in her hand,</l>
-<l rend="inline">The words she spoke seemed perished for a space:</l>
+<l rend="indent">The words she spoke seemed perished for a space:</l>
 <l>All wrong was brazen, and in every land</l>
-<l rend="inline">The tyrants walked abroad with naked face.</l>
+<l rend="indent">The tyrants walked abroad with naked face.</l>
 </lg>
 
 <lg type="stanza">
 <l>The waters turned to blood, as rose the Star</l>
-<l rend="inline">Of evil fate denying all release.</l>
+<l rend="indent">Of evil fate denying all release.</l>
 <l>The rulers smote the feeble crying " War!"</l>
-<l rend="inline">The usurers robbed the naked crying "Peace!"</l>
+<l rend="indent">The usurers robbed the naked crying "Peace!"</l>
 </lg>
 
 <lg type="stanza">
 <l>And her own feet were caught in nets of gold,</l>
-<l rend="inline">And her own soul profaned by sects that squirm,</l>
+<l rend="indent">And her own soul profaned by sects that squirm,</l>
 <l>And little men climbed her high seats and sold</l>
-<l rend="inline">Her honour to the vulture and the worm.</l>
+<l rend="indent">Her honour to the vulture and the worm.</l>
 </lg>
 
 <lg type="stanza">
 <l>And she seemed broken and they thought her dead,</l>
-<l rend="inline">The Over-Men, so brave against the weak.</l>
+<l rend="indent">The Over-Men, so brave against the weak.</l>
 <l>Has your last word of sophistry been said,</l>
-<l rend="inline">O cult of slaves? Then it is hers to speak</l>
+<l rend="indent">O cult of slaves? Then it is hers to speak</l>
 </lg>
 
 
@@ -1184,9 +1183,9 @@ through!</hi></l>
 
 <lg type="stanza">
 <l>Clear the slow mists from her half-darkened eyes,</l>
-<l rend="inline">As slow mists parted over Valmy fell,</l>
+<l rend="indent">As slow mists parted over Valmy fell,</l>
 <l>And once again her hands in high surprise</l>
-<l rend="inline">Take hold upon the battlements of Hell.</l>
+<l rend="indent">Take hold upon the battlements of Hell.</l>
 </lg>
 
 <closer><signed><name>CECIL CHESTERTON</name></signed>
@@ -1337,30 +1336,30 @@ SUNDAY, AUGUST 9, 1914</head>
 
 <lg type="stanza">
 <l>LORD, from this storm-awakened isle,</l>
-<l rend="inline">At this dark hour on land and sea,</l>
+<l rend="indent">At this dark hour on land and sea,</l>
 <l>'Twixt bugle-call and Sabbath bell</l>
-<l rend="inline">Go up our prayers to Thee.</l>
+<l rend="indent">Go up our prayers to Thee.</l>
 </lg>
 
 <lg type="stanza">
 <l>For the long years of sanctuary</l>
-<l rend="inline">We tender thanks, O Lord!</l>
+<l rend="indent">We tender thanks, O Lord!</l>
 <l>For peaceful fields and sacred hearths,</l>
-<l rend="inline">And the unused sword.</l>
+<l rend="indent">And the unused sword.</l>
 </lg>
 
 <lg type="stanza">
 <l>Thine be the praise!    And now when quakes</l>
-<l rend="inline">The world, and trials come,</l>
+<l rend="indent">The world, and trials come,</l>
 <l>O God ! preserve inviolate</l>
-<l rend="inline">Our ancient island Home!</l>
+<l rend="indent">Our ancient island Home!</l>
 </lg>
 
 <lg type="stanza">
 <l>O ! had we died untried, unproved,</l>
-<l rend="inline">And missed this hour of stress !--</l>
+<l rend="indent">And missed this hour of stress !--</l>
 <l>Praise be to God for this last gift,</l>
-<l rend="inline">The joy of steadfastness!</l>
+<l rend="indent">The joy of steadfastness!</l>
 </lg>
 
 
@@ -1368,16 +1367,16 @@ SUNDAY, AUGUST 9, 1914</head>
 
 <lg type="stanza">
 <l>Where'er our people be to-night,</l>
-<l rend="inline">Our husbands or our sons,</l>
+<l rend="indent">Our husbands or our sons,</l>
 <l>Tossed on the thunder-bolted deep,</l>
-<l rend="inline">Or bivouacked by the guns;</l>
+<l rend="indent">Or bivouacked by the guns;</l>
 </lg>
 
 <lg type="stanza">
 <l>Treading the mire of foreign lands,</l>
-<l rend="inline">Or guarding our native coasts,</l>
+<l rend="indent">Or guarding our native coasts,</l>
 <l>Be Thou their Shield and Comforter,</l>
-<l rend="inline">We pray Thee, God of Hosts!</l>
+<l rend="indent">We pray Thee, God of Hosts!</l>
 </lg>
 
 <closer><signed><name>NEIL MUNRO</name></signed>
@@ -1391,27 +1390,27 @@ SUNDAY, AUGUST 9, 1914</head>
 
 <lg type="stanza">
 <l>WHO draws to-day the unrighteous sword ?</l>
-<l rend="inline">Behold him stand, the Man Forsworn,</l>
+<l rend="indent">Behold him stand, the Man Forsworn,</l>
 <l>The warrior of the faithless word,</l>
-<l rend="inline">The pledge disowned, the covenant torn,</l>
+<l rend="indent">The pledge disowned, the covenant torn,</l>
 <l>Who prates of honour, truth, and trust,</l>
 <l>Ere he profanes them in the dust.</l>
 </lg>
 
 <lg type="stanza">
 <l>When to yon fabric grey in fame,</l>
-<l rend="inline">That Windsor lifts against the sky,</l>
+<l rend="indent">That Windsor lifts against the sky,</l>
 <l>In martial cloak the Kaiser came,</l>
-<l rend="inline">We did not dream it cloaked a spy ;</l>
+<l rend="indent">We did not dream it cloaked a spy ;</l>
 <l>Yet there he sat, as now we know,</l>
 <l>A guest, a kinsman, and a foe.</l>
 </lg>
 
 <lg type="stanza">
 <l>France was a gallant foe and fair,</l>
-<l rend="inline">That looked us proudly in the face,</l>
+<l rend="indent">That looked us proudly in the face,</l>
 <l>With her frank eyes and freeborn air,</l>
-<l rend="inline">And valour half-concealed in grace.</l>
+<l rend="indent">And valour half-concealed in grace.</l>
 <l>Noblest of all with whom we strove,</l>
 <l>At last she gives us noble love.</l>
 </lg>
@@ -1420,36 +1419,36 @@ SUNDAY, AUGUST 9, 1914</head>
 
 <lg type="stanza">
 <l>But he that took our proffered hand,</l>
-<l rend="inline">Thinking to take our birthright too,</l>
+<l rend="indent">Thinking to take our birthright too,</l>
 <l>He, in this hospitable land,</l>
-<l rend="inline">Bore him as only dastards do.</l>
+<l rend="indent">Bore him as only dastards do.</l>
 <l>Here, where the Earth still nurtures men,</l>
 <l>His hand shall soil not ours again.</l>
 </lg>
 
 <lg type="stanza">
 <l>We know his people great and strong ;</l>
-<l rend="inline">On such as these we cast no slur;</l>
+<l rend="indent">On such as these we cast no slur;</l>
 <l>Our wonder is that they so long</l>
-<l rend="inline">Suffer ungalled his bit and spur.</l>
+<l rend="indent">Suffer ungalled his bit and spur.</l>
 <l>'Tis with no heart of joy that we</l>
 <l>Arise to smite them on the sea.</l>
 </lg>
 
 <lg type="stanza">
 <l>Glory we count of lesser worth</l>
-<l rend="inline">Than wife and babe and hearth and home;</l>
+<l rend="indent">Than wife and babe and hearth and home;</l>
 <l>Theirs is the mandate speeding forth</l>
-<l rend="inline">Our steps of thunder on the foam ;</l>
+<l rend="indent">Our steps of thunder on the foam ;</l>
 <l>For them we fight, for them we stand,</l>
 <l>Yea, and for faith 'twixt land and land.</l>
 </lg>
 
 <lg type="stanza">
 <l>You that have linked your might with ours,</l>
-<l rend="inline">To break his pride who breaks the laws,</l>
+<l rend="indent">To break his pride who breaks the laws,</l>
 <l>You wear to-day, 'mid perjured Powers,</l>
-<l rend="inline">The armour of a spotless cause;</l>
+<l rend="indent">The armour of a spotless cause;</l>
 
 <pb n="THE MAN FORSWORN                                43"/>
 
@@ -1459,27 +1458,27 @@ SUNDAY, AUGUST 9, 1914</head>
 
 <lg type="stanza">
 <l>From Baltic or Biscayan shores;</l>
-<l rend="inline">Where Loire to the Atlantic runs;</l>
+<l rend="indent">Where Loire to the Atlantic runs;</l>
 <l>Where Volga to the Caspian pours,</l>
-<l rend="inline">You have not poured in vain your sons.</l>
+<l rend="indent">You have not poured in vain your sons.</l>
 <l>From laughing lands of Rhone and Seine</l>
 <l>You have not poured your sons in vain.</l>
 </lg>
 
 <lg type="stanza">
 <l>Let us a League of Man proclaim</l>
-<l rend="inline">Against such knavery 'neath a crown</l>
+<l rend="indent">Against such knavery 'neath a crown</l>
 <l>As would be rightly held to shame</l>
-<l rend="inline">A swineherd and his fellow clown.</l>
+<l rend="indent">A swineherd and his fellow clown.</l>
 <l>Shall all the false and creeping things</l>
 <l>Find a last refuge among Kings?</l>
 </lg>
 
 <lg type="stanza">
 <l>At least on this unageing throne,</l>
-<l rend="inline">That baffles the long siege of Time,</l>
+<l rend="indent">That baffles the long siege of Time,</l>
 <l>We have a monarch of our own</l>
-<l rend="inline">To whom a crime is still a crime ;</l>
+<l rend="indent">To whom a crime is still a crime ;</l>
 <l>And pure in aim there sits afar</l>
 <l>The patient, silent, storm-worn Czar.</l>
 </lg>
@@ -1489,27 +1488,27 @@ SUNDAY, AUGUST 9, 1914</head>
 
 <lg type="stanza">
 <l>For one sole mortal it remained,</l>
-<l rend="inline">One rash insulter of the Earth,</l>
+<l rend="indent">One rash insulter of the Earth,</l>
 <l>To teach the world wherein he reigned</l>
-<l rend="inline">How much a Kaiser's word is worth.</l>
+<l rend="indent">How much a Kaiser's word is worth.</l>
 <l>A Kaiser's word, a Caitiffs vow!</l>
 <l>Well have we learned their value now.</l>
 </lg>
 
 <lg type="stanza">
 <l>Over the bland and kindly Day,</l>
-<l rend="inline">Unseasonable Night he flings;</l>
+<l rend="indent">Unseasonable Night he flings;</l>
 <l>Sinister darkness blear and grey,</l>
-<l rend="inline">A horror of malignant wings.</l>
+<l rend="indent">A horror of malignant wings.</l>
 <l>Pain and red havoc he bestows</l>
 <l>On them that only asked repose.</l>
 </lg>
 
 <lg type="stanza">
 <l>He is not hungrier for your lands</l>
-<l rend="inline">Than he is thirsty for your seas.</l>
+<l rend="indent">Than he is thirsty for your seas.</l>
 <l>Smite him with all your thunderous hands,</l>
-<l rend="inline">Fight him and smite him to his knees--</l>
+<l rend="indent">Fight him and smite him to his knees--</l>
 <l>You that on him and falsehood hurled</l>
 <l>Shall guard the fortress of the world.</l>
 </lg>
@@ -1558,21 +1557,21 @@ course of formation.]</p>
 
 <lg type="stanza">
 <l>THE Summer wanes : and, 'Erbert, in the haunts</l>
-<l rend="inline">That have been hallowed by your yearly favour</l>
+<l rend="indent">That have been hallowed by your yearly favour</l>
 <l>The "fag" that you affect no longer flaunts</l>
-<l rend="inline">Its unattractive savour.</l>
+<l rend="indent">Its unattractive savour.</l>
 </lg>
 
 <lg type="stanza">
 <l>Your bare but lustrous poll, your lurid ties,</l>
-<l rend="inline">The wond'rous garb you choose for your adorning</l>
+<l rend="indent">The wond'rous garb you choose for your adorning</l>
 <l>At Margate gladden no expectant eyes;</l>
-<l rend="inline">And Southend is in mourning.</l>
+<l rend="indent">And Southend is in mourning.</l>
 </lg>
 
 <lg type="stanza">
 <l>The rail you used, in your adjacent park,</l>
-<l rend="inline">Whereon to perch, that girls might glance in gladness,</l>
+<l rend="indent">Whereon to perch, that girls might glance in gladness,</l>
 <l>Stands tenantless (and they, I may remark, Show little trace of sadness).</l></lg>
 
 
@@ -1580,37 +1579,37 @@ course of formation.]</p>
 
 <lg type="stanza">
 <l>Your expert views of 'Ayward, 'Obbs, and 'Itch</l>
-<l rend="inline">Disturb no more the matutinal travel;</l>
+<l rend="indent">Disturb no more the matutinal travel;</l>
 <l>And "form"--you scarcely know which horse is which--</l>
-<l rend="inline">No longer you unravel.</l>
+<l rend="indent">No longer you unravel.</l>
 </lg>
 
 <lg type="stanza">
 <l>You have been, more or less, an ornament,</l>
-<l rend="inline">Too precious for the strenuous endeavour</l>
+<l rend="indent">Too precious for the strenuous endeavour</l>
 <l>Of those on getting goals, or wickets, bent;</l>
-<l rend="inline">And not unduly clever.</l>
+<l rend="indent">And not unduly clever.</l>
 </lg>
 
 <lg type="stanza">
 <l>We held you as a nuisance at your worst,</l>
-<l rend="inline">And at your best a useless sort of blighter,</l>
+<l rend="indent">And at your best a useless sort of blighter,</l>
 <l>Never imagining that you might burst,</l>
-<l rend="inline">Some day, into a fighter.</l>
+<l rend="indent">Some day, into a fighter.</l>
 </lg>
 
 <lg type="stanza">
 <l>We've heard you call on God to save the King,</l>
-<l rend="inline">And shout the " Marseillaise "--somewhat shyly--</l>
+<l rend="indent">And shout the " Marseillaise "--somewhat shyly--</l>
 <l>But, still, your martial ardour was a thing</l>
-<l rend="inline">We did not value highly.</l>
+<l rend="indent">We did not value highly.</l>
 </lg>
 
 <lg type="stanza">
 <l>Yet, in the altered circumstances, 'Erb,</l>
-<l rend="inline">We feel that in our world there's something lacking--</l>
+<l rend="indent">We feel that in our world there's something lacking--</l>
 <l>The place has grown more sombre, less superb,</l>
-<l rend="inline">Since you have started packing!</l>
+<l rend="indent">Since you have started packing!</l>
 </lg>
 
 
@@ -1618,16 +1617,16 @@ course of formation.]</p>
 
 <lg type="stanza">
 <l>We held your thews and sinews rather cheap,</l>
-<l rend="inline">Knowing you'd never been inclined to use them ;</l>
+<l rend="indent">Knowing you'd never been inclined to use them ;</l>
 <l>And might, had not emotion run so deep.</l>
-<l rend="inline">Have ventured to refuse them:</l>
+<l rend="indent">Have ventured to refuse them:</l>
 </lg>
 
 <lg type="stanza">
 <l>But--here's where our apology comes in--</l>
-<l rend="inline">The hour of need was all we lacked to try you !</l>
+<l rend="indent">The hour of need was all we lacked to try you !</l>
 <l>So, 'Erb, my hero, march along and win:</l>
-<l rend="inline">The God of Wars stand by you!</l>
+<l rend="indent">The God of Wars stand by you!</l>
 </lg>
 
 <closer><signed><name>PHILIP BUSSY</name></signed>
@@ -1709,39 +1708,39 @@ course of formation.]</p>
 
 <lg type="stanza">
 <l>FROM the undiscovered deep</l>
-<l rend="inline">Where the blessed lie at ease--</l>
+<l rend="indent">Where the blessed lie at ease--</l>
 <l>Since the ancient navies keep</l>
-<l rend="inline">Empire of the heavenly seas--</l>
-<l rend="inline">Back they come, the mighty dead,</l>
-<l rend="inline">Quick to serve where they have led.</l>
+<l rend="indent">Empire of the heavenly seas--</l>
+<l rend="indent">Back they come, the mighty dead,</l>
+<l rend="indent">Quick to serve where they have led.</l>
 </lg>
 
 <lg type="stanza">
 <l>Rushing on the homeward gale,</l>
-<l rend="inline">Swift they come, to seek their place</l>
+<l rend="indent">Swift they come, to seek their place</l>
 <l>Where the grey flotillas sail,</l>
-<l rend="inline">Where the children of their race</l>
-<l rend="inline">Now against the foe maintain</l>
-<l rend="inline">All they gave their lives to gain.</l>
+<l rend="indent">Where the children of their race</l>
+<l rend="indent">Now against the foe maintain</l>
+<l rend="indent">All they gave their lives to gain.</l>
 </lg>
 
 <lg type="stanza">
 <l>Rank on rank, the admirals</l>
-<l rend="inline">Rally to their old commands ;</l>
+<l rend="indent">Rally to their old commands ;</l>
 <l>Where the crash of battle falls,</l>
-<l rend="inline">There the one-armed hero stands.</l>
-<l rend="inline">Loud upon his phantom mast</l>
-<l rend="inline">Speak the signals of the past.</l>
+<l rend="indent">There the one-armed hero stands.</l>
+<l rend="indent">Loud upon his phantom mast</l>
+<l rend="indent">Speak the signals of the past.</l>
 </lg>
 
 <pb n="52                                THE NAVAL RESERVE"/>
 
 <lg type="stanza">
 <l>Where upon the friendly wave</l>
-<l rend="inline">Stand our squadrons as of old,</l>
+<l rend="indent">Stand our squadrons as of old,</l>
 <l>Where the lonely deed and brave</l>
-<l rend="inline">Shall the ancient torch uphold--</l>
-<l rend="inline">Strive for England, side by side,</l>
+<l rend="indent">Shall the ancient torch uphold--</l>
+<l rend="indent">Strive for England, side by side,</l>
 <l>Those who live and those who died.</l>
 </lg>
 
@@ -1759,28 +1758,28 @@ course of formation.]</p>
 <l>LIVED in days of old a nation</l>
 <l>Stark and sturdy, valiant-hearted,</l>
 <l>Rich in honest, kindly manhood,</l>
-<l rend="inline">Rich in tender womanhood;</l>
+<l rend="indent">Rich in tender womanhood;</l>
 </lg>
 
 <lg type="stanza">
 <l>Rich in deft and cunning craftsmen,</l>
 <l>Singers mighty and melodious,</l>
 <l>Thinkers of sublimest stature--</l>
-<l rend="inline">Masters of the undaunted mind;</l>
+<l rend="indent">Masters of the undaunted mind;</l>
 </lg>
 
 <lg type="stanza">
 <l>Rich--yea, richest--in titanic</l>
 <l>Wondrous harmony-compellers,</l>
 <l>Weaving descants world-enthralling,</l>
-<l rend="inline">Echoes of the voice of God.</l>
+<l rend="indent">Echoes of the voice of God.</l>
 </lg>
 
 <lg type="stanza">
 <l>But, alas! and in an evil</l>
 <l>Day for them, this glorious people</l>
 <l>Went a-wandering after idols,</l>
-<l rend="inline">Went a-worshipping false gods.</l>
+<l rend="indent">Went a-worshipping false gods.</l>
 </lg>
 
 <pb n="54             ICONOCLASTES"/>
@@ -1789,35 +1788,35 @@ course of formation.]</p>
 <l>One grim Idol in especial,</l>
 <l>One colossal Moloch-image,</l>
 <l>Moulded of blood-tempered iron,</l>
-<l rend="inline">They erected in their midst.</l>
+<l rend="indent">They erected in their midst.</l>
 </lg>
 
 <lg type="stanza">
 <l>Dark and sinister its aspect,</l>
 <l>Rigid, menacing, inhuman,</l>
 <l>From its swooping helmet-eagle</l>
-<l rend="inline">To its trailing sabre-tip.</l>
+<l rend="indent">To its trailing sabre-tip.</l>
 </lg>
 
 <lg type="stanza">
 <l>Shaggy brows o'erhung and shaded</l>
 <l>Eyes of cynical clairvoyance</l>
 <l>Into all the baser instincts</l>
-<l rend="inline">Of the shivering, thrall-bound soul:</l>
+<l rend="indent">Of the shivering, thrall-bound soul:</l>
 </lg>
 
 <lg type="stanza">
 <l>Stone-blind to the far horizons</l>
 <l>Of the aspiring human spirit:</l>
 <l>Stone-blind to the dawning promise</l>
-<l rend="inline">Of a wiser, happier age.</l>
+<l rend="indent">Of a wiser, happier age.</l>
 </lg>
 
 <lg type="stanza">
 <l>Rose the bullet-head defiant</l>
 <l>From aggressive, padded shoulders ;</l>
 <l>On the breast a steely corset</l>
-<l rend="inline">Bastioned a stony heart.</l>
+<l rend="indent">Bastioned a stony heart.</l>
 </lg>
 
 <pb n="ICONOCLASTES                       55"/>
@@ -1826,21 +1825,21 @@ course of formation.]</p>
 <l>Planted firm on mighty jack-boots</l>
 <l>Stood the rugged, rough-hewn image--</l>
 <l>Seven-league jack-boots, swift to trample</l>
-<l rend="inline">Homes, and hearts, and plighted faith.</l>
+<l rend="indent">Homes, and hearts, and plighted faith.</l>
 </lg>
 
 <lg type="stanza">
 <l>Once this god--so ran the legend--</l>
 <l>Led his chosen folk to triumph--</l>
 <l>Triumph, dear-bought, triumph tragic,</l>
-<l rend="inline">Yet resplendent in its day.</l>
+<l rend="indent">Yet resplendent in its day.</l>
 </lg>
 
 <lg type="stanza">
 <l>Whereupon the people, dazzled</l>
 <l>By his blood-red blaze of glory,</l>
 <l>Saw in him a Teuton Saviour,</l>
-<l rend="inline">Crucifying, not crucified:</l>
+<l rend="indent">Crucifying, not crucified:</l>
 </lg>
 
 <lg type="stanza">
@@ -1854,7 +1853,7 @@ course of formation.]</p>
 <l>Hierarchies of priests before him</l>
 <l>Moved through ponderous <hi rend="italic">Kriegs-Manöver</hi>,</l>
 <l>Headed by the Archimandrite</l>
-<l rend="inline">Of the far-famed Mailëd Fist.</l>
+<l rend="indent">Of the far-famed Mailëd Fist.</l>
 </lg>
 
 <pb n="56                                      ICONOCLASTES"/>
@@ -1863,28 +1862,28 @@ course of formation.]</p>
 <l>O'er the land his spirit brooded :</l>
 <l><hi rend="italic">Renommieren, Schwadronieren</hi></l>
 <l>Were accounted saving graces,</l>
-<l rend="inline">And heel-clicking <hi rend="italic">Schneidigkeit</hi>.</l>
+<l rend="indent">And heel-clicking <hi rend="italic">Schneidigkeit</hi>.</l>
 </lg>
 
 <lg type="stanza">
 <l>Year by year, in huge battalions,</l>
 <l>Were the young men of the nation</l>
 <l>At his altar consecrated</l>
-<l rend="inline">To a soulless slavery;</l>
+<l rend="indent">To a soulless slavery;</l>
 </lg>
 
 <lg type="stanza">
 <l>While on the o'erburdened ocean</l>
 <l>Steel-clad monsters hurtled, thundering,</l>
 <l>Through unhallowed demon-dances,</l>
-<l rend="inline">To propitiate his ghost.</l>
+<l rend="indent">To propitiate his ghost.</l>
 </lg>
 
 <lg type="stanza">
 <l>Nor on his own people only</l>
 <l>Weighed his worship like a nightmare--</l>
 <l>All the nations needs must pay him</l>
-<l rend="inline">Tribute of their youth and strength.</l>
+<l rend="indent">Tribute of their youth and strength.</l>
 </lg>
 
 <lg type="stanza">
@@ -1914,14 +1913,14 @@ course of formation.]</p>
 <l>Saying, " Let us smash the Idol,</l>
 <l>Pulverize the Moloch-image,</l>
 <l>Exorcize the accursëd vampire--</l>
-<l rend="inline">From its menace free the world:</l>
+<l rend="indent">From its menace free the world:</l>
 </lg>
 
 <lg type="stanza">
 <l>" Free ourselves, and free the noble,</l>
 <l>Richly dowered, <hi rend="italic">gemütlich</hi> nation,</l>
 <l>Doomed by some malign enchantment</l>
-<l rend="inline">To this dire idolatry:</l>
+<l rend="indent">To this dire idolatry:</l>
 </lg>
 
 <lg type="stanza">
@@ -1954,10 +1953,10 @@ course of formation.]</p>
 <l>With her head against the door,</l>
 <l>For the man that's called to leave her,</l>
 <l>--God have pity on the poor!</l>
-<l rend="inline">But it's beat, drums, beat,</l>
-<l rend="inline">While the lads march down the street,</l>
-<l rend="inline">And it's blow, trumpets, blow,</l>
-<l rend="inline">Keep your tears until they go</l>
+<l rend="indent">But it's beat, drums, beat,</l>
+<l rend="indent">While the lads march down the street,</l>
+<l rend="indent">And it's blow, trumpets, blow,</l>
+<l rend="indent">Keep your tears until they go</l>
 </lg>
 
 <lg type="stanza">
@@ -1965,10 +1964,10 @@ course of formation.]</p>
 <l>That march along and shout,</l>
 <l>For it's fine to play at soldiers</l>
 <l>Now their fathers are called out.</l>
-<l rend="inline">So it's beat, drums, beat;</l>
-<l rend="inline">But who'll find them food to eat ?</l>
-<l rend="inline">And it's blow, trumpets, blow,</l>
-<l rend="inline">Ah ! the children little know.</l>
+<l rend="indent">So it's beat, drums, beat;</l>
+<l rend="indent">But who'll find them food to eat ?</l>
+<l rend="indent">And it's blow, trumpets, blow,</l>
+<l rend="indent">Ah ! the children little know.</l>
 </lg>
 
 
@@ -1979,10 +1978,10 @@ course of formation.]</p>
 <l>For the last look of her son,</l>
 <l>A worn poor widow woman,</l>
 <l>And he her only one.</l>
-<l rend="inline">But it's beat; drums, beat,</l>
-<l rend="inline">Though God knows when we shall meet;</l>
-<l rend="inline">And it's blow, trumpets, blow,</l>
-<l rend="inline">We must smile and cheer them so.</l>
+<l rend="indent">But it's beat; drums, beat,</l>
+<l rend="indent">Though God knows when we shall meet;</l>
+<l rend="indent">And it's blow, trumpets, blow,</l>
+<l rend="indent">We must smile and cheer them so.</l>
 </lg>
 
 <lg type="stanza">
@@ -1990,11 +1989,11 @@ course of formation.]</p>
 <l>For she thinks a war is grand,</l>
 <l>And it's fine to see the lads pass,</l>
 <l>And it's fine to hear the band.</l>
-<l rend="inline">So it's beat, drums, beat,</l>
-<l rend="inline">To the fall of many feet ;</l>
-<l rend="inline">And it's blow, trumpets, blow,</l>
-<l rend="inline">God go with you where you go</l>
-<l rend="inline">To the war.</l>
+<l rend="indent">So it's beat, drums, beat,</l>
+<l rend="indent">To the fall of many feet ;</l>
+<l rend="indent">And it's blow, trumpets, blow,</l>
+<l rend="indent">God go with you where you go</l>
+<l rend="indent">To the war.</l>
 </lg>
 
 <closer><signed><name>W.M. LETTS</name></signed>
@@ -2010,18 +2009,18 @@ course of formation.]</p>
 
 <lg type="stanza">
 <l>You that have been first in war</l>
-<l rend="inline">To meet that menace of the sea,</l>
+<l rend="indent">To meet that menace of the sea,</l>
 <l>The sunken craft that ne'er before</l>
-<l rend="inline">Hath tried death's instrument to be,--</l>
+<l rend="indent">Hath tried death's instrument to be,--</l>
 <l>You have won honour and success</l>
 <l>By daring and by skilfulness.</l>
 </lg>
 
 <lg type="stanza">
 <l>Daring is yours by pure descent</l>
-<l rend="inline">From heroes of an earlier age,</l>
+<l rend="indent">From heroes of an earlier age,</l>
 <l>Who blood and treasure freely spent</l>
-<l rend="inline">To make the sea our heritage,</l>
+<l rend="indent">To make the sea our heritage,</l>
 <l>Who faced the cannon and the steel,</l>
 <l>And lived and died for England's weal.</l>
 </lg>
@@ -2040,9 +2039,9 @@ course of formation.]</p>
 
 <lg type="stanza">
 <l>Yours then is England's love and praise,</l>
-<l rend="inline">O cruiser of the honoured name !</l>
+<l rend="indent">O cruiser of the honoured name !</l>
 <l>For whatsoever future days</l>
-<l rend="inline">May bring of peril or of fame,</l>
+<l rend="indent">May bring of peril or of fame,</l>
 <l>In your first battle on the sea</l>
 <l>You win your immortality.</l>
 </lg>
@@ -2059,25 +2058,25 @@ course of formation.]</p>
 <lg type="stanza">
 <l>SURGEON her, world !    Let myriad scalpels bright</l>
 <l>Flash in her sores with all thy bitter might,</l>
-<l rend="inline">So that their aching cease.</l>
+<l rend="indent">So that their aching cease.</l>
 <l>Cut clean the cursed canker that doth foul</l>
 <l>Her spirit; tent and cleanse her sorry soul,</l>
-<l rend="inline">And give her bosom peace.</l>
+<l rend="indent">And give her bosom peace.</l>
 </lg>
 
 <lg type="stanza">
 <l>We do not smite a nation, but a pest;</l>
 <l>Humanity makes reasonable quest</l>
-<l rend="inline">To free a noble slave.</l>
+<l rend="indent">To free a noble slave.</l>
 <l>Full deep she groans and faints, and fainting feels</l>
 <l>Archaic torture of a tyrant's heels</l>
-<l rend="inline">Grinding her to her grave.</l>
+<l rend="indent">Grinding her to her grave.</l>
 </lg>
 
 <lg type="stanza">
 <l>Possessed of devils now, mad with her woes,</l>
 <l>She wounds the world and turns her friends to foes ;</l>
-<l rend="inline">But cast her devils down</l>
+<l rend="indent">But cast her devils down</l>
 <l>And broken, humbled, contrite, healed and sane</l>
 <l>Oh may she shine her glorious self again--</l>
 <l>Pearl in Europa's crown.</l>
@@ -2088,7 +2087,7 @@ course of formation.]</p>
 <lg type="stanza">
 <l>And they accurs'd, who bred this in her heart,</l>
 <l>Shall from the councils of mankind depart,</l>
-<l rend="inline">While over sea and shore,</l>
+<l rend="indent">While over sea and shore,</l>
 <l>The silver trumpets of the sunrise cry</l>
 <l>That earth pursue her solemn destiny</l>
 <l>By blood and iron no more.</l></lg>
@@ -2104,23 +2103,23 @@ course of formation.]</p>
 
 <lg type="stanza">
 <l>LAD, with the merry smile and the eyes</l>
-<l rend="inline">Quick as a hawk's and clear as the day,</l>
+<l rend="indent">Quick as a hawk's and clear as the day,</l>
 <l>You, who have counted the game the prize,</l>
-<l rend="inline">Here is the game of games to play.</l>
-<l rend="inline">Never a goal--the captains say-—</l>
+<l rend="indent">Here is the game of games to play.</l>
+<l rend="indent">Never a goal--the captains say-—</l>
 <l>Matches the one that's needed now:</l>
-<l rend="inline">Put the old blazer and cap away--</l>
+<l rend="indent">Put the old blazer and cap away--</l>
 <l>England's colours await your brow.</l>
 </lg>
 
 <lg type="stanza">
 <l>Man, with the square-set jaws and chin,</l>
-<l rend="inline">Always, it seems, you have moved to your end</l>
+<l rend="indent">Always, it seems, you have moved to your end</l>
 <l>Sure of yourself, intent to win</l>
-<l rend="inline">Fame and wealth and the power to bend--</l>
-<l rend="inline">All that you've made you're called to spend,</l>
+<l rend="indent">Fame and wealth and the power to bend--</l>
+<l rend="indent">All that you've made you're called to spend,</l>
 <l>All that you've sought you're asked to miss—</l>
-<l rend="inline">What's ambition compared with this</l>
+<l rend="indent">What's ambition compared with this</l>
 <l>That a man lay down his life for his friend?</l>
 </lg>
 
@@ -2128,51 +2127,51 @@ course of formation.]</p>
 
 <lg type="stanza">
 <l>Dreamer, oft in your glancing mind</l>
-<l rend="inline">Brave with drinking the faerie brew,</l>
+<l rend="indent">Brave with drinking the faerie brew,</l>
 <l>You have smitten the ogres blind</l>
-<l rend="inline">When the fair Princess cried out to you.</l>
-<l rend="inline">Dreamer, what if your dreams are true ?</l>
+<l rend="indent">When the fair Princess cried out to you.</l>
+<l rend="indent">Dreamer, what if your dreams are true ?</l>
 <l>Yonder's a bayonet, magical, since</l>
-<l rend="inline">Him whom it strikes, the blade sinks through--</l>
+<l rend="indent">Him whom it strikes, the blade sinks through--</l>
 <l>Take it and strike for England, Prince!</l>
 </lg>
 
 <lg type="stanza">
 <l>Friend with the face so hard and worn,</l>
-<l rend="inline">The Devil and you have sometime met,</l>
+<l rend="indent">The Devil and you have sometime met,</l>
 <l>And now you curse the day you were born,</l>
-<l rend="inline">And want one boon of God--to forget.</l>
-<l rend="inline">Ah, but I know, and yet--and yet--</l>
+<l rend="indent">And want one boon of God--to forget.</l>
+<l rend="indent">Ah, but I know, and yet--and yet--</l>
 <l>I think, out there in the shrapnel spray,</l>
-<l rend="inline">You shall stand up and not regret</l>
+<l rend="indent">You shall stand up and not regret</l>
 <l>The Life that gave so splendid a day.</l>
 </lg>
 
 <lg type="stanza">
 <l>Lover of ease, you've lolled and forgot</l>
-<l rend="inline">All the things that you meant to right;</l>
+<l rend="indent">All the things that you meant to right;</l>
 <l>Life has been soft for you, has it not?</l>
-<l rend="inline">What offer does England make to-night?</l>
+<l rend="indent">What offer does England make to-night?</l>
 </lg>
 
 <pb n="THE CALL 67"/>
 
 <lg type="stanza">
 <l>This--to toil and to march and to fight</l>
-<l rend="inline">As never you've dreamed since your life began;</l>
+<l rend="indent">As never you've dreamed since your life began;</l>
 <l>This--to carry the steel-swept height,</l>
-<l rend="inline">This--to know that you've played the man!</l>
+<l rend="indent">This--to know that you've played the man!</l>
 </lg>
 
 <lg type="stanza">
 <l>Brothers, brothers, the time is short,</l>
-<l rend="inline">Nor soon again shall it so betide</l>
+<l rend="indent">Nor soon again shall it so betide</l>
 <l>That a man may pass from the common sort</l>
-<l rend="inline">Sudden and stand by the heroes' side.</l>
-<l rend="inline">Are there some that being named yet bide ?--</l>
+<l rend="indent">Sudden and stand by the heroes' side.</l>
+<l rend="indent">Are there some that being named yet bide ?--</l>
 <l>Hark once more to the clarion call--</l>
-<l rend="inline">Sounded by him who deathless died--</l>
-<l rend="inline">" This day England expects you all."</l>
+<l rend="indent">Sounded by him who deathless died--</l>
+<l rend="indent">" This day England expects you all."</l>
 </lg>
 
 <closer><signed><name>R.E. VERNÈDE</name></signed>
@@ -2186,30 +2185,30 @@ course of formation.]</p>
 
 <lg type="stanza">
 <l>AMAZING Monarch ! who at various times,</l>
-<l rend="inline">Posing as Europe's self-appointed saviour,</l>
+<l rend="indent">Posing as Europe's self-appointed saviour,</l>
 <l>Afforded copy for our ribald rhymes</l>
-<l rend="inline">By your behaviour;</l>
+<l rend="indent">By your behaviour;</l>
 </lg>
 
 <lg type="stanza">
 <l>We nursed no malice; nay, we thanked you much</l>
-<l rend="inline">Because your head-piece, swollen like a tumour,</l>
+<l rend="indent">Because your head-piece, swollen like a tumour,</l>
 <l>Lent to a dullish world the needed touch</l>
-<l rend="inline">Of saving humour.</l>
+<l rend="indent">Of saving humour.</l>
 </lg>
 
 <lg type="stanza">
 <l>What with your wardrobes stuffed with warrior gear,</l>
-<l rend="inline">Your gander-step parades, your prancing Prussians,</l>
+<l rend="indent">Your gander-step parades, your prancing Prussians,</l>
 <l>Your menaces that shocked the deafened sphere</l>
-<l rend="inline">With rude concussions;</l>
+<l rend="indent">With rude concussions;</l>
 </lg>
 
 <lg type="stanza">
 <l>Your fist that turned the pinkest rivals pale</l>
-<l rend="inline">Alike with sceptre, chisel, pen or palette,</l>
+<l rend="indent">Alike with sceptre, chisel, pen or palette,</l>
 <l>And could at any moment, gloved in mail,</l>
-<l rend="inline">Smite like a mallet;</l>
+<l rend="indent">Smite like a mallet;</l>
 </lg>
 
 
@@ -2217,45 +2216,45 @@ course of formation.]</p>
 
 <lg type="stanza">
 <l>Master of all the Arts, and, what was more,</l>
-<l rend="inline">Lord of the limelight blaze that let us know it--</l>
+<l rend="indent">Lord of the limelight blaze that let us know it--</l>
 <l>You seemed a gift designed on purpose for</l>
-<l rend="inline">The flippant poet.</l>
+<l rend="indent">The flippant poet.</l>
 </lg>
 
 <lg type="stanza">
 <l>Time passed and put to these old jests an end ;</l>
-<l rend="inline">Into our open hearts you found admission,</l>
+<l rend="indent">Into our open hearts you found admission,</l>
 <l>Ate of our bread and pledged us like a friend</l>
-<l rend="inline">Above suspicion.</l>
+<l rend="indent">Above suspicion.</l>
 </lg>
 
 <lg type="stanza">
 <l>You shared our griefs with seeming-gentle eyes ;</l>
-<l rend="inline">You moved among us cousinly entreated;</l>
+<l rend="indent">You moved among us cousinly entreated;</l>
 <l>Still hiding, under that fair outward guise,</l>
-<l rend="inline">A heart that cheated.</l>
+<l rend="indent">A heart that cheated.</l>
 </lg>
 
 <lg type="stanza">
 <l>And now the mask is down, and forth you stand</l>
-<l rend="inline">Known for a King whose word is no great matter,</l>
+<l rend="indent">Known for a King whose word is no great matter,</l>
 <l>A traitor proved, for every honest hand</l>
-<l rend="inline">To strike and shatter.</l>
+<l rend="indent">To strike and shatter.</l>
 </lg>
 
 <lg type="stanza">
 <l>This was the " Day " foretold by yours and you</l>
-<l rend="inline">In whispers here, and there with beery clamours--</l>
+<l rend="indent">In whispers here, and there with beery clamours--</l>
 <l>You and your rat-hole spies and blustering crew</l>
-<l rend="inline">Of loud Potsdamers.</l></lg>
+<l rend="indent">Of loud Potsdamers.</l></lg>
 
 <pb n="70 DIES IRAE"/>
 
 <lg type="stanza">
 <l>And lo, there dawns another, swift and stern,</l>
-<l rend="inline">When on the wheels of wrath, by Justice' token,</l>
+<l rend="indent">When on the wheels of wrath, by Justice' token,</l>
 <l>Breaker of God's own Peace, you shall in turn</l>
-<l rend="inline">Yourself be broken.</l></lg>
+<l rend="indent">Yourself be broken.</l></lg>
 
 <closer><signed><name>SIR OWEN SEAMAN</name></signed>
 <dateline><date><hi rend="italic">Punch, August</hi> 19,
@@ -2320,17 +2319,17 @@ course of formation.]</p>
 
 <lg type="stanza">
 <l>ONCE o'er those downs wild beacons blazed,</l>
-<l rend="inline">Weird messengers of fate and fight,</l>
+<l rend="indent">Weird messengers of fate and fight,</l>
 <l><hi rend="italic">She</hi> was not wild, dismayed, or dazed,</l>
-<l rend="inline">But calmly looked towards the light--</l>
+<l rend="indent">But calmly looked towards the light--</l>
 <l>Towards the light that springs from night,</l>
-<l rend="inline">As sure as courage springs from faith.</l>
+<l rend="indent">As sure as courage springs from faith.</l>
 <l>So now, when like some hideous wraith</l>
-<l rend="inline">War mocks, with bodings from the dead,</l>
+<l rend="indent">War mocks, with bodings from the dead,</l>
 <l>Our moonlit harvests, swathe on swathe,</l>
-<l rend="inline">May she, dear England, lift her head</l>
-<l rend="inline">Towards the light, towards the light--</l>
-<l rend="inline">Praying that God defend the right.</l>
+<l rend="indent">May she, dear England, lift her head</l>
+<l rend="indent">Towards the light, towards the light--</l>
+<l rend="indent">Praying that God defend the right.</l>
 </lg>
 
 <closer><signed><name>WALTER SICHEL</name></signed>
@@ -2344,50 +2343,50 @@ course of formation.]</p>
 
 <lg type="stanza">
 <l>" ROLL up the map of Europe!"</l>
-<l rend="inline">The German Kaiser cried,</l>
+<l rend="indent">The German Kaiser cried,</l>
 <l>" For I'm the new Napoleon,</l>
-<l rend="inline">An' England's 'ands are tied."</l>
+<l rend="indent">An' England's 'ands are tied."</l>
 <l>But another sort o' rollin' up</l>
-<l rend="inline">Is comin' into play--</l>
+<l rend="indent">Is comin' into play--</l>
 <l>"<hi rend="italic">Roll up ! Roll up!" sez Kitchener</hi>,</l>
-<l rend="inline"><hi rend="italic">An' we're rollin' up all
+<l rend="indent"><hi rend="italic">An' we're rollin' up all
 day</hi>.</l>
 </lg>
 
 <lg type="stanza">
 <l>'E thought, did Kaiser William,</l>
-<l rend="inline">That England would stand by,</l>
+<l rend="indent">That England would stand by,</l>
 <l>While 'e an' 'is five million</l>
-<l rend="inline">Were crushin' 'er ally.</l>
+<l rend="indent">Were crushin' 'er ally.</l>
 <l>" For they 'aven't got the men," 'e said,</l>
-<l rend="inline">" To fight acrost the seas."</l>
+<l rend="indent">" To fight acrost the seas."</l>
 <l>" Roll up ! Roll up !" sez Kitchener,</l>
-<l rend="inline">" New Army, forward, please!"</l>
+<l rend="indent">" New Army, forward, please!"</l>
 </lg>
 
 <pb n="ROLL UP! 75"/>
 
 <lg type="stanza">
 <l>Yes, 'e wants a Second Army--</l>
-<l rend="inline">'E's goin' to get it, too;</l>
+<l rend="indent">'E's goin' to get it, too;</l>
 <l>For we know the man that calls us,</l>
-<l rend="inline">An' we trust 'im thro' and thro'</l>
+<l rend="indent">An' we trust 'im thro' and thro'</l>
 <l>If K. should need a million men,</l>
-<l rend="inline">'E's only got to say--</l>
+<l rend="indent">'E's only got to say--</l>
 <l><hi rend="italic">" Roll up for King and Country! "</hi></l>
-<l rend="inline"><hi rend="italic">An' they'll roll up right
+<l rend="indent"><hi rend="italic">An' they'll roll up right
 away.</hi></l>
 </lg>
 
 <lg type="stanza">
 <l>An' while we do our part 'ere,</l>
-<l rend="inline">We'll think with love an' pride</l>
+<l rend="indent">We'll think with love an' pride</l>
 <l>Of our comrades now a-rallyin'</l>
-<l rend="inline">Acrost the oceans wide.</l>
+<l rend="indent">Acrost the oceans wide.</l>
 <l>For East an' West an' furthest South</l>
-<l rend="inline">They hear K.'s call resound--</l>
+<l rend="indent">They hear K.'s call resound--</l>
 <l><hi rend="italic">" Roll up ! Roll up for England!"</hi></l>
-<l rend="inline"><hi rend="italic">An' they're rolling up all
+<l rend="indent"><hi rend="italic">An' they're rolling up all
 round.</hi></l>
 </lg>
 
@@ -2398,48 +2397,49 @@ round.</hi></l>
 
 <div xml:id="lanesongs0034" type="poem" n="34">
 <pb n="76"/>
+<head>[Untitled]</head>
 <lg type="stanza">
 <l>NOT for passion or for power,</l>
-<l rend="inline">Clean of hands, and calm of soul,</l>
+<l rend="indent">Clean of hands, and calm of soul,</l>
 <l>England at this awful hour</l>
-<l rend="inline">Bids her battle-thunders roll,</l>
+<l rend="indent">Bids her battle-thunders roll,</l>
 </lg>
 
 <lg type="stanza">
 <l>That crown'd arrogance may quail</l>
-<l rend="inline">And brute-force be backward hurled--</l>
+<l rend="indent">And brute-force be backward hurled--</l>
 <l>Lest the hypocrite prevail,</l>
-<l rend="inline">Lest a lie should win the world;</l>
+<l rend="indent">Lest a lie should win the world;</l>
 </lg>
 
 <lg type="stanza">
 <l>Lest she see the trustful weak</l>
-<l rend="inline">Trampled by the perjured strong--</l>
+<l rend="indent">Trampled by the perjured strong--</l>
 <l>That her arm may help to wreak</l>
-<l rend="inline">Justice on red-handed wrong,</l>
+<l rend="indent">Justice on red-handed wrong,</l>
 </lg>
 
 <lg type="stanza">
 <l>Till the hierophants of fear</l>
-<l rend="inline">Cease, beneath the darkened sun,</l>
+<l rend="indent">Cease, beneath the darkened sun,</l>
 <l>To boom out in Europe's ear</l>
-<l rend="inline">The grim gospel of the gun.</l>
+<l rend="indent">The grim gospel of the gun.</l>
 </lg>
 
 <pb n="77"/>
 
 <lg type="stanza">
 <l>So, to meet yon myriad host</l>
-<l rend="inline">As we muster, land by land,</l>
+<l rend="indent">As we muster, land by land,</l>
 <l>Witness Heaven--no braggart boast--</l>
-<l rend="inline">That for righteousness we stand!</l>
+<l rend="indent">That for righteousness we stand!</l>
 </lg>
 
 <lg type="stanza">
 <l>In the dread impending hour</l>
-<l rend="inline">Heedful of that warning word,</l>
+<l rend="indent">Heedful of that warning word,</l>
 <l>" ' Not by might, and not by power--</l>
-<l rend="inline">By my Spirit,' saith the Lord."</l>
+<l rend="indent">By my Spirit,' saith the Lord."</l>
 </lg>
 
 <closer><signed><name>JAMES RHOADES</name></signed>
@@ -2491,7 +2491,6 @@ round.</hi></l>
 <dateline><date><hi rend="italic">Times, August</hi> 22,
 1914</date></dateline></closer>
 </div>
-</div>
 
 <div xml:id="lanesongs035" type="poem" n="35">
 <pb n="80    REDEMPTION"/>
@@ -2499,19 +2498,19 @@ round.</hi></l>
 
 <lg type="stanza">
 <l>As though Youth had not all the best, this day</l>
-<l rend="inline">Offers him one excelling best-of-all,--</l>
-<l rend="inline">The glorious summons of a trumpet-call</l>
+<l rend="indent">Offers him one excelling best-of-all,--</l>
+<l rend="indent">The glorious summons of a trumpet-call</l>
 <l>To prove his manhood in man's noblest fray ;</l>
 <l>To be with those who fight at last to slay</l>
-<l rend="inline">That ancient despot, War.   Whate'er befall,</l>
-<l rend="inline">His is a prize so rich as to forestall</l>
+<l rend="indent">That ancient despot, War.   Whate'er befall,</l>
+<l rend="indent">His is a prize so rich as to forestall</l>
 <l>The invidious years and venom of decay.</l>
 <l>No fruitless age shall he regret who pays</l>
-<l rend="inline">Thus timely his arrears to Motherland</l>
-<l rend="inline">And humankind, ensuing Earth's desire ;</l>
+<l rend="indent">Thus timely his arrears to Motherland</l>
+<l rend="indent">And humankind, ensuing Earth's desire ;</l>
 <l>Who stakes his else immemorable days</l>
-<l rend="inline">And wins his life back, holy from Death's hand,</l>
-<l rend="inline">Redeemed in one brief ecstasy of fire!</l>
+<l rend="indent">And wins his life back, holy from Death's hand,</l>
+<l rend="indent">Redeemed in one brief ecstasy of fire!</l>
 </lg>
 
 <closer><signed><name>HAROLD E. GOAD</name></signed>
@@ -2750,55 +2749,55 @@ FROM ENGLAND</head>
 
 <lg type="stanza">
 <l>WHAT of the faith and fire within us</l>
-<l rend="inline">Men who march away</l>
-<l rend="inline">Ere the barn-cocks say</l>
-<l rend="inline">Night is growing gray,</l>
+<l rend="indent">Men who march away</l>
+<l rend="indent">Ere the barn-cocks say</l>
+<l rend="indent">Night is growing gray,</l>
 <l>To hazards whence no tears can win us;</l>
 <l>What of the faith and fire within us</l>
-<l rend="inline">Men who march away?</l>
+<l rend="indent">Men who march away?</l>
 </lg>
 
 <lg type="stanza">
 <l>Is it a purblind prank, O think you,</l>
-<l rend="inline">Friend with the musing eye</l>
-<l rend="inline">Who watch us stepping by,</l>
-<l rend="inline">With doubt and dolorous sigh?</l>
+<l rend="indent">Friend with the musing eye</l>
+<l rend="indent">Who watch us stepping by,</l>
+<l rend="indent">With doubt and dolorous sigh?</l>
 <l>Can much pondering so hoodwink you!</l>
 <l>Is it a purblind prank, O think you,</l>
-<l rend="inline">Friend with the musing eye?</l>
+<l rend="indent">Friend with the musing eye?</l>
 </lg>
 
 <lg type="stanza">
 <l>Nay.   We see well what we are doing,</l>
-<l rend="inline">Though some may not see--</l>
-<l rend="inline">Dalliers as they be !--</l>
-<l rend="inline">England's need are we;</l>
+<l rend="indent">Though some may not see--</l>
+<l rend="indent">Dalliers as they be !--</l>
+<l rend="indent">England's need are we;</l>
 
 <pb n="90 SONG OF THE SOLDIERS"/>
 
 <l>Her distress would leave us rueing:</l>
 <l>Nay. We see well what we are doing,</l>
-<l rend="inline">Though some may not see!</l>
+<l rend="indent">Though some may not see!</l>
 </lg>
 
 <lg type="stanza">
 <l>In our heart of hearts believing</l>
-<l rend="inline">Victory crowns the just,</l>
-<l rend="inline">And that braggarts must</l>
-<l rend="inline">Surely bite the dust,</l>
+<l rend="indent">Victory crowns the just,</l>
+<l rend="indent">And that braggarts must</l>
+<l rend="indent">Surely bite the dust,</l>
 <l>Press we to the field ungrieving,</l>
 <l>In our heart of hearts believing</l>
-<l rend="inline">Victory crowns the just.</l>
+<l rend="indent">Victory crowns the just.</l>
 </lg>
 
 <lg type="stanza">
 <l>Hence the faith and fire within us</l>
-<l rend="inline">Men who march away</l>
-<l rend="inline">Ere the barn-cocks say</l>
-<l rend="inline">Night is growing gray,</l>
+<l rend="indent">Men who march away</l>
+<l rend="indent">Ere the barn-cocks say</l>
+<l rend="indent">Night is growing gray,</l>
 <l>To hazards whence no tears can win us ;</l>
 <l>Hence the faith and fire within us</l>
-<l rend="inline">Men who march away.</l>
+<l rend="indent">Men who march away.</l>
 </lg>
 
 <closer><signed><name>THOMAS HARDY</name></signed>
@@ -2906,24 +2905,24 @@ FROM ENGLAND</head>
 
 <lg type="stanza">
 <l>HAD I the fabled herb</l>
-<l rend="inline">That brought to life the dead,</l>
+<l rend="indent">That brought to life the dead,</l>
 <l>Whom would I dare disturb</l>
-<l rend="inline">In his eternal bed ?</l>
+<l rend="indent">In his eternal bed ?</l>
 <l>Great Grenville would I wake,</l>
 <l>And with glad tidings make</l>
 <l>The soul of mighty Drake</l>
-<l rend="inline">Heave up a glorying head.</l>
+<l rend="indent">Heave up a glorying head.</l>
 </lg>
 
 <lg type="stanza">
 <l>As rose the misty sun,</l>
-<l rend="inline">Our men the North Sea scanned,</l>
+<l rend="indent">Our men the North Sea scanned,</l>
 <l>And each rejoicing gun</l>
-<l rend="inline">Welcomed a Foe at hand,</l>
+<l rend="indent">Welcomed a Foe at hand,</l>
 <l>And thundering its delight,</l>
 <l>Opened its mouth outright,</l>
 <l>And bit them in the Bight,</l>
-<l rend="inline">The Bight of Helgoland.</l>
+<l rend="indent">The Bight of Helgoland.</l>
 </lg>
 
 
@@ -2931,28 +2930,29 @@ FROM ENGLAND</head>
 
 <lg type="stanza">
 <l>With Captains who could each</l>
-<l rend="inline">Do aught but yield or flee;</l>
+<l rend="indent">Do aught but yield or flee;</l>
 <l>With guns that spake the speech</l>
-<l rend="inline">Shall keep this Kingdom free;</l>
+<l rend="indent">Shall keep this Kingdom free;</l>
 <l>We hammered to their doom</l>
 <l>Four Giants mid the gloom,</l>
 <l>And one to a fiercer tomb</l>
-<l rend="inline">Sent blazing down the sea.</l>
+<l rend="indent">Sent blazing down the sea.</l>
 </lg>
 
 <lg type="stanza">
 <l>Sleep on, O Drake, sleep well,</l>
-<l rend="inline">In days not wholly dire!</l>
+<l rend="indent">In days not wholly dire!</l>
 <l>Grenville, whom nought could quell,</l>
-<l rend="inline">Unquenched is still thy fire.</l>
+<l rend="indent">Unquenched is still thy fire.</l>
 <l>And thou that hadst no peer,</l>
 <l>Nelson ! thou need'st not fear:</l>
 <l>Thy sons and heirs are here,</l>
-<l rend="inline">Nor shall they shame their sire.</l>
+<l rend="indent">Nor shall they shame their sire.</l>
 </lg>
 
 <closer><signed><name>WILLIAM WATSON</name></signed>
 <dateline><date><hi rend="italic">Times</hi></date></dateline></closer>
+</div>
 </div>
 </body>
 </text>

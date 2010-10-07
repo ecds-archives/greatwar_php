@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hodgson">
    <teiHeader><fileDesc>
          <titleStmt>
-            <title>POEMS: Electronic Edition</title>
-            <author><name type="person"><choice><reg>Hodgson,Ralph</reg><sic>Ralph Hodgson, 1871-1962</sic></choice></name></author>
+            <title>POEMS, an electronic edition</title>
+            <author><name type="person"><choice><reg>Hodgson, Ralph, 1871-1962</reg><sic>Ralph Hodgson</sic></choice></name></author>
          </titleStmt>
 	 <publicationStmt><publisher>Lewis H. Beck Center for Electronic Collections
 	   and Services, Emory University</publisher><pubPlace>Atlanta, GA</pubPlace><address>
@@ -73,81 +74,81 @@
 	   </keywords>
 	 </textClass></profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><!-- add your information here --><change><date>2009</date><label>Beck Center staff</label><name>Shruthi Vissa</name>Proofing, encoding</change></revisionDesc></teiHeader>
 <text>
-<front>
+<!-- <front> -->
 
 
-<pb n="[i]"/>
+<!-- <pb n="[i]"/> -->
 
-<titlePage xml:id="Hodgson100" type="half">
-     <docTitle>
-       <titlePart type="main">POEMS
-       </titlePart>
-     </docTitle>
-   </titlePage>
-<pb n="[ii]"/>
+<!-- <titlePage xml:id="Hodgson100" type="half"> -->
+<!--      <docTitle> -->
+<!--        <titlePart type="main">POEMS -->
+<!--        </titlePart> -->
+<!--      </docTitle> -->
+<!--    </titlePage> -->
+<!-- <pb n="[ii]"/> -->
 
-<div xml:id="hodgson101" type="imprint">
-<figure type="hodgsonfm1" rend="inline">
-<figDesc> Imprint included in front matter of Hodgson's "Poems"</figDesc>
-</figure>
-</div>
+<!-- <div xml:id="hodgson101" type="imprint"> -->
+<!-- <figure facs="hodgsonfm1" rend="inline"> -->
+<!-- <figDesc> Imprint included in front matter of Hodgson's "Poems"</figDesc> -->
+<!-- </figure> -->
+<!-- </div> -->
 
-<pb n="[iii]"/>
+<!-- <pb n="[iii]"/> -->
 
-   <titlePage xml:id="binns102" type="full">
-     <docTitle>
-       <titlePart type="main">POEMS</titlePart>
-     </docTitle>
-       <byline> BY<lb/> RALPH HODGSON</byline>
-       <docImprint>
-	 <pubPlace>NEW YORK</pubPlace>
-	 <publisher>THE MACMILLAN COMPANY</publisher>
+<!--    <titlePage xml:id="binns102" type="full"> -->
+<!--      <docTitle> -->
+<!--        <titlePart type="main">POEMS</titlePart> -->
+<!--      </docTitle> -->
+<!--        <byline> BY<lb/> RALPH HODGSON</byline> -->
+<!--        <docImprint> -->
+<!-- 	 <pubPlace>NEW YORK</pubPlace> -->
+<!-- 	 <publisher>THE MACMILLAN COMPANY</publisher> -->
 	 
-       </docImprint>
-   </titlePage>
+<!--        </docImprint> -->
+<!--    </titlePage> -->
 
-<pb n="iv"/>
-<div xml:id="hodgson103" type="copyright">
-<figure type="hodgsonfm2" rend="inline">
-<figDesc> Image of copyright claim at front of Hogdson's "Poems"</figDesc>
-</figure>
-</div>
+<!-- <pb n="iv"/> -->
+<!-- <div xml:id="hodgson103" type="copyright"> -->
+<!-- <figure facs="hodgsonfm2" rend="inline"> -->
+<!-- <figDesc> Image of copyright claim at front of Hogdson's "Poems"</figDesc> -->
+<!-- </figure> -->
+<!-- </div> -->
 
-<pb n="[v]"/>
-<div xml:id="hodgson104" type="dedication">
-<p> TO </p>
-<p>MY MOTHER</p>
-</div>
+<!-- <pb n="[v]"/> -->
+<!-- <div xml:id="hodgson104" type="dedication"> -->
+<!-- <p> TO </p> -->
+<!-- <p>MY MOTHER</p> -->
+<!-- </div> -->
 
-<pb n="[vi]"/>
-<pb n="[vii]"/>
-<div xml:id="hodgson105" type="tableofcontents">
-<figure type="hodgsontc1" rend="inline">
-<figDesc> Table of contents included in front matter of Hodgson's "Poems"</figDesc>
-</figure>
-</div>
+<!-- <pb n="[vi]"/> -->
+<!-- <pb n="[vii]"/> -->
+<!-- <div xml:id="hodgson105" type="tableofcontents"> -->
+<!-- <figure facs="hodgsontc1" rend="inline"> -->
+<!-- <figDesc> Table of contents included in front matter of Hodgson's "Poems"</figDesc> -->
+<!-- </figure> -->
+<!-- </div> -->
 
-<pb n="viii"/>
-<div xml:id="hodgson106" type="tableofcontents">
-<figure type="hodgsontc2" rend="inline">
-<figDesc> Table of contents included in front matter of Hodgson's "Poems"</figDesc>
-</figure>
-</div>
+<!-- <pb n="viii"/> -->
+<!-- <div xml:id="hodgson106" type="tableofcontents"> -->
+<!-- <figure facs="hodgsontc2" rend="inline"> -->
+<!-- <figDesc> Table of contents included in front matter of Hodgson's "Poems"</figDesc> -->
+<!-- </figure> -->
+<!-- </div> -->
 
-<pb n="[ix]"/>
-<titlePage xml:id="Hodgson107" type="half">
-     <docTitle>
-       <titlePart type="main">POEMS
-       </titlePart>
-     </docTitle>
-   </titlePage>
+<!-- <pb n="[ix]"/> -->
+<!-- <titlePage xml:id="Hodgson107" type="half"> -->
+<!--      <docTitle> -->
+<!--        <titlePart type="main">POEMS -->
+<!--        </titlePart> -->
+<!--      </docTitle> -->
+<!--    </titlePage> -->
 
-<pb n="[x]"/>
-</front>
+<!-- <pb n="[x]"/> -->
+<!-- </front> -->
 <body>
 
-
-<pb n="[The Gipsy Girl  1]"/>
+<div xml:id="hodgson01" type="collection">
+<pb n="[1]"/>
 <div xml:id="hodgson001" type="poem" n="1">
 <head rend="center">THE GIPSY GIRL</head>
 
@@ -1118,7 +1119,7 @@
 
 <div xml:id="hodgson013" type="poem" n="13">
 <pb n="[THE HOUSE ACROSS THE WAY   39]"/>
-<head rend="center">THE HOUSE ACROSS<lb/>THE WAY</head>
+<head rend="center">THE HOUSE ACROSS <lb/>THE WAY</head>
 <lg type="stanza">
 
 <l>The leaves looked in at the window</l>
@@ -1571,9 +1572,8 @@
 <l>Dears, doff your olive wimples,</l>
 <l rend="indent">And listen while you may.</l>
 </lg>
-</div>
 
-<div xml:id="hodgson022" type="poem" n="22">
+
 <pb n="[59]"/>
 <lg type="stanza">
 <l>Reason has moons, but moons not hers,</l>
@@ -1737,7 +1737,7 @@
 </lg>
 
 <l>Printed in the United States of America.</l>
-
+</div>
 </div>
 </body>
 </text>

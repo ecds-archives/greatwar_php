@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="holywar">
    <teiHeader><fileDesc>
          <titleStmt>
             <title>The Holy War: Electronic Edition</title>
@@ -76,7 +77,14 @@
 	       <item>War.</item>
 	     </list>
 	   </keywords>
-	 </textClass></profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>2004</date><label>Beck Center staff</label><name>Alden Mahler</name>scan, OCR, proof, encode</change><change><date>2004</date><label>Beck Center staff</label><name>Alice Hickcox</name>added header, validated</change></revisionDesc></teiHeader>
+	 </textClass></profileDesc>
+	 <revisionDesc>
+	   <change>
+	   <name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change>
+	   <change><date>2004</date><label>Beck Center staff</label><name>Alden Mahler</name>scan, OCR, proof, encode</change>
+	   <change><date>2004</date><label>Beck Center staff</label><name>Alice Hickcox</name>added header, validated</change>
+	 </revisionDesc>
+   </teiHeader>
 
 <text>
 <front>
@@ -119,7 +127,8 @@
 
 <body>
 <pb n="6"/>
-<div xml:id="holywar002" type="anthology" n="The Holy War">
+<div xml:id="holywar002" type="collection">
+<head>The Holy War</head>
 <docAuthor n="Tynan, Katherine">Katherine Tynan</docAuthor>
 <pb n="7"/>
 <pb n="8"/>
@@ -736,32 +745,32 @@
 <head rend="center">THE TRUST</head>
 
 <lg type="stanza">
-<l n="1"><hi rend="smallcaps">To</hi> you, O Sœr Therèse of Lisieux,</l>
+<l n="1"><hi rend="smallcaps">To</hi> you, O S&#x0153;ur Ther&#x00E8;se of Lisieux,</l>
 <l>Fresh as a morning rose in morning dew,</l>
-<l rend="indent5">We give our men in keeping:</l>
-<l rend="indent5">Watch them waking, watch them sleeping.</l>
+<l rend="indent">We give our men in keeping:</l>
+<l rend="indent">Watch them waking, watch them sleeping.</l>
 <l>Lest our hearts should break, O keep trust and be true!</l></lg>
 
 <lg>
 <l>The old saints are beset with many prayers;</l>
 <l>The knees of centuries have worn their stairs.</l>
-<l rend="indent5">But you, O little nun,</l>
-<l rend="indent5">Heaven's youngest, littlest one,</l>
+<l rend="indent">But you, O little nun,</l>
+<l rend="indent">Heaven's youngest, littlest one,</l>
 <l>You are strong to lift our burdens and our cares.</l></lg>
 
 <lg>
 <l>Your childish hands have roses pink and pale</l>
 <l>That climb the trellises of Heaven and trail.</l>
-<l rend="indent5">Shake your roses down before them,</l>
-<l rend="indent5">Your dear heart be sorry for them,</l>
+<l rend="indent">Shake your roses down before them,</l>
+<l rend="indent">Your dear heart be sorry for them,</l>
 <l>Keep them safe within the shadow of your veil.</l></lg>
 
 <lg>
 <pb n="36"/>
 <l>You lift hands for France -- O lift them heaven-high,</l>
 <l>For those who fight with France, who bleed and die.</l>
-<l rend="indent5">Pluck the robe of Heaven, O Dear,</l>
-<l rend="indent5">So the Heart of Heaven may hear,</l>
+<l rend="indent">Pluck the robe of Heaven, O Dear,</l>
+<l rend="indent">So the Heart of Heaven may hear,</l>
 <l>That never yet was hardened to your cry!</l></lg>
 </div>
 

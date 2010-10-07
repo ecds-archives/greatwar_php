@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="elliot">
    <teiHeader><fileDesc>
          <titleStmt>
             <title>Lest We Forget: Electronic Edition</title>
-            <editor><name type="person"><choice><reg>Elliot, H. B.</reg><sic>H. B. Elliot</sic></choice></name></editor>
+            <editor><name type="person"><choice><reg>Elliot, Henry B. (Henry Bond), 1823-1912</reg><sic>H. B. Elliot</sic></choice></name></editor>
          </titleStmt>
 	 <publicationStmt><publisher>Lewis H. Beck Center for Electronic Collections
 	   and Services, Emory University</publisher><pubPlace>Atlanta, GA</pubPlace><address>

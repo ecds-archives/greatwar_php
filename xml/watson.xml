@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="watson">
    <teiHeader><fileDesc>
          <titleStmt>
-            <title>POEMS: Electronic Edition</title>
-            <author><name type="person"><choice><reg>Watson, William, Sir</reg><sic>Sir William Watson 1858-1935</sic></choice></name></author>
+            <title>The Man Who Saw: Electronic Edition</title>
+            <author><name type="person"><choice><reg>Watson, William, 1858-1935</reg><sic>William Watson</sic></choice></name></author>
          </titleStmt>
 	 <publicationStmt><publisher>Lewis H. Beck Center for Electronic Collections
 	   and Services, Emory University</publisher><pubPlace>Atlanta, GA</pubPlace><address>
@@ -25,8 +26,8 @@
 	 <notesStmt><note/></notesStmt>
          <sourceDesc>
             <bibl>
-	     <title>POEMS</title>
-	     <author>Sir William Watson</author>
+	     <title>The Man Who Saw and Other Poems Arising Out of the War</title>
+	     <author>William Watson</author>
 	     <pubPlace>London</pubPlace>
 	     <publisher>John Murray</publisher>
 	     <date>1917</date>
@@ -74,32 +75,19 @@
 	 </textClass></profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><!-- add your information here --><change><date>2009</date><label>Beck Center staff</label><name>Shruthi Vissa</name>Proofing, encoding</change></revisionDesc></teiHeader>
 <text>
 <front>
-
-<pb/>
-
-   <pb/>
-
-   <pb/>
-
-   <pb/>
-
 <titlePage xml:id="watson1000" type="half">
      <docTitle>
        <titlePart type="main">THE MAN WHO SAW<lb/>
        </titlePart>
      </docTitle>
    </titlePage>
+<pb/>
 
-
-
-
-   <pb/>
-
-<div xml:id="watson1001" type="advertisement">
-<figure xml:id="watsonfm2">
-<figDesc> Advertisement in front of William Watson's "The Man Who Saw"</figDesc>
-</figure>
-</div>
+<!-- <div xml:id="watson1001" type="advertisement"> -->
+<!-- <figure xml:id="watsonfm2"> -->
+<!-- <figDesc> Advertisement in front of William Watson's "The Man Who Saw"</figDesc> -->
+<!-- </figure> -->
+<!-- </div> -->
 
 
 <div xml:id="watson1002" type="preface">
@@ -128,10 +116,10 @@ desires his book to be considered as an intermittent commentary on the main deve
 
 to vaguely as its writer's "lines" on this or that, thus showing that whatever special labours may have gone to its shaping have been largely or entirely lost upon the preoccupied critic. A poet has a duty towards the offspring of his brain, even as toward the heirs of his body; and it is out of a perhaps pardonable regard for their interests and welfare, and as far as possible to secure for them their reasonable dues, that the author has thought fit to detach the sonnets in this volume from their companion poems, and give them a place apart. To dwell, though but for a moment, upon a matter so intensely literary, and at the same time so narrowly personal, may to some readers appear unseemly in a book concerned with the stupendous events now convulsing the world, and written under their shadow; but " Peace hath her victories," and even Poetry her toils, and the latter are not among the least arduous of human efforts.</p>
 
-<p>It only remains for him to add that although many of these poems have already appeared--some of them under now-abandoned titles--in various newspapers, periodicals, and other publications,<ref target="#viii">1</ref> the
+<p>It only remains for him to add that although many of these poems have already appeared--some of them under now-abandoned titles--in various newspapers, periodicals, and other publications,<ref target="#viii">1</ref>
 
-<note place="foot" xml:id="viii" n="1">¹ The <hi rend="italic">Times</hi>, the <hi rend="italic">Daily News</hi>, the <hi rend="italic">Morning Post</hi>, the <hi rend="italic">Manchester Guardian</hi>, the <hi rend="italic">Daily Telegraph</hi>, the <hi rend="italic">Daily Chronicle</hi>, the <hi rend="italic">Evening News</hi>, the <hi rend="italic">Westminster Gazette</hi>, the <hi rend="italic">Observer</hi>, the <hi rend="italic">English Review</hi>, the <hi rend="italic">Weekly Dispatch</hi>, the <hi rend="italic">Sunday Pictorial</hi>, the <hi rend="italic">New York Herald</hi>, the <hi rend="italic">New York Independent</hi>, the <hi rend="italic">Nineteenth Century</hi>, the <hi rend="italic">Saturday Review</hi>, and <hi rend="italic">King Albert's Book</hi>.</note>
-
+<note place="foot" xml:id="viii" n="1">The <hi rend="italic">Times</hi>, the <hi rend="italic">Daily News</hi>, the <hi rend="italic">Morning Post</hi>, the <hi rend="italic">Manchester Guardian</hi>, the <hi rend="italic">Daily Telegraph</hi>, the <hi rend="italic">Daily Chronicle</hi>, the <hi rend="italic">Evening News</hi>, the <hi rend="italic">Westminster Gazette</hi>, the <hi rend="italic">Observer</hi>, the <hi rend="italic">English Review</hi>, the <hi rend="italic">Weekly Dispatch</hi>, the <hi rend="italic">Sunday Pictorial</hi>, the <hi rend="italic">New York Herald</hi>, the <hi rend="italic">New York Independent</hi>, the <hi rend="italic">Nineteenth Century</hi>, the <hi rend="italic">Saturday Review</hi>, and <hi rend="italic">King Albert's Book</hi>.</note>
+ the
 
 
 <pb n="PREFACE ix"/>
@@ -147,7 +135,7 @@ editors of which are here thanked for permission to reprint them, not a few have
 <pb n="[16]"/>
 
 <pb n="17"/>
-
+<div xml:id="watson01" type="book">
 <div xml:id="watson001" type="poem" n="1">
 
 <head>THE MAN WHO SAW</head>
@@ -441,9 +429,10 @@ editors of which are here thanked for permission to reprint them, not a few have
 <l>Flaunted armipotence, whether on earth or sea</l>
 <l>Or the outraged air, and suchlike peace beget</l>
 <l>As Tully envisioned ; peace itself being vain,</l>
-<l>That is not also tranquil liberty.<ref target="#watson31">1</ref></l></lg>
+<l>That is not also tranquil liberty.<ref target="#watson31">1</ref>
 
 <note place="foot" xml:id="watson31" n="1"> First published, Oct. 23, 1914, in the <hi rend="italic">Westminster Gazette</hi>.</note>
+</l></lg>
 </div>
 
 <pb n="32 THE GIFTS OF HINDUSTAN"/>
@@ -1654,7 +1643,7 @@ Emperor after the war</hi>.]</p>
 
 <p><hi rend="italic">Verses for the obsequies of the Emperor Wilhelm
 II</hi></p>
-</div>
+
 
 <div xml:id="watson083" type="section" n="1">
 <head>I</head>
@@ -1838,7 +1827,7 @@ II</hi></p>
 <l rend="inline">Life no more.</l>
 </lg>
 </div>
-
+</div>
 <div xml:id="watson0049">
    <pb/>
 
@@ -2050,6 +2039,7 @@ II</hi></p>
 <l>Or where the ocean thunder</l>
 <l rend="inline">Peals with the thundering gun.</l>
 </lg>
+</div>
 </div>
 </body>
 </text>

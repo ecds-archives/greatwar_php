@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="mackintosh">
    <teiHeader><fileDesc>
          <titleStmt>
-            <title>Great Poems of the World War: Electronic Edition</title>
-            <editor><name><choice><reg>Mackintosh, E.A., 1893-1917</reg><sic>Ewart Alan Mackintosh</sic></choice></name></editor>
+            <title>War, the Liberator and Other Pieces: Electronic Edition</title>
+            <editor><name><choice><reg>Mackintosh, E.A., (Ewart Alan), 1893-1917</reg><sic>E. A. Mackintosh</sic></choice></name></editor>
          </titleStmt>
 	 <publicationStmt><publisher>Lewis H. Beck Center for Electronic Collections
 	   and Services, Emory University</publisher><pubPlace>Atlanta, GA</pubPlace><address>
@@ -23,8 +24,7 @@
 	   <title>The Great War</title>
 	 </seriesStmt>
 	 <notesStmt><note/></notesStmt>
-         <sourceDesc><!-- put the actual publication data for the book
-	   in this section --> 
+         <sourceDesc>
             <bibl>
 	     <title>War the liberator and other pieces: With a memoir</title>
 	     <editor>John Murray</editor>
@@ -83,32 +83,32 @@
    </titlePage>
 <pb n="[i]"/>
 <pb n="[ii]"/>
-<div xml:id="mackintosh2001" type="image">
-<figure><graphic url="" rend="inline"/>
-<p>A photograph of the author included in front matter of Mackintosh's War the Liberator</p>
-</figure>
-</div>
+<!-- <div xml:id="mackintosh2001" type="image"> -->
+<!-- <figure><graphic url="" rend="inline"/> -->
+<!-- <p>A photograph of the author included in front matter of Mackintosh's War the Liberator</p> -->
+<!-- </figure> -->
+<!-- </div> -->
 <pb n="[iii]"/>
-<titlePage xml:id="mackintosh2002" type="main">
-     <docTitle>
-       <titlePart type="main">WAR, THE LIBERATOR<lb/>AND OTHER PIECES
-       BY<lb/>E.A.MACKINTOSH, M.C.<lb/> LT. SEAFORTH HIGHLANDERS (51st
-       Division)<lb/>WITH A MEMOIR
-       </titlePart>
-     </docTitle>
-<docImprint>
-	 <pubPlace>LONDON:</pubPlace>
-	 <publisher>JOHN LANE, THE BODLEY HEAD</publisher>
-<pubPlace> NEW YORK:</pubPlace>
-<publisher> JOHN LANE COMPANY</publisher> 
-       </docImprint>
-   </titlePage>
+<!-- <titlePage xml:id="mackintosh2002" type="main"> -->
+<!--      <docTitle> -->
+<!--        <titlePart type="main">WAR, THE LIBERATOR<lb/>AND OTHER PIECES -->
+<!--        BY<lb/>E.A.MACKINTOSH, M.C.<lb/> LT. SEAFORTH HIGHLANDERS (51st -->
+<!--        Division)<lb/>WITH A MEMOIR -->
+<!--        </titlePart> -->
+<!--      </docTitle> -->
+<!-- <docImprint> -->
+<!-- 	 <pubPlace>LONDON:</pubPlace> -->
+<!-- 	 <publisher>JOHN LANE, THE BODLEY HEAD</publisher> -->
+<!-- <pubPlace> NEW YORK:</pubPlace> -->
+<!-- <publisher> JOHN LANE COMPANY</publisher>  -->
+<!--        </docImprint> -->
+<!--    </titlePage> -->
 <pb n="[iv]"/>
 
-<div xml:id="mackintosh2003" type="colophon">
-<p><hi rend="italic">Printed in Great Britain</hi></p>
-<p><hi rend="italic">by Turnbull &amp; Spears, Edinburgh</hi></p>
-</div>
+<!-- <div xml:id="mackintosh2003" type="colophon"> -->
+<!-- <p><hi rend="italic">Printed in Great Britain</hi></p> -->
+<!-- <p><hi rend="italic">by Turnbull &amp; Spears, Edinburgh</hi></p> -->
+<!-- </div> -->
 
 <pb n="[1]"/>
 
@@ -179,7 +179,7 @@ the Military Cross. He returned to England in August 1916, having been
 wounded and gassed at High Wood.For eight months he taught bombing to
 the corps of cadets
 
-<pb n="4 MEMOIR"/>
+<pb n="4"/>
 
 at Cambridge; and while at Cambridge he became engaged to Sylvia
 Marsh, daughter of a Quaker family, with whose traditions and ideals
@@ -204,7 +204,7 @@ the Highlands. He learned to play the pipes and to speak Gaelic,
 things which later endeared him to his regiment. His friendships were
 many and ardent. Of
 
-<pb n="MEMOIR 5"/>
+<pb n="5"/>
 
 his bosom friends, Andrew Fraser of Christ Church was reported wounded
 and missing in the same Cambrai fighting,E. J. Solomon of Exeter
@@ -230,7 +230,7 @@ with engaging and engrossing clearness. There is much in this volume
 and in " A Highland Regiment" (1917) that is already peculiarly
 complete and rounded in idea and also finished in form. There
 
-<pb n="6 MEMOIR"/>
+<pb n="6"/>
 
 is much, too, of great promise. " The Remembered Gods," which was
 written at Oxford, shows his poetic power with the great spaces, the
@@ -257,44 +257,33 @@ humanity's true victory. And not that martyrdom only.</p>
 
 <pb n="7"/>
 
-<div xml:id="mackintosh2006" type="table_of_contents">
-<figure rend="inline">
-<figDesc> Table of contents included in front matter of Mackintosh's "War the Liberator"</figDesc>
-</figure>
+<!-- <div xml:id="mackintosh2006" type="table_of_contents"> -->
+<!-- <figure rend="inline"> -->
+<!-- <figDesc> Table of contents included in front matter of Mackintosh's "War the Liberator"</figDesc> -->
+<!-- </figure> -->
 
-<pb n="8"/>
+<!-- <pb n="8"/> -->
 
-<figure rend="inline">
-<figDesc> Table of contents included in front matter of Mackintosh's "War the Liberator"</figDesc>
-</figure>
+<!-- <figure rend="inline"> -->
+<!-- <figDesc> Table of contents included in front matter of Mackintosh's "War the Liberator"</figDesc> -->
+<!-- </figure> -->
 
-<pb n="9"/>
+<!-- <pb n="9"/> -->
 
-<figure rend="inline">
-<figDesc> Table of contents included in front matter of Mackintosh's "War the Liberator"</figDesc>
-</figure>
-</div>
+<!-- <figure rend="inline"> -->
+<!-- <figDesc> Table of contents included in front matter of Mackintosh's "War the Liberator"</figDesc> -->
+<!-- </figure> -->
+<!-- </div> -->
 </front>
-
-<group>
-<text>
-<front>
+<body>
+<div type="part" xml:id="mackintosh2007">
 
 <pb n="[11]"/>
-<titlePage xml:id="mackintosh2007" type="half">
-    <docTitle>
-       <titlePart type="main">I<lb/>WAR, THE LIBERATOR
-       </titlePart>
-     </docTitle>
-   </titlePage>
+<head>I<lb/>
+WAR, THE LIBERATOR</head>
 
 <pb n="[12]"/>
-</front>
 
-
-<body>
-
-<!-- title page here-->
 
 <div xml:id="mackintosh001" type="poem" n="1">
 <head>WAR, THE LIBERATOR<lb/>
@@ -317,7 +306,7 @@ humanity's true victory. And not that martyrdom only.</p>
 <l>Fragments of the high Romance, the old Heroic fire.</l>
 
 
-<pb n="14 WAR THE LIBERATOR"/>
+<pb n="14"/>
 
 <l>All they dreamed of childishly, bravery and fame for them,</l>
 <l>Charges at the cannon's mouth, enemies they slew,</l>
@@ -347,12 +336,12 @@ humanity's true victory. And not that martyrdom only.</p>
 
 
 <div xml:id="mackintosh002" type="poem" n="2">
-<pb n="RECRUITING 15"/>
+<pb n="15"/>
 <head>RECRUITING</head>
 
 <lg type="stanza">
 <l>" LADS, you're wanted, go and help,"</l>
-<l rend="inline">On the railway carriage wall</l>
+<l>On the railway carriage wall</l>
 <l>Stuck the poster, and I thought</l>
 <l>Of the hands that penned the call.</l></lg>
 
@@ -374,7 +363,7 @@ humanity's true victory. And not that martyrdom only.</p>
 <l>More poor devils like yourselves</l>
 <l>Waiting to be killed by you.</l></lg>
 
-<pb n="16 RECRUITING"/>
+<pb n="16"/>
 
 <lg type="stanza">
 <l>Go and help to swell the names</l>
@@ -408,7 +397,7 @@ humanity's true victory. And not that martyrdom only.</p>
 <l>Lads, you're wanted. Come and learn</l>
 <l>To live and die with honest men.</l></lg>
 
-<pb n="RECRUITING 17"/>
+<pb n="17"/>
 
 <lg type="stanza">
 <l>You shall learn what men can do</l>
@@ -425,12 +414,12 @@ humanity's true victory. And not that martyrdom only.</p>
 </div>
 
 <div xml:id="mackintosh003" type="poem" n="3">
-<pb n="18 THE GERMAN AND THE GAEL"/>
+<pb n="18"/>
 <head>THE GERMAN AND THE GAEL</head>
 
 <lg type="stanza">
 <l>WHEN they go out to battle</l>
-<l rend="inline">They march with pomp and show,</l>
+<l>They march with pomp and show,</l>
 <l>And all the fruits of victory</l>
 <l>Before them as they go.</l>
 <l>Because they dream the fight is theirs,</l>
@@ -450,7 +439,7 @@ humanity's true victory. And not that martyrdom only.</p>
 <l>Nor see another day.</l>
 </lg>
 
-<pb n="THE GERMAN AND THE GAEL 19"/>
+<pb n="19"/>
 
 <lg type="stanza">
 <l>Not for the hope of glory,</l>
@@ -475,20 +464,16 @@ humanity's true victory. And not that martyrdom only.</p>
 </lg>
 </div>
 
-
 <div xml:id="mackintosh004" type="poem" n="4">
-<pb n="20 BEAUMONT-HAMEL"/>
+<pb n="20"/>
 <head rend="left" type="main">BEAUMONT-HAMEL</head>
 <head rend="center" type="sub"><hi rend="italic">Captured, November 16th,</hi> 1916</head>
 
 
-<floatingText>
-<body>
-<div xml:id="mackintosh1000" type="section" n="1">
-<head rend="center">I</head>
 <lg type="stanza">
+<head rend="center">1</head>
 <l>DEAD men at Beaumont</l>
-<l rend="inline">In the mud and rain.</l>
+<l>In the mud and rain.</l>
 <l>You that were so warm once,</l>
 <l>Flesh and blood and brain,</l>
 <l>You've made an end of dying,</l>
@@ -496,42 +481,25 @@ humanity's true victory. And not that martyrdom only.</p>
 <l>And all but quiet lying</l>
 <l>Easeful after pain.</l>
 </lg>
-</div>
-</body>
-</floatingText>
 
-
-
-<floatingText>
-<body>
-<div xml:id="mackintosh1001" type="section" n="2">
-<head rend="center">2</head>
 <lg type="stanza">
+<head rend="center">2</head>
 <l>Dead men at Beaumont,</l>
 <l>Do you dream at all</l>
 <l>When the leaves of summer</l>
 <l>Ripen to their fall?</l>
-</lg>
 
-<pb n="BEAUMONT-HAMEL 21"/>
 
-<lg type="stanza">
+<pb n="21"/>
+
 <l>Will you walk the heather,</l>
 <l>Feel the Northern weather,</l>
 <l>Wind and sun together,</l>
 <l>Hear the grouse-cock call?</l>
 </lg>
-</div>
-</body>
-</floatingText>
 
-
-
-<floatingText>
-<body>
-<div xml:id="mackintosh1002" type="section" n="3">
-<head rend="center">3</head>
 <lg type="stanza">
+<head rend="center">3</head>
 <l>Maybe in the night-time</l>
 <l>A shepherd boy will see</l>
 <l>Dead men, and ghastly,</l>
@@ -540,18 +508,9 @@ humanity's true victory. And not that martyrdom only.</p>
 <l>With airy footsteps treading,</l>
 <l>Hill and field and steading,</l>
 <l>Where they used to be.</l></lg>
-</div>
-</body>
-</floatingText>
 
-
-
-
-<floatingText>
-<body>
-<div xml:id="mackintosh1003" type="section" n="4">
-<head rend="center">4</head>
 <lg type="stanza">
+<head rend="center">4</head>
 <l>Nay, not so I see you,</l>
 <l>Dead friends of mine;</l>
 <l>But like a dying pibroch</l>
@@ -561,16 +520,10 @@ humanity's true victory. And not that martyrdom only.</p>
 <l>And the keen words winging</l>
 <l>Across the smoke and wine.</l>
 </lg>
-</div>
-</body>
-</floatingText>
 
 
-
-<floatingText>
-<body>
-<div xml:id="mackintosh1004" type="section" n="5">
-<pb n="22 BEAUMONT-HAMEL"/>
+<pb n="22"/>
+<lg type="stanza">
 <head rend="center">5</head>
 <l>So we still shall see you,</l>
 <l>Be it peace or war,</l>
@@ -580,21 +533,17 @@ humanity's true victory. And not that martyrdom only.</p>
 <l>Shall see your bayonets gleaming,</l>
 <l>Scotland's warriors streaming</l>
 <l>Forward evermore.</l>
-</div>
-</body>
-</floatingText>
-
-
+</lg>
 </div>
 
 <div xml:id="mackintosh005" type="poem" n="5">
-<pb n="FAREWELL 23"/>
+<pb n="23"/>
 <head type="main">FAREWELL</head>
 <head type="sub">To SERGEANT H. FRASER AND L.-SERGEANT G. M'Kay</head>
 
 <lg type="stanza">
 <l>WELL, you have gone now, comrades,</l>
-<l rend="inline">And I shall see no more</l>
+<l>And I shall see no more</l>
 <l>The gallant friendly faces</l>
 <l>Framed in my dug-out door.</l>
 <l>I had no words to tell you</l>
@@ -612,7 +561,7 @@ humanity's true victory. And not that martyrdom only.</p>
 <l>But they're not the men I slept with</l>
 <l>Those nights at La Boiselle.</l></lg>
 
-<pb n="24 FAREWELL"/>
+<pb n="24"/>
 
 <lg type="stanza">
 <l>Oh, the old days of friendship</l>
@@ -636,20 +585,16 @@ humanity's true victory. And not that martyrdom only.</p>
 </div>
 
 <div xml:id="mackintosh006" type="poem" n="6">
-<pb n="THREE BATTLES 25"/>
+<pb n="25"/>
 <head>THREE BATTLES</head>
 <head type="sub">To THE 51ST DIVISION</head>
 
-
-
-<floatingText>
-<body>
 <div xml:id="mackintosh1005" type="section" n="5">
 <head>HIGH WOOD, <hi rend="italic">July-August</hi> 1916</head>
 
 <lg type="stanza">
 <l>OH gay were we in spirit</l>
-<l rend="inline">In the hours of the night</l>
+<l>In the hours of the night</l>
 <l>When we lay in rest by Albert</l>
 <l>And waited for the fight;</l>
 <l>Gay and gallant were we</l>
@@ -665,7 +610,7 @@ humanity's true victory. And not that martyrdom only.</p>
 <l>Clear lay the wood before us</l>
 <l>In the clear summer weather,</l>
 
-<pb n="26 THREE BATTLES "/>
+<pb n="26"/>
 
 <l>But broken, broken, broken</l>
 <l>Are the sons of the heather.</l></lg>
@@ -681,13 +626,8 @@ humanity's true victory. And not that martyrdom only.</p>
 <l>Is the pride of the Gael.</l>
 </lg>
 </div>
-</body>
-</floatingText>
 
 
-
-<floatingText>
-<body>
 <div xml:id="mackintosh1006" type="section" n="2">
 <head>BEAUMONT-HAMEL, <hi rend="italic">November</hi> 16<hi rend="italic">th,</hi> 1916</head>
 
@@ -705,7 +645,7 @@ humanity's true victory. And not that martyrdom only.</p>
 <l>In the cold of the morning</l>
 <l>A grey mist was drawn</l>
 
-<pb n="THREE BATTLES 27"/>
+<pb n="27"/>
 
 <l>Over the waves</l>
 <l>That went up in the dawn,</l>
@@ -734,16 +674,9 @@ humanity's true victory. And not that martyrdom only.</p>
 <l>The pride of the North</l>
 <l>Has arisen again.</l></lg>
 </div>
-</body>
-</floatingText>
 
-
-
-
-<floatingText>
-<body>
-<div xml:id="mackintosh007" type="poem" n="7">
-<pb n="28 VICTORY AND FAILURE"/>
+<pb n="28"/>
+<div xml:id="mackintosh007" type="section" n="3">
 <head>VICTORY AND FAILURE</head>
 <head type="sub">ARRAS, <hi rend="italic">April</hi> 9<hi rend="italic">th</hi><lb/>
 ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
@@ -767,18 +700,14 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <l>Unburied in the dew--</l>
 <l>Oh! friends of mine, and I not there</l>
 <l>To die along with you.</l></lg>
-</div>
-</body>
-</floatingText>
-
-
-</div>
+</div> <!-- end section -->
+</div> <!-- end poem -->
 
 
 <div xml:id="mackintosh008" type="poem" n="8">
-<pb n="FROM HOME 29"/>
+<pb n="29"/>
 <head type="main">FROM HOME</head>
-<head type="sub">TO THE MEN WHO FELL AT BEAUMONT-HAMEL<lb/>
+<head type="sub"><hi rend="smallcap">To the Men Who Fell at Beaumont-Hamel</hi><lb/>
 <hi rend="italic">November</hi> 13<hi rend="italic">th,</hi>1916</head>
 
 <lg type="stanza">
@@ -799,7 +728,7 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <l>Oh God! it would not have been so hard</l>
 <l>If I'd been in it too,</l>
 
-<pb n="30 FROM HOME"/>
+<pb n="30"/>
 
 <l>But you are lying stiff, my friends,</l>
 <l>And I not there with you.</l></lg>
@@ -818,9 +747,9 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 
 
 <div xml:id="mackintosh009" type="poem" n="9">
-<pb n="FROM HOME 31"/>
+<pb n="31"/>
 <head rend="left" type="main">FROM HOME</head>
-<head rend="center" type="sub">CAMBRIDGE</head>
+<head rend="center" type="sub"><hi rend="smallcap">Cambridge</hi></head>
 
 <lg type="stanza">
 <l>HERE there is peace and easy living,</l>
@@ -840,9 +769,9 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <l>But I am seeing the thick rain falling,</l>
 <l>Seeing the tired patrols out crawling,</l>
 <l>The dead men's voices are calling, calling,</l>
-<l rend="inline">And I must rise and go.</l></lg>
+<l rend="indent">And I must rise and go.</l></lg>
 
-<pb n="32 FROM HOME"/>
+<pb n="32"/>
 
 <lg type="stanza">
 <l>Back to the trench that I see so clearly,</l>
@@ -858,7 +787,7 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 
 
 <div xml:id="mackintosh010" type="poem" n="10">
-<pb n="THE DEAD MEN 33"/>
+<pb n="33"/>
 <head>THE DEAD MEN</head>
 
 <lg type="stanza">
@@ -884,7 +813,7 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <l>Then in the conversation's swim,</l>
 <l>I leaned across and spoke to him,</l>
 
-<pb n="34 THE DEAD MEN"/>
+<pb n="34"/>
 
 <l>And in his dim and dreary eyes</l>
 <l>Read suddenly a strange surprise,</l>
@@ -904,18 +833,12 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 
 
 <div xml:id="mackintosh011" type="poem" n="11">
-<pb n="THE SHIP OF THE SOUL 35"/>
+<pb n="35"/>
 <head type="main">THE SHIP OF THE SOUL</head>
 <head type="sub">To E.J.S</head>
 
-
-
-<floatingText>
-<body>
-<div xml:id="mackintosh1007" type="section" n="1">
-<head rend="center">I</head>
-
 <lg type="stanza">
+<head rend="center">1</head>
 <l>LONG ago in the dawn of nations</l>
 <l>Wisdom in Egypt dreamed a dream,</l>
 <l>The ship of the soul of man a-sailing</l>
@@ -924,40 +847,28 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <l>Voyaging in from near and far,</l>
 <l>Swift and surely the strong oars bore them</l>
 <l>Down to the glorious feet of Ra.</l></lg>
-</div>
-</body>
-</floatingText>
 
 
 
-
-
-<floatingText>
-<body>
-<div xml:id="mackintosh1008" type="section" n="2">
 <lg type="stanza">
+<head rend="center">2</head>
 <l>Dust is wisdom, its dream forgotten,</l>
 <l>But still in the light of the setting sun</l>
 <l>The ships of the souls of men go seeking</l>
 <l>The harbour that waits for everyone;</l>
 
 
-<pb n="36 THE SHIP OF THE SOUL"/>
+<pb n="36"/>
 
 <l>Still in the current the strong oars quiver</l>
 <l>In changing rapids the light boats roll,</l>
 <l>Quiet is Nile, but on life's broad river</l>
 <l>Still puts forth the ship of the soul.</l></lg>
-</div>
-</body>
-</floatingText>
 
 
 
 
-<floatingText>
-<body>
-<div xml:id="mackintosh1009" type="section" n="3">
+<lg type="stanza">
 <head rend="center">3</head>
 
 <l>Ship after ship puts into harbour,</l>
@@ -968,15 +879,10 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <l>One by one in the roads they lie,</l>
 <l>Each one comes to his own home harbour,</l>
 <l>Every one but you and I.</l>
-</div>
-</body>
-</floatingText>
+</lg>
 
 
-
-<floatingText>
-<body>
-<div xml:id="mackintosh1010" type="section" n="4">
+<lg type="stanza">
 <head rend="center">4</head>
 <l>Why can we not stay? we that are wanting</l>
 <l>Nothing more than the others are,</l>
@@ -986,17 +892,13 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <l>Soft as the touch of a wizard's wand,</l>
 <l>The wind and the sound of the water call us,</l>
 <l>"Come, there are better things beyond."</l>
-</div>
-</body>
-</floatingText>
+</lg>
 
 
-<pb n="THE SHIP OF THE SOUL 37"/>
+<pb n="37"/>
 
 
-<floatingText>
-<body>
-<div xml:id="mackintosh1011" type="section" n="5">
+<lg type="stanza">
 <head rend="center">5</head>
 <l>Others may find their loves and keep them,</l>
 <l>But for us two there still shall be</l>
@@ -1005,22 +907,19 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <l>Lost adventurers, watching ever</l>
 <l>Over the toss of the tricksy foam,</l>
 <l>Many a joyous port and city,</l>
-<l>Never the harbour lights of home.</l></div>
-</body>
-</floatingText>
-
+<l>Never the harbour lights of home.</l></lg>
 
 </div>
 
 
 <div xml:id="mackintosh012" type="poem" n="12">
-<pb n="38 GHOSTS OF WAR"/>
+<pb n="38"/>
 <head type="main">GHOSTS OF WAR</head>
-<head type="sub">(SENT FROM FRANCE IN OCTOBER 1917)</head>
+<head type="sub" rend="smallcap">(Sent from France in October 1917)</head>
 
 <lg type="stanza">
 <l>WHEN you and I are buried</l>
-<l rend="inline">With grasses over head,</l>
+<l>With grasses over head,</l>
 <l>The memory of our fights will stand</l>
 <l>Above this bare and tortured land,</l>
 <l>We knew ere we were dead.</l>
@@ -1042,7 +941,7 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <l>And their own fields grown strange.</l>
 </lg>
 
-<pb n="GHOSTS OF WAR 39"/>
+<pb n="39"/>
 
 <lg type="stanza">
 <l>They shall hear live men crying,</l>
@@ -1070,9 +969,9 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 </div>
 
 <div xml:id="mackintosh013" type="poem" n="13">
-<pb n="40 GHOSTS OF WAR"/>
+<pb n="40"/>
 <head rend="left">MINES</head>
-<head rend="center" type="sub">(SENT FROM FRANCE IN NOVEMBER 1917)</head>
+<head rend="center" type="sub"><hi rend="smallcap">(Sent from France in November 1917)</hi></head>
 
 <lg type="stanza">
 <l>WHAT are you doing, Sentry,</l>
@@ -1093,7 +992,7 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <l>Same old tap, tap, tap, Sir,</l>
 <l>And praying for the day.</l>
 
-<pb n="GHOSTS OF WAR 41"/>
+<pb n="41"/>
 
 <l>Mines going up, and no one can say for us</l>
 <l>When it will be; but they waiting some day for us.</l>
@@ -1116,7 +1015,7 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 
 
 <div xml:id="mackintosh014" type="poem" n="14">
-<pb n="42 GHOSTS OF WAR"/>
+<pb n="42"/>
 <head rend="left">DEATH</head>
 
 <lg type="stanza">
@@ -1146,25 +1045,17 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <l>None may be there to see.</l>
 </lg>
 </div>
+</div> <!-- end part I -->
 
-<!-- <div id="mackintosh000001" type="section">
-<titlePage id="mackintosh2009" type="half">
-    <docTitle>
-       <titlePart type="main">II<lb/>OTHER POEMS AND<lb/>THE REMEMBERED GODS
-       </titlePart>
-     </docTitle>
-   </titlePage>
-</div> ***title page here***-->
-
-
+<div xml:id="mackintosh000001" type="part">
+<head>II <lb/>OTHER POEMS AND <lb/>THE REMEMBERED GODS</head>
+<pb/>
 <div xml:id="mackintosh015" type="poem" n="15">
-<pb n="44"/>
-<pb n="45 TO THE UNKOWN LOVE"/>
 <head>TO THE UNKNOWN LOVE</head>
 
 <lg type="stanza">
 <l>A DAY ago, quite suddenly,</l>
-<l rend="inline">Hell opened all its gulf to me,</l>
+<l>Hell opened all its gulf to me,</l>
 <l>I could not tell what I must do,</l>
 <l>And so I tried to think of you.</l>
 <l>And hoped that I might see your eyes</l>
@@ -1181,9 +1072,9 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <l>With seeing you.</l></lg>
 
 <lg type="stanza">
-<l rend="inline">And yet, who knows,</l>
+<l rend="indent18">And yet, who knows,</l>
 
-<pb n="46 TO THE UNKOWN LOVE"/>
+<pb n="46"/>
 
 <l>If I had seen your dear grave eyes,</l>
 <l>Which made the little flower so wise,</l>
@@ -1194,7 +1085,7 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 
 
 <div xml:id="mackintosh016" type="poem" n="16">
-<pb n="SONNET TO THE UNKNOWN LOVE 47"/>
+<pb n="47"/>
 <head>SONNET TO THE UNKNOWN LOVE</head>
 
 <lg type="stanza">
@@ -1220,53 +1111,53 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 
 
 <div xml:id="mackintosh017" type="poem" n="17">
-<pb n="48 SONG"/>
+<pb n="48"/>
 <head>SONG</head>
 
 <lg type="stanza">
 <l>OH, come to me, come to me, bringing</l>
-<l rend="inline">The gifts that you brought me of old,</l>
+<l rend="indent">The gifts that you brought me of old,</l>
 <l>A world that will set me singing.</l>
-<l rend="inline">And a touch that will make me bold.</l>
+<l rend="indent">And a touch that will make me bold.</l>
 <l>The world is too hard for my sorrow,</l>
-<l rend="inline">But it will grow soft to your feet,</l>
+<l rend="indent">But it will grow soft to your feet,</l>
 <l>But though you must leave me to-morrow,</l>
-<l rend="inline">To-night let your coming be fleet.</l>
+<l rend="indent">To-night let your coming be fleet.</l>
 </lg>
 
 <lg type="stanza">
 <l>Oh, come to me, come to me, leaving</l>
-<l rend="inline">The thought that would keep you away,</l>
+<l rend="indent">The thought that would keep you away,</l>
 <l>For the heart of your lover is grieving</l>
-<l rend="inline">In the midst of the beauty of May.</l>
+<l rend="indent">In the midst of the beauty of May.</l>
 <l>For the sorrows that hold me and bind me</l>
-<l rend="inline">When the blossom is fresh on the bough,</l>
+<l rend="indent">When the blossom is fresh on the bough,</l>
 <l>And the mists of illusion that blind me.</l>
-<l rend="inline">Oh, come to me, come to me, now.</l>
+<l rend="indent">Oh, come to me, come to me, now.</l>
 </lg>
 
-<pb n="SONG 49"/>
+<pb n="49"/>
 
 <lg type="stanza">
 <l>Oh, come to me, come to me, over</l>
-<l rend="inline">The miles that would keep us apart,</l>
+<l rend="indent">The miles that would keep us apart,</l>
 <l>Though far from the eyes of your lover,</l>
-<l rend="inline">At least you may visit his heart.</l>
+<l rend="indent">At least you may visit his heart.</l>
 <l>In the night-time, when lovers are nearest,</l>
-<l rend="inline">In dreams like a wandering fay,</l>
+<l rend="indent">In dreams like a wandering fay,</l>
 <l>Oh, come to me, come to me, dearest,</l>
-<l rend="inline">Although you must fly with the day.</l>
+<l rend="indent">Although you must fly with the day.</l>
 </lg>
 </div>
 
 
 <div xml:id="mackintosh018" type="poem" n="18">
-<pb n="50 THE GHOST OF YOUTH"/>
+<pb n="50"/>
 <head rend="left">THE GHOST OF YOUTH</head>
 
 <lg type="stanza">
 <l>IN the cold black hours of the evening time</l>
-<l rend="inline">That finish the empty day,</l>
+<l rend="indent">That finish the empty day,</l>
 <l> When a man can sit and dream again</l>
 <l>Of the joys he threw away.</l>
 <l>When the curtain of things is lifted up</l>
@@ -1286,7 +1177,7 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 <l>Oh God! how long ago.</l>
 </lg>
 
-<pb n="THE GHOST OF YOUTH 51"/>
+<pb n="51"/>
 
 <lg type="stanza">
 <l>The ghost of the boy that I was then</l>
@@ -1312,19 +1203,19 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 </div>
 
 
-<div xml:id="mackintosh1012" type="frontmatter">
-<pb n="52 THE REMEMBERED GODS"/>
-
+<div xml:id="mackintosh1012" type="play">
+<pb n="52"/>
+<head>The Remembered Gods</head>
 <list type="ordered">
-<item>CALUM, Shepherd.</item>
-<item>IAN, Shepherd.</item>
-<item>LIOR, God of the Sea.</item>
-<item>BALOR, God of War.</item>
-<item>ANGUS, God of Love.</item>
-<item>ALASTAIR, a young stranger.</item>
-<item>MAIRI, daughter of Ian.</item>
+<item><hi rend="smallcaps">Calum</hi>, <hi rend="italic">Shepherd.</hi></item>
+<item><hi rend="smallcaps">Ian</hi>, <hi rend="italic">Shepherd.</hi></item>
+<item><hi rend="smallcaps">Lior</hi>, <hi rend="italic">God of the Sea.</hi></item>
+<item><hi rend="smallcaps">Balor</hi>, <hi rend="italic">God of War.</hi></item>
+<item><hi rend="smallcaps">Angus</hi>, <hi rend="italic">God of Love.</hi></item>
+<item><hi rend="smallcaps">Alastair</hi>, <hi rend="italic">a young stranger.</hi></item>
+<item><hi rend="smallcaps">Mairi</hi>, <hi rend="italic">daughter of Ian.</hi></item>
 </list>
-</div>
+
 
 
 <div xml:id="mackintosh1013" type="dedication">
@@ -1332,36 +1223,36 @@ ROEUX, <hi rend="italic">April</hi> 23<hi rend="italic">rd,</hi> 1917</head>
 
 <lg type="stanza">
 <l>If in my song the heart of love</l>
-<l rend="inline">Looks from another maiden's eyes,</l>
+<l rend="indent">Looks from another maiden's eyes,</l>
 <l>Where on the hills of Morven move</l>
-<l rend="inline">The kings too proud for Paradise;</l>
+<l rend="indent">The kings too proud for Paradise;</l>
 <l>Though to your ears the autumn brings</l>
-<l rend="inline">No sounds of crying, you will know</l>
+<l rend="indent">No sounds of crying, you will know</l>
 <l>The murmur of immortal things</l>
-<l rend="inline">In this dark tale of long ago.</l></lg>
+<l rend="indent">In this dark tale of long ago.</l></lg>
 
 <lg type="stanza">
 <l>If in the silence of the nights</l>
-<l rend="inline">The song of Angus calls no more,</l>
+<l rend="indent">The song of Angus calls no more,</l>
 <l>If all the sea is ringed with lights</l>
-<l rend="inline">And no waves moaning on the shore.</l>
+<l rend="indent">And no waves moaning on the shore.</l>
 <l>Though Balor, sleeping on the hills,</l>
-<l rend="inline">Forgets the dew in his drenched hair.</l>
+<l rend="indent">Forgets the dew in his drenched hair.</l>
 <l>You will remember ancient ills,</l>
-<l rend="inline">Pitying another Alastair.</l></lg>
+<l rend="indent">Pitying another Alastair.</l></lg>
 </div>
 
 
 <div xml:id="mackintosh1014" type="Act" n="1">
-<pb n="THE REMEMBERED GODS 53"/>
+<pb n="53"/>
 <head>THE REMEMBERED GODS</head>
 
-<stage type="setting">
-<p>TIME: <hi rend="italic">A long time ago.</hi></p>
-<p>SCENE: <hi rend="italic">A glen in Morven in the West Highlands,
+
+<stage>TIME: <hi rend="italic">A long time ago.</hi></stage>
+<stage>SCENE: <hi rend="italic">A glen in Morven in the West Highlands,
 with big stones</hi>scattered. Behind, a big ben. The stage is dark,
 but in the middle a tall tree shows blacker. Beneath it sits Angus in
-a wreath of mist.</p>
+a wreath of mist.
 </stage>
 
 <stage> (<hi rend="italic">sings</hi>).</stage>
@@ -1386,7 +1277,7 @@ a wreath of mist.</p>
 <l>The gods are forgotten in Morven of the glens.</l>
 <l>The sun shines clearly, and gentle is the day.</l>
  
-<pb n="54 THE REMEMBERED GODS"/>
+<pb n="54"/>
 
 <l>Like snow in summer corries, like mist upon the bens,</l>
 <l>The lovely gods of darkness are vanished away.</l>
@@ -1394,21 +1285,21 @@ a wreath of mist.</p>
 </sp>
 
 <stage type="setting">[<hi rend="italic">Day dawns, and the stage is empty</hi>.</stage>
-<stage type="entrance">CALUM <hi rend="italic">and</hi> IAN <hi rend="italic">come in</hi>.</stage>
+<stage type="entrance"><hi rend="smallcaps">Calum</hi> <hi rend="italic">and</hi> <hi rend="smallcaps">Ian</hi> <hi rend="italic">come in</hi>.</stage>
 
 <sp>
-<speaker>CALUM.</speaker>
+<speaker>Calum.</speaker>
 <l> I thought I heard one of the men of peace.</l>
 <l>Singing alone within the narrow glen.</l>
 </sp>
 
 <sp>
-<speaker>IAN.</speaker>
+<speaker>Ian.</speaker>
 <l> There is none in it.</l>
 </sp>
 
 <sp>
-<speaker>CALUM.</speaker>
+<speaker>Calum.</speaker>
 <lg type="stanza">
 <l>Yet I thought I heard</l>
 <l>A man of peace and he at sorrowing.</l>
@@ -1419,7 +1310,7 @@ a wreath of mist.</p>
 </sp>
 
 <sp>
-<speaker>IAN.</speaker>
+<speaker>Ian.</speaker>
 <lg type="stanza">
 <l> My mother used to say</l>
 <l>That when a man would walk the darkened hills,</l>
@@ -1431,14 +1322,14 @@ a wreath of mist.</p>
 </sp>
 
 <sp>
-<speaker>CALUM.</speaker> 
+<speaker>Calum.</speaker> 
 <lg type="stanza">
 <l> Poor fallen gods, that were the lords of men,</l>
 <l>God's peace upon you. Make your peace with Him.</l>
 <l>Lose your sad pride to win His ready grace,</l>
 <l>And stand upon the golden floor of Heaven</l>
 
-<pb n="THE REMEMBERED GODS 55"/>
+<pb n="55"/>
 
 <l>With other song than this. And yet, who knows,</l>
 <l>May be your pride is of more worth to you</l>
@@ -1479,7 +1370,7 @@ a wreath of mist.</p>
 <l>The golden eyes aglow, the silver laughter ringing,</l>
 <l>Shall we not suffer pain for lovely things as these?</l>
 
-<pb n="56 THE REMEMBERED GODS"/>
+<pb n="56"/>
 
 <l>Let us arise and go, for the old gods are singing,</l>
 <l>The beautiful cruel gods that mock our miseries.</l>
@@ -1487,13 +1378,13 @@ a wreath of mist.</p>
 </sp>
 
 <sp>
-<speaker>IAN.</speaker> 
+<speaker>Ian.</speaker> 
 <l>What voice is this? The men of peace are out.</l>
 <l>May God protect us!</l>
 </sp>
 
 <sp>
-<speaker>CALUM.</speaker>
+<speaker>Calum.</speaker>
 <lg type="stanza"><l>Ian make an end.</l>
 <l>Though all the beaten fairies of the air</l>
 <l>Rise against heaven, we can cast them down,</l>
@@ -1512,10 +1403,10 @@ a wreath of mist.</p>
 </lg>
 </sp>
 
-<stage type="entrance">ALASTAIR <hi rend="italic">comes in</hi>.</stage>
+<stage type="entrance"><hi rend="smallcaps">Alastair</hi> <hi rend="italic">comes in</hi>.</stage>
 
 <sp>
-<speaker>ALASTAIR.</speaker>
+<speaker>Alastair.</speaker>
 <lg type="stanza">
 <l>Christ's love? Then even here men pray to Christ,</l>
 <l>The pitiful intruder; even here</l>
@@ -1523,7 +1414,7 @@ a wreath of mist.</p>
 <l>Where once the old gods would be wandering</l>
 <l>Along the outer fringes of the world,</l>
 
-<pb n="THE REMEMBERED GODS 57"/>
+<pb n="57"/>
 
 <l>The loving god is master.</l>
 </lg>
@@ -1537,13 +1428,13 @@ a wreath of mist.</p>
 </sp>
 
 <sp>
-<speaker>IAN.</speaker>
+<speaker>Ian.</speaker>
 <l>Blasphemer of the world, the Lord is King,</l>
 <l>And has set all your gods below His feet.</l>
 </sp>
 
 <sp>
-<speaker>CALUM.</speaker> 
+<speaker>Calum.</speaker> 
 <l>If Christ the loving God is naught to you,</l>
 <l>Anger and hate more dear to you than love,</l>
 <l>What god would you be praying to at all?</l>
@@ -1566,7 +1457,7 @@ a wreath of mist.</p>
 <l>That wanders still within our quiet hearts,</l>
 <l>Stirring the bitter love we may not sate</l>
 
-<pb n="58 THE REMEMBERED GODS"/>
+<pb n="58"/>
 
 <l>Save with his own white beauty. These are they</l>
 <l>That were your father's gods in the old days.</l>
@@ -1574,7 +1465,7 @@ a wreath of mist.</p>
 </sp>
 
 <sp>
-<speaker>CALUM.</speaker>
+<speaker>Calum.</speaker>
 <lg type="stanza">
 <l> The gods are fallen. On the misty crags</l>
 <l>They walk and sorrow for the olden times.</l>
@@ -1598,12 +1489,12 @@ a wreath of mist.</p>
 </sp>
 
 <sp>
-<speaker>ALASTAIR.</speaker> 
+<speaker>Alastair.</speaker> 
 <l>The gods are living yet, and have their thrones</l>
 <l>In the invisible desires of men.</l>
 <l>Below the quiet current of our lives</l>
 
-<pb n="THE REMEMBERED GODS 59"/>
+<pb n="59"/>
 
 <l>They move and labour to destroy the chains</l>
 <l>Your saints have cast upon our memory.</l>
@@ -1616,8 +1507,7 @@ a wreath of mist.</p>
 </sp>
 
 <sp>
-<speaker>Ian</speaker>
-<stage> (<hi rend="italic">dreamily</hi>).</stage> 
+<speaker>Ian</speaker><stage> (<hi rend="italic">dreamily</hi>).</stage> 
 <lg type="stanza">
 <l> I do remember clamorous desires,</l>
 <l>And lusts awaking in the frozen night,</l>
@@ -1627,7 +1517,7 @@ a wreath of mist.</p>
 </sp>
 
 <sp>
-<speaker>CALUM.</speaker> 
+<speaker>Calum.</speaker> 
 <lg type="stanza">
 <l>Ian, remember greater things than these,</l>
 <l>The little baby god new-born on earth,</l>
@@ -1636,7 +1526,7 @@ a wreath of mist.</p>
 </sp>
 
 <sp>
-<speaker>ALASTAIR.</speaker>
+<speaker>Alastair.</speaker>
 <lg type="stanza"> 
 <l>The sword of night has severed the gentle chains that bound you,</l>
 <l>The lovely gods of darkness rise in your heart anew.</l>
@@ -1646,7 +1536,7 @@ a wreath of mist.</p>
 </sp>
 
 <sp>
-<speaker>IAN.</speaker> 
+<speaker>Ian.</speaker> 
 <lg type="stanza"> 
 <l>White maidens dancing underneath the moon,</l>
 <l>And the fierce glow of battle on the hills,</l>
@@ -1654,10 +1544,10 @@ a wreath of mist.</p>
 </lg>
 </sp>
 
-<pb n="60 THE REMEMBERED GODS"/>
+<pb n="60"/>
 
 <sp>
-<speaker>CALUM.</speaker>
+<speaker>Calum.</speaker>
 <lg type="stanza"> 
 <l>Oh, Ian, wake and see the face of Christ.</l>
 <l>The worn sad face, the pitiful sweet eyes,</l>
@@ -1666,7 +1556,7 @@ a wreath of mist.</p>
 </sp>
 
 <sp>
-<speaker>ALASTAIR.</speaker>
+<speaker>Alastair.</speaker>
 <lg type="stanza"> 
 <l>Dream on, dream on my brother, forget the man of sorrow.</l>
 <l>The way-worn feet and bloody, the eyes too dim with tears.</l>
@@ -1676,7 +1566,7 @@ a wreath of mist.</p>
 </sp>
 
 <sp>
-<speaker>IAN.</speaker>
+<speaker>Ian.</speaker>
 <lg type="stanza"> 
 <l>The slow tides calling, calling on the beach,</l>
 <l>And all the little waves of night afire,</l>
@@ -1694,14 +1584,14 @@ a wreath of mist.</p>
 <l>Burn fiercely in my bosom as of old,</l>
 <l>The lust of slaying, and the bitter blood,</l>
 
-<pb n="THE REMEMBERED GODS 61"/>
+<pb n="61"/>
 
 <l>And the cold smile upon the foeman's face.</l>
 </lg>
 </sp>
 
 <sp>
-<speaker>CALUM.</speaker>
+<speaker>Calum.</speaker>
 <lg type="stanza"> 
 <l>Oh Ian, Ian, will you not remember</l>
 <l>The poor feet that the nails were driven through,</l>
@@ -1711,7 +1601,7 @@ a wreath of mist.</p>
 </sp>
 
 <sp>
-<speaker>IAN.</speaker> 
+<speaker>Ian.</speaker> 
 <lg type="stanza">
 <l>The night is ending. With the day will come</l>
 <l>The memory that dreamers may forget,</l>
@@ -1745,37 +1635,37 @@ a wreath of mist.</p>
 </div>
 
 <div xml:id="mackintosh1015" type="ACT" n="2">
-<pb n="62 THE REMEMBERED GODS"/>
+<pb n="62"/>
 <head>ACT II</head>
 
-<stage><p><hi rend="italic">The scene is</hi> IAN's <hi rend="italic">cottage. A wide fireplace with peats burning,and big
-chests along the walls. At a table sits</hi> MAIRI BAIN. IAN <hi rend="italic">and</hi> ALASTAIR <hi rend="italic">come
+<stage><p><hi rend="italic">The scene is</hi> <hi rend="smallcaps">Ian's</hi> <hi rend="italic">cottage. A wide fireplace with peats burning,and big
+chests along the walls. At a table sits</hi> <hi rend="smallcaps">Mairi Bain</hi>. <hi rend="smallcaps">Ian</hi> <hi rend="italic">and</hi> <hi rend="smallcaps">Alastair</hi> <hi rend="italic">come
 in.</hi></p></stage>
 
 <sp>
-<speaker>IAN.</speaker> 
+<speaker>Ian.</speaker> 
 <l>Mairi put out more peats upon the fire,</l>
 <l>For we have strangers in the house to-night.</l>
 </sp>
 
 <sp>
-<speaker>MAIRI.</speaker> 
+<speaker>Mairi.</speaker> 
 <l>The blessings of our Lord be with you, stranger.</l>
 </sp>
 
 <sp>
-<speaker>ALASTAIR.</speaker> 
+<speaker>Alastair.</speaker> 
 <l>Blessings be with you, woman of the house,</l>
 <l>From older gods and greater lords than he.</l>
 </sp>
 
 <sp>
-<speaker>MAIRI.</speaker> 
+<speaker>Mairi.</speaker> 
 <l>Stranger, that is no luck-word to the house.</l>
 </sp>
 
 <sp>
-<speaker>ALASTAIR.</speaker> 
+<speaker>Alastair.</speaker> 
 <lg type="stanza"> 
 <l>Have you forgotten too, and do you bow,</l>
 <l>Pale lily of Morven, to the beaten god,</l>
@@ -1783,7 +1673,7 @@ in.</hi></p></stage>
 <l>Over the hills beneath a summer moon?</l></lg></sp>
 
 <sp>
-<speaker>IAN.</speaker>
+<speaker>Ian.</speaker>
 <lg type="stanza"> 
 <l>Mairi the days of memory are on us,</l>
 <l>For I have heard the coronach for Christ</l>
@@ -1795,7 +1685,7 @@ in.</hi></p></stage>
 <l>As the waves stilled it; and on the hills of Morven,</l>
 
 
-<pb n="THE REMEMBERED GODS 63"/>
+<pb n="63"/>
 
 <l>Among the unseen secrets of the world,</l>
 <l>Christ that we knelt to once is lying dead.</l>
@@ -1803,11 +1693,11 @@ in.</hi></p></stage>
 </sp>
 
 <sp>
-<speaker>MAIRI.</speaker> 
+<speaker>Mairi.</speaker> 
 <l>Father, have you forgotten God so soon?</l></sp>
 
 <sp>
-<speaker>IAN.</speaker> 
+<speaker>Ian.</speaker> 
 <lg type="stanza"> 
 <l>I have forgotten all things save the song</l>
 <l>Of Angus that I cannot follow now,</l>
@@ -1824,10 +1714,10 @@ in.</hi></p></stage>
 </lg>
 </sp>
 
-<stage>[<hi rend="italic">He goes out.</hi> MAIRI <hi rend="italic">bursts into tears.</hi></stage>
+<stage>[<hi rend="italic">He goes out.</hi> <hi rend="smallcaps">Mairi</hi> <hi rend="italic">bursts into tears.</hi></stage>
 
 <sp>
-<speaker>MAIRI.</speaker> 
+<speaker>Mairi.</speaker> 
 <lg type="stanza">
 <l>My sorrow on the people of the hills,</l>
 <l>My sorrow on the heart that could forget,</l>
@@ -1849,7 +1739,7 @@ in.</hi></p></stage>
 
 <stage>[<hi rend="italic">She turns away.</hi></stage>
 
-<pb n="64 THE GODS REMEMBERED"/>
+<pb n="64"/>
 <lg>
 <l>Hear me, forgetting for a little while</l>
 <l>That I am he who woke the gods again.</l>
@@ -1859,8 +1749,7 @@ in.</hi></p></stage>
 </sp>
 
 <sp>
-<speaker>MAIRI</speaker>
-<stage>(<hi rend="italic">staring at him</hi>).</stage>
+<speaker>Mairi</speaker> <stage>(<hi rend="italic">staring at him</hi>).</stage>
 <l>You are too beautiful for me to hate,</l>
 <l>And yet too evil for my love.</l>
 </sp>
@@ -1888,7 +1777,7 @@ in.</hi></p></stage>
 <l>Long ago beneath the moon.</l>
 </lg>
 
-<pb n="THE REMEMBERED GODS 65"/>
+<pb n="65"/>
 
 <lg type="song">
 <l>Now the moon is full again,</l>
@@ -1920,7 +1809,7 @@ in.</hi></p></stage>
 <l>For the songs I made for you,</l>
 <l>For the love that was before,</l>
 
-<pb n="66 THE REMEMBERED GODS"/>
+<pb n="66"/>
 
 <l>For the heart that still is true</l>
 <l>Oh remember me once more.</l>
@@ -1928,7 +1817,7 @@ in.</hi></p></stage>
 </sp>
 
 <sp>
-<speaker>MAIRI.</speaker>
+<speaker>Mairi.</speaker>
 <lg type="stanza">
 <l> I cannot tell if it be memory</l>
 <l>That burns me so, or if the heart of love</l>
@@ -1937,7 +1826,7 @@ in.</hi></p></stage>
 </sp>
 
 <sp>
-<speaker>ALASTAIR.</speaker> 
+<speaker>Alastair.</speaker> 
 <lg type="stanza">
 <l>The memory of a thousand years is on us,</l>
 <l>The darkened years since our young souls, new-made,</l>
@@ -1954,7 +1843,7 @@ in.</hi></p></stage>
 </sp>
 
 <sp>
-<speaker>MAIRI.</speaker> 
+<speaker>Mairi.</speaker> 
 <lg type="stanza">
 <l>The gods are dead, or if they have I care not,</l>
 <l>For over my poor heart they have no power.</l>
@@ -1966,10 +1855,10 @@ in.</hi></p></stage>
 </lg>
 </sp>
 
-<pb n="THE REMEMBERED GODS 67"/>
+<pb n="67"/>
 
 <sp>
-<speaker>ALASTAIR</speaker>
+<speaker>Alastair</speaker>
 <stage>(<hi rend="italic">coming nearer</hi>).</stage>
 <lg type="stanza">
 <l>Oh draw me close and help me to forget,</l>
@@ -1983,7 +1872,7 @@ in.</hi></p></stage>
 </sp>
 
 <sp>
-<speaker>MAIRI.</speaker> 
+<speaker>Mairi.</speaker> 
 <lg type="stanza">
 <l>I dreamed I saw you seven years ago.</l>
 <l>You brought me heather-honey and blue flowers,</l>
@@ -1992,7 +1881,7 @@ in.</hi></p></stage>
 </sp>
 
 <sp>
-<speaker>ALASTAIR.</speaker> 
+<speaker>Alastair.</speaker> 
 <lg type="stanza"> 
 <l>I will bring you gold from the fairy houses,</l>
 <l>That are below the hills. I will forget</l>
@@ -2001,7 +1890,7 @@ in.</hi></p></stage>
 </sp>
 
 <sp>
-<speaker>MAIRI</speaker>
+<speaker>Mairi</speaker>
 <stage> (<hi rend="italic">puts her arms round his neck</hi>).</stage>
 <lg type="stanza">
 <l>We will not care now for the flying shadows,</l>
@@ -2013,12 +1902,12 @@ in.</hi></p></stage>
 heard. ALASTAIR starts and turns round</hi>.</p></stage>
 
 <sp>
-<speaker>MAIRI.</speaker> 
+<speaker>Mairi.</speaker> 
 <l>What is it that you hear?</l>
 </sp>
 
 <sp>
-<speaker>ALASTAIR.</speaker>
+<speaker>Alastair.</speaker>
 <l>The song of Angus</l>
 <l>Calling across the misty hills to me.</l>
 </sp>
@@ -2028,7 +1917,7 @@ heard. ALASTAIR starts and turns round</hi>.</p></stage>
 
 
 <div xml:id="macintosh1016" type="Act" n="3">
-<pb n="68 THE REMEMBERED GODS"/>
+<pb n="68"/>
 <head>ACT III</head>
 
 <stage type="setting"><hi rend="italic">A grassy place in the
@@ -2060,7 +1949,7 @@ sing.</hi>
 <l>And the songs we could not sing.</l>
 </lg>
 
-<pb n="THE REMEMBERED GODS 69"/>
+<pb n="69"/>
 
 <lg type="song">
 <l>Cry for the wandering singer,</l>
@@ -2074,7 +1963,7 @@ sing.</hi>
 </lg>
 
 <sp>
-<speaker>1ST MAN.</speaker>
+<speaker>1st Man.</speaker>
 <lg type="stanza"> 
 <l>We had our fill of slaying and wild joy</l>
 <l>When Balor gave us victory in Appin.</l>
@@ -2082,7 +1971,7 @@ sing.</hi>
 </sp>
 
 <sp>
-<speaker> 2ND MAN.</speaker> 
+<speaker>2nd Man.</speaker> 
 <lg type="stanza">
 <l>Uisdean was fighting like a great hero</l>
 <l>Of those that were the guard of Fionnagal.</l>
@@ -2090,7 +1979,7 @@ sing.</hi>
 </sp>
 
 <sp>
-<speaker>3RD MAN.</speaker> 
+<speaker>3rd Man.</speaker> 
 <lg type="stanza">
 <l>Uisdean is lying cold upon the hills</l>
 <l>And in the houses they are wailing him,</l>
@@ -2099,7 +1988,7 @@ sing.</hi>
 </sp>
 
 <sp>
-<speaker>1ST MAN.</speaker>
+<speaker>1st Man.</speaker>
 <lg type="stanza">
 <l>It was fine</l>
 <l>Ta hear the way the Appin men were crying,</l>
@@ -2111,12 +2000,12 @@ sing.</hi>
 <stage type="entrance">ALASTAIR <hi rend="italic">comes in</hi>.</stage>
 
 <sp>
-<speaker>ALASTAIR.</speaker> 
+<speaker>Alastair.</speaker> 
 <lg type="stanza">
 <l>Oh praise the gods that have renewed the world,</l>
 <l>Until our old desires are young again.</l>
 
-<pb n="70 THE REMEMBERED GODS"/>
+<pb n="70"/>
 
 <l>The sun is growing weary, and draws on</l>
 <l>The fairy-haunted stillness of the night,</l>
@@ -2127,13 +2016,13 @@ sing.</hi>
 </lg>
 
 <lg type="stanza">
-<l rend="inline">But I</l>
+<l rend="indent">But I</l>
 <l>Bid you farewell, for the last chain of all</l>
 <l>Must be destroyed, and the last honour paid.</l>
 </lg>
 </sp>
 
-<stage type="entrance">&gt;MAIRI <hi rend="italic">and</hi> CALUM <hi rend="italic">come in</hi>.</stage>
+<stage type="entrance"><hi rend="smallcaps">Mairi</hi> <hi rend="italic">and</hi> <hi rend="smallcaps">Calum</hi> <hi rend="italic">come in</hi>.</stage>
 
 <sp>
 <lg>
@@ -2147,7 +2036,7 @@ sing.</hi>
 </sp>
 
 <sp>
-<speaker>1ST MAN.</speaker> 
+<speaker>1st Man.</speaker> 
 <lg type="stanza">
 <l>We will fulfil the sacrifice hereafter.</l>
 <l>And tread behind you in the way of death.</l>
@@ -2155,7 +2044,7 @@ sing.</hi>
 </sp>
 
 <sp>
-<speaker>2ND MAN.</speaker>
+<speaker>2nd Man.</speaker>
 <lg type="stanza"> 
 <l>The servant of the gods will go his way,</l>
 <l>That ends beyond the sight of human eyes</l>
@@ -2166,14 +2055,14 @@ sing.</hi>
 <stage type="exit"><p>[<hi rend="italic">They go out in reverent
 silence, leaving on the stage only</hi>
 
-<pb n="THE REMEMBERED GODS 71"/>
+<pb n="71"/>
 
-ALASTAIR, MAIRI, <hi rend="italic">and</hi> CALUM. MAIRI <hi rend="italic">is struck at first with terror. Then she comes up
-to</hi> ALASTAIR <hi rend="italic">and speaks,
+<hi rend="smallcaps">Alastair, Mairi,</hi> <hi rend="italic">and</hi> <hi rend="smallcaps">Calum</hi>. <hi rend="smallcaps">Mairi</hi> <hi rend="italic">is struck at first with terror. Then she comes up
+to</hi> <hi rend="smallcaps">Alastair</hi> <hi rend="italic">and speaks,
 weeping.</hi></p></stage>
 
 <sp>
-<speaker>MAIRI.</speaker>
+<speaker>Mairi.</speaker>
 <l>Oh heart of mine, you will not leave me so,</l>
 <l>But turn again to see the face of Christ,</l>
 <l>And love that brought us into the bright heaven.</l>
@@ -2192,10 +2081,10 @@ weeping.</hi></p></stage>
 <l>And I am seeing the white feet of the mist.</l>
 </sp>
 
-<stage type="exit">[<hi rend="italic">He goes out</hi>. MAIRI <hi rend="italic">sits down with her head in her hands.</hi></stage>
+<stage type="exit">[<hi rend="italic">He goes out</hi>. <hi rend="smallcaps">Mairi</hi> <hi rend="italic">sits down with her head in her hands.</hi></stage>
 
 <sp>
-<speaker>MAIRI.</speaker> 
+<speaker>Mairi.</speaker> 
 <l>Oh sorrow for the fleeting love of man,</l>
 <l>That the desires of hell have stolen away.</l>
 <l>Oh love of mine, that the dark gods have charmed</l>
@@ -2204,20 +2093,20 @@ weeping.</hi></p></stage>
 <l>It is a farewell for us two evermore.</l>
 <l>The gods have conquered, and the heart of love</l>
 
-<pb n="72 THE REMEMBERED GODS"/>
+<pb n="72"/>
 
 <l>Is bruisèd with the beating of their wings.</l>
 </sp>
 
 <sp>
-<speaker>CALUM.</speaker> 
+<speaker>Calum.</speaker> 
 <l>Mairi, the gods are masters for an hour,</l>
 <l>But in the end our Lord will come again</l>
 <l>With all the host of Heaven for His guard.</l>
 </sp>
 
 <sp>
-<speaker>MAIRI.</speaker> 
+<speaker>Mairi.</speaker> 
 <l>Our Lord will come too late for him. And I</l>
 <l>Have forgot all the sorrow of the world,</l>
 <l>But the swift agony upon the tree</l>
@@ -2233,12 +2122,12 @@ weeping.</hi></p></stage>
 <l>The doors of heaven are shut, and the dark fires</l>
 <l>Burn high to-night for me.</l>
 
-<stage>[<hi rend="italic">She turns to</hi> CALUM.</stage>
-<l rend="inline">But you will know</l>
+<stage>[<hi rend="italic">She turns to</hi> <hi rend="smallcaps">Calum</hi>.</stage>
+<l rend="indent">But you will know</l>
 <l>The sorrow of my love that I must die</l>
 <l>For him I set above the joy of heaven.</l>
 
-<stage>[<hi rend="italic">She stretches out her arms to where</hi> ALASTAIR<hi rend="italic"> has gone out.</hi></stage>
+<stage>[<hi rend="italic">She stretches out her arms to where</hi> <hi rend="smallcaps">Alastair</hi><hi rend="italic"> has gone out.</hi></stage>
 <l>Oh you that brought the bitter gift to me,</l>
 <l>Rejoice. Angus will have his sacrifice.</l>
 </sp>
@@ -2249,7 +2138,7 @@ weeping.</hi></p></stage>
 
 
 <div xml:id="macintosh1017" type="Act" n="4">
-<pb n="THE REMEMBERED GODS 73"/>
+<pb n="73"/>
 <head>ACT IV</head>
 
 <stage type="setting">
@@ -2288,7 +2177,7 @@ the waves of the sea moan, and</hi> LIOR<hi rend="italic">
 speaks.</hi></stage>
 
 <sp>
-<speaker>LIOR.</speaker> 
+<speaker>Lior.</speaker> 
 <lg type="stanza">
 <l>Who will be calling, who will be calling</l>
 <l>The master of waters to waken again?</l>
@@ -2297,7 +2186,7 @@ speaks.</hi></stage>
 </lg>
 
 
-<pb n="74 THE REMEMBERED GODS"/>
+<pb n="74"/>
 
 <lg type="stanza">
 <l>Who will be crying, who will be crying</l>
@@ -2315,7 +2204,7 @@ speaks.</hi></stage>
 </sp>
 
 <sp>
-<speaker>ANGUS.</speaker>
+<speaker>Angus.</speaker>
 <l>Awake, awake, Lior, the time is gone for sleeping;</l>
 <l>The hearts of men remember the haunter of the waves;</l>
 <l>Let your tides awake, for soon they will be keeping</l>
@@ -2327,7 +2216,7 @@ swells into a roar, and the darkness in the west lightens to an
 emerald glow. From it </hi>LIOR <hi rend="italic">speaks</hi>.</p></stage>
 
 <sp>
-<speaker>LIOR.</speaker> 
+<speaker>Lior.</speaker> 
 <lg type="stanza">
 <l>Awake my waters, for men are returning</l>
 <l>From the new god to the lord of the tide.</l>
@@ -2339,7 +2228,7 @@ emerald glow. From it </hi>LIOR <hi rend="italic">speaks</hi>.</p></stage>
 <l>Awake my waters. The north wind is blowing,</l>
 <l>And seaward the sailors are toiling in vain,</l>
 
-<pb n="THE REMEMBERED GODS 75"/>
+<pb n="75"/>
 
 <l>We are the lords of their coming and going,</l>
 <l>Men have remembered the sea-god again.</l>
@@ -2350,7 +2239,7 @@ emerald glow. From it </hi>LIOR <hi rend="italic">speaks</hi>.</p></stage>
 <stage>[<hi rend="italic">From the great ben</hi> BALOR <hi rend="italic">speaks through the falling rain.</hi></stage>
 
 <sp>
-<speaker>BALOR.</speaker> 
+<speaker>Balor.</speaker> 
 <lg type="stanza">
 <l>I will sleep still, for my trumpet of thunder,</l>
 <l>The master of fear, has been silent for long.</l>
@@ -2374,7 +2263,7 @@ emerald glow. From it </hi>LIOR <hi rend="italic">speaks</hi>.</p></stage>
 </sp>
 
 <sp>
-<speaker>ANGUS</speaker> 
+<speaker>Angus</speaker> 
 <l>Oh wake, my brother, wake. The hearts of men grown younger</l>
 <l>Remember Balor striding above the battle-cry.</l>
 <l>The old fires are lit, for the old lusts are stronger;</l>
@@ -2384,10 +2273,10 @@ emerald glow. From it </hi>LIOR <hi rend="italic">speaks</hi>.</p></stage>
 <stage type="setting"><p>[<hi rend="italic">Lightning flashes across
 the sky, and the thunder rolls.</hi></p></stage>
 
-<pb n="76 THE REMEMBERED GODS"/>
+<pb n="76"/>
 
 <sp>
-<speaker>BALOR.</speaker> 
+<speaker>Balor.</speaker> 
 <lg type="stanza">
 <l>I will rise up in the castles of singing,</l>
 <l>The houses of feasting my trumpet shall hear.</l>
@@ -2403,7 +2292,7 @@ the sky, and the thunder rolls.</hi></p></stage>
 </sp>
 
 <sp>
-<speaker>ANGUS.</speaker> 
+<speaker>Angus.</speaker> 
 <lg type="stanza">
 <l>Now the gods are wakened, now the world is old,</l>
 <l>Now the lightnings flash above the rain,</l>
@@ -2427,25 +2316,25 @@ the sky, and the thunder rolls.</hi></p></stage>
 </sp>
 
 <stage type="entrance"><p>[<hi rend="italic">All is quiet</hi>.
-CALUM <hi rend="italic">and</hi> MAIRI <hi rend="italic">come
+<hi rend="smallcaps">Calum</hi> <hi rend="italic">and</hi> <hi rend="smallcaps">Mairi</hi> <hi rend="italic">come
 in</hi>.</p></stage>
 
-<pb n="THE REMEMBERED GODS 77"/>
+<pb n="77"/>
 
 <sp>
-<speaker>CALUM.</speaker> 
+<speaker>Calum.</speaker> 
 <l>This is the place of Angus.</l>
 </sp>
 
 <sp>
-<speaker>MAIRI.</speaker>
-<l rend="inline">Are the hills</l>
+<speaker>Mairi.</speaker>
+<l rend="indent">Are the hills</l>
 <l>As full of terror as they are to-night,</l>
 <l>When you are herding in the nights of spring?</l>
 </sp>
 
 <sp>
-<speaker>CALUM</speaker> 
+<speaker>Calum</speaker> 
 <l>To-night the men of peace have power on earth,</l>
 <l>For men have loosed them. Now the hollow caves</l>
 <l>Send forth a thousand walkers of the hills,</l>
@@ -2456,7 +2345,7 @@ in</hi>.</p></stage>
 </sp>
 
 <sp>
-<speaker>MAIRI.</speaker> 
+<speaker>Mairi.</speaker> 
 <lg type="stanza">
 <l>I see them all about me cold and still,</l>
 <l>The cruel, lovely faces. From the sea</l>
@@ -2471,9 +2360,9 @@ in</hi>.</p></stage>
 <l>Mocking the sorrows of the heart of men</l>
 <l>With cruel, lovely faces.</l>
 
-<pb n="78 THE REMEMBERED GODS"/>
+<pb n="78"/>
 
-<l rend="inline">I remember</l>
+<l rend="indent">I remember</l>
 <l>Alastair's face and I am brave again,</l>
 <l>And all the fairies of the lower air</l>
 <l>Powerless as autumn leaves before the wind</l>
@@ -2492,20 +2381,20 @@ in</hi>.</p></stage>
 </sp>
 
 <sp>
-<speaker>CALUM.</speaker> 
+<speaker>Calum.</speaker> 
 <l>Eilidh will be the princess of the cows,</l>
 <l>When they are herded in the upland glens.</l>
 </sp>
 
 <sp>
-<speaker>MAIRI</speaker> 
+<speaker>Mairi</speaker> 
 <l>And you will bid the children think of me.</l>
 <l>I shall be happy if I hear them weep,</l>
 <l>And see their tears across the flames of Hell.</l>
 </sp>
 
 <sp>
-<speaker>CALUM.</speaker> 
+<speaker>Calum.</speaker> 
 <l>Oh Mairi, there will be no Hell for you,</l>
 <l>But the soft grass that is the floor of Heaven,</l>
 <l>With lilies of the south between each blade,</l>
@@ -2514,10 +2403,10 @@ in</hi>.</p></stage>
 </sp>
 
 <sp>
-<speaker>MAIRI.</speaker> 
+<speaker>Mairi.</speaker> 
 <l>Calum, soft words are harder than sharp stones</l>
 
-<pb n="THE REMEMBERED GODS 79"/>
+<pb n="79"/>
 
 <l>To hearts that know the end of happiness;</l>
 <l>For I will never press the floor of Heaven,</l>
@@ -2535,13 +2424,13 @@ in</hi>.</p></stage>
 </sp>
 
 <sp>
-<speaker>CALUM.</speaker> 
+<speaker>Calum.</speaker> 
 <l>I will not go and leave you on the hills,</l>
 <l>Alone and weak within the fairy ring.</l>
 </sp>
 
 <sp>
-<speaker>MAIRI.</speaker> 
+<speaker>Mairi.</speaker> 
 <l>The men of peace can do no harm to me,</l>
 <l>For I am dead and lost by my own will.</l>
 <l>But go, for I am weakening again,</l>
@@ -2553,23 +2442,23 @@ in</hi>.</p></stage>
 to the tree.</hi></p></stage>
 
 <sp>
-<speaker>MAIRI.</speaker> 
+<speaker>Mairi.</speaker> 
 <l>Darkness, and all around the waiting gods.</l>
 <l>Oh Alastair, your heart will comfort me</l>
 
-<pb n="80 THE REMEMBERED GODS"/>
+<pb n="80"/>
 
 <l>If you remember me a little while.</l>
 <l>As in the darkness I remember you.</l>
 </sp>
 
 <stage type="novelistic"><p>[<hi rend="italic">She hangs herself.
-There is quiet and then</hi> ALASTAIR <hi rend="italic">comes in</hi>.
+There is quiet and then</hi> <hi rend="smallcaps">Alastair</hi> <hi rend="italic">comes in</hi>.
 </p>
 </stage>
 
 <sp>
-<speaker>ALASTAIR.</speaker> 
+<speaker>Alastair.</speaker> 
 <l>This is the last of nights on earth for me,</l>
 <l>Since all is done that I was sent to do,</l>
 <l>Down in the clachan there is wailing now</l>
@@ -2590,7 +2479,7 @@ There is quiet and then</hi> ALASTAIR <hi rend="italic">comes in</hi>.
 <l>More than the heavy fragrance of her hair,</l>
 <l>And the dim soul that looks from her two eyes.</l>
 
-<pb n="THE REMEMBERED GODS 81"/>
+<pb n="81"/>
 
 <l>Oh, the pale shadows of immortal love,</l>
 <l>That shiver in the eyes of mortal maids.</l>
@@ -2604,7 +2493,7 @@ There is quiet and then</hi> ALASTAIR <hi rend="italic">comes in</hi>.
 <l>And cast my soul into the endless sea.</l>
 
 <stage type="novelistic"><p>[<hi rend="italic">He turns to the tree.
-Seeing </hi>MAIRI's<hi rend="italic"> figure in the branches he
+Seeing </hi><hi rend="smallcaps">Mairi's</hi><hi rend="italic"> figure in the branches he
 starts.</hi></p></stage>
 <l>There is a shadow in the lower branches</l>
 <l>Too dark to be the bright wraith of the mist.</l>
@@ -2615,17 +2504,17 @@ tree and sees who it is.</hi></p></stage>
 
 <stage type="novelistic"><p>[<hi rend="italic">He is silent. Then he realizes.</hi></p></stage>
 
-<l rend="inline">And did you cast away your life,</l>
+<l rend="indent">And did you cast away your life,</l>
 <l>Lily of Morven, cast your soul away</l>
 <l>For me, oh love?</l></sp>
 
 <stage type="novelistic"><p>[<hi rend="italic">A light shines over her heart, and gradually spreads over the whole body.</hi></p></stage>
 
 <sp>
-<speaker>ALASTAIR.</speaker>
+<speaker>Alastair.</speaker>
 <l>My brain is all afire,</l>
 
-<pb n="82 THE REMEMBERED GODS"/>
+<pb n="82"/>
 
 <l>And in the flames great temples crashing down,</l>
 <l>The houses of the gods are rent asunder,</l>
@@ -2642,31 +2531,30 @@ tree and sees who it is.</hi></p></stage>
 <stage type="novelistic"><p>[<hi rend="italic">The light spreads over the stage and drives back the mist.</hi></p></stage>
 
 <sp>
-<speaker>ANGUS.</speaker> 
+<speaker>Angus.</speaker> 
 <l>The gods are forgotten in Morven of the glens;</l>
 <l>The sun shines clearly, and gentle is the day;</l>
 <l>Like snow in summer corries, like the mist upon the bens,</l>
 <l>The lovely gods of darkness are vanished away.</l></sp>
 
 
-<p>END OF THE PLAY</p>
+<trailer>End of the Play</trailer>
 </div>
+</div>
+</div><!-- end part -->
 
+<div xml:id="mackintosh0020" type="part">
+<pb n="83"/>
+<head>III <lb/>
+PARODIES AND SONGS <lb/>
+Written for the 5th Seaforth Highlanders and <lb/>for No. 2 Officer Cadet Battalion, Cambridge</head>
 
-<!-- <div id="mackintosh0020" type="section">
-<pb n="PARODIES AND SONGS 83"/>
-<titlePage id="mackintosh2010" type="half">
-  <docTitle>
-  <titlePart type="main">III<lb/>PARODIES AND SONGS<lb/>Written for the 5th Seaforth Highlanders and<lb/> for No. 2 Officer Cadet Battalion, Cambridge
-  </titlePart>
-  </docTitle>
-  </titlePage>
 <pb n="[84]"/>
-</div> ***title page here*** -->
+
 
 
 <div xml:id="mackintosh020" type="poem" n="19">
-<pb n="THE BALEFUL BARD 85"/>
+<pb n="85"/>
 
 <head type="main">THE BALEFUL BARD</head>
 <head type="sub">OR THE MUSE MUNITION-MAKING</head>
@@ -2691,7 +2579,7 @@ tree and sees who it is.</hi></p></stage>
 <l>What men were these who came into the line,</l>
 <l>And sent a message to our Colonel,</l>
 
-<pb n="86 THE BALEFUL BARD"/>
+<pb n="86"/>
 
 <l>Saying the thing was worse than what the Tanks were;</l>
 <l>He answered, begging them to go to Hell.</l>
@@ -2721,7 +2609,7 @@ tree and sees who it is.</hi></p></stage>
 <l>And the pale enemy (to whom I fear</l>
 <l>For the rhyme's sake I must refer as " Hunes")</l>
 
-<pb n="THE BALEFUL BARD 87"/>
+<pb n="87"/>
 
 <l>Shall tremble in their deep dug-outs to hear</l>
 <l>Across the night those wild untuneful tunes,</l>
@@ -2744,7 +2632,7 @@ tree and sees who it is.</hi></p></stage>
 </div>
 
 <div xml:id="mackintosh021" type="poem" n="20">
-<pb n="88 THE SMOKE HELMET"/>
+<pb n="88"/>
 <head type="main">THE SMOKE HELMET</head>
 <head type="sub"><hi rend="italic">Tune</hi>--" The Lum Hat wantin' a Croon "</head>
 
@@ -2772,7 +2660,7 @@ tree and sees who it is.</hi></p></stage>
 <l>And another's Smoke Helmet is torn."</l>
 </lg>
 
-<pb n="THE SMOKE HELMET 89"/>
+<pb n="89"/>
 
 <lg type="stanza">
 <l>The O.C. for his Subaltern sent,</l>
@@ -2807,8 +2695,8 @@ tree and sees who it is.</hi></p></stage>
 </div>
 
 <div xml:id="mackintosh022" type="poem" n="21">
-<pb n="90 THE CHARGE OF THE LIGHT BRIGADE"/>
-<head type="main">THE CHARGE OF THE LIGHT<lb/>
+<pb n="90"/>
+<head type="main">THE CHARGE OF THE LIGHT <lb/>
 BRIGADE</head>
 <head type="sub">BROUGHT UP TO DATE</head>
 
@@ -2831,7 +2719,7 @@ BRIGADE</head>
 <l>Cannon to right of them,</l>
 <l>Cannon to left of them,</l>
 
-<pb n="THE CHARGE OF THE LIGHT BRIGADE 91"/>
+<pb n="91"/>
 
 <l>Cannon in front of them,</l>
 <l>Volleyed and thundered,</l>
@@ -2858,7 +2746,7 @@ BRIGADE</head>
 <l>Down in the grass a bit;</l>
 <l>Over the roar of it</l>
 
-<pb n="92 THE CHARGE OF THE LIGHT BRIGADE"/>
+<pb n="92"/>
 
 <l>Officers yelled, were hit,</l>
 <l>Dropped and lay dying.</l>
@@ -2875,9 +2763,9 @@ BRIGADE</head>
 </div>
 
 <div xml:id="mackintosh023" type="poem" n="22">
-<pb n="TO BASIL 93"/>
+<pb n="93"/>
 <head type="main">TO BASIL, A BAVARIAN BOMBER</head>
-<head type="sub">In MEMORY OF THE BARRICADES IN THE LABYRINTH</head>
+<head type="sub"><hi rend="smallcaps">In Memory of the Barricades in the Labyrinth</hi></head>
 
 <lg type="stanza">
 <l>IN that remembered and unpleasant spot,</l>
@@ -2901,7 +2789,7 @@ BRIGADE</head>
 <l>With little well-aimed lumps of harmless mud.</l>
 </lg>
 
-<pb n="94 TO BASIL"/>
+<pb n="94"/>
 
 <lg type="stanza">
 <l>Often men came to me and said that they</l>
@@ -2936,7 +2824,7 @@ BRIGADE</head>
 <note xml:id="mackintosh94" n="1" resp="#mackintosh" place="foot">Karl Spaeter, a
 prominent Bosche munitioneer.</note>
 
-<pb n="TO BASIL 95"/>
+<pb n="95"/>
 <lg>
 <l>The bomb, a much less dangerous affair,</l>
 <l>And I at last shall down you; for whate'er</l>
@@ -2946,14 +2834,14 @@ prominent Bosche munitioneer.</note>
 </div>
 
 <div xml:id="mackintosh024" type="poem">
-<pb n="96 WHERE THE TRENCHES RUN"/>
-<head>WHERE THE TRENCHES RUN<lb/>DOWN FROM THE SOMME TO<lb/>
+<pb n="96"/>
+<head>WHERE THE TRENCHES RUN <lb/>DOWN FROM THE SOMME TO <lb/>
 THE SEA</head>
 <head type="sub"><hi rend="italic">Tune</hi>--" The Mountains of Morne "</head>
 
 <lg type="stanza">
 <l>OH, Mary, the front is a wonderful place,</l>
-<l rend="inline">Where a person can't fight without shaving his face</l>
+<l rend="indent">Where a person can't fight without shaving his face</l>
 <l>We're not very frightened of shells, so I've found,</l>
 <l>But when generals come near we all get to ground.</l>
 <l>I met one in a trench, and some tea-leaves were there,</l>
@@ -2971,7 +2859,7 @@ THE SEA</head>
 <l>He'd never be asking to go to the Zoo,</l>
 
 
-<pb n="WHERE TRENCHES RUN 97"/>
+<pb n="97"/>
 
 <l>For every dug-out is a menagerie,</l>
 <l>Where the trenches run down from the Somme to the sea.</l>
@@ -3001,9 +2889,10 @@ THE SEA</head>
 </div>
 
 <div xml:id="mackintosh00024" type="poem" n="23">
-<pb n="98 WHERE TRENCHES RUN"/>
-<head type="main"><sic>THE WHOLE DUTY OF A COMPAN</sic><lb/>
+<pb n="98"/>
+<head type="main"><sic>THE WHOLE DUTY OF A COMPAN</sic> <lb/>
 OFFICER</head>
+<div xml:id="mackintosh10201" type="section" n="1">
 <head type="sub">(i) THE OFFENSIVE SPIRIT
 <hi rend="italic">Tune</hi>--"It's the only, only way"</head>
 
@@ -3026,7 +2915,7 @@ OFFICER</head>
 <l>So you strafe him on the spot</l>
 <l>With the only Mills you've got,</l>
 
-<pb n="WHERE TRENCHES RUN 99"/>
+<pb n="99"/>
 
 <l>If you're only wise, you will only say</l>
 <l>"That's the umpteenth Bosche that I've killed to-day ";</l>
@@ -3058,10 +2947,10 @@ OFFICER</head>
 <l>You will find it really the game to play</l>
 <l>If the Bosche attacks you by night or day,</l>
 
-<pb n="100 WHERE THE TRENCHES"/>
+<pb n="100"/>
 
 <l>Just get on the guns, and you'll smash the Huns,</l>
-<l>It's the 0—0—only way.</l>
+<l>It's the O—O—only way.</l>
 </lg>
 </div>
 
@@ -3092,16 +2981,16 @@ OFFICER</head>
 <l>It's the o—o—only way.</l>
 </lg>
 </div>
-
+</div>
 
 <div xml:id="mackintosh025" type="poem" n="24">
-<pb n="HIGH WOOD 101"/>
+<pb n="101"/>
 <head>HIGH WOOD TO WATERLOT FARM</head>
 <head type="sub"><hi rend="italic">Tune</hi>--" Chalk Farm to Camberwell Green "</head>
 
 <lg type="stanza">
 <l>THERE is a wood at the top of a hill,</l>
-<l rend="inline">If it's not shifted it's standing there still;</l>
+<l rend="indent">If it's not shifted it's standing there still;</l>
 <l>There is a farm a short distance away,</l>
 <l>But I'd not advise you to go there by day,</l>
 <l>For the snipers abound, and the shells are not rare,</l>
@@ -3123,33 +3012,33 @@ OFFICER</head>
 </div>
 
 <div xml:id="mackintosh026" type="poem" n="25">
-<pb n="102 THE GERMAN"/>
+<pb n="102"/>
 <head type="main">THE GERMAN IN HIS BLINDNESS</head>
 <head type="sub"><hi rend="italic">Tune</hi>--" Greenland's icy mountains "</head>
 
 <lg type="stanza">
 <l>THE German in his blindness,</l>
-<l rend="inline">He seeks his dug-out door</l>
+<l rend="indent">He seeks his dug-out door</l>
 <l>As soon as our trench-mortars</l>
-<l rend="inline">And guns begin to roar.</l>
+<l rend="indent">And guns begin to roar.</l>
 <l>He doesn't wear equipment,</l>
-<l rend="inline">His sentries aren't about,</l>
+<l rend="indent">His sentries aren't about,</l>
 <l>And then up come the Seaforths</l>
-<l rend="inline">And knock the Bosches out.</l>
+<l rend="indent">And knock the Bosches out.</l>
 </lg>
 
 <lg type="stanza">
 <l>What though their roomy dug-outs</l>
-<l rend="inline">Go down for half a mile,</l>
+<l rend="indent">Go down for half a mile,</l>
 <l>Where every prospect pleases</l>
-<l rend="inline">And only Bosche is vile;</l>
+<l rend="indent">And only Bosche is vile;</l>
 <l>Yet no one of their inmates</l>
-<l rend="inline">Has been known to survive,</l>
+<l rend="indent">Has been known to survive,</l>
 
-<pb n="THE GERMAN 103"/>
+<pb n="103"/>
 
 <l>An intimate acquaintance</l>
-<l rend="inline">With our old Number 5.<ref target="#mackintosh103">1</ref></l>
+<l rend="indent">With our old Number 5.<ref target="#mackintosh103">1</ref></l>
 </lg>
 
 <lg type="stanza">
@@ -3169,55 +3058,55 @@ grenade, a handy little bomb.</note>
 </div>
 
 <div xml:id="mackintosh027" type="poem" n="26">
-<pb n="104 ODE"/>
+<pb n="104"/>
 <head type="main">ODE TO A FRENCH REGIMENT</head>
 <head type="sub">ON FINDING THEY HAD LEFT BEHIND MORE STORES THAN WE<lb/> HAD BARGAINED FOR</head>
 
 <lg type="stanza">
 <l>DEAR Allies, whom we were relieving,</l>
-<l rend="inline">When we came to the line from our rest,</l>
+<l rend="indent">When we came to the line from our rest,</l>
 <l>We came to you fondly believing</l>
-<l rend="inline">You would take us and give us your best.</l>
+<l rend="indent">You would take us and give us your best.</l>
 <l>You gave us your wine in full measure,</l>
-<l rend="inline">Your rum and your coffee was nice,</l>
+<l rend="indent">Your rum and your coffee was nice,</l>
 <l>And as an additional pleasure</l>
-<l rend="inline">You left us your lice.</l>
+<l rend="indent">You left us your lice.</l>
 </lg>
 
 <lg type="stanza">
 <l>Oh, lice full of vigour and beauty,</l>
-<l rend="inline">That rove where the rich blood was spilt,</l>
+<l rend="indent">That rove where the rich blood was spilt,</l>
 <l>Do you really believe it your duty</l>
-<l rend="inline">To make your abode in my kilt?</l>
+<l rend="indent">To make your abode in my kilt?</l>
 <l>Do you honestly think my suspenders</l>
-<l rend="inline">A fit place to take your repose,</l>
+<l rend="indent">A fit place to take your repose,</l>
 
-<pb n="ODE 105"/>
+<pb n="105"/>
 
 <l>And prey on your country's defenders</l>
-<l rend="inline">Instead of her foes?</l>
+<l rend="indent">Instead of her foes?</l>
 </lg>
 
 <lg type="stanza">
 <l>Are you really French vermin, I wonder,</l>
-<l rend="inline">Or when the new trenches were won</l>
+<l rend="indent">Or when the new trenches were won</l>
 <l>Did they count in the tale of their plunder</l>
-<l rend="inline">The fleas and the lice of the Hun?</l>
+<l rend="indent">The fleas and the lice of the Hun?</l>
 <l>Do no thoughts of my vengeance appal you</l>
-<l rend="inline">When at night to the battle you rise.</l>
+<l rend="indent">When at night to the battle you rise.</l>
 <l>Are you patriots, or shall I call you</l>
-<l rend="inline">Mere traitors and spies?</l>
+<l rend="indent">Mere traitors and spies?</l>
 </lg>
 
 <lg type="stanza">
 <l>Nay, then I shall slay you, preferring</l>
-<l rend="inline">To think you the breed of the Bosche,</l>
+<l rend="indent">To think you the breed of the Bosche,</l>
 <l>Who leap from your trenches preparing</l>
-<l rend="inline">To feed on the vitals of Tosh,<ref target="#mackintosh105">1</ref></l>
+<l rend="indent">To feed on the vitals of Tosh,<ref target="#mackintosh105">1</ref></l>
 <l>When the iron of the tailor is singeing</l>
-<l rend="inline">The pleats of the kilt that was mine,</l>
+<l rend="indent">The pleats of the kilt that was mine,</l>
 <l>I like to think you will die singing</l>
-<l rend="inline">The Watch on the Rhine.</l>
+<l rend="indent">The Watch on the Rhine.</l>
 </lg>
 
 <note xml:id="mackintosh105" n="1" resp="#mackintosh" place="foot"> Name by which I
@@ -3226,19 +3115,19 @@ was known in the battalion.</note>
 </div>
 
 <div xml:id="mackintosh028" type="poem" n="27">
-<pb n="106 MY OLD GRENADE"/>
+<pb n="106"/>
 <head>MY OLD GRENADE</head>
 <head type="sub"><hi rend="italic">Tune</hi>--"My Old Shako"</head>
 
 <lg type="stanza">
 <l>I MIND the day, my old grenade,</l>
-<l rend="inline">When first we met at war,</l>
+<l rend="indent">When first we met at war,</l>
 <l>'Twas in a little billet place</l>
-<l rend="inline">Six months ago and more;</l>
+<l rend="indent">Six months ago and more;</l>
 <l>I dreamt that I should be cashiered,</l>
-<l rend="inline">As I went to the Orderly Room--</l>
+<l rend="indent">As I went to the Orderly Room--</l>
 <l>'Twas then I met our Adjutant,</l>
-<l rend="inline">And he spoke my final doom.</l>
+<l rend="indent">And he spoke my final doom.</l>
 </lg>
 
 <lg type="stanza">
@@ -3250,16 +3139,16 @@ was known in the battalion.</note>
 
 <lg type="stanza">
 <l>I recollect, my old grenade,</l>
-<l rend="inline">The time I tried that same,</l>
+<l rend="indent">The time I tried that same,</l>
 
-<pb n="MY OLD GRENADE 107"/>
+<pb n="107"/>
 
 <l>'Twas in a most unpleasant wood,</l>
-<l rend="inline">The Hammerhead<ref target="#mackintosh107">1</ref> by name,</l>
+<l rend="indent">The Hammerhead<ref target="#mackintosh107">1</ref> by name,</l>
 <l>When we waited for three hours or more</l>
-<l rend="inline">Under the Bosches' fire--</l>
+<l rend="indent">Under the Bosches' fire--</l>
 <l>But I only got a beastly cold</l>
-<l rend="inline">And some scratches from the wire.</l>
+<l rend="indent">And some scratches from the wire.</l>
 </lg>
 
 <lg type="stanza">
@@ -3271,18 +3160,18 @@ was known in the battalion.</note>
 
 <lg type="stanza">
 <l>I'm waiting now, my old grenade,</l>
-<l rend="inline">Until the spring sets in,</l>
+<l rend="indent">Until the spring sets in,</l>
 <l>And the blinking old Division</l>
-<l rend="inline">More pushing will begin.</l>
+<l rend="indent">More pushing will begin.</l>
 <l>And when you come to bury me</l>
-<l rend="inline">With a handy pick and spade,</l>
+<l rend="indent">With a handy pick and spade,</l>
 <l>Just write, " Here lies a grenadier</l>
-<l rend="inline">That loathed his old grenade."</l>
+<l rend="indent">That loathed his old grenade."</l>
 </lg>
 
 <note place="foot" xml:id="mackintosh107" n="1">Hammerhead Wood, Thiepval, where the Bosches nearly cut short a bright young life.</note>
 
-<pb n="108 MY OLD GRENADE"/>
+<pb n="108"/>
 <lg>
 <l>Heigh-ho, and I hope that I shall go</l>
 <l>To a place where I shall never get an order or memo.,</l>
@@ -3298,13 +3187,13 @@ was known in the battalion.</note>
 
 <lg type="stanza">
 <l>WHEN our enterprising bombers are not bombing,</l>
-<l rend="inline">And our rifles are not throwing their grenades,</l>
+<l rend="indent">And our rifles are not throwing their grenades,</l>
 <l>We get tidings that the Gilded Staff are coming,</l>
-<l rend="inline">And we get the men to work with picks and spades.</l>
+<l rend="indent">And we get the men to work with picks and spades.</l>
 <l>When our bombing posts at night-time we're alarming</l>
-<l rend="inline">For surprises by the ever-ready Hun,</l>
+<l rend="indent">For surprises by the ever-ready Hun,</l>
 <l>And it's raining and the weather isn't charming,</l>
-<l rend="inline">Oh, a bomber's life is not a happy one.</l>
+<l rend="indent">Oh, a bomber's life is not a happy one.</l>
 </lg>
 
 <lg type="stanza">
@@ -3314,29 +3203,29 @@ was known in the battalion.</note>
 
 <lg type="stanza">
 <l>First our bombing post in trenches we are placing</l>
-<l rend="inline">Where the enterprising German might creep in,</l>
+<l rend="indent">Where the enterprising German might creep in,</l>
 <l>Then back homeward for a memo, we are chasing</l>
-<l rend="inline">On a hand grenade deficient of a pin.</l>
+<l rend="indent">On a hand grenade deficient of a pin.</l>
 </lg>
 
-<pb n="110 A BOMBER'S LIFE"/>
+<pb n="110"/>
 
 <lg type="stanza">
 <l>When our parties we are personally taking</l>
-<l rend="inline">Through a salient<ref target="#mackintosh110">1</ref> that's like a rabbit-run,</l>
+<l rend="indent">Through a salient<ref target="#mackintosh110">1</ref> that's like a rabbit-run,</l>
 <l>And our knees with fear of oil-cans both are quaking,</l>
-<l rend="inline">Oh, a bomber's life is not a happy one.</l>
+<l rend="indent">Oh, a bomber's life is not a happy one.</l>
 </lg>
 
 <lg type="stanza">
 <l>When we contemplate a little mild aggression,</l>
-<l rend="inline">Other officers all gather round and say</l>
+<l rend="indent">Other officers all gather round and say</l>
 <l>In tones of unmistakable depression,</l>
-<l rend="inline">That they'd much prefer it if we'd go away.</l>
+<l rend="indent">That they'd much prefer it if we'd go away.</l>
 <l>When at last, by dint of infinite intriguing,</l>
-<l rend="inline">They allow a little bombing to be done,</l>
+<l rend="indent">They allow a little bombing to be done,</l>
 <l>And we find that all our men are off fatiguing,</l>
-<l rend="inline">Oh, a bomber's life is not a happy one.</l>
+<l rend="indent">Oh, a bomber's life is not a happy one.</l>
 </lg>
 
 <l><hi rend="italic">Chorus</hi>as before.</l>
@@ -3345,13 +3234,13 @@ was known in the battalion.</note>
 </div>
 
 <div xml:id="mackintosh030" type="poem" n="29">
-<pb n="COMPLAINT 111"/>
+<pb n="111"/>
 <head type="main">COMPLAINT OF OUR PRIVATE SOLDIERS</head>
 <head type="sub"><hi rend="italic">Tune</hi>--" We are but little children weak "</head>
 
 <lg type="stanza">
 <l>WE are but little Seaforths weak,</l>
-<l rend="inline">Our pay is seven bob a week.</l>
+<l rend="indent">Our pay is seven bob a week.</l>
 <l>Whate'er we do by night or day,</l>
 <l>It makes no difference to our pay.</l>
 </lg>
@@ -3378,7 +3267,7 @@ record my thanks to them here.
 
 
 <div xml:id="mackintosh031" type="poem" n="30">
-<pb n="112 FOUR AND TWENTY BOMBERS"/>
+<pb n="112"/>
 <head type="main">FOUR AND TWENTY BOMBERS</head>
 <head type="sub"><hi rend="italic">Tune</hi>--" The Ball at Kirriemuir "</head>
 
@@ -3398,18 +3287,18 @@ record my thanks to them here.
 
 <lg type="stanza">
 <l>We bombed 'em for fower hours,</l>
-<l rend="inline">Until we had tae stop,</l>
+<l rend="indent">Until we had tae stop,</l>
 <l>An' then there was a row o' duds</l>
-<l rend="inline">Upon the crater top.</l>
+<l rend="indent">Upon the crater top.</l>
 
 <l><hi rend="italic">Chorus</hi>--Singing, etc.</l>
 
-<pb n="FOUR AND TWENTY BOMBERS 113"/>
+<pb n="113"/>
 
 <l>Sae here's tae the Kaiser,</l>
-<l rend="inline">We'll soon hae's blood,</l>
+<l rend="indent">We'll soon hae's blood,</l>
 <l>If we cannae throw a live</l>
-<l rend="inline">We can aye buzz a dud.</l>
+<l rend="indent">We can aye buzz a dud.</l>
 </lg>
 
 <l><hi rend="italic">Chorus</hi>--Singing, etc.</l>
@@ -3421,7 +3310,7 @@ ballad.
 </div>
 
 <div xml:id="mackintosh032" type="poem" n="31">
-<pb n="114 SNIPER SANDY"/>
+<pb n="114"/>
 <head type="main">SNIPER SANDY<lb/>
 (SERGEANT ALEXANDER MACDONALD, KILLED IN ACTION AT BEAUMONT-HAMEL, <hi rend="italic">November</hi> 18<hi rend="italic">th</hi>, 1916)</head>
 <head type="sub"><hi rend="italic">Tune</hi>--" Sister Susie sewing shirts for soldiers"</head>
@@ -3451,7 +3340,7 @@ ballad.
 <l>Now in the German trenches there's a sniper they call Herman</l>
 <l>A stout and stolid Saxon with a healthy growth of beard,</l>
 
-<pb n="SNIPER SANDY 115"/>
+<pb n="115"/>
 
 <l>And Hermann with his rifle is the pride of every German,</l>
 <l>Until our Sandy gets on him, and Hermann gets afeared,</l>
@@ -3487,7 +3376,7 @@ Staff--</l>
 </div>
 
 <div xml:id="mackintosh033" type="poem" n="32">
-<pb n="116 A SONG IN PRAISE"/>
+<pb n="116"/>
 <head type="main">A SONG IN PRAISE OF THE ARMY SERVICE CORPS</head>
 <head type="sub"><hi rend="italic">Tune</hi>--" The Minstrel Boy to the War has gone "</head>
 
@@ -3510,7 +3399,7 @@ Staff--</l>
 <l>Their letters home made much of that shell,</l>
 <l>And the guns that the Huns turned on them,</l>
 
-<pb n="A SONG IN PRAISE 117"/>
+<pb n="117"/>
 
 <l>They did not mention that the pip-squeak fell</l>
 <l>At least a mile beyon' them.</l></lg>
@@ -3530,16 +3419,13 @@ Staff--</l>
 <pb n="[119]"/>
 
 </div>
+</div> <!-- end part -->
 
-<!-- <div id="mackintosh010101" type="section">
-<titlePage id="mackintosh2011" type="half">
-  <docTitle>
-    <titlePart type="main">IV<lb/>THREE STUDIES IN<lb/>WAR PSYCHOLOGY
-       </titlePart>
-     </docTitle>
-   </titlePage>
-<pb n="A RAID 121"/>
-</div> ***title page here*** -->
+<div xml:id="mackintosh010101" type="part">
+<head>IV<lb/>
+THREE STUDIES IN <lb/>WAR PSYCHOLOGY
+       </head>
+<pb n="121"/>
 
 <div xml:id="mackintosh034" type="story">
 <head>A RAID</head>
@@ -3567,7 +3453,7 @@ trainin'," and followed the rest into the billet.</p>
 happy as they can be. I feel top-hole, too, don't you? I don't see
 that there's anything can spoil it."</p>
 
-<pb n="122 A RAID"/>
+<pb n="122"/>
 
 <p>The other spoke slowly, looking in front of him.</p>
 
@@ -3595,7 +3481,7 @@ they managed to forget their fear for a little, and the Senior
 Subaltern, a light-hearted person entertained the Quartermaster,
 Transport Officer, and Padre
 
-<pb n="A RAID 123"/>
+<pb n="123"/>
 
 with whom they messed, by a vivid and heartrending description of the painful scene which would take place as his mangled corpse was borne down the line, and their unavailing regrets that they had not been kinder to him when he was a bright, happy boy, Charles MacRae, his junior, was more serious, but both of them felt curiously as if the whole raid was just a game of unreality, and at the last moment they would hear that it was " let us pretend," Particularly did they feel this when, after luncheon, they paid their servants the arrears.The Senior Subaltern's batman refused to take the money; to which his officer replied: " You've jolly well got to. I'm not going to have you rifling my pockets for it after I'm dead."From which it may be seen that he was a particularly cheerful pessimist.</p>
 <p>At 2.15 the pontoon waggons, which the sappers had lent the party,
@@ -3608,7 +3494,7 @@ felt no end of a fine fellow, quite forgetting the imminent danger
 which caused the respect. The only thing they seemed to be
 
 
-<pb n="124 A RAID"/>
+<pb n="124"/>
 
 
 nervous of was falling off the waggons. As they drove past a redoubt
@@ -3636,7 +3522,7 @@ they moved along the trench comrades came out of their dug-outs into
 the sunlight to wish them good luck, and from the Coy. Mess to which
 the two officers belonged
 
-<pb n="A RAID 125"/>
+<pb n="125"/>
 
 came shouts of "Tagg!" (the Senior Subaltern's name was MacTaggart).</p>
 
@@ -3664,7 +3550,7 @@ could do with some tea fine."</p>
 
 <p>"Oh, good," said MacTaggart. "Do you hear that, Charles? Three hours we've got. When shall I tell the men to fall in again, sir?"</p>
 
-<pb n="126 A RAID"/>
+<pb n="126"/>
 
 <p>"Seven will do," said the CO. " But what have you done to yourself
 ? I've never seen you look so smart. Is that a new tunic?"</p>
@@ -3690,7 +3576,7 @@ hundred times; only now they were going over the top in two hours'
 time. At last at seven they girded on their weapons, and stumbled up
 the dug-out steps.</p>
 
-<pb n="A RAID 127"/>
+<pb n="127"/>
 
 <p>"Good-bye, old things," said MacTaggart at the top, "no doubt I
 shall see you again some time to-night."</p>
@@ -3717,7 +3603,7 @@ nowhere was there a sound of shelling. It was the quietest evening any
 of them had seen on that battered front; only they knew that soon its
 tranquillity would be torn
 
-<pb n="128 A RAID"/>
+<pb n="128"/>
 
 with the rushing of a thousand shells through the air, and all the
 imminent hell into which they must charge to meet what secret foes
@@ -3742,7 +3628,7 @@ feeling unreasonably that they would be too late into the crater, and
 as they went up the narrow trench leading to it there was a metallic
 roar
 
-<pb n="A RAID 129"/>
+<pb n="129"/>
 
 from the German trench 80 yards away. The men ducked instinctively.</p>
 
@@ -3772,7 +3658,7 @@ made to the second. "Fix bayonets," he whispered, "and keep low."</p>
 
 <p>One by one they slipped into the crater while their officer
 
-<pb n="130 A RAID"/>
+<pb n="130"/>
 
 cursed them softly for not keeping low, or making a row. Then through
 the tunnel, and lying down below the lip he looked at his watch. Ten
@@ -3799,7 +3685,7 @@ crater pressed their faces to the ground that was shaking beneath
 them, trying to hide themselves from that terrible crashing, but their
 officer's heart
 
-<pb n="A RAID 131"/>
+<pb n="131"/>
 
 sang^ within him. It was all right. It was properly timed. He' glanced
 at his watch, and nudged the men on each side of him.</p>
@@ -3826,7 +3712,7 @@ wasn't so far as all that.</p>
 scattered posts, and some strands of broken wire. A huge relief took
 possession of him, as he threw away his wire-cutters,
 
-<pb n="132 A RAID"/>
+<pb n="132"/>
 
 shouting, "Come along, boys! The bloody wire's cut," and plunged forward to the trench.</p>
 
@@ -3850,7 +3736,7 @@ and he sprang back again with his revolver ready. Writhing on the
 dug-out steps lay three of the Germans. The fourth leaned against the
 side with his hands over his face. A savage joy possessed the
 
-<pb n="A RAID 133"/>
+<pb n="133"/>
 
 Senior Subaltern, and he shoved his revolver close to the man's face
 and fired. Those clutching hands dropped, and the German crashed to
@@ -3876,7 +3762,7 @@ staggering run. Blood was streaming down the man's face and neck, and
 then MacTaggart saw one of the most terrible sights in the world, fear
 in the eyes of a brave man.</p>
 
-<pb n="134 A RAID"/>
+<pb n="134"/>
 
 <p>"I'm wounded, sir," the man gasped as he ran.</p>
 
@@ -3910,7 +3796,7 @@ feebly hesitating.</p>
 half-kicked, half-pushed him on to the parapet. Two sappers brought up
 land mines and laid them one in the dug-out, and
 
-<pb n="A RAID 135"/>
+<pb n="135"/>
 
 one in the emplacement. Then they scrambled out, and the two officers prepared to follow.</p>
 
@@ -3937,7 +3823,7 @@ Godstone and I will bring these fellows along."</p>
 his revolver in his right hand and a bomb in his left. He, too,
 like MacTaggart, knew that the odds were a
 
-<pb n="136 A RAID"/>
+<pb n="136"/>
 
 thousand to one against them, but he made no remark. As MacTaggart
 turned back at the corner of the traverse he felt strangely comforted
@@ -3966,7 +3852,7 @@ sitting impassive, looking down the trench to the left. The Sergeant
 climbed up, and between them they lifted the groaning man up the
 twelve-foot parapet.</p>
 
-<pb n="A RAID 137"/>
+<pb n="137"/>
 
 <p>Sergeant Godstone dragged him to a shell-hole, and MacTaggart went
 back for the others. He was alone now, and the queer comfort which the
@@ -3997,7 +3883,7 @@ away.</p>
 <p>A man slipped down from the parapet above him. " I heard ye were
 left behind, sir," he said, conversationally, and
 
-<pb n="138 A RAID"/>
+<pb n="138"/>
 
 MacTaggart turned to see his own bombing Sergeant, come back for him
 through the No Man's Land again. Suddenly he felt "This is all
@@ -4025,7 +3911,7 @@ were bursting shrapnel all along their parapet now, but he did not
 notice except in a curious, unthinking way, as if his mind was dulled
 to danger.He was filled with a hysterical rage against the Germans for
 
-<pb n="A RAID 139"/>
+<pb n="139"/>
 
 hurting his men, and, as he lugged the groaning MacNeil into the
 slight cover of the old trench, with an artistic delight in the thing
@@ -4054,7 +3940,7 @@ pulled them along. Now he was lugging at one, now at the other, and
 now running back with Macdonald, screaming hysterical curses, to throw
 bombs into the Bosche
 
-<pb n="140 A RAID"/>
+<pb n="140"/>
 
 trench. There was one moment of terror when their two land mines went
 up, and another, when Macdonald shouted "They're coming, sir," and he
@@ -4081,7 +3967,7 @@ making the wounded scream with pain; while in the broken hole crouched
 MacTaggart telling the rest to get in and he would cover their
 retreat, till suddenly
 
-<pb n="A RAID 141"/>
+<pb n="141"/>
 
 British shrapnel cloaked the German line, and for five minutes our own
 machine-guns screamed over his head. Then, all at once, the tumult
@@ -4112,7 +3998,7 @@ C.O. gave them both strong whiskies, and brought in Charles MacRae for
 another. Then they went to Brigade
 
 
-<pb n="142 A RAID"/>
+<pb n="142"/>
 
 H.Q., to receive the thanks of the Brigadier, and lastly, jolted off,
 he and Godstone together, in a mess-cart back to the village
@@ -4135,7 +4021,7 @@ fatigué."</p>
 
 
 <div xml:id="mackintosh035" type="story">
-<pb n="IN THE WOOD 143"/>
+<pb n="143"/>
 <head>IN THE WOOD</head>
 
 <p>THE sun struck through the still unriven trees upon earth, baked by
@@ -4154,7 +4040,7 @@ gas launched over the wood four days before, and everywhere among the
 undergrowth and the fallen trees ran a network of narrow trenches and
 shallow burrows from which rose the sound of
 
-<pb n="144 IN THE WOOD"/>
+<pb n="144"/>
 
 talk and the smell of cooking, the resting-place of the supports who
 were to be ready that night to move up through the valley and sweep
@@ -4181,7 +4067,7 @@ didn't understand, but the old hands enlightened them. The Bosche
 might spot them in that thinned wood, and if it did--well, they
 wouldn't do any harm if they
 
-<pb n="IN THE WOOD 145"/>
+<pb n="145"/>
 
 got down into a trench for a bit. All slipped down, while on the
 circling enemy above came rushing two British 'planes, driving him
@@ -4207,7 +4093,7 @@ bursting shrapnel.</p>
 eyes, to some shelter--he knew not quite what.</p>
 
 
-<pb n="146 IN THE WOOD"/>
+<pb n="146"/>
 
 
 <p>Behind the Subaltern came a shout from another of his Company Mess.</p>
@@ -4237,7 +4123,7 @@ you'll suffocate. Have a cigarette."</p>
 <p>"Well, don't be so proud about it," said the Subaltern," I wish I
 could find my pipe," and began to grope for it. The
 
-<pb n="IN THE WOOD 147"/>
+<pb n="147"/>
 
 men in the trench crouched listening for the whining to come near to
 them, and as it did, the. Subaltern ceased looking for his pipe and
@@ -4266,7 +4152,7 @@ stretcher-bearers are."</p>
 <p>The Subaltern felt that he ought to get out, but somehow he
 couldn't. What if the barrage started again and caught
 
-<pb n="148 IN THE WOOD"/>
+<pb n="148"/>
 
 him in the open? He climbed out and stood on the edge ready to jump
 down again if another shell came. From the next trench
@@ -4293,7 +4179,7 @@ badly. Come on now, Willie. It's all right now."</p>
 <p>The dumb man mumbled piteously and cringed to the ground as a shell
 whined over. The two started to take him along to
 
-<pb n="IN THE WOOD 149"/>
+<pb n="149"/>
 
 the Aid Post, but every movement was a difficulty to his uncontrolled
 limbs, and every sound a torture to the bewildered brain. It was a
@@ -4318,7 +4204,7 @@ H.Q., fixing his mind on the job, and not allowing himself to think of
 shells, when a low shrapnel, beautifully timed, burst close beside
 him, knocking him over; picking himself
 
-<pb n="150 IN THE WOOD"/>
+<pb n="150"/>
 
 up he staggered to the trench and handed over the message, only
 conscious of a sudden quiet, for that shrapnel had been the last shell
@@ -4345,7 +4231,7 @@ soldier to be reassured by this feverish talk about bayonets.</p>
 <p>"Oh, we'll get into them all right," he said, "We'll give 'em a
 good deal for this afternoon, and we'll pay them all
 
-<pb n="IN THE WOOD 151"/>
+<pb n="151"/>
 
 right," but inwardly he was thinking of these boys moving up through
 another barrage, and his mind was full of foreboding.</p>
@@ -4368,9 +4254,9 @@ They're the old gang yet."</p>
 <q>
 <lg type="stanza">
 <l>He took me from the fearful pit</l>
-<l rend="inline">And from the miry clay,</l>
+<l rend="indent">And from the miry clay,</l>
 <l>And on a rock he set my feet,</l>
-<l rend="inline">Establishing my way.</l>
+<l rend="indent">Establishing my way.</l>
 </lg>
 </q>
 
@@ -4378,7 +4264,7 @@ They're the old gang yet."</p>
 for this day, boy," and once again the strong rough voices rang out
 through the wood, grim earnestness in every tone:</p>
 
-<pb n="152 IN THE WOOD"/>
+<pb n="152"/>
 
 <q>
 <lg type="stanza">
@@ -4410,7 +4296,7 @@ same.</p>
 </div>
 
 
-<pb n="GOLD BRAID 153"/>
+<pb n="153"/>
 
 <div xml:id="mackintosh036" type="story">
 <head type="main">GOLD BRAID</head>
@@ -4433,7 +4319,7 @@ Sergeant's knowledge and for the human spirit which had faced it. It
 was his own damned fastidiousness
 
 
-<pb n="154 GOLD BRAID"/>
+<pb n="154"/>
 
 of mind that was wrong; always suspecting unreality sub-consciously
 even when he knew it wasn't there. No, perhaps it was that fear and
@@ -4461,7 +4347,7 @@ properly and death and hell and all that rot.</p>
 <p>His mind went back to that trench opposite this point three days
 ago--the yelling and the noise and the fierce excitement
 
-<pb n="GOLD BRAID 155"/>
+<pb n="155"/>
 
 of killing, and Andy--Andy with his arm and half his side torn off,
 telling him to take the others. Andy's lips telling them to leave him,
@@ -4483,7 +4369,7 @@ wouldn't have cared. What a bloody war it was. What was the sense of
 it all? And he used to think war was good fun--but then Andy had been
 there to enjoy it with him. Why couldn't he die too?</p>
 
-<pb n="156 GOLD BRAID"/>
+<pb n="156"/>
 
 <p>"Look out, sirr," said a man, "oil can coming over." Instantly
 self-preservation reasserted itself. Gone was the mourner longing for
@@ -4493,9 +4379,10 @@ watched the falling bomb with rapid and instinctive calculation.</p>
 <trailer>(Unfinished)</trailer>
 <pb n="[157]"/>
 </div>
+</div>
 </body>
 
-<back>
+<!-- <back>
 <div xml:id="mackintosh" type="backmatter">
 <figure><graphic url="" rend="inline"/>
 <figDesc>An image of a page of advertisements included in the back
@@ -4522,8 +4409,7 @@ matter of Mackintosh's War the Liberator</figDesc>
 matter of Mackintosh's War the Liberator</figDesc>
 </figure>
 </div>
-</back>
+</back> -->
 </text>
-</group>
-</text>
+
 </TEI>

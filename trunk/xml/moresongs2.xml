@@ -1,153 +1,228 @@
-<idno type="ocm">ocm06005228</idno>
-<pb n=""/>
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="moresongs2">
+<teiHeader>
+<fileDesc>         
+<titleStmt>
+            <title>More Songs By the Fighting Men: An Electronic Edition</title>
+            <editor><name><choice><reg>Kyle, Galloway, 1871-</reg><sic>Galloway Kyle</sic></choice></name></editor>
+         </titleStmt>
+	 <publicationStmt><publisher>Lewis H. Beck Center for Electronic Collections
+	   and Services, Emory University</publisher><pubPlace>Atlanta, GA</pubPlace><address>
+	     <addrLine>540 Asbury Circle</addrLine>
+	     <addrLine>Woodruff Library</addrLine>
+	     <addrLine>Atlanta, GA 30322</addrLine>
+	   </address><availability><p>©Emory University. Permission is
+	   granted to download, transmit, or otherwise reproduce,
+	   distribute or display the contributions to the work claimed
+	   by Emory University for non-profit educational purposes,
+	   provided this header is included in its entirety.  For
+	   inquiries about commercial uses, contact either: Institute
+	   for Jewish Studies, Emory University, Atlanta GA 30322 or
+	   the Lewis H. Beck Center for Electronic Collections and
+	   Services, Woodruff Library, Emory University, Atlanta,
+	   Georgia 30322 </p></availability><date>2004</date>
+	 <idno type="ocm">ocm06005228</idno>
+	 </publicationStmt>
+	 <seriesStmt>
+	   <title>The Great War</title>
+	 </seriesStmt>
+	 <notesStmt><note/></notesStmt>
+         <sourceDesc>
+            <bibl>
+	     <title>More Songs By the Fighting Men: Soldier Poets: Second Series</title>
+	     <editor>Galloway Kyle</editor>
+	     <pubPlace>London</pubPlace>
+	     <publisher>Erskine McDonald, Ltd</publisher>
+	     <date>1917</date>
+	   </bibl>
+         </sourceDesc>
+      </fileDesc><encodingDesc>
+	<projectDesc><p>Poetry contemporary to World War I (the Great
+	War) has been digitized by OCR or rekeying. The work has been
+	done in conjunction with Dr. Harry Rusche of the English
+	Department, Emory University</p></projectDesc>
+	<tagsDecl><rendition xml:id="quote">Paragraphs including q or quote
+	  elements indicate material that is in a block
+	  quote.</rendition><rendition xml:id="title">Where the title of a work is
+	  italicized, it is marked with a title element, both in the
+	  text and in footnotes.</rendition><namespace name="http://www.tei-c.org/ns/1.0"><tagUsage gi="q" render="#quote">blockquote</tagUsage><tagUsage gi="quote" render="#quote">blockquote</tagUsage><tagUsage gi="title" render="#title">italic</tagUsage></namespace></tagsDecl>
+	<refsDecl><p>The page numbers of the volumes are indicated by
+	page break elements</p>
+	<p/>
+	</refsDecl>
+	<classDecl>
+	  <taxonomy xml:id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
+	  </taxonomy>
+	</classDecl>
+      </encodingDesc><profileDesc>
+         <creation>
+	   <rs type="collection">poetry</rs>
+	   <rs type="language">English</rs>
+            <rs type="ethnicity">Caucasian</rs>
+            <rs type="form">Unedited</rs>
+            <rs type="genre">Poetry</rs>
+            <rs type="geography">Great Britain</rs>
+            <date>1900-1999</date>
+         </creation>
+	 <textClass>
+	   <keywords scheme="#lcsh">
+	     <list>
+	       <item>World War, 1914-1918--Poetry.</item>
+	       <item>English poetry--20th Century.</item>
+	       <item>War.</item>
+	     </list>
+	   </keywords>
+	 </textClass></profileDesc><revisionDesc><change><date>2009</date><label>Beck Center staff</label><name>Tyler Kellerman, encoder</name>encoded according to TEI encoding guidelines</change><change><date>2010</date><label>Beck Center Staff</label><name>Alice Hickcox</name>Header added. Encoding corrected.</change></revisionDesc></teiHeader>
 
-<pb n=""/>
 
 
 
-<l>the remarkable volume that</l>
-<l>gave a new vogue to poetry</l>
+<text>
+<front>
+<div type="advert" xml:id="moresongs1001">
+<head>the remarkable volume that<lb/>
+gave a new vogue to poetry</head>
 
-<l>SOLDIER  POETS:</l>
+<head>SOLDIER  POETS:</head>
 
-<l>Songs of the Fighting Men.</l>
+<head>Songs of the Fighting Men.</head>
 
-<l>Cloth, 2/6 net; Paper, 1/6 net.</l>
+<p rend="italic">Cloth, 2/6 net; Paper, 1/6 net.</p>
 
-<l>24 Contributors, including Capt. Julian Grenfell, d.s.o.</l>
+<p>24 Contributors, including <hi rend="smallcap">Capt. Julian Grenfell, d.s.o.</hi><lb/>
 
-<l>(iive poems], *• Edward Melbourne," m.c. (three poems),</l>
+(five poems), "<hi rend="smallcap">Edward Melbourne," m.c.</hi> (three poems),<lb/>
 
-<l>and Sergt. J.W.  Streets (six poems).</l>
+and <hi rend="smallcap">Sergt. J.W.  Streets</hi> (six poems).</p>
 
-<l>"A wonderful volume."—Daily Chronicle.</l>
+<p>"A wonderful volume."&#x2014;Daily Chronicle.</p>
 
-<l>"A singular proof of spiritual eflSorescence. . . A treasury of</l>
-<l>remembrance which all must read who would know the soldier's hidden</l>
-<l>heart."—Morning Post.</l>
+<p>"A singular proof of spiritual eflSorescence. . . A treasury of
+remembrance which all must read who would know the soldier's hidden
+heart."&#x2014;Morning Post.</p>
 
-<l>"Will be treasured with delight by all lovers of grace and purity in</l>
-<l>verse, and with pride that England is represented by such purity."—</l>
-<l>Yorkshire Post,</l>
+<p>"Will be treasured with delight by all lovers of grace and purity in
+verse, and with pride that England is represented by such purity."&#x2014;
+Yorkshire Post.</p>
 
-<l>"A little volume to treasure            contains poems that will become</l>
+<p>"A little volume to treasure  contains poems that will become
+classics."&#x2014;Daily Mail.</p>
 
-<l>classics."—Daily Mail.</l>
+<p>"This volume, compiled with admirable taste and discrimination by
+Mr. Galloway Kyle, is the work of soldiers who are also singers. How
+sweet their song it needs but a cursory glance through its pages to
+reveal. The poems are the reflections of various temperaments, but
+they are all informed by the spirit of a high resolve and a dauntless
+courage. There is here, too, a certain gaiety of mood which, by some
+strange paradox, appears to be one of the compensations of a soldier's
+life. Some of these men are now numbered with the slain, but they
+have bequeathed to posterity a priceless legacy of song."&#x2014;New Witness.</p>
 
-<l>"This volume, compiled with admirable taste and discrimination by</l>
-<l>Mr. Galloway Kyle, is the work of soldiers who are also singers. How</l>
-<l>sweet their song it needs but a cursory glance through its pages to</l>
-<l>reveal. The poems are the reflections of various temperaments, but</l>
-<l>they are all informed by the spirit of a high resolve and a dauntless</l>
-<l>courage. There is here, too, a certain gaiety of mood which, by some</l>
-<l>strange paradox, appears to be one of the compensations of a soldier's</l>
-<l>life. Some of these men are now numbered with the slain, but they</l>
-<l>have bequeathed to posterity a priceless legacy of song."—New Witness.</l>
+<p>Dr. Hugh Walker, Professor of Literature and Philosophy at St.
+David's College, Lampeter, in the Welsh Outlook:&#x2014;</p>
 
-<l>Dr. Hugh Walker, Professor of Literature and Philosophy at St.</l>
-<l>David's College, Lampeter, in the Welsh Outlook:—</l>
-
-<l>'■^Soldier Poets is nearly always distinctly good, and sometimes it</l>
-<l>comes near to being great poetry. Certainly the spirit that it shows is</l>
-<l>great; There are not infrequent technical flaws: how could it be</l>
-<l>otherwise when some, probably many, of the pieces were composed in</l>
-
-
-
-<pb n=""/>
+<p>"<title>Soldier Poets</title> is nearly always distinctly good, and sometimes it
+comes near to being great poetry. Certainly the spirit that it shows is
+great; There are not infrequent technical flaws: how could it be
+otherwise when some, probably many, of the pieces were composed in
 
 
 
-<l>the trenches? But there is the stark sincerity of purpose, the flawless</l>
-<l>truth which has been the essence of great art ever since art arose among</l>
-<l>men. Though sonje of the pieces are faulty, they are all tingling with</l>
-<l>vitality. They are in touch with reality, yet are nobly free from that</l>
-<l>realism which thinks a stench more real than a perfume, and the</l>
-<l>polluted slime vvhere a river rolls to the sea through some great city</l>
-<l>more real than the infinite ocean beyond.</l>
+<pb/>
 
-<l>" These poems from the land of the sights and smells of death are as</l>
-<l>wholesome as a new-mown hayfield. And they are so because the</l>
-<l>realities the soldiers have fixed their eyes upon are the great realities</l>
-<l>of life and death. • I have tried to picture some thoughts that pass</l>
-<l>through a man's brain when he dies,' writes Streets—alas! 'Wounded</l>
-<l>and missing, July, 1916.' The man who so tries can never do ignobly.</l>
-<l>The vision Streets sees is a reality more enduring than the stench or</l>
-<l>the slime. It is Youth thrilling to give for Liberty ' its love, its hope,</l>
-<l>its radiant morn.'</l>
 
-<l>"The soldiers always have something particular to say; sometimes,</l>
-<l>we may be sure, they could not rest until it was said.   Let us end with</l>
-<l>Captain Grenfell's fine picture of the soldier going into battle.</l>
-<l>This is religio militis—not the least noble variety of religion."</l>
 
-<l>" To read these poems by men of all ranks in the British Army is</l>
-<l>to weep. But let not the reader deceive himself by tears. It is easy</l>
-<l>to weep—and feel safe. Tears will little avail us who profit by the</l>
-<l>brotherly sacrifice of these splendid youths if our emotions do not react</l>
-<l>in effort.       The soldier poet never dwells on horror for horror's</l>
+the trenches? But there is the stark sincerity of purpose, the flawless
+truth which has been the essence of great art ever since art arose among
+men. Though sonje of the pieces are faulty, they are all tingling with
+vitality. They are in touch with reality, yet are nobly free from that
+realism which thinks a stench more real than a perfume, and the
+polluted slime vvhere a river rolls to the sea through some great city
+more real than the infinite ocean beyond.</p>
 
-<l>sake. He knows what life is, and he finds in it beauty and love even</l>
-<l>in the depths of pain. The old style of soldier was inarticulate.</l>
-<l>Poets as far apart as Tennyson and Kipling tried to sing for him. They</l>
-<l>sang well, but the poverty of their effort can only be measured by such</l>
-<l>wonderful soldier verses as these. When the soldier himself sings</l>
-<l>there is no flamboyance, no mock heroic. He uses a language simple,</l>
-<l>direct, sweet. . Here is the secret of the soldier's spirit. We who</l>
-<l>cannot fight may be envoisu to learn this secret, but it means travelling</l>
-<l>by a hard road.      These men have found the realm beyond the</l>
+<p>"These poems from the land of the sights and smells of death are as
+wholesome as a new-mown hayfield. And they are so because the
+realities the soldiers have fixed their eyes upon are the great realities
+of life and death. 'I have tried to picture some thoughts that pass
+through a man's brain when he dies,' writes Streets&#x2014;alas! 'Wounded
+and missing, July, 1916.' The man who so tries can never do ignobly.
+The vision Streets sees is a reality more enduring than the stench or
+the slime. It is Youth thrilling to give for Liberty ' its love, its hope,
+its radiant morn.'</p>
 
-<l>physical."—The New East (Tokyo).</l>
+<p>"The soldiers always have something particular to say; sometimes,
+we may be sure, they could not rest until it was said.   Let us end with
+Captain Grenfell's fine picture of the soldier going into battle.
+This is religio militis&#x2014;not the least noble variety of religion."</p>
 
-<l>The national spirit would be fortified if every adult and every</l>
-<l>adolescent were acquainted with this book. Order it now and see that</l>
-<l>every friend and every school knows about it. A big Public School</l>
-<l>edition is in preparation.</l>
+<p>"To read these poems by men of all ranks in the British Army is
+to weep. But let not the reader deceive himself by tears. It is easy
+to weep&#x2014;and feel safe. Tears will little avail us who profit by the
+brotherly sacrifice of these splendid youths if our emotions do not react
+in effort.       The soldier poet never dwells on horror for horror's
+sake. He knows what life is, and he finds in it beauty and love even
+in the depths of pain. The old style of soldier was inarticulate.
+Poets as far apart as Tennyson and Kipling tried to sing for him. They
+sang well, but the poverty of their effort can only be measured by such
+wonderful soldier verses as these. When the soldier himself sings
+there is no flamboyance, no mock heroic. He uses a language simple,
+direct, sweet. . Here is the secret of the soldier's spirit. We who
+cannot fight may be envoisu to learn this secret, but it means travelling
+by a hard road.      These men have found the realm beyond the
+physical."&#x2014;The New East (Tokyo).</p>
 
-<l>ERSKINE macdonald,  LTD.,  LONDON, W.C. i</l>
+<p>The national spirit would be fortified if every adult and every
+adolescent were acquainted with this book. Order it now and see that
+every friend and every school knows about it. A big Public School
+edition is in preparation.</p>
 
+<p>ERSKINE macdonald,  LTD.,  LONDON, W.C. i</p>
+</div>
 
 
 <pb n="[3]"/>
-<pb n="[***]"/>
-<titlePage id="moresongs21000" type="half">
-   <docTitle>
-    <titlePart type="main">MORE SONGS BY THE<lb/>FIGHTING MEN</titlePart>
-    </docTitle>
-   </titlePage>
-<pb n="[***]"/>
 
-<pb n="[4]"/>
+<!-- <titlePage xml:id="moresongs21000" type="half"> -->
+<!--    <docTitle> -->
+<!--     <titlePart type="main">MORE SONGS BY THE<lb/>FIGHTING MEN</titlePart> -->
+<!--     </docTitle> -->
+<!--    </titlePage> -->
+<!-- <pb/> -->
 
-<pb n="[5]"/>
-<titlePage id="moresongs21001" type="full">
-     <docTitle>
-       <titlePart type="main">MORE SONGS BY THE<lb/>FIGHTING MEN</titlePart>
-<titlePart type="sub">SOLDIER POETS: SECOND SERIES</titlePart>
-     </docTitle>
-       <docImprint>
-<pubPlace>LONDON</pubPlace>
-        <publisher>ERSKINE MACDONALD, LTD.</publisher>
-       </docImprint>
-   </titlePage> 
+<!-- <pb n="[4]"/> -->
 
-<pb n="[6]"/>
-<div id="moresongs21002" type="colophon">
-<p rend="center"><hi rend="italic">All Rights Reserved.<lb/>
-Copyright in the United States of America by Erskine Macdonald, Ltd.<lb/>
-First Published December, 1917.</hi>
-</p>
-</div>
+<!-- <pb n="[5]"/> -->
+<!-- <titlePage xml:id="moresongs21001" type="full"> -->
+<!--      <docTitle> -->
+<!--        <titlePart type="main">MORE SONGS BY THE<lb/>FIGHTING MEN</titlePart> -->
+<!-- <titlePart type="sub">SOLDIER POETS: SECOND SERIES</titlePart> -->
+<!--      </docTitle> -->
+<!--        <docImprint> -->
+<!-- <pubPlace>LONDON</pubPlace> -->
+<!--         <publisher>ERSKINE MACDONALD, LTD.</publisher> -->
+<!--        </docImprint> -->
+<!--    </titlePage>  -->
+
+<!-- <pb n="[6]"/> -->
+<!-- <div xml:id="moresongs21002" type="colophon"> -->
+<!-- <p rend="center"><hi rend="italic">All Rights Reserved.<lb/> -->
+<!-- Copyright in the United States of America by Erskine Macdonald, Ltd.<lb/> -->
+<!-- First Published December, 1917.</hi> -->
+<!-- </p> -->
+<!-- </div> -->
 
 
 <pb n="7"/>
 
-<div id="moresongs21003" type="preface">
+<div xml:id="moresongs21003" type="preface">
 
 <head rend="center">Preface</head>
 
 <p>AN Introduction to this second series of "Soldier
-Poets" is superfluous. What was said hy way of
+Poets" is superfluous. What was said by way of
 Foreword to the original volume is equally true of its
 successor. There is the less need for repetition because
 that original Introduction and the poems that followed
@@ -179,7 +254,7 @@ undertaken by a devoted advocate of the significance of
 the soldier poets' work and its claim to recognition.
 </p>
 
-<pb n="8 Preface"/>
+<pb n="8"/>
 
 <p>We builded better than we knew when we issued the
 original volume as the climax of our proud association
@@ -208,99 +283,101 @@ still march, an invisible army, with their brothers-in-
 arms who continue the material and spiritual warfare
 here in the flesh, inspiring and directing the fight that
 will not end with the war.</p>
-<closer><signed><name>GALLOWAY KYLE.</name></signed></closer>
+<closer><signed><name>GALLOWAY KYLE.</name></signed>
 
-"THE POETRY REVIEW,"
-LONDON, W.C.
-All Saints' Day, 1917.
-
-
-<pb n="9""/>
-<div id="moresongs21004" type="table of contents">
-<figure type="Sterlingtc" rend="inline">
-<figDesc> Image of table of contents in front matter of "More Songs by
-the Fighting Men"</figDesc>
-</figure>
-
-<pb n="10"/>
-<figure type="Sterlingtc" rend="inline">
-<figDesc> Image of table of contents in front matter of "More Songs by
-the Fighting Men"</figDesc>
-</figure>
-
-<pb n="11"/>
-<figure type="Sterlingtc" rend="inline">
-<figDesc> Image of table of contents in front matter of "More Songs by
-the Fighting Men"</figDesc>
-</figure>
-
-<pb n="12"/>
-<figure type="Sterlingtc" rend="inline">
-<figDesc> Image of table of contents in front matter of "More Songs by
-the Fighting Men"</figDesc>
-</figure>
-
-<pb n="13"/>
-<figure type="Sterlingtc" rend="inline">
-<figDesc> Image of table of contents in front matter of "More Songs by
-the Fighting Men"</figDesc>
-</figure>
-
-<pb n="14"/>
-<figure type="Sterlingtc" rend="inline">
-<figDesc> Image of table of contents in front matter of "More Songs by
-the Fighting Men"</figDesc>
-</figure>
+<dateline><name type="place">"THE POETRY REVIEW,"<lb/>
+LONDON, W.C.</name>
+<date>All Saints' Day, 1917.</date>
+</dateline>
+</closer>
 </div>
 
+<pb n="9"/>
+<!-- <div id="moresongs21004" type="table of contents"> -->
+<!-- <figure type="Sterlingtc" rend="inline"> -->
+<!-- <figDesc> Image of table of contents in front matter of "More Songs by -->
+<!-- the Fighting Men"</figDesc> -->
+<!-- </figure> -->
+
+<!-- <pb n="10"/> -->
+<!-- <figure type="Sterlingtc" rend="inline"> -->
+<!-- <figDesc> Image of table of contents in front matter of "More Songs by -->
+<!-- the Fighting Men"</figDesc> -->
+<!-- </figure> -->
+
+<!-- <pb n="11"/> -->
+<!-- <figure type="Sterlingtc" rend="inline"> -->
+<!-- <figDesc> Image of table of contents in front matter of "More Songs by -->
+<!-- the Fighting Men"</figDesc> -->
+<!-- </figure> -->
+
+<!-- <pb n="12"/> -->
+<!-- <figure type="Sterlingtc" rend="inline"> -->
+<!-- <figDesc> Image of table of contents in front matter of "More Songs by -->
+<!-- the Fighting Men"</figDesc> -->
+<!-- </figure> -->
+
+<!-- <pb n="13"/> -->
+<!-- <figure type="Sterlingtc" rend="inline"> -->
+<!-- <figDesc> Image of table of contents in front matter of "More Songs by -->
+<!-- the Fighting Men"</figDesc> -->
+<!-- </figure> -->
+
+<!-- <pb n="14"/> -->
+<!-- <figure type="Sterlingtc" rend="inline"> -->
+<!-- <figDesc> Image of table of contents in front matter of "More Songs by -->
+<!-- the Fighting Men"</figDesc> -->
+<!-- </figure> -->
+<!-- </div> -->
 
 
+</front>
 
 
 <body>
-<div id="moresongs2001" type="poem">
-<pb n="The Gift 15"/>
+<!-- <div xml:id="moresongs201" type="anthology"> -->
+<div type="section" xml:id="moresongs21">
+<docAuthor><name>ERIC DE BANZIE</name> Sapper, R.E.</docAuthor>
+<div xml:id="moresongs2001" type="poem">
+<pb n="15"/>
 <head>The Gift</head>
-<docAuthor><name>ERIC DE BANZIE</name>Sapper, R.E.</docAuthor>
-
 <lg type="stanza">
 <l>"OH, I have known the dreams of youth</l>
 <l>then what</l>
-<l rend="inline">The dead, long, useless years gave promise of;</l>
+<l rend="indent">The dead, long, useless years gave promise of;</l>
 <l>Remnants I'll humbly gift thee&#x2014;all I've got,</l>
-<l rend="inline">Which thy sweet thanks shall be the solace of."</l>
+<l rend="indent">Which thy sweet thanks shall be the solace of."</l>
 <l>Thus spake a restless mind all out of tune</l>
-<l rend="inline">With souls and thoughts the world could offer</l>
-<l rend="inline">him.</l>
+<l rend="indent">With souls and thoughts the world could offer</l>
+<l rend="indent">him.</l>
 <l>Thou know'st he thanked Thee, God, for War's</l>
-<l rend="inline">grand boon&#x2014;</l>
-<l rend="inline">The end, the glory, England proffered him.</l>
+<l rend="indent">grand boon&#x2014;</l>
+<l rend="indent">The end, the glory, England proffered him.</l>
 <l>The sorrow of his going matters not;</l>
-<l rend="inline">Only the fierce high glow that in his heart</l>
+<l rend="indent">Only the fierce high glow that in his heart</l>
 <l>Lit up those remnants that a rifle shot</l>
-<l rend="inline">Filched from an England who was grieved to part.</l>
+<l rend="indent">Filched from an England who was grieved to part.</l>
 <l>Alway, the nobleness that England gives</l>
 <l>Rescinds her royal gift&#x2014;so England lives!</l>
 </lg>
-***France.***
+<dateline>France.</dateline>
+</div>
 </div>
 
 
-
-
-<div id="moresongs2002" type="poem">
-<pb n="The Dawn Patrol 16"/>
+<div type="section" xml:id="moresongs22">
+<docAuthor><name>PAUL BEWSHER</name> D.S.C., Sub-Lieut., R.N.A.S.,
+France</docAuthor>
+<div xml:id="moresongs2002" type="poem">
+<pb n="16"/>
 <head>The Dawn Patrol</head>
-<docAuthor><name>PAUL BEWSHER</name>D.S.C., SUB-LIEUT., R.N.A.S.,
-FRANCE</docAuthor>
-
 <lg type="stanza">
 <l>SOMETIMES I fly at dawn above the sea,</l>
-<l rend="inline">Where, underneath, the restless waters flow-</l>
-<l rend="inline">Silver, and cold, and slow.</l>
+<l rend="indent">Where, underneath, the restless waters flow-</l>
+<l rend="indent">Silver, and cold, and slow.</l>
 <l>Dim in the east there burns a new-born sun,</l>
 <l>Whose rosy gleams along the ripples run,</l>
-<l rend="inline">Save where the mist droops low.</l>
+<l rend="indent">Save where the mist droops low.</l>
 <l>Hiding the level loneliness from me.</l>
 </lg>
 
@@ -308,55 +385,55 @@ FRANCE</docAuthor>
 <lg type="stanza">
 <l>And now appears beneath the milk-white haze</l>
 <l>A little fleet of anchored ships, which lie</l>
-<l rend="inline">In clustered company.</l>
+<l rend="indent">In clustered company.</l>
 <l>And seem as they are yet fast bound by sleep.</l>
 <l>Although the da.f has long begun to peep,</l>
-<l rend="inline">With red-inflamed eye.</l>
+<l rend="indent">With red-inflamed eye.</l>
 <l>Along the still, deserted ocean ways.</l>
 </lg>
 
 <lg type="stanza">
 <l>The fresh, cold wind of dawn blows on my face</l>
 <l>As in the sun's raw heart I swiftly fly.</l>
-<l rend="inline">And watch the seas glide by.</l>
+<l rend="indent">And watch the seas glide by.</l>
 
-<pb n="17 Paul Bewsher"/>
+<pb n="17"/>
 <l>Scarce human seem I, moving through the skies.</l>
 <l>And far removed from warlike enterprise&#x2014;</l>
-<l rend="inline">Like some great gull on high</l>
+<l rend="indent">Like some great gull on high</l>
 <l>Whose white and gleaming wings beat on through</l>
-<l rend="inline">space.</l>
+<l rend="indent">space.</l>
 </lg>
 
 <lg type="stanza">
 <l>Then do I feel with' God quite, quite alone,</l>
 <l>High in the virgin morn, so white and still.</l>
-<l rend="inline">And free from human ill:</l>
+<l rend="indent">And free from human ill:</l>
 <l>My prayers transcend my feeble earth-bound</l>
-<l rend="inline">plaints&#x2014;</l>
+<l rend="indent">plaints&#x2014;</l>
 <l>As though I sang among the happy Saints</l>
-<l rend="inline">With many a holy thrill&#x2014;</l>
+<l rend="indent">With many a holy thrill&#x2014;</l>
 <l>As though the glowing sun were God's bright</l>
-<l rend="inline">Throne.</l>
+<l rend="indent">Throne.</l>
 </lg>
 
 <lg type="stanza">
 <l>My flight is done. I cross the line of foam</l>
 <l>That breaks around a town of grey and red,</l>
-<l rend="inline">Whose streets and squares lie dead</l>
+<l rend="indent">Whose streets and squares lie dead</l>
 <l>Beneath the silent dawn&#x2014;then am I proud</l>
 <l>That England's peace to guard I am allowed;</l>
-<l rend="inline">Then bow my humble head,</l>
+<l rend="indent">Then bow my humble head,</l>
 <l>In thanks to Him Who brings me safely home.</l>
 </lg>
 </div>
+</div>
 
-
-<div id="moresongs2003" type="poem">
-<pb n="To Another Poor Poet 18"/>
+<div type="section" xml:id="moresongs23">
+<docAuthor><name>COLLIN BROOKS</name> Sergeant, Machine Gun Corps</docAuthor>
+<div xml:id="moresongs2003" type="poem">
+<pb n="18"/>
 <head>To Another Poor Poet</head>
-<docAuthor><name>COLLIN BROOKS</name>SERGEANT, MACHINE GUN CORPS</docAuthor>
-
 <lg type="stanza">
 <l>SHALL God forget these darkling years we</l>
 <l>spend</l>
@@ -376,13 +453,13 @@ FRANCE</docAuthor>
 <l>Of all our toil and&#x2014;God shall not forget.</l>
 </lg>
 </div>
+</div>
 
-
-<div id="moresongs2004" type="poem">
-<pb n="Death in France 19"/>
+<div type="section" xml:id="moresongs24">
+<docAuthor><name>CARROLL CARSTAIRS</name> Lieut., Grenadier Guards</docAuthor>
+<div xml:id="moresongs2004" type="poem">
+<pb n="19"/>
 <head>Death in France</head>
-<docAuthor><name>CARROLL CARSTAIRS</name>LIEUT., GRENADIER GUARDS</docAuthor>
-
 <lg type="stanza">
 <l>IF I should die while I am yet in France</l>
 <l>Before the battle clouds have rolled away,</l>
@@ -404,8 +481,8 @@ FRANCE</docAuthor>
 </div>
 
 
-<div id="moresongs2005" type="poem">
-<pb n="More Songs by the Fighting Men 20"/>
+<div xml:id="moresongs2005" type="poem">
+<pb n="20"/>
 <head>The Lover's Mood</head>
 
 <lg type="stanza">
@@ -418,7 +495,7 @@ FRANCE</docAuthor>
 
 
 
-<div id="moresongs2006" type="poem">
+<div xml:id="moresongs2006" type="poem">
 <head>Life and Death</head>
 
 <lg type="stanza">
@@ -428,13 +505,13 @@ FRANCE</docAuthor>
 <l>That it shall be as wonderful as life.</l>
 </lg>
 </div>
+</div>
 
-
-<div id="moresongs2007" type="poem">
-<pb n="The Harvest 21"/>
+<div type="section" xml:id="moresongs27">
+<docAuthor><name>ERNEST K. CHALLENGER</name> Corporal, R.E.</docAuthor>
+<div xml:id="moresongs2007" type="poem">
+<pb n="21"/>
 <head>The Harvest</head>
-<docAuthor><name>ERNEST K. CHALLENGER</name>CORPORAL, R.E.</docAuthor>
-
 <lg type="stanza">
 <l>SHADOWLESS lies the land</l>
 <l>Under the sun.</l>
@@ -463,14 +540,14 @@ FRANCE</docAuthor>
 <l>'Neath the sun's flood</l>
 </lg>
 
-<pb n="More Songs by the Fighting Men 22"/>
+<pb n="22"/>
 
 <lg type="stanza">
 <l>More Songs by the Fighting Men</l>
 <l>Wanders the spirit of death;</l>
 <l>And e'en in the burning noon is an icy breath</l>
 <l>And the red of the west is to me like the redness of</l>
-<l rend="inline">blood.</l>
+<l rend="indent">blood.</l>
 </lg>
 
 <lg type="stanza">
@@ -502,7 +579,7 @@ FRANCE</docAuthor>
 <l>Its own immensity?</l>
 </lg>
 
-<pb n="Ernest K. Challenger 23"/>
+<pb n="23"/>
 
 <lg type="stanza">
 <l>For the voice of the mind is dumb,</l>
@@ -537,7 +614,7 @@ FRANCE</docAuthor>
 <l>Of the winds in the upper air.</l>
 </lg>
 
-<pb n="More Songs by the Figthing Men 24"/>
+<pb n="24"/>
 
 <lg type="stanza">
 <l>What of the men who died</l>
@@ -572,7 +649,7 @@ FRANCE</docAuthor>
 <l>And battled with them for breath.</l>
 </lg>
 
-<pb n="Ernest K. Challenger 25"/>
+<pb n="25"/>
 
 <lg type="stanza">
 <l>And to-day with their coward lips</l>
@@ -607,7 +684,7 @@ FRANCE</docAuthor>
 <l>In the deadly flower of strife.</l>
 </lg>
 
-<pb n="More Songs by the Fighting Men 26"/>
+<pb n="26"/>
 <lg type="stanza">
 <l>And nothing shall purge the land</l>
 <l>Where the curse of sin has stood</l>
@@ -628,41 +705,42 @@ FRANCE</docAuthor>
 
 <dateline>PONT D'ESSARS, FRANCE.</dateline>
 </div>
+</div>
 
-
-<div id="moresongs2008" type="poem">
-<pb n="After-days 27"/>
+<div type="section" xml:id="moresongs28">
+<docAuthor><name>ERIC CHILMAN</name> PRIVATE, EAST YORKS</docAuthor>
+<div xml:id="moresongs2008" type="poem">
+<pb n="27"/>
 <head>After-days</head>
-<docAuthor><name>ERIC CHILMAN</name>PRIVATE, EAST YORKS</docAuthor>
-
 <lg type="stanza">
 <l>WHEN the last gun has long withheld</l>
-<l rend="inline">Its thunder, and its mouth is sealed.</l>
+<l rend="indent">Its thunder, and its mouth is sealed.</l>
 <l>Strong men shall drive the furrow straight</l>
-<l rend="inline">On some remembered battlefield.</l>
+<l rend="indent">On some remembered battlefield.</l>
 </lg>
 
 <lg type="stanza">
 <l>Untroubled they shall hear the loud</l>
-<l rend="inline">And gusty driving of the rains,</l>
+<l rend="indent">And gusty driving of the rains,</l>
 <l>And birds with immemorial voice</l>
-<l rend="inline">Sing as of old in leafy lanes.</l>
+<l rend="indent">Sing as of old in leafy lanes.</l>
 </lg>
 
 <lg type="stanza">
 <l>The stricken, tainted soil shall be</l>
-<l rend="inline">Again a flowery paradise&#x2014;</l>
+<l rend="indent">Again a flowery paradise&#x2014;</l>
 <l>Pure with the memory of the dead</l>
-<l rend="inline">And purer for their sacrifice.</l>
+<l rend="indent">And purer for their sacrifice.</l>
 </lg>
 </div>
+</div>
 
-<div id="moresongs2009" type="poem">
-<pb n="Supermen 28"/>
+<div type="section" xml:id="moresongs29">
+<docAuthor><name>A. NEWBERRY CHOYCE</name> Lieut., Leicestershire
+Regiment</docAuthor>
+<div xml:id="moresongs2009" type="poem">
+<pb n="28"/>
 <head>Supermen</head>
-<docAuthor><name>A. NEWBERRY CHOYCE</name>LIEUT., LEICESTERSHIRE
-REGIMENT</docAuthor>
-
 <lg type="stanza">
 <l>SOME souls there are</l>
 <l>Who in their trial hours</l>
@@ -691,7 +769,7 @@ REGIMENT</docAuthor>
 <l>On Sundays,</l>
 </lg>
 
-<pb n="A. Newberry Choyce 29"/>
+<pb n="29"/>
 
 <lg type="stanza">
 <l>You in some stiff God's house</l>
@@ -715,7 +793,7 @@ REGIMENT</docAuthor>
 </lg>
 </div>
 
-<div id="moresongs2010" type="poem">
+<div xml:id="moresongs2010" type="poem">
 <head>Reincarnation</head>
 
 <lg type="stanza">
@@ -727,7 +805,7 @@ REGIMENT</docAuthor>
 <l>I saw the longing in the eyes of men</l>
 </lg>
 
-<pb n="More Songs by the Fighting Men 30"/>
+<pb n="30"/>
 
 <lg type="stanza">
 <l>Who caught the smile which glorified your face.</l>
@@ -763,7 +841,7 @@ REGIMENT</docAuthor>
 </lg>
 
 
-<pb n="A. Newberry Choyce 31"/>
+<pb n="31"/>
 
 <lg type="stanza">
 <l>So shall I still love on.</l>
@@ -779,7 +857,7 @@ REGIMENT</docAuthor>
 </lg>
 </div>
 
-<div id="moresongs2011" type="poem">
+<div xml:id="moresongs2011" type="poem">
 <head>Loss</head>
 
 <lg type="stanza">
@@ -795,7 +873,7 @@ REGIMENT</docAuthor>
 <l>Passed to the Silent Light.</l>
 </lg>
 
-<pb n="More Songs by the Fighting Men 32"/>
+<pb n="32"/>
 
 <lg type="stanza">
 <l>They say his soul lives on&#x2014;</l>
@@ -810,62 +888,63 @@ REGIMENT</docAuthor>
 <l>God! give his dear warm body back to me."</l>
 </lg>
 </div>
+</div>
 
-<div id="moresongs2012" type="poem">
-<pb n="Immortality 33"/>
+<div type="section" xml:id="moresongs212">
+<docAuthor><name>REGINALD F. CLEMENTS</name>2nd Lieut., Royal Sussex Regiment</docAuthor>
+<div xml:id="moresongs2012" type="poem">
+<pb n="33"/>
 <head>Immortality</head>
-<docAuthor><name>REGINALD F. CLEMENTS</name>2ND LIEUT., ROYAL SUSSEX REGIMENT</docAuthor>
-
 <lg type="stanza">
 <l>I MAY not wait to hear</l>
 <l>What says the wind that sweeps across the lea,</l>
 <l>And yet I know it speaks, and in its voice</l>
 <l>There is some word to make my heart rejoice.</l>
 <l>Some message speeding on eternally</l>
-<l rend="inline">That God has not made clear!</l>
+<l rend="indent">That God has not made clear!</l>
 </lg>
 
 <lg type="stanza">
-<l rend="inline">I may not wait to find</l>
+<l rend="indent">I may not wait to find</l>
 <l>The secret of the seething sea that flows</l>
 <l>Nor ever rests; yet must there be some plan</l>
 <l>Above the most exalted thought of man.</l>
 <l>Some destiny that none but Heaven knows.</l>
-<l rend="inline">And Heaven keeps me blind!</l>
+<l rend="indent">And Heaven keeps me blind!</l>
 </lg>
 
 <lg type="stanza">
-<l rend="inline">I may not wait to know</l>
+<l rend="indent">I may not wait to know</l>
 <l>The secret of the towering mountain height</l>
 <l>That makes my little self so small and frail</l>
 <l>And bids me rest awhile behind the veil,</l>
 <l>Because so far beyond it shines the light</l>
-<l rend="inline">And God would have it so!</l>
+<l rend="indent">And God would have it so!</l>
 </lg>
 
-<pb n="More Songs by the Fighting Men 34"/>
+<pb n="34"/>
 
 <lg type="stanza">
-<l rend="inline">I may not wait; I see</l>
+<l rend="indent">I may not wait; I see</l>
 <l>The hosts of Righteousness go forth to slay</l>
 <l>The armies of a people that would turn</l>
 <l>From all that makes man's nobler soul to burn.</l>
 <l>And yet I feel as now I take my way</l>
-<l rend="inline">My Immortality!</l>
+<l rend="indent">My Immortality!</l>
 </lg>
 </div>
 
-<div id="moresongs2013" type="poem">
+<div xml:id="moresongs2013" type="poem">
 <head>Finis Coronat Opus</head>
 
 <lg type="stanza">
 <l>THOUGH I have lived as one whose soul is</l>
-<l rend="inline">dead</l>
+<l rend="indent">dead</l>
 <l>Nor ever touched my heart-strings to awake.</l>
 <l>Some harmony of love that else had fled</l>
 <l>From where diviner semblance it might take;</l>
 <l>Though I have scorned to hear when there has</l>
-<l rend="inline">called</l>
+<l rend="indent">called</l>
 <l>The sterner voice within that bade me rise</l>
 <l>And spurn the sloth that held my will enthralled</l>
 <l>And veiled my loftier vision to the skies;</l>
@@ -880,41 +959,44 @@ REGIMENT</docAuthor>
 <l>Some flower to which posterity may cleave.</l>
 </lg>
 </div>
+</div>
 
-<div id="moresongs2014" type="poem">
-<pb n="Plymouth Sound 35"/>
-<head>Plymouth Sound</head>
-<docAuthor><name>LEONARD NIELL COOK</name>M.C., 2ND LIEUT., ROYAL
-LANCS REGT.<lb/>(A Rugby and Oxford boy. Killed in action July 7,
+<div type="section" xml:id="moresongs214">
+<docAuthor><name>LEONARD NIELL COOK</name> M.C., 2nd Lieut., Royal
+Lancs Regt. (A Rugby and Oxford boy. Killed in action July 7,
 1917)</docAuthor>
-
+<div xml:id="moresongs2014" type="poem">
+<pb n="35"/>
+<head>Plymouth Sound</head>
 <lg type="stanza">
 <l>OBEDIENT to the echoed harbour gun</l>
-<l rend="inline">The homing traffic on the water's breast</l>
-<l rend="inline">Fold up their tawny wings and take their rest.</l>
+<l rend="indent">The homing traffic on the water's breast</l>
+<l rend="indent">Fold up their tawny wings and take their rest.</l>
 <l>The pale-eyed stars already one by one</l>
 <l>Steal softly forth to look upon the sun,</l>
-<l rend="inline">So proudly parting.  While from island-nest,</l>
-<l rend="inline">Deep-shadowed cove, torn slope, or purple crest,</l>
+<l rend="indent">So proudly parting.  While from island-nest,</l>
+<l rend="indent">Deep-shadowed cove, torn slope, or purple crest,</l>
 <l>All things give praise to God in unison.</l>
 </lg>
 
 <lg type="stanza">
 <l>Then, brothers&#x2014;for the time is very near</l>
-<l rend="inline">When I, the youngest floweret of the heath,</l>
+<l rend="indent">When I, the youngest floweret of the heath,</l>
 <l>Will open in the gloomy courts of Fear,</l>
-<l rend="inline">Perchance to crown the pallid brow of Death&#x2014;</l>
+<l rend="indent">Perchance to crown the pallid brow of Death&#x2014;</l>
 <l>Oh let me, clinging to the greensward here.</l>
-<l rend="inline">Drink in God's quietness with every breath.</l>
+<l rend="indent">Drink in God's quietness with every breath.</l>
 </lg>
 </div>
+</div>
 
-<div id="moresongs2015" type="poem">
-<pb n="Sonnets 36"/>
-<head>Sonnets<lb/>I</head>
-<docAuthor><name>GERALD M. COOPER</name>2ND LIEUT., SCOTS GUARDS</docAuthor>
-
+<div type="section" xml:id="moresongs215">
+<docAuthor><name>GERALD M. COOPER</name>2nd Lieut., Scots Guards</docAuthor>
+<div xml:id="moresongs2015" type="poem">
+<pb n="36"/>
+<head>Sonnets</head>
 <lg type="stanza">
+<head>I</head>
 <l>WEARY of strife and sickening at the thought</l>
 <l>My soul desires release, and as I gaze</l>
 <l>Upon the barrenness that war hath wrought,</l>
@@ -930,13 +1012,13 @@ LANCS REGT.<lb/>(A Rugby and Oxford boy. Killed in action July 7,
 <l>O wondrous mystery! Behold, the earth</l>
 <l>Blossoms again in mystic second birth.</l>
 </lg>
-</div>
 
-<div id="moresongs2016" type="poem">
-<pb n="Gerald M. Cooper 37"/>
-<head>II</head>
+<!-- <div xml:id="moresongs2016" type="poem"> -->
+<pb n="37"/>
+
 
 <lg type="stanza">
+<head>II</head>
 <l>A dark grey sky that merges in the west</l>
 <l>Into pale primrose, where the fading day</l>
 <l>Still lingers like an echo half-expressed</l>
@@ -956,305 +1038,288 @@ LANCS REGT.<lb/>(A Rugby and Oxford boy. Killed in action July 7,
 <l>Then silence and the mystery of night.</l>
 </lg>
 </div>
+</div>
 
-<div id="moresongs2017" type="poem">
-<pb n="&#x2014;But a Short Time to Live 38"/>
-<head>"&#x2014;But a Short Time to Live"</head>
-<docAuthor><name>LESLIE COULSON</name>SERGT., LONDON REGIMENT,
+<div type="section" xml:id="moresongs217">
+<docAuthor><name>LESLIE COULSON</name> Sergt., London Regiment,
 R.F.<lb/>(Died of Wounds in France, October, 1916)</docAuthor>
-
+<div xml:id="moresongs2017" type="poem">
+<pb n="38"/>
+<head>"&#x2014;But a Short Time to Live"</head>
 <lg type="stanza">
 <l>OUR little hour,&#x2014;how swift it flies</l>
 <l>When poppies flare and lilies smile;</l>
 <l>How soon the fleeting minute dies,</l>
-<l rend="inline">Leaving us but a little while</l>
+<l rend="indent">Leaving us but a little while</l>
 <l>To dream our dream, to sing our song,</l>
-<l rend="inline">To pick the fruit, to pluck the flower,</l>
+<l rend="indent">To pick the fruit, to pluck the flower,</l>
 <l>The Gods&#x2014;They do not give us long,&#x2014;</l>
-<l rend="inline">One little hour.</l>
+<l rend="indent">One little hour.</l>
 </lg>
 
 <lg type="stanza">
 <l>One little hour,&#x2014;how short it is</l>
-<l rend="inline">When Love with dew-eyed loveliness</l>
+<l rend="indent">When Love with dew-eyed loveliness</l>
 <l>Raises her lips for ours to kiss</l>
-<l rend="inline">And dies within our first caress.</l>
+<l rend="indent">And dies within our first caress.</l>
 <l>Youth flickers out like wind-blown flame.</l>
-<l rend="inline">Sweets of to-day to-morrow sour.</l>
+<l rend="indent">Sweets of to-day to-morrow sour.</l>
 <l>For Time and Death relentless claim</l>
-<l rend="inline">Our little hour.</l>
+<l rend="indent">Our little hour.</l>
 </lg>
 
 <lg type="stanza">
 <l>Our little hour,&#x2014;how short a time</l>
-<l rend="inline">To wage our wars, to fan our hates,</l>
+<l rend="indent">To wage our wars, to fan our hates,</l>
 </lg>
 
-<pb n="Leslie Coulson 39"/>
+<pb n="39"/>
 
 <lg type="stanza">
 <l>To take our fill of armoured crime,</l>
-<l rend="inline">To troop our banners, storm the gates.</l>
+<l rend="indent">To troop our banners, storm the gates.</l>
 <l>Blood on the sword, our eyes blood-red,</l>
-<l rend="inline">Blind in our puny reign of power,</l>
+<l rend="indent">Blind in our puny reign of power,</l>
 <l>Do we forget how soon is sped</l>
-<l rend="inline">Our little hour?</l>
+<l rend="indent">Our little hour?</l>
 </lg>
 
 <lg type="stanza">
 <l>Our little hour,&#x2014;how soon it dies:</l>
-<l rend="inline">How short a time to tell our beads,</l>
+<l rend="indent">How short a time to tell our beads,</l>
 <l>To chant our feeble Litanies,</l>
-<l rend="inline">To think sweet thoughts, to do good deeds.</l>
+<l rend="indent">To think sweet thoughts, to do good deeds.</l>
 <l>The altar lights grow pale and dim,</l>
-<l rend="inline">The bells hang silent in the tower&#x2014;</l>
+<l rend="indent">The bells hang silent in the tower&#x2014;</l>
 <l>So passes with the dying hymn</l>
-<l rend="inline">Our little hour.</l>
+<l rend="indent">Our little hour.</l>
 </lg>
 </div>
 
-<div id="moresongs2018" type="poem">
+<div xml:id="moresongs2018" type="poem">
 <head>From the Somme</head>
 
 <lg type="stanza">
 <l>IN other days I sang of simple things.</l>
-<l rend="inline">Of summer dawn, and summer noon and night.</l>
+<l rend="indent">Of summer dawn, and summer noon and night.</l>
 <l>The dewy grass, the dew-wet fairy rings.</l>
-<l rend="inline">The lark's long golden flight.</l>
+<l rend="indent">The lark's long golden flight.</l>
 </lg>
 
 <lg type="stanza">
 <l>Deep in the forest I made melody</l>
-<l rend="inline">While squirrels cracked their hazel nuts on high,</l>
+<l rend="indent">While squirrels cracked their hazel nuts on high,</l>
 <l>Or I would cross the wet sand to the sea</l>
-<l rend="inline">And sing to sea and sky.</l>
+<l rend="indent">And sing to sea and sky.</l>
 </lg>
 
-<pb n="More Songs by the Fighting Men 40"/>
+<pb n="40"/>
 
 <lg type="stanza">
 <l>When came the silvered silence of the night</l>
-<l rend="inline">I stole to casements over scented lawns.</l>
+<l rend="indent">I stole to casements over scented lawns.</l>
 <l>And softly sang of love and love's delight</l>
-<l rend="inline">To mute white marble fauns.</l>
+<l rend="indent">To mute white marble fauns.</l>
 </lg>
 
 <lg type="stanza">
 <l>Oft in the tavern parlour I would sing</l>
-<l rend="inline">Of morning sun upon the mountain vine,</l>
+<l rend="indent">Of morning sun upon the mountain vine,</l>
 <l>And, calling for a chorus, sweep the string</l>
-<l rend="inline">In praise of good red wine.</l>
+<l rend="indent">In praise of good red wine.</l>
 </lg>
 
 <lg type="stanza">
 <l>I played with all the toys the gods provide,</l>
-<l rend="inline">I sang my songs and made glad holiday.</l>
+<l rend="indent">I sang my songs and made glad holiday.</l>
 <l>Now I have cast my broken toys aside</l>
-<l rend="inline">And flung my lute away.</l>
+<l rend="indent">And flung my lute away.</l>
 </lg>
 
 <lg type="stanza">
 <l>A singer once, I now am fain to weep.</l>
-<l rend="inline">Within my soul I feel strange music swell.</l>
+<l rend="indent">Within my soul I feel strange music swell.</l>
 <l>Vast chants of tragedy too deep&#x2014;too deep</l>
-<l rend="inline">For my poor lips to tell.</l>
+<l rend="indent">For my poor lips to tell.</l>
 </lg>
 </div>
 
-<div id="moresongs2019" type="poem">
+<div xml:id="moresongs2019" type="poem">
 <head>The Secret</head>
-
 <lg type="stanza">
 <l>WHAT is the secret&#x2014;the secret</l>
-<l rend="inline">That lies at the heart of it all&#x2014;</l>
+<l rend="indent">That lies at the heart of it all&#x2014;</l>
 <l>The surge of the stars, the cry of the wind.</l>
-<l rend="inline">And the beat of the sea.</l>
+<l rend="indent">And the beat of the sea.</l>
 <l>And the surge, and the cry, and the beat of the</l>
-<l rend="inline">soul in me?</l>
+<l rend="indent">soul in me?</l>
 </lg>
 </div>
+</div>
 
-<div id="moresongs2020" type="poem">
-<pb n="The Wind in the Trees 41"/>
+<div type="section" xml:id="moresongs220">
+<docAuthor><name>S. DONALD COX</name> Private, Rifle Brigade, B.E.F.,
+France</docAuthor>
+<div xml:id="moresongs2020" type="poem">
+<pb n="41"/>
 <head>The Wind in the Trees</head>
-<docAuthor><name>S. DONALD COX</name>PRIVATE, RIFLE BRIGADE, B.E.F.,
-FRANCE</docAuthor>
-
 <lg type="stanza">
 <l>WIND! Wind! what do you bring</l>
-<l rend="inline">With the whirling flake and the flying</l>
-<l rend="inline">cloud?</l>
+<l rend="indent">With the whirling flake and the flying</l>
+<l rend="indent">cloud?</l>
 <l>A victor's bays and a song to sing?</l>
-<l rend="inline">>&#x2014;Nay, but a hero's shroud!</l>
+<l rend="indent">>&#x2014;Nay, but a hero's shroud!</l>
 </lg>
 
 <lg type="stanza">
 <l>Wild wind! what do you bear&#x2014;</l>
 <l>A song of the men who fought and fell,</l>
 <l>A tale of the strong to do and dare?</l>
-<l rend="inline">&#x2014;Aye, and a tolling bell!</l>
+<l rend="indent">&#x2014;Aye, and a tolling bell!</l>
 </lg>
 
 <lg type="stanza">
 <l>Wind! wind! what do you see&#x2014;</l>
 <l>The flying flags and the soldiers brave,</l>
 <l>The marching men, the bold and free?</l>
-<l rend="inline">&#x2014;Nay, but a new-dug grave!</l>
+<l rend="indent">&#x2014;Nay, but a new-dug grave!</l>
 </lg>
 
 <lg type="stanza">
 <l>Wild wind! what do you moan</l>
 <l>To the frosty night and the cloud-wracked sky?</l>
-<l rend="inline">&#x2014;A soldier's cross, a father's groan.</l>
-<l rend="inline">And a mother's hopeless cry!</l>
+<l rend="indent">&#x2014;A soldier's cross, a father's groan.</l>
+<l rend="indent">And a mother's hopeless cry!</l>
 </lg>
 </div>
 
-<div id="moresongs2021" type="poem">
-<pb n="More Songs by the Figthing Men 42"/>
+<div xml:id="moresongs2021" type="poem">
+<pb n="42"/>
 <head>On a Girl killed by German Shrapnel</head>
 
 <lg type="stanza">
 <l>IT is not much: one child the less to sing</l>
-<l rend="inline">Her passage through the hours;</l>
+<l rend="indent">Her passage through the hours;</l>
 <l>One girl the less to greet the coming spring.</l>
-<l rend="inline">And pluck the summer's flow'rs.</l>
+<l rend="indent">And pluck the summer's flow'rs.</l>
 </lg>
 
 <lg type="stanza">
 <l>It is not much: one little coffin made</l>
-<l rend="inline">And one more little shroud.</l>
+<l rend="indent">And one more little shroud.</l>
 <l>One hush the more within the room's dark shade.</l>
-<l rend="inline">One less word said aloud.</l>
+<l rend="indent">One less word said aloud.</l>
 </lg>
 
 <lg type="stanza">
 <l>It is not much: one prayer the less to God,</l>
-<l rend="inline">From Whom all prayers have birth.</l>
+<l rend="indent">From Whom all prayers have birth.</l>
 <l>One scar the more across the fresh green sod.</l>
-<l rend="inline">One shovel more of earth.</l>
+<l rend="indent">One shovel more of earth.</l>
 </lg>
 
 <lg type="stanza">
 <l>It is not much: yet could it have been more?</l>
-<l rend="inline">God thinks the same of such.</l>
+<l rend="indent">God thinks the same of such.</l>
 <l>As of the proudest hero killed in war:&#x2014;</l>
-<l rend="inline">Who says it is not much?</l>
+<l rend="indent">Who says it is not much?</l>
 </lg>
 
 <dateline>France, July, 1917.</dateline>
 </div>
 
-<div id="moresongs2022" type="poem">
-<pb n="S. Donald Cox 43"/>
+<div xml:id="moresongs2022" type="poem">
+<pb n="43"/>
 <head>Life</head>
 
 <lg type="stanza">
 <l>LILT of a child's gay laughter,</l>
-<l rend="inline">Cry of a soul in pain.</l>
+<l rend="indent">Cry of a soul in pain.</l>
 <l>Sunshine awhile, and after</l>
-<l rend="inline">Rain.</l>
+<l rend="indent">Rain.</l>
 </lg>
 
 <lg type="stanza">
 <l>Day and the zest of living.</l>
-<l rend="inline">Dusk and the dark's release;</l>
+<l rend="indent">Dusk and the dark's release;</l>
 <l>After the hour of striving</l>
-<l rend="inline">Peace.</l>
+<l rend="indent">Peace.</l>
 </lg>
 
 <lg type="stanza">
 <l>After the conflict's flurry,</l>
-<l rend="inline">Silence serene and deep;</l>
+<l rend="indent">Silence serene and deep;</l>
 <l>After the stress and hurry</l>
-<l rend="inline">Sleep.</l>
+<l rend="indent">Sleep.</l>
 </lg>
 </div>
+</div>
 
-<div id="moresongs2023" type="poem">
-<pb n="The Dream-path 44"/>
+<div type="section" xml:id="moresongs223">
+<docAuthor><name>JOHN EUGENE CROMBIE</name> Captain, Gordon Highlanders  
+(Killed in Action, St. George's Day, 1917)</docAuthor>
+<div xml:id="moresongs2023" type="poem">
+<pb n="44"/>
 <head>The Dream-path</head>
-<docAuthor><name>JOHN EUGENE CROMBIE</name>CAPTAIN, GORDON HIGHLANDERS
-<lb/>(Killed in Action, St. George's Day, 1917)</docAuthor>
-
 <lg type="stanza">
-<l>WALKING my dream-paved road on the Hill</l>
-<l rend="inline">of Desire</l>
-<l rend="inline">I saw beneath me the City of Quiet Delight;</l>
+<l>WALKING my dream-paved road on the Hill of Desire</l>
+<l rend="indent">I saw beneath me the City of Quiet Delight;</l>
 <l>The warming rays from each home-welcoming fire</l>
-<l rend="inline">Wove a pattern of gold on the velvet curtain of</l>
-<l rend="inline">night.</l>
+<l rend="indent">Wove a pattern of gold on the velvet curtain of night.</l>
 </lg>
 
 <lg type="stanza">
-<l>The scent from the hill's rank grass put desire in my</l>
-<l rend="inline">soul</l>
-<l rend="inline">To attain to the City below in the Valley of Hope,</l>
+<l>The scent from the hill's rank grass put desire in my soul</l>
+<l rend="indent">To attain to the City below in the Valley of Hope,</l>
 <l>But my grey path led beyond the horizon's roll.</l>
-<l rend="inline">Binding my feet in the web of a dream-made rope.</l>
+<l rend="indent">Binding my feet in the web of a dream-made rope.</l>
 </lg>
 
 <lg type="stanza">
-<l>Reluctant, I followed the path, where I knew was</l>
-<l rend="inline">Pain,</l>
-<l>The distance glared with a furnace glow in the</l>
-<l rend="inline">sky.</l>
-<l>And the voice of the sea and the splashing of tropic</l>
-<l rend="inline">>rain</l>
-<l>Were the hiss of the steam from untaught</l>
-<l rend="inline">Machinery.</l>
+<l>Reluctant, I followed the path, where I knew was Pain,</l>
+<l>The distance glared with a furnace glow in the sky.</l>
+<l>And the voice of the sea and the splashing of tropic rain</l>
+<l>Were the hiss of the steam from untaught Machinery.</l>
 </lg>
 
-<pb n="John Eugene Crombie 45"/>
+<pb n="45"/>
 
 <lg type="stanza">
-<l>My dream-path led through the Furnace, and Pain,</l>
-<l rend="inline">and Fire&#x2014;</l>
-<l rend="inline">I could not stay nor turn from the road in flight&#x2014;</l>
-<l>But I knew it would lead me back past the Hill of</l>
-<l rend="inline">Desire</l>
-<l>To the warm hearth-stones in the City of Quiet</l>
-<l rend="inline">Delight.</l>
+<l>My dream-path led through the Furnace, and Pain, and Fire&#x2014;</l>
+<l rend="indent">I could not stay nor turn from the road in flight&#x2014;</l>
+<l>But I knew it would lead me back past the Hill of Desire</l>
+<l>To the warm hearth-stones in the City of Quiet Delight.</l>
 </lg>
 </div>
 
-<div id="moresongs2024" type="poem">
+<div xml:id="moresongs2024" type="poem">
 <head>The Pedlar</head>
 
 <lg type="stanza">
-<l>THERE'S a broken, lame old pedlar a-limping</l>
-<l>down the street,</l>
-<l>Cold sorrow at his heart, a hard road beneath his</l>
-<l rend="inline">feet,</l>
+<l>THERE'S a broken, lame old pedlar a-limping down the street,</l>
+<l>Cold sorrow at his heart, a hard road beneath his feet,</l>
 <l>Lifeless walls around him and a leaden sky above</l>
-<l>As he searches through the city for the face of his</l>
-<l rend="inline">lost Love.</l>
+<l>As he searches through the city for the face of his lost Love.</l>
 </lg>
 
 <lg type="stanza">
-<l>Red and blue and golden leaps the flame of his</l>
-<l rend="inline">desire;</l>
+<l>Red and blue and golden leaps the flame of his desire;</l>
 <l>Red, for glowing embers of a vagabond's night fire.</l>
 <l>Blue, to seek the deep unf athomed glory of the sea.</l>
-<l>And gold for Northern sunsets, wealth of beggars</l>
-<l rend="inline">such as he.</l>
+<l>And gold for Northern sunsets, wealth of beggars such as he.</l>
 </lg>
 
-<pb n="More Songs by the Fighting Men 46"/>
+<pb n="46"/>
 
 <lg type="stanza">
-<l>The fire and sea and sunset are the face of his lost</l>
-<l rend="inline">Love,</l>
-<l>His heart is plucked by stronger chords than ever</l>
-<l rend="inline">cities wove,</l>
-<l>But, buried 'twixt the pavement grey, grey walls</l>
-<l rend="inline">and smoke-hid skies</l>
-<l>In a closely leaded coffin the old pedlar's lost love</l>
-<l rend="inline">lies.</l>
+<l>The fire and sea and sunset are the face of his lost Love,</l>
+<l>His heart is plucked by stronger chords than ever cities wove,</l>
+<l>But, buried 'twixt the pavement grey, grey walls and smoke-hid skies</l>
+<l>In a closely leaded coffin the old pedlar's lost love lies.</l>
 </lg>
 </div>
 
-<div id="moresongs2025" type="poem">
+<div xml:id="moresongs2025" type="poem">
 <head>The Gate</head>
 
 <lg type="stanza">
@@ -1269,46 +1334,43 @@ FRANCE</docAuthor>
 <l>" This is the Gate through which the years must pass</l>
 <l>To be absolved from the Eternal Curse</l>
 <l>And lay aside their shabby cloak of sin.</l>
-<l>Brave men have brought their strength and gentle-</l>
-<l rend="inline">ness,</l>
+<l>Brave men have brought their strength and gentleness,</l>
 <l>Children have brought their laughter, women tears</l>
 <l>For stones to build the Crystal Gate&#x2014;and thou?"</l>
 </lg>
 </div>
 
-<div id="moresongs2026" type="poem">
-<pb n="John Eugene Crombie 47"/>
+<div xml:id="moresongs2026" type="poem">
+<pb n="47"/>
 <head>Desolation</head>
 
 <lg type="stanza">
 <l>OVER the bare, blank line of the ridge.</l>
 <l>Over the stump of Sentinel Tree,</l>
 <l>The moon slowly crosses the unseen bridge</l>
-<l rend="inline">That is set in the sky from the hills to the sea.</l>
+<l rend="indent">That is set in the sky from the hills to the sea.</l>
 </lg>
 
 <lg type="stanza">
 <l>The sun's pale sister, moving yet dead.</l>
-<l rend="inline">The scars show dark on her weary face:</l>
+<l rend="indent">The scars show dark on her weary face:</l>
 <l>Is it strife of a million years that have bled</l>
-<l rend="inline">Her heart's life, and set Death's frosty sheen in</l>
-<l rend="inline">her place?</l>
+<l rend="indent">Her heart's life, and set Death's frosty sheen in</l>
+<l rend="indent">her place?</l>
 </lg>
 
 <lg type="stanza">
-<l>Is she watching our strife, the tired moon? Can</l>
-<l rend="inline">she see</l>
-<l>How the earth's face is scarred, her life ebbing</l>
-<l rend="inline">fast?</l>
+<l>Is she watching our strife, the tired moon? Can she see</l>
+<l>How the earth's face is scarred, her life ebbing fast?</l>
 <l>And only the shorn stump of Sentinel Tree</l>
-<l rend="inline">Prays in silence, "How long will her agony last?"</l>
+<l rend="indent">Prays in silence, "How long will her agony last?"</l>
 </lg>
 
 <dateline>Trenches, December, 1916.</dateline>
 </div>
 
-<div id="moresongs2027" type="poem">
-<pb n="More Songs by the Fighting Men 48"/>
+<div xml:id="moresongs2027" type="poem">
+<pb n="48"/>
 <head>The Mist</head>
 
 <lg type="stanza">
@@ -1317,7 +1379,7 @@ FRANCE</docAuthor>
 <l>Moved as a curtain by the sluggish wind,</l>
 <l>Lifting and swaying, falling damp and cold.</l>
 <l>It sweeps, yet passes never, soft and blind.</l>
-<l rend="inline">Have sunbeams never kissed</l>
+<l rend="indent">Have sunbeams never kissed</l>
 <l>These dreary hills and life-forsaken slopes&#x2014;</l>
 <l>Hidden like women's shoulders in a gown</l>
 <l>That mars their beauty? Only shattered hopes</l>
@@ -1326,32 +1388,30 @@ FRANCE</docAuthor>
 <l>The deadening fingers of the passing years</l>
 <l>Are closing, and I cannot thrust apart</l>
 <l>Their tightening grip. No ray of sun appears.</l>
-<l rend="inline">Only the rolling mist.</l>
+<l rend="indent">Only the rolling mist.</l>
 </lg>
 
 <dateline>Huts, France, December, 1916.</dateline>
 </div>
 
-<div id="moresongs2028" type="poem">
-<pb n="John Eugene Crombie 49"/>
+<div xml:id="moresongs2028" type="poem">
+<pb n="49"/>
 <head>The Shrine</head>
 
 <lg type="stanza">
-<l>THE first bright spears have pierced the</l>
-<l>armoured brown.</l>
-<l>Broadened and drooped, and snowdrops speck</l>
-<l rend="inline">the field:</l>
+<l>THE first bright spears have pierced the armoured brown.</l>
+<l>Broadened and drooped, and snowdrops speck the field:</l>
 <l>The lengthening gaze of daylight looking down</l>
-<l rend="inline">Is shocked to see the hedge-row winter sealed</l>
+<l rend="indent">Is shocked to see the hedge-row winter sealed</l>
 <l>Sleeping in nakedness, and stirs her frame</l>
 <l>And with the hawthorn bids her hide her shame.</l>
 </lg>
 
 <lg type="stanza">
 <l>Returning through the fields at evening hour</l>
-<l rend="inline">I lay before Thy shrine my offering.</l>
+<l rend="indent">I lay before Thy shrine my offering.</l>
 <l>My candle-flame a yellow crocus flower,</l>
-<l rend="inline">Its life but newly lit to Thee I bring</l>
+<l rend="indent">Its life but newly lit to Thee I bring</l>
 <l>In thanks that I can see Thy guiding hand</l>
 <l>In every flower that decorates the land.</l>
 </lg>
@@ -1359,9 +1419,9 @@ FRANCE</docAuthor>
 <dateline>Billets, France, March, 1917.</dateline>
 </div>
 
-<div id="moresongs2029" type="poem">
-<pb n="More Songs by the Fighting Men 50"/>
-<head>Easter Day, 1917&#x2014;The Eve of the<lb/>Battle</head>
+<div xml:id="moresongs2029" type="poem">
+<pb n="50"/>
+<head>Easter Day, 1917&#x2014;The Eve of the Battle</head>
 
 <lg type="stanza">
 <l>I ROSE and watched the eternal giant of fire</l>
@@ -1383,19 +1443,20 @@ FRANCE</docAuthor>
 
 <dateline>Huts, France, April, 1917.</dateline>
 </div>
+</div>
 
-<div id="moresongs2030" type="poem">
-<pb n="God 51"/>
+<div type="section" xml:id="moresongs230">
+<docAuthor><name>GEOFFREY H. CRUMP</name> Major, Essex Regiment</docAuthor>
+<div xml:id="moresongs2030" type="poem">
+<pb n="51"/>
 <head>God</head>
-<docAuthor><name>GEOFFREY H. CRUMP</name>MAJOR, ESSEX REGIMENT</docAuthor>
-
 <lg type="stanza">
 <l>I WENT alone into the fields to-night,</l>
 <l>And stood upon the hillside, where the oaks</l>
 <l>Have stood and talked of God in the twilight</l>
 <l>For centuries, and cracked their ancient jokes</l>
-<l rend="inline">Over our heads; those veterans know more</l>
-<l rend="inline">Of God than we have learned with all our lore.</l>
+<l rend="indent">Over our heads; those veterans know more</l>
+<l rend="indent">Of God than we have learned with all our lore.</l>
 </lg>
 
 <lg type="stanza">
@@ -1403,8 +1464,8 @@ FRANCE</docAuthor>
 <l>And watched the sun drop down behind the hill;</l>
 <l>Silence fell on the valley; the last lark</l>
 <l>Was hushed; and suddenly the wind was still</l>
-<l rend="inline">A breath of air went rustling through the trees,</l>
-<l rend="inline">And God passed by me in the sunset breeze.</l>
+<l rend="indent">A breath of air went rustling through the trees,</l>
+<l rend="indent">And God passed by me in the sunset breeze.</l>
 </lg>
 
 <lg type="stanza">
@@ -1412,76 +1473,76 @@ FRANCE</docAuthor>
 <l>Some children shouted; and the blue smoke curled</l>
 <l>Out of the cottage chimneys&#x2014;'twas as though</l>
 <l>There could be nothing ugly in the world;</l>
-<l rend="inline">The lights gleamed from the houses in the wood;</l>
-<l rend="inline">And God smiled, for He saw that it was good.</l>
+<l rend="indent">The lights gleamed from the houses in the wood;</l>
+<l rend="indent">And God smiled, for He saw that it was good.</l>
 </lg>
 
-<pb n="More Songs by the Fighting Men 52"/>
+<pb n="52"/>
 
 <lg type="stanza">
 <l>Then, as I laid my head upon the ground.</l>
 <l>And waited there for dark night's close embrace,</l>
 <l>I heard, far off, a murmuring, rumbling sound.</l>
 <l>As if the earth groaned at her own disgrace;</l>
-<l rend="inline">It trembled on the breeze, swelled, and then died;</l>
-<l rend="inline">Again the branches rustled, and God sighed.</l>
+<l rend="indent">It trembled on the breeze, swelled, and then died;</l>
+<l rend="indent">Again the branches rustled, and God sighed.</l>
 </lg>
 </div>
 
-<div id="moresongs2031" type="poem">
+<div xml:id="moresongs2031" type="poem">
 <head>Sunset</head>
 
 <lg type="stanza">
 <l>LIKE a vast forest on some distant plain,</l>
-<l rend="inline">Out in the west, dark, rounded clouds lay low</l>
+<l rend="indent">Out in the west, dark, rounded clouds lay low</l>
 <l>Upon the sea: o'er them, the sun's broad train&#x2014;</l>
-<l rend="inline">The glories of the golden afterglow.</l>
+<l rend="indent">The glories of the golden afterglow.</l>
 </lg>
 
 <lg type="stanza">
 <l>Gold, and then crimson: changing, through degrees</l>
-<l rend="inline">Of red and green, to fields of turquoise blue:</l>
+<l rend="indent">Of red and green, to fields of turquoise blue:</l>
 <l>Then darker blue, that challenges the seas</l>
-<l rend="inline">To deeper darkness, as the storm-clouds do.</l>
+<l rend="indent">To deeper darkness, as the storm-clouds do.</l>
 </lg>
 
 <lg type="stanza">
 <l>Then, when the stars gleamed faintly, blushing red</l>
-<l rend="inline">At their own eagerness: and as this feast</l>
+<l rend="indent">At their own eagerness: and as this feast</l>
 <l>Of beauty seemed complete, and day was dead,</l>
-<l rend="inline">I turned my face, and looked toward the east.</l>
+<l rend="indent">I turned my face, and looked toward the east.</l>
 </lg>
 
 <lg type="stanza">
 <l>There I saw that which made me hold my breath;</l>
-<l rend="inline">I'd thought the sunset fair: now met my sight,</l>
+<l rend="indent">I'd thought the sunset fair: now met my sight,</l>
 </lg>
 
-<pb n="Geoffrey H. Crump 53"/>
+<pb n="53"/>
 
 <lg type="stanza">
 <l>In perfect contrast&#x2014;like the peace of death</l>
-<l rend="inline">After life's glare&#x2014;the grandeur of the night.</l>
+<l rend="indent">After life's glare&#x2014;the grandeur of the night.</l>
 </lg>
 
 <lg type="stanza">
 <l>In empty sky, still tinged with wondrous blue,</l>
-<l rend="inline">The full moon hung, displaying royally</l>
+<l rend="indent">The full moon hung, displaying royally</l>
 <l>Her cold and naked beauty, as she threw</l>
-<l rend="inline">Her path of silver moonbeams on the sea.</l>
+<l rend="indent">Her path of silver moonbeams on the sea.</l>
 </lg>
 
 <lg type="stanza">
 <l>God showed me then, that, if we learn to love</l>
-<l rend="inline">The beauties that He sends us in our day,</l>
+<l rend="indent">The beauties that He sends us in our day,</l>
 <l>More lovely yet v/ill night celestial prove&#x2014;</l>
-<l rend="inline">The perfect calm of passions passed away.</l>
+<l rend="indent">The perfect calm of passions passed away.</l>
 </lg>
 
 <dateline>Indian Ocean, November, 1916.</dateline>
 </div>
 
-<div id="moresongs2032" type="poem">
+<div xml:id="moresongs2032" type="poem">
 <head>Off St. Helena</head>
 <lg type="stanza">
 <l>WHEN I sit silent on the swaying deck.</l>
@@ -1492,73 +1553,74 @@ FRANCE</docAuthor>
 <l>Against the sky; the tall and stately mast.</l>
 <l>Swinging from star to star&#x2014;though these all lack</l>
 <l>Nothing of beauty, perfect, pure, and vast,</l>
-<l rend="inline">'Tis naught to me: save that I may devise</l>
-<l rend="inline">That I do look again into your eyes.</l>
+<l rend="indent">'Tis naught to me: save that I may devise</l>
+<l rend="indent">That I do look again into your eyes.</l>
 </lg>
 </div>
 
-<div id="moresongs2033" type="poem">
-<pb n="More Songs by the Fighting Men 54"/>
+<div xml:id="moresongs2033" type="poem">
+<pb n="54"/>
 <head>Plymouth Mists</head>
 
 <lg type="stanza">
 <l>TEAR-DIMMED eyes my loved one lifted.</l>
 <l>When she said good-bye to me;</l>
 <l>Sweet, grey eyes, where colours shifted</l>
-<l rend="inline">Like the shadows on the sea:</l>
+<l rend="indent">Like the shadows on the sea:</l>
 <l>O'er the cliffs of Devon, keeping</l>
-<l rend="inline">Guard, like eyes, o'er Devon's mouth.</l>
+<l rend="indent">Guard, like eyes, o'er Devon's mouth.</l>
 <l>Sad, grey mists came stilly creeping.</l>
-<l rend="inline">Sorrow-laden, from the South.</l>
+<l rend="indent">Sorrow-laden, from the South.</l>
 </lg>
 
 <lg type="stanza">
 <l>Through the weary weight of sadness,</l>
-<l rend="inline">And the numbness of despair,</l>
+<l rend="indent">And the numbness of despair,</l>
 <l>Came a thought that turned to gladness</l>
-<l rend="inline">Even the pain I could not bear:</l>
+<l rend="indent">Even the pain I could not bear:</l>
 <l>Those proud cliffs were calling clearly,</l>
-<l rend="inline">As Drake heard them in his day:&#x2014;</l>
+<l rend="indent">As Drake heard them in his day:&#x2014;</l>
 <l>" England knows you love her dearly,</l>
-<l rend="inline">Weeps to send you far away"</l>
+<l rend="indent">Weeps to send you far away"</l>
 </lg>
 
 <lg type="stanza">
 <l>'Neath this brazen, blazing lieaven,</l>
-<l rend="inline">In a wilderness of sand.</l>
+<l rend="indent">In a wilderness of sand.</l>
 <l>Daily England's lives are given</l>
-<l rend="inline">For her newest, oldest laud;</l>
+<l rend="indent">For her newest, oldest laud;</l>
 </lg>
 
-<pb n="Geoffrey H. Crump 55"/>
+<pb n="55"/>
 
 <lg type="stanza">
 <l>Does there come a dream, consoling</l>
-<l rend="inline">Those who die on foreign ground.</l>
+<l rend="indent">Those who die on foreign ground.</l>
 <l>Of the sea-mists, slowly rolling</l>
-<l rend="inline">Homewards over Plymouth Sound?</l>
+<l rend="indent">Homewards over Plymouth Sound?</l>
 </lg>
 
 <lg type="stanza">
 <l>Should I die, I'll see them drifting</l>
-<l rend="inline">Through the mirage, ere I go;</l>
+<l rend="indent">Through the mirage, ere I go;</l>
 <l>Maybe, if the mists are lifting,</l>
-<l rend="inline">I'll see sunshine on the Hoe!</l>
+<l rend="indent">I'll see sunshine on the Hoe!</l>
 <l>Should I live, when this is over.</l>
-<l rend="inline">And we've done what is to do,</l>
+<l rend="indent">And we've done what is to do,</l>
 <l>England, smile to greet your lover.</l>
-<l rend="inline">When he hurries home to you!</l>
+<l rend="indent">When he hurries home to you!</l>
 </lg>
 
 <dateline>Basra, December, 1916.</dateline>
 </div>
+</div>
 
-<div id="moresongs2034" type="poem">
-<pb n="More Songs by the Fighting Men"/>
+<div type="section" xml:id="moresongs234">
+<docAuthor><name>R.C.G. DARTFORD</name> Captain, attached to Portuguese
+Expeditionary<lb/>Force, France</docAuthor>
+<div xml:id="moresongs2034" type="poem">
+<pb n="56"/>
 <head>A Soldier's Question: Spring, 1917</head>
-<docAuthor><name>R.C.G. DARTFORD</name>CAPTAIN, ATTACHED TO PORTUGUESE
-EXPEDITIONARY<lb/>FORCE, FRANCE</docAuthor>
-
 <lg type="stanza">
 <l>A Soldier's Question: Spring, 1917</l>
 <l>CURSE I the Spring that God has sent</l>
@@ -1588,186 +1650,188 @@ EXPEDITIONARY<lb/>FORCE, FRANCE</docAuthor>
 </lg>
 </div>
 
-<div id="moresongs2035" type="poem">
-<pb n="R.C.G. Dartford 57"/>
+<div xml:id="moresongs2035" type="poem">
+<pb n="57"/>
 <head>War-time Consolation</head>
 
 <lg type="stanza">
 <l>BUT for the watches dark</l>
-<l rend="inline">Would you welcome the morrow?</l>
+<l rend="indent">Would you welcome the morrow?</l>
 <l>Can any joy reach your heart</l>
-<l rend="inline">But mounts upon sorrow?</l>
+<l rend="indent">But mounts upon sorrow?</l>
 <l>Surely pains in which you take part</l>
-<l rend="inline">Pleasures will borrow?</l>
+<l rend="indent">Pleasures will borrow?</l>
 </lg>
 </div>
 
-<div id="moresongs2036" type="poem">
+<div xml:id="moresongs2036" type="poem">
 <head>Welcome Death</head>
 
 <lg type="stanza">
-<l>WHEN you've been dead beat, and had to</l>
-<l rend="inline">go on</l>
+<l>WHEN you've been dead beat, and had to >go on</l>
 <l>While others died; when your turn to be gone</l>
 <l>Is overdue; when you're pushed ahead</l>
 <l>("Go on till you die" is all they said),</l>
 <l><hi rend="italic">Then die</hi>&#x2014;and you're glad to be dead!</l>
 </lg>
 </div>
+</div>
 
-<div id="moresongs2037" type="poem">
-<pb n="More Songs by the Fighting Men 58"/>
+<div type="section" xml:id="moresongs237">
+<docAuthor><name>CLIFFORD J. DRUCE</name> Sec. Lieut., Gloucester Regiment</docAuthor>
+<div xml:id="moresongs2037" type="poem">
+<pb n="58"/>
 <head>Forecast</head>
-<docAuthor><name>CLIFFORD J. DRUCE</name>2ND LIEUT., GLOUCESTER REGIMENT</docAuthor>
 
 <lg type="stanza">
 <l>IF I should chance to fall, and find</l>
-<l rend="inline">A last couch on this soil of France,</l>
+<l rend="indent">A last couch on this soil of France,</l>
 <l>Do not seek out with yearning mind</l>
-<l rend="inline">The place, nor give my grave one glance.</l>
+<l rend="indent">The place, nor give my grave one glance.</l>
 </lg>
 
 <lg type="stanza">
 <l>The cross would mark a cenotaph;</l>
-<l rend="inline">And careless of the flesh thus laid</l>
+<l rend="indent">And careless of the flesh thus laid</l>
 <l>In unfamiliar earth, I'd laugh</l>
-<l rend="inline">To know how quickly it decayed.</l>
+<l rend="indent">To know how quickly it decayed.</l>
 </lg>
 
 <lg type="stanza">
 <l>My spirit, freed, impatient still</l>
-<l rend="inline">At the irrelevant, blind stroke</l>
+<l rend="indent">At the irrelevant, blind stroke</l>
 <l>That stole the servant of its will</l>
-<l rend="inline">With all half-done, with thews unbroke.</l>
+<l rend="indent">With all half-done, with thews unbroke.</l>
 </lg>
 
 <lg type="stanza">
 <l>Would swiftly reach the land which knew</l>
-<l rend="inline">The love that time had not yet staled.</l>
+<l rend="indent">The love that time had not yet staled.</l>
 <l>And haunt the country whence it drew</l>
-<l rend="inline">The lii'c tliat has not sped nor failed.</l>
+<l rend="indent">The lii'c tliat has not sped nor failed.</l>
 </lg>
 
-<pb n="Clifford J. Druce 59"/>
+<pb n="59"/>
 
 <lg type="stanza">
 <l>Perhaps beside some lonely copse</l>
-<l rend="inline">A brook would flow with less of ease,</l>
+<l rend="indent">A brook would flow with less of ease,</l>
 <l>The brooding wind that sways the tops</l>
-<l rend="inline">Murmur more plaintive in the trees.</l>
+<l rend="indent">Murmur more plaintive in the trees.</l>
 </lg>
 
 <lg type="stanza">
 <l>And should you, lingering there alone.</l>
-<l rend="inline">Feel on your face, some evening</l>
+<l rend="indent">Feel on your face, some evening</l>
 <l>Its touch, that stranger, rarer grown.</l>
-<l rend="inline">Clothes some sweet, straining, h'alf-spoke thing;</l>
+<l rend="indent">Clothes some sweet, straining, h'alf-spoke thing;</l>
 </lg>
 
 <lg type="stanza">
 <l>Know that the fate self-fixed must yet</l>
-<l rend="inline">Endure, whether I die or live;</l>
+<l rend="indent">Endure, whether I die or live;</l>
 <l>And I still strive to ease the debt</l>
-<l rend="inline">Of kisses I was born to give.</l>
+<l rend="indent">Of kisses I was born to give.</l>
 </lg>
 
 <dateline>France, May, 1917.</dateline>
 </div>
 
-<div id="moresongs2038" type="poem">
+<div xml:id="moresongs2038" type="poem">
 <head>To a Grave of the Glosters</head>
 
 <lg type="stanza">
 <l>A WOODEN cross above your head.</l>
 <l>You lie, your course already sped;</l>
-<l rend="inline">And in this alien plain must rest</l>
+<l rend="indent">And in this alien plain must rest</l>
 <l>The bones and body Cotswold bred.</l>
 </lg>
 
 <lg type="stanza">
 <l>Not long since, insolent with life</l>
 <l>You made the beech-topped barrow rife</l>
-<l rend="inline">With your tumultuous vivid youth,</l>
+<l rend="indent">With your tumultuous vivid youth,</l>
 <l>With other lads, in sport and strife.</l>
 </lg>
 
-<pb n="60 More Songs by the Fighting Men"/>
+<pb n="60"/>
 
 <lg type="stanza">
 <l>And though you shook the earth o'er those</l>
 <l>Old warriors, close couched there in rows.</l>
-<l rend="inline">Your careless clamour had no power</l>
+<l rend="indent">Your careless clamour had no power</l>
 <l>To trouble their sublime repose:</l>
 </lg>
 
 <lg type="stanza">
 <l>Who, if they felt at all the tread</l>
 <l>Of such as you pass overhead.</l>
-<l rend="inline">Wise with the wisdom of long years</l>
+<l rend="indent">Wise with the wisdom of long years</l>
 <l>Were patient, knowing that their bed</l>
 </lg>
 
 <lg type="stanza">
 <l>Was spacious, patient too, withal;</l>
 <l>That centuries after you were thrall</l>
-<l rend="inline">To undistinguished dust, they still</l>
+<l rend="indent">To undistinguished dust, they still</l>
 <l>Would hold their place, each in his stall.</l>
 </lg>
 
 <lg type="stanza">
 <l>But now, ere many months are told</l>
 <l>Over your head, encased in mould.</l>
-<l rend="inline">Children may play, with little care</l>
+<l rend="indent">Children may play, with little care</l>
 <l>Of one beneath them, silent, cold.</l>
 </lg>
 
 <lg type="stanza">
 <l>Take my salute: ere twenty years</l>
 <l>You knew, you reckon as your peers</l>
-<l rend="inline">The men of axe and spear of stone.</l>
+<l rend="indent">The men of axe and spear of stone.</l>
 <l>As far removed as they from fears</l>
 </lg>
 
 <lg type="stanza">
 <l>And doubts that vex men such as me.</l>
 <l>From all demands from henceforth free</l>
-<l rend="inline">On weary limbs and spirit tired.</l>
+<l rend="indent">On weary limbs and spirit tired.</l>
 <l>You hold eternity in fee.</l>
 </lg>
 </div>
 
-<div id="moresongs2039" type="poem">
-<pb n="Clifford J. Druce 61"/>
+<div xml:id="moresongs2039" type="poem">
+<pb n="61"/>
 <head>Spring in Picardy</head>
 
 <lg type="stanza">
 <l>WHEN earth was bare, and sky a murky pall,</l>
-<l rend="inline">And snow and sleet filled all the miles and</l>
-<l rend="inline">days</l>
+<l rend="indent">And snow and sleet filled all the miles and</l>
+<l rend="indent">days</l>
 <l>That held us two asunder, all my gaze</l>
 <l>Was bounded by an impenetrable wall</l>
 <l>Of chill, numbed, burdened hours, that rose so tall</l>
-<l rend="inline">I only dimly knew that your fair ways</l>
-<l rend="inline">Lay far beyond it, where desire could raise</l>
+<l rend="indent">I only dimly knew that your fair ways</l>
+<l rend="indent">Lay far beyond it, where desire could raise</l>
 <l>To bring you nearer, no sufficient call.</l>
 </lg>
 
 <lg type="stanza">
 <l>Ah God! that blank was better borne than this</l>
-<l rend="inline">Flushed wantonness of May, these maiden leaves</l>
-<l rend="inline">That bare themselves to bathe in the ardent</l>
-<l rend="inline">moon.</l>
-<l rend="inline">There is a false note in the wood-dove's croon;</l>
-<l rend="inline">And all is meaningless, show that deceives.</l>
+<l rend="indent">Flushed wantonness of May, these maiden leaves</l>
+<l rend="indent">That bare themselves to bathe in the ardent</l>
+<l rend="indent">moon.</l>
+<l rend="indent">There is a false note in the wood-dove's croon;</l>
+<l rend="indent">And all is meaningless, show that deceives.</l>
 <l>Hollow, lacking its core and clue&#x2014;your kiss.</l>
 </lg>
 </div>
+</div>
 
-<div id="moresongs2040" type="poem">
-<pb n="More Songs by the Fighting Men 62"/>
+<div type="section" xml:id="moresongs240">
+<docAuthor><name>H.S. GRAHAM</name> Capt., R.E.T.</docAuthor>
+<div xml:id="moresongs2040" type="poem">
+<pb n="62"/>
 <head>The Seers</head>
-<docAuthor><name>H.S. GRAHAM</name>CAPT., R.E.T.</docAuthor>
-
 <lg type="stanza">
 <l>THE Poets who have sung have not revealed</l>
 <l>The great abiding purpose for which God</l>
@@ -1798,8 +1862,8 @@ EXPEDITIONARY<lb/>FORCE, FRANCE</docAuthor>
 </div>
 
 
-<div id="moresongs2041" type="poem">
-<pb n="H.S. GRAHAM 63"/>
+<div xml:id="moresongs2041" type="poem">
+<pb n="63"/>
 <head>The Field of Blood</head>
 
 <lg type="stanza">
@@ -1815,87 +1879,89 @@ EXPEDITIONARY<lb/>FORCE, FRANCE</docAuthor>
 <l>To other Traitors long have seized Our Lord</l>
 <l>And by this War have Him re-crucified;</l>
 <l>And soldiers guard His Tomb with naked swords.</l>
-<l rend="inline">But for all this the stone shall roll away,</l>
-<l rend="inline">And you shall rise with Him on Easter Day!</l>
+<l rend="indent">But for all this the stone shall roll away,</l>
+<l rend="indent">And you shall rise with Him on Easter Day!</l>
 </lg>
 
 <dateline>6th December, 1916.</dateline>
 </div>
+</div>
 
-<div id="moresongs2042" type="poem">
-<pb n="More Songs by the Fighting Men 64"/>
+<div type="section" xml:id="moresongs242">
+<docAuthor><name>WILFRID J. HALLIDAY</name>2nd Lieut., West Yorks</docAuthor>
+<div xml:id="moresongs2042" type="poem">
+<pb n="64"/>
 <head>"An Unknown British Soldier'</head>
-<docAuthor><name>WILFRID J. HALLIDAY</name>2ND LIEUT., WEST YORKS</docAuthor>
+
 
 <lg type="stanza">
 <l>TIS just a little wooden cross</l>
-<l rend="inline">In lonely grandeur there</l>
+<l rend="indent">In lonely grandeur there</l>
 <l>That smiles upon a rugged mound</l>
 <l>Of weedy, unattended ground,</l>
-<l rend="inline">For he was no man's care.</l>
+<l rend="indent">For he was no man's care.</l>
 </lg>
 
 <lg type="stanza">
 <l>A broken bayonet marked the spot</l>
-<l rend="inline">And troops would turn aside,</l>
+<l rend="indent">And troops would turn aside,</l>
 <l>Till loving hands rough cast the wood</l>
 <l>And shaped a cross, emblem of blood.</l>
-<l rend="inline">To tell where he had died.</l>
+<l rend="indent">To tell where he had died.</l>
 </lg>
 
 <lg type="stanza">
 <l>He died unowned, for none could tell</l>
-<l rend="inline">The silent hero's name:</l>
+<l rend="indent">The silent hero's name:</l>
 <l>They saw the bloody wounds he bore.</l>
 <l>The shattered limbs, but nothing more.</l>
-<l rend="inline">And knew not whence he came.</l>
+<l rend="indent">And knew not whence he came.</l>
 </lg>
 
-<pb n="Wilfrid J. Halliday 65"/>
+<pb n="65"/>
 
 <lg type="stanza">
 <l>"An unknown British soldier"&#x2014;that</l>
-<l rend="inline">Was all that they could say.</l>
+<l rend="indent">Was all that they could say.</l>
 <l>'Twas not for them to wet the eye,</l>
 <l>Why lives a soldier but to die?</l>
-<l rend="inline">And so they went their way.</l>
+<l rend="indent">And so they went their way.</l>
 </lg>
 
 <lg type="stanza">
 <l>But I may pause and probe his heart</l>
-<l rend="inline">Before the shadow fell,</l>
+<l rend="indent">Before the shadow fell,</l>
 <l>And think that he had still a prayer</l>
 <l>For those frail souls who soon would share</l>
-<l rend="inline">The moment black as Hell.</l>
+<l rend="indent">The moment black as Hell.</l>
 </lg>
 
 <lg type="stanza">
 <l>The flowers had bloomed when last I looked.</l>
-<l rend="inline">The grass was freshly mown:</l>
+<l rend="indent">The grass was freshly mown:</l>
 <l>A shapely cross so chastely white</l>
 <l>Shone in the dazzling noonday light.</l>
-<l rend="inline">Yet still the same "Unknown."</l>
+<l rend="indent">Yet still the same "Unknown."</l>
 </lg>
 
 <lg type="stanza">
 <l>Unknown! Ah, no! thy name still lives,</l>
-<l rend="inline">For One had seen thee fall</l>
+<l rend="indent">For One had seen thee fall</l>
 <l>And marked the sacrifice thus made.</l>
 <l>The debt of love so nobly paid.</l>
-<l rend="inline">Faithful to Freedom's call.</l>
+<l rend="indent">Faithful to Freedom's call.</l>
 </lg>
 
 <dateline>France, August, 1917.</dateline>
 </div>
+</div>
 
-<div id="moresongs2043" type="poem">
-<pb n="More Songs by the Fighting Men 66"/>
-***footnote***
-<head>The New Year<ref target=""></ref><note place="foot" id=""
-n=""></note></head>
-<docAuthor><name>MALCOLM HEMPHREY</name>CORPORAL, ARMY ORDNANCE
-CORPS</docAuthor>
-
+<div type="section" xml:id="moresongs243">
+<docAuthor><name>MALCOLM HEMPHREY</name> Corporal, Army Ordnance
+Corps</docAuthor>
+<div xml:id="moresongs2043" type="poem">
+<pb n="66"/>
+<head>The New Year<ref target="moresongsp66n1"></ref><note place="foot" xml:id="moresongsp66n1">*The idea of this poem came to me on the last night of the old year as, lying awake long after "lights out," I gazed out at the sky through my tent lattice-window.</note></head>
 <lg type="stanza">
 <l>THE white moon like a queenly ship</l>
 <l>Sails down the blue and tropic night.</l>
@@ -1924,11 +1990,7 @@ CORPS</docAuthor>
 <l>Sink to the ground.</l>
 </lg>
 
-*The ideas of this poem came to mc on the last night of tlie old
-year as, lying awake long after "lights out," I gaze out at the sky
-through my test lattice-window.
-
-<pb n="Malcolm Hemphrey 67"/>
+<pb n="67"/>
 
 <lg type="stanza">
 <l>But rise to sink, and each black flake</l>
@@ -1974,11 +2036,13 @@ through my test lattice-window.
 
 <dateline>East Africa, January, 1917</dateline>
 </div>
+</div>
 
-<div id="moresongs2044" type="poem">
-<pb n="More Songs by the Fighting Men 68"/>
+<div type="section" xml:id="moresongs244">
+<div xml:id="moresongs2044" type="poem">
+<pb n="68"/>
 <head>Salonika in November</head>
-<docAuthor><name>BRIAN HILL</name>2ND LIEUT., DURHAM LIGHT INFANTRY</docAuthor>
+<docAuthor><name>BRIAN HILL</name>2nd Lieut., Durham Light Infantry</docAuthor>
 
 <lg type="stanza">
 <l>UP above the grey hills the wheeling birds are</l>
@@ -2007,7 +2071,7 @@ through my test lattice-window.
 <l>alway.</l>
 </lg>
 
-<pb n="Brian Hill 69"/>
+<pb n="69"/>
 
 <lg type="stanza">
 <l>Up above the cold grey hills the wheeling birds are</l>
@@ -2019,12 +2083,13 @@ through my test lattice-window.
 <l>night.</l>
 </lg>
 </div>
+</div>
 
-<div id="moresongs2045" type="poem">
-<pb n="More Songs by the Fighting Men 70"/>
+<div type="section" xml:id="moresongs245">
+<docAuthor><name>MARTIN HILL</name> Corporal, R.A.M.C.</docAuthor>
+<div xml:id="moresongs2045" type="poem">
+<pb n="70"/>
 <head>On Seeing the Coast of England from<lb/>Boulogne</head>
-<docAuthor><name>MARTIN HILL</name>CORPORAL, R.A.M.C.</docAuthor>
-
 <lg type="stanza">
 <l>ALONG low line of polished white</l>
 <l>Faintly the cliffs of England gleam,</l>
@@ -2052,7 +2117,7 @@ through my test lattice-window.
 <l>The long ploughed meadow strong and brown.</l>
 </lg>
 
-<pb n="Martin Hill 71"/>
+<pb n="71"/>
 
 <lg type="stanza">
 <l>We wander 'mid the grassfield where</l>
@@ -2073,7 +2138,7 @@ through my test lattice-window.
 </lg>
 </div>
 
-<div id="moresongs2046" type="poem">
+<div xml:id="moresongs2046" type="poem">
 <head>Requiescat</head>
 
 <lg type="stanza">
@@ -2090,7 +2155,7 @@ through my test lattice-window.
 <l>Of rolling meadows where the air was sweet</l>
 </lg>
 
-<pb n="More Songs by the Fighting Men 72"/>
+<pb n="72"/>
 
 <lg type="stanza">
 <l>With new-born blossoms and the scent of hay;</l>
@@ -2128,12 +2193,14 @@ through my test lattice-window.
 
 <dateline>No. 7 STATIONARY HOSPITAL, B.E.F., FRANCE.</dateline>
 </div>
+</div>
 
-<div id="moresongs2048" type="poem">
-<pb n="Harold John Jarvis 70"/>
+<div type="section" xml:id="moresongs248">
+<docAuthor><name>HAROLD JOHN JARVIS</name> Corporal, The Duke of
+Cornwall's Light Infantry</docAuthor>
+<div xml:id="moresongs2048" type="poem">
+<pb n="70"/>
 <head>Dulce et Decorum est Pro Patri&#x00E2;<lb/>Mori</head>
-<docAuthor><name>HAROLD JOHN JARVIS</name>CORPORAL, THE DUKE OF
-CORNWALL'S LIGHT INFANTRY</docAuthor>
 
 <lg type="stanza">
 <l>IF England calls to-day&#x2014;</l>
@@ -2158,7 +2225,7 @@ CORNWALL'S LIGHT INFANTRY</docAuthor>
 </lg>
 
 
-<pb n="More Songs by the Fighting Men 74"/>
+<pb n="74"/>
 
 <lg type="stanza">
 <l>If England calls this day&#x2014;</l>
@@ -2193,7 +2260,7 @@ CORNWALL'S LIGHT INFANTRY</docAuthor>
 <l>Shall die with me.</l>
 </lg>
 
-<pb n="Harold John Jarvis 75"/>
+<pb n="75"/>
 
 <lg type="stanza">
 <l>If England cglls this day&#x2014;</l>
@@ -2228,7 +2295,7 @@ CORNWALL'S LIGHT INFANTRY</docAuthor>
 <l>For aye to be.</l>
 </lg>
 
-<pb n="More Songs by the Fighting Men 76"/>
+<pb n="76"/>
 
 <lg type="stanza">
 <l>If England calls this day&#x2014;</l>
@@ -2264,8 +2331,8 @@ CORNWALL'S LIGHT INFANTRY</docAuthor>
 </lg>
 </div>
 
-<div id="moresongs2049" type="poem">
-<pb n="Harold John Jarvis 77"/>
+<div xml:id="moresongs2049" type="poem">
+<pb n="77"/>
 <head>At a Wayside Shrine</head>
 
 <lg type="stanza">
@@ -2279,7 +2346,7 @@ CORNWALL'S LIGHT INFANTRY</docAuthor>
 </lg>
 
 <lg type="stanza">
-<l>How many men before</l>
+<l rend="indent20">How many men before</l>
 <l>To-night have halted at this spot, and wore</l>
 <l>The same grim, ready look that I see now</l>
 <l>Painted on every face from chin to brow.</l>
@@ -2289,7 +2356,7 @@ CORNWALL'S LIGHT INFANTRY</docAuthor>
 </lg>
 
 <lg type="stanza">
-<l>And now the line will pass</l>
+<l rend="indent20">And now the line will pass</l>
 <l>The shrine&#x2014;itself as steady as the mass</l>
 <l>Of England's sons slow moving to the fray.</l>
 <l>Their Destiny now in the hands of&#x2014;say.</l>
@@ -2298,10 +2365,10 @@ CORNWALL'S LIGHT INFANTRY</docAuthor>
 <l>Of Love)&#x2014;or what?</l>
 </lg>
 
-<pb n="More Songs by the Fighting Men 78"/>
+<pb n="78"/>
 
 <lg type="stanza">
-<l>The shrine is rent and drilled</l>
+<l rend="indent20">The shrine is rent and drilled</l>
 <l>With bullets&#x2014;aye, and some of them have killed.</l>
 <l>Passing right thro' the thin mud walls, and past</l>
 <l>The Hanging Figure in the plaster cast,</l>
@@ -2311,34 +2378,31 @@ CORNWALL'S LIGHT INFANTRY</docAuthor>
 </lg>
 
 <lg type="stanza">
-<l>So have some died</l>
+<l rend="indent20">So have some died</l>
 <l>For Right&#x2014;bravely as Christ the Crucified</l>
 <l>Died on Calvary's Cross; just as brave</l>
 <l>And just as sacrificially. To save</l>
 <l>The world He died, or so the worn-out creeds</l>
-<l>Of Church would teach&#x2014;but they^ but men, dared</l>
-<l>deeds</l>
+<l>Of Church would teach&#x2014;but they^ but men, dared deeds</l>
 <l>And died as men.</l>
 </lg>
 
 <lg type="stanza">
-<l>Because of Greater Love&#x2014;</l>
+<l rend="indent20">Because of Greater Love&#x2014;</l>
 <l>That Love of Loves, all other loves above&#x2014;</l>
 <l>The love of Home and Friends and Native Soil.</l>
 <l>That these might never be the Foeman's spoil,</l>
-<l>They gave their lives, their youth, their golden</l>
-<l>dreams</l>
+<l>They gave their lives, their youth, their golden dreams</l>
 <l>And airy castles, built where Siyilight gleams.</l>
 <l>And Roses bloom</l>
 </lg>
 
-<pb n="Harold John Jarvis 79"/>
+<pb n="79"/>
 
 <lg type="stanza">
-<l>And gave them wiUingly</l>
+<l rend="indent20">And gave them willingly</l>
 <l>As Christ gave His, that day on Calvary.</l>
-<l>A stricken Christ a broken shrine . and</l>
-<l>men</l>
+<l>A stricken Christ a broken shrine and men</l>
 <l>In khaki marching by. How little less</l>
 <l>Divine these khaki-clads in their worn dress</l>
 <l>Than He, the Christ of God? For in each man</l>
@@ -2346,23 +2410,24 @@ CORNWALL'S LIGHT INFANTRY</docAuthor>
 </lg>
 
 <lg type="stanza">
-<l>And ere I leave the shrine,</l>
+<l rend="indent20">And ere I leave the shrine,</l>
 <l>I look upon the Christ&#x2014;then at the line</l>
-<l>Of men      back to His face and those closed eyes</l>
+<l>Of men back to His face and those closed eyes</l>
 <l>So open when one lingeringly looks</l>
-<l>As if into their depths.  These men . . . those</l>
-<l>eyes</l>
+<l>As if into their depths.  These men . . . those eyes</l>
 <l>Loving, pain-haunted eyes, hard gazing down</l>
 <l>They seem,</l>
 <l>On these&#x2014;these other Christs in thin disguise</l>
 <l>Of khaki-brown.</l>
 </lg>
 </div>
+</div>
 
-<div id="moresongs2050" type="poem">
-<pb n="More Songs by the Fighting Men 80"/>
+<div type="section" xml:id="moresongs250">
+<docAuthor><name>D.T. JONES</name>2nd Lieut., M.G.C., France</docAuthor>
+<div xml:id="moresongs2050" type="poem">
+<pb n="80"/>
 <head>Flint</head>
-<docAuthor><name>D.T. JONES</name>2ND LIEUT., M.G.C., FRANCE</docAuthor>
 
 <lg type="stanza">
 <l>STAND in a hall, where carved men</l>
@@ -2372,14 +2437,12 @@ CORNWALL'S LIGHT INFANTRY</docAuthor>
 </lg>
 </div>
 
-<div id="moresongs2051" type="poem">
+<div xml:id="moresongs2051" type="poem">
 <head>To a Warship</head>
 
 <lg type="stanza">
-<l>PROUD monster, swung in the bosom of the</l>
-<l>prouder deep,</l>
-<l>I hear thy song, that hustles down the corridors of</l>
-<l>Time;</l>
+<l>PROUD monster, swung in the bosom of the prouder deep,</l>
+<l>I hear thy song, that hustles down the corridors of Time;</l>
 <l>Is doom exultant in its strains&#x2014;or is it peace?</l>
 </lg>
 
@@ -2399,11 +2462,14 @@ CORNWALL'S LIGHT INFANTRY</docAuthor>
 
 <dateline>B.E.F., France, August 16, 1917.</dateline>
 </div>
+</div>
 
-<div id="moresongs2052" type="poem">
-<pb n="R. Watson Kerr 81"/>
+<div type="section" xml:id="moresongs252">
+<docAuthor><name>R. WATSON KERR</name>2nd Lieut., Tank Corps</docAuthor>
+<div xml:id="moresongs2052" type="poem">
+<pb n="81"/>
 <head>Sounds by Night</head>
-<docAuthor><name>R. WATSON KERR</name>2ND LIEUT., TANK CORPS</docAuthor>
+
 
 <lg type="stanza">
 <l>I HEAR the dull low thunder of the guns</l>
@@ -2425,8 +2491,8 @@ CORNWALL'S LIGHT INFANTRY</docAuthor>
 <dateline>France, 1917.</dateline>
 </div>
 
-<div id="moresongs2051" type="poem">
-<pb n="More Songs by the Fighting Men 82"/>
+<div xml:id="moresongs2090" type="poem">
+<pb n="82"/>
 <head>Rain</head>
 
 <lg type="stanza">
@@ -2462,8 +2528,8 @@ CORNWALL'S LIGHT INFANTRY</docAuthor>
 <dateline>France, 1917.</dateline>
 </div>
 
-<div id="moresongs2052" type="poem">
-<pb n="R. Watson Kerr 83"/>
+<div xml:id="moresongs2091" type="poem">
+<pb n="83"/>
 <head>The Ancient Thought</head>
 
 <lg type="stanza">
@@ -2473,8 +2539,9 @@ CORNWALL'S LIGHT INFANTRY</docAuthor>
 <l>O still the night! O hushed the breeze&#x2014;</l>
 <l>Surely God is very nigh.</l>
 </lg>
+</div>
 
-<div id="moresongs2053" type="poem">
+<div xml:id="moresongs2053" type="poem">
 <head>At the Base</head>
 
 <lg type="stanza">
@@ -2501,8 +2568,8 @@ CORNWALL'S LIGHT INFANTRY</docAuthor>
 <dateline>France, <date><hi rend="italic">July</hi>, 1917.</date></dateline>
 </div>
 
-<div id="moresongs2053" type="poem">
-<pb n="More Songs by the Fighting Men 84"/>
+<div xml:id="moresongs2092" type="poem">
+<pb n="84"/>
 <head>In Bitterness</head>
 
 <lg type="stanza">
@@ -2518,11 +2585,12 @@ CORNWALL'S LIGHT INFANTRY</docAuthor>
 
 <dateline>France, July, 1917.</dateline>
 </div>
+</div>
 
-<div id="moresongs2054" type="poem">
+<div type="section" xml:id="moresongs254">
+<docAuthor><name>DUDLEY H. HARRIS</name> Cadet., Tank Corps</docAuthor>
+<div xml:id="moresongs2054" type="poem">
 <head>Left Alone</head>
-<docAuthor><name>DUDLEY H. HARRIS</name>CADET., TANK CORPS</docAuthor>
-
 <lg type="stanza">
 <l>LEFT alone among the dying!</l>
 <l>d All around are moaning, sighing.</l>
@@ -2534,7 +2602,7 @@ CORNWALL'S LIGHT INFANTRY</docAuthor>
 <l>Of the star-lit "No Man's Land."</l>
 </lg>
 
-<pb n="Dudley H. Harris 85"/>
+<pb n="85"/>
 
 <lg type="stanza">
 <l>Hear our prayers, O! gentle Jesus,</l>
@@ -2569,15 +2637,17 @@ CORNWALL'S LIGHT INFANTRY</docAuthor>
 <l>In a choking, croaking sigh.</l>
 </lg>
 </div>
+</div>
 
-<div id="moresongs2055" type="poem">
-<pb n="More Songs by the Fighting Men 86"/>
+<div type="section" xml:id="moresongs255">
+<docAuthor><name>FRANK C. LEWIS</name> Flight Sub-Lieut., R.N.A.S.</docAuthor>
+<div xml:id="moresongs2055" type="poem">
+<pb n="86"/>
 <head>Belgium, 1914</head>
-<docAuthor><name>FRANK C. LEWIS</name>FLIGHT SUB-LIEUT., R.N.A.S.</docAuthor>
-
+<lg>
+<head>I</head>
 <lg type="stanza">
-<l>THE lithe flames flicker through the veil of</l>
-<l>night,</l>
+<l>THE lithe flames flicker through the veil of night,</l>
 <l>Licking with bitter tongue; and soon the dawn</l>
 <l>Will come, and gaunt and black against the white</l>
 <l>Cool sky will loom a smoking home, forlorn</l>
@@ -2592,16 +2662,7 @@ CORNWALL'S LIGHT INFANTRY</docAuthor>
 <l>Thine all for sake of others' liberty.</l>
 </lg>
 
-Flight Sub-Lieut. Frank C. Lewis, R.N.A.S., was killed in aerial
-combat in France on August 21 st, 1917, aged 19 years. He had
-only been twelve days in France, being selected for a fighting
-squadron three days after he landed. His squadron commander
-described him as having already proved "a brilliant pilot," and
-of his last air fight that "he fought bravely to a noble end." He
-fell in our lines and is buriei at Bailleul. The Belgium sonnets
-were written in 1911; while he was a bny at Marlborough,
-
-<pb n="Frank C. Lewis 87"/>
+<pb n="87"/>
 
 <lg type="stanza">
 <l>Knowing the cost, nor shrinking at the thought,</l>
@@ -2609,9 +2670,8 @@ were written in 1911; while he was a bny at Marlborough,
 <l>Writ large in thine own ashes. Men shall cry,</l>
 <l>"This was a nation marvellously wrought!"</l>
 </lg>
-</div>
-
-<div id="moresongs2056" type="poem">
+</lg>
+<lg>
 <head>II</head>
 
 <lg type="stanza">
@@ -2631,10 +2691,19 @@ were written in 1911; while he was a bny at Marlborough,
 <l>And nought remains but bondage drear and grim. .</l>
 <l>God! Is there any justice under heaven?"</l>
 </lg>
+</lg>
+<note place="foot">Flight Sub-Lieut. Frank C. Lewis, R.N.A.S., was killed in aerial
+combat in France on August 21 st, 1917, aged 19 years. He had
+only been twelve days in France, being selected for a fighting
+squadron three days after he landed. His squadron commander
+described him as having already proved "a brilliant pilot," and
+of his last air fight that "he fought bravely to a noble end." He
+fell in our lines and is buried at Bailleul. The Belgium sonnets
+were written in 1915 while he was a boy at Marlborough.</note>
 </div>
 
-<div id="moresongs2056" type="poem">
-<pb n="More Songs by the Fighting Men 88"/>
+<div xml:id="moresongs2093" type="poem">
+<pb n="88"/>
 <head>Ad Profunda</head>
 
 <lg type="stanza">
@@ -2667,10 +2736,9 @@ were written in 1911; while he was a bny at Marlborough,
 </div>
 
 
-<div id="moresongs2056" type="poem">
-<pb n="Frank C. Lewis 89"/>
-<head>The Downs, looking from Savernake<lb/>
-Forest</head>
+<div xml:id="moresongs2094" type="poem">
+<pb n="89"/>
+<head>The Downs, looking from Savernake Forest</head>
 
 <lg type="stanza">
 <l>WITH eager steps I climbed the hill</l>
@@ -2697,7 +2765,7 @@ Forest</head>
 <l>And the dark clouds to weep for them,</l>
 </lg>
 
-<pb n="More Songs by the Fighting Men 90"/>
+<pb n="90"/>
 
 <lg type="stanza">
 <l>They dream the centuries away</l>
@@ -2718,11 +2786,13 @@ Forest</head>
 <l>There feel at last that we are free.</l>
 </lg>
 </div>
+</div>
 
-<div id="moresongs2057" type="poem">
-<pb n="P.H.B. Lyon 91"/>
+<div type="section" xml:id="moresongs257">
+<docAuthor><name>P.H.B. LYON</name> Lieut., Durham Light Infantry</docAuthor>
+<div xml:id="moresongs2057" type="poem">
+<pb n="91"/>
 <head>Requiem</head>
-<docAuthor><name>P.H.B. LYON</name>LIEUT., DURHAM LIGHT INFANTRY</docAuthor>
 
 <lg type="stanza">
 <l>LET others comfort your distress</l>
@@ -2751,7 +2821,7 @@ Forest</head>
 <l>And children's faces round the fire,</l>
 </lg>
 
-<pb n="More Songs by the Fighting Men 92"/>
+<pb n="92"/>
 
 <lg type="stanza">
 <l>Red clouds, and the low sun agleam</l>
@@ -2781,8 +2851,8 @@ Forest</head>
 </lg>
 </div>
 
-<div id="moresongs2058" type="poem">
-<pb n="P.H.B. Lyon 93"/>
+<div xml:id="moresongs2058" type="poem">
+<pb n="93"/>
 <head>The Lay of the Bombardier<lb/>
 (Old style)</head>
 
@@ -2821,7 +2891,7 @@ Forest</head>
 <l>Could be more intimate than I.</l>
 </lg>
 
-<pb n="More Songs by the Fighting Men 94"/>
+<pb n="94"/>
 
 <lg type="stanza">
 <l>For me no more the secret cult</l>
@@ -2853,11 +2923,14 @@ Forest</head>
 
 <dateline>FLANDERS, 1915.</dateline>
 </div>
+</div>
 
-<div id="moresongs2059" type="poem">
-<pb n="Ian H.T. Mackenzie 95"/>
+<div type="section" xml:id="moresongs259">
+<docAuthor><name>IAN H.T. MACKENZIE</name>2nd Lieut., Highland Light Infantry</docAuthor>
+<div xml:id="moresongs2059" type="poem">
+<pb n="95"/>
 <head>Desire</head>
-<docAuthor><name>IAN H.T. MACKENZIE</name>2ND LIEUT., HIGHLAND LIGHT INFANTRY</docAuthor>
+
 
 <lg type="stanza">
 <l>THIS is my desire</l>
@@ -2883,7 +2956,7 @@ Forest</head>
 </lg>
 
 
-<pb n="More Songs by the Fighting Men 96"/>
+<pb n="96"/>
 
 <lg type="stanza">
 <l>This is the desire</l>
@@ -2899,7 +2972,7 @@ Forest</head>
 </div>
 
 
-<div id="moresongs2060" type="poem">
+<div xml:id="moresongs2060" type="poem">
 <head>And So Man Lives</head>
 
 <lg type="stanza">
@@ -2916,7 +2989,7 @@ Forest</head>
 <l>Where life with memory breaks.</l>
 </lg>
 
-<pb n="Ian H.T. Mackenzie 86"/>
+<pb n="97"/>
 
 <lg type="stanza">
 <l>Memory like water</l>
@@ -2958,7 +3031,7 @@ Forest</head>
 <l>In the happiness of air.</l>
 </lg>
 
-<pb n="More Songs by the Fighting Men 98"/>
+<pb n="98"/>
 
 <lg type="stanza">
 <l>Tiny little birds that sing</l>
@@ -2974,62 +3047,48 @@ Forest</head>
 <l>Through a twisted looking-glass.</l>
 </lg>
 </div>
+</div>
 
-<div id="moresongs2061" type="poem">
-<pb n="Charles John Beech Masefield 99"/>
+<div type="section" xml:id="moresongs261">
+<docAuthor><name>CHARLES JOHN BEECH MASEFIELD</name> M.C., Acting
+Capt., 5th North Staffs Regt.<lb/>(Killed in Action, July, 1917)</docAuthor>
+<div xml:id="moresongs2061" type="poem">
+<pb n="99"/>
 <head>Enlisted, or The Recruits</head>
-<docAuthor><name>CHARLES JOHN BEECH MASEFIELD</name>M.C., ACTING
-CAPT., 5TH NORTH STAFFS REGT.<lb/>(Killed in Action, July, 1917)</docAuthor>
-
 <lg type="stanza">
-<l>HUMBLY, O England, we offer what is of little</l>
-<l>worth,</l>
-<l>Just our bodies and souls and everything else we</l>
-<l>have;</l>
-<l>But thou with thy holy cause wilt hallow our</l>
-<l>common earth,</l>
-<l>Giving us strength in the battle&#x2014;and peace, if need,</l>
-<l>in the grave.</l>
+<l>HUMBLY, O England, we offer what is of little worth,</l>
+<l>Just our bodies and souls and everything else we have;</l>
+<l>But thou with thy holy cause wilt hallow our common earth,</l>
+<l>Giving us strength in the battle&#x2014;and peace, if need, in the grave.</l>
 </lg>
 
 <lg type="stanza">
-<l>Humble, O England, we are, for of hero-fathers we</l>
-<l>come,</l>
-<l>Men that contested with tyrants the mightier</l>
-<l>destinies;</l>
-<l>Philip of Spain we remember, and the ships that</l>
-<l>never went home.</l>
-<l>And him that was caught at last, and isled in the</l>
-<l>warder seas.</l>
+<l>Humble, O England, we are, for of hero-fathers we come,</l>
+<l>Men that contested with tyrants the mightier destinies;</l>
+<l>Philip of Spain we remember, and the ships that never went home.</l>
+<l>And him that was caught at last, and isled in the warder seas.</l>
 </lg>
 
-<pb n="More Songs by the Fighting Men 100"/>
+<pb n="100"/>
 
 <lg type="stanza">
-<l>Humbly, O England, we bring thee life in its folly-</l>
-<l>stained youth.</l>
-<l>That which, it may be, has striven, but ever has</l>
-<l>slackened and tired;</l>
-<l>The faltering, often deceived, to combat now for</l>
-<l>the Truth,</l>
-<l>Dim-visioned, to smite for the morrow unknown</l>
-<l>but desired.</l>
+<l>Humbly, O England, we bring thee life in its folly-stained youth.</l>
+<l>That which, it may be, has striven, but ever has slackened and tired;</l>
+<l>The faltering, often deceived, to combat now for the Truth,</l>
+<l>Dim-visioned, to smite for the morrow unknown but desired.</l>
 </lg>
 
 <dateline>September, 1914.</dateline>
 </div>
 
-<div id="moresongs2062" type="poem">
+<div xml:id="moresongs2062" type="poem">
 <head>Sailing for Flanders</head>
 
 <lg type="stanza">
-<l>TO need any more the skies or man to impor¬</l>
-<l>tune</l>
+<l>TO need any more the skies or man to importune</l>
 <l>For us departing to-day with spirits at peace.</l>
-<l>Now that the inner warfares, that tire men,</l>
-<l>cease&#x2014;</l>
-<l>For us the chosen of God's lot, the spoilt darhngs</l>
-<l>of Fortune.</l>
+<l>Now that the inner warfares, that tire men, cease&#x2014;</l>
+<l>For us the chosen of God's lot, the spoilt darlings of Fortune.</l>
 </lg>
 
 <lg type="stanza">
@@ -3039,11 +3098,10 @@ CAPT., 5TH NORTH STAFFS REGT.<lb/>(Killed in Action, July, 1917)</docAuthor>
 <l>To be known of the envious youth of unborn ages.</l>
 </lg>
 
-<pb n="Charles John Beech Masefield 101"/>
+<pb n="101"/>
 
 <lg type="stanza">
-<l>We have feared old Death, but now have we learned</l>
-<l>our error.</l>
+<l>We have feared old Death, but now have we learned our error.</l>
 <l>Seeing him there in the mire us so kindly await&#x2014;</l>
 <l>A comrade befitting the hour of a world's fate,</l>
 <l>And we look him full in the eyes; we are rid of our</l>
@@ -3061,41 +3119,31 @@ CAPT., 5TH NORTH STAFFS REGT.<lb/>(Killed in Action, July, 1917)</docAuthor>
 <lg type="stanza">
 <l>We have spent ourselves to win us a lady's favour,</l>
 <l>But now the spending is grown to a leaping fire.</l>
-<l>And winning for ourselves seems but a strange</l>
-<l>desire;</l>
-<l>Her eyes are remote as stars; her kisses have lost</l>
-<l>their savour.</l>
+<l>And winning for ourselves seems but a strange desire;</l>
+<l>Her eyes are remote as stars; her kisses have lost their savour.</l>
 </lg>
 
 <lg type="stanza">
-<l>We have put life away and spurn the ways of the</l>
-<l>living;</l>
-<l>We have broken with the old selves who gathered</l>
-<l>and got.</l>
-<l>And are free with the freedom of men who have</l>
-<l>not;</l>
-<l>We partake the heroic fervours of giving and again</l>
-<l>giving.</l>
+<l>We have put life away and spurn the ways of the living;</l>
+<l>We have broken with the old selves who gathered and got.</l>
+<l>And are free with the freedom of men who have not;</l>
+<l>We partake the heroic fervours of giving and again giving.</l>
 </lg>
 
-<pb n="More Songs by the Fighting Men 102"/>
+<pb n="102"/>
 
 <lg type="stanza">
-<l>Was it only for Death we were borne of our</l>
-<l>Mothers?</l>
-<l>Only for Death created the dear love of our</l>
-<l>wives?</l>
-<l>Only for Death and in vain we endeavoured</l>
-<l>our lives?</l>
-<l>Yea, life was given to be given; March onward,</l>
-<l>my brothers!</l>
+<l>Was it only for Death we were borne of our Mothers?</l>
+<l>Only for Death created the dear love of our wives?</l>
+<l>Only for Death and in vain we endeavoured our lives?</l>
+<l>Yea, life was given to be given; March onward, my brothers!</l>
 </lg>
 <dateline>January, 1915.</dateline>
 </div>
 
 
-<div id="moresongs2063" type="poem">
-<head>Two July's</head>
+<div xml:id="moresongs2063" type="poem">
+<head>Two Julys</head>
 
 <lg type="stanza">
 <l>I WAS so vague in 1914; tossed</l>
@@ -3103,24 +3151,21 @@ CAPT., 5TH NORTH STAFFS REGT.<lb/>(Killed in Action, July, 1917)</docAuthor>
 <l>Moody; to this world or the other lost.</l>
 <l>Essential nowhere; without calm and mirthless</l>
 <l>And now I have gained one for many ends.</l>
-<l>See my straight road stretch out so white, so</l>
-<l>slender.</l>
+<l>See my straight road stretch out so white, so slender.</l>
 <l>That happy road, the road of all my friends.</l>
 <l>Made glad with peace, and holy with surrender.</l>
 </lg>
 
 <lg type="stanza">
-<l>Proud, proud we fling to the winds of Time our</l>
-<l>token.</l>
+<l>Proud, proud we fling to the winds of Time our token.</l>
 <l>And in our need there wells in us the power,</l>
 </lg>
 
-<pb n="Charles John Beech Masefield 102"/>
+<pb n="103"/>
 
 <lg type="stanza">
 <l>Given England's swords to keep her honour clean.</l>
-<l>Which they shall be which pierce, and which be</l>
-<l>broken.</l>
+<l>Which they shall be which pierce, and which be broken.</l>
 <l>We know not, but we know that every hour</l>
 <l>We must shine brighter, take an edge more keen.</l>
 </lg>
@@ -3129,7 +3174,7 @@ CAPT., 5TH NORTH STAFFS REGT.<lb/>(Killed in Action, July, 1917)</docAuthor>
 </div>
 
 
-<div id="moresongs2064" type="poem">
+<div xml:id="moresongs2064" type="poem">
 <head>In Honorem Fortium</head>
 
 <lg type="stanza">
@@ -3151,7 +3196,7 @@ CAPT., 5TH NORTH STAFFS REGT.<lb/>(Killed in Action, July, 1917)</docAuthor>
 <l>Making for courage, pvitting old Death,</l>
 </lg>
 
-<pb n="More Songs by the Fighting Men 104"/>
+<pb n="104"/>
 
 <lg type="stanza">
 <l>Living wherever men are not afraid</l>
@@ -3166,12 +3211,13 @@ CAPT., 5TH NORTH STAFFS REGT.<lb/>(Killed in Action, July, 1917)</docAuthor>
 
 <dateline>May, 1917.</dateline>
 </div>
+</div>
 
-<div id="moresongs2065" type="poem">
-<pb n="John Mason 105"/>
+<div type="section" xml:id="moresongs265">
+<docAuthor><name>JOHN MASON</name> Captain, Royal Scots</docAuthor>
+<div xml:id="moresongs2065" type="poem">
+<pb n="105"/>
 <head>My Country</head>
-<docAuthor><name>JOHN MASON</name> CAPTAIN, ROYAL SCOTS</docAuthor>
-
 <lg type="stanza">
 <l>THERE is no dearer land in all the world</l>
 <l>Than thee, my country, girded by the sea.</l>
@@ -3196,7 +3242,7 @@ CAPT., 5TH NORTH STAFFS REGT.<lb/>(Killed in Action, July, 1917)</docAuthor>
 <l>The like to thee.</l>
 </lg>
 
-<pb n="More Songs by the Fighting Men 106"/>
+<pb n="106"/>
 
 <lg type="stanza">
 <l>There is no dearer land in all the world</l>
@@ -3210,12 +3256,13 @@ CAPT., 5TH NORTH STAFFS REGT.<lb/>(Killed in Action, July, 1917)</docAuthor>
 <l>To'peace and right.</l>
 </lg>
 </div>
+</div>
 
-
-<div id="moresongs2066" type="poem">
-<pb n="Harley Matthews 107"/>
+<div type="section" xml:id="moresongs266">
+<docAuthor><name>HARLEY MATTHEWS</name> Private, A.I.F.</docAuthor>
+<div xml:id="moresongs2066" type="poem">
+<pb n="107"/>
 <head>Homeward</head>
-<docAuthor><name>HARLEY MATTHEWS</name> PRIVATE, A.I.F.</docAuthor>
 
 <lg type="stanza">
 <l>TO the old friends and faces,</l>
@@ -3243,7 +3290,7 @@ CAPT., 5TH NORTH STAFFS REGT.<lb/>(Killed in Action, July, 1917)</docAuthor>
 <l>The sea that takes us home.</l>
 </lg>
 
-<pb n="More Songs by the Fighting Men 108"/>
+<pb n="108"/>
 
 <lg type="stanza">
 <l>I hear you, waves that glisten,</l>
@@ -3258,20 +3305,22 @@ CAPT., 5TH NORTH STAFFS REGT.<lb/>(Killed in Action, July, 1917)</docAuthor>
 <l>But sounds and sights of home.</l>
 </lg>
 </div>
+</div>
 
-
-<div id="moresongs2067" type="poem">
-<pb n="Murray McClymont 109"/>
-<head>God's Acre</head>
-<docAuthor><name>MURRAY McCLYMONT</name> 2ND LIEUT., 2/10TH (SCOTTISH)
+<div type="section" xml:id="moresongs267">
+<docAuthor><name>MURRAY McCLYMONT</name> 2nd Lieut., 2/10th (Scottish)
 K.L.R.</docAuthor>
+<div xml:id="moresongs2067" type="poem">
+<pb n="109"/>
+<head>God's Acre</head>
 
 
-***dedication***
+
+<note rend="inline">
 Dedicated to my "skipper," Captain Alan Cookson
 (killed in action 27th June, 1917), who now sleeps
 eternally in the shadow of the little grey church
-at
+at</note>
 
 <lg type="stanza">
 <l>WHEN sands of Time have run their course</l>
@@ -3297,12 +3346,12 @@ at
 <dateline>B.E.F., FRANCE, Sept., 1917.</dateline>
 </div>
 
-<div id="moresongs2068" type="poem">
-<pb n="More Songs by the Fighting Men 110"/>
+<div xml:id="moresongs2068" type="poem">
+<pb n="110"/>
 <head>Hills of Home</head>
 
 <lg type="stanza">
-<l>TO gloam-blue hills thatshadowmoorlandspaces,</l>
+<l>TO gloam-blue hills that shadow moorland spaces,</l>
 <l>To legend-haunted vales where all is still.</l>
 <l>To that grey land where slumber martyred races.</l>
 <l>My spirit flees at will.</l>
@@ -3340,13 +3389,12 @@ at
 </div>
 
 
-<div id="moresongs2069" type="poem">
-<pb n="Murray McClymont 111"/>
+<div xml:id="moresongs2069" type="poem">
+<pb n="111"/>
 <head>To a Fallen Comrade</head>
 
 <lg type="stanza">
-<l>I HEARD the voice of Spring come softly</l>
-<l>pleading</l>
+<l>I HEARD the voice of Spring come softly pleading</l>
 <l>Across the fresh and breathing wold to-day:</l>
 <l>The sun, set free from cloudy bonds, was speeding</l>
 <l>To greet the earth with each impassioned ray.</l>
@@ -3373,25 +3421,27 @@ at
 <l><hi rend="italic">Where Hope retreated bleeding and forlorn!</hi></l>
 </lg>
 
-<pb n="More Songs by the Fighting Men 112"/>
+<pb n="112"/>
 
 
 <lg type="stanza">
 <l>Ah! then I knew that Spring would only bring me</l>
-<l>Blue skies and songs and flowers drenched with</l>
-<l>dew!</l>
+<l>Blue skies and songs and flowers drenched with dew!</l>
 <l>Ah! then I knew that Spring could never bring me</l>
 <l>The friend I had and, having, lost in you!</l>
 </lg>
 
 <dateline>April, 1917.</dateline>
 </div>
+</div>
 
-<div id="moresongs2070" type="poem">
-<pb n="Rudolphe Louis N&#x00E8;groz 113"/>
+<div type="section" xml:id="moresongs270">
+<docAuthor><name>RUDOLPHE LOUIS N&#x00C8;GROZ</name> Lance-Corporal,
+West Yorks</docAuthor>
+<div xml:id="moresongs2070" type="poem">
+<pb n="113"/>
 <head>Con Amore</head>
-<docAuthor><name>RUDOLPHE LOUIS N&#x00C8;GROZ</name> LANCE-CORPORAL,
-WEST YORKS</docAuthor>
+
 
 <lg type="stanza">
 <l>IF but my love were as my love should be.</l>
@@ -3418,7 +3468,7 @@ WEST YORKS</docAuthor>
 <l>My sister's and mine own, and in our mind</l>
 </lg>
 
-<pb n="More Songs by the Fighting Men 114"/>
+<pb n="114"/>
 
 <lg type="stanza">
 <l>Invoke respect, tongue-tied however just.</l>
@@ -3451,7 +3501,7 @@ WEST YORKS</docAuthor>
 <l>years.</l>
 </lg>
 
-<pb n="Rudolphe Louis N&#x00E8;groz 115"/>
+<pb n="115"/>
 
 <lg type="stanza">
 <l>I have been exiled now for two long years,</l>
@@ -3485,7 +3535,7 @@ WEST YORKS</docAuthor>
 <l>With his contempt content, my hand he freed</l>
 </lg>
 
-<pb n="More Songs by the Fighting Men 116"/>
+<pb n="116"/>
 
 <lg type="stanza">
 <l>And left me breathing still the air of men</l>
@@ -3520,7 +3570,7 @@ WEST YORKS</docAuthor>
 <l>Of my home-coming that one could infer</l>
 </lg>
 
-<pb n="Rudolphe Louis N&#x00E8;groz 117"/>
+<pb n="117"/>
 
 <lg type="stanza">
 <l>A happiness complete, without alloy</l>
@@ -3557,7 +3607,7 @@ WEST YORKS</docAuthor>
 <l>Nor Duty-guided in a course unswerving,</l>
 </lg>
 
-<pb n="More Songs by the Fighting Men 118"/>
+<pb n="118"/>
 
 <lg type="stanza">
 <l>As lies your own in beauteous symmetry</l>
@@ -3590,7 +3640,7 @@ WEST YORKS</docAuthor>
 <l>My pain-fraught joy feeling thy prideful kis?.</l>
 </lg>
 
-<pb n="Rudolphe Louis N&#x00E8;groz 119"/>
+<pb n="119"/>
 
 <lg type="stanza">
 <l>Mother! toward you my gratitude now goes</l>
@@ -3611,11 +3661,14 @@ WEST YORKS</docAuthor>
 
 <dateline>FRANCE, Sept., 1917.</dateline>
 </div>
+</div>
 
-<div id="moresongs2071" type="poem">
-<pb n="More Songs by the Fighting Men 120"/>
+<div type="section" xml:id="moresongs271">
+<docAuthor><name>ARMEL O'CONNOR</name> Private, East Anglian Field Ambulance</docAuthor>
+<div xml:id="moresongs2071" type="poem">
+<pb n="120"/>
 <head>Violet</head>
-<docAuthor><name>ARMEL O'CONNOR</name> PRIVATE, EAST ANGLIAN FIELD AMBULANCE</docAuthor>
+
 
 <lg type="stanza">
 <l>I WOULD throw to magnificent doom</l>
@@ -3644,7 +3697,7 @@ WEST YORKS</docAuthor>
 <l>Her kind, kind English heart</l>
 </lg>
 
-<pb n="Armel O'Connor 121"/>
+<pb n="121"/>
 
 <lg type="stanza">
 <l>With its personal treasures of grace</l>
@@ -3657,11 +3710,14 @@ WEST YORKS</docAuthor>
 
 <dateline>PALESTINE, Aug. 12, 1917</dateline>
 </div>
+</div>
 
-<div id="moresongs2072" type="poem">
-<pb n="More Songs by the Fighting Men 122"/>
+<div type="section" xml:id="moresongs272">
+<docAuthor><name>DAVID COX McEWEN OSBORNE</name> Lance-Corporal, 1st Middlesex</docAuthor>
+<div xml:id="moresongs2072" type="poem">
+<pb n="122"/>
 <head>May-Day</head>
-<docAuthor><name>DAVID COX McEWEN OSBORNE</name> LANCE-CORPORAL, 1ST MIDDLESEX</docAuthor>
+
 
 <lg type="stanza">
 <l>WHO loveth whom He chasteneth</l>
@@ -3691,7 +3747,7 @@ WEST YORKS</docAuthor>
 <l>Perfects the splendid sky.</l>
 </lg>
 
-<pb n="David Cox McEwen Osborne 123"/>
+<pb n="123"/>
 
 <lg type="stanza">
 <l>For seed and soul that quicken</l>
@@ -3701,8 +3757,8 @@ WEST YORKS</docAuthor>
 </lg>
 </div>
 
-<div id="moresongs2073" type="poem">
-<head>Private Claye<lb/>(Killed 27th June, 1917</head>
+<div xml:id="moresongs2073" type="poem">
+<head>Private Claye<lb/>(Killed 27th June, 1917)</head>
 
 <lg type="stanza">
 <l>FROM clay in strength our native oak-tree grows</l>
@@ -3721,11 +3777,14 @@ WEST YORKS</docAuthor>
 <l>Informs thine ancient and illustrious name.</l>
 </lg>
 </div>
+</div>
 
-<div id="moresongs2074" type="poem">
-<pb n="More Songs by the Fighting Men 124"/>
+<div type="section" xml:id="moresongs274">
+<docAuthor><name>J. PETERSON</name> Private, Seaforth Highlanders</docAuthor>
+<div xml:id="moresongs2074" type="poem">
+<pb n="124"/>
 <head>Peace</head>
-<docAuthor><name>J. PETERSON</name> PRIVATE, SEAFORTH HIGHLANDERS</docAuthor>
+
 
 <lg type="stanza">
 <l>THERE is no peace, no peace," the big guns</l>
@@ -3748,8 +3807,8 @@ WEST YORKS</docAuthor>
 </lg>
 </div>
 
-<div id="moresongs2075" type="poem">
-<pb n="J. Peterson 125"/>
+<div xml:id="moresongs2075" type="poem">
+<pb n="125"/>
 <head>Arras</head>
 
 <lg type="stanza">
@@ -3784,7 +3843,7 @@ WEST YORKS</docAuthor>
 <l>There stretched broad the sun-parched sand</l>
 </lg>
 
-<pb n="More Songs by the Fighting Men 126"/>
+<pb n="126"/>
 
 <lg type="stanza">
 <l>Where together men and torture</l>
@@ -3802,11 +3861,14 @@ WEST YORKS</docAuthor>
 <l>Who were not afraid to die.</l>
 </lg>
 </div>
+</div>
 
-<div id="moresongs2076" type="poem">
-<pb n="Richard Raleigh 125"/>
+<div type="section" xml:id="moresongs276">
+<docAuthor><name>"RICHARD RALEIGH"</name> 2nd Lieut., O. and B.L.I., FRANCE</docAuthor>
+<div xml:id="moresongs2076" type="poem">
+<pb n="127"/>
 <head>A Soldier's Litany</head>
-<docAuthor><name>"RICHARD RALEIGH"</name> 2ND LIEUT., O. AND B.L.I., FRANCE</docAuthor>
+
 
 <lg type="stanza">
 <l>WHEN the foemen's hosts draw nigh.</l>
@@ -3835,7 +3897,7 @@ WEST YORKS</docAuthor>
 <l>Libera nos Domine!</l>
 </lg>
 
-<pb n="More Songs by the Fighting Men"/>
+<pb n="128"/>
 
 <lg type="stanza">
 <l>And when night's shadows round us close,</l>
@@ -3847,12 +3909,13 @@ WEST YORKS</docAuthor>
 <l>(Save us. Lord.)</l>
 </lg>
 </div>
+</div>
 
-<div id="moresongs2077" type="poem">
-<pb n="K.M. Scobie 125"/>
+<div type="section" xml:id="moresongs277">
+<docAuthor><name>K.M. SCOBIE</name> 2nd Lieut., R.G.A.</docAuthor>
+<div xml:id="moresongs2077" type="poem">
+<pb n="129"/>
 <head>Lunae</head>
-<docAuthor><name>K.M. SCOBIE</name> 2ND LIEUT., R.G.A.</docAuthor>
-
 <lg type="stanza">
 <l>HAVE you ridden alone in the country ever</l>
 <l>By the dusty light of the harvest-moon?</l>
@@ -3876,7 +3939,7 @@ WEST YORKS</docAuthor>
 <l>You know in your heart that you laughed too soon,</l>
 </lg>
 
-<pb n="More Songs by the Fighting Men 130"/>
+<pb n="130"/>
 
 <lg type="stanza">
 <l>They reach the roadside; and, leaning over.</l>
@@ -3890,11 +3953,13 @@ WEST YORKS</docAuthor>
 <l>Voices and lights: and the magic fails.</l>
 </lg>
 </div>
+</div>
 
-<div id="moresongs2078" type="poem">
-<pb n="R. Howard Spring 125"/>
+<div type="section" xml:id="moresongs278">
+<docAuthor><name>R. HOWARD SPRING</name> Corporal, A.S.C., France</docAuthor>
+<div xml:id="moresongs2078" type="poem">
+<pb n="131"/>
 <head>Hic Jacet</head>
-<docAuthor><name>R. HOWARD SPRING</name> CORPORAL, A.S.C., FRANCE</docAuthor>
 
 <lg type="stanza">
 <l>UNRECORDED and unsung.</l>
@@ -3924,8 +3989,8 @@ WEST YORKS</docAuthor>
 </lg>
 </div>
 
-<div id="moresongs2079" type="poem">
-<pb n="More Songs by the Fighting Men 132"/>
+<div xml:id="moresongs2079" type="poem">
+<pb n="132"/>
 <head>Knowledge</head>
 
 <lg type="stanza">
@@ -3942,8 +4007,7 @@ WEST YORKS</docAuthor>
 
 <lg type="stanza">
 <l>I sought for knowledge, and the shell is shattered.</l>
-<l>I sought for knowledge, and the things that mat&#x2014;</l>
-<l>tered&#x2014;</l>
+<l>I sought for knowledge, and the things that mattered&#x2014;</l>
 <l>The rose leaves and the dew&#x2014;abroad are scattered,</l>
 </lg>
 
@@ -3954,7 +4018,7 @@ WEST YORKS</docAuthor>
 </lg>
 </div>
 
-<div id="moresongs2080" type="poem">
+<div xml:id="moresongs2080" type="poem">
 <head>At Sunset: September, 1917</head>
 
 <lg type="stanza">
@@ -3964,7 +4028,7 @@ WEST YORKS</docAuthor>
 <l>Of June lies perfect in a crimson rose,</l>
 </lg>
 
-<pb n="R. Howard Spring 133"/>
+<pb n="133"/>
 
 <lg type="stanza">
 <l>We who, unheeding, watched the little pools</l>
@@ -3987,25 +4051,22 @@ WEST YORKS</docAuthor>
 </lg>
 </div>
 
-<div id="moresongs2081" type="poem">
+<div xml:id="moresongs2081" type="poem">
 <head>The Bells <lb/>
 [In Germany church bells are being melted down<lb/>
  for war purposes.]</head>
-
-<hi rend="italic">The Bells:</hi>
 <lg type="stanza">
+<head rend="italic">The Bells:</head>
 <l>WHAT have we done</l>
-<l>That sacrilegious hands should tear us</l>
-<l>down</l>
+<l>That sacrilegious hands should tear us down</l>
 <l>From the high belfry above the little town,</l>
 <l>Whence now for fifty years to King and clown</l>
 <l>We speak of life and death? What have we done?</l>
 </lg>
 
-<pb n="More Songs by the Fighting Men 134"/>
-
-<hi rend="italic">First Bell:</hi>
+<pb n="134"/>
 <lg type="stanza">
+<head rend="italic">First Bell:</head>
 <l>We rang for the coming of souls to earth.</l>
 <l>We rang the joy of children's birth;</l>
 <l>We rocked and carolled the young life in,</l>
@@ -4020,8 +4081,8 @@ WEST YORKS</docAuthor>
 <l>day.</l>
 </lg>
 
-<hi rend="italic">Second Bell:</hi>
 <lg type="stanza">
+<head rend="italic">Second Bell:</head>
 <l>Sadly we tolled the old life out</l>
 <l>That was done with laughter and tears and doubt.</l>
 <l>Silverly clear, when the moon sailed by</l>
@@ -4030,17 +4091,17 @@ WEST YORKS</docAuthor>
 <l>To meet the devil and wrestle through.</l>
 </lg>
 
-<hi rend="italic">Third Bell:</hi>
 <lg type="stanza">
+<head rend="italic">Third Bell:</head>
 <l>We rang of peace and we rang good-will</l>
 <l>On the Christ-child's day, so ghostly-still;</l>
 <l>When, dumbed with snow, the village street</l>
 <l>No answer made to passing feet.</l>
-</lg>
 
-<pb n="R. Howard Spring 135"/>
 
-<lg type="stanza">
+<pb n="135"/>
+
+
 <l>Earth stopped her breathing, knowing then</l>
 <l>The seed of God sown among men.</l>
 <l>We rocked the steeple on Easter day</l>
@@ -4049,8 +4110,8 @@ WEST YORKS</docAuthor>
 <l>And holy laughter of dancing rills.</l>
 </lg>
 
-<hi rend="italic">The Bells:</hi>
 <lg type="stanza">
+<head rend="italic">The Bells:</head>
 <l>O men who tear us from our place on high</l>
 <l>To make us messengers of hate and death,</l>
 <l>Thus you uproot the holy lily-flower</l>
@@ -4069,12 +4130,13 @@ WEST YORKS</docAuthor>
 <l>Behold! The Christ steals by with bleeding head.</l>
 </lg>
 </div>
+</div>
 
-
-<div id="moresongs2082" type="poem">
-<pb n="More Songs by the Fighting Men 136"/>
+<div type="section" xml:id="moresongs282">
+<docAuthor><name>J.E. STEWART</name> M.C., Capt., Border Regiment</docAuthor>
+<div xml:id="moresongs2082" type="poem">
+<pb n="136"/>
 <head>Before Action</head>
-<docAuthor><name>J.E. STEWART</name> M.C., CAPT., BORDER REGIMENT</docAuthor>
 
 <lg type="stanza">
 <l>OVER the down the road goes winding,</l>
@@ -4108,8 +4170,8 @@ WEST YORKS</docAuthor>
 </div>
 
 
-<div id="moresongs2083" type="poem">
-<pb n="J.E. Stewart 137"/>
+<div xml:id="moresongs2083" type="poem">
+<pb n="137"/>
 <head>Renascence</head>
 
 <lg type="stanza">
@@ -4145,11 +4207,11 @@ WEST YORKS</docAuthor>
 <l>With a new ministry of Song.</l>
 </lg>
 
-<dateline>Flanders, 1917.</dateline>.
+<dateline>Flanders, 1917.</dateline>
 </div>
 
-<div id="moresongs2084" type="poem">
-<pb n="More Songs by the Fighting Men 138"/>
+<div xml:id="moresongs2084" type="poem">
+<pb n="138"/>
 <head>Courage</head>
 
 <lg type="stanza">
@@ -4172,9 +4234,10 @@ WEST YORKS</docAuthor>
 <l>King of myself again.</l>
 </lg>
 
-<p rend="center">ENVOY</p>
+
 
 <lg type="stanza">
+<head rend="center">ENVOY</head>
 <l>Blessed be God above</l>
 <l>For His sweet care.</l>
 <l>Who heard the prayers of those whom most I love</l>
@@ -4184,12 +4247,15 @@ WEST YORKS</docAuthor>
 <l>And gave me back my soul!</l>
 </lg>
 </div>
+</div>
 
-<div id="moresongs2085" type="poem">
-<pb n="Eric Fitzwalter Wilkonson 139"/>
+<div type="section" xml:id="moresongs285">
+<docAuthor><name>ERIC FITZWALTER WILKINSON</name> M.C., Capt., West Yorkshires,
+B.E.F., France <lb/>(Killed in Action, October 9, 1917)</docAuthor>
+<div xml:id="moresongs2085" type="poem">
+<pb n="139"/>
 <head>To a Choir of Birds</head>
-<docAuthor><name>ERIC FITZWALTER WILKINSON</name> M.C., CAPT., WEST YORKSHIRES,
-B.E.F., FRANCE <lb/>(Killed in Action, October 9, 1917)</docAuthor>
+
 
 <lg type="stanza">
 <l>GREEN are the trees, and green the summer</l>
@@ -4212,12 +4278,15 @@ B.E.F., FRANCE <lb/>(Killed in Action, October 9, 1917)</docAuthor>
 <l>Sing on! Sing on! in careless ecstasy.</l>
 </lg>
 </div>
+</div>
 
-<div id="moresongs2086" type="poem">
-<pb n="More Songs by the Fighting Men 140"/>
+<div type="section" xml:id="moresongs286">
+<docAuthor><name>WALTER LIGHTOWLER WILKINSON</name> Lieut., 8TH Argyll
+and Sutherland Highlanders <lb/>(Killed on Vimy Ridge, April 9, 1917)</docAuthor>
+<div xml:id="moresongs2086" type="poem">
+<pb n="140"/>
 <head>A Lament fron the Dead</head>
-<docAuthor><name>WALTER LIGHTOWLER WILKINSON</name> LIUET., 8TH ARGYLL
-AND SUTHERLAND HIGHLANDERS<lb/>(Killed on Vimy Ridge, April 9, 1917)</docAuthor>
+
 
 <lg type="stanza">
 <l>PEACE! Vex us not: we are Dead,</l>
@@ -4241,7 +4310,7 @@ AND SUTHERLAND HIGHLANDERS<lb/>(Killed on Vimy Ridge, April 9, 1917)</docAuthor>
 <l>Peace! Vex me not!</l>
 </lg>
 
-<pb n="Walter Lightowler Wilkinson 141"/>
+<pb n="141"/>
 
 <lg type="stanza">
 <l>Brothers, and I&#x2014;I taste again.</l>
@@ -4265,7 +4334,7 @@ AND SUTHERLAND HIGHLANDERS<lb/>(Killed on Vimy Ridge, April 9, 1917)</docAuthor>
 <l>Cease! Vex me not!</l>
 </lg>
 
-<milestone unit="section" rends="stars"/>
+<milestone unit="section" rend="stars"/>
 
 <lg type="stanza">
 <l>Brothers, I beg you be at rest.</l>
@@ -4279,8 +4348,8 @@ AND SUTHERLAND HIGHLANDERS<lb/>(Killed on Vimy Ridge, April 9, 1917)</docAuthor>
 </lg>
 </div>
 
-<div id="moresongs2087" type="poem">
-<pb n="More Songs by the Fighting Men 142"/>
+<div xml:id="moresongs2087" type="poem">
+<pb n="142"/>
 <head>The Wayside Burial</head>
 
 <lg type="stanza">
@@ -4315,13 +4384,12 @@ AND SUTHERLAND HIGHLANDERS<lb/>(Killed on Vimy Ridge, April 9, 1917)</docAuthor>
 <l>(A sea-coast country: that the badges show.)</l>
 </lg>
 
-<pb n="Walter Lightowler Wilkinson 143"/>
+<pb n="143"/>
 
 <lg type="stanza">
 <l>And she?&#x2014;I sense her grief, I feel her tears!</l>
 <l>"This, then, the garnered harvest of my years!"</l>
-<l>And he? "For Country, dear, a man must</l>
-<l>die!"</l>
+<l>And he? "For Country, dear, a man must die!"</l>
 <l>Comrade unknown, good rest to you!&#x2014;Good-bye!</l>
 </lg>
 
@@ -4331,8 +4399,7 @@ AND SUTHERLAND HIGHLANDERS<lb/>(Killed on Vimy Ridge, April 9, 1917)</docAuthor>
 <l>A cross of wood?  A Calvary!&#x2014;The Land</l>
 <l>For whose sake you laid down sweet life, will keep</l>
 <l>Watch, lad, and ward that none may bring to shame.</l>
-<l>That Name for which you died! "What's in a</l>
-<l>name"?&#x2014;</l>
+<l>That Name for which you died! "What's in a name"?&#x2014;</l>
 <l>England shall answer! Tou will hear Her cry:</l>
 <l>" Well done, my own! my son&#x2014;good rest: Good-</l>
 <l>bye!"</l>
@@ -4341,7 +4408,7 @@ AND SUTHERLAND HIGHLANDERS<lb/>(Killed on Vimy Ridge, April 9, 1917)</docAuthor>
 <dateline>B.E.F., France, 4.3.17.</dateline>
 </div>
 
-<div id="moresongs2088" type="poem">
+<div xml:id="moresongs2088" type="poem">
 <head>At Last Post</head>
 
 <lg type="stanza">
@@ -4356,13 +4423,12 @@ AND SUTHERLAND HIGHLANDERS<lb/>(Killed on Vimy Ridge, April 9, 1917)</docAuthor>
 <dateline>B.E.F., France.</dateline>
 </div>
 
-<div id="moresongs2089" type="poem">
-<pb n="More Songs by the Fighting Men 144"/>
+<div xml:id="moresongs2089" type="poem">
+<pb n="144"/>
 <head>Night in War Time</head>
 
 <lg type="stanza">
-<l>NIGHT and night's menace: Death hath</l>
-<l>forged a dart</l>
+<l>NIGHT and night's menace: Death hath forged a dart</l>
 <l>Of every moment's pause and stealthy pass:</l>
 <l>Blind Terror reigns: darkly, as in a glass,</l>
 <l>Man's wondering Soul beholds his fearful Heart,</l>
@@ -4383,5 +4449,8 @@ AND SUTHERLAND HIGHLANDERS<lb/>(Killed on Vimy Ridge, April 9, 1917)</docAuthor>
 
 <dateline>B.E.F., France, January 25th, 1917.</dateline>
 </div>
-
+</div>
+</body>
 <!-- ***back matter page images go here*** -->
+</text>
+</TEI>

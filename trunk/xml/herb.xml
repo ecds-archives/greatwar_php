@@ -1,7 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="herb">
    <teiHeader><fileDesc>
          <titleStmt>
-            <title>Herb o' Grace: Electronic Edition</title>
+            <title>Herb o' Grace, an electronic edition</title>
             <author><name type="person"><choice><reg>Tynan, Katharine, 1861-1931</reg><sic>Katharine Tynan</sic></choice></name></author>
          </titleStmt>
 	 <publicationStmt><publisher>Lewis H. Beck Center for Electronic Collections
@@ -96,7 +97,7 @@
 <l>Now in any garden plot.</l></lg>
 
 <lg>
-<l>Love-in-a-mist, bewilderèd</l>
+<l>Love-in-a-mist, bewilder&#x00E8;d</l>
 <l>With the many tears Love shed,</l>
 <l>Seeks for herb-o'-grace to bind</l>
 <l>Up her wounds, and fever-few</l>
@@ -1158,7 +1159,7 @@
 <pb n="62"/>
 <l>His banner floats upon the breeze,</l>
 <l rend="indent">Like a gold fleece it wraps him round --</l>
-<l>So, cap-à-pie from head to knee,</l>
+<l>So, cap-&#x00E0;-pie from head to knee,</l>
 <l rend="indent">His enemy he strikes to ground.</l></lg>
 
 <lg>
@@ -2213,7 +2214,7 @@
 
 <lg>
 <l>Where is the multitude that fed,</l>
-<l>With loaves and fishes comfortèd?</l>
+<l>With loaves and fishes comfort&#x00E8;d?</l>
 <l>The blind Thou mad'st to see? the lame</l>
 <l>That walked? the one leper who came</l>
 <l>Of nine made clean? The dumb that spoke?</l>
@@ -2360,10 +2361,10 @@
 
 <pb n="120"/>
 <div xml:id="herb058" type="poem" n="Noel">
-<head rend="center">NOËL</head>
+<head rend="center">NO&#x00CB;L</head>
 
 <lg type="stanza">
-<l n="1">I <hi rend="smallcas">heard</hi> a song upon Christmas day</l>
+<l n="1">I <hi rend="smallcaps">heard</hi> a song upon Christmas day</l>
 <l>And the feet of many going one way,</l>
 <l>The word the golden voice did say:</l>
 <l rend="indent6"><hi rend="italic">Gloria in Excelsis!</hi></l></lg>

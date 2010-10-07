@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="latesongs">
    <teiHeader><fileDesc>
          <titleStmt>
             <title>Late Songs: Electronic Edition</title>
-            <author><name type="person"><choice><reg>Tynan, Katharine, 1861-1931</reg><orig>Katharine Tynan</orig></choice></name></author>
+            <author><name type="person"><choice><reg>Tynan, Katharine, 1861-1931</reg><sic>Katharine Tynan</sic></choice></name></author>
          </titleStmt>
 	 <publicationStmt><publisher>Lewis H. Beck Center for Electronic Collections
 	   and Services, Emory University</publisher><pubPlace>Atlanta, GA</pubPlace><address>
@@ -76,7 +77,7 @@
 	     </list>
 	   </keywords>
 	 </textClass></profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><change><date>February 2005</date><label>Electronic Text Specialist</label><name>Alice Hickcox</name>completed proof and encode; spell-check and validated.</change><change><date>November 2004</date><label>Student Assistant</label><name>Amy Parker</name>proof and encode</change></revisionDesc></teiHeader>
-<text xml:id="latesongs">
+<text xml:id="latesongs_01">
 <body>
 <div type="chapter" xml:id="latesongs_001" n="In War Time">
 <head>IN WAR TIME</head>

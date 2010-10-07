@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="kerrdaubs">
    <teiHeader><fileDesc>
          <titleStmt>
-            <title>POEMS: Electronic Edition</title>
-            <author><name type="person"><choice><reg>Kerr, R. Watson</reg><sic>Kerr, R. Watson18??-19??</sic></choice></name></author>
+            <title>War Daubs: Poems: Electronic Edition</title>
+            <author><name type="person"><choice><reg>Kerr, R. Watson</reg><sic>R. Watson Kerr</sic></choice></name></author>
          </titleStmt>
 	 <publicationStmt><publisher>Lewis H. Beck Center for Electronic Collections
 	   and Services, Emory University</publisher><pubPlace>Atlanta, GA</pubPlace><address>
@@ -20,12 +21,12 @@
 	   Services, Woodruff Library, Emory University, Atlanta,
 	   Georgia 30322 </p></availability><date>2004</date></publicationStmt>
 	 <seriesStmt>
-	   <title>War Daubs: Poems</title>
+	   <title>The Great War</title>
 	 </seriesStmt>
 	 <notesStmt><note/></notesStmt>
          <sourceDesc>
             <bibl>
-	     <title>POEMS</title>
+	     <title>War Daubs: Poems</title>
 	     <author>R. Watson Kerr</author>
 	     <pubPlace>London</pubPlace>
 	     <publisher>John Lane</publisher>
@@ -76,73 +77,74 @@
 	   </keywords>
 	 </textClass></profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><!-- add your information here --><change><date>2009</date><label>Beck Center staff</label><name>Shruthi Vissa</name>Proofing, encoding</change></revisionDesc></teiHeader>
 <text>
-<front>
+<!-- <front> -->
 
-<pb n="[i]"/>
+<!-- <pb n="[i]"/> -->
 
-<titlePage xml:id="kerrdaubs100" type="half">
-     <docTitle>
-       <titlePart type="main">WAR DAUBS: POEMS
-       </titlePart>
-     </docTitle>
-   </titlePage>
+<!-- <titlePage xml:id="kerrdaubs100" type="half"> -->
+<!--      <docTitle> -->
+<!--        <titlePart type="main">WAR DAUBS: POEMS -->
+<!--        </titlePart> -->
+<!--      </docTitle> -->
+<!--    </titlePage> -->
 
-<pb n="[ii]"/>
-<pb n="[iii]"/>
-<titlePage xml:id="kerrdaubs101" type="full">
-     <docTitle>
-       <titlePart type="main">WAR DAUBS<lb/>POEMS</titlePart>
-     </docTitle>
-       <byline> BY R. WATSON KERR</byline>
-       <docImprint>
-        <pubPlace>LONDON: NEW YORK:</pubPlace>
-	 <publisher>JOHN LANE COMPANY,</publisher>
+<!-- <pb n="[ii]"/> -->
+<!-- <pb n="[iii]"/> -->
+<!-- <titlePage xml:id="kerrdaubs101" type="full"> -->
+<!--      <docTitle> -->
+<!--        <titlePart type="main">WAR DAUBS<lb/>POEMS</titlePart> -->
+<!--      </docTitle> -->
+<!--        <byline> BY R. WATSON KERR</byline> -->
+<!--        <docImprint> -->
+<!--         <pubPlace>LONDON: NEW YORK:</pubPlace> -->
+<!-- 	 <publisher>JOHN LANE COMPANY,</publisher> -->
 	 
-       </docImprint>
-   </titlePage>
+<!--        </docImprint> -->
+<!--    </titlePage> -->
 
-<pb n="[iv]"/>
-<div xml:id="kerrdaubs102" type="colophon">
-<p> PRINTED BY WILLIAM BRENDON AND SON LTD., PLYMOUTH, ENGLAND</p>
-</div>
+<!-- <pb n="[iv]"/> -->
+<!-- <div xml:id="kerrdaubs102" type="colophon"> -->
+<!-- <p> PRINTED BY WILLIAM BRENDON AND SON LTD., PLYMOUTH, ENGLAND</p> -->
+<!-- </div> -->
 
-<pb n="[v]"/>
-<div xml:id="kerrdaubs103" type="dedication">
-<figure type="kerrdaubsd" rend="inline">
-<figDesc> Dedication included in front of Watson Kerr's "War Daubs"</figDesc>
-</figure>
-</div>
+<!-- <pb n="[v]"/> -->
+<!-- <div xml:id="kerrdaubs103" type="dedication"> -->
+<!-- <figure facs="kerrdaubsd" rend="inline"> -->
+<!-- <figDesc> Dedication included in front of Watson Kerr's "War Daubs"</figDesc> -->
+<!-- </figure> -->
+<!-- </div> -->
 
-<pb n="[vi]"/>
-<pb n="[vii]"/>
-<div xml:id="kerrdaubs104" type="authorsnote">
-<p> I GIVE thanks to the Editor's of "The English Review," "The Poetry Review," and "More Songs of Soldier Poets," for permission to reprint several of the Poems in the present volume.</p>
-</div>
-<pb n="[viii]"/>
-<pb n="[ix]"/>
-<div xml:id="kerrdaubs105" type="tableofcontents">
-<figure type="kerrdaubstc1" rend="inline">
-<figDesc> Table of contents included in front matter of Watson Kerr's "War Daubs"</figDesc>
-</figure>
+<!-- <pb n="[vi]"/> -->
+<!-- <pb n="[vii]"/> -->
+<!-- <div xml:id="kerrdaubs104" type="authorsnote"> -->
+<!-- <p> I GIVE thanks to the Editor's of "The English Review," "The Poetry Review," and "More Songs of Soldier Poets," for permission to reprint several of the Poems in the present volume.</p> -->
+<!-- </div> -->
+<!-- <pb n="[viii]"/> -->
+<!-- <pb n="[ix]"/> -->
+<!-- <div xml:id="kerrdaubs105" type="tableofcontents"> -->
+<!-- <figure facs="kerrdaubstc1" rend="inline"> -->
+<!-- <figDesc> Table of contents included in front matter of Watson Kerr's "War Daubs"</figDesc> -->
+<!-- </figure> -->
 
-<pb n="[x]"/>
-<figure type="kerrdaubstc2" rend="inline">
-<figDesc> Table of contents included in front matter of Watson Kerr's "War Daubs"</figDesc>
-</figure>
-</div>
+<!-- <pb n="[x]"/> -->
+<!-- <figure facs="kerrdaubstc2" rend="inline"> -->
+<!-- <figDesc> Table of contents included in front matter of Watson Kerr's "War Daubs"</figDesc> -->
+<!-- </figure> -->
+<!-- </div> -->
 
-<pb n="[xi]"/>
-<titlePage xml:id="kerrdaubs106" type="half">
-     <docTitle>
-       <titlePart type="main">WAR DAUBS: POEMS
-       </titlePart>
-     </docTitle>
-   </titlePage>
+<!-- <pb n="[xi]"/> -->
+<!-- <titlePage xml:id="kerrdaubs106" type="half"> -->
+<!--      <docTitle> -->
+<!--        <titlePart type="main">WAR DAUBS: POEMS -->
+<!--        </titlePart> -->
+<!--      </docTitle> -->
+<!--    </titlePage> -->
 
-<pb n="[xii]"/>
-</front>
+<!-- <pb n="[xii]"/> -->
+<!-- </front> -->
 
 <body>
+<div xml:id="kerrdaubs01" type="collection">
 <div xml:id="kerrdaubs001" type="poem" n="1">
 <pb n="A Vignette  1"/>
 <head rend="center">A VIGNETTE</head>
@@ -271,7 +273,7 @@
 <l>Upon its face !</l></lg>
 </div>
 
-<div xml:id="kerrdaubs005." type="poem" n="5">
+<div xml:id="kerrdaubs005" type="poem" n="5">
 <pb n="8  MUSIC  IN A DUG-OUT"/>
 <head rend="center">MUSIC IN A DUG OUT</head>
 <lg type="tanza">
@@ -1247,7 +1249,7 @@ good.</l>
 <l>I pray Thee, Lord, take Thou the helm !</l>
 </lg>
 </div>
-
+</div>
 </body>
 </text>
 </TEI>

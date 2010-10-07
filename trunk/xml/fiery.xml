@@ -1,8 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fiery">
    <teiHeader><fileDesc>
          <titleStmt n="THE FIERY CROSS">
             <title>THE FIERY CROSS: An Anthology of War Poems</title>
-            <editor><name type="person"><choice><reg/><sic> Edwards, Mabel C.Mabel C. Edwards</sic></choice></name> and <name type="person"><choice><reg/><sic>Booth, MaryMary Booth</sic></choice></name></editor>
+            <editor><name type="person"><choice><reg>Edwards, Mabel C.</reg><sic> Mabel C. Edwards</sic></choice></name> and <name type="person"><choice><reg/><sic>Booth, MaryMary Booth</sic></choice></name></editor>
             <respStmt>
                <resp>Compiled and edited by</resp>
                <name>Beck Center</name>

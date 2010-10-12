@@ -1602,7 +1602,7 @@
 
 
 <div xml:id="macfie058" type="poem" n="1">
-<head>A Quatercentenary Ode<ref target="#macfie058n1">*</ref><note xml:id="macfie058n1" place="foot">Written for the University of Aberdeen.</note></head>
+<head>A Quatercentenary Ode<ref target="#macfie058n1">*</ref></head><note xml:id="macfie058n1" place="foot">Written for the University of Aberdeen.</note>
 <lg type="stanza">
 <l>ETERNITY is throned upon thy spires:</l>
 <l>Upon Eternity thy towers rest:</l>
@@ -4240,8 +4240,8 @@ To R. S.</head>
 
 <div xml:id="macfie101" type="poem" n="45">
 
-<head>To a Lady who Sent Verses to Correct<lb/>
-PUBLISHED IN "PUNCH"</head>
+<head>To a Lady who Sent Verses to Correct</head>
+<head type="sub" rend="smallcaps">Published in "Punch"</head>
 
 <lg type="stanza">
 <l>ERRATIC the metre,</l>
@@ -4506,8 +4506,8 @@ PUBLISHED IN "PUNCH"</head>
 <div xml:id="macfie105" type="poem" n="49">
 <head type="main">Ex Unitate Vires ("Let Us Take Hands")</head>
 
-<head type="sub">AN ODE IN COMMEMORATION OF THE FEDERATION OF<lb/>
-THE SOUTH AFRICAN STATES</head>
+<head type="sub" rend="smallcaps">An Ode in Commemoration of the Federation of 
+the South African States</head>
 
 <div xml:id="macfie740" type="section" n="1">
 <head>i</head>
@@ -4604,7 +4604,7 @@ THE SOUTH AFRICAN STATES</head>
 <l>Were neighbours by the Northern Sea!</l>
 </lg>
 </div>
-
+</div>
 
 <pb n="168  Girl of the Golden Voice"/>
 
@@ -4657,8 +4657,8 @@ THE SOUTH AFRICAN STATES</head>
 
 <head type="main">Moons</head>
 
-<head type="sub">(THE PACIFIC OCEAN IS SUPPOSED TO FILL THE
-CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
+<head type="sub">(The Pacific Ocean is Supposed to Fill the
+Chasm Made in the Earth When the Moon Was Flung Off)</head>
 
 <lg type="main">
 <l>ÆONS ago, when Earth was still a star,</l>
@@ -5754,7 +5754,7 @@ CHASM MADE IN THE EARTH WHEN THE MOON WAS FLUNG OFF)</head>
 </lg>
 </div>
 </div>
-            </div>
+           
         </body>
     </text>
     </TEI>

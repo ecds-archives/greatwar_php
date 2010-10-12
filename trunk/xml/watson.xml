@@ -135,7 +135,8 @@ editors of which are here thanked for permission to reprint them, not a few have
 <pb n="[16]"/>
 
 <pb n="17"/>
-<div xml:id="watson01" type="book">
+<div xml:id="watson01" type="section">
+<head>Sonnets</head>
 <div xml:id="watson001" type="poem" n="1">
 
 <head>THE MAN WHO SAW</head>
@@ -833,15 +834,10 @@ SIR JAMES CRICHTON-BROWNE</head>
 <l>To falter, though their night be without star,</l>
 <l>And their vast agony without anodyne.</l>
 </div>
-
-   <pb/>
-
-<div xml:id="watson0026">
-<l>OTHER POEMS</l>
-
-   <pb/>
-   <pb/>
 </div>
+
+<div xml:id="watson0026" type="section">
+<head>OTHER POEMS</head>
 
 <div xml:id="watson026" type="poem" n="26">
 <head>CROSSING THE RUBICON</head>
@@ -1828,15 +1824,10 @@ II</hi></p>
 </lg>
 </div>
 </div>
-<div xml:id="watson0049">
-   <pb/>
-
-<l>RECRUITING VERSE</l>
-
-   <pb/>
-   <pb/>
-
 </div>
+<div xml:id="watson0049">
+
+<head>RECRUITING VERSE</head>
 
 <div xml:id="watson049" type="poem" n="49">
 <head>SONS OF BRITAIN</head>

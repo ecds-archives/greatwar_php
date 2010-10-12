@@ -80,40 +80,40 @@
 <front>
 
 <pb n="[i]"/>
-<titlePage xml:id="sterling1000" type="half">
-     <docTitle>
-       <titlePart type="main">THE POEMS OF<lb/>ROBERT W.STERLING</titlePart>
-     </docTitle>
-   </titlePage>
+<!-- <titlePage xml:id="sterling1000" type="half"> -->
+<!--      <docTitle> -->
+<!--        <titlePart type="main">THE POEMS OF<lb/>ROBERT W.STERLING</titlePart> -->
+<!--      </docTitle> -->
+<!--    </titlePage> -->
 <pb n="[ii]"/>
 
-<div xml:id="sterling1001" type="colophon">
-<p> PRINTED IN ENGLAND</p>
-<p>AT THE OXFORD UNIVERSITY PRESS</p>
-</div>
+<!-- <div xml:id="sterling1001" type="colophon"> -->
+<!-- <p> PRINTED IN ENGLAND</p> -->
+<!-- <p>AT THE OXFORD UNIVERSITY PRESS</p> -->
+<!-- </div> -->
 
 <pb n="[iii]"/>
 
-<div xml:id="sterling1002" type="frontispiece">
-<figure rend="inline">
-<figDesc> Photograph of author in front matter of "The Poems of Robert W. Sterling"</figDesc>
-</figure>
-</div>
+<!-- <div xml:id="sterling1002" type="frontispiece"> -->
+<!-- <figure rend="inline"> -->
+<!-- <figDesc> Photograph of author in front matter of "The Poems of Robert W. Sterling"</figDesc> -->
+<!-- </figure> -->
+<!-- </div> -->
 
 <pb n="[iv]"/>
 
-<titlePage xml:id="sterling1003" type="full">
-     <docTitle>
-       <titlePart type="main">THE POEMS<lb/>ROBERT W. STERLING</titlePart>
-<titlePart type="sub">BORN 19TH NOVEMBER, 1893<lb/>SCHOLAR OF PEMBROKE COLLEGE, OXFORD<lb/>LIEUTENANT, ROYAL SCOTS FUSILIERS<lb/>KILLED IN ACTION, S. GEORGE'S DAY, 1915</titlePart>
-     </docTitle>
-       <docImprint>
-        <publisher> HUMPHREY MILFORD<lb/>OXFORD UNIVERSITY PRESS</publisher>
-	 <pubPlace>LONDON EDINBURGH GLASGOW NEW YORK<lb/>TORONTO
-	MELBOURNE BOMBAY</pubPlace>
-	 <date>1915</date>
-       </docImprint>
-   </titlePage>  
+<!-- <titlePage xml:id="sterling1003" type="full"> -->
+<!--      <docTitle> -->
+<!--        <titlePart type="main">THE POEMS<lb/>ROBERT W. STERLING</titlePart> -->
+<!-- <titlePart type="sub">BORN 19TH NOVEMBER, 1893<lb/>SCHOLAR OF PEMBROKE COLLEGE, OXFORD<lb/>LIEUTENANT, ROYAL SCOTS FUSILIERS<lb/>KILLED IN ACTION, S. GEORGE'S DAY, 1915</titlePart> -->
+<!--      </docTitle> -->
+<!--        <docImprint> -->
+<!--         <publisher> HUMPHREY MILFORD<lb/>OXFORD UNIVERSITY PRESS</publisher> -->
+<!-- 	 <pubPlace>LONDON EDINBURGH GLASGOW NEW YORK<lb/>TORONTO -->
+<!-- 	MELBOURNE BOMBAY</pubPlace> -->
+<!-- 	 <date>1915</date> -->
+<!--        </docImprint> -->
+<!--    </titlePage>   -->
 
 <pb n="v"/>
 
@@ -378,8 +378,8 @@ its author and <hi rend="italic">The Glasgow Herald</hi>.</p>
 
 <div xml:id="sterling1005" type="poem">
 <pb n="xvi"/>
-<head type="main">SONNET</head>
-<head type="sub">IN MEMORY OF R. W. STERLING</head>
+<head type="main">Sonnet</head>
+<head type="sub">In Memory of R. W. Sterling</head>
 
 <lg type="stanza">
 <l>As if Apollo's self had swept the strings,</l>
@@ -400,34 +400,37 @@ its author and <hi rend="italic">The Glasgow Herald</hi>.</p>
 <l rend="inline">To meet thy death in dark Thermopylae!</l>
 </lg>
 
-<byline>ROGER QUIN.</byline>
+<byline>Roger Quin.</byline>
 </div>
 
-<div xml:id="sterling1006" type="tableofcontents">
-<pb n="1"/>
-<figure rend="inline">
-<figDesc> Image of table of contents in front matter of "The Poems of Robert W.Sterling"</figDesc>
-</figure>
+<!-- <div xml:id="sterling1006" type="tableofcontents"> -->
+<!-- <pb n="1"/> -->
+<!-- <figure rend="inline"> -->
+<!-- <figDesc> Image of table of contents in front matter of "The Poems of Robert W.Sterling"</figDesc> -->
+<!-- </figure> -->
 
-<pb n="[2]"/>
-<pb n="[3]"/>
+<!-- <pb n="[2]"/> -->
+<!-- <pb n="[3]"/> -->
 
-</div> 
+<!-- </div>  -->
 </front>
 
-<group>
-<text>
-<front>
-<titlePage xml:id="sterling1007" type="half">
-   <docTitle>
-    <titlePart type="main">THE<lb/>BURIAL OF SOPHOCLES</titlePart>
-   </docTitle>
-</titlePage>
-</front> 
+<!-- <text> -->
+<!-- <front> -->
+<!-- <titlePage xml:id="sterling1007" type="half"> -->
+<!--    <docTitle> -->
+<!--     <titlePart type="main">THE<lb/>BURIAL OF SOPHOCLES</titlePart> -->
+<!--    </docTitle> -->
+<!-- </titlePage> -->
+<!-- </front>  -->
 
 
 <body>
-<div xml:id="sterling100" type="part" n="1">
+<div xml:id="sterling100" type="section" n="1">
+<head>The Burial of Sophocles</head>
+<div type="poem" xml:id="sterling1001">
+<head>The Burial of Sophocles</head>
+<!-- <div type="epigraph" xml:id="sterling1002"> -->
 <pb n="4"/>
 <!-- <figure rend="inline"> -->
 <!-- <figDesc> Image of paragraph printed in Greek script in front matter -->
@@ -445,11 +448,11 @@ the God appeared a second time with the same behest. Then Lysander
 inquired from deserters who the dead man was; and learning that it was
 Sophocles, sent a herald with permission for the
 burial.'</p></q></cit></epigraph>
-</div>
+<!-- </div> -->
 
-<div xml:id="sterling001" type="poem" n="1">
+<!-- <div xml:id="sterling001" type="poem" n="1"> -->
 <pb n="The Burial of Sophocles 5"/>
-<head>THE BURIAL OF SOPHOCLES</head>
+<!-- <head>The Burial of Sophocles</head> -->
 
 <p>Sophocles, <hi rend="italic">the grandson, speaks at the poet's tomb</hi>.</p>
 
@@ -648,20 +651,23 @@ darkest fortune!</hi></l>
 <l rend="inline">Oh, lightly, lightly. Earth, encompass it!</l>
 </lg>
 </div>
-</body>
-</text>
+</div>
+<!-- </body> -->
+<!-- </text> -->
 
-<text>
-<front>
-<pb n="[13]"/>
-<titlePage xml:id="sterling1008" type="half">
-   <docTitle>
-    <titlePart type="main">EARLY POEMS</titlePart>
-   </docTitle>
-  </titlePage>
-</front>
+<!-- <text> -->
+<!-- <front> -->
+<!-- <pb n="[13]"/> -->
+<!-- <titlePage xml:id="sterling1008" type="half"> -->
+<!--    <docTitle> -->
+<!--     <titlePart type="main">EARLY POEMS</titlePart> -->
+<!--    </docTitle> -->
+<!--   </titlePage> -->
+<!-- </front> -->
 
-<body>
+<!-- <body> -->
+<div type="section" xml:id="sterling1008">
+<head>Early Poems</head>
 <div xml:id="sterling002" type="poem" n="2">
 <pb n="[14]"/>
 <pb n="Prologue to a Children's Play 15"/>
@@ -1010,10 +1016,11 @@ unmeasur'd soaring:</l>
 
 <head>GLEAMS AND GLIMPSES</head>
 
-<div xml:id="sterling8000" type="short_poem" n="1">
-<head>MORNING--AND EARLY PREP.</head>
+<!-- <div xml:id="sterling8000" type="short_poem" n="1"> -->
+
 
 <lg type="stanza">
+<head>MORNING--AND EARLY PREP.</head>
 <l>O SEDBERGH and the Morning</l>
 <l rend="inline">And the dancing of the air;</l>
 <l>See the crown of Winder glancing</l>
@@ -1023,27 +1030,28 @@ unmeasur'd soaring:</l>
 <l>For heart and feet are dancing</l>
 <l rend="inline">With the dancing of the air!</l>
 </lg>
-</div>
+<!-- </div> -->
 
-<div xml:id="sterling8001" n="2">
+<!-- <div xml:id="sterling8001" n="2"> -->
 
-<head>NIGHT AND DEJECTION</head>
+
 
 <lg type="stanza">
+<head>NIGHT AND DEJECTION</head>
 <l rend="inline">MIRROR'D light the moon doth shed,</l>
 <l rend="inline">And the sun 's rememberèd:</l>
 <l rend="inline">For she promises the gloom</l>
 <l rend="inline">Day arising from her tomb.</l>
 <l>Alas! no Hope doth lighten so</l>
 <l>The starless midnight of my woe!</l></lg>
-</div>
+<!-- </div> -->
 
 
-<div xml:id="sterling8002" type="short_poem" n="3">
+<!-- <div xml:id="sterling8002" type="short_poem" n="3"> -->
 <pb n="Gleams and Glimpses 31"/>
-<head>ON THE WEATHER</head>
 
 <lg type="stanza">
+<head>ON THE WEATHER</head>
 <l>TELL me not what again, again</l>
 <l>We hear about the Sedbergh rain;</l>
 <l rend="inline">Yes, with a kindly frown,</l>
@@ -1051,24 +1059,24 @@ unmeasur'd soaring:</l>
 <l>To spangle all her greeneries,</l>
 <l rend="inline">A dower of diamonds down!</l>
 </lg>
-</div>
+<!-- </div> -->
 
-<div xml:id="sterling8003" type="short_poem" n="4">
-<head>ANOTHER ON THE SAME</head>
+<!-- <div xml:id="sterling8003" type="short_poem" n="4"> -->
 
 <lg type="stanza">
+<head>ANOTHER ON THE SAME</head>
 <l>'STERN nurse of men' and Nature's mother, I:</l>
 <l rend="inline">Homeward to sleep</l>
 <l>On my hilly bosom, Thunder and Tempest fly,</l>
 <l rend="inline">And Clouds that weep!</l>
 </lg>
-</div>
+<!-- </div> -->
 
-<div xml:id="sterling8004" type="short_poem" n="5">
+<!-- <div xml:id="sterling8004" type="short_poem" n="5"> -->
 <pb n="32 Gleams and Glimpses"/>
-<head>RETURNING FROM THE RIVER BATHE</head>
 
 <lg type="stanza">
+<head>RETURNING FROM THE RIVER BATHE</head>
 <l>The morning music</l>
 <l rend="inline">In the heart revels fair:</l>
 <l>The river water</l>
@@ -1079,13 +1087,13 @@ unmeasur'd soaring:</l>
 <l>And the song of my heart,</l>
 <l rend="inline">Hush'd music of the Earth,</l>
 <l rend="inline">Listens, oh! listens.</l></lg>
-</div>
+<!-- </div> -->
 
-<div xml:id="sterling8005" type="short_poem" n="6">
+<!-- <div xml:id="sterling8005" type="short_poem" n="6"> -->
 
-<head>EVENING FROM THE CRICKET FIELD</head>
 
 <lg type="stanza">
+<head>EVENING FROM THE CRICKET FIELD</head>
 <l>The grey-wing'd Evening flits adown the dale,</l>
 <l>And shades dissolve in undetermin'd shade:</l>
 <l>The mystic music of the scented gale</l>
@@ -1099,7 +1107,7 @@ unmeasur'd soaring:</l>
 1912.</date></dateline>
 </div>
 
-<div xml:id="sterling8006" type="short_poem" n="7">
+<div xml:id="sterling8006" type="poem" n="7">
 <pb n="Gleams and Glimpses 33"/>
 
 <head>VALE</head>
@@ -1147,29 +1155,30 @@ unmeasur'd soaring:</l>
 </div>
 
 </div>
-</body>
-</text>
+<!-- </body> -->
+<!-- </text> -->
 
-<text>
-<front>
-<pb n="[35]"/>
-<titlePage xml:id="sterling10000" type="half">
-  <docTitle>
-    <titlePart type="main"> POEMS<lb/>1913-1915</titlePart>
-   </docTitle>
-  </titlePage> 
+<!-- <text> -->
+<!-- <front> -->
+<!-- <pb n="[35]"/> -->
+<!-- <titlePage xml:id="sterling10000" type="half"> -->
+<!--   <docTitle> -->
+<!--     <titlePart type="main"> POEMS<lb/>1913-1915</titlePart> -->
+<!--    </docTitle> -->
+<!--   </titlePage>  -->
 
-<pb n="[36]"/>
-</front>
+<!-- <pb n="[36]"/> -->
+<!-- </front> -->
 
-<body>
+<!-- <body> -->
 
 <pb n="To B.W. 37"/>
-
+<div xml:id="sterling10000" type="section">
+<head>Poems: 1913-1915</head>
 <div xml:id="sterling009" type="poem" n="9">
 
-<head>To B. W.<lb/>
-(Thirty-seven years master at Sedbergh; died January, 1913.)</head>
+<head>To B. W.</head>
+<head type="sub">(Thirty-seven years master at Sedbergh; died January, 1913.)</head>
 
 <lg type="stanza">
 <l>So, kind, unconquered spirit, fare you well.</l>
@@ -1504,35 +1513,37 @@ unmeasur'd soaring:</l>
 <pb n="[50]"/>
 <pb n="[51]"/>
 </div>
+</div>
+<!-- </body> -->
+<!-- </text> -->
 
-</body>
-</text>
+<!-- <text> -->
+<!-- <front> -->
 
-<text>
-<front>
+<!-- <titlePage xml:id="sterling1009" type="half"> -->
+<!--     <docTitle> -->
+<!--       <titlePart type="main">MARAN</titlePart> -->
+<!--     </docTitle> -->
+<!--  </titlePage> -->
 
-<titlePage xml:id="sterling1009" type="half">
-    <docTitle>
-      <titlePart type="main">MARAN</titlePart>
-    </docTitle>
- </titlePage>
+<!-- <pb n="53"/> -->
+<!-- <pb n="54"/> -->
+<!-- <pb n="55"/> -->
+<!-- <pb n="56"/> -->
+<!-- <pb n="57"/> -->
 
-<pb n="53"/>
-<pb n="54"/>
-<pb n="55"/>
-<pb n="56"/>
-<pb n="57"/>
+<!-- </front> -->
 
-</front>
-
-<body>
+<!-- <body> -->
+<div xml:id="sterling1009" type="section">
+<head>Maran</head>
 <div xml:id="sterling0017" type="editorsnote">
 <pb n="58"/>
 <p>The fragment <hi rend="italic">Maran</hi> is valuable, not for its theme or language (which are both in parts immature, uncertain, and childish), but for its rhythm, which reveals a new music, and properly handled might afford a contribution to literature and the melody of the world.</p>
 
 <p>The poem is an attempt to recover for the English tongue a lost heritage—that bequeathed by the old Saxon epicists (see Bridges' <hi rend="italic">Christmas Carol</hi>, <hi rend="italic">1913</hi>)--</p>
 
-<p><hi rend="italic">Stress and allitteration</hi>.</p>
+<p><hi rend="italic">Stress and alliteration</hi>.</p>
 
 <p>Lyrical; stanzas superficially resembling Norman convention. Should be intoned, with emphasis on each stressed word, with special care to mark the structure-rhymes of the even lines. Only one accentuated syllable in each line is unalliterative.</p>
 
@@ -1541,25 +1552,30 @@ unmeasur'd soaring:</l>
 <l><hi rend="italic">L</hi>ánguishing, a <hi rend="italic">l</hi>óve-<hi rend="italic">l</hi>órn máiden</l>
 <l><hi rend="italic">P</hi>ále-<hi rend="italic">p</hi>éering from a shróud.</l>
 
-<figure rend="inline">
-<figDesc> Image of rhyme structure of Sterling's poem Maran in body of The Poems of Robert W. Sterling</figDesc>
-</figure>
+<!-- <figure rend="inline"> -->
+<!-- <figDesc> Image of rhyme structure of Sterling's poem Maran in body of The Poems of Robert W. Sterling</figDesc> -->
+<!-- </figure> -->
+
+<p>1. x &#x2014;<hi rend="sup">1</hi> x &#x2014;<hi rend="sup">2</hi> x x x x &#x2014;<hi rend="sup">3</hi> &#x2014;<hi rend="sup">3</hi> x</p>
+<p>2. &#x2014;<hi rend="sup">1</hi> &#x2014;<hi rend="sup">2</hi> x x x &#x2014;<hi rend="sup">3</hi></p>
+<p>3. &#x2014;<hi rend="sup">1</hi> x x x &#x2014;<hi rend="sup">2</hi> &#x2014;<hi rend="sup">3</hi>&#x2014;<hi rend="sup">4</hi> x</p>
+<p>4. &#x2014;<hi rend="sup">1</hi> &#x2014;<hi rend="sup">2</hi> x x x &#x2014;<hi rend="sup">3</hi></p>
 
 <p>The number of unaccentuated syllables (x) does not matter. Accentuated syllables (—) must be four and three alternately. Second and fourth lines coincide in structure.</p>
 
 <pb n="[54]"/>
 
-<figure rend="inline">
-<figDesc> Image of poem Maran in the author's own writing in the body of The Poems of Robert W. Sterling</figDesc>
-</figure>
+<!-- <figure rend="inline"> -->
+<!-- <figDesc> Image of poem Maran in the author's own writing in the body of The Poems of Robert W. Sterling</figDesc> -->
+<!-- </figure> -->
 
-<figure rend="inline">
-<figDesc> Image of poem Maran in the author's own writing in the body of The Poems of Robert W. Sterling</figDesc>
-</figure>
+<!-- <figure rend="inline"> -->
+<!-- <figDesc> Image of poem Maran in the author's own writing in the body of The Poems of Robert W. Sterling</figDesc> -->
+<!-- </figure> -->
 
-<figure  rend="inline">
-<figDesc> Image of poem Maran in the author's own writing in the body of The Poems of Robert W. Sterling</figDesc>
-</figure>
+<!-- <figure  rend="inline"> -->
+<!-- <figDesc> Image of poem Maran in the author's own writing in the body of The Poems of Robert W. Sterling</figDesc> -->
+<!-- </figure> -->
 </div>
 
 <div xml:id="sterling018" type="poem" n="18">
@@ -1926,9 +1942,9 @@ unmeasur'd soaring:</l>
 <l>O land of tears! so lonely and loveless,--</l>
 <l rend="inline">What trembling tears are thine!</l>
 </lg>
-</div>
+<!-- </div> -->
 
-<div xml:id="sterling019" type="poem" n="19">
+<!-- <div xml:id="sterling019" type="poem" n="19"> -->
 <pb n="66 Maran"/>
 <lg type="stanza">
 <l>The wind among</l>
@@ -1963,9 +1979,9 @@ unmeasur'd soaring:</l>
 <l>And a willow tree</l>
 <l rend="inline">Is the mind of man.</l>
 </lg>
-</div>
+<!-- </div> -->
 
-<div xml:id="sterling020" type="poem" n="20">
+<!-- <div xml:id="sterling020" type="poem" n="20"> -->
 <pb n="67"/>
 <lg type="stanza">
 <l>I TIP-TOED from the palace gates</l>
@@ -2019,10 +2035,10 @@ unmeasur'd soaring:</l>
 
 <pb n="69"/>
 </div>
-
+</div>
 </body>
-</text>
-</group>
+<!-- </text> -->
+<!-- </group> -->
 
 </text>
 </TEI>

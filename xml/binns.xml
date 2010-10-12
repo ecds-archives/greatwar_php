@@ -2121,7 +2121,7 @@ couldn't learn to crawl</l>
 
 <div xml:id="binns008" type="poem" n="8">
 <pb n="The Blacksmith  79"/>
-
+<head>The Blacksmith</head>
 <lg type="stanza">
 <l>WHAT have you in your stithy, Thor,</l>
 <l>That now you make your bellows roar</l>
@@ -2620,7 +2620,7 @@ couldn't learn to crawl</l>
 <pb n="97"/>
 
 <div xml:id="binns013" type="poem" n="13">
-<head rend="center">THE HILL-TOP WOOD</head>
+<head rend="center">The Hill-Top Wood</head>
 <lg type="stanza">
 <l>UP In the hill-top wood</l>
 <l rend="indent">I heard the oak-trees sing</l>
@@ -2777,23 +2777,22 @@ couldn't learn to crawl</l>
 
 <div xml:id="binns016" type="play" n="16">
 <pb n="103"/>
-       <head>THE PRICE OF FREEDOM</head>
+       <!-- <head>THE PRICE OF FREEDOM</head> -->
 
 <!-- <div xml:id="binns0016"> -->
 <pb n="[104]"/>
 <pb n="105"/>
 
-<head rend="center">The Price of Freedom<lb/>
-A Footnote to Epipschydion</head>
+<head rend="center">The Price of Freedom</head>
+<head type="sub" rend="smallcaps">A Footnote to Epipschydion</head>
 
-<p>
-<hi rend="italic">A large room at Pisa, 1820</hi>.SHELLEY,<hi rend="italic"> pacing
+<stage>
+<hi rend="italic">A large room at Pisa, 1820</hi>. SHELLEY,<hi rend="italic"> pacing
 to and fro</hi>. Mary Shelley<hi rend="italic"> sewing. He
 is twenty-eight, she is five years younger</hi>.
 <hi rend="italic">At this time</hi> EMILIA VIVIANI<hi rend="italic"> was about
-eighteen.</hi></p>
-
-<p>SHELLEY. My spirit, my real self, once it was awakened into
+eighteen.</hi></stage>
+<sp><speaker>Shelley.</speaker> <p>My spirit, my real self, once it was awakened into
 consciousness by your recognition, began to be aware of its need and
 of its power. I myself awoke to knowledge. All the argument about
 Truth ceased because I was face to face with Truth; or rather, the
@@ -2827,65 +2826,65 @@ senses. When it seizes me, it seizes me with actual rapture, so that I
 neither know myself or what I am saying. It is the passion of a fuller
 incarnation. Do you not see?--It is the Something in which all that we
 have won together is enlarged and heightened into a fuller
-meaning.</p>
+meaning.</p></sp>
 
-<p>MARY (<hi rend="italic">without looking up</hi>). So now it is this
-Italian!</p>
+<sp><speaker>Mary</speaker> <stage>(<hi rend="italic">without looking up</hi>)</stage><p>. So now it is this
+Italian!</p></sp>
 
-<p>SHELLEY.    Mary . . .</p>
+<sp><speaker>Shelley.</speaker><p>    Mary . . .</p></sp>
 
-<p>MARY.   Well! . . .</p>
+<sp><speaker>Mary.</speaker><p>   Well! . . .</p></sp>
 
-<p>SHELLEY. You have frozen up my words. .</p>
+<sp><speaker>Shelley.</speaker><p> You have frozen up my words. .</p></sp>
 
-<p>MARY.   I want the truth.   I can bear that so
+<sp><speaker>Mary.</speaker><p>   I want the truth.   I can bear that so
 
 <pb n="THE PRICE OF FREEDOM 107"/>
 
-much better than anything else. It's the not-knowing what is true that I cannot bear. With her you are happy. When you speak of her, your whole face changes. But with me, see how constrained you are! Why do you stay? I will not keep you. For now, surely you know it, our life together is a mere lie. I cannot go on in it.   One of us must go away.</p>
+much better than anything else. It's the not-knowing what is true that I cannot bear. With her you are happy. When you speak of her, your whole face changes. But with me, see how constrained you are! Why do you stay? I will not keep you. For now, surely you know it, our life together is a mere lie. I cannot go on in it.   One of us must go away.</p></sp>
 
-<p>SHELLEY.   Harriet said that.</p>
+<sp><speaker>Shelley.</speaker><p>   Harriet said that.</p></sp>
 
-<p>MARY.   Poor Harriet!</p>
+<sp><speaker>Mary.</speaker><p>   Poor Harriet!</p></sp>
 
-<p>SHELLEY.   Poor Harriet!   Poor Mary!</p>
+<sp><speaker>Shelley.</speaker><p>   Poor Harriet!   Poor Mary!</p></sp>
 
-<p>MARY.   You dare to pity me! . . .</p>
+<sp><speaker>Mary.</speaker><p>   You dare to pity me! . . .</p></sp>
 
-<p>SHELLEY. Mary, do you remember when it was that Harriet said what
-you were saying?</p>
+<sp><speaker>Shelley.</speaker><p> Mary, do you remember when it was that Harriet said what
+you were saying?</p></sp>
 
-<p>MARY.   Said what? . . . Yes, I remember.</p>
+<sp><speaker>Mary.</speaker><p>   Said what? . . . Yes, I remember.</p></sp>
 
-<p>SHELLEY. And how you said, "poor Harriet, she's not herself"?</p>
+<sp><speaker>Shelley.</speaker><p> And how you said, "poor Harriet, she's not herself"?</p></sp>
 
-<p>MARY. I did not understand Harriet then. I was happy.   Now I understand.</p>
+<sp><speaker>Mary.</speaker><p> I did not understand Harriet then. I was happy.   Now I understand.</p></sp>
 
-<p>SHELLEY. You mean, Mary, you feel as Harriet did when she was not
+<sp><speaker>Shelley.</speaker><p> You mean, Mary, you feel as Harriet did when she was not
 herself. So now because you are not yourself, you cannot understand
 anything at all. You have become a mis-understanding of everything in
-order that you may hold me back from what you do not understand.</p>
+order that you may hold me back from what you do not understand.</p></sp>
 
-<p>MARY. Do I want to hold you back? But you--you do not know what you
+<sp><speaker>Mary.</speaker><p> Do I want to hold you back? But you--you do not know what you
 are doing, or
 
 
 <pb n="THE PRICE OF FREEDOM  108"/>
 
-where you are going, upon the current of this river.</p>
+where you are going, upon the current of this river.</p></sp>
 
-<p>SHELLEY. So many times you have told me truth, truth that I did not
+<sp><speaker>Shelley.</speaker><p> So many times you have told me truth, truth that I did not
 know till you had told me; but this time it is not truth that you are
-telling.</p>
+telling.</p></sp>
 
-<p>MARY. I am simply saying we must separate, since, however it be for
-you, for me this life together is become a lie.</p>
+<sp><speaker>Mary.</speaker><p> I am simply saying we must separate, since, however it be for
+you, for me this life together is become a lie.</p></sp>
 
-<p>SHELLEY. No, but your going, my going, that would be the lie.</p>
+<sp><speaker>Shelley.</speaker><p> No, but your going, my going, that would be the lie.</p></sp>
 
-<p>MARY. Give me freedom, since you claim it for yourself.</p>
+<sp><speaker>Mary.</speaker><p> Give me freedom, since you claim it for yourself.</p></sp>
 
-<p>SHELLEY. Freedom is neither given nor taken. It is the life of a
+<sp><speaker>Shelley.</speaker><p> Freedom is neither given nor taken. It is the life of a
 spirit that is true to itself. Now, if you go, you are not true to
 your utmost self.    If I go, I am but a traitor.</p>
 
@@ -2903,21 +2902,21 @@ everything that I possess.</p>
 <p>Do not make me doubt that, or you will destroy the integrity of my
 soul which you discovered to me and have nourished. I shall cease to
 be a man: I shall go back to the days before ever I loved you: before
-you gave me the pledge of my immortal spirit.</p>
+you gave me the pledge of my immortal spirit.</p></sp>
 
-<p>MARY. When you loved me, then I understood.    But now</p>
+<sp><speaker>Mary.</speaker><p> When you loved me, then I understood.    But now</p></sp>
 
-<p>SHELLEY. What has befallen you, that you say such a thing! As if
+<sp><speaker>Shelley.</speaker><p> What has befallen you, that you say such a thing! As if
 ever now I could not love you: as if ever now you could be less to
-me--O God, how infinitely more!</p>
+me--O God, how infinitely more!</p></sp>
 
-<p>MARY. A woman is either everything or nothing to a man.</p>
+<sp><speaker>Mary.</speaker><p> A woman is either everything or nothing to a man.</p></sp>
 
-<p>SHELLEY. That is the falsehood of love's idolatry, which has nothing in common with our truth and freedom. If that is what you mean by love . .! But it is you yourself who deny it, Mary: there is nothing of that in you.
+<sp><speaker>Shelley.</speaker><p> That is the falsehood of love's idolatry, which has nothing in common with our truth and freedom. If that is what you mean by love . .! But it is you yourself who deny it, Mary: there is nothing of that in you.
 You freed me from that. That is poor Harriet's talk, that goes into
-madness.</p>
+madness.</p></sp>
 
-<p>MARY. I thought myself free and wise. But now I know that every
+<sp><speaker>Mary.</speaker><p> I thought myself free and wise. But now I know that every
 woman who has ever loved is the slave of love. It is her nature. She
 cannot share that which is the very reason of her being.    Men are
 different.</p>
@@ -2927,14 +2926,14 @@ contradiction.    The man's
 
 <pb n="THE PRICE OF FREEDOM  110"/>
 
-need for change is unnatural, it is monstrous to the woman.</p>
+need for change is unnatural, it is monstrous to the woman.</p></sp>
 
-<p>SHELLEY. What strange, false doctrine on your lips! You strain and
+<sp><speaker>Shelley.</speaker><p> What strange, false doctrine on your lips! You strain and
 wrest your words out of sheer anguish, as though indeed your time had
 come. What if this is indeed to be a birth for the new
-child.. Freedom!</p>
+child.. Freedom!</p></sp>
 
-<p>MARY. Freedom! O that is the word you are all always saying! A
+<sp><speaker>Mary.</speaker><p> Freedom! O that is the word you are all always saying! A
 woman must not hold a man from his freedom--<hi rend="italic">with
 other women</hi>. I know it is what I too, have thought and said. But
 now I know, I do not understand I only know--it is a lie. Until men
@@ -2959,30 +2958,30 @@ take myself away from you to give myself again.</p>
 no good any more. It cannot be offered to another. I must find a
 different way of living: and once a woman has been loved, other ways
 of living are but degrees of death. Harriet's way was the best. But it
-is not for me.</p>
+is not for me.</p></sp>
 
-<p>SHELLEY.    False! False!</p>
+<sp><speaker>Shelley.</speaker><p>    False! False!</p></sp>
 
-<p>MARY.   No, Shelley, it is true.</p>
+<sp><speaker>Mary.</speaker><p>   No, Shelley, it is true.</p></sp>
 
-<p>SHELLEY.   Wickedly false.</p>
+<sp><speaker>Shelley.</speaker><p>   Wickedly false.</p></sp>
 
-<p>MARY.   For you!</p>
+<sp><speaker>Mary.</speaker><p>   For you!</p></sp>
 
-<p>SHELLEY. For you, Mary: most of all for you.</p>
+<sp><speaker>Shelley.</speaker><p> For you, Mary: most of all for you.</p></sp>
 
-<p>MARY. I have always wanted you to be free.
+<sp><speaker>Mary.</speaker><p> I have always wanted you to be free.
 I am my mother's daughter. Let us be reasonable.   It is hard for you
-too.   When we are older and the fires have burnt out . . .</p>
+too.   When we are older and the fires have burnt out . . .</p></sp>
 
-<p>SHELLEY. The fires will never burn out! O, Death may quench this
+<sp><speaker>Shelley.</speaker><p> The fires will never burn out! O, Death may quench this
 little candle that floats upon its dark pool: but as long as there is
 being anywhere this fire that is both my spirit and yours--our
-fire--will burn ever fiercelier, fiercelier! . . .</p>
+fire--will burn ever fiercelier, fiercelier! . . .</p></sp>
 
 <pb n="THE PRICE OF FREEDOM  112"/>
 
-<p>MARY. Aren't we wandering from actuality? I should not have said
+<sp><speaker>Mary.</speaker><p> Aren't we wandering from actuality? I should not have said
 "fire": when this sex-passion has died down in you</p>
 
 <p>Shelley. Why are you poisoning my soul with worldly thoughts? When
@@ -2994,15 +2993,15 @@ as a consequence of the old. I love, because I love you, not because
 once I loved you. You have lighted in me this that cannot be
 extinguished: a passion you yourself cannot, may not now withhold. It
 is indeed I that love, but it is not merely I; it is we. You cannot
-take yourself away.</p>
+take yourself away.</p></sp>
 
-<p>MARY. I cannot take myself away, and I do not love her. Your Emilia
+<sp><speaker>Mary.</speaker><p> I cannot take myself away, and I do not love her. Your Emilia
 is nothing to me, but I must give you to her. I must share with a mere
-stranger what is nearer to me than my flesh.</p>
+stranger what is nearer to me than my flesh.</p></sp>
 
-<p>SHELLEY.  Yes--you must share.</p>
+<sp><speaker>Shelley.</speaker><p>  Yes--you must share.</p></sp>
 
-<p>MARY. But how, Shelley--how can I learn this?   It is impossible.
+<sp><speaker>Mary.</speaker><p> But how, Shelley--how can I learn this?   It is impossible.
 I cannot. If only it were some natural necessity! But we are young
 yet, you and I. Our children are but babes.</p>
 
@@ -3016,9 +3015,9 @@ who feeds her sick fancies upon your emotion. She is but little better
 than a ghost; and it is horrible to me that you should squander upon
 her all the treasure of sunshine that we two have gathered into this
 focus of our love. I gave myself to you, but not for her, Shelley, not
-for her.</p>
+for her.</p></sp>
 
-<p>SHELLEY. You gave yourself to Love, never to me. Who am I that I
+<sp><speaker>Shelley.</speaker><p> You gave yourself to Love, never to me. Who am I that I
 should accept an idolatrous gift? Who am I that I should take you for
 my own, or offer myself so, to you or to another? As a companion, as a
 lover, as a comrade in freedom, as a partner in life's enterprise,--O
@@ -3044,9 +3043,9 @@ the last truth. Something of me that, without her, was blind and dumb,
 finds sight and speech because of her. I love her by necessity,as I
 love you. We share together in a life which becomes conscious and
 creative in so far as we dare love one another, as we dare to be
-joined and mingled in its being.</p>
+joined and mingled in its being.</p></sp>
 
-<p>MARY. I feel that you are telling the truth.But is it all the
+<sp><speaker>Mary.</speaker><p> I feel that you are telling the truth.But is it all the
 truth? What is this in my soul that resists and denies--that forces me
 to contest your words?</p>
 
@@ -3054,9 +3053,9 @@ to contest your words?</p>
 I know that this is what I really am.</p>
 
 <p>O, why can I not love Emilia? My deepest being longs for you to
-have all that life can give.   But not from her, never from her!</p>
+have all that life can give.   But not from her, never from her!</p></sp>
 
-<p>SHELLEY. She is unreal to you, and so my love for her is an unreal
+<sp><speaker>Shelley.</speaker><p> She is unreal to you, and so my love for her is an unreal
 thing, a fever, an infatuation. As such you hate and struggle
 
 <pb n="THE PRICE OF FREEDOM  115"/>
@@ -3064,27 +3063,27 @@ thing, a fever, an infatuation. As such you hate and struggle
 against it--but with unreal weapons. Fighting this that is not, you
 too become false. And because this love of mine is false to you, I too
 have become to you unreal; to you whose intense reality is in your
-love, to you who only hate this one thing, unreality.</p>
+love, to you who only hate this one thing, unreality.</p></sp>
 
-<p>MARY. Make me see her as you see her! Save me from what I see! With
+<sp><speaker>Mary.</speaker><p> Make me see her as you see her! Save me from what I see! With
 my own eyes I can see nothing in her upon which any reverence can take
 hold. If only I could realise a spirit burning within her--and not be
 always thrown back shivering from those chameleon eyes, that bloodless
 skin, as from an empty mask. If I could feel her alive behind those
-fanciful words she marries so easily with yours!</p>
+fanciful words she marries so easily with yours!</p></sp>
 
-<p>SHELLEY. If you could <hi rend="italic">see</hi> Emilia you would
-understand, because you too would love her.</p>
+<sp><speaker>Shelley.</speaker><p> If you could <hi rend="italic">see</hi> Emilia you would
+understand, because you too would love her.</p></sp>
 
-<p>MARY. O if I could.   But what an "if" !</p>
+<sp><speaker>Mary.</speaker><p> O if I could.   But what an "if" !</p></sp>
 
-<p>SHELLEY. You will begin to believe in her. You will challenge every
+<sp><speaker>Shelley.</speaker><p> You will begin to believe in her. You will challenge every
 day this mask till it yields its reality to you. Because I love her,
 because you cannot doubt I love her, you too will inevitably begin to
 know and love her. You shake your head, Mary--and yet your eyes
-shine.</p>
+shine.</p></sp>
 
-<p>MARY. I think I shall never be able to see her as you do. Our
+<sp><speaker>Mary.</speaker><p> I think I shall never be able to see her as you do. Our
 relation will never be like yours: and only, perhaps, in such a
 relation can
 
@@ -3092,28 +3091,28 @@ relation can
 
 her spirit reveal itself. I must be content never to understand. And
 it may be my love for you will be strong enough even for this last
-giving up to Love.</p>
+giving up to Love.</p></sp>
 
-<p>SHELLEY. To love is always to have faith,
-always to have more faith and more.</p>
+<sp><speaker>Shelley.</speaker><p> To love is always to have faith,
+always to have more faith and more.</p></sp>
 
-<p>MARY. But this growth in faith demands a struggle in the soul that
+<sp><speaker>Mary.</speaker><p> But this growth in faith demands a struggle in the soul that
 is little removed from actual madness. At times the creative forces of
 one's passion make one blind, make one cruel, so tremendous is their
 struggle with the stubborn substance of one's soul. One suffers till
 one loses hold of oneself. There are moments when I know I am not
 myself--moments in which I could hurt you, you who are so much dearer
 to me even than our children. What is it--tell me what it is, my
-dear!</p>
+dear!</p></sp>
 
-<p>SHELLEY. It is the birth-pains of the God. And who shall win to
+<sp><speaker>Shelley.</speaker><p> It is the birth-pains of the God. And who shall win to
 liberty save by this mortal way? Only through a sort of madness can we
 be sufficiently withdrawn from the grasp of our selves for this new
 spirit to take possession of us. To be shewn the throes of that new
 birth taking hold upon and shaping a beloved soul, this utterly
-humbles as it purely exalts the spirit.</p>
+humbles as it purely exalts the spirit.</p></sp>
 
-<p>MARY. I have always wanted to pay the price.    I think I have
+<sp><speaker>Mary.</speaker><p> I have always wanted to pay the price.    I think I have
 never really wanted any
 
 <pb n="THE PRICE OF FREEDOM  117"/>
@@ -3124,14 +3123,14 @@ never the reality that alone I sought after,--the final good which a
 man may obtain in exchange for himself. If he keep back a penny it can
 never be his. For either the deed is whole,or it is a cheat. The
 payment is without withholding, or it is without avail. For this is
-just.O above all else I have loved justice, for the sake of Love.</p>
+just.O above all else I have loved justice, for the sake of Love.</p></sp>
 
-<p>SHELLEY. Without it there could be no freedom. Freedom is a perfect
+<sp><speaker>Shelley.</speaker><p> Without it there could be no freedom. Freedom is a perfect
 and final thing even as death and birth are in their order final. And
 Freedom goes beyond them. It is eternal life. It is immediate
-participation in the integrity of God himself.</p>
+participation in the integrity of God himself.</p></sp>
 
-<p>MARY. But never without justice: never without wanting to pay the price.</p>
+<sp><speaker>Mary.</speaker><p> But never without justice: never without wanting to pay the price.</p></sp>
 </div>
 
 

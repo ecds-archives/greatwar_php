@@ -1961,7 +1961,7 @@ Expeditionary<lb/>Force, France</docAuthor>
 Corps</docAuthor>
 <div xml:id="moresongs2043" type="poem">
 <pb n="66"/>
-<head>The New Year<ref target="moresongsp66n1"></ref><note place="foot" xml:id="moresongsp66n1">*The idea of this poem came to me on the last night of the old year as, lying awake long after "lights out," I gazed out at the sky through my tent lattice-window.</note></head>
+<head>The New Year<ref target="#moresongsp66n1">*</ref></head><note place="foot" xml:id="moresongsp66n1" n="*">The idea of this poem came to me on the last night of the old year as, lying awake long after "lights out," I gazed out at the sky through my tent lattice-window.</note>
 <lg type="stanza">
 <l>THE white moon like a queenly ship</l>
 <l>Sails down the blue and tropic night.</l>

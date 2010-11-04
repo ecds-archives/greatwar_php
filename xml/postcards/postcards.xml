@@ -3904,6 +3904,69 @@ Official War Photographs/Crown Copryright Reserved/Series 6. No. 46.</figDesc></
   <figDesc>This card was delivered from Paris just a month after the Armistice on December 12, 1918.  The card has an embroidered bouquet with real plant leaves: "Flowers of France, Gathered for you"</figDesc>
 </figure>
 
+<figure ana="nat-hu nat-au t-wwi">
+<graphic url="budapest_rect"/>
+<graphic url="budapest_verso"/>
+<head>Budapest. Orsz&#x00E1;gh&#x00E1;z.--Parlament.</head>
+<figDesc>This card was mailed from Hungary on June 29. The text on the reverse reads: "We are in this building now. Black flags flying every-where on account of the killing of the Arch Duke Ferdinand yesterday. We go back to Wien this afternoon."
+</figDesc>
+</figure>
+
+<figure ana="nat-au t-pre">
+<graphic url="ferdinand_family"/>
+<head>Erzherzog Franz Ferdinand</head>
+<figDesc>A photograph of Franz Ferdinand and his family, taken in 1913. Text on the card reads, "Erzherzog Franz Ferdinand von Oesterrich d'Estemite Familie.
+</figDesc>
+</figure>
+
+<figure ana="nat-brit con-v mil-a t-wwi">
+<graphic url="tipperary1"/>
+<head>It's a Long, Long Way to Tipperary (1).</head>
+<floatingText>
+<body><lg><l>Up to might London cam an Irishman one day,</l>
+<l>As the streets were paved with gold, sur ev'ry one was gay;</l>
+<l>Singing songs of Piccadilly Strand and Leicester Square,</l>
+<l>Till Paddy got excited, then he shouted to them there:&#x2014;</l></lg>
+</body></floatingText>
+<figDesc>Soldiers marching by the Picadilly Tube station,</figDesc>
+</figure>
+
+<figure ana="nat-brit con-v mil-a t-wwi">
+<graphic url="tipperary2"/>
+<head>It's a Long, Long Way to Tipperary (2).</head>
+<floatingText>
+<body>
+<lg><l>"It's a long way to Tipperary, it;s a long way to go;</l>
+<l>It's a long way to Tipperary, to the sweetest girl I know;</l>
+<l>Good-bye Piccadilly, farewell Leicester Square,</l>
+<l>It's a long, long way to Tipperary, but my heart's right there."</l>
+</lg></body>
+</floatingText>
+<figDesc>Soldiers are marching through a green countryside, with a horse pulling a two-wheeled cart, and mounted commanding officer. Inset above shows a young woman with her hands clasped.
+</figDesc>
+</figure>
+
+<figure ana="nat-brit con-v mil-a t-wwi">
+<graphic url="tipperary4"/>
+<head>It's a Long, Long Way to Tipperary (4).</head>
+<floatingText>
+<body><lg><l>Molly wrote a neat reply to Irish Paddy O',</l>
+<l>Saying, "Mike Maloney wants to marry me, and so</l>
+<l>Leave the Strand and Picadilly, or you'll be to blame,</l>
+<l>For love has fairly drove me silly, hoping you're the same.</l>
+</lg></body></floatingText>
+<figDesc>A woman sits in front of a rose covered thatch-roofed cottage, writing. She is dressed in a long skirt, apron, red cloak, and scarf around her neck.
+</figDesc>
+</figure>
+
+<figure ana="nat-de mil-a">
+<graphic url="unser_kaiser"/>
+<head>Unser Kaiser</head>
+<figDesc>The photograph shows five horsemen riding in front of the Brandenburg Gate. The kaiser rides a white horse. The text says: "Unser Kaiser/Spazierritt Unter den Linden." In the lower left, "1877 Verlag von Gust. Liersch &#x0026; Co., Berlin.S.W." In the lower right, "GEBR. Haeckel Phot. Angef. v.d. N.P.G. Stieglitz 1908."
+</figDesc>
+</figure>
+
+
 </p>
 </body>
 <back>
@@ -3922,6 +3985,7 @@ Official War Photographs/Crown Copryright Reserved/Series 6. No. 46.</figDesc></
 <interp xml:id="nat-jp">Japan</interp>
 <interp xml:id="nat-nl">Netherlands</interp>
 <interp xml:id="nat-au">Austria</interp>
+<interp xml:id="nat-hu">Hungary</interp>
 </interpGrp>
 <interpGrp type="military">
 <interp xml:id="mil-a">Army</interp>

@@ -2222,7 +2222,7 @@ Photo. E.C."; at bottom left "8142". Text at bottom: "By permission of Messrs. F
 </figure>
 
 <figure ana="nat-fr nat-us t-wwi">
-<graphic url="bonne_annee-plane"/>
+<graphic url="bonne_anne-plane"/>
 <head>Bonne Ann&#x00E9;e</head>
 <figDesc>This postcard is a sepia-toned, color-tinted picture of a plane flying over a road in the mountains. The plane has roses on top of its wings and carries the message "Meilleurs Baisers". Text at top left: "Bonne Ann&#x00E9;e". Text at bottom right: "DIX Paris 2059". On reverse: handwritten message.</figDesc>
 </figure>
@@ -3797,15 +3797,19 @@ moving away. One man stands, his arm in a sling, and shakes his fist. At
 lower left of drawing: L Raven Hill. At bottom the caption: The
 Merchant Seaman. Going home to sign on again. On reverse: No. 509.</figDesc></figure>
 
-<figure ana="nat-de mil-f im-ph t-wwi"><head>V&#x00F6;llig zerst&#x00F6;rter
+<figure ana="nat-de mil-f im-ph t-wwi">
 <graphic url="souville"/>
+<head>V&#x00F6;llig zerst&#x00F6;rter
 feindlicher Sch&#x00FC;tzengraben b. Souville vor
-Verdun</head><figDesc>This black and white photograph shows a
+Verdun</head>
+<figDesc>This black and white photograph shows a
 destroyed trench. On reverse: Nr. 368. N. Engel, Photogr. Kunstantalt, Diedenhofen</figDesc></figure>
 
-<figure ana="nat-brit mil-a mil-f im-ph t-wwi"><head>The "Fighting
+<figure ana="nat-brit mil-a mil-f im-ph t-wwi">
 <graphic url="fighting_fifth"/>
-Fifth"</head><figDesc>This black and white photograph shows
+<head>The "Fighting Fifth"</head>
+
+<figDesc>This black and white photograph shows
 soldiers cheering. At bottom: The "Fighting Fifth" (Northumberland
 Fusiliers) after the battle of St. Eloi. In small script at the top:
 Official Photograph Crown Copyright Reserved, and at bottom, Daily
@@ -3821,7 +3825,7 @@ Official War Photographs/Crown Copryright Reserved/Series 6. No. 46.</figDesc></
 </figure>
 
 <figure ana="con-f nat-brit nat-fr nat-us t-wwi">
-<graphic url="rwb-liberty"/>
+<graphic url="rwb_liberty"/>
   <head>The Red, White and Blue for International Liberty</head>
   <figDesc>"The Red, White and Blue for International Liberty" with the flags of France, the United States, and Great Britain.  The card was published in 1917.</figDesc>
 </figure>

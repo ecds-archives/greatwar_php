@@ -2,8 +2,15 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="binns">
    <teiHeader><fileDesc>
          <titleStmt>
-            <title>NOVEMBER: Poems in War Time, Electronic Edition</title>
-            <author><name type="person"><choice><reg>Binns, Henry Bryan, 1873-1923</reg><sic>Henry Bryan Binns</sic></choice></name></author>
+            <title>NOVEMBER: Poems in War Time, an electronic edition</title>
+            <author>
+	      <name type="person">
+		<choice>
+		  <reg>Binns, Henry Bryan, 1873-1923</reg>
+		  <sic>Henry Bryan Binns</sic>
+		</choice>
+	      </name>
+	    </author>
          </titleStmt>
 	 <publicationStmt><publisher>Lewis H. Beck Center for Electronic Collections
 	   and Services, Emory University</publisher><pubPlace>Atlanta, GA</pubPlace><address>
@@ -29,11 +36,12 @@
 	     <title>NOVEMBER: Poems in War Time</title>
 	     <author>Henry Bryan Binns</author>
 	     <pubPlace>New York</pubPlace>
-	     <publisher>Dodd, Mead &amp; Company</publisher>
+	     <publisher>Dodd, Mead &#x0026; Company</publisher>
 	     <date>1918</date>
 	   </bibl>
          </sourceDesc>
-      </fileDesc><encodingDesc>
+      </fileDesc>
+      <encodingDesc>
 	<projectDesc><p>Poetry contemporary to World War I (the Great
 	War) has been digitized by OCR or rekeying. The work has been
 	done in conjunction with Dr. Harry Rusche of the English
@@ -54,7 +62,8 @@
 	    </bibl>
 	  </taxonomy>
 	</classDecl>
-      </encodingDesc><profileDesc>
+      </encodingDesc>
+      <profileDesc>
          <creation>
 	   <rs type="collection">poetry</rs>
 	   <rs type="language">English</rs>
@@ -72,9 +81,15 @@
 	       <item>War.</item>
 	     </list>
 	   </keywords>
-	 </textClass></profileDesc><revisionDesc><change><name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date></change><!-- add your information here --><change><date>2009</date><label>Beck Center staff</label><name>Shruthi Vissa</name>Proofing, encoding</change>
-</revisionDesc>
-</teiHeader>
+	 </textClass>
+	 </profileDesc>
+	 <revisionDesc>
+	   <change>
+	     <name>Stewart Varner</name> transformed this document from p4 to p5 on <date when="2010-03-22">March 22, 2010</date>
+	     </change><!-- add your information here -->
+	     <change><date>2009</date><label>Beck Center staff</label><name>Shruthi Vissa</name>Proofing, encoding</change>
+	 </revisionDesc>
+   </teiHeader>
 
 <text>
 <front>
@@ -159,19 +174,18 @@ killed at Aix Noulette, 26 May, 1915.</p> </div>
 <div xml:id="binns001" type="poem">
 
 <head rend="center">November<lb/>
-Five Preludes</head>
+<hi rend="smallcaps">Five Preludes</hi></head>
 
 <div xml:id="binns100" type="section" n="1">
 <head rend="center">I</head>
 <lg type="stanza">
 <l>UP dripping from the sea</l>
-<l rend="indent">Her weeds all watery,</l>
+<l>Her weeds all watery,</l>
 <l>She dashed against the windows as she came</l>
 <l>The fringy hem of her wet</l>
 <l>Cloak, and set</l>
 <l>Me shivering closer to the genial flame.</l>
-<l>Bleak was her face, turned westward from the</l>
-<l rend="indent">grey</l>
+<l>Bleak was her face, turned westward from the grey</l>
 <l>Uncompromising dawn of a grim day,</l>
 <l>As though she would not countenance</l>
 <l>Even his ungracious greeting!</l>

@@ -124,10 +124,10 @@
       <body>
          <pb n="1"/>
          <div xml:id="cunliffe001" type="anthology" n="Poems of the Great War">
-            <head rend="center">POEMS OF THE GREAT WAR</head>
+            <head rend="center">Poems of the Great War</head>
 
             <div xml:id="cunliffe002" type="poem" n="Written on Service in Egypt">
-               <head rend="center">WRITTEN ON SERVICE IN EGYPT
+               <head rend="center">Written on Service In Egypt
 <ref target="#cunliffe002n1">1</ref>
                </head>
                <note xml:id="cunliffe002n1" place="foot" n="1">
@@ -192,7 +192,7 @@ When last heard from, the author, who is a British officer, was on service at Kh
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">WAR YAWP</head>
+               <head rend="center">War Yawp</head>
 
                <lg type="stanza">
                   <l n="1" rend="italic">America!</l>
@@ -321,7 +321,7 @@ When last heard from, the author, who is a British officer, was on service at Kh
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">A NEGLECTED GARDEN</head>
+               <head rend="center">A Neglected Garden</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -372,7 +372,7 @@ When last heard from, the author, who is a British officer, was on service at Kh
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">YOUNG AND OLD</head>
+               <head rend="center">Young and Old</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -536,7 +536,7 @@ When last heard from, the author, who is a British officer, was on service at Kh
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">NEUTRAL?</head>
+               <head rend="center">Neutral?</head>
                <head rend="center">
                   <hi rend="smallcap">To the</hi> 
                   <hi rend="smallcap">Humanity of</hi> 
@@ -613,7 +613,7 @@ When last heard from, the author, who is a British officer, was on service at Kh
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE RED COUNTRY</head>
+               <head rend="center">The Red Country</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -723,9 +723,9 @@ When last heard from, the author, who is a British officer, was on service at Kh
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">A BALLAD OF DEATHLESS DONS</head>
-               <head rend="center">OR:</head>
-               <head rend="center">"WHEN THE ASSAULT WAS INTENDED TO THE CITY"</head>
+               <head rend="center">A Ballad of Deathless Dons</head>
+               <head rend="center">or:</head>
+               <head rend="center">"When the Assault Was Intended to the City"</head>
                <note place="inline">
                   <p>(In honor of an Oxford Corps composed of those concerning whom it may be said most truly, in Mr. Belloc's words, that they are
 <q rend="center">
@@ -857,7 +857,7 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">"ANY FRIEND TO ANY FRIEND"</head>
+               <head rend="center">"Any Friend to Any Friend"</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -893,7 +893,7 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE CAMP-FOLLOWER</head>
+               <head rend="center">The Camp-Follower</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -927,13 +927,13 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">HERE: AND THERE</head>
+               <head rend="center">Here: and There</head>
                <head rend="center">
                   <hi rend="italic">September, 1914</hi>
                </head>
 
                <lg type="stanza">
-                  <head rend="center">HERE</head>
+                  <head rend="center">Here</head>
                   <l n="1">
                      <hi rend="smallcap">Soft</hi> benediction of September sun;</l>
                   <l>Voices of children, laughing as they run;</l>
@@ -942,7 +942,7 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
                </lg>
 
                <lg>
-                  <head rend="center">THERE</head>
+                  <head rend="center">There</head>
                   <l>Tumult and roaring of the incessant gun;</l>
                   <l>Dead men and dying, trenches lost and won;</l>
                   <l>Blood, mud, and havoc, bugles, shoutings, cries;</l>
@@ -963,7 +963,7 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">KARTÚSHKIYA-BERÓZA</head>
+               <head rend="center">Kartúshkiya-Beróza</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -1111,7 +1111,7 @@ sniffs on bridges and cliffs, wherever a foe might sneeze,</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">AFTERMATH</head>
+               <head rend="center">Aftermath</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -1168,7 +1168,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE RETURN</head>
+               <head rend="center">The Return</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -1254,7 +1254,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">KITCHENER'S MARCH</head>
+               <head rend="center">Kitchener's March</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -1321,9 +1321,9 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE BROKEN ROSE</head>
+               <head rend="center">The Broken Rose</head>
                <head rend="center">
-                  <hi rend="smallcap">TO KING ALBERT</hi>
+                  <hi rend="smallcap">To King Albert</hi>
                </head>
 
                <lg type="stanza">
@@ -1396,7 +1396,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THEY HELD THEIR GROUND</head>
+               <head rend="center">They Held Their Ground</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -1468,7 +1468,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">VISION OF WAR</head>
+               <head rend="center">Vision of War</head>
 
                <lg type="stanza">
                   <head rend="center">1.</head>
@@ -1751,7 +1751,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">FALLEN</head>
+               <head rend="center">Fallen</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -1789,7 +1789,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">BY THE NORTH SEA</head>
+               <head rend="center">By the North Sea</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -1842,7 +1842,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">A HARROW GRAVE IN FLANDERS</head>
+               <head rend="center">A Harrow Grave in Flanders</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -1886,7 +1886,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">WHEN THEY HAVE MADE AN END</head>
+               <head rend="center">When They Have Made an End</head>
 
                <lg type="stanza">
                   <l n="1" rend="indent">When they have made an end</l>
@@ -1913,7 +1913,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE DEFENDERS</head>
+               <head rend="center">The Defenders</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -1950,7 +1950,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE METAL CHECKS</head>
+               <head rend="center">The Metal Checks</head>
 
                <note anchored="true" place="inline">(The scene is a bare room, with two shaded windows at the back, and a fireplace between them with a fire burning low. The room is furnished scantily with a few plain chairs, and a rough wooden table on which are piled a great many small wooden trays. The Counter, who is Death, sits at the table. He wears a loose gray robe, and his face is partly concealed by a gray veil. He does not look at The Bearer, but works mechanically and speaks in a monotonous tone. The Bearer is the World, that bears the burden of War. He wears a soiled robe of brown and green and he carries on his back a gunny-bag with the little metal disks that have been used for the identification of the slain common soldiers.)</note>
 
@@ -2176,7 +2176,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">"FOR THOSE AT SEA"</head>
+               <head rend="center">"For Those at Sea"</head>
 
                <note anchored="true" place="inline">(H.M.S. "Aboukir," "Cressy," "Hogue," September 22, 1914.)</note>
 
@@ -2211,7 +2211,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE MAN IN THE TRENCH</head>
+               <head rend="center">The Man in the Trench</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -2267,7 +2267,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">TERRITORIALS</head>
+               <head rend="center">Territorials</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -2313,7 +2313,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">HONOR TO FRANCE!</head>
+               <head rend="center">Honor to France!</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -2346,7 +2346,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE JEWISH CONSCRIPT</head>
+               <head rend="center">The Jewish Conscript</head>
 
                <note anchored="true" place="inline">(There are nearly a quarter of a million Jews in the Czar's army alone. -- <hi rend="italic">Newspaper clipping</hi>.)</note>
 
@@ -2395,7 +2395,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE GIFT</head>
+               <head rend="center">The Gift</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -2442,7 +2442,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">PASSOVER</head>
+               <head rend="center">Passover</head>
 
                <lg type="stanza">
                   <l rend="indent" n="1">The doors of life are two;</l>
@@ -2500,7 +2500,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">IRELAND</head>
+               <head rend="center">Ireland</head>
 
                <lg type="stanza">
                   <head rend="indent4">
@@ -2569,7 +2569,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">HER "ALLOWANCE!"</head>
+               <head rend="center">Her "Allowance!"</head>
 
                <lg type="stanza">
                   <l n="1">'Er looked at me bunnet (I knows 'e aint noo!)</l>
@@ -2621,7 +2621,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">ULTIMATE HELL</head>
+               <head rend="center">Ultimate Hell</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -2729,7 +2729,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">"I HAVE NO RING"</head>
+               <head rend="center">"I Have No Ring"</head>
 
                <lg type="stanza">
                   <l n="1">I <hi rend="smallcap">watch</hi> and listen with a dreadful fear,</l>
@@ -2761,7 +2761,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE DEAD</head>
+               <head rend="center">The Dead</head>
                <head rend="center">
                   <hi rend="smallcap">To One Killed in Action</hi>
                </head>
@@ -2808,7 +2808,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">SURE, IT'S FUN!</head>
+               <head rend="center">Sure, It's Fun!</head>
 
                <epigraph rend="center">
                   <l>What fun to be a soldier!</l>
@@ -2866,7 +2866,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE AIRMAN</head>
+               <head rend="center">The Airman</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -2910,7 +2910,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">BROTHERS IN ARMS</head>
+               <head rend="center">Brothers in Arms</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -3007,7 +3007,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE WYKHAMIST</head>
+               <head rend="center">The Wykhamist</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -3042,7 +3042,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE PYRES</head>
+               <head rend="center">The Pyres</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -3148,7 +3148,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">NON-COMBATANT</head>
+               <head rend="center">Non-Combatant</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -3204,7 +3204,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">FROM THE YOUTH OF ALL NATIONS</head>
+               <head rend="center">From the Youth of All Nations</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -3327,7 +3327,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">SOLDIER, SOLDIER</head>
+               <head rend="center">Soldier, Soldier</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -3408,7 +3408,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">APRIL IN ENGLAND</head>
+               <head rend="center">April in England</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -3456,7 +3456,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THINGS THAT WERE YOURS</head>
+               <head rend="center">Things That Were Yours</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -3490,8 +3490,8 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">JOAN OF FRANCE TO AN ENGLISH SISTER</head>
-               <head rend="center">I. M. EDITH CAVELL, NURSE</head>
+               <head rend="center">Joan of France to an English Sister</head>
+               <head rend="center">I. M. Edith Cavell, Nurse</head>
 
                <epigraph rend="center">
                   <l rend="italic">Pitié que estoit au royaume de France."</l>
@@ -3526,7 +3526,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE TWA WEELUMS</head>
+               <head rend="center">The TWA Weelums</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -3598,7 +3598,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">A LEGEND OF YPRES</head>
+               <head rend="center">A Legend of Ypres</head>
 
                <lg type="stanza">
                   <l n="1">Before the throne the spirits of the slain</l>
@@ -3633,7 +3633,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">IN MEMORIAM</head>
+               <head rend="center">In Memoriam</head>
 
                <note anchored="true" place="inline">(To Field-Marshal Lord Roberts of Kandahar, died November, 1914)</note>
 
@@ -3675,7 +3675,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">INDIA TO ENGLAND</head>
+               <head rend="center">India to England</head>
                <lg type="stanza">
                   <l n="1">O <hi rend="smallcap">England</hi>! in thine hour of need,</l>
                   <l>When Faith's reward and valor's meed</l>
@@ -3735,7 +3735,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE NATIONS' DAVID</head>
+               <head rend="center">The Nations' David</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -3829,7 +3829,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE WHITE SHIPS AND THE RED</head>
+               <head rend="center">The White Ships and the Red</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -3969,7 +3969,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">OVERHEARD IN AN ASYLUM</head>
+               <head rend="center">Overheard in an Asylum</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -4031,7 +4031,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">PATTERNS</head>
+               <head rend="center">Patterns</head>
 
                <lg type="stanza">
                   <l n="1">I <hi rend="smallcap">walk</hi> down the garden paths,</l>
@@ -4178,7 +4178,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">HIS ONLY WAY</head>
+               <head rend="center">His Only Way</head>
 
                <lg type="stanza">
                   <l n="1">I <hi rend="smallcap">stood</hi> to-day high on the Downs</l>
@@ -4272,9 +4272,9 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">TO ENGLAND, OUR MOTHER</head>
+               <head rend="center">To England, Our Mother</head>
                <head rend="center">
-                  <hi rend="smallcap">A HYMN OF LOYALTY</hi>
+                  <hi rend="smallcap">A Hymn of Loyalty</hi>
                </head>
 
                <lg type="stanza">
@@ -4366,7 +4366,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">IN FLANDERS FIELDS</head>
+               <head rend="center">In Flanders Fields</head>
                <note anchored="true" place="inline">
 (Reprinted by the special permission of the proprietors of <hi rend="italic">Punch</hi>.)</note>
 
@@ -4408,7 +4408,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE FLEETS</head>
+               <head rend="center">The Fleets</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -4467,7 +4467,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">SUMMER IN ENGLAND, 1914</head>
+               <head rend="center">Summer in England, 1914</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -4532,7 +4532,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">OFF HELIGOLAND</head>
+               <head rend="center">Off Heligoland</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -4593,7 +4593,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">HE WENT FOR A SOLDIER</head>
+               <head rend="center">He Went for a Soldier</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -4677,7 +4677,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">ON THE PORCH</head>
+               <head rend="center">On the Porch</head>
 
                <lg type="stanza">
                   <l n="1" rend="indent">As I lie roofed in, screened in,</l>
@@ -4786,7 +4786,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">A SONG OF PEACE AND HONOR</head>
+               <head rend="center">A Song of Peace and Honor</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -4895,7 +4895,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE FISHER-LAD</head>
+               <head rend="center">The Fisher-Lad</head>
 
                <lg type="stanza">
                   <l n="1">"<hi rend="smallcap">Farewell</hi> and good-bye to you, maiden of Teifi,</l>
@@ -4940,7 +4940,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">MASTER AND PUPIL</head>
+               <head rend="center">Master and Pupil</head>
                <head rend="center">(To J. F. R.)</head>
 
                <lg type="stanza">
@@ -5048,7 +5048,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">TWO PICTURES</head>
+               <head rend="center">Two Pictures</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -5101,7 +5101,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE DEAD SOLDIER</head>
+               <head rend="center">The Dead Soldier</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -5151,7 +5151,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">MEN HAVE WINGS AT LAST</head>
+               <head rend="center">Men Have Wings at Last</head>
                <head rend="center">(Air-Craft and the War)</head>
 
                <lg type="stanza">
@@ -5326,7 +5326,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">REVENGE FOR RHEIMS</head>
+               <head rend="center">Revenge for Rheims</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -5378,7 +5378,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">SOCKS</head>
+               <head rend="center">Socks</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -5439,7 +5439,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">TO SHAKESPEARE, 1916</head>
+               <head rend="center">To Shakespeare, 1916</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -5476,7 +5476,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">BELGIUM THE BAR-LASS</head>
+               <head rend="center">Belgium the Bar-Lass</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -5556,7 +5556,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">CASSANDRA</head>
+               <head rend="center">Cassandra</head>
 
                <lg type="stanza">
                   <l n="1">I <hi rend="smallcap">h</hi>
@@ -5658,7 +5658,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">SHAKESPEARE, 1916</head>
+               <head rend="center">Shakespeare, 1916</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -5691,7 +5691,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">STATISTICS</head>
+               <head rend="center">Statistics</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -5731,7 +5731,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">AUSTRALIANS TO THE FRONT!</head>
+               <head rend="center">Australians to the Front!</head>
                <head rend="center">(Captain Cook hears the Drums)</head>
 
                <lg type="stanza">
@@ -5806,7 +5806,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">HER PRAYER -- FOR HIM</head>
+               <head rend="center">Her Prayer -- for Him</head>
 
                <lg type="stanza">
                   <l n="1">I <hi rend="smallcap">do</hi> not ask that he may never yield</l>
@@ -5842,7 +5842,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE VALE OF SHADOWS</head>
+               <head rend="center">The Vale of Shadows</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -5960,7 +5960,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE WAYSIDE CALVARY</head>
+               <head rend="center">The Wayside Calvary</head>
                <note anchored="true">(Lines written on the anniversary of the outbreak of the war.)</note>
 
                <lg type="stanza">
@@ -6015,7 +6015,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE MOTHER</head>
+               <head rend="center">The Mother</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -6059,7 +6059,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">A THANKSGIVING</head>
+               <head rend="center">A Thanksgiving</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -6110,9 +6110,9 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">"FORM FOURS"</head>
+               <head rend="center">"Form Fours"</head>
                <head rend="center">
-                  <hi rend="smallcap">A VOLUNTEER'S NIGHTMARE</hi>
+                  <hi rend="smallcap">A Volunteer's Nightmare</hi>
                </head>
 
                <lg type="stanza">
@@ -6165,7 +6165,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">FIELD AMBULANCE IN RETREAT</head>
+               <head rend="center">Field Ambulance in Retreat</head>
                <head rend="center">
                   <hi rend="italic">Via Dolorosa, Via Sacra</hi>
                </head>
@@ -6222,7 +6222,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">CLOSE YOUR RANKS</head>
+               <head rend="center">Close Your Ranks</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -6284,7 +6284,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">HEART OF ALL THE WORLD</head>
+               <head rend="center">Heart of All the World</head>
                <head rend="center">(Belgium)</head>
 
                <lg type="stanza">
@@ -6324,7 +6324,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">KITCHENER OF KHARTOUM</head>
+               <head rend="center">Kitchener of Khartoum</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -6375,7 +6375,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE SPRING IN IRELAND: 1916</head>
+               <head rend="center">The Spring in Ireland: 1916</head>
 
                <lg type="stanza">
                   <head rend="center">I</head>
@@ -6523,7 +6523,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">SAILOR, WHAT OF THE DEBT WE OWE YOU?</head>
+               <head rend="center">Sailor, What of the Debt We Owe You?</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -6568,7 +6568,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">FROM AMERICA</head>
+               <head rend="center">From America</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -6605,7 +6605,7 @@ message, see!</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE TRUMPET</head>
+               <head rend="center">The Trumpet</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -6668,7 +6668,7 @@ message, see!</l>
                   </name>
                </docAuthor>
 
-               <head rend="center">ENGLAND'S DEAD</head>
+               <head rend="center">England's Dead</head>
                <epigraph rend="center">
                   <l>("Make them to be numbered with thy Saints:
 in glory everlasting.")</l>
@@ -6838,7 +6838,7 @@ in glory everlasting.")</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">SAID ATTILA THE HUN TO --</head>
+               <head rend="center">Said Attila the Hun to --</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -6900,7 +6900,7 @@ in glory everlasting.")</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE UNCONQUERED HOPE</head>
+               <head rend="center">The Unconquered Hope</head>
                <note anchored="true" place="inline">(A ship recently arrived in England from America, laden with toys, the gift of the American people, for the children both of the Allies and the Enemy.)</note>
 
                <lg type="stanza">
@@ -6981,7 +6981,7 @@ in glory everlasting.")</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">SONNET</head>
+               <head rend="center">Sonnet</head>
                <note rend="center" anchored="true" place="inline">
                   <hi rend="italic">October 1st, 1914</hi>
                </note>
@@ -7020,7 +7020,7 @@ in glory everlasting.")</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">TO MY COUNTRY</head>
+               <head rend="center">To My Country</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -7056,7 +7056,7 @@ in glory everlasting.")</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">AFTERMATH</head>
+               <head rend="center">Aftermath</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -7095,7 +7095,7 @@ in glory everlasting.")</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">A GIRL'S SONG</head>
+               <head rend="center">A Girl's Song</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -7154,7 +7154,7 @@ in glory everlasting.")</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE LAUGHERS</head>
+               <head rend="center">The Laughers</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -7264,7 +7264,7 @@ in glory everlasting.")</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE AMERICAN VOLUNTEERS</head>
+               <head rend="center">The American Volunteers</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -7308,7 +7308,7 @@ in glory everlasting.")</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE CONSCRIPT</head>
+               <head rend="center">The Conscript</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -7385,7 +7385,7 @@ in glory everlasting.")</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">IN A SLUM</head>
+               <head rend="center">In a Slum</head>
 
                <lg type="stanza">
                   <l n="1">I <hi rend="smallcap">never</hi> heard him speak a kindly word,</l>
@@ -7450,7 +7450,7 @@ in glory everlasting.")</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">ENGLAND TO DENMARK</head>
+               <head rend="center">England to Denmark</head>
                <head rend="center">
                   <hi rend="italic">August, 1915</hi>
                </head>
@@ -7489,8 +7489,8 @@ in glory everlasting.")</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">MOTHER OF NATIONS</head>
-               <head rend="center">WHY?</head>
+               <head rend="center">Mother of Nations</head>
+               <head rend="center">Why?</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -7558,7 +7558,7 @@ in glory everlasting.")</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">OUR MEN</head>
+               <head rend="center">Our Men</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -7630,7 +7630,7 @@ in glory everlasting.")</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE REAPERS</head>
+               <head rend="center">The Reapers</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -7688,7 +7688,7 @@ in glory everlasting.")</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE WAKENED GOD</head>
+               <head rend="center">The Wakened God</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -7761,7 +7761,7 @@ in glory everlasting.")</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">FROM A FLEMISH GRAVEYARD</head>
+               <head rend="center">From a Flemish Graveyard</head>
                <head rend="center">(January, 1915)</head>
 
                <lg type="stanza">
@@ -7809,7 +7809,7 @@ in glory everlasting.")</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE FIRST BATTLE OF YPRES<ref target="#cunliffe142n1">1</ref>
+               <head rend="center">The First Battle of Ypres<ref target="#cunliffe142n1">1</ref>
                </head>
                <note xml:id="cunliffe142n1" place="foot" n="1" anchored="true">
                   <hi rend="smallcap">Author's</hi> 
@@ -7963,7 +7963,7 @@ in glory everlasting.")</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">KITCHENER</head>
+               <head rend="center">Kitchener</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -8006,7 +8006,7 @@ in glory everlasting.")</l>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">MARCHING ON TANGA</head>
+               <head rend="center">Marching on Tanga</head>
 
                <lg type="stanza">
                   <l n="1">

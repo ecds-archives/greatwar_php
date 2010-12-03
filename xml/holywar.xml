@@ -91,7 +91,7 @@
 
 <pb n="5"/>
 <div xml:id="holywar001" type="dedication" n="Dedication">
-<head rend="center">DEDICATION</head>
+<head rend="center">Dedication</head>
 
 <lg type="stanza">
 <l n="1">These to the mourners of the War,</l>
@@ -134,7 +134,7 @@
 <pb n="8"/>
 <pb n="9"/>
 <div xml:id="holywar003" type="poem" n="The Vision">
-<head rend="center">THE VISION</head>
+<head rend="center">The Vision</head>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcaps">An</hi> average man was Private Flynn,</l>
@@ -245,7 +245,7 @@
 
 <pb n="13"/>
 <div xml:id="holywar004" type="poem" n="The Wall Between">
-<head rend="center">THE WALL BETWEEN</head>
+<head rend="center">The Wall Between</head>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcaps">The</hi> wall between is grown so thin</l>
@@ -288,7 +288,7 @@
 
 <pb n="15"/>
 <div xml:id="holywar005" type="poem" n="To the Others">
-<head rend="center">TO THE OTHERS</head>
+<head rend="center">To the Others</head>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcaps">This</hi> was the gleam then that lured from far</l>
@@ -331,7 +331,7 @@
 
 <pb n="17"/>
 <div xml:id="holywar006" type="poem" n="They Who Return">
-<head rend="center">THEY WHO RETURN</head>
+<head rend="center">They Who Return</head>
 <head rend="center"><hi rend="italic">To Mrs. Weigall</hi></head>
 
 <lg type="stanza">
@@ -369,7 +369,7 @@
 
 <pb n="19"/>
 <div xml:id="holywar007" type="poem" n="The Heart of a Boy">
-<head rend="center">THE HEART OF A BOY</head>
+<head rend="center">The Heart of a Boy</head>
 <head rend="center"><hi rend="italic">To Mrs. Guy Wyndham</hi></head>
 
 <lg type="stanza">
@@ -407,7 +407,7 @@
 
 <pb n="21"/>
 <div xml:id="holywar008" type="poem" n="The Convent Garden">
-<head rend="center">THE CONVENT GARDEN</head>
+<head rend="center">The Convent Garden</head>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcaps">The</hi> Convent garden lies so near</l>
@@ -481,7 +481,7 @@
 
 <pb n="24"/>
 <div xml:id="holywar009" type="poem" n="Emptiness">
-<head rend="center">EMPTINESS</head>
+<head rend="center">Emptiness</head>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcaps">Where</hi> there is nothing God comes in:</l>
@@ -518,7 +518,7 @@
 
 <pb n="26"/>
 <div xml:id="holywar010" type="poem" n="The Broken Soldier">
-<head rend="center">THE BROKEN SOLDIER</head>
+<head rend="center">The Broken Soldier</head>
 <head rend="center"><hi rend="italic">To Earl Grey</hi></head>
 
 <lg type="stanza">
@@ -549,7 +549,7 @@
 
 <pb n="27"/>
 <div xml:id="holywar011" type="poem" n="The Gardener">
-<head rend="center">THE GARDENER</head>
+<head rend="center">The Gardener</head>
 <head rend="center"><hi rend="italic">For Violet</hi></head>
 
 <lg type="stanza">
@@ -593,8 +593,8 @@
 
 <pb n="29"/>
 <div xml:id="holywar012" type="poem" n="The Perfect Playmate">
-<head rend="center">THE PERFECT PLAYMATE</head>
-<head rend="center"><hi rend="italic">Roger Charles Noel Bellingham. Before Ypres, March 4th, 1915</hi></head>
+<head rend="center">The Perfect Playmate</head>
+<headrend="center"><hi rend="italic">Roger Charles Noel Bellingham. Before Ypres, March 4th, 1915</hi></head>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcaps">The</hi> Perfect Playmate, whither does he stray</l>
@@ -633,7 +633,7 @@
 
 <pb n="31"/>
 <div xml:id="holywar013" type="poem" n="The Comrades">
-<head rend="center">THE COMRADES</head>
+<head rend="center">The Comrades</head>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcaps">The</hi> angels walk with men in the red ruin and rain,</l>
@@ -663,7 +663,7 @@
 
 <pb n="32"/>
 <div xml:id="holywar014" type="poem" n="The Widow">
-<head rend="center">THE WIDOW</head>
+<head rend="center">The Widow</head>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcaps">When</hi> she smiles her love draws nigh,</l>
@@ -693,7 +693,7 @@
 
 <pb n="33"/>
 <div xml:id="holywar015" type="poem" n="Starling">
-<head rend="center">STARLING</head>
+<head rend="center">Starling</head>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcaps">The</hi> starling in the ivy now,</l>
@@ -742,7 +742,8 @@
 
 <pb n="35"/>
 <div xml:id="holywar016" type="poem" n="The Trust">
-<head rend="center">THE TRUST</head>
+<head rend="center">The Trust
+</head>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcaps">To</hi> you, O S&#x0153;ur Ther&#x00E8;se of Lisieux,</l>
@@ -777,7 +778,7 @@
 
 <pb n="37"/>
 <div xml:id="holywar017" type="poem" n="The Colonists">
-<head rend="center">THE COLONISTS</head>
+<head rend="center">The Colonist</head>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcaps">To</hi> men now of her blood and race</l>
@@ -826,7 +827,7 @@
 
 <pb n="39"/>
 <div xml:id="holywar018" type="poem" n="Speeding">
-<head rend="center">SPEEDING</head>
+<head rend="center">Speeding<</head>
 <head rend="center"><hi rend="italic">To Ivo Alan Charteris, October 17th, 1915</hi></head>
 
 <lg type="stanza">
@@ -857,7 +858,7 @@
 
 <pb n="40"/>
 <div xml:id="holywar019" type="poem" n="Haymaking">
-<head rend="center">HAYMAKING</head>
+<head rend="center">Haymaking</head>
 <head rend="center"><hi rend="italic">In Connaught, 1915</hi></head>
 
 <lg type="stanza">
@@ -905,7 +906,7 @@
 
 <pb n="42"/>
 <div xml:id="holywar020" type="poem" n="The Truce of God">
-<head rend="center">THE TRUCE OF GOD</head>
+<head rend="center">The Truce of God</head>
 <head rend="center"><hi rend="italic">After Suvla</hi></head>
 
 <lg type="stanza">
@@ -936,7 +937,7 @@
 
 <pb n="43"/>
 <div xml:id="holywar021" type="poem" n="High Summer">
-<head rend="center">HIGH SUMMER</head>
+<head rend="center">High Summer</head>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcaps">Pinks</hi> and syringa in the garden closes</l>
@@ -966,7 +967,7 @@
 
 <pb n="44"/>
 <div xml:id="holywar022" type="poem" n="The Last Parting">
-<head rend="center">THE LAST PARTING</head>
+<head rend="center">The Last Parting</head>
 <head rend="center"><hi rend="italic">To Violet</hi></head>
 
 <lg type="stanza">
@@ -997,7 +998,7 @@
 
 <pb n="45"/>
 <div xml:id="holywar023" type="poem" n="The Long Vacation">
-<head rend="center">THE LONG VACATION</head>
+<head rend="center">The Long Vacation</head>
 <head rend="center"><hi rend="italic">To Amy Wainwright</hi></head>
 
 <lg type="stanza">
@@ -1022,7 +1023,7 @@
 
 <pb n="46"/>
 <div xml:id="holywar024" type="poem" n="Missing">
-<head rend="center">MISSING</head>
+<head rend="center">Missing</head>
 <head rend="center"><hi rend="italic">To Leucha Mary Warner</hi></head>
 
 <lg type="stanza">
@@ -1072,8 +1073,8 @@
 
 <pb n="48"/>
 <div xml:id="holywar025" type="poem" n="New Heaven">
-<head rend="center">NEW HEAVEN</head>
-<head rend="center"><hi rend="italic">To Sir William Haldane</hi></head>
+<head rend="center">New Heaven</head>
+<head< rend="center"><hi rend="italic">To Sir William Haldane</hi></head>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcaps">Paradise</hi> now has many a Knight,</l>
@@ -1103,7 +1104,7 @@
 
 <pb n="49"/>
 <div xml:id="holywar026" type="poem" n="Riding Home">
-<head rend="center">RIDING HOME</head>
+<head rend="center">Riding Home</head>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcaps">Who</hi> are these that go to the high peaks and the snow?</l>
@@ -1140,7 +1141,7 @@
 
 <pb n="51"/>
 <div xml:id="holywar027" type="poem" n="His Footstep">
-<head rend="center">HIS FOOTSTEP</head>
+<head rend="center">His Footstep</head>
 <head rend="center"><hi rend="italic">To Lady Wemyss</hi></head>
 
 <lg type="stanza">
@@ -1171,7 +1172,7 @@
 
 <pb n="52"/>
 <div xml:id="holywar028" type="poem" n="Lament">
-<head rend="center">LAMENT</head>
+<head rend="center">Lament</head>
 <head rend="center"><hi rend="italic">To the Immortal Tenth (Irish) Division</hi></head>
 
 <lg type="stanza">
@@ -1211,7 +1212,7 @@
 
 <pb n="54"/>
 <div xml:id="holywar029" type="poem" n="The Mother of Three">
-<head rend="center">THE MOTHER OF THREE</head>
+<head rend="center">The Mother of Three</head>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcaps">Oh</hi>, to have a little farm,</l>
@@ -1260,7 +1261,7 @@
 
 <pb n="56"/>
 <div xml:id="holywar030" type="poem" n="The Father">
-<head rend="center">THE FATHER</head>
+<head rend="center">The Father</head>
 <head rend="center"><hi rend="italic">Captain Patrick Tobin, R.D.F. Suvla, August 15th, 1915</hi></head>
 
 <lg type="stanza">
@@ -1291,7 +1292,7 @@
 
 <pb n="57"/>
 <div xml:id="holywar031" type="poem" n="All Souls' Night">
-<head rend="center">ALL SOULS' NIGHT</head>
+<head rend="center">All Souls' Night</head>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcaps">The</hi> door of Heaven is on the latch</l>
@@ -1340,7 +1341,7 @@
 
 <pb n="59"/>
 <div xml:id="holywar032" type="poem" n="The Great Sorrow">
-<head rend="center">THE GREAT SORROW</head>
+<head rend="center">The Great Sorrow</head>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcaps">Voice</hi> of a great wind, of wild ocean surges,</l>
@@ -1370,7 +1371,7 @@
 
 <pb n="60"/>
 <div xml:id="holywar033" type="poem" n="The Dear Brown Head">
-<head rend="center">THE DEAR BROWN HEAD</head>
+<head rend="center">The Dear Brown Head</head>
 <head rend="center"><hi rend="italic">James Cecil Johnston. Suvla. August 9th, 1915</hi></head>
 
 <lg type="stanza">
@@ -1401,7 +1402,7 @@
 
 <pb n="61"/>
 <div xml:id="holywar034" type="poem" n="Unfit">
-<head rend="center">UNFIT</head>
+<head rend="center">Unfit</head>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcaps">With</hi> younger men he takes his stand,</l>
@@ -1456,7 +1457,7 @@
 
 <pb n="63"/>
 <div xml:id="holywar035" type="poem" n="What She Said">
-<head rend="center">WHAT SHE SAID</head>
+<head rend="center">What She Said</head>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcaps">She</hi> said: Would I might sleep</l>
@@ -1499,7 +1500,7 @@
 
 <pb n="65"/>
 <div xml:id="holywar036" type="poem" n="The Wild Geese">
-<head rend="center">THE WILD GEESE</head>
+<head rend="center">The Wild Geese</head>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcaps">Wild</hi> geese fly overhead</l>
@@ -1542,7 +1543,7 @@
 
 <pb n="67"/>
 <div xml:id="holywar037" type="poem" n="The New Recruit">
-<head rend="center">THE NEW RECRUIT</head>
+<head rend="center">The New Recruit</head>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcaps">The</hi> lads were once my comrades,</l>
@@ -1610,7 +1611,7 @@
 
 <pb n="70"/>
 <div xml:id="holywar038" type="poem" n="The Only Son">
-<head rend="center">THE ONLY SON</head>
+<head rend="center">The Only Son</head>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcaps">His</hi> mother died last year and yet</l>

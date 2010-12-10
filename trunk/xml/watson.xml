@@ -91,7 +91,7 @@
 
 
 <div xml:id="watson1002" type="preface">
-<head>PREFACE</head>
+<head>Preface</head>
 
 <p>TWICE in his life the author of this little book has had the experience, so painful to a patriotic man, of differing from the majority of his countrymen on the moral issues involved in certain large and complex questions of international or imperial policy. In both cases he recorded his views and feelings very unambiguously in verse, incurring not a little odium and losing some friends. In both cases public opinion has since moved round into a position fundamentally much nearer his own than it had at first occupied. During the present war, with all its agonies and horrors, he has had at any rate the one private satisfaction of feeling not even the most momentary doubt or misgiving as to the perfect righteousness of his country's cause. There is nothing on earth of which he is more certain than that this Empire, throughout this supreme ordeal, has shaped her course by the light of purest duty. Her way has been the way of the just; and even if it be arguable that a base expediency would have dictated another path--even if it be held that by
 
@@ -139,7 +139,7 @@ editors of which are here thanked for permission to reprint them, not a few have
 <head>Sonnets</head>
 <div xml:id="watson001" type="poem" n="1">
 
-<head>THE MAN WHO SAW</head>
+<head>The Man Who Saw</head>
 
 <lg type="stanza">
 <l>THE master weavers at the enchanted loom</l>
@@ -272,7 +272,7 @@ editors of which are here thanked for permission to reprint them, not a few have
 </div>
 
 <div xml:id="watson002" type="poem" n="2">
-<head>THE FOURTH OF AUGUST, 1914</head>
+<head>The Fourth of August, 1914</head>
 
 <lg type="stanza">
 <l>AT last we know you, War-lord. You, that flung</l>
@@ -295,7 +295,7 @@ editors of which are here thanked for permission to reprint them, not a few have
 <pb n="26 TO THE UNITED STATES"/>
 
 <div xml:id="watson003" type="poem" n="3">
-<head>TO THE UNITED STATES</head>
+<head>To the United States</head>
 <lg type="stanza">
 <l>GREAT, O majestic Nation, great is calm !</l>
 <l>Great, when old bounds dissolve, to tower apart,</l>
@@ -318,7 +318,7 @@ editors of which are here thanked for permission to reprint them, not a few have
 
 <div xml:id="watson004" type="poem" n="4">
 
-<head>TO THE GERMAN EMPEROR,<lb/>
+<head>To the German Emperor,<lb/>
 <hi rend="italic">after the sack of Louvain</hi></head>
 
 <lg type="stanza">
@@ -342,7 +342,7 @@ editors of which are here thanked for permission to reprint them, not a few have
 <pb n="28 TERMONDE"/>
 
 <div xml:id="watson005" type="poem" n="5">
-<head>TERMONDE</head>
+<head>Termonde</head>
 
 <lg type="stanza">
 <l>IN wrecked Termonde, still quaking from the bellow</l>
@@ -366,7 +366,7 @@ editors of which are here thanked for permission to reprint them, not a few have
 
 <div xml:id="watson006" type="poem" n="6">
 
-<head>BELGIUM</head>
+<head>Belgium</head>
 
 <lg type="stanza">
 <l>O LITTLE ship among the Dreadnoughts vast,</l>
@@ -389,7 +389,7 @@ editors of which are here thanked for permission to reprint them, not a few have
 <pb n="30 TO KING ALBERT"/>
 
 <div xml:id="watson007" type="poem" n="7">
-<head>TO KING ALBERT</head>
+<head>To King Albert</head>
 
 <lg type="stanza">
 <l>RECEIVE, from one who hath not lavished praise</l>
@@ -412,7 +412,7 @@ editors of which are here thanked for permission to reprint them, not a few have
 <pb n="TRANQUIL LIBERTY 31"/>
 
 <div xml:id="watson008" type="poem" n="8">
-<head>TRANQUIL LIBERTY</head>
+<head>Tranquil Liberty</head>
 <epigraph><cit><q><l>("Pax est tranquilla libertas.--</l></q><bibl>CICERO)</bibl></cit></epigraph>
 
 
@@ -439,7 +439,7 @@ editors of which are here thanked for permission to reprint them, not a few have
 <pb n="32 THE GIFTS OF HINDUSTAN"/>
 
 <div xml:id="watson009" type="poem" n="9">
-<head>THE GIFTS OF HINDUSTAN</head>
+<head>The Gifts of Hindustan</head>
 
 <lg type="stanza">
 <l>THIS day do maharajah and zemindar</l>
@@ -461,7 +461,7 @@ editors of which are here thanked for permission to reprint them, not a few have
 <pb n="ARABIA FELIX 33"/>
 
 <div xml:id="watson010" type="poem" n="10">
-<head>ARABIA FELIX</head>
+<head>Arabia Felix</head>
 
 <lg type="stanza">
 <l>EMIR of Heaven, Fatima's gorgeous heir,</l>
@@ -485,8 +485,8 @@ editors of which are here thanked for permission to reprint them, not a few have
 
 <div xml:id="watson011" type="poem" n="11">
 
-<head>TO AMERICA, CONCERNING<lb/>
-ENGLAND</head>
+<head>To America, Concerning<Lb/>
+England</head>
 
 <lg type="stanza">
 <l>ART thou her child, born in the proud midday</l>
@@ -510,7 +510,7 @@ ENGLAND</head>
 <pb n="YOU AT THE HELM 35"/>
 
 <div xml:id="watson012" type="poem" n="12">
-<head>YOU AT THE HELM</head>
+<head>You at the Helm</head>
 
 <lg type="stanza">
 <l>YOU at the helm of Empire, that with wise</l>
@@ -533,7 +533,7 @@ ENGLAND</head>
 <pb n="36 COMMEMORATIVE"/>
 
 <div xml:id="watson013" type="poem" n="13">
-<head>COMMEMORATIVE</head>
+<head>Commemorative</head>
 
 <lg type="stanza">
 <l>NOW doth the Year, with gorgeous ritual, don</l>
@@ -556,7 +556,7 @@ ENGLAND</head>
 <pb n="TO ROOSEVELT 37"/>
 
 <div xml:id="watson014" type="poem" n="14">
-<head>TO ROOSEVELT</head>
+<head>To Roosevelt</head>
 
 <lg type="stanza">
 <l>HADST thou been sitting yet in Lincoln's chair,</l>
@@ -579,7 +579,7 @@ ENGLAND</head>
 <pb n="38 TO A WOULD-BE UMPIRE"/>
 
 <div xml:id="watson015" type="poem" n="15">
-<head>TO A WOULD-BE UMPIRE</head>
+<head>To a Would-Be Umpire</head>
 
 <lg type="stanza">
 <l>GREAT Perseus babbled not of peace, while free</l>
@@ -602,7 +602,7 @@ ENGLAND</head>
 <pb n="CONDOLENCE 39"/>
 
 <div xml:id="watson016" type="poem" n="16">
-<head>CONDOLENCE</head>
+<head>Condolence</head>
 
 <lg type="stanza">
 <l>THE language wherein Goethe did record</l>
@@ -625,7 +625,7 @@ ENGLAND</head>
 <pb n="40 DAS VOLK"/>
 
 <div xml:id="watson017" type="poem" n="17">
-<head>DAS VOLK</head>
+<head>Das Volk</head>
 
 <lg type="stanza">
 <l>WE did but smile, beholding the o'erfraught</l>
@@ -649,7 +649,7 @@ ENGLAND</head>
 <pb n="THE DOMINANT THREE 41"/>
 
 <div xml:id="watson018" type="poem" n="18">
-<head>THE DOMINANT THREE</head>
+<head>The Dominant Three</head>
 
 <lg type="stanza">
 <l>LIKE lordliest Day, that to each crannied rafter</l>
@@ -672,8 +672,8 @@ ENGLAND</head>
 <pb n="42 TO SIR JAMES"/>
 
 <div xml:id="watson019" type="poem" n="19">
-<head>TO<lb/>
-SIR JAMES CRICHTON-BROWNE</head>
+<head>To<Lb/>
+Sir James Crichton-Browne</head>
 
 <lg type="stanza">
 <l>AROUND your northern home, where never cease</l>
@@ -696,7 +696,7 @@ SIR JAMES CRICHTON-BROWNE</head>
 <pb n="TO ONE FROM BEYOND 43"/>
 
 <div xml:id="watson020" type="poem" n="20">
-<head>TO ONE FROM BEYOND HUMBER</head>
+<head>To One From Beyond Humber</head>
 
 <lg type="stanza">
 <l>ONE shire, our greatest in mere leagues of loam,</l>
@@ -720,7 +720,7 @@ SIR JAMES CRICHTON-BROWNE</head>
 <pb n="44 TO A SON OF WALES"/>
 
 <div xml:id="watson021" type="poem" n="21">
-<head>TO A SON OF WALES<lb/>
+<head>To a Son of Wales<lb/>
 [<hi rend="italic">Owen Pritchard, Esq., M.D.</hi>]</head>
 
 <lg type="stanza">
@@ -745,7 +745,7 @@ SIR JAMES CRICHTON-BROWNE</head>
 
 <div xml:id="watson022" type="poem" n="22">
 
-<head>TO THE RIGHT HON. SIR EDWARD CARSON, ON LEAVING ANTRIM, JUNE 30, 1916</head>
+<head>To the Right Hon. Sir Edward Carson, on Leaving Antrim, June 30, 1916</head>
 
 <lg type="stanza">
 <l>THESE cliffs, the anvils of the hammering sea,</l>
@@ -769,7 +769,7 @@ SIR JAMES CRICHTON-BROWNE</head>
 
 <div xml:id="watson023" type="poem" n="23">
 
-<head>THE THREE ALFREDS<ref target="#wat23">1</ref></head>
+<head>The Three Alfreds<ref target="#wat23">1</ref></head>
 
 <lg type="stanza">
 <l>THREE Alfreds let us honour. Him who drove</l>
@@ -796,7 +796,7 @@ SIR JAMES CRICHTON-BROWNE</head>
 
 <div xml:id="watson024" type="poem" n="24">
 
-<head>THE VOICE FROM THE SUNSET</head>
+<head>The Voice From the Sunset</head>
 
 <l>THERE came, from out the ocean porticoes</l>
 <l rend="inline">Of that great ice-palace, Neutrality,</l>
@@ -817,7 +817,7 @@ SIR JAMES CRICHTON-BROWNE</head>
 <pb n="48 AMERICA ONCE MORE"/>
 
 <div xml:id="watson025" type="poem" n="25">
-<head>AMERICA ONCE MORE</head>
+<head>America Once More</head>
 
 <l>THIS, this is the America that we knew!</l>
 <l rend="inline"> Not she whose armour against Hell was reams</l>
@@ -837,10 +837,10 @@ SIR JAMES CRICHTON-BROWNE</head>
 </div>
 
 <div xml:id="watson0026" type="section">
-<head>OTHER POEMS</head>
+<head>Other Poems</head>
 
 <div xml:id="watson026" type="poem" n="26">
-<head>CROSSING THE RUBICON</head>
+<head>Crossing the Rubicon</head>
 
 <lg type="stanza">
 <l>WHO draws to-day a traitor's sword ?</l>
@@ -939,7 +939,7 @@ SIR JAMES CRICHTON-BROWNE</head>
 
 <div xml:id="watson027" type="poem" n="27">
 
-<head>LIÈGE</head>
+<head>Liège</head>
 
 <lg type="stanza">
 <l>BETWIXT the Foe and France was she--</l>
@@ -981,7 +981,7 @@ SIR JAMES CRICHTON-BROWNE</head>
 <pb n="56 THE HARVEST MOON"/>
 
 <div xml:id="watson028" type="poem" n="28">
-<head>THE HARVEST MOON</head>
+<head>The Harvest Moon</head>
 
 <lg type="stanza">
 <l>WITH swords agleam and guns aflame--</l>
@@ -1016,7 +1016,7 @@ SIR JAMES CRICHTON-BROWNE</head>
 
 <div xml:id="watson029" type="poem" n="29">
 
-<head>THE SOUL OF ROUGET DE LISLE</head>
+<head>The Soul of Rouget De Lisle</head>
 
 <l>[Verses founded on an early incident of the War]</l>
 
@@ -1061,7 +1061,7 @@ SIR JAMES CRICHTON-BROWNE</head>
 <pb n="THE BATTLE OF THE BIGHT"/>
 
 <div xml:id="watson030" type="poem" n="30">
-<head>THE BATTLE OF THE BIGHT</head>
+<head>The Battle of the Bight</head>
 
 <lg type="stanza">
 <l>HAD I that fabled herb</l>
@@ -1125,7 +1125,7 @@ SIR JAMES CRICHTON-BROWNE</head>
 <pb n="VERITAS VICTRIX 61"/>
 
 <div xml:id="watson031" type="poem" n="31">
-<head>VERITAS VICTRIX</head>
+<head>Veritas Victrix</head>
 
 <lg type="stanza">
 <l>THE Mill of Lies is loud,</l>
@@ -1148,8 +1148,8 @@ SIR JAMES CRICHTON-BROWNE</head>
 <pb n="62 THE CHARGE OF THE 9TH LANCERS"/>
 
 <div xml:id="watson032" type="poem" n="32">
-<head>THE CHARGE OF THE<lb/>
-9TH LANCERS</head>
+<head>The Charge of the<Lb/>
+9th Lancers</head>
 
 <lg type="stanza">
 <l>MELINITE, lyddite, darkened heaven,</l>
@@ -1189,7 +1189,7 @@ SIR JAMES CRICHTON-BROWNE</head>
 <pb n="64 RHEIMS"/>
 
 <div xml:id="watson0032" type="poem" n="32">
-<head>RHEIMS</head>
+<head>Rheims</head>
 
 <lg type="stanza">
 <l>GREAT Lord of Rapine, on this fane you trod</l>
@@ -1203,7 +1203,7 @@ SIR JAMES CRICHTON-BROWNE</head>
 <pb n="THE FIGHTING FIVE"/>
 
 <div xml:id="watson033" type="poem" n="33">
-<head>THE FIGHTING FIVE</head>
+<head>The Fighting Five</head>
 
 <lg type="stanza">
 <l>WHERE the waves are as chargers that curvet and prance,</l>
@@ -1246,7 +1246,7 @@ SIR JAMES CRICHTON-BROWNE</head>
 <pb n="A PLACE IN THE SUN 67"/>
 
 <div xml:id="watson034" type="poem" n="34">
-<head>"A PLACE IN THE SUN"</head>
+<head>"A Place in the Sun"</head>
 
 <p>[<hi rend="italic">Mr. Frederic Harrison has made the suggestion
 that Devil's Island would be an appropriate residence for the German
@@ -1278,7 +1278,7 @@ Emperor after the war</hi>.]</p>
 <pb n="68 THE FIELDS OF THE FUTURE"/>
 
 <div xml:id="watson035" type="poem" n="35">
-<head>THE FIELDS OF THE FUTURE</head>
+<head>The Fields of the Future</head>
 
 <lg type="stanza">
 <l>'THOUGH gone the ancient gear of War--though men</l>
@@ -1299,7 +1299,7 @@ Emperor after the war</hi>.]</p>
 
 <div xml:id="watson036" type="poem" n="36">
 
-<head>WHO WAS THE AGGRESSOR?</head>
+<head>Who Was Aggressor?</head>
 
 <lg type="stanza">
 <l>IF two men fell to fighting, of whom one</l>
@@ -1315,7 +1315,7 @@ Emperor after the war</hi>.]</p>
 <pb n="70 A FALSE PROPHET"/>
 
 <div xml:id="watson037" type="poem" n="37">
-<head>A FALSE PROPHET</head>
+<head>A False Prophet</head>
 
 <lg type="stanza">
 <l>HE grudged the gold that sparingly we spent</l>
@@ -1342,7 +1342,7 @@ Emperor after the war</hi>.]</p>
 <pb n="DESOLATION 71"/>
 
 <div xml:id="watson038" type="poem" n="38">
-<head>DESOLATION</head>
+<head>Desolation</head>
 
 <lg type="stanza">
 <l>OUT of the gutters and slums of Hell--</l>
@@ -1417,7 +1417,7 @@ Emperor after the war</hi>.]</p>
 <pb n="74 THE HALF-MAN"/>
 
 <div xml:id="watson039" type="poem" n="39">
-<head>THE HALF-MAN</head>
+<head>The Half-Man</head>
 
 <lg type="stanza">
 <l>SPARING not age, sparing not youth,</l>
@@ -1438,7 +1438,7 @@ Emperor after the war</hi>.]</p>
 <pb n="KULTUR: A DIALOGUE 75"/>
 
 <div xml:id="watson040" type="poem" n="40">
-<head>KULTUR: A DIALOGUE</head>
+<head>Kultur: a Dialogue</head>
 
 <l><hi rend="italic">Staff Officer</hi>.</l>
 <l>Highness, yon babe his popgun fired.</l>
@@ -1452,7 +1452,7 @@ Emperor after the war</hi>.]</p>
 <pb n="76 AN EARNEST PETITION"/>
 
 <div xml:id="watson041" type="poem" n="41">
-<head> AN EARNEST PETITION</head>
+<head> An Earnest Petition</head>
 
 <lg type="stanza">
 <l>FREE Trade--let sager wits than mine debate</l>
@@ -1473,7 +1473,7 @@ Emperor after the war</hi>.]</p>
 <pb n="NURSE CAVELL 77"/>
 
 <div xml:id="watson042" type="poem" n="42">
-<head>NURSE CAVELL</head>
+<head>Nurse Cavell</head>
 
 <lg type="stanza">
 <l>WHEN that most false evangel ever yet</l>
@@ -1493,7 +1493,7 @@ Emperor after the war</hi>.]</p>
 <pb n="THE YEAR'S RETROSPECT 78"/>
 
 <div xml:id="watson043" type="poem" n="43">
-<head>THE YEAR'S RETROSPECT</head>
+<head>The Year's Retrospect</head>
 
 <lg type="stanza">
 <l>WHAT was the lark to the zenith upspringing for?</l>
@@ -1530,7 +1530,7 @@ Emperor after the war</hi>.]</p>
 <pb n="THE STARVED LION 79"/>
 
 <div xml:id="watson044" type="poem" n="44">
-<head>THE STARVED LION</head>
+<head>The Starved Lion</head>
 
 <lg type="stanza">
 <l>WHEREFORE with barking mouths abuse</l>
@@ -1562,7 +1562,7 @@ Emperor after the war</hi>.]</p>
 
 <div xml:id="watson045" type="poem" n="45">
 
-<head>DUTY</head>
+<head>Duty</head>
 
 <lg type="stanza">
 <l>GIVE gladly, you rich--'tis no more than you owe--</l>
@@ -1575,7 +1575,7 @@ Emperor after the war</hi>.]</p>
 <pb n="DUTY 81"/>
 
 <div xml:id="watson046" type="poem" n="46">
-<head>CERES AND BELLONA</head>
+<head>Ceres and Bellona</head>
 
 <lg type="stanza">
 <l>THE cornfield to the battlefield</l>
@@ -1609,9 +1609,9 @@ Emperor after the war</hi>.]</p>
 <pb n="82 THE YELLOW PANSY"/>
 
 <div xml:id="watson047" type="poem" n="47">
-<head>THE YELLOW PANSY</head>
+<head>The Yellow Pansy</Head>
 
-<epigraph><cit><q><l>("Pax est tranquilla libertas.--</l></q><bibl>CICERO)</bibl></cit></epigraph>
+<Epigraph><Cit><q><l>("Pax est tranquilla libertas.--</l></q><bibl>CICERO)</bibl></cit></epigraph>
 
 
 <epigraph><cit><q><l>
@@ -1635,7 +1635,7 @@ Emperor after the war</hi>.]</p>
 <pb n="THE KAISER'S DIRGE 83"/>
 
 <div xml:id="watson048" type="poem" n="48">
-<head>THE KAISER'S DIRGE</head>
+<head>The Kaiser's Dirge</head>
 
 <p><hi rend="italic">Verses for the obsequies of the Emperor Wilhelm
 II</hi></p>
@@ -1827,10 +1827,10 @@ II</hi></p>
 </div>
 <div xml:id="watson0049">
 
-<head>RECRUITING VERSE</head>
+<head>Recruiting Verse</head>
 
 <div xml:id="watson049" type="poem" n="49">
-<head>SONS OF BRITAIN</head>
+<head>Sons of Britain</head>
 
 <lg type="stanza">
 <l>SONS of her who keeps her faith unbroken,</l>
@@ -1882,7 +1882,7 @@ II</hi></p>
 <pb n="KINDRED 91"/>
 
 <div xml:id="watson050" type="poem" n="50">
-<head>KINDRED</head>
+<head>Kindred</head>
 
 <lg type="stanza">
 <l>COME Australia, come New Zealand--</l>
@@ -1925,7 +1925,7 @@ II</hi></p>
 <pb n="AWAKE 93"/>
 
 <div xml:id="watson051" type="poem" n="51">
-<head>AWAKE!</head>
+<head>Awake!</head>
 
 <lg type="stanza">
 <l>DEATH hunts for us beneath the seas,</l>
@@ -1970,7 +1970,7 @@ II</hi></p>
 <pb n="OUR MEN 95"/>
 
 <div xml:id="watson052" type="poem" n="52">
-<head>OUR MEN</head>
+<head>Our Men</head>
 
 <lg type="stanza">
 <l>OUR men, they are our stronghold,</l>

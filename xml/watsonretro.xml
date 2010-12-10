@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="watsonretro">
 <teiHeader>
       <fileDesc>
@@ -101,12 +101,12 @@
 <body>
 <div xml:id="watsonretro01" type="anthology" n="The Volunteer And Other Poems">
    <docAuthor n="Watson, William">William Watson</docAuthor>
-   <head>Retrogression And Other Poems</head>
+   <head>Retrogression and Other Poems</head>
    
    <bibl>New York: John Lane Company</bibl>
 
 <div type="note" xml:id="watsonretro02">
-<head rend="center">NOTE</head>
+<head rend="center">Note</head>
 <p>The contents of this volume now make their appearance for the first
 time, with the exception of six short pieces. Of these, two have been
 published in the Nation, two in the Evening News, one in Nature, one
@@ -118,7 +118,7 @@ referred to.
 
 <div xml:id="watsonretro001" type="poem">
 <pb n="13"/>
-<head rend="center">RETROGRESSION</head>
+<head rend="center">Retrogression</head>
 <lg>
 <l>Our daughters flower in vernal grace;</l>
 <l>In strength our striplings wax apace;</l>
@@ -273,7 +273,7 @@ referred to.
 
 <div xml:id="watsonretro003" type="poem">
 <pb n="21"/>
-<head rend="center">THE SEXES OF SONG</head>
+<head rend="center">The Sexes of SONG</head>
 <lg type="stanza">
 <l>FIRST in the empire of the Muse</l>
 <l>Are the broad athletes, the all-male,</l>
@@ -291,7 +291,7 @@ referred to.
 
 <div xml:id="watsonretro004" type="poem">
 <pb n="22"/>
-<head rend="center">THE HUSBANDMAN OF HEAVEN
+<head rend="center">The Husbandman of Heaven
 <lb/>[Lines written near the burial-place of Burns]
 </head>
 <lg type="stanza">
@@ -331,7 +331,7 @@ referred to.
 
 <div xml:id="watsonretro005" type="poem">
 <pb n="24"/>
-<head rend="center">SHAKESPEARE</head>
+<head rend="center">Shakespeare</head>
 <lg type="stanza">
 <l>O LET me leave the plains behind,</l>
 <l>And let me leave the vales below!</l>
@@ -356,7 +356,7 @@ referred to.
 
 <div xml:id="watsonretro006" type="poem">
 <pb n="25"/>
-<head rend="center">TRADITION IN ART AND LETTERS</head>
+<head rend="center">Tradition in Art and Letters</head>
 <lg>
 <l>SHE guards, not binds, coerces not, but</l>
 <l>shields,</l>
@@ -383,7 +383,7 @@ referred to.
 
 <div xml:id="watsonretro007" type="poem">
 <pb n="26"/>
-<head rend="center">NATURE'S WAY</head>
+<head rend="center">Nature's Way</head>
 <lg type="stanza">
 <l>"FAULTILY faultless" may be ill—</l>
 <l>"Carefully careless" is worse still.</l>
@@ -442,7 +442,7 @@ referred to.
 
 <div xml:id="watsonretro008" type="poem">
 <pb n="29"/>
-<head rend="center">ON A CAROLINE POET</head>
+<head rend="center">On a Caroline Poet</head>
 <lg type="stanza">
 <l>THIS lord of a romantic wit</l>
 <l>Was subtle without knowing it;</l>
@@ -460,7 +460,7 @@ referred to.
 
 <div xml:id="watsonretro009" type="poem">
 <pb n="30"/>
-<head rend="center">ART'S RIDDLE</head>
+<head rend="center">Art's Riddle</head>
 <lg type="stanza">
 <l>Go to, I also would her skein unravel.</l>
 <l>Art is not Nature warped in man's control.</l>
@@ -478,7 +478,7 @@ referred to.
 
 <div xml:id="watsonretro010" type="poem">
 <pb n="31"/>
-<head rend="center">TO A STRENUOUS CRITIC</head>
+<head rend="center">To a Strenuous Critic</head>
 <lg type="stanza">
 <l>You scorn as idle—you who praise</l>
 <l>Each posturing hero of the herd—</l>
@@ -504,7 +504,7 @@ referred to.
 
 <div xml:id="watsonretro0010" type="poem">
 <pb n="32"/>
-<head rend="center">TO—</head>
+<head rend="center">To—</head>
 <lg type="stanza">
 <l>AT first I almost thought that your fine gift.</l>
 <l>Your noble genius for depreciation,</l>
@@ -525,7 +525,7 @@ referred to.
 
 <div xml:id="watsonretro011" type="poem">
 <pb n="33"/>
-<head rend="center">TO A LITERARY CLERIC</head>
+<head rend="center">To a Literary Cleric</head>
 <lg type="stanza">
 <l>I WOULD not have you scorn archdeaconships,</l>
 <l>Or comfortable deaneries refuse;</l>
@@ -545,7 +545,7 @@ referred to.
 
 <div xml:id="watsonretro012" type="poem">
 <pb n="34"/>
-<head rend="center">THE BALLAD OF THE BOOTMAKER
+<head rend="center">The Ballad of the Bootmaker
 <lb/>[A Fable for Poets]
 </head>
 <lg type="stanza">
@@ -653,7 +653,7 @@ referred to.
 
 <div xml:id="watsonretro0012" type="poem">
 <pb n="38"/>
-<head rend="center">THE GIANTS AND THE ELVES</head>
+<head rend="center">The Giants and the Elves</head>
 <lg type="stanza">
 <l>It is enough to make</l>
 <l>Laughter, or tears, gush from the stone.</l>
@@ -675,7 +675,7 @@ referred to.
 
 <div xml:id="watsonretro013" type="poem">
 <pb n="39"/>
-<head rend="center">THE YAPPING CUR</head>
+<head rend="center">The Yapping Cur</head>
 <lg type="stanza">
 <l>I WAS walking in the sun, my day's work</l>
 <l>done.</l>
@@ -731,7 +731,7 @@ referred to.
 
 <div xml:id="watsonretro014" type="poem">
 <pb n="42"/>
-<head rend="center">THE SURPRISE</head>
+<head rend="center">The Surprise</head>
 <lg type="stanza">
 <l>THEY thought they had left him lying well-</l>
 <l>nigh dead,</l>
@@ -752,7 +752,7 @@ referred to.
 
 <div xml:id="watsonretro015" type="poem">
 <pb n="43"/>
-<head rend="center">ON A TOO PROLIFIC ESSAYIST</head>
+<head rend="center">On a Too Prolific Essayist</head>
 
 <lg type="stanza">
 <l>THE cruellest torture that a man can know,</l>
@@ -771,7 +771,7 @@ referred to.
 
 <div xml:id="watsonretro016" type="poem">
 <pb n="44"/>
-<head rend="center">STAGGERALL</head>
+<head rend="center">Staggerall</head>
 <lg type="stanza">
 <l>"WHAT, a new Milton? But I've seen</l>
 <l>So many sail the æther keen.</l>
@@ -796,7 +796,7 @@ referred to.
 
 <div xml:id="watsonretro017" type="poem">
 <pb n="45"/>
-<head rend="center">STAGGERALL</head>
+<head rend="center">Staggerall</head>
 <lg type="stanza">
 <l>LOOK not too coldly or too proudly down</l>
 <l>On this poor bondslave to a haughty Noun!</l>
@@ -810,7 +810,7 @@ referred to.
 
 <div xml:id="watsonretro018" type="poem">
 <pb n="46"/>
-<head rend="center">WHO CAN TELL?</head>
+<head rend="center">Who Can Tell?</head>
 <lg type="stanza">
 <l>THE Celtic Twilight? Yes,</l>
 <l>Follow the beckon of its fairy moon!</l>
@@ -828,7 +828,7 @@ referred to.
 
 <div xml:id="watsonretro019" type="poem">
 <pb n="47"/>
-<head rend="center">MASTERY</head>
+<head rend="center">Mastery</head>
 <lg type="stanza">
 <l>WITH little learning—hardly more</l>
 <l>Than bids me envy others' lore—</l>
@@ -884,7 +884,7 @@ referred to.
 
 <div xml:id="watsonretro020" type="poem">
 <pb n="50"/>
-<head rend="center">THE DIFFERENCE</head>
+<head rend="center">The Difference</head>
 <lg type="stanza">
 <l>GREECE, in those feats and contests hard,</l>
 <l>Sung by the billowy Theban bard,</l>
@@ -909,7 +909,7 @@ referred to.
 
 <div xml:id="watsonretro021" type="poem">
 <pb n="51"/>
-<head rend="center">THOMAS HOOD</head>
+<head rend="center">Thomas Hood</head>
 <lg type="stanza">
 <l>No courtier this, and nought to courts he</l>
 <l>owed,</l>
@@ -941,7 +941,7 @@ referred to.
 
 <div xml:id="watsonretro022" type="poem">
 <pb n="53"/>
-<head rend="center">CONFIDENCE</head>
+<head rend="center">Confidence</head>
 <lg type="stanza">
 <l>WHEN criticasters of a day</l>
 <l>Seem to have sneered me quite away;</l>
@@ -981,7 +981,7 @@ referred to.
 
 <div xml:id="watsonretro023" type="poem">
 <pb n="55 ON MILTON'S USE OF THE SONNET"/>
-<head rend="center">THOMAS HOOD</head>
+<head rend="center">Thomas Hood</head>
 <lg type="stanza">
 <l>A hundred Poets bend proud necks to bear</l>
 <l>This yoke, this bondage. He alone could</l>
@@ -993,7 +993,7 @@ referred to.
 
 <div xml:id="watsonretro024" type="poem">
 <pb n="56"/>
-<head rend="center">A WISE PRECEPT</head>
+<head rend="center">A Wise Precept</head>
 <lg type="stanza">
 <l>HOW oft to-day his words appear forgot,</l>
 <l>Who bade us, in rich tones, of far vibration,</l>
@@ -1004,7 +1004,7 @@ referred to.
 
 <div xml:id="watsonretro025" type="poem">
 <pb n="57"/>
-<head rend="center">OVER-VIGILANCE</head>
+<head rend="center">Over-Vigilance</head>
 <lg type="stanza">
 <l>YOU shun the style that makes one blink</l>
 <l>With its too scintillating ray?</l>
@@ -1015,7 +1015,7 @@ referred to.
 
 <div xml:id="watsonretro026" type="poem">
 <pb n="58"/>
-<head rend="center">TO A SKILLED VERSEMAKER</head>
+<head rend="center">To a Skilled Versemaker</head>
 <lg type="stanza">
 <l>IN rhyme you tell your tale, at mickle cost!</l>
 <l>With better thrift, in prose, the task were</l>
@@ -1027,7 +1027,7 @@ referred to.
 
 <div xml:id="watsonretro027" type="poem">
 <pb n="59"/>
-<head rend="center">ON A PEOPLE'S POET</head>
+<head rend="center">On a People's Poet</head>
 <lg type="stanza">
 <l>THREADBARE his songs seem now, to lettered</l>
 <l>ken:</l>
@@ -1038,7 +1038,7 @@ referred to.
 
 <div xml:id="watsonretro028" type="poem">
 <pb n="60"/>
-<head rend="center">ON A DECEASED AUTHOR</head>
+<head rend="center">On a Deceased Author</head>
 <lg type="stanza">
 <l>The smell o' th' lamp's o'er all his toil?</l>
 <l>Yes—and such damnably bad oil.</l>
@@ -1047,7 +1047,7 @@ referred to.
 
 <div xml:id="watsonretro029" type="poem">
 <pb n="61"/>
-<head rend="center">LOVES AND HATES</head>
+<head rend="center">Loves and Hates</head>
 <lg type="stanza">
 <l>I LOVE the poet of cloudless ray;</l>
 <l>Love, too, the folded, golden vapour;</l>
@@ -1058,7 +1058,7 @@ referred to.
 
 <div xml:id="watsonretro030" type="poem">
 <pb n="62"/>
-<head rend="center">THE WIZARD'S WAND</head>
+<head rend="center">The Wizard's Wand</head>
 <lg type="stanza">
 <l>SIR Bigwig Windbag, dull, diffuse, and drear,</l>
 <l>Proses on poets from his rostrum high.</l>
@@ -1069,7 +1069,7 @@ referred to.
 
 <div xml:id="watsonretro031" type="poem">
 <pb n="63"/>
-<head rend="center">TO A VINTNER OF PARNASSUS</head>
+<head rend="center">To a Vintner of Parnassus</head>
 <lg type="stanza">
 <l>WINE, to be worth the name, must needs have</l>
 <l>one</l>
@@ -1083,7 +1083,7 @@ referred to.
 
 <div xml:id="watsonretro032" type="poem">
 <pb n="64"/>
-<head rend="center">COKE UPON LITTLETON</head>
+<head rend="center">Coke Upon Littleton</head>
 <p>[Mr.  T. W.  Littleton  Hay wrote to  the<hi rend="italic">Saturday
 Review</hi> as follows: "Many of uswould be glad if you would raise
 your powerful voice to stop William Watson."]
@@ -1102,7 +1102,7 @@ your powerful voice to stop William Watson."]
 
 <div xml:id="watsonretro033" type="poem">
 <pb n="67"/>
-<head rend="center">THE ETERNAL SEARCH</head>
+<head rend="center">The Eternal Search</head>
 <lg type="stanza">
 <l>MY little maiden two years old, just able</l>
 <l>To tower full half a head above the table,</l>
@@ -1120,7 +1120,7 @@ your powerful voice to stop William Watson."]
 
 <div xml:id="watsonretro034" type="poem">
 <pb n="68"/>
-<head rend="center">RAPTURE</head>
+<head rend="center">Rapture</head>
 <lg type="stanza">
 <l>OUT of the east wind, making gray</l>
 <l>The face of the dejected day,</l>
@@ -1160,7 +1160,7 @@ your powerful voice to stop William Watson."]
 
 <div xml:id="watsonretro035" type="poem">
 <pb n="70"/>
-<head rend="center">TO A VIOLONCELLO</head>
+<head rend="center">To a Violoncello</head>
 <lg type="stanza">
 <l>WELL, O 'Cello, love I all thy mellow</l>
 <l>Deeps of golden sound!</l>
@@ -1177,7 +1177,7 @@ your powerful voice to stop William Watson."]
 
 <div xml:id="watsonretro036" type="poem">
 <pb n="71"/>
-<head rend="center">HER THIRD BIRTHDAY</head>
+<head rend="center">Her Third Birthday</head>
 <lg type="stanza">
 <l>MY tiny lady, can it</l>
 <l>Be true that you and I,</l>
@@ -1217,7 +1217,7 @@ your powerful voice to stop William Watson."]
 
 <div xml:id="watsonretro037" type="poem">
 <pb n="73"/>
-<head rend="center">DISCLOSURE</head>
+<head rend="center">Disclosure</head>
 <lg type="stanza">
 <l>We dwelt by western shores, and there,</l>
 <l>Watching a hill that watched the wave,</l>
@@ -1249,7 +1249,7 @@ your powerful voice to stop William Watson."]
 
 <div xml:id="watsonretro038" type="poem">
 <pb n="75"/>
-<head rend="center">EDENHUNGER</head>
+<head rend="center">Edenhunger</head>
 <lg type="stanza">
 <l>O THAT a nest, my mate! were once more ours,</l>
 <l>Where we, by vain and barren change un-</l>
@@ -1281,7 +1281,7 @@ your powerful voice to stop William Watson."]
 
 <div xml:id="watsonretro039" type="poem">
 <pb n="77"/>
-<head rend="center">THE BETTER CHOICE</head>
+<head rend="center">The Better Choice</head>
 <lg type="stanza">
 <l>The wintry sun is a miser,</l>
 <l>Whose joy is to hoard and hold,</l>
@@ -1299,7 +1299,7 @@ your powerful voice to stop William Watson."]
 
 <div xml:id="watsonretro040" type="poem">
 <pb n="77"/>
-<head rend="center">TO MY ELDEST CHILD</head>
+<head rend="center">To My Eldest Child</Head>
 <lg type="stanza">
 <l>My little firstborn daughter sweet—</l>
 <l>My child, yet half of alien race—</l>
@@ -1371,7 +1371,7 @@ your powerful voice to stop William Watson."]
 
 <div xml:id="watsonretro041" type="poem">
 <pb n="81"/>
-<head rend="center">TO THE HON. STEPHEN COLERIDGE
+<head rend="center">To the Hon. Stephen Coleridge
 <lb/>[On his Labours in Mitigation of Animal Suffering]</head>
 
 <lg type="stanza">
@@ -1423,7 +1423,7 @@ your powerful voice to stop William Watson."]
 
 <div xml:id="watsonretro042" type="poem">
 <pb n="83"/>
-<head rend="center">AN INSOLUBLE PROBLEM</head>
+<head rend="center">An Insoluble Problem</head>
 
 <lg type="stanza">
 <l>RHONA, as yet a tiny mite</l>
@@ -1442,7 +1442,7 @@ your powerful voice to stop William Watson."]
 
 <div xml:id="watsonretro043" type="poem">
 <pb n="84"/>
-<head rend="center">ON A LITTLE GIFT TO A LITTLE CHILD</head>
+<head rend="center">On a Little Gift to a Little Child</head>
 
 <lg type="stanza">
 <l>BROUGHT hither from the city of the Rood,</l>
@@ -1455,7 +1455,7 @@ your powerful voice to stop William Watson."]
 
 <div xml:id="watsonretro044" type="poem">
 <pb n="85"/>
-<head rend="center">THE PRODIGY
+<head rend="center">The Prodigy
 <lb/>1915</head>
 
 <lg type="stanza">
@@ -1487,7 +1487,7 @@ your powerful voice to stop William Watson."]
 
 <div xml:id="watsonretro045" type="poem">
 <pb n="87"/>
-<head rend="center">UNINHABITED</head>
+<head rend="center">Uninhabited</head>
 
 <lg type="stanza">
 <l>BEHOLD a sapless husk, in name a man,</l>
@@ -1511,7 +1511,7 @@ your powerful voice to stop William Watson."]
 
 <div xml:id="watsonretro046" type="poem">
 <pb n="88"/>
-<head rend="center">VALEDICTORY</head>
+<head rend="center">Valedictory</head>
 <lg type="stanza">
 <l>ADIEU, gray hamlet—hall and cot.</l>
 <l>And ivied steeple!</l>
@@ -1522,7 +1522,7 @@ your powerful voice to stop William Watson."]
 
 <div xml:id="watsonretro047" type="poem">
 <pb n="89"/>
-<head rend="center">TO A SUCCESSFUL MAN</head>
+<head rend="center">To a Successful Man</head>
 <lg type="stanza">
 <l>YES, titles, and emoluments, and place,</l>
 <l>All tell the world that you have won life's race.</l>
@@ -1533,7 +1533,7 @@ your powerful voice to stop William Watson."]
 
 <div xml:id="watsonretro048" type="poem">
 <pb n="90"/>
-<head rend="center">WHAT SCIENCE SAYS TO TRUTH</head>
+<head rend="center">What Science Says to Truth</head>
 <lg type="stanza">
 <l>AS is the mainland to the sea,</l>
 <l>Thou art to me;</l>
@@ -1551,7 +1551,7 @@ your powerful voice to stop William Watson."]
 
 <div xml:id="watsonretro049" type="poem">
 <pb n="91"/>
-<head rend="center">THE PEER'S PROGRESS
+<head rend="center">The Peer's Progress
 <lb/>[Verses on reading that Lord Aberdeen was about to be
 <lb/>made Marquess of Aberdeen and Tara.]</head>
 <lg type="stanza">
@@ -1634,7 +1634,7 @@ the one at first contemplated
 
 <div xml:id="watsonretro050" type="poem">
 <pb n="94"/>
-<head rend="center">A FAMILIAR EPISTLE
+<head rend="center">A Familiar Epistle
 <lb/>To Dr. Oliver Gogarty of Dublin
 <lb/>(Written in Scotland at Yuletide)</head>
 

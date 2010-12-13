@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>         
          <titleStmt>
-            <title>More Songs By the Fighting Men: An Electronic Edition</title>
+            <title>More Songs By the Fighting Men: an Electronic Edition</title>
             <editor>
                <name>
                   <choice>
@@ -124,10 +124,10 @@
    <text>
       <front>
          <div type="advert" xml:id="moresongs1001">
-            <head>the remarkable volume that<lb/>
-gave a new vogue to poetry</head>
+            <head>The Remarkable Volume That<lb/>
+Gave a New Vogue to Poetry</head>
 
-            <head>SOLDIER  POETS:</head>
+            <head>Soldier  Poets:</head>
 
             <head>Songs of the Fighting Men.</head>
 
@@ -2971,7 +2971,7 @@ were written in 1915 while he was a boy at Marlborough.</note>
 
             <div xml:id="moresongs2094" type="poem">
                <pb n="89"/>
-               <head>The Downs, looking from Savernake Forest</head>
+               <head>The Downs, Looking from Savernake Forest</head>
 
                <lg type="stanza">
                   <l>WITH eager steps I climbed the hill</l>
@@ -4570,7 +4570,7 @@ West Yorks</sic>
 
 
                <lg type="stanza">
-                  <head rend="center">ENVOY</head>
+                  <head rend="center">Envoy</head>
                   <l>Blessed be God above</l>
                   <l>For His sweet care.</l>
                   <l>Who heard the prayers of those whom most I love</l>

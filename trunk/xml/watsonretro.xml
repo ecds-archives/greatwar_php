@@ -1,4 +1,4 @@
-<<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="watsonretro">
 <teiHeader>
       <fileDesc>
@@ -100,7 +100,14 @@
 <text>
 <body>
 <div xml:id="watsonretro01" type="anthology" n="The Volunteer And Other Poems">
-   <docAuthor n="Watson, William">William Watson</docAuthor>
+   <docAuthor>
+     <name>
+       <choice>
+	 <reg>Watson, William</reg>
+	 <sic>William Watson</sic>
+       </choice>
+     </name>
+   </docAuthor>
    <head>Retrogression and Other Poems</head>
    
    <bibl>New York: John Lane Company</bibl>
@@ -1299,7 +1306,7 @@ your powerful voice to stop William Watson."]
 
 <div xml:id="watsonretro040" type="poem">
 <pb n="77"/>
-<head rend="center">To My Eldest Child</Head>
+<head rend="center">To My Eldest Child</head>
 <lg type="stanza">
 <l>My little firstborn daughter sweet—</l>
 <l>My child, yet half of alien race—</l>

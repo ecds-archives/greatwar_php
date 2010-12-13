@@ -126,15 +126,6 @@
          <pb n="9"/>
          <div xml:id="herb001" type="chapter" n="Myrrh and Amaranth">
             <head>Myrrh and Amaranth</head>
-            <docAuthor>
-               <name>
-                  <choice>
-                     <reg/>
-                     <sic>
-Tynan, KatharineKatharine Tynan</sic>
-                  </choice>
-               </name>
-            </docAuthor>
             <pb n="10"/>
 
 
@@ -907,14 +898,7 @@ Tynan, KatharineKatharine Tynan</sic>
          <pb n="41"/>
          <div xml:id="herb018" type="chapter" n="Love-Lies-Bleeding with Wound-Wort">
             <head>Love-Lies-Bleeding with Wound-Wort</head>
-            <docAuthor>
-               <name>
-                  <choice>
-                     <reg/>
-                     <sic>Tynan, KatharineKatharine Tynan</sic>
-                  </choice>
-               </name>
-            </docAuthor>
+            
             <pb n="42"/>
 
 
@@ -1717,14 +1701,7 @@ Tynan, KatharineKatharine Tynan</sic>
          <pb n="75"/>
          <div xml:id="herb035" type="chapter" n="Pansies">
             <head>Pansies</head>
-            <docAuthor>
-               <name>
-                  <choice>
-                     <reg/>
-                     <sic>Tynan, KatharineKatharine Tynan</sic>
-                  </choice>
-               </name>
-            </docAuthor>
+            
             <pb n="76"/>
 
 
@@ -2519,14 +2496,7 @@ Tynan, KatharineKatharine Tynan</sic>
          <pb n="107"/>
          <div xml:id="herb052" type="chapter" n="Ladders to Heaven">
             <head>Ladders to Heaven</head>
-            <docAuthor>
-               <name>
-                  <choice>
-                     <reg>Tynan, Katharine</reg>
-                     <sic>Katharine Tynan</sic>
-                  </choice>
-               </name>
-            </docAuthor>
+           
             <pb n="108"/>
 
 

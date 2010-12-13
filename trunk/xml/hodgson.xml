@@ -2,7 +2,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hodgson">
    <teiHeader><fileDesc>
          <titleStmt>
-            <title>POEMS, an electronic edition</title>
+            <title>Poems, an Electronic Edition</title>
             <author><name type="person"><choice><reg>Hodgson, Ralph, 1871-1962</reg><sic>Ralph Hodgson</sic></choice></name></author>
          </titleStmt>
 	 <publicationStmt><publisher>Lewis H. Beck Center for Electronic Collections

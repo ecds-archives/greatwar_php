@@ -2,7 +2,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="binns">
    <teiHeader><fileDesc>
          <titleStmt>
-            <title>NOVEMBER: Poems in War Time, an electronic edition</title>
+            <title>November: Poems in War Time, an Electronic Edition</title>
             <author>
 	      <name type="person">
 		<choice>
@@ -1277,7 +1277,7 @@ liberty.</l>
 </div>
 
 <div xml:id="binns116" type="section" n="2">
-<head type="sub">2.    OF HIS YOUTH</head>
+<head type="sub">2.    Of His Youth</head>
 
 
 <lg type="stanza">
@@ -2791,7 +2791,7 @@ couldn't learn to crawl</l>
 
 <div xml:id="binns016" type="play" n="16">
 <pb n="103"/>
-       <!-- <head>THE PRICE OF FREEDOM</head> -->
+       <!-- <head>The Price of Freedom</head> -->
 
 <!-- <div xml:id="binns0016"> -->
 <pb n="[104]"/>

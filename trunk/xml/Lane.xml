@@ -125,8 +125,8 @@
 
          <pb n="iii"/>
          <div xml:id="lane002" type="titlepage">
-            <head rend="center">SONGS &amp; SONNETS FOR ENGLAND IN WAR TIME</head>
-            <head rend="center">BEING A COLLECTION OF LYRICS BY VARIOUS AUTHORS INSPIRED BY THE GREAT WAR</head>
+            <head rend="center">Songs &amp; Sonnets for England in War Time</head>
+            <head rend="center">Being a Collection of Lyrics by Various Authors Inspired by the Great War</head>
 
             <div xml:id="lane003" type="epigraph">
                <q rend="center">
@@ -146,7 +146,7 @@
 
          <pb n="v"/>
          <div xml:id="lane004" type="chapter" n="Introduction">
-            <head rend="center">INTRODUCTION</head>
+            <head rend="center">Introduction</head>
 
             <p>
                <hi rend="smallcap">In</hi> the stress of a nation's peril some of its greatest songs are born. In the stress of a nation's peril the poet at last comes into his own again, and with clarion call he rouses the sleeping soul of the empire. Prophet he is, champion and consoler.</p>
@@ -172,7 +172,7 @@
 
          <pb n="vii"/>
          <div xml:id="lane005" type="chapter" n="Publisher's Note">
-            <head rend="center">PUBLISHER'S NOTE</head>
+            <head rend="center">Publisher's Note</head>
 
             <p>
                <hi rend="smallcap">Of</hi> our poets who have been inspired to write and publish separate volumes of war poems during the actual progress of a campaign, we can only recall one -- the late Sydney Dobell, whose "Sonnets on the War," and "England in Time of War," both dealt with the Crimea. Mr. William Watson's "The Purple East" was read and quoted the world over during the Armenian atrocities: indeed, "Abdul the Damned" has passed into the language. Although this famous sonnet sequence sprang out of events which could not be called a campaign in the accepted and legitimate sense of the word, yet it may be fairly argued that the Kaiser has surpassed the Turk in inflicting suffering on defenceless people.</p>
@@ -186,7 +186,7 @@
             <floatingText>
                <body>
                   <div xml:id="lane006" type="poem" n="Welcome to You, Gallant Britons">
-                     <head rend="center">WELCOME TO YOU, GALLANT BRITONS</head>
+                     <head rend="center">Welcome to You, Gallant Britons</head>
 
                      <lg type="stanza">
                         <l n="1">Welcome to you, brave friends,</l>
@@ -229,7 +229,7 @@
             <floatingText>
                <body>
                   <div xml:id="lane007" type="poem" n="A Partnership">
-                     <head rend="center">A PARTNERSHIP</head>
+                     <head rend="center">A Partnership</head>
 
                      <lg type="stanza">
                         <l n="1">
@@ -305,7 +305,7 @@
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">TO THE TROUBLER OF THE WORLD</head>
+               <head rend="center">To the Troubler of the World</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -340,8 +340,8 @@
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">TO BRITAIN</head>
-               <head rend="center">(BEFORE HER DECLARATION OF WAR)</head>
+               <head rend="center">To Britain</head>
+               <head rend="center">(Before Her Declaration of War)</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -372,7 +372,7 @@
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">ARMAGEDDON</head>
+               <head rend="center">Armageddon</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -407,7 +407,7 @@
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">A PRAYER FOR PEACE</head>
+               <head rend="center">A Prayer for Peace</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -445,10 +445,10 @@
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE SONG OF THE BRITONS</head>
+               <head rend="center">The Song of the Britons</head>
 
                <lg type="stanza">
-                  <head rend="center">THE DEAD</head>
+                  <head rend="center">The Dead</head>
                   <l n="1">
                      <hi rend="smallcap">Deep</hi> beneath the fallen years,</l>
                   <l>Slain by glittering foemen's spears,</l>
@@ -472,7 +472,7 @@
 
                <lg>
                   <pb n="5"/>
-                  <head rend="center">THE LIVING</head>
+                  <head rend="center">The Living</head>
                   <l>Lord God of Hosts, within Thy keeping hold</l>
                   <l>Our motherland! With mercies manifold</l>
                   <l>And gracious gifts divine point Thou the way</l>
@@ -502,7 +502,7 @@
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">WAR</head>
+               <head rend="center">War</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -545,7 +545,7 @@
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">HYMN AFTER BATTLE</head>
+               <head rend="center">Hymn After Battle</head>
                <note anchored="true">[The Kaiser has been thanking God for his successes; and whilst the Christian nations of Europe are engaged in murdering each other, the heathen, whom they have failed to convert, remain so ignorant of the gospel that they are still living together in peace.]</note>
 
                <lg type="stanza">
@@ -622,7 +622,7 @@
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">BRITANNIA</head>
+               <head rend="center">Britannia</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -674,7 +674,7 @@
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE ANSWER</head>
+               <head rend="center">The Answer</head>
                <note anchored="true">["...It would be a disgrace for us to make this bargain with
 Germany at the expense of France, a disgrace from which the good name
 of this country would never recover." -- <hi rend="smallcap">Sir
@@ -760,11 +760,11 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">TO "LITTLE" BELGIUM</head>
+               <head rend="center">To "Little" Belgium</head>
 
                <lg type="stanza">
                   <head rend="center">I</head>
-                  <head rend="center">"There was war in Heaven" (Rev. xii. 7)</head>
+                  <head rend="center">"There Was War in Heaven" (Rev. xii. 7)</head>
                   <l n="1">
                      <hi rend="smallcap">Surely</hi> 'twas hell, not heaven, where first was war,</l>
                   <l rend="indent4">Where first infernal passions woke and stirred --</l>
@@ -789,7 +789,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
                <lg>
                   <pb n="21"/>
                   <head rend="center">II</head>
-                  <head rend="center">"Give peace in our time, O Lord!" (Prayer Book)</head>
+                  <head rend="center">"Give Peace in Our Time, O Lord!" (Prayer Book)</head>
                   <l>So runs the ancient prayer, and I who hold</l>
                   <l rend="indent4">War to be bloody, damnable, abhorred,</l>
                   <l rend="indent4">Pray: "Not in our time, only, be it Lord,</l>
@@ -825,7 +825,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE TRIBUTE</head>
+               <head rend="center">The Tribute</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -879,7 +879,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">IN THE RED DAWN</head>
+               <head rend="center">In the Red Dawn</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -939,7 +939,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE WAR CRY</head>
+               <head rend="center">The War Cry</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -1029,7 +1029,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE HUSH</head>
+               <head rend="center">The Hush</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -1064,8 +1064,8 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">ALLITERATIVISM</head>
-               <head rend="center">(THE LATEST SCHOOL)</head>
+               <head rend="center">Alliterativism</head>
+               <head rend="center">(The Latest School)</head>
                <note anchored="true">[French airmen have been flying over Baden and Bavaria, violating Belgian neutrality. -- Stated, on German authority, in "Westminster Gazette."]</note>
 
                <lg type="stanza">
@@ -1121,7 +1121,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">TO THE AGGRESSOR</head>
+               <head rend="center">To the Aggressor</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -1157,8 +1157,8 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">EVENING PRAYER OF A PEOPLE</head>
-               <head rend="center">SUNDAY, AUGUST 9, 1914</head>
+               <head rend="center">Evening Prayer of a People</head>
+               <head rend="center">Sunday, August 9, 1914</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -1219,7 +1219,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE MAN FORSWORN</head>
+               <head rend="center">The Man Forsworn</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -1357,7 +1357,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">TO THE KING OF THE BELGIANS</head>
+               <head rend="center">To the King of the Belgians</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -1395,7 +1395,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE VINDICATION</head>
+               <head rend="center">The Vindication</head>
                <note anchored="true">[It is announced that all the Territorial battalions are already at full strength, and that Lord Kitchener's "second army" is now in course of formation.]</note>
 
                <lg type="stanza">
@@ -1486,7 +1486,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE SPIRIT OF ENGLAND</head>
+               <head rend="center">The Spirit of England</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -1561,7 +1561,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE NAVAL RESERVE</head>
+               <head rend="center">The Naval Reserve</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -1616,7 +1616,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">ICONOCLASTES</head>
+               <head rend="center">Iconoclastes</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -1818,7 +1818,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE CALL TO ARMS IN OUR STREET</head>
+               <head rend="center">The Call to Arms in Our Street</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -1882,7 +1882,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">TO THE CREW OF H.M.S. <hi rend="italic">BIRMINGHAM</hi>
+               <head rend="center">To the Crew Of H.M.S. <hi rend="italic">BIRMINGHAM</hi>
                </head>
 
                <lg type="stanza">
@@ -1938,7 +1938,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">GERMANIA</head>
+               <head rend="center">Germania</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -1993,7 +1993,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE CALL</head>
+               <head rend="center">The Call</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -2079,8 +2079,8 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">DIES IRAE</head>
-               <head rend="center">TO THE GERMAN KAISER</head>
+               <head rend="center">Dies Irae</head>
+               <head rend="center">To the German Kaiser</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -2170,7 +2170,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">TO WOMEN</head>
+               <head rend="center">To Women</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -2231,7 +2231,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">TOWARDS THE LIGHT</head>
+               <head rend="center">Towards the Light</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -2265,7 +2265,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">ROLL UP!</head>
+               <head rend="center">Roll Up!</head>
 
                <lg type="stanza">
                   <l n="1">"<hi rend="smallcap">Roll</hi> up the map of Europe!"</l>
@@ -2395,7 +2395,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">TO THE BRITISH ARMY</head>
+               <head rend="center">To the British Army</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -2448,7 +2448,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">REDEMPTION</head>
+               <head rend="center">Redemption</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -2483,7 +2483,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">A BATTLE-SONG</head>
+               <head rend="center">A Battle-Song</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -2559,7 +2559,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE SHIRKER</head>
+               <head rend="center">The Shirker</head>
                <note anchored="true">[Suggested by Mr. Robert Blatchford's article in <hi rend="italic">The Daily Mail</hi>.]</note>
 
                <lg type="stanza">
@@ -2593,7 +2593,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">GHOSTS AT BOULOGNE</head>
+               <head rend="center">Ghosts at Boulogne</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -2628,8 +2628,8 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">TO THE BELGIANS</head>
-               <head rend="center">FROM ENGLAND</head>
+               <head rend="center">To the Belgians</head>
+               <head rend="center">From England</head>
 
                <lg type="stanza">
                   <l n="1">O <hi rend="smallcap">men</hi> of mickle heart and little speech,</l>
@@ -2663,7 +2663,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">SONG OF THE SOLDIERS</head>
+               <head rend="center">Song of the Soldiers</head>
 
                <lg type="stanza">
                   <l n="1">
@@ -2732,7 +2732,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">A CAP TO FIT THE KAISER</head>
+               <head rend="center">A Cap to Fit the Kaiser</head>
                <q rend="italic">
                   <l>Impiger, iracundus, inexorabilis, acer,</l>
                   <l>Fura neget sibi nata, nihil non arroget armis.</l>
@@ -2766,7 +2766,7 @@ Edward Grey</hi> to <hi rend="smallcap">Sir E. Goschen</hi>.]</note>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">THE BATTLE OF THE BIGHT</head>
+               <head rend="center">The Battle of the Bight</head>
 
                <lg type="stanza">
                   <l n="1">

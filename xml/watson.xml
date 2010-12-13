@@ -485,8 +485,7 @@ editors of which are here thanked for permission to reprint them, not a few have
 
 <div xml:id="watson011" type="poem" n="11">
 
-<head>To America, Concerning<Lb/>
-England</head>
+<head>To America, Concerning England</head>
 
 <lg type="stanza">
 <l>ART thou her child, born in the proud midday</l>
@@ -672,8 +671,7 @@ England</head>
 <pb n="42 TO SIR JAMES"/>
 
 <div xml:id="watson019" type="poem" n="19">
-<head>To<Lb/>
-Sir James Crichton-Browne</head>
+<head>To Sir James Crichton-Browne</head>
 
 <lg type="stanza">
 <l>AROUND your northern home, where never cease</l>
@@ -1148,8 +1146,7 @@ Sir James Crichton-Browne</head>
 <pb n="62 THE CHARGE OF THE 9TH LANCERS"/>
 
 <div xml:id="watson032" type="poem" n="32">
-<head>The Charge of the<Lb/>
-9th Lancers</head>
+<head>The Charge of the 9th Lancers</head>
 
 <lg type="stanza">
 <l>MELINITE, lyddite, darkened heaven,</l>
@@ -1609,9 +1606,9 @@ Emperor after the war</hi>.]</p>
 <pb n="82 THE YELLOW PANSY"/>
 
 <div xml:id="watson047" type="poem" n="47">
-<head>The Yellow Pansy</Head>
+<head>The Yellow Pansy</head>
 
-<Epigraph><Cit><q><l>("Pax est tranquilla libertas.--</l></q><bibl>CICERO)</bibl></cit></epigraph>
+<epigraph><cit><q><l>("Pax est tranquilla libertas.--</l></q><bibl>CICERO)</bibl></cit></epigraph>
 
 
 <epigraph><cit><q><l>

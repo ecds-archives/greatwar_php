@@ -122,7 +122,7 @@
    </teiHeader>
    <text>
       <body>
-         <div xml:id="Eaton001" type="Anthology" n="Great War Poems of the World War">
+         <div xml:id="Eaton001" type="anthology" n="Great War Poems of the World War">
             <head rend="center">Great Poems of the World War</head>
             <div xml:id="Eaton002" type="poem" n="Before Action">
                <docAuthor>
@@ -486,7 +486,7 @@ From Bert Leston Taylor's column, "A Line o' Type or Two,"<lb/>
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">French in the Trenches</Head>
+               <head rend="center">French in the Trenches</head>
                <byline rend="center">
                   <docAuthor>
                      <name>
@@ -1210,10 +1210,8 @@ they went</l>
                   <docAuthor>
                      <name>
                         <choice>
-
-                        <choice>
                            <reg/>
-                           <sic>ANONYMOUS</sic>
+                           <sic>Anonymous</sic>
                         </choice>
                      </name>
                   </docAuthor>
@@ -1724,8 +1722,14 @@ Company, Cincinnati, Publishers of "With the Colors," by Everard Jack Appleton. 
 
             <div xml:id="Eaton032" type="poem" n="Nazareth">
                <head rend="center">Nazareth</head>
-               <byline rend="center"> "L"<lb/>
-IN THE CHICAGO TRIBUNE</byline>
+               <byline rend="center">
+		 <docAuthor>
+		   <name>
+		     <choice>
+		       <sic> "L"</sic>
+		     </choice>
+		   </name>
+		  </docAuthor><lb/>IN THE CHICAGO TRIBUNE</byline>
 
                <note place="inline">On the capture of the city by the British under General Allenby September 21, 1918.</note>
                <lg>
@@ -2188,7 +2192,7 @@ New York.  Special permission to reproduce in this book.</bibl>
                </docAuthor>
                <head rend="center">Christ in Flanders</head>
                <byline rend="center">L. W.<lb/>
-                  <hi rend="smallcap"> IN THE</hi> S<hi> rend="smallcap"PECTATOR</hi>
+                  <hi rend="smallcap"> In the Spectator</hi>
                </byline>
                <lg>
                   <l n="1">WE had forgotten You, or very nearly--</l>
@@ -4625,11 +4629,12 @@ then unknown to me, "Te Deumn" came from the throats of thousands of thousands.<
                   <p>Alan Seeger was a New York boy. He was born in that city June 22, 1888. In his short life he had written some twenty poems. This was his last. It was written in camp, shortly before his call came:</p>
                </div>
                <div xml:id="Eaton081b" type="poem" n="I Have A Rendezvous With Death">
-                  <head rend="center">I Have a Rendezvous with Death<ref target="#Eaton081n1">*</ref>
+
+                  <head rend="center">I Have a Rendezvous with Death<ref target="#Eaton081n1">*</ref></head>
                      <note xml:id="Eaton081n1" place="foot" n="*">From
 "Poems," by Alan Seeger,  Copyright, 1916, by Charles Scribner's
 Son's, Publishers, New York.  Permission to reproduce in this book.</note>
-                  </head>
+                  
                   <ab>
                      <ptr target="#Eaton081a"/>
                   </ab>
@@ -4726,12 +4731,12 @@ the Dardanelles expe-<pb n="102"/>dition, April 23 , 1915.  A few days before, h
                         </choice>
                      </name>
                   </docAuthor>
-                  <head rend="center">The Soldier<ref target="#Eaton083n1">*</ref>
+                  <head rend="center">The Soldier<ref target="#Eaton083n1">*</ref></head>
                      <note xml:id="Eaton083n1" place="foot" n="*"> "The Soldier," and "Not With Vain
 Tears" are from "The Collected Poems of Rupert Brooke," published and
 copyright, 1915, by John Lane Company, New York.  Special permission
 to reproduce in this book.</note>
-                  </head>
+                  
                   <ab>
                      <ptr target="#Eaton083a"/>
                   </ab>

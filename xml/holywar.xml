@@ -594,7 +594,7 @@
 <pb n="29"/>
 <div xml:id="holywar012" type="poem" n="The Perfect Playmate">
 <head rend="center">The Perfect Playmate</head>
-<headrend="center"><hi rend="italic">Roger Charles Noel Bellingham. Before Ypres, March 4th, 1915</hi></head>
+<head rend="center"><hi rend="italic">Roger Charles Noel Bellingham. Before Ypres, March 4th, 1915</hi></head>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcaps">The</hi> Perfect Playmate, whither does he stray</l>
@@ -827,7 +827,7 @@
 
 <pb n="39"/>
 <div xml:id="holywar018" type="poem" n="Speeding">
-<head rend="center">Speeding<</head>
+<head rend="center">Speeding</head>
 <head rend="center"><hi rend="italic">To Ivo Alan Charteris, October 17th, 1915</hi></head>
 
 <lg type="stanza">
@@ -1074,7 +1074,7 @@
 <pb n="48"/>
 <div xml:id="holywar025" type="poem" n="New Heaven">
 <head rend="center">New Heaven</head>
-<head< rend="center"><hi rend="italic">To Sir William Haldane</hi></head>
+<head rend="center"><hi rend="italic">To Sir William Haldane</hi></head>
 
 <lg type="stanza">
 <l n="1"><hi rend="smallcaps">Paradise</hi> now has many a Knight,</l>

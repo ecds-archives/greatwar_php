@@ -2,7 +2,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="latesongs">
    <teiHeader><fileDesc>
          <titleStmt>
-            <title>Late Songs: Electronic Edition</title>
+            <title>Late Songs, an electronic edition</title>
             <author><name type="person"><choice><reg>Tynan, Katharine, 1861-1931</reg><sic>Katharine Tynan</sic></choice></name></author>
          </titleStmt>
 	 <publicationStmt><publisher>Lewis H. Beck Center for Electronic Collections
@@ -15,8 +15,7 @@
 	   distribute or display the contributions to the work claimed
 	   by Emory University for non-profit educational purposes,
 	   provided this header is included in its entirety.  For
-	   inquiries about commercial uses, contact either: Institute
-	   for Jewish Studies, Emory University, Atlanta GA 30322 or
+	   inquiries about commercial uses, contact 
 	   the Lewis H. Beck Center for Electronic Collections and
 	   Services, Woodruff Library, Emory University, Atlanta,
 	   Georgia 30322 </p></availability><date>2004</date></publicationStmt>

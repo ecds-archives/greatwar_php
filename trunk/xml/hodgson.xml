@@ -2,7 +2,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="hodgson">
    <teiHeader><fileDesc>
          <titleStmt>
-            <title>Poems, an Electronic Edition</title>
+            <title>Poems, an electronic edition</title>
             <author><name type="person"><choice><reg>Hodgson, Ralph, 1871-1962</reg><sic>Ralph Hodgson</sic></choice></name></author>
          </titleStmt>
 	 <publicationStmt><publisher>Lewis H. Beck Center for Electronic Collections
@@ -1166,7 +1166,7 @@
 
 <div xml:id="hodgson015" type="poem" n="15">
 <pb n="[42  BABYLON]"/>
-<head rend="center">BABYLON</head>
+<head rend="center">Babylon</head>
 <lg type="stanza">
 <l>If you could bring her glories back!</l>
 <l>You gentle sirs who sift the dust</l>
@@ -1186,9 +1186,6 @@
 <l>Babel passing to and fro</l>
 <l>On the business of a day</l>
 <l>Gone three thousand years ago--</l></lg>
-
-<l>42</l>
-
 
 
 <pb n="BABYLON                43"/>

@@ -2,7 +2,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="asquith">
    <teiHeader><fileDesc>
          <titleStmt>
-            <title>The Volunteer and Other Poems: Electronic Edition</title>
+            <title>The Volunteer and Other Poems, an electronic edition</title>
             <author><name type="person"><choice><reg>Asquith, Herbert</reg><sic>Herbert Asquith</sic></choice></name></author>
          </titleStmt>
 	 <publicationStmt><publisher>Lewis H. Beck Center for Electronic Collections

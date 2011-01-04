@@ -2,7 +2,7 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="watson">
    <teiHeader><fileDesc>
          <titleStmt>
-            <title>The Man Who Saw: Electronic Edition</title>
+            <title>The Man Who Saw, an electronic edition</title>
             <author><name type="person"><choice><reg>Watson, William, 1858-1935</reg><sic>William Watson</sic></choice></name></author>
          </titleStmt>
 	 <publicationStmt><publisher>Lewis H. Beck Center for Electronic Collections

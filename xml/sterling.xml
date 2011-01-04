@@ -2,8 +2,8 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="sterling">
    <teiHeader><fileDesc>
          <titleStmt>
-            <title>The Poems of Robert W. Sterling: Electronic Edition</title>
-            <author><name type="person"><choice><reg>Sterling, Robert W.</reg><orig>Robert W. Sterling</orig></choice></name></author>
+            <title>The Poems of Robert W. Sterling, an electronic edition</title>
+            <author><name type="person"><choice><reg>Sterling, Robert W.</reg><sic>Robert W. Sterling</sic></choice></name></author>
          </titleStmt>
 	 <publicationStmt><publisher>Lewis H. Beck Center for Electronic Collections
 	   and Services, Emory University</publisher><pubPlace>Atlanta, GA</pubPlace><address>

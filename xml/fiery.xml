@@ -2,8 +2,8 @@
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="fiery">
    <teiHeader>
       <fileDesc>
-         <titleStmt n="THE FIERY CROSS">
-            <title>THE FIERY CROSS: An Anthology of War Poems</title>
+         <titleStmt>
+            <title>The Fiery Cross: An Anthology of War Poems, an electronic edition</title>
             <editor>
                <name type="person">
                   <choice>
@@ -12,8 +12,8 @@
                   </choice>
                </name> and <name type="person">
                   <choice>
-                     <reg/>
-                     <sic>Booth, MaryMary Booth</sic>
+                     <reg>Booth, Mary</reg>
+                     <sic>Mary Booth</sic>
                   </choice>
                </name>
             </editor>
@@ -44,7 +44,10 @@
                <title>THE FIERY CROSS: An Anthology of War Poems</title>
                <pubPlace>London</pubPlace>
                <publisher>Grant Richards Ltd.</publisher>
-               <date>1915</date>  96 pages. Sold for the benefit of the funds of the Red Cross.</bibl>
+               <date>1915</date>  
+	       <biblScope>96 pages.</biblScope> 
+	       <note>Sold for the benefit of the funds of the Red Cross.</note>
+	    </bibl>
          </sourceDesc>
       </fileDesc>
       <encodingDesc>

@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Poems of the Great War: Electronic Edition</title>
+            <title>Poems of the Great War, an electronic edition</title>
             <editor>
                <name type="person">
                   <choice>
@@ -424,7 +424,7 @@ When last heard from, the author, who is a British officer, was on service at Kh
                      </choice>
                   </name>
                </docAuthor>
-               <head rend="center">UNSER GOTT</head>
+               <head rend="center">Unser Gott</head>
 
                <lg type="stanza">
                   <l n="1">

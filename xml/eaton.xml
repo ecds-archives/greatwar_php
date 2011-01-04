@@ -3,7 +3,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Great Poems of the World War: Electronic Edition</title>
+            <title>Great Poems of the World War, an electronic edition</title>
             <editor>
                <name>
                   <choice>
@@ -7171,7 +7171,7 @@ Prussian Major dead!</hi>
                   </name>
                </docAuthor>
                <head rend="center">Suddenly One Day</head>
-               <byline rend="center">AUTHOR UNKNOWN<lb/>
+               <byline rend="center">Author Unknown<lb/>
                   <hi rend="smallcap">From The Westminster Gazette</hi>
                </byline>
                <note place="inline">Found in the pocket of Capt. T. P. C. Wilson, a British officer,killed in action.</note>
@@ -9873,7 +9873,7 @@ Three thousand miles of cheerless space </l>
                   </name>
                </docAuthor>
                <head rend="center">The Unknown Soldier<lb/>
-ARMISTICE DAY AT ARLINGTON</head>
+Armistice Day At Arlington</head>
                <byline rend="center">
                   <docAuthor>
                      <name>

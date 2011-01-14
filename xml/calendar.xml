@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="calendar.xml">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="calendar">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -34,6 +34,7 @@
 	   Georgia 30322 </p>
             </availability>
             <date>2004</date>
+	    <idno type="ark">http://pid.emory.edu/ark:/25593/8r4r7</idno>
          </publicationStmt>
 	        <seriesStmt>
 	           <title>The Great War</title>

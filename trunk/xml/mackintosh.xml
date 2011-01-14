@@ -10,7 +10,8 @@
 	     <addrLine>540 Asbury Circle</addrLine>
 	     <addrLine>Woodruff Library</addrLine>
 	     <addrLine>Atlanta, GA 30322</addrLine>
-	   </address><availability><p>©Emory University. Permission is
+	   </address>
+	   <availability><p>©Emory University. Permission is
 	   granted to download, transmit, or otherwise reproduce,
 	   distribute or display the contributions to the work claimed
 	   by Emory University for non-profit educational purposes,
@@ -18,7 +19,11 @@
 	   inquiries about commercial uses, contact 
 	   the Lewis H. Beck Center for Electronic Collections and
 	   Services, Woodruff Library, Emory University, Atlanta,
-	   Georgia 30322 </p></availability><date>2004</date></publicationStmt>
+	   Georgia 30322 </p>
+	   </availability>
+	   <date>2004</date>
+	   <idno type="ark">http://pid.emory.edu/ark:/25593/8r667</idno>
+	 </publicationStmt>
 	 <seriesStmt>
 	   <title>The Great War</title>
 	 </seriesStmt>

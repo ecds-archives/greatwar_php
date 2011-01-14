@@ -10,7 +10,8 @@
 	     <addrLine>540 Asbury Circle</addrLine>
 	     <addrLine>Woodruff Library</addrLine>
 	     <addrLine>Atlanta, GA 30322</addrLine>
-	   </address><availability><p>©Emory University. Permission is
+	   </address>
+	   <availability><p>©Emory University. Permission is
 	   granted to download, transmit, or otherwise reproduce,
 	   distribute or display the contributions to the work claimed
 	   by Emory University for non-profit educational purposes,
@@ -18,7 +19,11 @@
 	   inquiries about commercial uses, contact 
 	   the Lewis H. Beck Center for Electronic Collections and
 	   Services, Woodruff Library, Emory University, Atlanta,
-	   Georgia 30322 </p></availability><date>2009</date></publicationStmt>
+	   Georgia 30322 </p>
+	   </availability>
+	   <date>2009</date>
+	   <idno type="ark">http://pid.emory.edu/ark:/25593/8r6d2</idno>
+	 </publicationStmt>
 	 <seriesStmt>
 	   <title>Great War</title>
 	 </seriesStmt>
@@ -27,7 +32,7 @@
             <bibl>
 	     <title>The Poems of Robert W. Sterling</title>
 	     <author>Robert W. Sterling</author>
-	     <pubPlace>London, Edinburgh, Glasgow, New York, Toronto, Melbourne, Bombay</pubPlace>
+	     <pubPlace>London</pubPlace>
 	     <publisher>Humphrey Milford</publisher>
 	     <publisher>Oxford University Press</publisher>
 	     <date>1915</date>

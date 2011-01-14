@@ -15,12 +15,22 @@
             </address><availability>
                <p>2001 Emory University. Permission is granted to
 download, transmit, or otherwise reproduce, distribute or display the contributions to the work claimed by Emory University for non-profit educational purposes, provided this header is included in its entirety.  For inquiries about commercial uses, contact the Lewis H. Beck Center for Electronic collections and services, Emory University, Atlanta, Georgia 30322</p>
-            </availability><date>2001</date></publicationStmt>
+            </availability>
+	 <date>2001</date>
+	 <idno type="ark">http://pid.emory.edu/ark:/25593/8r5ct</idno>
+	 </publicationStmt>
          <seriesStmt>
             <title>Emory Women Writers Resource Project</title>
          </seriesStmt>
          <sourceDesc>
-            <bibl>Tynan, Katharine "Flower of Youth: Poems in War Time." London: <publisher>Sidgwick &amp; Jackson</publisher>, <date>1915</date>.  80 pages.</bibl>
+	   <bibl>
+	     <author>Tynan, Katharine</author> 
+	     <title>Flower of Youth: Poems in War Time</title> 
+	     <pubPlace>London</pubPlace> 
+	     <publisher>Sidgwick &amp; Jackson</publisher> 
+	     <date>1915</date>  
+	     <biblScope>80 pages.</biblScope>
+	   </bibl>
          </sourceDesc>
       </fileDesc><encodingDesc>
          <projectDesc>

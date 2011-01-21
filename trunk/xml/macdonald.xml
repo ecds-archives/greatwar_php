@@ -1,208 +1,249 @@
-<div1 id="MacDonald01" type="anthology" n="Crown Of Amaranth">
-<div2 id="MacDonald02" type="poem" n="Dedication">
-<head rend="center">DEDICATION. <lb/>
-
-<hi rend="smallcap">To THE Memory OF Rupert Brooke</hi></head>
+<div xml:id="MacDonald01" type="anthology" n="Crown Of Amaranth">
+  <div xml:id="MacDonald02" type="poem" n="Dedication">
+    <head rend="center">DEDICATION. <lb/>
+    <hi rend="smallcap">To the Memory of Rupert Brooke</hi></head>
 
 <note><hi rend="italic"> (Who died of sunstroke at Lemnos, on active service with the Royal Naval Division, St. George's Day, 1915.)</hi></note>
 
-<lg><l n="1">BUILD his memorial where young flowers and fair,</l>
-<l>Not hoary yews, may wreathe the statue's plinth!</l>
-<l>Apollo, kissing, killed him unaware,</l>
-<l>But with the fate the fragrance he shall share of stricken Hyacinth.</l></lg>
+<lg type="stanza">
+  <l n="1">BUILD his memorial where young flowers and fair,</l>
+  <l>Not hoary yews, may wreathe the statue's plinth!</l>
+  <l>Apollo, kissing, killed him unaware,</l>
+  <l>But with the fate the fragrance he shall share of stricken Hyacinth.</l>
+</lg>
 
-<lg><l>Here, therefore, let the mourning Muses strew</l>
-<l>Amaranth and asphodel on his repose:</l>
-<l>Above all, let this England which he knew</l>
-<l>So well that he could die for her, bring rue </l>
-<l>And rosemary and rose.</l></lg>
+<lg>
+  <l>Here, therefore, let the mourning Muses strew</l>
+  <l>Amaranth and asphodel on his repose:</l>
+  <l>Above all, let this England which he knew</l>
+  <l>So well that he could die for her, bring rue </l>
+  <l>And rosemary and rose.</l>
+</lg>
 
-<lg><l>Waft him, all winds, the scent of English earth!</l>
+<lg>
+<l>Waft him, all winds, the scent of English earth!</l>
 <l >Let the wood's whisper and the wood-flower's breath</l>
 <l>Find, fresh as rain amid the desert's dearth, </l>
 <l>The heart that seemed April's appropriate birth;</l>
-<l>Sealed April's, too, in death</l></lg>
+<l>Sealed April's, too, in death</l>
+</lg>
 
-<lg><l>Deaf to the roar of battle, yet shall he</l>
+<lg>
+<l>Deaf to the roar of battle, yet shall he</l>
 <l >Hear what the grass says when a light breeze stirs ....</l>
 <l>Mothers of men, that men may still be free, </l>
 <l>Yield now their sons-Chief Poet, own and see </l>
-<l  >That Song has spared not hers!</l></lg>
-<byline rend="right">S. GERTRUDE FORD.</byline></div2>
+<l>That Song has spared not hers!</l>
+</lg>
+<byline rend="right">S. GERTRUDE FORD.</byline></div>
 
-<div2 id="MacDonald03" type="poem" n="Englands Dead">
+<div xml:id="MacDonald03" type="poem" n="Englands Dead">
 <head rend="center">ENGLAND'S DEAD.</head>
 <epigraph><hi rend="italic">Make them to be numbered with Thy saints: in glory everlasting."</hi></epigraph>
 
-<lg><l n="1">HOMEWARD the long ships leap: swift-shod with joy</l>
-<l>Striding the deep-sea dykes fast home they fare,-</l>
+<lg type="stanza">
+<l n="1">HOMEWARD the long ships leap: swift-shod with joy</l>
+<l >Striding the deep-sea dykes fast home they fare,-</l>
 <l>Where is my wedded love? Where is my boy?</l>
-<l>Where go the dead that died for England, where ?</l></lg>
+<l >Where go the dead that died for England, where ?</l>
+</lg>
 
-<lg><l>Homeward the long ships leap; but not with these</l>
-<l>Thy boy, thy wedded love, 0 gentle-eyed</l>
+<lg>
+<l>Homeward the long ships leap; but not with these</l>
+<l >Thy boy, thy wedded love, O gentle-eyed</l>
 <l>Woman of England, nor far over-seas</l>
-<l >Mixing with dull earth sleep the dead that died</l></lg>
+<l >Mixing with dull earth sleep the dead that died</l>
+</lg>
 
-<lg><l>For England. They, in God's completed aims,</l>
+<lg>
+<l>For England. They, in God's completed aims,</l>
 <l >Bear each his part; unseen of bounded sight,</l>
 <l>Down the vast firmament that floats and flames</l>
-<l>Crested with stars and panoplied in light,</l></lg>
+<l >Crested with stars and panoplied in light,</l>
+</lg>
 
-<lg><l>Of strenuous clean souls a long array</l>
+<lg>
+<l>Of strenuous clean souls a long array</l>
 <l >With lambent lance and white, bright, blinding sword,</l>
 <l>All riding upon horses-what are they?</l>
 <l >They are the dead which died in Christ their Lord</l>
-<l></l>
+</lg>
+
+<lg>
 <l>For England, from old time; with God made one,</l>
 <l>As on the mount the triple vision shone,</l>
 <l>So shine they now, and like the noontide sun</l>
 <l>Before them all the fair St. George rides on.</l>
-<l></l>
+</lg>
+
+<lg>
 <l>There goes the boy of Cr&#x00E9;cy, whispering low</l>
 <l>To him of Agincourt, a kingly pair,</l>
 <l>With many mighty men which bent the bow-</l>
 <l>There go the dead that died for England, there;</l>
-<l></l>
-<l>There go those quenchiess Talbots, there the</l>
-<l>flower</l>
+</lg>
+
+<lg>
+<l>There go those quenchiess Talbots, there theflower</l>
 <l>Of Devon, Grenville, Gilbert, mariners rare,</l>
 <l>She too who thought foul scorn of Philip's power,-</l>
 <l>There go the dead that died for England, there;</l>
-<l></l>
+</lg>
+
+<lg>
 <l>And Sidney who the rippling cup resigned,</l>
-<l>And happy Wolfe; wan Pitt released from </l>
-<l>care,</l>
+<l>And happy Wolfe; wan Pitt released from care,</l>
 <l>Nelson the well-beloved, and all his kind-</l>
 <l>There go the dead that died for England, there;</l>
-<l></l>
+</lg>
+
+<lg>
 <l>And he who broke the Corsican's strong spell,</l>
 <l>And Nicholson impatient of despair,</l>
 <l>And Gordon, faithful, desolate sentinel-</l>
 <l>There go the dead that died for England, there;</l>
-<l></l>
+</lg>
+
+<lg>
 <l>And there unhelmeted, ungirt of brand.</l>
 <l>Victoria moves with mild, maternal air,</l>
 <l>Still vigilant, still prayerful for the land--</l>
 <l>There go the dead that died for England, there;</l>
-<l></l>
+</lg>
+
+<lg>
 <l>Nor ride they idly nor with indolent rein,</l>
 <l>Irresolute, as men that seek no foe,</l>
 <l>But by the pathless sea, by peak and plain</l>
-<l>Bright-eyed, stern-lipped, all day, all night </l>
-<l>they go</l>
-<l></l>
+<l>Bright-eyed, stern-lipped, all day, all night they go</l>
+</lg>
+
+<lg>
 <l>Forth as a fire that snatches and davours</l>
 <l>Wind-withered woods, so go they swift and fell,</l>
 <l>Warring with principalities and powers,</l>
-<l>Hunting through space the swart, old bands of </l>
-<l>hell</l>
-<l></l>
+<l>Hunting through space the swart, old bands of hell</l>
+</lg>
+
+<lg>
 <l>And all the sounding causeways of the spheres</l>
 <l>Ring like white iron with the rhythmic tread</l>
 <l>Of these and their innumerable peers;</l>
-<l>But most round England muster England's </l>
-<l>dead,</l>
-<l></l>
+<l>But most round England muster England's dead,</l>
+</lg>
+
+<lg>
 <l>Round England cradled in her roaring seas,</l>
-<l>With Arctic snows white-girdled, bathed in </l>
-<l>suns</l>
+<l>With Arctic snows white-girdled, bathed in suns</l>
 <l>Asian. and Australasian, there go these;</l>
 <l>And where one solitary trader runs</l>
-<l></l>
+</lg>
+
+<lg>
 <l>His English keel, and where one lonely sword</l>
 <l>Glimmers for England, one unsleeping brain</l>
 <l>Watches and works for England, thitherward</l>
 <l>Gather the bright souls of her servants slain</l>
-<l></l>
-<l>For her, and lock their shimmering ranks, and </l>
-<l>sweep</l>
-<l>Round England's child as sweeps the northern </l>
-<l>gale</l>
-<l>Round some stark pine-tree on the moorland </l>
-<l>steep,</l>
+</lg>
+
+<lg>
+<l>For her, and lock their shimmering ranks, and sweep</l>
+<l>Round England's child as sweeps the northerngale</l>
+<l>Round some stark pine-tree on the moorland steep,</l>
 <l>And from the flash and rattle of their mail</l>
-<l></l>
-<l></l>
+</lg>
+
+<lg>
 <l>Hell's pale marauders shudderingly recoil</l>
 <l>Frustrate. 0 glad condition and sublime</l>
 <l>Of our undying dead, to fight and foil</l>
 <l>The ancient foe, continually to climb</l>
-<l></l>
-<l></l>
+</lg>
+
+<lg>
 <l>Through God's high order of His saints, to meet</l>
-<l>Some soul whose star-like name lit all their </l>
-<l>course,</l>
+<l>Some soul whose star-like name lit all theircourse,</l>
 <l>And commune with him, to discern and greet</l>
 <l>Old kindred, love, and friendship, hound and horse;</l>
-<l></l>
+</lg>
+
+<lg>
 <l>To see God face to face, and still to see</l>
 <l>And labour for the loves that grope on earth,</l>
 <l>To wait serenely till all souls shall be</l>
 <l>One in God's aristocracy of worth-</l>
-<l></l>
-<l>o glad condition and sublime! whereto</l>
+</lg>
+
+<lg>
+<l>O glad condition and sublime! whereto</l>
 <l>That southern tomb thy hands may never tend</l>
-<l>Was but the gateway thy loved boy passed </l>
-<l>through,</l>
-<l>Thy wedded love passed through, that he </l>
-<l>might wend</l>
-<l></l>
+<l>Was but the gateway thy loved boy passed through,</l>
+<l>Thy wedded love passed through, that he might wend</l>
+</lg>
+
+<lg>
 <l>Homeward to thee; thou canst not see the blaze</l>
 <l>Of his great blade nor hear his trumpets blare,</l>
 <l>Yet thick as brown leaves round about thy ways,</l>
 <l>There go the dead that died for England, there.</l>
-<l></l>
-<l>FRANK TAYLOR.</l>
-<l></l>
-<l></l>
-<l> FLOWER OF YOUTH.</l>
-<l></l>
-<l></l>
-<l>LEST Heaven be thronged with greybeards </l>
-<l>hoary,</l>
+</lg>
+<byline rend="right">FRANK TAYLOR.</byline>
+</div>
+
+<div xml:id="macDonald03" type="poem">
+<head>Flower of Youth</head>
+<lg type="stanza">
+<l n="1">LEST Heaven be thronged with greybeards hoary,</l>
 <l>God, who made boys for His delight, </l>
 <l>Stoops, in a day of grief and glory,</l>
 <l>And calls them in, in from the night. </l>
 <l>When they come trooping from the war </l>
-<l>Our skies have</l>
-<l>many a new gold star.</l>
-<l></l>
-<l></l>
+<l>Our skies have many a new gold star.</l>
+</lg>
+
+<lg>
 <l>Heaven's thronged with gay and careless faces,</l>
 <l>New-waked from dreams of dreadful things. </l>
 <l>They walk in green and pleasant places</l>
 <l>And by the crystal water-springs </l>
 <l>Who dreamt of dying and the slain, </l>
 <l>And the fierce thirst and the strong pain.</l>
-<l></l>
+</lg>
+
+<lg>
 <l>Dear boys! They shall be young for ever:</l>
 <l>The Son of God was once a boy. </l>
 <l>They run and leap by a clear river,</l>
 <l>And of their youth they have great joy. </l>
 <l>God, who made boys so clean and good, </l>
 <l>Smiles with the eyes of fatherhood.</l>
-<l></l>
+</lg>
+
+<lg>
 <l>Now Heaven is by the young invaded;</l>
-<l>Their laughter's in the House of God. </l>
+<l>Their laughter's in the House of God.</l>
 <l>Stainless and simple as He made it</l>
 <l>God keeps the heart o' the boy unflawed.</l>
-<l></l>
 <l>The old wise Saints look on and smile, </l>
 <l>They are so young and without guile.</l>
+</lg>
+
+<lg>
 <l>Oh, if the sonless mothers weeping, </l>
 <l>And widowed girls could see inside </l>
 <l>The glory that hath them in keeping</l>
 <l>Who went to the Great War and died, </l>
 <l>They would rise and put their mourning off, </l>
 <l>And say: "Thank God, he has enough!"</l>
-<l></l>
-<l>KATHARINE TYNAN.</l>
+</lg>
+<byline rend="right">Katharine Tynan.</byline>
+</div>
 <pb n="16"/>
-
-<head>THE LIVING VICTIMS: FATHERS AND MOTHERS OF THE FALLEN.</head>
-<l></l>
-<l>0 PIERC&#x00C8;D hearts and empty eyes, </l>
+<div type="poem" xml:id="macdonald04">
+<head rend="center">The Living Victims. <lb/>
+    <hi rend="smallcap">Fathers and Mothers of the Fallen</hi></head>
+<lg type="stanza">
+<l>O PIERC&#x00C8;D hearts and empty eyes, </l>
 <l>I, seeing your great sacrifice, </l>
 <l>I, who no younger part can play,</l>
 <l>Just bless and thank you, night and day. </l>
@@ -210,150 +251,179 @@
 <l>Make the procession of the street </l>
 <l>And in the anguished night I start </l>
 <l>'Tis you who take me by the heart.</l>
-<l></l>
+</lg>
+
+<lg>
 <l>Yet comfort find I in this thought :</l>
 <l>When God for man's Redemption wrought, </l>
 <l>And One must die, He chose the part </l>
 <l>Far sharper to the Father's heart, </l>
-<l>And gave His Son. 0 dearest You, </l>
+<l>And gave His Son. O dearest You, </l>
 <l>Take that high parable for true. </l>
 <l>Ye gods and goddesses 'mong men </l>
 <l>It shall be now as it was then :- </l>
-<l>The earth be saved (0 share my faith!) </l>
+<l>The earth be saved (O share my faith!) </l>
 <l>By the blest Boys you gave to Death.</l>
-<l></l>
+</lg>
+
+<lg>
 <l>With even these words to your deaf heart </l>
 <l>I eased my secondary smart; </l>
 <l>Then felt ashamed, as they who shout </l>
 <l>When God's own silence is about, </l>
 <l>And turned, that I might hide my head :</l>
-<l>Because there's nothing to be said.</l>
-<l></l>
-<l>(From Aunt Sarah and the War.)</l>
-<l></l>
-<l></l>
-<l>SUMMER IN ENGLAND, 1914.</l>
-<l></l>
+<l rend="italic">Because there's nothing to be said.</l>
+</lg>
+<byline rend="right">(From <hi rend="italic">Aunt Sarah and the War</hi>.)</byline>
+</div>
+
+<div type="poem" n="Summer in England, 1914">
+<lg>
 <l>ON London fell a clearer light; </l>
 <l>Caressing pencils of the sun </l>
 <l>Defined the distances, the white</l>
 <l>Houses, transfigured one by one, </l>
 <l>The " long, unlovely street " impearled. </l>
 <l>O what a sky has walked the world!</l>
-<l></l>
+</lg>
+
+<lg>
 <l>Most happy year! And out of town</l>
 <l>The hay was prosperous, and the wheat; </l>
 <l>The silken harvest climbed the down;</l>
 <l>Moon after moon was heavenly-sweet, </l>
 <l>Stroking the bread within the sheaves, </l>
 <l>Looking, 'twixt apples and their leaves.</l>
-<l></l>
+</lg>
+
+<lg>
 <l>And while this rose made round her cup,</l>
 <l>The armies died convulsed; and when </l>
 <l>This chaste young silver sun went up</l>
 <l>Softly, ten thousand shattered men, </l>
 <l>One wet corruption, heaped the plain, </l>
 <l>After a league-long throb of pain.</l>
-<l></l>
+</lg>
+
+<lg>
 <l>Flower following tender flower; and birds,</l>
 <l>And berries; and benignant skies </l>
 <l>Made thrive the serried flocks and herds-</l>
 <l>Yonder are men shot through the eyes, </l>
 <l>And children crushed. Love, hide thy face </l>
 <l>From man's unpardonable race.</l>
-<l></l>
-<l></l>
-<l>A Reply.</l>
-<l></l>
+</lg>
+<pb n="18"/>
+<l>rend= "italic" A Reply.</l>
+<lg>
 <l>Who said "No man hath greater love than this,</l>
-<l></l>
 <l>To die to serve his friend ? " </l>
 <l>So these have loved us all unto the end. </l>
-<l>Chide thou no more, 0 thou unsacrificed! </l>
+<l>Chide thou no more, O thou unsacrificed! </l>
 <l>The soldier dying dies upon a kiss, </l>
 <l>The very kiss of Christ.</l>
-<l></l>
-<l>ALICE MEYNELL.</l>
-<l></l>
-<l>19</l>
-<l></l>
-<l>TO S. K., KILLED IN ACTION.</l>
-<l></l>
-<l>(WRITTEN BY HIS FIRST TEACHER).</l>
-<l></l>
-<l>'YOU, killed in action, leading men! </l>
+</lg>
+<byline rend="right">Alice Meynell.</byline>
+</div>
+<pb n="19"/>
+<div type="poem" xml:id="macdonald06">
+<head rend="center" type="main">To S. K., Killed in Action. </head>
+    <head rend="smallcap" type="sub">(Written by His First Teacher).</head>
+<lg>
+<l>YOU, killed in action, leading men! </l>
 <l>I hardly yet believe it true:</l>
 <l>For me you're still the boy of ten,</l>
 <l>Blue-eyed and curly-haired, I knew.</l>
-<l></l>
+</lg>
+
+<lg>
 <l>You looked so gentle and so mild,</l>
 <l>I wondered if you'd play your part,</l>
 <l>For schoolboy life is rough : you smiled,</l>
 <l>And straightway captured every heart.</l>
-<l></l>
+</lg>
+
+<lg>
 <l>You played your part: you wrote your name</l>
 <l>Upon our simple annals clear,</l>
 <l>In field and form-room still the same,</l>
 <l>A knight without reproach or fear.</l>
-<l></l>
+</lg>
+
+<lg>
 <l>We saw you go from strength to strength,</l>
 <l>Your praises loud on every lip,</l>
 <l>Until you crowned the whole at length</l>
 <l>By leaving with a Scholarship.</l>
-<l></l>
+</lg>
+
+<lg>
 <l>The years passed by, and Oxford took</l>
 <l>The charge your Public School laid down;</l>
 <l>One happy year, and you forsook</l>
 <l>For duty called-the magic gown.</l>
+</lg>
+
+<lg>
 <l>Of course you were the first to go: </l>
 <l>You never were the sort to shirk.</l>
 <l>That was no time for books, and so </l>
 <l>You turned to more important work.</l>
-<l></l>
+</lg>
+
+<lg>
 <l>And is this all ? Was all in vain</l>
-<l>The life that you so early gave </l>
+<l>The life that you so early gave? </l>
 <l>And only, swept by wind and rain, </l>
-<l>Another British soldier's grave ?</l>
-<l></l>
+<l>Another British soldier's grave?</l>
+</lg>
+
+<lg>
 <l>We thought that radiant soul was meant </l>
 <l>For greater things: we should be sure </l>
 <l>o life is short, thus nobly spent, </l>
 <l>No hero's death is premature.</l>
-<l></l>
-<l></l>
-<l>W. SNOW.</l>
-<l></l>
-<l>(The Spectator, May 15th, 1915.)</l>
-<l></l>
-<l>"MISSING."</l>
-<l></l>
+</lg>
+<byline rend="right">W. Snow.</byline>
+<bibl>(The <hi rend= "italic">Spectator</hi>, May 15th, 1915</bibl>
+</div>
+<pb n="21"/>
+<div type="poem" xml:id="macdonald07">
+<head rend="center">"Missing."</head>
+<lg>
 <l>WHEN the anxious hearts say "Where?"</l>
 <l>He doth answer " In My care."</l>
-<l></l>
+</lg>
+<lg>
 <l>"Is it life or is it death ?"</l>
 <l>"Wait," He whispers. " Child, have faith!"</l>
-<l></l>
+</lg>
+<lg>
 <l>"Did they need love's tenderness?"</l>
 <l>"Is there love like Mine to bless?"</l>
-<l></l>
+</lg>
+<lg>
 <l>"Were they frightened at the last?"</l>
 <l>"No, the sting of death is past."</l>
-<l></l>
+</lg>
+<lg>
 <l>"Did a thought of 'Home-Love' rise?"</l>
 <l>"I looked down thro' Mother-eyes."</l>
-<l></l>
+<lg>
 <l>"Saviour, tell us, where are they?" </l>
 <l>"In My keeping, night and day."</l>
-<l></l>
+</lg>
+<lg>
 <l>"Tell us, tell us, how it stands."</l>
 <l>"None shall pluck them from My Hands."</l>
-<l>IVAN ADAIR.</l>
-<l>(The Booknan)</l>
-<l></l>
-<l></l>
-<l></l>
-<l>A.B.V.: By R.V.</l>
-<l></l>
+</lg>
+<byline rend="right">Ivan Adair.</byline>>
+<bibl>(The <hi rend="italic">Bookman</hi>.)</bibl>>
+</div>
+<pb n="22"/>
+<div type="poem" xml:id="macdonald08">
+<head rend="center">"A. B. V.: By R. V."</head>
+<lg>
 <l>I BOW my head, 0 brother, brother, brother,</l>
 <l>But may not grudge you that were all to me.</l>
 <l>Should any one lament when this our mother</l>
@@ -396,13 +466,15 @@
 <l>you.</l>
 <l></l>
 <l>(The Spectator, June 5th, 1915.)</l>
-<l></l>
-<l>THE FRONT: 1915.</l>
-<l></l>
-<l>" It is as if hell were let loose."</l>
-<l></l>
-<l>-Letter from the Front.</l>
-<l></l>
+<div>
+<head>THE FRONT: 1915.</head>
+<epigraph>
+  <cit>
+    <quote>"It is as if hell were let loose."</quote>
+    <bibl rend="italic">--Letter from the Front.</bibl>
+  </cit>
+</epigraph>
+<lg type="stanza">
 <l>ARE you in hell, my son,</l>
 <l>While I am dreaming on this grassy hill, </l>
 <l>In the white blossoming </l>

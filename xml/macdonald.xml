@@ -22,7 +22,7 @@
 
 <lg>
 <l>Waft him, all winds, the scent of English earth!</l>
-<l >Let the wood's whisper and the wood-flower's breath</l>
+<l>Let the wood's whisper and the wood-flower's breath</l>
 <l>Find, fresh as rain amid the desert's dearth, </l>
 <l>The heart that seemed April's appropriate birth;</l>
 <l>Sealed April's, too, in death</l>
@@ -30,7 +30,7 @@
 
 <lg>
 <l>Deaf to the roar of battle, yet shall he</l>
-<l >Hear what the grass says when a light breeze stirs ....</l>
+<l>Hear what the grass says when a light breeze stirs ....</l>
 <l>Mothers of men, that men may still be free, </l>
 <l>Yield now their sons-Chief Poet, own and see </l>
 <l>That Song has spared not hers!</l>
@@ -38,35 +38,35 @@
 <byline rend="right">S. GERTRUDE FORD.</byline></div>
 
 <div xml:id="MacDonald03" type="poem" n="Englands Dead">
-<head rend="center">ENGLAND'S DEAD.</head>
+<head rend="center">England's Dead.</head>
 <epigraph><hi rend="italic">Make them to be numbered with Thy saints: in glory everlasting."</hi></epigraph>
 
 <lg type="stanza">
 <l n="1">HOMEWARD the long ships leap: swift-shod with joy</l>
-<l >Striding the deep-sea dykes fast home they fare,-</l>
+<l>Striding the deep-sea dykes fast home they fare,-</l>
 <l>Where is my wedded love? Where is my boy?</l>
-<l >Where go the dead that died for England, where ?</l>
+<l>Where go the dead that died for England, where ?</l>
 </lg>
 
 <lg>
 <l>Homeward the long ships leap; but not with these</l>
-<l >Thy boy, thy wedded love, O gentle-eyed</l>
+<l>Thy boy, thy wedded love, O gentle-eyed</l>
 <l>Woman of England, nor far over-seas</l>
-<l >Mixing with dull earth sleep the dead that died</l>
+<l>Mixing with dull earth sleep the dead that died</l>
 </lg>
 
 <lg>
 <l>For England. They, in God's completed aims,</l>
-<l >Bear each his part; unseen of bounded sight,</l>
+<l>Bear each his part; unseen of bounded sight,</l>
 <l>Down the vast firmament that floats and flames</l>
-<l >Crested with stars and panoplied in light,</l>
+<l>Crested with stars and panoplied in light,</l>
 </lg>
 
 <lg>
 <l>Of strenuous clean souls a long array</l>
-<l >With lambent lance and white, bright, blinding sword,</l>
+<l>With lambent lance and white, bright, blinding sword,</l>
 <l>All riding upon horses-what are they?</l>
-<l >They are the dead which died in Christ their Lord</l>
+<l>They are the dead which died in Christ their Lord</l>
 </lg>
 
 <lg>
@@ -155,7 +155,7 @@
 
 <lg>
 <l>Hell's pale marauders shudderingly recoil</l>
-<l>Frustrate. 0 glad condition and sublime</l>
+<l>Frustrate. O glad condition and sublime</l>
 <l>Of our undying dead, to fight and foil</l>
 <l>The ancient foe, continually to climb</l>
 </lg>
@@ -187,10 +187,10 @@
 <l>Yet thick as brown leaves round about thy ways,</l>
 <l>There go the dead that died for England, there.</l>
 </lg>
-<byline rend="right">FRANK TAYLOR.</byline>
+<byline rend="right">Frank Taylor.</byline>
 </div>
 
-<div xml:id="macDonald03" type="poem">
+<div xml:id="macDonald04" type="poem">
 <head>Flower of Youth</head>
 <lg type="stanza">
 <l n="1">LEST Heaven be thronged with greybeards hoary,</l>
@@ -239,7 +239,7 @@
 <byline rend="right">Katharine Tynan.</byline>
 </div>
 <pb n="16"/>
-<div type="poem" xml:id="macdonald04">
+<div type="poem" xml:id="macdonald05">
 <head rend="center">The Living Victims. <lb/>
     <hi rend="smallcap">Fathers and Mothers of the Fallen</hi></head>
 <lg type="stanza">
@@ -276,9 +276,10 @@
 </lg>
 <byline rend="right">(From <hi rend="italic">Aunt Sarah and the War</hi>.)</byline>
 </div>
-
-<div type="poem" n="Summer in England, 1914">
-<lg>
+<pb n="17"/>
+<div type="poem" xml:id="macdonald06">
+<head rend="center">Summer in England.</head>
+<lg type="stanza">
 <l>ON London fell a clearer light; </l>
 <l>Caressing pencils of the sun </l>
 <l>Defined the distances, the white</l>
@@ -315,7 +316,7 @@
 </lg>
 <pb n="18"/>
 <l>rend= "italic" A Reply.</l>
-<lg>
+<lg type="stanza">
 <l>Who said "No man hath greater love than this,</l>
 <l>To die to serve his friend ? " </l>
 <l>So these have loved us all unto the end. </l>
@@ -326,10 +327,10 @@
 <byline rend="right">Alice Meynell.</byline>
 </div>
 <pb n="19"/>
-<div type="poem" xml:id="macdonald06">
+<div type="poem" xml:id="macdonald07">
 <head rend="center" type="main">To S. K., Killed in Action. </head>
     <head rend="smallcap" type="sub">(Written by His First Teacher).</head>
-<lg>
+<lg type="stanza">
 <l>YOU, killed in action, leading men! </l>
 <l>I hardly yet believe it true:</l>
 <l>For me you're still the boy of ten,</l>
@@ -390,7 +391,7 @@
 <pb n="21"/>
 <div type="poem" xml:id="macdonald07">
 <head rend="center">"Missing."</head>
-<lg>
+<lg type="stanza">
 <l>WHEN the anxious hearts say "Where?"</l>
 <l>He doth answer " In My care."</l>
 </lg>
@@ -409,6 +410,7 @@
 <lg>
 <l>"Did a thought of 'Home-Love' rise?"</l>
 <l>"I looked down thro' Mother-eyes."</l>
+</lg>
 <lg>
 <l>"Saviour, tell us, where are they?" </l>
 <l>"In My keeping, night and day."</l>
@@ -418,55 +420,57 @@
 <l>"None shall pluck them from My Hands."</l>
 </lg>
 <byline rend="right">Ivan Adair.</byline>>
-<bibl>(The <hi rend="italic">Bookman</hi>.)</bibl>>
+<bibl>(The <hi rend="italic">Bookman</hi>.)</bibl>
 </div>
 <pb n="22"/>
+
 <div type="poem" xml:id="macdonald08">
 <head rend="center">"A. B. V.: By R. V."</head>
-<lg>
-<l>I BOW my head, 0 brother, brother, brother,</l>
+<lg type="stanza">
+<l>I BOW my head, O brother, brother, brother,</l>
 <l>But may not grudge you that were all to me.</l>
 <l>Should any one lament when this our mother</l>
 <l>Mourns for so many sons on land and sea?</l>
 <l>God of the love which makes two lives as one,</l>
-<l>Give also strength to see that England's will be </l>
-<l>done.</l>
-<l></l>
+<l>Give also strength to see that England's will bedone.</l>
+</lg>
+
+<lg>
 <l>Let it be done, yea down to the last tittle,</l>
 <l>Up to the fulness of all sacrifice.</l>
 <l>Our dead feared this alone-to give too little</l>
 <l>Then shall the living murmur at the price?</l>
-<l>The hands withdrawn from ours to grasp the </l>
-<l>plough</l>
+<l>The hands withdrawn from ours to grasp the plough</l>
 <l>Would suffer only if the furrow faltered now.</l>
-<l></l>
-<l>Know, fellow-mourners-be our cross too </l>
-<l>grievous</l>
+</lg>
+
+<lg>
+<l>Know, fellow-mourners-be our cross too grievous</l>
 <l>That One who sealed our symbol with His blood</l>
 <l>Vouchsafes the Vision which shall never leave us:</l>
 <l>Those humble crosses in the Flanders mud.</l>
 <l>And think there rests all-hallowed, in each grave,</l>
 <l>A life given freely for the world He died to save.</l>
-<l></l>
+</lg>
+
+<lg>
 <l>And far ahead, dim marching generations</l>
 <l>That never felt and cannot guess our pain</l>
-<l>-Though history count nothing less than </l>
-<l>nations,</l>
+<l>-Though history count nothing less than nations,</l>
 <l>And fame forget where grass has grown again-</l>
 <l>Shall yet remember that the world is free.</l>
 <l>It is enough. For this is immortality.</l>
-<l></l>
-<l>I raise my head, 0 brother, brother, brother.</l>
+</lg>
+
+<lg>
+<l>I raise my head, O brother, brother, brother.</l>
 <l>The organ sobs for triumph to my heart.</l>
-<l>What! who will think that ransomed Earth </l>
-<l>can smother</l>
+<l>What! who will think that ransomed Earth can smother</l>
 <l>Her own great soul of which you are a part ?</l>
 <l>The requiem music dies as if it knew</l>
-<l>The inviolate peace where 'tis already well with </l>
-<l>you.</l>
-<l></l>
-<l>(The Spectator, June 5th, 1915.)</l>
-<div>
+<l>The inviolate peace where 'tis already well withyou.</l>
+</lg>
+<bibl>(The <hi rend= "italic">Spectator</hi>, June 5, 1915</bibl>
 <head>THE FRONT: 1915.</head>
 <epigraph>
   <cit>

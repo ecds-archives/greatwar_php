@@ -389,7 +389,7 @@
 <bibl>(The <hi rend= "italic">Spectator</hi>, May 15th, 1915</bibl>
 </div>
 <pb n="21"/>
-<div type="poem" xml:id="macdonald07">
+<div type="poem" xml:id="macdonald08">
 <head rend="center">"Missing."</head>
 <lg type="stanza">
 <l>WHEN the anxious hearts say "Where?"</l>
@@ -424,7 +424,7 @@
 </div>
 <pb n="22"/>
 
-<div type="poem" xml:id="macdonald08">
+<div type="poem" xml:id="macdonald09">
 <head rend="center">"A. B. V.: By R. V."</head>
 <lg type="stanza">
 <l>I BOW my head, O brother, brother, brother,</l>
@@ -470,6 +470,8 @@
 <l>The requiem music dies as if it knew</l>
 <l>The inviolate peace where 'tis already well withyou.</l>
 </lg>
+<div type="poem" xml:id="macdonald10">
+
 <bibl>(The <hi rend= "italic">Spectator</hi>, June 5, 1915</bibl>
 <head>THE FRONT: 1915.</head>
 <epigraph>
@@ -486,7 +488,9 @@
 <l>I, who no pain would shun </l>
 <l>To shield you from the lightest breath of ill, </l>
 <l>My little one.</l>
-<l></l>
+</lg>
+
+<lg>
 <l>When, as a child, you fell </l>
 <l>And hurt yourself on some unheeded stone, </l>
 <l>You raised your tearstained face </l>
@@ -494,80 +498,92 @@
 <l>And, kissing, make it well. </l>
 <l>Now I am here, on this green hill, alone, </l>
 <l>And you-in hell.</l>
-<l></l>
+</lg>
+
+<lg>
 <l>Or is it Paradise, </l>
-<l>That field where brave men fight with Giant </l>
-<l>Wrong? Where death is changed to life </l>
+<l>That field where brave men fight with Giant Wrong?</l> 
+<l>Where death is changed to life </l>
 <l>In the heroic strife, </l>
 <l>The willing sacrifice </l>
 <l>Where Love gives sleep to those who suffer long, </l>
 <l>And shuts their eyes.</l>
-<l></l>
+</lg>
+
+<lg>
 <l>Nor heaven nor hell is there, </l>
 <l>But some dim purgatorial place between, </l>
 <l>Where, purified by pain, </l>
 <l>The spirit slips its chain, </l>
 <l>And, cleaving the bright air,</l>
-<l>The young white souls, clear-eyed, august, </l>
-<l>serene,</l>
+<l>The young white souls, clear-eyed, august,serene,</l>
 <l>Pass to God's care.</l>
-<l></l>
-<l>BEATRICE A. LEES.</l>
-<l></l>
-<l>(The Spectator, June 19th, 1915.)</l>
-<l>26</l>
-<l></l>
-<l>FOR THE AIRMEN.</l>
-<l></l>
+</lg>
+<byline rend="right">Beatrice A. Lees.</byline>>
+<bibl>(The <hi rend= "italic">Spectator</hi>, (June 19th, 1915.)</bibl>
+<div type="poem" xml:id="macdonald"11">
+<head rend="center">For the Airmen. <lb/>
+    <hi rend="italic">(Included as a tribute to the ever-glorious memory of Fight-Lieutenant Warneford, V.C.).</hi></head>
+<lg type="stanza">
 <l>(Included as a tribute to the ever-glorious memory of Flight-Lieutenant Warneford, V.C.).</l>
 <l></l>
 <l>THOU who guidest the swallow and wren, </l>
 <l>Keep the paths of the flying men.</l>
-<l></l>
+</lg>
+<lg>
 <l>Over the mountains, over the seas, </l>
 <l>Thou hast given the bird-folk compasses.</l>
-<l></l>
+</lg>
+<lg>
 <l>Thou guidest them, yea, Thou leadest them home </l>
 <l>By the trackless ways and the venturesome.</l>
-<l></l>
+</lg>
+<lg>
 <l>Look Thou, then, on these bird-men, far </l>
 <l>More than the sparrows and swallows are.</l>
-<l></l>
+</lg>
+<lg>
 <l>When they fly in the wintry weather, </l>
 <l>Be their compass and chart together.</l>
 <l></l>
 <l>Keep them riding the wind; uphold </l>
 <l>Their passion for flight lest it grow cold.</l>
-<l></l>
+</lg>
 <l>Thy right hand be under the wing, </l>
 <l>Thy left hand for their steadying.</l>
-<l></l>
+<lg>
 <l>The wings of the birds of Heaven be nigh, </l>
 <l>Lest their wings fail them and they die.</l>
-<l></l>
+</lg>
+<lg>
 <l>Make Thou their flying as deft and fleet </l>
 <l>As the flight of the linnet or the blue tit.</l>
-<l></l>
+</lg>
+<lg>
 <l>Thy hand over them, shall they fear </l>
 <l>The spears of lightning or any spear?</l>
-<l></l>
+</lg>
+<lg>
 <l>Thy hands under them, what shall appal? </l>
 <l>Not the fierce foe nor the sudden fall.</l>
-<l></l>
+</lg>
+<lg>
 <l>Show them Thy moon at night: </l>
 <l>Thy stars Bid stand as sentinels in their wars.</l>
-<l></l>
+</lg>
+<lg>
 <l>Yea, make their lone tracks pleasant as </l>
 <l>A soft meandering path in grass.</l>
-<l></l>
+</lg>
+<lg>
 <l>Thou that launchest the wren, the swallow, </l>
 <l>Guard our flying loves when they follow.</l>
-<l></l>
-<l>KATHARINE TYNAN,</l>
-<l></l>
-<l>(The WindsorMagazine, July, 1915.)</l>
-<l></l>
-<l></l>
+</lg>
+<byline rend="right">Katharine Tynan".</byline>
+<bibl>(The <hi rend= "italic">Windsor Magazine</hi>, July, 1915</bibl>
+</div>
+
+<l>
 <l>IN MEMORIAM:</l>
 <l></l>
 <l>FLIGHT-SUB-LIEUTENANT WARNEFORD, V.C.</l>

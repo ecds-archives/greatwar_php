@@ -519,7 +519,7 @@
 <l>The young white souls, clear-eyed, august,serene,</l>
 <l>Pass to God's care.</l>
 </lg>
-<byline rend="right">Beatrice A. Lees.</byline>>
+<byline rend="right">Beatrice A. Lees.</byline>
 <bibl>(The <hi rend= "italic">Spectator</hi>, (June 19th, 1915.)</bibl>
 <div type="poem" xml:id="macdonald"11">
 <head rend="center">For the Airmen. <lb/>
@@ -582,18 +582,13 @@
 <byline rend="right">Katharine Tynan".</byline>
 <bibl>(The <hi rend= "italic">Windsor Magazine</hi>, July, 1915</bibl>
 </div>
-
-<l>
-<l>IN MEMORIAM:</l>
-<l></l>
-<l>FLIGHT-SUB-LIEUTENANT WARNEFORD, V.C.</l>
-<l></l>
-<l>(Born October 15th, 1892; killed June 18th,</l>
-<l></l>
-<l>1915.)</l>
-<l></l>
-<l>O'ER Southern seas the Homeland message </l>
-<l>speeds</l>
+<pb n="28"/>
+<div xml:id="macdonald12" type="poem" n="In Memoriam:">
+    <head rend="center">In Memoriam: <lb/>
+    <hi rend="smallcap">Flight-Sub-Lieutenant Warnerford, V.C.</hi></head>
+<note><hi rend="italic"> (Born October 15th, 1892; killed June 18th, 1915.)</hi></note>
+<lg type="stanza">
+<l>O'ER Southern seas the Homeland message speeds</l>
 <l>To one of Briton brood and Indian birth-</l>
 <l>Child of the mystic sun and throbbing earth,</l>
 <l>Who holds rich revel in adventurous deeds!</l>
@@ -603,7 +598,8 @@
 <l>And shoal the aerial element along;</l>
 <l>Zealous in act ; courageous for the fray,</l>
 <l>While glory points the steep abysmal way -!</l>
-<l></l>
+</lg>
+<lg>
 <l>For Man had winnowed from the fan of Time</l>
 <l>The boon of Flight to vault the dizzy stars</l>
 <l>To yoke the winds, and-urged by forceful Mars</l>
@@ -614,7 +610,8 @@
 <l>Blighting with licence Truth's supernal law:</l>
 <l>The Trident shook, and from the farthest main</l>
 <l>Loomed Empire-sons to venge the victims slain!</l>
-<l></l>
+</lg>
+<lg>
 <l>Earth, Air, and Ocean, vied in service true </l>
 <l>While justice pleaded mid the baneful strife </l>
 <l>Then rose the world, with grim battalions rife </l>
@@ -625,61 +622,58 @@
 <l>Down to the fiends-foul-writhing in its shame </l>
 <l>Blind as a meteor, burst upon the night, </l>
 <l>When lost in gloom it dips its fiery flight!</l>
-<l></l>
-<l></l>
+</lg>
+<lg>
 <l>But Fate grew envious of a peerless deed</l>
-<l>Outvaunting Jove armed with the lightning</l>
-<l>brand</l>
+<l>Outvaunting Jove armed with the lightning brand</l>
 <l>"Shall dareful fledging thus with puny hand</l>
 <l>Challenge the ancient might to gods decreed?</l>
 <l>Time heard, perturbed, and sealed an early doom</l>
 <l> Ere Youth full-blossomed to the sunny skies!</l>
-<l>Desist, false Time !---Deeds flout thy cen-</l>
-<l>turies</l>
+<l>Desist, false Time !---Deeds flout thy centuries</l>
 <l>Fame smiles undying o'erthe hero's tomb </l>
 <l>And nobly as he gave his mortal breath,</l>
-<l>The laurelled Warneford conquers Time and </l>
-<l>Death!</l>
-<l></l>
-<l>FREDERIC IRVING TAYLOR.</l>
-<l>30</l>
-<l></l>
-<l>THE WOMEN.</l>
-<l></l>
+<l>The laurelled Warneford conquers Time and Death!</l>
+</lg>
+<byline rend="right">Frederic Iriving Taylor.</byline>
+<div type="poem" xml:id="macdonald13">
+<head rend="center">The Women. <lb/></head>
+<lg type="stanza">
 <l>BECAUSE we stand unharmed within the gate, </l>
 <l>And hear the roar of battle surging by;</l>
 <l>Because it is our lot to watch and wait,</l>
 <l>And waiting send our dearest out to die,</l>
-<l></l>
+</lg>
+<lg>
 <l>Is it a little thing we do, who give</l>
 <l>Our kith and kin, our brothers, husbands, sons,</l>
 <l>And must ourselves untouched, unwounded, live,</l>
 <l>Whilst they are broken by the reeking guns?</l>
-<l></l>
+</lg>
+<lg>
 <l>It is our courage that enkindles theirs,</l>
-<l>Our strength that holds them steady, front and </l>
-<l>flank,</l>
+<l>Our strength that holds them steady, front andflank,</l>
 <l>And where the oriflamme of battle flares</l>
 <l>Our souls, in them, go marching rank on rank.</l>
-<l></l>
+</lg>
+<lg>
 <l>Because we give our dearest to be food</l>
 <l>For lyddite, shrapnel, mitrailleuse and shell,</l>
 <l>Ungrudging send our very flesh and blood</l>
 <l>To brim the over-brimming deeps of hell,</l>
-<l></l>
+</lg>
+<lg>
 <l>Amid the rattle of artillery, </l>
 <l>The clang of steel where sword on sabre jars,</l>
 <l>Not they who die, not they alone, but we,</l>
 <l>Uphold the Flag against the constant stars.</l>
-<l></l>
-<l>B. M. HETHERINGTON.</l>
-<l></l>
-<l>(The Bookman)</l>
-<l></l>
-<l></l>
-<l></l>
-<l>THE TELEGRAPH BOY.</l>
-<l></l>
+</lg>
+<byline rend="right">B.M. Hetherington.</byline>>
+<bibl>(The <hi rend="italic">Bookman</hi>.)</bibl>
+</div>
+<div type="poem" xml:id="macdonald14">
+<head rend="center">The Telegraph Boy. <lb/></head>
+<lg type="stanza">
 <l>DEATH bids his heralds go their way </l>
 <l>On red-rimmed bicycles to-day. </l>
 <l>Arrayed in blue, with streak of red, </l>
@@ -694,59 +688,54 @@
 <l>Hands in the yellow missive; sings </l>
 <l>His song. The maid says at the door</l>
 <l>" No answer," and he's off once more.</l>
-<l></l>
+</lg>
 <l>* * * * * *  *</l>
-<l></l>
+<lg>
 <l>No answer through the empty years! </l>
 <l>No answer but a mother's tears!</l>
-<l></l>
-<l>EDWARD SHILLIT0.</l>
-<l></l>
-<l>(The Nation, June 12th, 1915.)</l>
-<l></l>
-<l></l>
-<l>THE WOMAN'S TOLL.</l>
-<l></l>
-<l>0 MOTHER, mourning for the son who keeps </l>
+</lg>
+<byline rend="right">Edward Shillito.</byline>
+<bibl>(The <hi rend= "italic">Nation</hi>, (June 12th, 1915.)</bibl>
+<div type="poem" xml:id="macdonald15">
+<head rend="center">The Woman's Toll. <lb/></head>
+<lg type="stanza">
+<l>O MOTHER, mourning for the son who keeps </l>
 <l>His last dread watch by unfamiliar streams, </l>
 <l>Or for that other, gay of heart, who sleeps</l>
 <l>Where the great waters guard his secret dreams,</l>
 <l>Amid your tears take comfort for a space:</l>
 <l>They showed them worthy of their island race.</l>
-<l></l>
+</lg>
+<lg>
 <l>O Wife, who heard across the wintry sea</l>
-<l>Death's trumpet shrill for him who goes no </l>
-<l>more</l>
+<l>Death's trumpet shrill for him who goes no more</l>
 <l>Riding at dawn with that brave company</l>
 <l>Whose fellowship no morning shall restore;-. </l>
 <l>In its dark heart your bitterest hour shall bring </l>
 <l>Sweets from the scattered petals of the Spring</l>
-<l></l>
+</lg>
+<lg>
 <l>O Maid with wondering eyes untouched of grief,</l>
-<l>War's dreadful shadow spares your innocent </l>
-<l>years;</l>
+<l>War's dreadful shadow spares your innocent years;</l>
 <l>Yet shall you deem the ways of sunshine brief,</l>
 <l>Paying, long hence, your toll of hidden tears</l>
 <l>For love which perished ere the web was spun,</l>
 <l>And children who shall never see the sun.</l>
-<l></l>
-<l>RUTH DUFFIN.</l>
-<l></l>
-<l>(Part Author of "The Secret Hill.")</l>
-<l></l>
-<l>(The Nation, May 15th, 1915.)</l>
-<l></l>
-<l>33</l>
-<l></l>
-<l>THE QUIET HEART.</l>
-<l></l>
+</lg>
+<byline rend="right">Ruth Duffin.<lb/>
+(Part Author of "The Secret Hill.")</byline>
+<bibl>(The <hi rend= "italic">Nation</hi>, (My 15th, 1915.)</bibl>
+<div type="poem" xml:id="macdonald16">
+<head rend="center">The Quiet Heart. <lb/></head>
+<lg type="stanza">
 <l>OLD man, herding in the dell</l>
 <l>Peaceful sheep with crook and bell </l>
 <l>Underneath a country sky, </l>
 <l>I wish my thoughts might pass me by, </l>
 <l>And leave me quiet as you are </l>
 <l>To love the dawn and evening star.</l>
-<l></l>
+</lg>
+<lg>
 <l>I saw them leave me one by one, </l>
 <l>My oldest to my youngest son; </l>
 <l>I watched them leave this quiet place </l>
@@ -755,7 +744,8 @@
 <l>I waved my crook and cried farewell; </l>
 <l>All young they were, and strong, and kind- </l>
 <l>I stayed at home my sheep to mind.</l>
-<l></l>
+</lg>
+<lg>
 <l>"One fell in Belgium, and one </l>
 <l>Lies 'neath a farther fiercer sun. </l>
 <l>One perished in his first advance, </l>
@@ -764,7 +754,8 @@
 <l>And only God has news of him. </l>
 <l>All, all are fallen, every one, </l>
 <l>My eldest to my youngest son.</l>
-<l></l>
+</lg>
+<lg>
 <l>"There's tending to be done at morn, </l>
 <l>And when the weak young lambs are born; </l>
 <l>On all the countryside there streams </l>
@@ -773,11 +764,9 @@
 <l>It pleases God to have it so. </l>
 <l>His will it was to take and keep, </l>
 <l>And leave me here to mind my sheep."</l>
-<l></l>
-<l>AGNES GROZIER HERBERTSON.</l>
-<l></l>
-<l>(The Windsor Magazine, July, 1915.)</l>
-<l></l>
+</lg>
+<byline rend="right">Agnes Grozier Herbertson".</byline>
+<bibl>(The <hi rend= "italic">Windsor Magazine</hi>, July, 1915</bibl>
 <l>35</l>
 <l></l>
 <l>PEACE.</l>

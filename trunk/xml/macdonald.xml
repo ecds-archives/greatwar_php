@@ -521,7 +521,7 @@
 </lg>
 <byline rend="right">Beatrice A. Lees.</byline>
 <bibl>(The <hi rend= "italic">Spectator</hi>, (June 19th, 1915.)</bibl>
-<div type="poem" xml:id="macdonald"11">
+<div type="poem" xml:id="macdonald11">
 <head rend="center">For the Airmen. <lb/>
     <hi rend="italic">(Included as a tribute to the ever-glorious memory of Fight-Lieutenant Warneford, V.C.).</hi></head>
 <lg type="stanza">
@@ -767,36 +767,34 @@
 </lg>
 <byline rend="right">Agnes Grozier Herbertson".</byline>
 <bibl>(The <hi rend= "italic">Windsor Magazine</hi>, July, 1915</bibl>
-<l>35</l>
-<l></l>
-<l>PEACE.</l>
-<l></l>
-<l>(A sketch of two Christian soldiers, "enemies" by the accident of war, comrades in the crusade of the Prince of Peace.)</l>
-<l></l>
+</div>
+<div type="poem" xml:id="macdonald17">
+<pb n="35"/>
+<head rend="center">Peace. <lb/>
+    <hi rend="italic">(A sketch of two Christian soldiers; "enemies" by the accident of war, comrades in the crusade of the Prince of Peace.).</hi></head>
+<lg type="stanza">
 <l>ALTHOUGH they hated not, they fiercely fought, </l>
 <l>Neither for hope of fame nor love of praise.</l>
-<l>They followed War through all his dubious </l>
-<l>ways, </l>
+<l>They followed War through all his dubiousways, </l>
 <l>But each the honour of his country sought, </l>
 <l>Counting his life as but a thing of nought.</l>
 <l>In vain sweet Pity strove her voice to raise:</l>
 <l>They could not, then, her harmony appraise,</l>
 <l>Knowing that Peace by Freedom must be brought.</l>
-<l></l>
+</lg>
+<lg>
 <l>But lo, a change! Behold each lifeless form,</l>
 <l>Outstretched with sightless eyes upraised above.</l>
 <l>For ever past their time of stress and storm, </l>
 <l>They reach at length the same dear Fatherland. </l>
 <l>"In the blest kingdoms meek of joy and love." </l>
 <l>They enter as true brothers, hand in hand.</l>
-<l></l>
-<l>F. E. KENNETH.</l>
-<l></l>
-<l>(By special permission of the author.)</l>
-<l></l>
-<l></l>
-<l>ON THE MOSS: WAR TIME.</l>
-<l></l>
+</lg>
+<byline rend="right">F.E. Kenneth.<lb/>
+(By special permission of the author.)</byline>
+<div type="poem" xml:id="macdonald18">
+<head rend="center">On the Moss: War Time. <lb/></head>
+<lg type="stanza">
 <l>LOUDLY, like the plash of blood </l>
 <l>In murder's ears that seek to close</l>
 <l>At night in thickets tenanted </l>
@@ -806,7 +804,8 @@
 <l>And the rowans in the wood </l>
 <l>Are as ravaged maidenhood,</l>
 <l>Swaying, swaying overhead.</l>
-<l></l>
+</lg>
+<lg>
 <l>Through the rain upon the moss,</l>
 <l>Evening on disorient wings</l>
 <l>Falls from out disgodded skies, </l>
@@ -816,7 +815,8 @@
 <l>Day's last gold, has gone to dross. </l>
 <l>Darkness has a voice of loss</l>
 <l>Lonelier than owl-cries.</l>
-<l></l>
+</lg>
+<lg>
 <l>In the peat pots looking down,</l>
 <l>One wet star on the black water</l>
 <l>Seems to watch if aught may swim </l>
@@ -826,18 +826,15 @@
 <l>Her rays put forth, may not be known, </l>
 <l>But by them a dead face is shown</l>
 <l>Christ's, as they murdered him.</l>
-<l></l>
-<l>JOHN HELSTON.</l>
-<l></l>
-<l>(The Poetry Review.)</l>
-<l></l>
-<l></l>
-<l></l>
-<l>TO A FRIEND-KILLED IN ACTION.</l>
-<l></l>
+</lg>
+<byline rend="right">John Helston".</byline>
+<bibl>(The <hi rend= "italic">Poetry Review</hi></bibl>
+</div>
+<div type="poem" xml:id="macdonald19">
+<head rend="center">To a Friend - Killed in Action. <lb/></head>
+<lg type="stanza">
 <l>FAIN would weep, and yet my eyes are dry;</l>
-<l>My lips are dumb, for fear lest they should </l>
-<l>speak </l>
+<l>My lips are dumb, for fear lest they should speak </l>
 <l>The hasty word, and in reproaches seek </l>
 <l>Revolt from God's decree that you should die. </l>
 <l>I know you would not ask me for my tears, </l>
@@ -850,60 +847,60 @@
 <l>Draw cleansing grace to make my being whole. </l>
 <l>Thus from your loss one friend at least shall gain </l>
 <l>New life, to prove you have not died in vain.</l>
-<l></l>
-<l>HAROLD SIMPSON.</l>
-<l></l>
-<l>(The Poetry Review.)</l>
-<l></l>
-<l></l>
-<l>ODE TO A YOUNG MAN KILLED IN FLANDERS.</l>
-<l></l>
-<l>JANUARY, 1915.</l>
-<l></l>
+</lg>
+<byline rend="right">Harold Simpson".</byline>
+<bibl>(The <hi rend= "italic">Poetry Review</hi></bibl>
+</div>
+<div type="poem" xml:id="macdonald20">
+<head rend="center">Ode to a Young Man Killed in Flanders. <lb/></head>
+<note><hi rend="small caps"> January 15th, 1952</hi></note>
+<lg type="stanza">
 <l>CAN it be true that thou art dead</l>
-<l>In the hour of thy youth, in the day of </l>
-<l>thy strength ?</l>
+<l>In the hour of thy youth, in the day of thy strength ?</l>
 <l>Must I believe thy soul has fled</l>
 <l>Through Heaven's length?</l>
-<l></l>
+</lg>
+<lg>
 <l>A scholar wast thou, learn'd in lore,</l>
 <l>Poet was written in thine eyes;</l>
 <l>Thou ne'er vast meant for bloody War</l>
 <l>To seize in prize.</l>
-<l></l>
-<l>Yet when they asked thee, Ho! what dost </l>
-<l>thou bring?</l>
+</lg>
+<lg>
+<l>Yet when they asked thee, Ho! what dostthou bring?</l>
 <l>Thou gav'st thyself,</l>
 <l>Thou gav'st thy body, gav'st thy soul;</l>
 <l>Thou gav'st thyself, one consecrated whole</l>
 <l>To sacrificial torture for thy King.</l>
-<l></l>
-<l>0 lovely youth, slaughtered at Life's new Dawn</l>
+</lg>
+<lg>
+<l>O lovely youth, slaughtered at Life's new Dawn</l>
 <l>In virgin purity thou liest dead, </l>
 <l>And slaughtered with thy sons unborn,</l>
 <l>With thee unwed.</l>
-<l>Sleep on, pure youth, sleep at Earth's soothing </l>
-<l>breast. </l>
+</lg>
+<lg>
+<l>Sleep on, pure youth, sleep at Earth's soothingbreast. </l>
 <l>No king's sarcophagus was e'er so fine </l>
 <l>As that poor shallow soldier's grave of thine, </l>
 <l>Where all ungarlanded thou tak'st thy rest.</l>
-<l></l>
+</lg>
+<lg>
 <l>Vengeance thou askest not, but to avenge </l>
 <l>Many shall come-ah! many shall be slain </l>
 <l>That thy rich sacrifice be not in vain. </l>
 <l>Then from the blood spilt shall the </l>
 <l>Arts arise Gaining fresh glories by thy sacrifice; </l>
 <l>And this shall be requital and revenge.</l>
-<l></l>
-<l>DYNELEY HUSSEY.</l>
-<l></l>
-<l>(The Poetry Review.)</l>
-<l>40</l>
-<l></l>
-<l>FROM A FLEMISH GRAVEYARD.</l>
-<l></l>
-<l>APRIL, 1915</l>
-<l></l>
+</lg>
+<byline rend="right">Dynely Hussey".</byline>
+<bibl>(The <hi rend= "italic">Poetry Review</hi></bibl>
+</div>
+<div type="poem" xml:id="macdonald21">
+<pb n="40"/>
+<head rend="center">From a Flemish Graveyard. <lb/></head>
+<note><hi rend="small caps">April, 1915</hi></note>
+<lg type="stanza">
 <l>A YEAR hence may the grass that waves </l>
 <l>O'er English men in Flemish graves, </l>
 <l>Coating this clay with green of peace </l>
@@ -912,29 +909,30 @@
 <l>To bend and nod as the winds pass;</l>
 <l> It was for grass on English hills </l>
 <l>These bore too soon the last of ills.</l>
-<l></l>
+</lg>
+<lg>
 <l>And may the wind be brisk and clean </l>
 <l>And singing cheerfully between </l>
 <l>The bents a pleasantburdened song </l>
 <l>To cheer these English dead along; </l>
 <l>For English songs and English winds </l>
 <l>Are they that bred these English minds.</l>
-<l></l>
+</lg>
+<lg>
 <l>And may the circumstantial trees </l>
 <l>Dip, for these dead ones, in the breeze, </l>
 <l>And make for them their silver play </l>
 <l>Of spangled boughs each shiny day.</l>
-<l></l>
+</lg>
+<lg>
 <l>Thus may these look above, and see </l>
 <l>And hear the wind in grass and tree,</l>
 <l>And watch a lark in heaven stand, </l>
 <l>And think themselves in their own land.</l>
-<l></l>
-<l>IOLO ANEURIN WILLIAMS.</l>
-<l></l>
-<l>(The British Review.)</l>
-<l></l>
-<l></l>
+</lg>
+<byline rend="right">Iolo Aneurin Williams".</byline>
+<bibl>(The <hi rend= "italic">British Review</hi></bibl>
+</div>
 <l>FOURTH OF JUNE</l>
 <l></l>
 <l>THE OLD BOYS.</l>

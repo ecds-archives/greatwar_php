@@ -933,68 +933,68 @@
 <byline rend="right">Iolo Aneurin Williams".</byline>
 <bibl>(The <hi rend= "italic">British Review</hi></bibl>
 </div>
-<l>FOURTH OF JUNE</l>
-<l></l>
-<l>THE OLD BOYS.</l>
-<l></l>
+<div type="poem" xml:id="macdonald22">
+<pb n="41"/>
+<head rend="center">Fourth of June. <lb/></head>
+<note><hi rend="small caps">The Old Boys</hi></note>
+<lg type="stanza">
 <l>THEY were the life of English homes: it seems </l>
 <l>The victory of Death is very nigh.</l>
-<l>Who could have dreamed last June that they </l>
-<l>would lie</l>
+<l>Who could have dreamed last June that they would lie</l>
 <l>By far Gallipoli or French neighbour streams</l>
-<l>Fall'n in the crowning hour when youth</l>
-<l>redeems</l>
-<l>The pledge of boyhood? "None ultimately </l>
+<l>Fall'n in the crowning hour when youth redeems</l>
+<l>The pledge of boyhood? "None ultimately die</l>
 <l>Who die for England," they have made repIy </l>
 <l>"We have lived to see the battles of our dreams,Ó</l>
-<l></l>
+</lg>
+<lg>
 <l>Death cannot rob them of the soldier's prize </l>
 <l>" Self-sacrifice. He is too weak to take </l>
 <l>The joy of having given from the eyes, </l>
 <l>The light of consecration from the brow</l>
-<l>They have laid down their lives for England's </l>
-<l>sake,</l>
+<l>They have laid down their lives for England's sake,</l>
 <l>They are the living soul of England now</l>
-<l>ETON.</l>
-<l></l>
-<l>(The Times, June 4th, 1915)</l>
-<l></l>
-<l></l>
-<l>REQUIESCANT.</l>
-<l></l>
-<l>BY CANON F. G. SCOTT, OF THE CANADIAN </l>
-<l>EXPEDITIONARY FORCE.</l>
-<l></l>
+</lg>
+<byline rend="right">Eton."</byline>
+<bibl>(The <hi rend= "italic">Times</hi>, June 4th, 1915</bibl>
+</div>
+<div type="poem" xml:id="macdonald23">
+<pb n="42"/>
+<head rend="center">Requiescant<lb/>
+    <hi rend="smallcap">By Canon F. G. Scott, of the Canadian Expeditionary Force</hi></head>
+<lg type="stanza">
 <l>On lonely watches, night by night, </l>
 <l>Great visions burst upon my sight, </l>
 <l>For down the stretches of the sky </l>
 <l>The hosts of dead go marching by.</l>
-<l></l>
+</lg>
+<lg>
 <l>Strange ghostly banners o'er them float, </l>
 <l>Strange bugles sound an awful note, </l>
 <l>And all their faces and their eyes </l>
 <l>Are lit with starlight from the skies.</l>
-<l></l>
+</lg>
+<lg>
 <l>The anguish and the pain have passed </l>
 <l>And peace hath come to them at last </l>
 <l>But in the stern looks linger still </l>
 <l>The iron purpose and the will.</l>
-<l></l>
+</lg>
+<lg>
 <l>Dear Christ, who reign'st above the flood </l>
 <l>Of human tears and human blood, </l>
 <l>A weary road these men have trod </l>
-<l>O house them in the home of God</l>
-<l></l>
-<l>Near YprÀs, May, 1915.</l>
-<l></l>
-<l>(The Times, June 19th, 1915.)</l>
-<l></l>
-<l></l>
-<l>INTO BATTLE.</l>
-<l></l>
-<l>(The following verses have lately reached</l>
-<l>us from a young soldier fighting in Flanders. They are signed only with his initials, but we may be permitted now to reveal the fact that they were written by Captain Julian Grenfell, whose death from wounds we regret to record this morning.-"The Times," May 28th, 1915.)</l>
-<l></l>
+<l>O house them in the home of God!</l>
+</lg>
+<byline rend="right">Near Ypr&#x00E9;s."</byline>
+<bibl>(The <hi rend= "italic">Times</hi>, June 19th, 1915</bibl>
+</div>
+<div type="poem" xml:id="macdonald24">
+<pb n="43"/>
+<head rend="center">Into Battle.<lb/>
+    <note><hi rend="italic"> (The following verses have lately reached us from a young soldier fighting in Flanders. They are signed only with his initials, but we may be permitted now  to reveal the fact that they were written by Captain Julian Grenfell, whose death from wounds we regret to record this morning. -"The Times," May 28th, 1915.)</hi></note>
+</head>
+<lg type="stanza">
 <l>THE naked earth is warm with Spring,</l>
 <l>And with green grass and bursting trees</l>
 <l>Leans to the sun's gaze glorying, </l>
@@ -1003,75 +1003,83 @@
 <l>And a striving evermore for these</l>
 <l>And he is dead who will not fight;</l>
 <l>And who dies fighting has increase.</l>
-<l></l>
+</lg>
+<lg>
 <l>The fighting man shall from the sun</l>
 <l>Take warmth, and life from the glowing earth;</l>
 <l>Speed with the light-foot winds to run,</l>
 <l>And with the trees to newer birth </l>
 <l>And find, when fighting shall be done,</l>
 <l>Great rest, and fullness after dearth.</l>
-<l></l>
+</lg>
+<lg>
 <l>All the bright company of Heaven </l>
 <l>Hold him in their high comradeship, </l>
 <l>The Dog-Star and the Sisters Seven,</l>
 <l>Orion's Belt and sworded hip.</l>
-<l></l>
+</lg>
+<lg>
 <l>The woodland trees that stand together,</l>
 <l>They stand to him each one a friend;</l>
 <l>They gently speak in the windy weather;</l>
 <l>They guide to valley and ridges' end.</l>
-<l></l>
+</lg>
+<lg>
 <l>The kestrel hovering by day,</l>
 <l>And the little owls that call by night,</l>
 <l>Bid him be swift and keen as they,</l>
 <l>As keen of ear, as swift of sight.</l>
-<l></l>
+</lg>
+<lg>
 <l>The blackbird sings to him, " Brother, brother, </l>
-<l>If this be the last song you shall sing,</l>
-<l>Sing well, for you may not sing another; </l>
-<l>Brother, sing."</l>
-<l></l>
+<l>"If this be the last song you shall sing,</l>
+<l>"Sing well, for you may not sing another; </l>
+<l>"Brother, sing."</l>
+</lg>
+<lg>
 <l>In dreary doubtful waiting hours,</l>
 <l>Before the brazen frenzy starts,</l>
 <l>The horses show him nobler powers;</l>
-<l>0 patient eyes, courageous hearts!</l>
-<l></l>
-<l>Arid when the burning moment breaks,</l>
+<l>O patient eyes, courageous hearts!</l>
+</lg>
+<lg>
+<l>And when the burning moment breaks,</l>
 <l>And all things else are out of mind,</l>
 <l>And only Joy-of-Battle takes</l>
 <l>film by the throat, and makes him blind,</l>
-<l></l>
+</lg>
+<lg>
 <l>Through joy and blindness he shall know,</l>
 <l>Not caring much to know, that still</l>
 <l>Nor lead nor steel shall reach him, so</l>
 <l>That it be not the Destined Will.</l>
-<l></l>
+</lg>
+<lg>
 <l>The thundering line of battle stands,</l>
 <l>And in the air Death moans and sings;</l>
 <l>But Day shall clasp him with strong hands,</l>
 <l>And Night shall fold him in soft wings.</l>
-<l></l>
-<l>Flanders, April, 1915.</l>
-<l></l>
-<l>(Included by permission of Lord Desborough.)</l>
-<l></l>
-<l>FROM GENERATION TO GENERATION."</l>
-<l></l>
-<l>IN MEMORIAM W. G. C. G.</l>
-<l></l>
+</lg>
+<byline rend="right">Flanders, April, 1915.<lb/>
+(Included by permission of Lord Desborough.)</byline>
+<div type="poem" xml:id="macdonald25">
+<pb n="45"/>
+<head rend="center">"From Generation to Generation."<lb/>
+    <hi rend="smallcap">In Memoriam W.G.C.G.</hi></head>
+<lg type="stanza>
 <l>ONE gave long years with heart and brain, </l>
 <l>One, youth's brief fiery blow, </l>
 <l>For freedom: whence the greater gain</l>
 <l>Only the high gods know.</l>
-<l></l>
-<l>(The Times, April 16th, l9I5.)</l>
-<l></l>
-<l></l>
-<l>JULIAN GRENFELL.</l>
-<l></l>
+</lg>
+<bibl>(The <hi rend= "italic">Times</hi>, April 16th, 1915</bibl>
+</div>
+<div type="poem" xml:id="macdonald26">
+<pb n="46"/>
+<head rend="center">Julian Grenfell.</head>
+<lg type="stanza">
 <l>BECAUSE of you we will be glad and gay,</l>
-<l>Remembering you, we will be brave and </l>
-<l>strong;</l>
+<l>Remembering you, we will be brave andstrong;</l>
 <l>And hail the advent of each dangerous day,</l>
 <l>And meet the great adventure with a song.</l>
 <l>And, as you proudly gave your jewelled gift,</l>
@@ -1084,182 +1092,114 @@
 <l>Nor halt to waste a moment on a tear;</l>
 <l>And you will speed us onward with a cheer,</l>
 <l>And wave beyond the stars that all is well.</l>
-<l></l>
-<l>M.B., British Expeditionary Force, France.</l>
-<l></l>
-<l>(The Times, June 5th, 1915.)</l>
-<l></l>
-<l></l>
-<l></l>
-<l>THE CROSSES.</l>
-<l></l>
-<l>BELGIUM. 1914-15.</l>
-<l></l>
+</lg>
+<byline rend="right">M.B. British Expeditionary Force, France.</byline>
+<bibl>(The <hi rend= "italic">Times</hi>, June 5th, 1915</bibl>
+</div>
+<div type="poem" xml:id="macdonald27">
+<pb n="47"/>
+<head rend="center">"The Crosses."<lb/>
+    <hi rend="smallcap">Belgium 1914-15</hi></head>
+<lg type="stanza">
 <l>O'ER countless mounds on wide grey plain, </l>
 <l>The crosses stand against the sky, </l>
 <l>For requiem, the sullen roar</l>
 <l>Of cannon, as the wind sweeps by. </l>
 <l>And he lies there; why do we weep? </l>
 <l>God giveth our beloved-sleep.</l>
-<l></l>
+</lg>
+<lg>
 <l>What did we hope for him we loved?</l>
 <l>Life full and fair, success, renown ? </l>
 <l>Nay, greater fame can no man win</l>
 <l>Than a life laid nobly down </l>
 <l>For England's needs; a soldier's death </l>
 <l>God giveth him-the Victor's wreath</l>
-<l></l>
+</lg>
+<lg>
 <l>What matters Time, if he fulfilled</l>
-<l>God's purpose in the day of need </l>
+<l>God's purpose in the day of need? </l>
 <l>Outweighs a hundred empty years</l>
 <l>One glorious hour, one noble deed </l>
-<l>We asked full life, 0 God, of Thee, </l>
+<l>We asked full life, O God, of Thee, </l>
 <l>And Thou didst give-Eternity!</l>
-<l></l>
+</lg>
+<lg>
 <l>O'er exiled dead, o'er hearts at home,</l>
 <l>The Cross's Shadow fills the land. </l>
 <l>'Tis Thine the cause for which they die,</l>
 <l>O God! their souls are in Thy Hand. </l>
 <l>For Country, right, and loyal word, </l>
-<l>We plead their sacrifice, 0 Lord!</l>
-<l></l>
-<l>A.B.L.</l>
-<l></l>
-<l>(The Observer.)</l>
-<l></l>
-<l></l>
-<l>THE PATRIOT</l>
-<l></l>
-<l>LOW-browed, ill-nourished, fostered in a</l>
-<l>slum,</l>
+<l>We plead their sacrifice, O Lord!</l>
+</lg>
+<byline rend="right">A.B.L.</byline>
+<bibl>(The <hi rend= "italic">Observer</hi></bibl>
+</div>
+<div type="poem" xml:id="macdonald28">
+<pb n="48"/>
+<head rend="center">"The Patriot."</head>
+<lg type="stanza">
+<l>LOW-browed, ill-nourished, fostered in a slum,</l>
 <l>He had no pride of birthright nor of breed;</l>
 <l>Yet when his country's hour of stress was come</l>
 <l>Stood up a man indeed.</l>
-<l></l>
+</lg>
+<lg>
 <l>The stunted mind that laboured dim and dark</l>
 <l>Behind that narrow forehead gave small sign,</l>
 <l>Till War reached out a hand and lit a spark,</l>
 <l>There, of a fire divine.</l>
-<l></l>
+</lg>
+<lg>
 <l>And he whose heritage was alley walls,</l>
 <l>Whose moon and stars were lurid napthalights</l>
 <l>That blazed and flared above the crowded stalls</l>
 <l>In Mile End Road o' nights:</l>
-<l></l>
+</lg>
+<lg>
 <l>Lo, he who never saw an English lawn,</l>
 <l>Nor English fields, nor English rollers break</l>
 <l>On English shores, has put his life in pawn</l>
 <l>For her, for England's sake.</l>
-<l></l>
-<l>B. R. M. HETHERINGTON.</l>
-<l></l>
-<l></l>
-<l></l>
-<l>LIEUT. JOHN RICHARDSON.</l>
-<l></l>
-<l>1893-1915.</l>
-<l></l>
-<l>KILLED IN ACTION.</l>
-<l></l>
-<l>(Student of English at King's College; he left unfinished a thesis on "Albion's England "-.the Elizabethan patriotic poem-in preparation for M.A. degree of the University. When recovering from a previous wound, he asked that his copy of the Old English epic "Beowulf " might be sent him from home. The refrain from the oldest English lyric " Deor's Lament," which may be rendered, " O'er that he triumphed, o'er this may I " was chalked by him in Old English on the wall of his trench.)</l>
-<l></l>
-<l>THINE was no pedant's zeal: the Mother-</l>
-<l>tongue Taught thee high dictates of thy Fatherland, </l>
+</lg>
+<byline rend="right">B.R.M. Hetherington.</byline>
+<div type="poem" xml:id="macdonald29">
+<pb n="47"/>
+<head rend="center">Lieut. John Richardson."<lb/>
+    <hi rend="smallcap">1893-1915<lb/>
+     Killed in Action</hi></head>
+<note><hi rend="italic"> (Student of English at King's College; he left unfinished a thesis on "Albion's England "-.the Elizabethan patriotic poem-in preparation for M.A. degree of the University. When recovering from a previous wound, he asked that his copy of the Old English epic "Beowulf " might be sent him from home. The refrain from the oldest English lyric " Deor's Lament," which may be rendered, " O'er that he triumphed, o'er this may I " was chalked by him in Old English on the wall of his trench.)</hi></note>
+<lg type="stanza">
+<l>THINE was no pedant's zeal: the Mother-tongue</l>
+<l>Taught thee high dictates of thy Fatherland, </l>
 <l>The call no patriot-heart can e'er withstand </l>
 <l>Tore thee from lays by ancient poets sung. </l>
 <l>Well didst thou learn the lore, to thee endear'd, </l>
 <l>Of that young warrior who with dragons fought </l>
 <l>And conquer'd-steadfast, selfless, unafear'd</l>
-<l>ÏBetter is Death than Life with self-scorn fraught."</l>
+<l>"Better is Death than Life with self-scorn fraught."</l>
+</lg>
+<lg>
 <l>Not less thy courage, though thy scholar-soul </l>
 <l>Illum'd thy trench with mystic runes-the hope </l>
-<l>That solac'd in his plight our oldest ScŸp </l>
+<l>That solac'd in his plight our oldest Sc&#x00F4;Ÿp </l>
 <l>Whose song is wrought on Britain's golden scroll. </l>
 <l>No greater meed wouldst thou, no prouder fame: </l>
 <l>In "Albion's England" is enshrined thy name!</l>
-<l></l>
-<l>I. GOLLANCZ.</l>
-<l></l>
-<l>King's College, London.</l>
-<l></l>
-<l>(The Observer.)</l>
-<l>THE PATRIOT</l>
-<l></l>
-<l></l>
-<l>LOW-browed, ill-nourished, fostered in a</l>
-<l>slum,</l>
-<l>He had no pride of birthright nor of breed;</l>
-<l>Yet when his country's hour of stress was come</l>
-<l>Stood up a man indeed.</l>
-<l></l>
-<l>The stunted mind that laboured dim and dark</l>
-<l>Behind that narrow forehead gave small sign,</l>
-<l>Till War reached out a hand and lit a spark,</l>
-<l>There, of a fire divine.</l>
-<l></l>
-<l>And he whose heritage was alley walls,</l>
-<l>Whose moon and stars were lurid naptha-</l>
-<l>lights</l>
-<l>That blazed and flared above the crowded stalls</l>
-<l>In Mile End Road o' nights:</l>
-<l></l>
-<l></l>
-<l>Lo, he who never saw an Enghsh lawn,</l>
-<l>Nor English fields, nor English rollers break</l>
-<l>On English shores, has put his life in pawn</l>
-<l>For her, for England's sake.</l>
-<l></l>
-<l>B. R. M. HET;ILIIUNGIO</l>
-<l></l>
-<l></l>
-<l></l>
-<l></l>
-<l>LIEUT. JOHN RICHARDSON.</l>
-<l></l>
-<l></l>
-<l>1893-1915.</l>
-<l></l>
-<l></l>
-<l>KILLED IN ACTION.</l>
-<l></l>
-<l></l>
-<l>(Student of English at King's College; he left unfinished a thesis on "Albion's England "the Elizabethan patriotic poem-in preparation for M.A. degree of the University. When recovering from a previous wound, he asked that his copy of the Old English epic " Beowulf " might be sent him from home. The refrain from the oldest English lyric " Deor's Lament," which may be rendered, " O'er that he triumphed, o'er this may I " was chalked by him in Old English on the wall of his trench.)</l>
-<l></l>
-<l></l>
-<l>THINE was no pedant's zeal: the Mother-</l>
-<l>tongue</l>
-<l>Taught thee high dictates of thy Fatherland,</l>
-<l>The call no patriot-heart can e'er withstand</l>
-<l>Tore thee from lays by ancient poets sung.</l>
-<l>Well didst thou learn the lore, to thee endear'd,</l>
-<l>Of that young warrior who with dragons fought</l>
-<l>And conquer 'd-steadfast, selfless, unafear'd-</l>
-<l>Better is Death than Life with self-scorn fraught."</l>
-<l>Not less thy courage, though thy scholar-soul </l>
-<l>Illum'd thy trench with mystic runes-the hope</l>
-<l>That solac'd in his plight our oldest ScŸp</l>
-<l>Whose song is wrought on Britain's golden scroll </l>
-<l>No greater meed wouldst thou, no prouder fame:</l>
-<l>In "Albion's England" is enshrined thy name!</l>
-<l></l>
-<l>I. GOLLANCZ.</l>
-<l></l>
-<l>King's College, London.</l>
-<l></l>
-<l>(The Observer)</l>
-<l></l>
-<l></l>
-<l></l>
-<l></l>
-<l></l>
-<l>THE EXILES.</l>
-<l></l>
+</lg>
+<byline rend="right">I. Gollancz.<lb/>
+King's College, London</byline>
+<bibl>(The <hi rend= "italic">Observer</hi></bibl>
+</div>
+<div type="poem" xml:id="macdonald30">
+<pb n="51"/>
+<head rend="center">"The Exiles."</head>
+<lg type="stanza">
 <l>NOT the remembered scent of English air </l>
 <l>In thawing fields, nor English melodies, </l>
 <l>Nor song of English birds in English skies</l>
 <l>Can make this England. All our house is bare;</l>
-<l>Our lives are stopped; our hearts are other-</l>
-<l>where,</l>
+<l>Our lives are stopped; our hearts are other-where,</l>
 <l>As homesick travellers whose impatient eyes </l>
 <l>See only aliens: for all England lies</l>
 <l>Where you have set your honour and her care.</l>
@@ -1270,116 +1210,124 @@
 <l>Your deeds are all her life, your sleep her rest </l>
 <l>You are her only citizens, and we</l>
 <l>Are exiles in the place where we were born.</l>
-<l></l>
-<l>GEORGE KELLY.</l>
-<l></l>
-<l>(The British Review, May, 1915.)</l>
-<l></l>
-<l></l>
-<l>THE ENGLISH GRAVES.</l>
-<l></l>
+</lg>
+<byline rend="right">George Kelly.</byline>
+<bibl>(The <hi rend= "italic">British Review>, May, 1915</hi></bibl>
+</div>
+<div type="poem" xml:id="macdonald31">
+<pb n="52"/>
+<head rend="center">The English Graves.</head>
+<lg type="stanza">
 <l>THE rains of yesterday are flown,</l>
 <l>And light is on the farthest hills.</l>
 <l>The homeliest rough grass by the stone</l>
 <l>With radiance thrills;</l>
-<l></l>
+</lg>
+<lg>
 <l>And the wet bank above the ditch,</l>
 <l>Trailing its thorny bramble, shows</l>
 <l>Soft apparitions, clustered rich,</l>
 <l>Of the pale primrose.</l>
-<l></l>
+</lg>
+<lg>
 <l>The shining stillness breathes, vibrates</l>
 <l>From simple earth to lonely sky,</l>
 <l>A hinted wonder that awaits</l>
 <l>The heart's reply.</l>
-<l></l>
-<l>0 lovely life! the chaffinch sings</l>
+</lg>
+<lg>
+<l>O lovely life! the chaffinch sings</l>
 <l>High on the hazel, near and clear.</l>
 <l>Sharp to the heart's blood sweetness springs</l>
 <l>In the morning here.</l>
-<l></l>
+</lg>
+<lg>
 <l>But my heart goes with the young cloud</l>
 <l>Which voyages the April light</l>
 <l>Southward, across the beaches loud</l>
 <l>And cliffs of white</l>
-<l></l>
+</lg>
+<lg>
 <l>To fields of France, far fields that spread</l>
 <l>Beyond the tumbling of the waves,</l>
 <l>And touches, as with shadowy tread,</l>
 <l>The English graves.</l>
-<l></l>
+</lg>
+<lg>
 <l>There, too, is Earth that never weeps,</l>
 <l>The unrepining Earth, that holds</l>
 <l>The secret of a thousand sleeps,</l>
 <l>And there unfolds</l>
-<l></l>
+</lg>
+<lg>
 <l>Flowers of sweet ignorance on the slope</l>
 <l>Where strong arms dropped and blood choked </l>
 <l>breath;</l>
 <l>Earth, that forgets all things but hope</l>
 <l>And smiles on death. .</l>
-<l></l>
+</lg>
+<lg>
 <l>They poured their spirits out in pride;</l>
 <l>They throbbed away the price of years;</l>
 <l>Now that dear ground is glorified</l>
 <l>With dreams, with tears.</l>
-<l></l>
+</lg>
+<lg>
 <l>A flower there is sown, to bud</l>
 <l>And bloom beyond our loss and smart.</l>
 <l>Noble France, at its root is blood</l>
 <l>From Our England's heart.</l>
-<l></l>
-<l>LAURENCE BINYON.</l>
-<l></l>
-<l>(The Spectator, June 26th, 1913.)</l>
-<l></l>
-<l></l>
-<l>ON THE RUE DU BOIS.</l>
-<l></l>
-<l>(A distinguished officer writes from the British Headquarters in France :-" I venture to send you these beautiful lines, written by Canon F. G. Scott, of Quebec, who is doing duty with the 3rd Brigade of the Canadian Division, and whose impressions which brought about the writing of these lines were gained from actual experiences in the trenches. It seems to me that such words as these should be be made known to the public, for apart from their intrinsic beauty they are full of comfort to those who are sorely stricken in this terrible war.")</l>
-<l></l>
-<l>0 PALLID Christ within this broken shrine,</l>
-<l>Not those torn Hands and not that Heart </l>
-<l>of Thine</l>
+</lg>
+<byline rend="right">Laurence Binyon.</byline>
+<bibl>(The <hi rend= "italic">Spectator>, June 26th, 1915</hi></bibl>
+</div>
+<div type="poem" xml:id="macdonald32">
+<pb n="52"/>
+<head rend="center">On the Rue Du Bois</head>
+<note><hi rend="italic"> (A distinguished officer writes from the British Headquarters in France :-" I venture to send you these beautiful lines, written by Canon F. G. Scott, of Quebec, who is doing duty with the 3rd Brigade of the Canadian Division, and whose impressions which brought about the writing of these lines were gained from actual experiences in the trenches. It seems to me that such words as these should be be made known to the public, for apart from their intrinsic beauty they are full of comfort to those who are sorely stricken in this terrible war.")</hi></note>
+<lg type="stanza">
+<l>O PALLID Christ within this broken shrine,</l>
+<l>Not those torn Hands and not that Heartof Thine</l>
 <l>Have given the nations blood to drink like wine.</l>
-<l></l>
-<l>Through weary years and 'neath the changing </l>
-<l>skies,</l>
+</lg>
+<lg>
+<l>Through weary years and 'neath the changing skies,</l>
 <l>Men turned their back on those appealing Eyes</l>
 <l>And scorned as vain Thine awful Sacrifice.</l>
-<l></l>
+</lg>
+<lg>
 <l>Kings with their armies, children in their play,</l>
-<l>Have passed unheeding down this shell-ploughed </l>
-<l>way,</l>
-<l>The great world knew not where its true strength </l>
-<l>lay.</l>
-<l></l>
+<l>Have passed unheeding down this shell-ploughed way,</l>
+<l>The great world knew not where its true strengthlay.</l>
+</lg>
+<lg>
 <l>In pomp and luxury, in lust of gold, </l>
 <l>in selfish ease, in pleasures manifold,</l>
 <l>"Evil is good, good evil," we were told.</l>
-<l></l>
-<l>Yet here, where nightly the great flare-lights </l>
-<l>gleam,</l>
+</lg>
+<lg>
+<l>Yet here, where nightly the great flare-lights gleam,</l>
 <l>And murder stalks triumphant in their beam,</l>
 <l>The world has wakened from its empty dream.</l>
-<l></l>
-<l>At last, 0 Christ, in this strange, darkened land, </l>
+</lg>
+<lg>
+<l>At last, O Christ, in this strange, darkened land, </l>
 <l>Where ruined homes lie round on every hand,</l>
 <l>Life's deeper truths men come to understand.</l>
-<l></l>
+</lg>
+<lg>
 <l>For lonely graves along the countryside,</l>
-<l>Where sleep those brave hearts who for others </l>
-<l>died,</l>
+<l>Where sleep those brave hearts who for others died,</l>
 <l>Tell of life's union with the Crucified.</l>
-<l></l>
+</lg>
+<lg>
 <l>And new light kindles in the mourner's eyes,</l>
-<l>Like day-dawn breaking through the rifted </l>
-<l>skies,</l>
+<l>Like day-dawn breaking through the rifted skies,</l>
 <l>For Life is born of life's self-sacrifice.</l>
-<l></l>
-<l>Holy Week, Northern France.</l>
-<l></l>
-<l>(The Times.)</l>
+</lg>
+<byline rend="right">Holy Week, Northern France.</byline>
+<bibl>(The <hi rend= "italic">Times></hi></bibl>
+</div>
 <l></l>
 <l>HOPE.</l>
 <l></l>

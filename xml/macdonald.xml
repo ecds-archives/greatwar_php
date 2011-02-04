@@ -1066,7 +1066,7 @@
 <pb n="45"/>
 <head rend="center">"From Generation to Generation."<lb/>
     <hi rend="smallcap">In Memoriam W.G.C.G.</hi></head>
-<lg type="stanza>
+<lg type="stanza">
 <l>ONE gave long years with heart and brain, </l>
 <l>One, youth's brief fiery blow, </l>
 <l>For freedom: whence the greater gain</l>
@@ -1328,20 +1328,18 @@ King's College, London</byline>
 <byline rend="right">Holy Week, Northern France.</byline>
 <bibl>(The <hi rend= "italic">Times></hi></bibl>
 </div>
-<l></l>
-<l>HOPE.</l>
-<l></l>
-<l>SINCE Death has summoned to the dark </l>
-<l>Beyond</l>
+<div type="poem" xml:id="macdonald33">
+<pb n="56"/>
+<head rend="center">Hope</head>
+<lg type="stanza">
+<l>SINCE Death has summoned to the dark Beyond</l>
 <l>Our best and bravest, and no heart dare hope</l>
 <l>For the dim days to be-so frail, so fond</l>
-<l>And foolish our dead dreams-we blindly </l>
-<l>grope</l>
+<l>And foolish our dead dreams-we blindly grope</l>
 <l>Amid a world convulsed by storm and strife,</l>
-<l>With helpless hands, seeking our old lost </l>
-<l>faith,</l>
+<l>With helpless hands, seeking our old lost faith,</l>
 <l>Our vanished loves; calling in vain for life;</l>
-<l>The answer from the reeking void is  ÏDeath."</l>
+<l>The answer from the reeking void is  "Death."</l>
 <l>Nature, hast thou no part in this our pain?</l>
 <l>No sympathy with man? Else why bestow</l>
 <l>The smiling tears of tender April rain,</l>
@@ -1354,421 +1352,445 @@ King's College, London</byline>
 <l>The purple pageantry of hill and moor,</l>
 <l>The joy of flow'rs that blow, of birds that sing,</l>
 <l>The beauty that our hearts so loved of yore</l>
-<l>Why flaunt them while we weep? </l>
-<l>Soft she replies,</l>
+<l>Why flaunt them while we weep? Soft she replies,</l>
 <l>ÏAs flowers fade, suns set, and yet shall be,</l>
 <l>So, tho' men perish, Man's spirit never dies,</l>
 <l>But lives and grows to all Eternity."</l>
-<l>WYNNE STEWART.</l>
-<l></l>
-<l>(The Woman at Home.)</l>
-<l></l>
-<l></l>
-<l></l>
-<l>"DICK."-MAY, 1915.</l>
-<l></l>
+</lg>
+<byline rend="right">Wynne Stewart</byline>
+<bibl>(The <hi rend= "italic">(Woman at Home)></hi></bibl>
+</div>
+<div type="poem" xml:id="macdonald33">
+<pb n="57"/>
+<head rend="center">"Dick."-May, 1915</head>
+<lg type="stanza">
 <l>HE lived! deep in my heart I held him,</l>
 <l>Son, all my own-just for a little while;</l>
 <l>Fond mem'ry cherishes his doings,</l>
 <l>His cheerful hurry, and his slow, shy smile.</l>
-<l></l>
-<l>How fled the years! How vainly I begrudged </l>
-<l>them,</l>
+</lg>
+<lg>
+<l>How fled the years! How vainly I begrudged them,</l>
 <l>Their claim upon the hours I craved as mine;</l>
 <l>Yet given that he might be prepar&#x00E9;d</l>
-<l>To take his place, when came the hour, the </l>
-<l>sign.</l>
-<l></l>
+<l>To take his place, when came the hour, the sign.</l>
+</lg>
+<lg>
 <l>There came, oh all too soon, the call of Empire;</l>
 <l>Give back your sons, ye mothers of the race!</l>
 <l>Among the first my son responded, gladly;</l>
 <l>And proudly I, his mother, gave him place.</l>
-<l></l>
-<l>Gone were the years I watched him; in the </l>
-<l>darkness</l>
+</lg>
+<lg>
+<l>Gone were the years I watched him; in the darkness</l>
 <l>I strove to picture this, his unsought life;</l>
-<l>Would courage hold! nay, could the monster </l>
-<l>terror</l>
+<l>Would courage hold! nay, could the monsterterror</l>
 <l>Rise up and wound him in this hellish strife?</l>
-<l></l>
-<l>And whiles I prayed-as mothers do in secret</l>
+</lg>
+<lg>
+<l>And whiles I prayed-as mothers do in secret-</l>
 <l>Although their hands are busy otherwise;</l>
 <l>And whiles I grieved, as mothers must-in secret,</l>
 <l>Yet none who knew me did my fears surprise.</l>
-<l></l>
+</lg>
+<lg>
 <l>He died! ah yes, he fell in action,</l>
-<l>My boy who gave his life that truth might </l>
-<l>live; </l>
-<l>And though my feet must ever tread more </l>
-<l>softly,</l>
+<l>My boy who gave his life that truth mightlive; </l>
+<l>And though my feet must ever tread more softly,</l>
 <l>Since him I see no more and yet must live;- </l>
-<l></l>
+</lg>
+<lg>
 <l>He lives! deep in my heart I know it:</l>
 <l>The life he knows is not of earthly span, </l>
 <l>It is the life by sacrifice attain&#x00E9;d,</l>
 <l>Of God ordained ere yet the world began.</l>
-<l></l>
-<l>A. M. NORTHWOOD.</l>
-<l></l>
-<l></l>
-<l></l>
-<l>THE DEAD.</l>
-<l></l>
-<l>To ONE KILLED IN ACTION.</l>
-<l></l>
+</lg>
+<byline rend="right">A.M. Northwood.</byline>
+<div type="poem" xml:id="macdonald34">
+<pb n="59"/>
+<head rend="center">The Dead."</head><lb/>
+    <hi rend="smallcap">To One Killed in Action</hi><lb/>
+<lg type="stanza">
 <l>DEAR love, they say thou art at rest.</l>
 <l>I heed them not, though thou art long,</l>
 <l>Dreaming that thou, with heart still strong </l>
 <l>For fighting, followest some far quest.</l>
-<l></l>
+</lg>
+<lg>
 <l>They say, dear heart, I must forget.</l>
 <l>Nay, though the agony be deep,</l>
 <l>That memory can never sleep. </l>
 <l>Thy passioned kisses linger yet.</l>
-<l></l>
+</lg>
+<lg>
 <l>They say, dear love, the daisies blithe</l>
 <l>Shall o'er thy head in summer spring.</l>
 <l>Daisies I ÷. I see thy body swing </l>
 <l>Lithe and strong-limbed, above the scythe.</l>
-<l></l>
+</lg>
+<lg>
 <l>Dear love, they say that in the light</l>
 <l>Of Heaven's joy our souls shall meet.</l>
 <l>Dear God! I want thee now, the sweet </l>
 <l>Sight of thee-not in Heaven-to-night!</l>
-<l></l>
-<l>VIOLET GILLESPIE.</l>
-<l></l>
-<l>(Poems of 1914)</l>
-<l></l>
-<l>ANOTHER CALL TO ARMS.</l>
-<l></l>
+</lg>
+<byline rend="right">Violet Gillespie</byline>
+<bibl>(<hi rend= "italic">Poems of>1914)</hi></bibl>
+</div>
+<div type="poem" xml:id="macdonald35">
+<pb n="57"/>
+<head rend="center">Another Call to Arms</head>
+<lg type="stanza">
 <l>TAKE up your arms, my soldier. </l>
 <l>You were not meant to fight, </l>
 <l>For Loveliness has given to you </l>
 <l>Her spirit of delight;</l>
-<l></l>
+</lg>
+<lg>
 <l>And you have fought with demons </l>
 <l>These armies never knew: </l>
 <l>The direst enemies of Life </l>
 <l>Have been afraid of you;</l>
-<l></l>
+</lg>
+<lg>
 <l>And while through sloth and weakness </l>
 <l>Men let the monsters loose, </l>
 <l>You fought for Life's great loveliness </l>
 <l>And sought Life's perfect use.</l>
-<l></l>
+</lg>
+<lg>
 <l>Yet now from your high mountain </l>
 <l>I bid you wend your way </l>
 <l>To dip your hands in carnage, </l>
 <l>And like Death's hireling, slay.</l>
-<l></l>
+</lg>
+<lg>
 <l>Arid now you stand and tremble, </l>
 <l>Now terror gapes at you </l>
 <l>Whom Courage never offered </l>
 <l>A task you could not do.</l>
-<l></l>
+</lg>
+<lg>
 <l>Take up your arms, my soldier; </l>
 <l>No cross of wood is yours, </l>
 <l>Before you reach Gethsemane </l>
 <l>Blood from your spirit pours.</l>
-<l></l>
+</lg>
+<lg>
 <l>And you shall die, my soldier, </l>
 <l>The day you swear to kill: </l>
 <l>Take up your arms, my soldier, </l>
 <l>And do it with a will.</l>
-<l></l>
+</lg>
+<lg>
 <l>For in your weakest brother </l>
 <l>Your soul must find a place; </l>
 <l>Now for that greater selfhood </l>
 <l>Your little self efface.</l>
-<l></l>
+</lg>
+<lg>
 <l>The nations move as children </l>
 <l>And you must be a child. </l>
 <l>Take up your arms, my soldier, </l>
 <l>Nor think your soul defiled.</l>
-<l></l>
+</lg>
+<lg>
 <l>Liberty in her travail </l>
 <l>Has pains too deep for thought; </l>
 <l>And many skeins are tangled </l>
 <l>Ere Fate's design is wrought.</l>
-<l></l>
+</lg>
+<lg>
 <l>Die on the cross, my soldier, </l>
 <l>Nor pray the cup pass by, </l>
 <l>For he shall rise transfigured </l>
 <l>Who knows the hour to die.</l>
-<l></l>
-<l>MAX PLOWMAN.</l>
-<l></l>
-<l>(The Daily News, July 12th, 1915.)</l>
-<l></l>
-<l></l>
-<l>TRIBUTE TO ENGLAND'S DEATHLESS DEAD.</l>
-<l></l>
+</lg>
+<byline rend="right">Max Plowman</byline>
+<bibl>(The <hi rend= "italic">Daily News>, July 12th, 1915)</hi></bibl>
+</div>
+<div type="poem" xml:id="macdonald36">
+<pb n="62"/>
+<head rend="center">Tribute to England's Deathless Dead</head>
+<lg type="stanza">
 <l>THEY need no dirge, for Spring-time fills </l>
 <l>All things with tribute unto them:</l>
 <l>The music of the daffodils</l>
 <l>Shall be a soldier's requiem</l>
 <l>Among a thousand hills.</l>
-<l></l>
+</lg>
+<lg>
 <l>Blow, golden trumpets, mournfully,</l>
 <l>For all the golden youth far-fled;</l>
 <l>For all the shattered dreams that lie</l>
 <l>Where God has laid the quiet dead</l>
 <l>Under an alien sky.</l>
-<l></l>
+</lg>
+<lg>
 <l>But blow triumphant music, too,</l>
 <l>Across the world, from sea to sea,</l>
 <l>Because the heart of youth was true,</l>
 <l>Because our England proved to be</l>
 <l>Even greater than we knew.</l>
-<l></l>
-<l>MILDRED HUXLEY.</l>
-<l></l>
-<l>(The Contemperary Review, June, 1915.)</l>
-<l></l>
-<l></l>
-<l></l>
-<l>CHANT OF DEAD WARRIORS.</l>
-<l></l>
-<l>WE came from the ends of the Earth to the</l>
-<l>Mother who gave to us birth,</l>
-<l>In our eyes leapt the sunshine of mirth, through </l>
-<l>our veins ran the rapture of Life!</l>
-<l>We were young, and the flame of desire still </l>
-<l>burned, and our hearts were afire,</l>
-<l>Our love was intense and our ire was swiftly </l>
-<l>aroused, for in strife</l>
-<l>We smote without rest, without ruth, with the </l>
-<l>vigour and passion of Youth,</l>
-<l>And hated dissemblers of Truth, though our </l>
-<l>ways with disorder were rife.</l>
-<l></l>
-<l>In the silence of Death now we lie, strangely</l>
-<l>bound 'neath an alien sky,</l>
-<l>Life was good but 'twas better to die in the </l>
-<l>battle for England our Mother!</l>
-<l>She reared us and sent us afar, recalled us and </l>
-<l>armed us for War-</l>
-<l>We heard and we came and are sleeping now, </l>
-<l>brother with brother;</l>
-<l>'Neath the tide of the battle we rest, with the </l>
-<l>fever of life unoppressed:</l>
-<l>Of all ends 'twas the end that was best; what </l>
-<l>true man desired another?</l>
-<l></l>
-<l>We flowed as the sea-tides flow, with a roar in </l>
-<l>the face of the foe,</l>
-<l>And smote them with blow upon blow, and they </l>
-<l>sank 'neath the furious wave; </l>
-<l>were swift, we were terrible, strong, and </l>
-<l>were filled with the fury of Wrong:</l>
-<l>Invincible, sweeping along, no mercy we sought </l>
-<l>nor we gave;</l>
-<l>Dishonoured, they feared us and fell, and the </l>
-<l>land they transformed into Hell</l>
-<l>Is avenged, and our death, it was well-for with </l>
-<l>Glory we rode to the grave</l>
-<l></l>
-<l>CECIL ROBERTS.</l>
-<l></l>
-<l></l>
-<l>TO THE UNKNOWN DEAD.</l>
-<l></l>
-<l>I.</l>
-<l></l>
+</lg>
+<byline rend="right">Mildred Huxley</byline>
+<bibl>(The <hi rend= "italic">Contemporary Review</hi>, June, 1915)</bibl>
+</div>
+<div type="poem" xml:id="macdonald37">
+<pb n="63"/>
+<head rend="center">Chant of Dead Warriors</head>
+<lg type="stanza">
+<l>WE came from the ends of the Earth to the Mother who gave to us birth,</l>
+<l>In our eyes leapt the sunshine of mirth, throughour veins ran the rapture of Life!</l>
+<l>We were young, and the flame of desire stillburned, and our hearts were afire,</l>
+<l>Our love was intense and our ire was swiftly aroused, for in strife</l>
+<l>We smote without rest, without ruth, with thevigour and passion of Youth,</l>
+<l>And hated dissemblers of Truth, though our ways with disorder were rife.</l>
+</lg>
+<lg>
+<l>In the silence of Death now we lie, strangely bound 'neath an alien sky,</l>
+<l>Life was good but 'twas better to die in thebattle for England our Mother!</l>
+<l>She reared us and sent us afar, recalled us andarmed us for War-</l>
+<l>We heard and we came and are sleeping now, brother with brother;</l>
+<l>'Neath the tide of the battle we rest, with the fever of life unoppressed:</l>
+<l>Of all ends 'twas the end that was best; what true man desired another?</l>
+</lg>
+<lg>
+<l>We flowed as the sea-tides flow, with a roar in the face of the foe,</l>
+<l>And smote them with blow upon blow, and they sank 'neath the furious wave; </l>
+<l>were swift, we were terrible, strong, andwere filled with the fury of Wrong:</l>
+<l>Invincible, sweeping along, no mercy we sought nor we gave;</l>
+<l>Dishonoured, they feared us and fell, and the land they transformed into Hell</l>
+<l>Is avenged, and our death, it was well-for withGlory we rode to the grave</l>
+</lg>
+<byline rend="right">Cecil Roberts</byline>
+</div>
+<div type="poem" xml:id="macdonald38">
+<pb n="65"/>
+<head rend="center">To the Unknown Dead</head>
+</div>
+<div xml:id="macdonald38" type="section">
+<head rend="center">I.</head>
+<lg>
 <l>TO all the fallen, all the nameless</l>
 <l>Host of the unremembered slain, </l>
 <l>Who noteless fought and perished fameless, </l>
 <l>Yet won the cross- the cross of pain, </l>
 <l>Greeting I bring and requiem. </l>
 <l>May light perpetual shine on them.</l>
-<l></l>
+</lg>
+<lg>
 <l>In P&#x00E9;re Lachaise among the marbles </l>
 <l>I marked how human nature tires </l>
 <l>To gather grapes of thorns, or garbles</l>
 <l>Sorrow with insincerities. </l>
 <l>Little I read but hope and praise </l>
-<l>Inscribed for those in PÀre Lachaise.</l>
-<l></l>
+<l>Inscribed for those in P&#x00E9;re Lachaise.</l>
+</lg>
+<lg>
 <l>Yet flesh recoils and spirit falters </l>
 <l>Before the secret of the pit. </l>
 <l>Brave it who may, no glozing alters </l>
 <l>That menace in the gloom of it.</l>
 <l>ÏA child's dread of the darkness!Ó Well, </l>
 <l>Is any fear more terrible ?</l>
-<l></l>
+</lg>
+<lg>
 <l>Auroral Lights of perished passion </l>
 <l>'Their streamers on the night unfurl; </l>
 <l>Or memory's wan moonbeams fashion</l>
 <l>'Mid falling tears her arch of pearl; </l>
 <l>And still the eternal silence saith: </l>
 <l>Death is not otherwise than death.</l>
-<l></l>
+</lg>
+<lg>
 <l>-Even destruction's gulf, the lightless </l>
 <l>Deep which is called the outer dark, </l>
 <l>So void that thought itself is flightless, </l>
 <l>So formless that no dream for ark </l>
 <l>Floats on oblivion's flood to hive </l>
 <l>Some lingering waifs of self alive.</l>
-<l></l>
+</lg>
+<lg>
 <l>Wherefore, as one who makes libation, </l>
 <l>Between the living and the dead </l>
 <l>I stand, and give you salutation, </l>
 <l>Lords of the Terror. Who have said </l>
 <l>Clear words of death? If any hear </l>
 <l>My call, make answer! Rise! Appear!</l>
-<l></l>
-<l>II.</l>
-<l></l>
+</lg>
+</div>
+<div xml:id="macdonald38" type="section">
+<head rend="center">II.</head>
+<lg>
 <l>Lo ! Sphinx, the ancient wisdom, rises, </l>
 <l>She who avers not nor denies. </l>
 <l>All things she knows and all despises: </l>
 <l>Beyond the streaming galaxies </l>
 <l>Her eyes discern the end of things, </l>
 <l>And her smile mocks it while she sings:-</l>
-<l></l>
+</lg>
+<lg>
 <l>"Why for the fruit forbidden </l>
 <l>Of knowledge will ye forfeit life's illusion, </l>
 <l>Seeing ye yourselves in Maya's veil are woven? </l>
 <l>Seek ye the secret hidden? </l>
 <l>Hope is a mocker; love, the heart's confusion; </l>
 <l>And faith, unreasoning trust in things unproven."</l>
-<l></l>
+</lg>
+<lg>
 <l>"Thou for whom life seems over, </l>
 <l>Whose spirit haunts the wastes of time departed, </l>
 <l>Gaze in mine eyes which see the truth and show it. </l>
-<l>Behold thy love, 0 lover, </l>
-<l>-Thy long-lost love-grown sleek and sleepy-</l>
-<l>hearted. </l>
+<l>Behold thy love, O lover, </l>
+<l>-Thy long-lost love-grown sleek and sleepy-hearted. </l>
 <l>Thou art forgot: be comforted to know it."</l>
-<l></l>
+</lg>
+<lg>
 <l>"And thou, whose day rejoices </l>
 <l>In youth and riches and the love of woman, </l>
 <l>Look in mine eyes. Yea, is thy pride abated, </l>
 <l>Beholding fate who poises </l>
-<l>Her scales which weigh the worth of all things </l>
-<l>human </l>
-<l>Against a little dust, 0 heart elated?Ó</l>
-<l></l>
+<l>Her scales which weigh the worth of all things human </l>
+<l>Against a little dust, O heart elated?Ó</l>
+</lg>
+<lg>
 <l>"Farewell. Thou canst not stay nor hasten </l>
 <l>The flux of the eternal dream; </l>
 <l>Nor 'scape the hour when death shall fasten </l>
 <l>Upon thee in the kiss supreme, </l>
 <l>As on thy lips my lips are pressed </l>
 <l>Hard, and my talons in thy breast."</l>
-<l></l>
-<l>0 singer of the hollow places </l>
+</lg>
+<lg>
+<l>O singer of the hollow places </l>
 <l>Where melancholy listless broods </l>
 <l>Beside forsaken tasks or paces, </l>
 <l>Forlorn, her echoing solitudes, </l>
 <l>If that indeed thou speakest sooth, </l>
 <l>Perish with thine ignoble truth</l>
-<l></l>
-<l>III.</l>
-<l></l>
+</lg>
+</div>
+<div xml:id="macdonald38" type="section">
+<head rend="center">III.</head>
+<lg>
 <l>Then to my mouth remembrance lifted </l>
 <l>The cup which Thule's king of old </l>
 <l>Was wont to drink from; and there drifted </l>
 <l>The music of the Bowl of Gold </l>
 <l>Aeolian o'er me, and I knew </l>
 <l>That man's inveterate hope was true.</l>
-<l></l>
+</lg>
+<lg>
 <l>The silver cord is loosed, and broken </l>
 <l>The golden bowl: again the dust </l>
 <l>Returns to earth." What ruth unspoken </l>
 <l>Wells upwards in the words august! </l>
 <l>What swell of the heart's bitterness </l>
 <l>Heaves underneath their tranquil stress!</l>
-<l></l>
+</lg>
+<lg>
 <l>O mourning voice, so vast and tender, </l>
 <l>Draping thy requiem as a pall </l>
 <l>Of hushed magnificence, a splendour </l>
 <l>Dim on the common doom of all, </l>
 <l>Thine is indeed a gentle word </l>
 <l>For death--the loosened silver cord.</l>
-<l></l>
+</lg>
+<lg>
 <l>But for the dead thou hast no pan, </l>
 <l>No laurel crown, no branch of palm, </l>
 <l>Only a threnody lethean </l>
 <l>Serene in all-surrendering calm;</l>
 <l>And, like a bell that surges toll, </l>
 <l>The burden of the Golden Bowl.</l>
-<l></l>
+</lg>
+<lg>
 <l>Yet rises up the old misgiving:</l>
 <l>Is it song's sorcery that transmutes </l>
 <l>To gold the pitcher-sherds which, living, </l>
 <l>Were earthier of the earth than brutes ? </l>
 <l>Can this be said of such as they, </l>
 <l>Poor cruses of coarse-shapen clay?</l>
-<l></l>
+</lg>
+<lg>
 <l>Gold? So the phrase is, thus miscalling </l>
 <l>That swarming life, obscure and null, </l>
 <l>Rolled by the river ever falling </l>
 <l>Into an ocean never full. </l>
 <l>-Drift and drab ooze to floor the sea </l>
 <l>Whose waters are eternity.</l>
-<l></l>
-<l>IV.</l>
-<l></l>
+</lg>
+</div>
+<div xml:id="macdonald38" type="section">
+<head rend="center">IV.</head>
+<lg>
 <l>Before me rose austere, impassive, </l>
 <l>A cliff-like scarp of limestone grey. </l>
 <l>Lofty it stood, a barrier massive </l>
 <l>Athwart the cypress-bordered way; </l>
 <l>And on the face of it a gloom </l>
 <l>Which seemed a cavern or a tomb.</l>
-<l></l>
+</lg>
+<lg>
 <l>And sculptured shapes of man and maiden </l>
 <l>By that dark entrance I beheld. </l>
 <l>One knelt in prayer; one, overladen </l>
 <l>With the numb miseries of eld, </l>
 <l>Submissive bowed. Another bent </l>
-<l>Earthward her face. Some crouched or </l>
-<l>leant</l>
-<l></l>
+<l>Earthward her face. Some crouched or leant</l>
+</lg>
+<lg>
 <l>Clinging together as the haven </l>
 <l>Of nothingness they gathered nigh. </l>
 <l>But under them these words engraven </l>
 <l>Spake for the sculptor's imagery: </l>
 <l>"They that in darkness sat have seen </l>
 <l>Great light." And I descried between</l>
-<l></l>
+</lg>
+<lg>
 <l>The frowning walls two lovers sleeping </l>
 <l>As though the Everlasting Arms </l>
 <l>Indeed were under them and keeping </l>
 <l>Far from their rest all needs and harms. </l>
 <l>And light which seemed no light of day </l>
 <l>Dwelt on them like the Shekinah.</l>
-<l></l>
+</lg>
+<lg>
 <l>The poppy of oblivion covers </l>
 <l>The legend and the name of these. </l>
 <l>Roses lie strewn by pilgrim-lovers </l>
 <l>On Ab&#x00E9;lard and H&#x00E9;loise </l>
 <l>Summer on summer, year by year, </l>
 <l>But never a blossom withers here.</l>
-<l></l>
+</lg>
+<lg>
 <l>For to the weak, the world-defeated, </l>
 <l>Bound on the Ixionian wheel </l>
 <l>Of toil, or trodden down and treated </l>
 <l>As dross that clogs our age of steel;</l>
 <l>Ay, and when dead, like worthless dross </l>
 <l>Whose bodies fill the common fosse,</l>
-<l></l>
+</lg>
+<lg>
 <l>The lives awry, the misbegotten, </l>
 <l>Foredoomed to failure from their birth, </l>
 <l>With stunted soul and body rotten, </l>
 <l>The disinherited of earth, </l>
 <l>This monument of limestone grey </l>
 <l>Was carven by Bartholom&#x00E9;.</l>
-<l></l>
-<l>V.</l>
-<l></l>
+</lg>
+<div xml:id="macdonald38" type="section">
+<head rend="center">V.</head>
+<lg>
 <l>Why tinsel truth to mimic glory, </l>
 <l>Making pretence each valiant deed </l>
 <l>And death shall live renowned in story </l>
 <l>While men by generations bleed? </l>
 <l>A list, a number and a name-</l>
 <l>Such is the recompense of fame!</l>
-<l></l>
+</lg>
+<lg>
 <l>Fame! When through death's tremendous </l>
 <l>portal </l>
 <l>The soul emerging fronts the Sea </l>
@@ -1776,166 +1798,185 @@ King's College, London</byline>
 <l>Its waves of shimmering melody, </l>
 <l>What will she care if men below </l>
 <l>Extol her earthly name or no?</l>
-<l></l>
+</lg>
+<lg>
 <l>The periods of the panegyric </l>
 <l>May roll sonorous over them </l>
 <l>Who had small praise in life; the lyric </l>
 <l>May crown, as crowns a diadem </l>
 <l>The empty catafalque. But they, </l>
 <l>Who died for us, are far away</l>
-<l>JOHN GURDON.</l>
-<l></l>
-<l></l>
-<l></l>
-<l>THE SHADOW.</l>
-<l></l>
-<l>FOR THE MOURNERS OF THE SLAIN.</l>
-<l></l>
+</lg>
+</div>
+<byline rend="right">John Gurdon.</byline>
+<bibl>(The <hi rend= "italic">English Review</hi>)</bibl>
+</div>
+<div type="poem" xml:id="macdonald39">
+<pb n="73"/>
+<head rend="center">The Shadow."<lb/>
+    <hi rend="smallcap">For the Mourners of the Slain.</hi></head>
+<lg type="stanza">
 <l>AWHILE I dreamed: to me an angel came,</l>
-<l>Bright with the glory of the dawn's first </l>
-<l>flame; </l>
+<l>Bright with the glory of the dawn's first flame; </l>
 <l>But as he paus'd ever beside him stood </l>
 <l>A ghastly spectre, grim in robe and hood.</l>
-<l></l>
+</lg>
+<lg>
 <l>The first one brought a wondrous sense of peace, </l>
 <l>As if his voice could bid all sorrow cease. </l>
 <l>He wore immortal roses in his hair, </l>
 <l>And when he smiled I knew how heaven was fair.</l>
-<l></l>
+</lg>
+<lg>
 <l>The second, scowling, as he hurried past </l>
 <l>Athwart the sun a blighting shadow cast; </l>
 <l>And where he walked, with grim averted head, </l>
 <l>The very grass had withered 'neath his tread.</l>
-<l></l>
-<l>ÏWho art thou? say!" unto the first I cried.</l>
-<l>ÏI am God's servant, Death," soft tones replied.</l>
-<l>ÏAnd that dread shape which ever walks with </l>
-<l>thee?Ó</l>
-<l>ÏThat is, alas! man's fearful dream of me."</l>
-<l></l>
-<l>IDA MAY.</l>
-<l></l>
-<l>(The Woman at Home.)</l>
-<l></l>
-<l>A GRAVE IN FLANDERS. </l>
-<l>BY THE MARQUESS OF CREWE.</l>
-<l></l>
-<l>HERE in the marshland, past the battered </l>
-<l>bridge,</l>
+</lg>
+<lg>
+<l>"Who art thou? say!" unto the first I cried.</l>
+<l>"I am God's servant, Death," soft tones replied.</l>
+<l>"And that dread shape which ever walks with thee?"</l>
+<l>"That is, alas! man's fearful dream of me."</l>
+</lg>
+<byline rend="right">Ida May.</byline>
+<bibl>(The <hi rend= "italic">Woman at Home</hi>)</bibl>
+</div>
+<div type="poem" xml:id="macdonald39">
+<pb n="73"/>
+<head rend="center">A Grave in Flanders."<lb/>
+    <hi rend="smallcap">By the Marquess of Crewe.</hi></head>
+<lg type="stanza">
+<l>HERE in the marshland, past the battered bridge,</l>
 <l>One of a hundred grains untimely sown,</l>
 <l>Here with his comrades of the hard-won ridge, </l>
 <l>He rests, unknown.</l>
-<l></l>
+</lg>
+<lg>
 <l>His horoscope had seemed so plainly drawn:-</l>
-<l>School triumphs, earned apace in work and </l>
-<l>play:</l>
+<l>School triumphs, earned apace in work and play:</l>
 <l>Friendships at will; then love's delightful dawn </l>
 <l>And mellowing day;</l>
-<l></l>
+</lg>
+<lg>
 <l>Home fostering hope; some service to the State;</l>
 <l>Benignant age; then the long tryst to keep</l>
 <l>There in the yew-tree shadow congregate </l>
 <l>His fathers sleep.</l>
-<l></l>
+</lg>
+<lg>
 <l>Was the one thing needful to distil</l>
 <l>From life's alembic, through this holier fate,</l>
 <l>The man's essential soul, the hero will? </l>
 <l>We ask; and wait.</l>
-<l></l>
-<l>(The Harrovian)</l>
-<l></l>
-<l>ALL SOULS.</l>
-<l></l>
+</lg>
+<bibl>(The <hi rend= "italic"> Harrovian</hi>)</bibl>
+</div>
+<div type="poem" xml:id="macdonald40">
+<pb n="75"/>
+<head rend="center">All Souls."</head>
+<lg type="stanza">
 <l>THERE'S traffic in the worlds immortal, </l>
 <l>For many souls are flying home;</l>
 <l>Striving and pushing at the portal</l>
 <l>For sight of glorious things to come.</l>
-<l></l>
+</lg>
+<lg>
 <l>What rout of wings against the sunset!</l>
 <l>What rosy plumes the dawning bar!</l>
 <l>Heaven's stormed with gay and happy onset</l>
 <l>Of youngling things home from the War.</l>
-<l></l>
+</lg>
+<lg>
 <l>Against the inverted cup of azure,</l>
 <l>Against the evening, peach and green,</l>
 <l>The frolicsome young souls take their pleasure,</l>
 <l>Darting the silver stars between.</l>
-<l></l>
+</lg>
+<lg>
 <l>Though the old nests be sad, forsaken,</l>
 <l>The cotes of Heaven are yet unfilled:</l>
 <l>In trees of Heaven as yet untaken</l>
 <l>The immortal Loves begin to build.</l>
-<l></l>
-<l>KATHARINE TYNAN.</l>
-<l></l>
-<l>(British Review, May, 1915.)</l>
-<l></l>
-<l></l>
-<l>RECRUTIS ON THE ROAD TO OXFORD.</l>
-<l></l>
+</lg>
+<byline rend="right">Katharine Tynan.</byline>
+<bibl>(<hi rend= "italic">British Review</hi>, May, 1915.)</bibl>
+</div>
+<div type="poem" xml:id="macdonald41">
+<pb n="76"/>
+<head rend="center"> Recruits on the Road to Oxford."</head>
+<lg type="stanza">
 <l>THEY passed in dusty black defile </l>
 <l>Along the burning champaign's edge, </l>
 <l>Where English oaks for many a mile</l>
 <l>Dripped acorns o'er the berried hedge.</l>
-<l></l>
+</lg>
+<lg>
 <l>With valorous smiles on faces soiled, </l>
 <l>Out of the autumn's heat and light, </l>
 <l>These who on English earth had toiled </l>
 <l>Came forth for English earth to fight.</l>
-<l></l>
+</lg>
+<lg>
 <l>Round their descending flank out-spread </l>
 <l>The country like a painted page-</l>
 <l>God's truth, a man were lightly dead </l>
 <l>For such a golden heritage!</l>
-<l></l>
+</lg>
+<lg>
 <l>But these, the surging centuries' wrack </l>
 <l>Beyond all tides auspicious thrown, </l>
-<l>Doomed with bowed head and thread-bare </l>
-<l>back </l>
+<l>Doomed with bowed head and thread-bareback </l>
 <l>To till the land they might not own;</l>
-<l></l>
+</lg>
+<lg>
 <l>Reft of the swallow's tranquil lease, </l>
 <l>Reft of the scrap-fed robin's dole-</l>
 <l>How have these reared in starveling peace </l>
 <l>This flaming valiancy of soul? ÷</l>
-<l></l>
+</lg>
+<lg>
 <l>O England, when with fluttered breath </l>
 <l>You greet the victory they earn, </l>
 <l>And when with eyes that look on death </l>
 <l>This remnant of your sons return,</l>
-<l></l>
+</lg>
+<lg>
 <l>On your inviolate soil repent, </l>
 <l>And give the guerdon unbesought</l>
 <l>To these whose lives were freely lent </l>
 <l>Some share of that for which they fought!</l>
-<l></l>
-<l>HELEN PARRY EDEN.</l>
-<l></l>
-<l>(The Westminster Gazette.)</l>
-<l></l>
-<l>POSTLUDE: FROM AMERICA.</l>
-<l></l>
+</lg>
+<byline rend="right">Helen Parry Eden.</byline>
+<bibl>(The<hi rend= "italic">Westminster Gazzete</hi>.)</bibl>
+</div>
+<div type="poem" xml:id="macdonald42">
+<pb n="78"/>
+<head rend="center"> Postlude: From America.</head>
+<lg type="stanza">
 <l>LORD God, we pray for peace! We lift our plea</l>
-<l>That to these shores the red tide shall not </l>
-<l>roll.</l>
+<l>That to these shores the red tide shall not roll.</l>
 <l>Yet first we ask this greater boon of Thee-</l>
 <l>This greater boon, still dearer to our soul:</l>
-<l></l>
+</lg>
+<lg>
 <l>That peace shall not be ours if peace be base;</l>
 <l>That ease shall not be ours if ease be shame;</l>
 <l>That Thou wilt teach us, if we must, to face</l>
 <l>The wrath and wrack, the fury and the flame.</l>
-<l></l>
+</lg>
+<lg>
 <l>Point us the way of service, mighty Lord!</l>
 <l>Help us to see the high thing we must do;</l>
 <l>And if, to serve, we must unsheathe the sword,</l>
-<l>Nerve heart and arm to see the dread task </l>
-<l>through.</l>
-<l></l>
+<l>Nerve heart and arm to see the dread taskthrough.</l>
+</lg>
+<lg>
 <l>Dear God, we pray for peace; but first we pray</l>
 <l>That this our country, loved by us so well,</l>
 <l>Shall not from Duty turn her face away-</l>
 <l>Shall notlose hope of Heaven for fear of Hell.</l>
-<l></l>
-<l>
-<l>
+</lg>
+<byline rend="right">H.S.</byline>
+<bibl>(The<hi rend= "italic">Spectator</hi>, June 19th, 1915.)</bibl>
+</div>

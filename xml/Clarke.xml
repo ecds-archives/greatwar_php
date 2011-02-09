@@ -13,7 +13,7 @@
                </name>
             </editor>
          </titleStmt>
-	        <publicationStmt>
+	 <publicationStmt>
             <publisher>Lewis H. Beck Center for Electronic Collections
 	   and Services, Emory University</publisher>
             <pubPlace>Atlanta, GA</pubPlace>
@@ -34,7 +34,7 @@
 	   Georgia 30322 </p>
             </availability>
             <date>2004</date>
-	    <idno>http://pid.emory.edu/ark:/25593/8r4vn</idno>
+	    <idno type="ark">http://pid.emory.edu/ark:/25593/8r4vn</idno>
          </publicationStmt>
 	        <seriesStmt>
 	           <title>The Great War</title>

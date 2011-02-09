@@ -1,3 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="macdonald">
+   <teiHeader><fileDesc>
+         <titleStmt>
+            <title>A Crown of Amaranth, an electronic edition</title>
+           <publicationStmt><publisher>Lewis H. Beck Center for Electronic Collections
+	   and Services, Emory University</publisher><pubPlace>Atlanta, GA</pubPlace><address>
+	     <addrLine>540 Asbury Circle</addrLine>
+	     <addrLine>Woodruff Library</addrLine>
+	     <addrLine>Atlanta, GA 30322</addrLine>
+	   </address><availability><p>Â©Emory University. Permission is
+	   granted to download, transmit, or otherwise reproduce,
+	   distribute or display the contributions to the work claimed
+	   by Emory University for non-profit educational purposes,
+	   provided this header is included in its entirety.  For
+	   inquiries about commercial uses, contact 
+	   the Lewis H. Beck Center for Electronic Collections and
+	   Services, Woodruff Library, Emory University, Atlanta,
+	   Georgia 30322 </p></availability>
+	   <date>2011</date>
+	   <idno type="ark">http://pid.emory.edu/ark:/25593/8r5p2</idno>
+	 </publicationStmt>
+	 <seriesStmt>
+	   <title>A Crown of Amaranth</title>
+	 </seriesStmt>
+	 <notesStmt><note/></notesStmt>
+         <sourceDesc>
+            <bibl>
+	     <title>A Crown of Amaranth</title>
+	      <pubPlace>London</pubPlace>
+	     <publisher>Erskine Macdonald.</publisher>
+	     <date>1915</date>
+	   </bibl>
+         </sourceDesc>
+	 </titleStmt>      
+	 </fileDesc><encodingDesc>
+	<projectDesc><p>Poetry contemporary to World War I (the Great
+	War) has been digitized by OCR or rekeying. The work has been
+	done in conjunction with Dr. Harry Rusche of the English
+	Department, Emory University</p></projectDesc>
+	<editorialDecl>
+	<p>Block quotes are marked with q or quote
+	elements</p>
+	</editorialDecl>
+	<tagsDecl><rendition xml:id="quote">Paragraphs including q or quote
+	  elements indicate material that is in a block
+	  quote.</rendition><rendition xml:id="title">Where the title of a work is
+	  italicized, it is marked with a title element, both in the
+	  text and in footnotes.</rendition><namespace name="http://www.tei-c.org/ns/1.0"><tagUsage gi="q" render="#quote">blockquote</tagUsage><tagUsage gi="quote" render="#quote">blockquote</tagUsage><tagUsage gi="title" render="#title">italic</tagUsage></namespace></tagsDecl>
+	<refsDecl><p>The page numbers of the volumes are indicated by
+	page break elements</p>
+	<p/>
+	</refsDecl>
+	<classDecl>
+	  <taxonomy xml:id="lcsh">
+	    <bibl>
+	      <title>Library of Congress Subject Headings</title>
+	    </bibl>
+	  </taxonomy>
+	</classDecl>
+      </encodingDesc><profileDesc>
+         <creation>
+	   <rs type="collection">poetry</rs>
+	   <rs type="language">English</rs>
+            <rs type="ethnicity">Caucasian</rs>
+            <rs type="form">Unedited</rs>
+            <rs type="genre">Poetry</rs>
+            <rs type="geography">Great Britain</rs>
+            <date>1900-1999</date>
+         </creation>
+	 <textClass>
+	   <keywords scheme="#lcsh">
+	     <list>
+	       <item>World War, 1914-1918--Poetry.</item>
+	       <item>English poetry--20th Century.</item>
+	       <item>War.</item>
+	     </list>
+	   </keywords>
+	 </textClass></profileDesc>
+	 <revisionDesc>
+	   <change>
+	   <name>Jessie Dunbar</name> encoded this document in p5 <date when="02-09-2011">February 09, 2011</date></change>
+	   </revisionDesc>
+   </teiHeader>
+<text>
+<body>
 <div xml:id="MacDonald01" type="anthology" n="Crown Of Amaranth">
   <div xml:id="MacDonald02" type="poem" n="Dedication">
     <head rend="center">DEDICATION. <lb/>
@@ -470,6 +556,7 @@
 <l>The requiem music dies as if it knew</l>
 <l>The inviolate peace where 'tis already well withyou.</l>
 </lg>
+</div>
 <div type="poem" xml:id="macdonald10">
 
 <bibl>(The <hi rend= "italic">Spectator</hi>, June 5, 1915</bibl>
@@ -520,7 +607,7 @@
 <l>Pass to God's care.</l>
 </lg>
 <byline rend="right">Beatrice A. Lees.</byline>
-<bibl>(The <hi rend= "italic">Spectator</hi>, (June 19th, 1915.)</bibl>
+<bibl>(The <hi rend= "italic">Spectator</hi>, (June 19th, 1915.)</bibl></div>
 <div type="poem" xml:id="macdonald11">
 <head rend="center">For the Airmen. <lb/>
     <hi rend="italic">(Included as a tribute to the ever-glorious memory of Fight-Lieutenant Warneford, V.C.).</hi></head>
@@ -635,7 +722,7 @@
 <l>And nobly as he gave his mortal breath,</l>
 <l>The laurelled Warneford conquers Time and Death!</l>
 </lg>
-<byline rend="right">Frederic Iriving Taylor.</byline>
+<byline rend="right">Frederic Iriving Taylor.</byline></div>
 <div type="poem" xml:id="macdonald13">
 <head rend="center">The Women. <lb/></head>
 <lg type="stanza">
@@ -694,7 +781,7 @@
 <l>No answer through the empty years! </l>
 <l>No answer but a mother's tears!</l>
 </lg>
-<byline rend="right">Edward Shillito.</byline>
+<byline rend="right">Edward Shillito.</byline></div>
 <bibl>(The <hi rend= "italic">Nation</hi>, (June 12th, 1915.)</bibl>
 <div type="poem" xml:id="macdonald15">
 <head rend="center">The Woman's Toll. <lb/></head>
@@ -724,7 +811,7 @@
 </lg>
 <byline rend="right">Ruth Duffin.<lb/>
 (Part Author of "The Secret Hill.")</byline>
-<bibl>(The <hi rend= "italic">Nation</hi>, (My 15th, 1915.)</bibl>
+<bibl>(The <hi rend= "italic">Nation</hi>, (My 15th, 1915.)</bibl></div>
 <div type="poem" xml:id="macdonald16">
 <head rend="center">The Quiet Heart. <lb/></head>
 <lg type="stanza">
@@ -791,7 +878,7 @@
 <l>They enter as true brothers, hand in hand.</l>
 </lg>
 <byline rend="right">F.E. Kenneth.<lb/>
-(By special permission of the author.)</byline>
+(By special permission of the author.)</byline></div>
 <div type="poem" xml:id="macdonald18">
 <head rend="center">On the Moss: War Time. <lb/></head>
 <lg type="stanza">
@@ -945,7 +1032,7 @@
 <l>Fall'n in the crowning hour when youth redeems</l>
 <l>The pledge of boyhood? "None ultimately die</l>
 <l>Who die for England," they have made repIy </l>
-<l>"We have lived to see the battles of our dreams,î</l>
+<l>"We have lived to see the battles of our dreams,Ã®</l>
 </lg>
 <lg>
 <l>Death cannot rob them of the soldier's prize </l>
@@ -1061,7 +1148,7 @@
 <l>And Night shall fold him in soft wings.</l>
 </lg>
 <byline rend="right">Flanders, April, 1915.<lb/>
-(Included by permission of Lord Desborough.)</byline>
+(Included by permission of Lord Desborough.)</byline></div>
 <div type="poem" xml:id="macdonald25">
 <pb n="45"/>
 <head rend="center">"From Generation to Generation."<lb/>
@@ -1162,7 +1249,7 @@
 <l>On English shores, has put his life in pawn</l>
 <l>For her, for England's sake.</l>
 </lg>
-<byline rend="right">B.R.M. Hetherington.</byline>
+<byline rend="right">B.R.M. Hetherington.</byline></div>
 <div type="poem" xml:id="macdonald29">
 <pb n="47"/>
 <head rend="center">Lieut. John Richardson."<lb/>
@@ -1182,7 +1269,7 @@
 <lg>
 <l>Not less thy courage, though thy scholar-soul </l>
 <l>Illum'd thy trench with mystic runes-the hope </l>
-<l>That solac'd in his plight our oldest Sc&#x00F4;Ùp </l>
+<l>That solac'd in his plight our oldest Sc&#x00F4;Ã™p </l>
 <l>Whose song is wrought on Britain's golden scroll. </l>
 <l>No greater meed wouldst thou, no prouder fame: </l>
 <l>In "Albion's England" is enshrined thy name!</l>
@@ -1353,7 +1440,7 @@ King's College, London</byline>
 <l>The joy of flow'rs that blow, of birds that sing,</l>
 <l>The beauty that our hearts so loved of yore</l>
 <l>Why flaunt them while we weep? Soft she replies,</l>
-<l>ìAs flowers fade, suns set, and yet shall be,</l>
+<l>Ã¬As flowers fade, suns set, and yet shall be,</l>
 <l>So, tho' men perish, Man's spirit never dies,</l>
 <l>But lives and grows to all Eternity."</l>
 </lg>
@@ -1405,7 +1492,7 @@ King's College, London</byline>
 <l>It is the life by sacrifice attain&#x00E9;d,</l>
 <l>Of God ordained ere yet the world began.</l>
 </lg>
-<byline rend="right">A.M. Northwood.</byline>
+<byline rend="right">A.M. Northwood.</byline></div>
 <div type="poem" xml:id="macdonald34">
 <pb n="59"/>
 <head rend="center">The Dead."</head><lb/>
@@ -1425,7 +1512,7 @@ King's College, London</byline>
 <lg>
 <l>They say, dear love, the daisies blithe</l>
 <l>Shall o'er thy head in summer spring.</l>
-<l>Daisies I Ö. I see thy body swing </l>
+<l>Daisies I Ã–. I see thy body swing </l>
 <l>Lithe and strong-limbed, above the scythe.</l>
 </lg>
 <lg>
@@ -1592,7 +1679,7 @@ King's College, London</byline>
 <l>Before the secret of the pit. </l>
 <l>Brave it who may, no glozing alters </l>
 <l>That menace in the gloom of it.</l>
-<l>ìA child's dread of the darkness!î Well, </l>
+<l>Ã¬A child's dread of the darkness!Ã® Well, </l>
 <l>Is any fear more terrible ?</l>
 </lg>
 <lg>
@@ -1652,7 +1739,7 @@ King's College, London</byline>
 <l>Look in mine eyes. Yea, is thy pride abated, </l>
 <l>Beholding fate who poises </l>
 <l>Her scales which weigh the worth of all things human </l>
-<l>Against a little dust, O heart elated?î</l>
+<l>Against a little dust, O heart elated?Ã®</l>
 </lg>
 <lg>
 <l>"Farewell. Thou canst not stay nor hasten </l>
@@ -1779,7 +1866,7 @@ King's College, London</byline>
 <l>The disinherited of earth, </l>
 <l>This monument of limestone grey </l>
 <l>Was carven by Bartholom&#x00E9;.</l>
-</lg>
+</lg></div>
 <div xml:id="macdonald38" type="section">
 <head rend="center">V.</head>
 <lg>
@@ -1933,7 +2020,7 @@ King's College, London</byline>
 <l>Reft of the swallow's tranquil lease, </l>
 <l>Reft of the scrap-fed robin's dole-</l>
 <l>How have these reared in starveling peace </l>
-<l>This flaming valiancy of soul? Ö</l>
+<l>This flaming valiancy of soul? Ã–</l>
 </lg>
 <lg>
 <l>O England, when with fluttered breath </l>
@@ -1980,3 +2067,7 @@ King's College, London</byline>
 <byline rend="right">H.S.</byline>
 <bibl>(The<hi rend= "italic">Spectator</hi>, June 19th, 1915.)</bibl>
 </div>
+</body>
+</text>
+</TEI>
+

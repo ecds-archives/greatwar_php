@@ -3,6 +3,7 @@
    <teiHeader><fileDesc>
          <titleStmt>
             <title>A Crown of Amaranth, an electronic edition</title>
+	 </titleStmt>      
            <publicationStmt><publisher>Lewis H. Beck Center for Electronic Collections
 	   and Services, Emory University</publisher><pubPlace>Atlanta, GA</pubPlace><address>
 	     <addrLine>540 Asbury Circle</addrLine>
@@ -32,7 +33,6 @@
 	     <date>1915</date>
 	   </bibl>
          </sourceDesc>
-	 </titleStmt>      
 	 </fileDesc><encodingDesc>
 	<projectDesc><p>Poetry contemporary to World War I (the Great
 	War) has been digitized by OCR or rekeying. The work has been
@@ -125,7 +125,7 @@
 
 <div xml:id="MacDonald03" type="poem" n="Englands Dead">
 <head rend="center">England's Dead.</head>
-<epigraph><hi rend="italic">Make them to be numbered with Thy saints: in glory everlasting."</hi></epigraph>
+<epigraph rend="italic"><quote>"Make them to be numbered with Thy saints: in glory everlasting."</quote></epigraph>
 
 <lg type="stanza">
 <l n="1">HOMEWARD the long ships leap: swift-shod with joy</l>
@@ -472,7 +472,7 @@
 <l>No hero's death is premature.</l>
 </lg>
 <byline rend="right">W. Snow.</byline>
-<bibl>(The <hi rend= "italic">Spectator</hi>, May 15th, 1915</bibl>
+<closer>(The <hi rend= "italic">Spectator</hi>, May 15th, 1915</closer>
 </div>
 <pb n="21"/>
 <div type="poem" xml:id="macdonald08">
@@ -505,8 +505,8 @@
 <l>"Tell us, tell us, how it stands."</l>
 <l>"None shall pluck them from My Hands."</l>
 </lg>
-<byline rend="right">Ivan Adair.</byline>>
-<bibl>(The <hi rend="italic">Bookman</hi>.)</bibl>
+<byline rend="right">Ivan Adair.</byline>
+<closer>(The <hi rend="italic">Bookman</hi>.)</closer>
 </div>
 <pb n="22"/>
 
@@ -556,10 +556,9 @@
 <l>The requiem music dies as if it knew</l>
 <l>The inviolate peace where 'tis already well withyou.</l>
 </lg>
+<closer>(The <hi rend= "italic">Spectator</hi>, June 5, 1915</closer>
 </div>
 <div type="poem" xml:id="macdonald10">
-
-<bibl>(The <hi rend= "italic">Spectator</hi>, June 5, 1915</bibl>
 <head>THE FRONT: 1915.</head>
 <epigraph>
   <cit>
@@ -607,7 +606,7 @@
 <l>Pass to God's care.</l>
 </lg>
 <byline rend="right">Beatrice A. Lees.</byline>
-<bibl>(The <hi rend= "italic">Spectator</hi>, (June 19th, 1915.)</bibl></div>
+<closer>(The <hi rend= "italic">Spectator</hi>, (June 19th, 1915.)</closer>></div>
 <div type="poem" xml:id="macdonald11">
 <head rend="center">For the Airmen. <lb/>
     <hi rend="italic">(Included as a tribute to the ever-glorious memory of Fight-Lieutenant Warneford, V.C.).</hi></head>
@@ -667,7 +666,7 @@
 <l>Guard our flying loves when they follow.</l>
 </lg>
 <byline rend="right">Katharine Tynan".</byline>
-<bibl>(The <hi rend= "italic">Windsor Magazine</hi>, July, 1915</bibl>
+<closer>(The <hi rend= "italic">Windsor Magazine</hi>, July, 1915</closer>>
 </div>
 <pb n="28"/>
 <div xml:id="macdonald12" type="poem" n="In Memoriam:">
@@ -755,8 +754,8 @@
 <l>Not they who die, not they alone, but we,</l>
 <l>Uphold the Flag against the constant stars.</l>
 </lg>
-<byline rend="right">B.M. Hetherington.</byline>>
-<bibl>(The <hi rend="italic">Bookman</hi>.)</bibl>
+<byline rend="right">B.M. Hetherington.</byline>
+<closer>(The <hi rend="italic">Bookman</hi>.)</closer>>
 </div>
 <div type="poem" xml:id="macdonald14">
 <head rend="center">The Telegraph Boy. <lb/></head>
@@ -782,7 +781,7 @@
 <l>No answer but a mother's tears!</l>
 </lg>
 <byline rend="right">Edward Shillito.</byline></div>
-<bibl>(The <hi rend= "italic">Nation</hi>, (June 12th, 1915.)</bibl>
+<closer>(The <hi rend= "italic">Nation</hi>, (June 12th, 1915.)</closer>
 <div type="poem" xml:id="macdonald15">
 <head rend="center">The Woman's Toll. <lb/></head>
 <lg type="stanza">
@@ -811,7 +810,7 @@
 </lg>
 <byline rend="right">Ruth Duffin.<lb/>
 (Part Author of "The Secret Hill.")</byline>
-<bibl>(The <hi rend= "italic">Nation</hi>, (My 15th, 1915.)</bibl></div>
+<closer>(The <hi rend= "italic">Nation</hi>, (My 15th, 1915.)</closer></div>
 <div type="poem" xml:id="macdonald16">
 <head rend="center">The Quiet Heart. <lb/></head>
 <lg type="stanza">
@@ -853,7 +852,7 @@
 <l>And leave me here to mind my sheep."</l>
 </lg>
 <byline rend="right">Agnes Grozier Herbertson".</byline>
-<bibl>(The <hi rend= "italic">Windsor Magazine</hi>, July, 1915</bibl>
+<closer>(The <hi rend= "italic">Windsor Magazine</hi>, July, 1915</closer>
 </div>
 <div type="poem" xml:id="macdonald17">
 <pb n="35"/>
@@ -915,7 +914,7 @@
 <l>Christ's, as they murdered him.</l>
 </lg>
 <byline rend="right">John Helston".</byline>
-<bibl>(The <hi rend= "italic">Poetry Review</hi></bibl>
+<closer>(The <hi rend= "italic">Poetry Review</hi></closer>
 </div>
 <div type="poem" xml:id="macdonald19">
 <head rend="center">To a Friend - Killed in Action. <lb/></head>
@@ -936,7 +935,7 @@
 <l>New life, to prove you have not died in vain.</l>
 </lg>
 <byline rend="right">Harold Simpson".</byline>
-<bibl>(The <hi rend= "italic">Poetry Review</hi></bibl>
+<closer>(The <hi rend= "italic">Poetry Review</hi></closer>
 </div>
 <div type="poem" xml:id="macdonald20">
 <head rend="center">Ode to a Young Man Killed in Flanders. <lb/></head>
@@ -981,7 +980,7 @@
 <l>And this shall be requital and revenge.</l>
 </lg>
 <byline rend="right">Dynely Hussey".</byline>
-<bibl>(The <hi rend= "italic">Poetry Review</hi></bibl>
+<closer>(The <hi rend= "italic">Poetry Review</hi></closer>
 </div>
 <div type="poem" xml:id="macdonald21">
 <pb n="40"/>
@@ -1043,7 +1042,7 @@
 <l>They are the living soul of England now</l>
 </lg>
 <byline rend="right">Eton."</byline>
-<bibl>(The <hi rend= "italic">Times</hi>, June 4th, 1915</bibl>
+<closer>(The <hi rend= "italic">Times</hi>, June 4th, 1915</closer>
 </div>
 <div type="poem" xml:id="macdonald23">
 <pb n="42"/>
@@ -1074,7 +1073,7 @@
 <l>O house them in the home of God!</l>
 </lg>
 <byline rend="right">Near Ypr&#x00E9;s."</byline>
-<bibl>(The <hi rend= "italic">Times</hi>, June 19th, 1915</bibl>
+<closer>(The <hi rend= "italic">Times</hi>, June 19th, 1915</closer>
 </div>
 <div type="poem" xml:id="macdonald24">
 <pb n="43"/>
@@ -1181,7 +1180,7 @@
 <l>And wave beyond the stars that all is well.</l>
 </lg>
 <byline rend="right">M.B. British Expeditionary Force, France.</byline>
-<bibl>(The <hi rend= "italic">Times</hi>, June 5th, 1915</bibl>
+<closer>(The <hi rend= "italic">Times</hi>, June 5th, 1915</closer>
 </div>
 <div type="poem" xml:id="macdonald27">
 <pb n="47"/>
@@ -1220,7 +1219,7 @@
 <l>We plead their sacrifice, O Lord!</l>
 </lg>
 <byline rend="right">A.B.L.</byline>
-<bibl>(The <hi rend= "italic">Observer</hi></bibl>
+<closer>(The <hi rend= "italic">Observer</hi></closer>
 </div>
 <div type="poem" xml:id="macdonald28">
 <pb n="48"/>
@@ -1276,7 +1275,7 @@
 </lg>
 <byline rend="right">I. Gollancz.<lb/>
 King's College, London</byline>
-<bibl>(The <hi rend= "italic">Observer</hi></bibl>
+<closer>(The <hi rend= "italic">Observer</hi></closer>
 </div>
 <div type="poem" xml:id="macdonald30">
 <pb n="51"/>
@@ -1299,7 +1298,7 @@ King's College, London</byline>
 <l>Are exiles in the place where we were born.</l>
 </lg>
 <byline rend="right">George Kelly.</byline>
-<bibl>(The <hi rend= "italic">British Review>, May, 1915</hi></bibl>
+<closer>(The <hi rend= "italic">British Review>, May, 1915</hi></closer>
 </div>
 <div type="poem" xml:id="macdonald31">
 <pb n="52"/>
@@ -1366,7 +1365,7 @@ King's College, London</byline>
 <l>From Our England's heart.</l>
 </lg>
 <byline rend="right">Laurence Binyon.</byline>
-<bibl>(The <hi rend= "italic">Spectator>, June 26th, 1915</hi></bibl>
+<closer>(The <hi rend= "italic">Spectator>, June 26th, 1915</hi></closer>
 </div>
 <div type="poem" xml:id="macdonald32">
 <pb n="52"/>
@@ -1413,7 +1412,7 @@ King's College, London</byline>
 <l>For Life is born of life's self-sacrifice.</l>
 </lg>
 <byline rend="right">Holy Week, Northern France.</byline>
-<bibl>(The <hi rend= "italic">Times></hi></bibl>
+<closer>(The <hi rend= "italic">Times></hi></closer>
 </div>
 <div type="poem" xml:id="macdonald33">
 <pb n="56"/>
@@ -1445,7 +1444,7 @@ King's College, London</byline>
 <l>But lives and grows to all Eternity."</l>
 </lg>
 <byline rend="right">Wynne Stewart</byline>
-<bibl>(The <hi rend= "italic">(Woman at Home)></hi></bibl>
+<closer>(The <hi rend= "italic">(Woman at Home)></hi></closer>
 </div>
 <div type="poem" xml:id="macdonald33">
 <pb n="57"/>
@@ -1522,7 +1521,7 @@ King's College, London</byline>
 <l>Sight of thee-not in Heaven-to-night!</l>
 </lg>
 <byline rend="right">Violet Gillespie</byline>
-<bibl>(<hi rend= "italic">Poems of>1914)</hi></bibl>
+<closer>(<hi rend= "italic">Poems of>1914)</hi></closer>
 </div>
 <div type="poem" xml:id="macdonald35">
 <pb n="57"/>
@@ -1594,7 +1593,7 @@ King's College, London</byline>
 <l>Who knows the hour to die.</l>
 </lg>
 <byline rend="right">Max Plowman</byline>
-<bibl>(The <hi rend= "italic">Daily News>, July 12th, 1915)</hi></bibl>
+<closer>(The <hi rend= "italic">Daily News>, July 12th, 1915)</hi></closer>
 </div>
 <div type="poem" xml:id="macdonald36">
 <pb n="62"/>
@@ -1621,7 +1620,7 @@ King's College, London</byline>
 <l>Even greater than we knew.</l>
 </lg>
 <byline rend="right">Mildred Huxley</byline>
-<bibl>(The <hi rend= "italic">Contemporary Review</hi>, June, 1915)</bibl>
+<closer>(The <hi rend= "italic">Contemporary Review</hi>, June, 1915)</closer>
 </div>
 <div type="poem" xml:id="macdonald37">
 <pb n="63"/>
@@ -1896,7 +1895,7 @@ King's College, London</byline>
 </lg>
 </div>
 <byline rend="right">John Gurdon.</byline>
-<bibl>(The <hi rend= "italic">English Review</hi>)</bibl>
+<closer>(The <hi rend= "italic">English Review</hi>)</closer>
 </div>
 <div type="poem" xml:id="macdonald39">
 <pb n="73"/>
@@ -1927,7 +1926,7 @@ King's College, London</byline>
 <l>"That is, alas! man's fearful dream of me."</l>
 </lg>
 <byline rend="right">Ida May.</byline>
-<bibl>(The <hi rend= "italic">Woman at Home</hi>)</bibl>
+<closer>(The <hi rend= "italic">Woman at Home</hi>)</closer>
 </div>
 <div type="poem" xml:id="macdonald39">
 <pb n="73"/>
@@ -1987,7 +1986,7 @@ King's College, London</byline>
 <l>The immortal Loves begin to build.</l>
 </lg>
 <byline rend="right">Katharine Tynan.</byline>
-<bibl>(<hi rend= "italic">British Review</hi>, May, 1915.)</bibl>
+<closer>(<hi rend= "italic">British Review</hi>, May, 1915.)</closer>
 </div>
 <div type="poem" xml:id="macdonald41">
 <pb n="76"/>
@@ -2035,7 +2034,7 @@ King's College, London</byline>
 <l>Some share of that for which they fought!</l>
 </lg>
 <byline rend="right">Helen Parry Eden.</byline>
-<bibl>(The<hi rend= "italic">Westminster Gazzete</hi>.)</bibl>
+<closer>(The<hi rend= "italic">Westminster Gazzete</hi>.)</closer>
 </div>
 <div type="poem" xml:id="macdonald42">
 <pb n="78"/>
@@ -2065,7 +2064,7 @@ King's College, London</byline>
 <l>Shall notlose hope of Heaven for fear of Hell.</l>
 </lg>
 <byline rend="right">H.S.</byline>
-<bibl>(The<hi rend= "italic">Spectator</hi>, June 19th, 1915.)</bibl>
+<closer>(The<hi rend= "italic">Spectator</hi>, June 19th, 1915.)</closer>
 </div>
 </body>
 </text>

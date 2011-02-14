@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="macdonald">
-   <teiHeader><fileDesc>
+   <teiHeader>
+     <fileDesc>
          <titleStmt>
             <title>A Crown of Amaranth, an electronic edition</title>
 	 </titleStmt>      
@@ -33,8 +34,9 @@
 	     <date>1915</date>
 	   </bibl>
          </sourceDesc>
-	 </fileDesc><encodingDesc>
-	<projectDesc><p>Poetry contemporary to World War I (the Great
+	 </fileDesc>
+	 <encodingDesc>
+	   <projectDesc><p>Poetry contemporary to World War I (the Great
 	War) has been digitized by OCR or rekeying. The work has been
 	done in conjunction with Dr. Harry Rusche of the English
 	Department, Emory University</p></projectDesc>
@@ -58,7 +60,8 @@
 	    </bibl>
 	  </taxonomy>
 	</classDecl>
-      </encodingDesc><profileDesc>
+      </encodingDesc>
+      <profileDesc>
          <creation>
 	   <rs type="collection">poetry</rs>
 	   <rs type="language">English</rs>
@@ -76,8 +79,9 @@
 	       <item>War.</item>
 	     </list>
 	   </keywords>
-	 </textClass></profileDesc>
-	 <revisionDesc>
+	 </textClass>
+       </profileDesc>
+       <revisionDesc>
 	   <change>
 	   <name>Jessie Dunbar</name> encoded this document in p5 <date when="02-09-2011">February 09, 2011</date></change>
 	   </revisionDesc>
@@ -606,7 +610,7 @@
 <l>Pass to God's care.</l>
 </lg>
 <byline rend="right">Beatrice A. Lees.</byline>
-<closer>(The <hi rend= "italic">Spectator</hi>, (June 19th, 1915.)</closer>></div>
+<closer>(The <hi rend= "italic">Spectator</hi>, (June 19th, 1915.)</closer></div>
 <div type="poem" xml:id="macdonald11">
 <head rend="center">For the Airmen. <lb/>
     <hi rend="italic">(Included as a tribute to the ever-glorious memory of Fight-Lieutenant Warneford, V.C.).</hi></head>
@@ -666,7 +670,7 @@
 <l>Guard our flying loves when they follow.</l>
 </lg>
 <byline rend="right">Katharine Tynan".</byline>
-<closer>(The <hi rend= "italic">Windsor Magazine</hi>, July, 1915</closer>>
+<closer>(The <hi rend= "italic">Windsor Magazine</hi>, July, 1915</closer>
 </div>
 <pb n="28"/>
 <div xml:id="macdonald12" type="poem" n="In Memoriam:">
@@ -755,7 +759,7 @@
 <l>Uphold the Flag against the constant stars.</l>
 </lg>
 <byline rend="right">B.M. Hetherington.</byline>
-<closer>(The <hi rend="italic">Bookman</hi>.)</closer>>
+<closer>(The <hi rend="italic">Bookman</hi>.)</closer>
 </div>
 <div type="poem" xml:id="macdonald14">
 <head rend="center">The Telegraph Boy. <lb/></head>
@@ -1017,7 +1021,7 @@
 <l>And think themselves in their own land.</l>
 </lg>
 <byline rend="right">Iolo Aneurin Williams".</byline>
-<bibl>(The <hi rend= "italic">British Review</hi></bibl>
+<closer>(The <hi rend= "italic">British Review</hi></closer>
 </div>
 <div type="poem" xml:id="macdonald22">
 <pb n="41"/>
@@ -1446,7 +1450,7 @@ King's College, London</byline>
 <byline rend="right">Wynne Stewart</byline>
 <closer>(The <hi rend= "italic">(Woman at Home)></hi></closer>
 </div>
-<div type="poem" xml:id="macdonald33">
+<div type="poem" xml:id="macdonald331">
 <pb n="57"/>
 <head rend="center">"Dick."-May, 1915</head>
 <lg type="stanza">
@@ -1494,8 +1498,8 @@ King's College, London</byline>
 <byline rend="right">A.M. Northwood.</byline></div>
 <div type="poem" xml:id="macdonald34">
 <pb n="59"/>
-<head rend="center">The Dead."</head><lb/>
-    <hi rend="smallcap">To One Killed in Action</hi><lb/>
+<head rend="center">The Dead.</head>
+    <head><hi rend="smallcap">To One Killed in Action</hi></head>
 <lg type="stanza">
 <l>DEAR love, they say thou art at rest.</l>
 <l>I heed them not, though thou art long,</l>
@@ -1655,58 +1659,58 @@ King's College, London</byline>
 <pb n="65"/>
 <head rend="center">To the Unknown Dead</head>
 </div>
-<div xml:id="macdonald38" type="section">
-<head rend="center">I.</head>
-<lg>
-<l>TO all the fallen, all the nameless</l>
-<l>Host of the unremembered slain, </l>
-<l>Who noteless fought and perished fameless, </l>
-<l>Yet won the cross- the cross of pain, </l>
-<l>Greeting I bring and requiem. </l>
-<l>May light perpetual shine on them.</l>
-</lg>
-<lg>
-<l>In P&#x00E9;re Lachaise among the marbles </l>
-<l>I marked how human nature tires </l>
-<l>To gather grapes of thorns, or garbles</l>
-<l>Sorrow with insincerities. </l>
-<l>Little I read but hope and praise </l>
-<l>Inscribed for those in P&#x00E9;re Lachaise.</l>
-</lg>
-<lg>
-<l>Yet flesh recoils and spirit falters </l>
-<l>Before the secret of the pit. </l>
-<l>Brave it who may, no glozing alters </l>
-<l>That menace in the gloom of it.</l>
-<l>ìA child's dread of the darkness!î Well, </l>
-<l>Is any fear more terrible ?</l>
-</lg>
-<lg>
-<l>Auroral Lights of perished passion </l>
-<l>'Their streamers on the night unfurl; </l>
-<l>Or memory's wan moonbeams fashion</l>
-<l>'Mid falling tears her arch of pearl; </l>
-<l>And still the eternal silence saith: </l>
-<l>Death is not otherwise than death.</l>
-</lg>
-<lg>
-<l>-Even destruction's gulf, the lightless </l>
-<l>Deep which is called the outer dark, </l>
-<l>So void that thought itself is flightless, </l>
-<l>So formless that no dream for ark </l>
-<l>Floats on oblivion's flood to hive </l>
-<l>Some lingering waifs of self alive.</l>
-</lg>
-<lg>
-<l>Wherefore, as one who makes libation, </l>
-<l>Between the living and the dead </l>
-<l>I stand, and give you salutation, </l>
-<l>Lords of the Terror. Who have said </l>
-<l>Clear words of death? If any hear </l>
-<l>My call, make answer! Rise! Appear!</l>
-</lg>
+<div xml:id="macdonald381" type="section">
+  <head rend="center">I.</head>
+  <lg>
+    <l>TO all the fallen, all the nameless</l>
+    <l>Host of the unremembered slain, </l>
+    <l>Who noteless fought and perished fameless, </l>
+    <l>Yet won the cross- the cross of pain, </l>
+    <l>Greeting I bring and requiem. </l>
+    <l>May light perpetual shine on them.</l>
+  </lg>
+  <lg>
+    <l>In P&#x00E9;re Lachaise among the marbles </l>
+    <l>I marked how human nature tires </l>
+    <l>To gather grapes of thorns, or garbles</l>
+    <l>Sorrow with insincerities. </l>
+    <l>Little I read but hope and praise </l>
+    <l>Inscribed for those in P&#x00E9;re Lachaise.</l>
+  </lg>
+  <lg>
+    <l>Yet flesh recoils and spirit falters </l>
+    <l>Before the secret of the pit. </l>
+    <l>Brave it who may, no glozing alters </l>
+    <l>That menace in the gloom of it.</l>
+    <l>'A child's dread of the darkness!' Well, </l>
+    <l>Is any fear more terrible ?</l>
+  </lg>
+  <lg>
+    <l>Auroral Lights of perished passion </l>
+    <l>'Their streamers on the night unfurl; </l>
+    <l>Or memory's wan moonbeams fashion</l>
+    <l>'Mid falling tears her arch of pearl; </l>
+    <l>And still the eternal silence saith: </l>
+    <l>Death is not otherwise than death.</l>
+  </lg>
+  <lg>
+    <l>-Even destruction's gulf, the lightless </l>
+    <l>Deep which is called the outer dark, </l>
+    <l>So void that thought itself is flightless, </l>
+    <l>So formless that no dream for ark </l>
+    <l>Floats on oblivion's flood to hive </l>
+    <l>Some lingering waifs of self alive.</l>
+  </lg>
+  <lg>
+    <l>Wherefore, as one who makes libation, </l>
+    <l>Between the living and the dead </l>
+    <l>I stand, and give you salutation, </l>
+    <l>Lords of the Terror. Who have said </l>
+    <l>Clear words of death? If any hear </l>
+    <l>My call, make answer! Rise! Appear!</l>
+  </lg>
 </div>
-<div xml:id="macdonald38" type="section">
+<div xml:id="macdonald382" type="section">
 <head rend="center">II.</head>
 <lg>
 <l>Lo ! Sphinx, the ancient wisdom, rises, </l>
@@ -1757,7 +1761,7 @@ King's College, London</byline>
 <l>Perish with thine ignoble truth</l>
 </lg>
 </div>
-<div xml:id="macdonald38" type="section">
+<div xml:id="macdonald383" type="section">
 <head rend="center">III.</head>
 <lg>
 <l>Then to my mouth remembrance lifted </l>
@@ -1808,7 +1812,7 @@ King's College, London</byline>
 <l>Whose waters are eternity.</l>
 </lg>
 </div>
-<div xml:id="macdonald38" type="section">
+<div xml:id="macdonald384" type="section">
 <head rend="center">IV.</head>
 <lg>
 <l>Before me rose austere, impassive, </l>
@@ -1866,7 +1870,7 @@ King's College, London</byline>
 <l>This monument of limestone grey </l>
 <l>Was carven by Bartholom&#x00E9;.</l>
 </lg></div>
-<div xml:id="macdonald38" type="section">
+<div xml:id="macdonald385" type="section">
 <head rend="center">V.</head>
 <lg>
 <l>Why tinsel truth to mimic glory, </l>
@@ -1877,8 +1881,7 @@ King's College, London</byline>
 <l>Such is the recompense of fame!</l>
 </lg>
 <lg>
-<l>Fame! When through death's tremendous </l>
-<l>portal </l>
+<l>Fame! When through death's tremendous portal </l>
 <l>The soul emerging fronts the Sea </l>
 <l>Of Light, and skims on wings immortal</l>
 <l>Its waves of shimmering melody, </l>
@@ -1893,7 +1896,6 @@ King's College, London</byline>
 <l>The empty catafalque. But they, </l>
 <l>Who died for us, are far away</l>
 </lg>
-</div>
 <byline rend="right">John Gurdon.</byline>
 <closer>(The <hi rend= "italic">English Review</hi>)</closer>
 </div>
@@ -1928,7 +1930,7 @@ King's College, London</byline>
 <byline rend="right">Ida May.</byline>
 <closer>(The <hi rend= "italic">Woman at Home</hi>)</closer>
 </div>
-<div type="poem" xml:id="macdonald39">
+<div type="poem" xml:id="macdonald40">
 <pb n="73"/>
 <head rend="center">A Grave in Flanders."<lb/>
     <hi rend="smallcap">By the Marquess of Crewe.</hi></head>
@@ -1958,7 +1960,7 @@ King's College, London</byline>
 </lg>
 <bibl>(The <hi rend= "italic"> Harrovian</hi>)</bibl>
 </div>
-<div type="poem" xml:id="macdonald40">
+<div type="poem" xml:id="macdonald41">
 <pb n="75"/>
 <head rend="center">All Souls."</head>
 <lg type="stanza">
@@ -1988,7 +1990,7 @@ King's College, London</byline>
 <byline rend="right">Katharine Tynan.</byline>
 <closer>(<hi rend= "italic">British Review</hi>, May, 1915.)</closer>
 </div>
-<div type="poem" xml:id="macdonald41">
+<div type="poem" xml:id="macdonald42">
 <pb n="76"/>
 <head rend="center"> Recruits on the Road to Oxford."</head>
 <lg type="stanza">
@@ -2036,7 +2038,7 @@ King's College, London</byline>
 <byline rend="right">Helen Parry Eden.</byline>
 <closer>(The<hi rend= "italic">Westminster Gazzete</hi>.)</closer>
 </div>
-<div type="poem" xml:id="macdonald42">
+<div type="poem" xml:id="macdonald43">
 <pb n="78"/>
 <head rend="center"> Postlude: From America.</head>
 <lg type="stanza">

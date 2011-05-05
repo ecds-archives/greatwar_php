@@ -34,8 +34,8 @@
 	     <date>1915</date>
 	   </bibl>
          </sourceDesc>
-	 </fileDesc>
-	 <encodingDesc>
+     </fileDesc>
+     <encodingDesc>
 	   <projectDesc><p>Poetry contemporary to World War I (the Great
 	War) has been digitized by OCR or rekeying. The work has been
 	done in conjunction with Dr. Harry Rusche of the English
@@ -83,7 +83,7 @@
        </profileDesc>
        <revisionDesc>
 	   <change>
-	   <name>Jessie Dunbar</name> encoded this document in p5 <date when="02-09-2011">February 09, 2011</date></change>
+	   <name>Jessie Dunbar</name> encoded this document in p5 <date when="2011-02-09">February 09, 2011</date></change>
 	   </revisionDesc>
    </teiHeader>
 <text>
@@ -673,7 +673,7 @@
 <closer>(The <hi rend= "italic">Windsor Magazine</hi>, July, 1915</closer>
 </div>
 <pb n="28"/>
-<div xml:id="macdonald12" type="poem" n="In Memoriam:">
+<div xml:id="macdonald12" type="poem">
     <head rend="center">In Memoriam: <lb/>
     <hi rend="smallcap">Flight-Sub-Lieutenant Warnerford, V.C.</hi></head>
 <note><hi rend="italic"> (Born October 15th, 1892; killed June 18th, 1915.)</hi></note>

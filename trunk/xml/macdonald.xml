@@ -90,6 +90,14 @@
 <body>
 <div xml:id="MacDonald01" type="anthology" n="Crown Of Amaranth">
   <div xml:id="MacDonald02" type="poem" n="Dedication">
+    <docAuthor>
+                  <name>
+                     <choice>
+                        <reg>Ford, S. Gertrude</reg>
+                        <sic>S. Gertrude Ford</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
     <head rend="center">DEDICATION. <lb/>
     <hi rend="smallcap">To the Memory of Rupert Brooke</hi></head>
 
@@ -111,23 +119,31 @@
 </lg>
 
 <lg>
-<l>Waft him, all winds, the scent of English earth!</l>
-<l>Let the wood's whisper and the wood-flower's breath</l>
-<l>Find, fresh as rain amid the desert's dearth, </l>
-<l>The heart that seemed April's appropriate birth;</l>
-<l>Sealed April's, too, in death</l>
+  <l>Waft him, all winds, the scent of English earth!</l>
+  <l>Let the wood's whisper and the wood-flower's breath</l>
+  <l>Find, fresh as rain amid the desert's dearth, </l>
+  <l>The heart that seemed April's appropriate birth;</l>
+  <l>Sealed April's, too, in death</l>
 </lg>
 
 <lg>
-<l>Deaf to the roar of battle, yet shall he</l>
-<l>Hear what the grass says when a light breeze stirs ....</l>
-<l>Mothers of men, that men may still be free, </l>
-<l>Yield now their sons-Chief Poet, own and see </l>
-<l>That Song has spared not hers!</l>
+  <l>Deaf to the roar of battle, yet shall he</l>
+  <l>Hear what the grass says when a light breeze stirs ....</l>
+  <l>Mothers of men, that men may still be free, </l>
+  <l>Yield now their sons-Chief Poet, own and see </l>
+  <l>That Song has spared not hers!</l>
 </lg>
 <byline rend="right">S. GERTRUDE FORD.</byline></div>
 
 <div xml:id="MacDonald03" type="poem" n="Englands Dead">
+    <docAuthor>
+                  <name>
+                     <choice>
+                        <reg>Taylor, Frank</reg>
+                        <sic>Frank Taylor</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
 <head rend="center">England's Dead.</head>
 <epigraph rend="italic"><quote>"Make them to be numbered with Thy saints: in glory everlasting."</quote></epigraph>
 
@@ -281,6 +297,14 @@
 </div>
 
 <div xml:id="macDonald04" type="poem">
+    <docAuthor>
+                  <name>
+                     <choice>
+                        <reg></reg>
+                        <sic></sic>
+                     </choice>
+                  </name>
+               </docAuthor>
 <head>Flower of Youth</head>
 <lg type="stanza">
 <l n="1">LEST Heaven be thronged with greybeards hoary,</l>
@@ -330,6 +354,14 @@
 </div>
 <pb n="16"/>
 <div type="poem" xml:id="macdonald05">
+    <docAuthor>
+                  <name>
+                     <choice>
+                        <reg></reg>
+                        <sic></sic>
+                     </choice>
+                  </name>
+               </docAuthor>
 <head rend="center">The Living Victims. <lb/>
     <hi rend="smallcap">Fathers and Mothers of the Fallen</hi></head>
 <lg type="stanza">
@@ -368,7 +400,14 @@
 </div>
 <pb n="17"/>
 <div type="poem" xml:id="macdonald06">
-<head rend="center">Summer in England.</head>
+    <docAuthor>
+                  <name>
+                     <choice>
+                        <reg></reg>
+                        <sic></sic>
+                     </choice>
+                  </name>
+               </docAuthor><head rend="center">Summer in England.</head>
 <lg type="stanza">
 <l>ON London fell a clearer light; </l>
 <l>Caressing pencils of the sun </l>
@@ -418,6 +457,14 @@
 </div>
 <pb n="19"/>
 <div type="poem" xml:id="macdonald07">
+    <docAuthor>
+                  <name>
+                     <choice>
+                        <reg></reg>
+                        <sic></sic>
+                     </choice>
+                  </name>
+               </docAuthor>
 <head rend="center" type="main">To S. K., Killed in Action. </head>
     <head rend="smallcap" type="sub">(Written by His First Teacher).</head>
 <lg type="stanza">
@@ -480,6 +527,14 @@
 </div>
 <pb n="21"/>
 <div type="poem" xml:id="macdonald08">
+    <docAuthor>
+                  <name>
+                     <choice>
+                        <reg></reg>
+                        <sic></sic>
+                     </choice>
+                  </name>
+               </docAuthor>
 <head rend="center">"Missing."</head>
 <lg type="stanza">
 <l>WHEN the anxious hearts say "Where?"</l>
@@ -515,6 +570,14 @@
 <pb n="22"/>
 
 <div type="poem" xml:id="macdonald09">
+    <docAuthor>
+                  <name>
+                     <choice>
+                        <reg></reg>
+                        <sic></sic>
+                     </choice>
+                  </name>
+               </docAuthor>
 <head rend="center">"A. B. V.: By R. V."</head>
 <lg type="stanza">
 <l>I BOW my head, O brother, brother, brother,</l>
@@ -563,6 +626,14 @@
 <closer>(The <hi rend= "italic">Spectator</hi>, June 5, 1915</closer>
 </div>
 <div type="poem" xml:id="macdonald10">
+    <docAuthor>
+                  <name>
+                     <choice>
+                        <reg></reg>
+                        <sic></sic>
+                     </choice>
+                  </name>
+               </docAuthor>
 <head>THE FRONT: 1915.</head>
 <epigraph>
   <cit>
@@ -612,6 +683,14 @@
 <byline rend="right">Beatrice A. Lees.</byline>
 <closer>(The <hi rend= "italic">Spectator</hi>, (June 19th, 1915.)</closer></div>
 <div type="poem" xml:id="macdonald11">
+    <docAuthor>
+                  <name>
+                     <choice>
+                        <reg></reg>
+                        <sic></sic>
+                     </choice>
+                  </name>
+               </docAuthor>
 <head rend="center">For the Airmen. <lb/>
     <hi rend="italic">(Included as a tribute to the ever-glorious memory of Fight-Lieutenant Warneford, V.C.).</hi></head>
 <lg type="stanza">
@@ -674,6 +753,14 @@
 </div>
 <pb n="28"/>
 <div xml:id="macdonald12" type="poem">
+    <docAuthor>
+                  <name>
+                     <choice>
+                        <reg></reg>
+                        <sic></sic>
+                     </choice>
+                  </name>
+               </docAuthor>
     <head rend="center">In Memoriam: <lb/>
     <hi rend="smallcap">Flight-Sub-Lieutenant Warnerford, V.C.</hi></head>
 <note><hi rend="italic"> (Born October 15th, 1892; killed June 18th, 1915.)</hi></note>
@@ -727,6 +814,14 @@
 </lg>
 <byline rend="right">Frederic Iriving Taylor.</byline></div>
 <div type="poem" xml:id="macdonald13">
+    <docAuthor>
+                  <name>
+                     <choice>
+                        <reg></reg>
+                        <sic></sic>
+                     </choice>
+                  </name>
+               </docAuthor>
 <head rend="center">The Women. <lb/></head>
 <lg type="stanza">
 <l>BECAUSE we stand unharmed within the gate, </l>
@@ -762,6 +857,14 @@
 <closer>(The <hi rend="italic">Bookman</hi>.)</closer>
 </div>
 <div type="poem" xml:id="macdonald14">
+    <docAuthor>
+                  <name>
+                     <choice>
+                        <reg></reg>
+                        <sic></sic>
+                     </choice>
+                  </name>
+               </docAuthor>
 <head rend="center">The Telegraph Boy. <lb/></head>
 <lg type="stanza">
 <l>DEATH bids his heralds go their way </l>
@@ -784,9 +887,17 @@
 <l>No answer through the empty years! </l>
 <l>No answer but a mother's tears!</l>
 </lg>
-<byline rend="right">Edward Shillito.</byline></div>
+<byline rend="right">Edward Shillito.</byline>
 <closer>(The <hi rend= "italic">Nation</hi>, (June 12th, 1915.)</closer></div>
 <div type="poem" xml:id="macdonald15">
+    <docAuthor>
+                  <name>
+                     <choice>
+                        <reg></reg>
+                        <sic></sic>
+                     </choice>
+                  </name>
+               </docAuthor>
 <head rend="center">The Woman's Toll. <lb/></head>
 <lg type="stanza">
 <l>O MOTHER, mourning for the son who keeps </l>
@@ -816,7 +927,15 @@
 (Part Author of "The Secret Hill.")</byline>
 <closer>(The <hi rend= "italic">Nation</hi>, (My 15th, 1915.)</closer></div>
 <div type="poem" xml:id="macdonald16">
-<head rend="center">The Quiet Heart. <lb/></head>
+    <docAuthor>
+                  <name>
+                     <choice>
+                        <reg></reg>
+                        <sic></sic>
+                     </choice>
+                  </name>
+               </docAuthor>
+<head rend="center">The Quiet Heart.</head>
 <lg type="stanza">
 <l>OLD man, herding in the dell</l>
 <l>Peaceful sheep with crook and bell </l>
@@ -859,9 +978,17 @@
 <closer>(The <hi rend= "italic">Windsor Magazine</hi>, July, 1915</closer>
 </div>
 <div type="poem" xml:id="macdonald17">
+    <docAuthor>
+                  <name>
+                     <choice>
+                        <reg></reg>
+                        <sic></sic>
+                     </choice>
+                  </name>
+               </docAuthor>
 <pb n="35"/>
-<head rend="center">Peace. <lb/>
-    <hi rend="italic">(A sketch of two Christian soldiers; "enemies" by the accident of war, comrades in the crusade of the Prince of Peace.).</hi></head>
+<head rend="center">Peace. </head>
+    <head rend="italic">(A sketch of two Christian soldiers; "enemies" by the accident of war, comrades in the crusade of the Prince of Peace.).</head>
 <lg type="stanza">
 <l>ALTHOUGH they hated not, they fiercely fought, </l>
 <l>Neither for hope of fame nor love of praise.</l>
@@ -883,6 +1010,14 @@
 <byline rend="right">F.E. Kenneth.<lb/>
 (By special permission of the author.)</byline></div>
 <div type="poem" xml:id="macdonald18">
+    <docAuthor>
+                  <name>
+                     <choice>
+                        <reg></reg>
+                        <sic></sic>
+                     </choice>
+                  </name>
+               </docAuthor>
 <head rend="center">On the Moss: War Time. <lb/></head>
 <lg type="stanza">
 <l>LOUDLY, like the plash of blood </l>
@@ -921,6 +1056,14 @@
 <closer>(The <hi rend= "italic">Poetry Review</hi></closer>
 </div>
 <div type="poem" xml:id="macdonald19">
+    <docAuthor>
+                  <name>
+                     <choice>
+                        <reg></reg>
+                        <sic></sic>
+                     </choice>
+                  </name>
+               </docAuthor>
 <head rend="center">To a Friend - Killed in Action. <lb/></head>
 <lg type="stanza">
 <l>FAIN would weep, and yet my eyes are dry;</l>
@@ -942,6 +1085,14 @@
 <closer>(The <hi rend= "italic">Poetry Review</hi></closer>
 </div>
 <div type="poem" xml:id="macdonald20">
+    <docAuthor>
+                  <name>
+                     <choice>
+                        <reg></reg>
+                        <sic></sic>
+                     </choice>
+                  </name>
+               </docAuthor>
 <head rend="center">Ode to a Young Man Killed in Flanders. <lb/></head>
 <note><hi rend="small caps"> January 15th, 1952</hi></note>
 <lg type="stanza">
@@ -987,6 +1138,14 @@
 <closer>(The <hi rend= "italic">Poetry Review</hi></closer>
 </div>
 <div type="poem" xml:id="macdonald21">
+    <docAuthor>
+                  <name>
+                     <choice>
+                        <reg></reg>
+                        <sic></sic>
+                     </choice>
+                  </name>
+               </docAuthor>
 <pb n="40"/>
 <head rend="center">From a Flemish Graveyard. <lb/></head>
 <note><hi rend="small caps">April, 1915</hi></note>
@@ -1024,8 +1183,10 @@
 <closer>(The <hi rend= "italic">British Review</hi></closer>
 </div>
 <div type="poem" xml:id="macdonald22">
+
 <pb n="41"/>
 <head rend="center">Fourth of June. <lb/></head>
+
 <note><hi rend="small caps">The Old Boys</hi></note>
 <lg type="stanza">
 <l>THEY were the life of English homes: it seems </l>
@@ -1049,6 +1210,14 @@
 <closer>(The <hi rend= "italic">Times</hi>, June 4th, 1915</closer>
 </div>
 <div type="poem" xml:id="macdonald23">
+    <docAuthor>
+                  <name>
+                     <choice>
+                        <reg></reg>
+                        <sic></sic>
+                     </choice>
+                  </name>
+               </docAuthor>
 <pb n="42"/>
 <head rend="center">Requiescant<lb/>
     <hi rend="smallcap">By Canon F. G. Scott, of the Canadian Expeditionary Force</hi></head>
@@ -1080,10 +1249,18 @@
 <closer>(The <hi rend= "italic">Times</hi>, June 19th, 1915</closer>
 </div>
 <div type="poem" xml:id="macdonald24">
+    <docAuthor>
+                  <name>
+                     <choice>
+                        <reg>Grenfell, Julian</reg>
+                        <sic>Captain Julian Grenfell</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
 <pb n="43"/>
-<head rend="center">Into Battle.<lb/>
-    <note><hi rend="italic"> (The following verses have lately reached us from a young soldier fighting in Flanders. They are signed only with his initials, but we may be permitted now  to reveal the fact that they were written by Captain Julian Grenfell, whose death from wounds we regret to record this morning. -"The Times," May 28th, 1915.)</hi></note>
-</head>
+<head rend="center">Into Battle.</head>>
+    <note rend="inline"><hi rend="italic"> (The following verses have lately reached us from a young soldier fighting in Flanders. They are signed only with his initials, but we may be permitted now  to reveal the fact that they were written by Captain Julian Grenfell, whose death from wounds we regret to record this morning. -"The Times," May 28th, 1915.)</hi></note>
+
 <lg type="stanza">
 <l>THE naked earth is warm with Spring,</l>
 <l>And with green grass and bursting trees</l>
@@ -1153,9 +1330,17 @@
 <byline rend="right">Flanders, April, 1915.<lb/>
 (Included by permission of Lord Desborough.)</byline></div>
 <div type="poem" xml:id="macdonald25">
+    <docAuthor>
+                  <name>
+                     <choice>
+                        <reg></reg>
+                        <sic></sic>
+                     </choice>
+                  </name>
+               </docAuthor>
 <pb n="45"/>
-<head rend="center">"From Generation to Generation."<lb/>
-    <hi rend="smallcap">In Memoriam W.G.C.G.</hi></head>
+<head rend="center">"From Generation to Generation."</head>>
+    <head type="sub"><hi rend="smallcap">In Memoriam W.G.C.G.</hi></head>
 <lg type="stanza">
 <l>ONE gave long years with heart and brain, </l>
 <l>One, youth's brief fiery blow, </l>
@@ -1165,6 +1350,14 @@
 <bibl>(The <hi rend= "italic">Times</hi>, April 16th, 1915</bibl>
 </div>
 <div type="poem" xml:id="macdonald26">
+    <docAuthor>
+                  <name>
+                     <choice>
+                        <reg></reg>
+                        <sic>M. B.</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
 <pb n="46"/>
 <head rend="center">Julian Grenfell.</head>
 <lg type="stanza">
@@ -1183,10 +1376,18 @@
 <l>And you will speed us onward with a cheer,</l>
 <l>And wave beyond the stars that all is well.</l>
 </lg>
-<byline rend="right">M.B. British Expeditionary Force, France.</byline>
+<byline rend="right">M.B., British Expeditionary Force, France.</byline>
 <closer>(The <hi rend= "italic">Times</hi>, June 5th, 1915</closer>
 </div>
 <div type="poem" xml:id="macdonald27">
+    <docAuthor>
+                  <name>
+                     <choice>
+                        <reg></reg>
+                        <sic></sic>
+                     </choice>
+                  </name>
+               </docAuthor>
 <pb n="47"/>
 <head rend="center">"The Crosses."<lb/>
     <hi rend="smallcap">Belgium 1914-15</hi></head>
@@ -1226,6 +1427,14 @@
 <closer>(The <hi rend= "italic">Observer</hi></closer>
 </div>
 <div type="poem" xml:id="macdonald28">
+    <docAuthor>
+                  <name>
+                     <choice>
+                        <reg></reg>
+                        <sic></sic>
+                     </choice>
+                  </name>
+               </docAuthor>
 <pb n="48"/>
 <head rend="center">"The Patriot."</head>
 <lg type="stanza">
@@ -1254,6 +1463,14 @@
 </lg>
 <byline rend="right">B.R.M. Hetherington.</byline></div>
 <div type="poem" xml:id="macdonald29">
+    <docAuthor>
+                  <name>
+                     <choice>
+                        <reg></reg>
+                        <sic></sic>
+                     </choice>
+                  </name>
+               </docAuthor>
 <pb n="47"/>
 <head rend="center">Lieut. John Richardson."<lb/>
     <hi rend="smallcap">1893-1915<lb/>
@@ -1282,6 +1499,14 @@ King's College, London</byline>
 <closer>(The <hi rend= "italic">Observer</hi></closer>
 </div>
 <div type="poem" xml:id="macdonald30">
+    <docAuthor>
+                  <name>
+                     <choice>
+                        <reg></reg>
+                        <sic></sic>
+                     </choice>
+                  </name>
+               </docAuthor>
 <pb n="51"/>
 <head rend="center">"The Exiles."</head>
 <lg type="stanza">
@@ -1305,6 +1530,14 @@ King's College, London</byline>
 <closer>(The <hi rend= "italic">British Review>, May, 1915</hi></closer>
 </div>
 <div type="poem" xml:id="macdonald31">
+    <docAuthor>
+                  <name>
+                     <choice>
+                        <reg></reg>
+                        <sic></sic>
+                     </choice>
+                  </name>
+               </docAuthor>
 <pb n="52"/>
 <head rend="center">The English Graves.</head>
 <lg type="stanza">
@@ -1372,6 +1605,14 @@ King's College, London</byline>
 <closer>(The <hi rend= "italic">Spectator>, June 26th, 1915</hi></closer>
 </div>
 <div type="poem" xml:id="macdonald32">
+    <docAuthor>
+                  <name>
+                     <choice>
+                        <reg></reg>
+                        <sic></sic>
+                     </choice>
+                  </name>
+               </docAuthor>
 <pb n="52"/>
 <head rend="center">On the Rue Du Bois</head>
 <note><hi rend="italic"> (A distinguished officer writes from the British Headquarters in France :-" I venture to send you these beautiful lines, written by Canon F. G. Scott, of Quebec, who is doing duty with the 3rd Brigade of the Canadian Division, and whose impressions which brought about the writing of these lines were gained from actual experiences in the trenches. It seems to me that such words as these should be be made known to the public, for apart from their intrinsic beauty they are full of comfort to those who are sorely stricken in this terrible war.")</hi></note>
@@ -1419,6 +1660,14 @@ King's College, London</byline>
 <closer>(The <hi rend= "italic">Times></hi></closer>
 </div>
 <div type="poem" xml:id="macdonald33">
+    <docAuthor>
+                  <name>
+                     <choice>
+                        <reg></reg>
+                        <sic></sic>
+                     </choice>
+                  </name>
+               </docAuthor>
 <pb n="56"/>
 <head rend="center">Hope</head>
 <lg type="stanza">
@@ -1451,6 +1700,14 @@ King's College, London</byline>
 <closer>(The <hi rend= "italic">(Woman at Home)></hi></closer>
 </div>
 <div type="poem" xml:id="macdonald331">
+    <docAuthor>
+                  <name>
+                     <choice>
+                        <reg></reg>
+                        <sic></sic>
+                     </choice>
+                  </name>
+               </docAuthor>
 <pb n="57"/>
 <head rend="center">"Dick."-May, 1915</head>
 <lg type="stanza">
@@ -1497,6 +1754,14 @@ King's College, London</byline>
 </lg>
 <byline rend="right">A.M. Northwood.</byline></div>
 <div type="poem" xml:id="macdonald34">
+    <docAuthor>
+                  <name>
+                     <choice>
+                        <reg></reg>
+                        <sic></sic>
+                     </choice>
+                  </name>
+               </docAuthor>
 <pb n="59"/>
 <head rend="center">The Dead.</head>
     <head><hi rend="smallcap">To One Killed in Action</hi></head>
@@ -1528,6 +1793,14 @@ King's College, London</byline>
 <closer>(<hi rend= "italic">Poems of>1914)</hi></closer>
 </div>
 <div type="poem" xml:id="macdonald35">
+    <docAuthor>
+                  <name>
+                     <choice>
+                        <reg></reg>
+                        <sic></sic>
+                     </choice>
+                  </name>
+               </docAuthor>
 <pb n="57"/>
 <head rend="center">Another Call to Arms</head>
 <lg type="stanza">
@@ -1600,6 +1873,14 @@ King's College, London</byline>
 <closer>(The <hi rend= "italic">Daily News>, July 12th, 1915)</hi></closer>
 </div>
 <div type="poem" xml:id="macdonald36">
+    <docAuthor>
+                  <name>
+                     <choice>
+                        <reg></reg>
+                        <sic></sic>
+                     </choice>
+                  </name>
+               </docAuthor>
 <pb n="62"/>
 <head rend="center">Tribute to England's Deathless Dead</head>
 <lg type="stanza">
@@ -1627,6 +1908,14 @@ King's College, London</byline>
 <closer>(The <hi rend= "italic">Contemporary Review</hi>, June, 1915)</closer>
 </div>
 <div type="poem" xml:id="macdonald37">
+    <docAuthor>
+                  <name>
+                     <choice>
+                        <reg></reg>
+                        <sic></sic>
+                     </choice>
+                  </name>
+               </docAuthor>
 <pb n="63"/>
 <head rend="center">Chant of Dead Warriors</head>
 <lg type="stanza">
@@ -1656,9 +1945,16 @@ King's College, London</byline>
 <byline rend="right">Cecil Roberts</byline>
 </div>
 <div type="poem" xml:id="macdonald38">
+    <docAuthor>
+                  <name>
+                     <choice>
+                        <reg></reg>
+                        <sic></sic>
+                     </choice>
+                  </name>
+               </docAuthor>
 <pb n="65"/>
 <head rend="center">To the Unknown Dead</head>
-</div>
 <div xml:id="macdonald381" type="section">
   <head rend="center">I.</head>
   <lg>
@@ -1899,6 +2195,7 @@ King's College, London</byline>
 <byline rend="right">John Gurdon.</byline>
 <closer>(The <hi rend= "italic">English Review</hi>)</closer>
 </div>
+</div>
 <div type="poem" xml:id="macdonald39">
 <pb n="73"/>
 <head rend="center">The Shadow."<lb/>
@@ -2067,7 +2364,8 @@ King's College, London</byline>
 </lg>
 <byline rend="right">H.S.</byline>
 <closer>(The<hi rend= "italic">Spectator</hi>, June 19th, 1915.)</closer>
-</div>
+</div> <!-- end poem -->
+</div> <!-- end anthology -->
 </body>
 </text>
 </TEI>

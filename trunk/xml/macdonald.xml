@@ -300,8 +300,8 @@
     <docAuthor>
                   <name>
                      <choice>
-                        <reg></reg>
-                        <sic></sic>
+                        <reg>Tynan, Katharine</reg>
+                        <sic>Katharine Tynan</sic>
                      </choice>
                   </name>
                </docAuthor>
@@ -403,8 +403,8 @@
     <docAuthor>
                   <name>
                      <choice>
-                        <reg></reg>
-                        <sic></sic>
+                        <reg>Meynell, Alice</reg>
+                        <sic>Alice Meyell</sic>
                      </choice>
                   </name>
                </docAuthor><head rend="center">Summer in England.</head>
@@ -460,8 +460,8 @@
     <docAuthor>
                   <name>
                      <choice>
-                        <reg></reg>
-                        <sic></sic>
+                        <reg>Snow, W.</reg>
+                        <sic>W. Snow</sic>
                      </choice>
                   </name>
                </docAuthor>
@@ -530,8 +530,8 @@
     <docAuthor>
                   <name>
                      <choice>
-                        <reg></reg>
-                        <sic></sic>
+                        <reg>Adair, Ivan</reg>
+                        <sic>Ivan Adair</sic>
                      </choice>
                   </name>
                </docAuthor>
@@ -574,7 +574,7 @@
                   <name>
                      <choice>
                         <reg></reg>
-                        <sic></sic>
+                        <sic>R. V.</sic>
                      </choice>
                   </name>
                </docAuthor>
@@ -629,8 +629,8 @@
     <docAuthor>
                   <name>
                      <choice>
-                        <reg></reg>
-                        <sic></sic>
+                        <reg>Lees, Beatrice A.</reg>
+                        <sic>Beatrice A. Lees</sic>
                      </choice>
                   </name>
                </docAuthor>
@@ -686,8 +686,8 @@
     <docAuthor>
                   <name>
                      <choice>
-                        <reg></reg>
-                        <sic></sic>
+                        <reg>Tynan, Katharine</reg>
+                        <sic>Katharine Tynan</sic>
                      </choice>
                   </name>
                </docAuthor>
@@ -756,8 +756,8 @@
     <docAuthor>
                   <name>
                      <choice>
-                        <reg></reg>
-                        <sic></sic>
+                        <reg>Taylor, Frederic Irving</reg>
+                        <sic>Frederic Irving Taylor</sic>
                      </choice>
                   </name>
                </docAuthor>
@@ -817,8 +817,8 @@
     <docAuthor>
                   <name>
                      <choice>
-                        <reg></reg>
-                        <sic></sic>
+                        <reg>Hetherington, B. M.</reg>
+                        <sic>B. M. Hetherington </sic>
                      </choice>
                   </name>
                </docAuthor>
@@ -853,15 +853,15 @@
 <l>Not they who die, not they alone, but we,</l>
 <l>Uphold the Flag against the constant stars.</l>
 </lg>
-<byline rend="right">B.M. Hetherington.</byline>
+<byline rend="right">B. M. Hetherington.</byline>
 <closer>(The <hi rend="italic">Bookman</hi>.)</closer>
 </div>
 <div type="poem" xml:id="macdonald14">
     <docAuthor>
                   <name>
                      <choice>
-                        <reg></reg>
-                        <sic></sic>
+                        <reg>Shillito, Edward</reg>
+                        <sic>Edward Shillito</sic>
                      </choice>
                   </name>
                </docAuthor>
@@ -893,8 +893,8 @@
     <docAuthor>
                   <name>
                      <choice>
-                        <reg></reg>
-                        <sic></sic>
+                        <reg>Duffin, Ruth</reg>
+                        <sic>Ruth Duffin</sic>
                      </choice>
                   </name>
                </docAuthor>
@@ -930,8 +930,8 @@
     <docAuthor>
                   <name>
                      <choice>
-                        <reg></reg>
-                        <sic></sic>
+                        <reg>Herbertson, Agnes Grozier</reg>
+                        <sic>Agnes Grozier Herbertson</sic>
                      </choice>
                   </name>
                </docAuthor>
@@ -981,8 +981,8 @@
     <docAuthor>
                   <name>
                      <choice>
-                        <reg></reg>
-                        <sic></sic>
+                        <reg>Kenneth, F. E.</reg>
+                        <sic>F. E. Kenneth</sic>
                      </choice>
                   </name>
                </docAuthor>
@@ -1007,14 +1007,14 @@
 <l>"In the blest kingdoms meek of joy and love." </l>
 <l>They enter as true brothers, hand in hand.</l>
 </lg>
-<byline rend="right">F.E. Kenneth.<lb/>
+<byline rend="right">F. E. Kenneth.<lb/>
 (By special permission of the author.)</byline></div>
 <div type="poem" xml:id="macdonald18">
     <docAuthor>
                   <name>
                      <choice>
-                        <reg></reg>
-                        <sic></sic>
+                        <reg>Helston, John</reg>
+                        <sic>John Helston</sic>
                      </choice>
                   </name>
                </docAuthor>
@@ -1059,8 +1059,8 @@
     <docAuthor>
                   <name>
                      <choice>
-                        <reg></reg>
-                        <sic></sic>
+                        <reg>Simpson, Harold</reg>
+                        <sic>Harold Simpson</sic>
                      </choice>
                   </name>
                </docAuthor>
@@ -1088,8 +1088,8 @@
     <docAuthor>
                   <name>
                      <choice>
-                        <reg></reg>
-                        <sic></sic>
+                        <reg>Hussey, Dyneley</reg>
+                        <sic>Dyneley Hussey</sic>
                      </choice>
                   </name>
                </docAuthor>
@@ -1134,15 +1134,15 @@
 <l>Arts arise Gaining fresh glories by thy sacrifice; </l>
 <l>And this shall be requital and revenge.</l>
 </lg>
-<byline rend="right">Dynely Hussey".</byline>
+<byline rend="right">Dyneley Hussey".</byline>
 <closer>(The <hi rend= "italic">Poetry Review</hi></closer>
 </div>
 <div type="poem" xml:id="macdonald21">
     <docAuthor>
                   <name>
                      <choice>
-                        <reg></reg>
-                        <sic></sic>
+                        <reg>Williams, Iolo Aneurin</reg>
+                        <sic>Iolo Aneurin Williams</sic>
                      </choice>
                   </name>
                </docAuthor>
@@ -1183,7 +1183,14 @@
 <closer>(The <hi rend= "italic">British Review</hi></closer>
 </div>
 <div type="poem" xml:id="macdonald22">
-
+<docAuthor>
+                  <name>
+                     <choice>
+                        <reg></reg>
+                        <sic>Eton</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
 <pb n="41"/>
 <head rend="center">Fourth of June. <lb/></head>
 
@@ -1213,8 +1220,8 @@
     <docAuthor>
                   <name>
                      <choice>
-                        <reg></reg>
-                        <sic></sic>
+                        <reg>Scott, F. G.</reg>
+                        <sic>Canon F. G. Scott</sic>
                      </choice>
                   </name>
                </docAuthor>
@@ -1384,7 +1391,7 @@
                   <name>
                      <choice>
                         <reg></reg>
-                        <sic></sic>
+                        <sic>A. B. L.</sic>
                      </choice>
                   </name>
                </docAuthor>
@@ -1423,15 +1430,15 @@
 <l>For Country, right, and loyal word, </l>
 <l>We plead their sacrifice, O Lord!</l>
 </lg>
-<byline rend="right">A.B.L.</byline>
+<byline rend="right">A. B. L.</byline>
 <closer>(The <hi rend= "italic">Observer</hi></closer>
 </div>
 <div type="poem" xml:id="macdonald28">
     <docAuthor>
                   <name>
                      <choice>
-                        <reg></reg>
-                        <sic></sic>
+                        <reg>Hetherington, B. R. M.</reg>
+                        <sic>B. R. M. Hetherington</sic>
                      </choice>
                   </name>
                </docAuthor>
@@ -1461,13 +1468,13 @@
 <l>On English shores, has put his life in pawn</l>
 <l>For her, for England's sake.</l>
 </lg>
-<byline rend="right">B.R.M. Hetherington.</byline></div>
+<byline rend="right">B. R. M. Hetherington.</byline></div>
 <div type="poem" xml:id="macdonald29">
     <docAuthor>
                   <name>
                      <choice>
-                        <reg></reg>
-                        <sic></sic>
+                        <reg>Gollancz, I.</reg>
+                        <sic>I. Gollancz</sic>
                      </choice>
                   </name>
                </docAuthor>
@@ -1502,8 +1509,8 @@ King's College, London</byline>
     <docAuthor>
                   <name>
                      <choice>
-                        <reg></reg>
-                        <sic></sic>
+                        <reg>Kelly, George</reg>
+                        <sic>George Kelly</sic>
                      </choice>
                   </name>
                </docAuthor>
@@ -1533,8 +1540,8 @@ King's College, London</byline>
     <docAuthor>
                   <name>
                      <choice>
-                        <reg></reg>
-                        <sic></sic>
+                        <reg>Binyon, Laurence</reg>
+                        <sic>Laurence Binyon</sic>
                      </choice>
                   </name>
                </docAuthor>
@@ -1608,8 +1615,8 @@ King's College, London</byline>
     <docAuthor>
                   <name>
                      <choice>
-                        <reg></reg>
-                        <sic></sic>
+                        <reg>Scott, F. G.</reg>
+                        <sic>Canon F. G. Scott</sic>
                      </choice>
                   </name>
                </docAuthor>
@@ -1663,8 +1670,8 @@ King's College, London</byline>
     <docAuthor>
                   <name>
                      <choice>
-                        <reg></reg>
-                        <sic></sic>
+                        <reg>Stewart, Wynne</reg>
+                        <sic>Wynne Stewart</sic>
                      </choice>
                   </name>
                </docAuthor>
@@ -1703,8 +1710,8 @@ King's College, London</byline>
     <docAuthor>
                   <name>
                      <choice>
-                        <reg></reg>
-                        <sic></sic>
+                        <reg>Northwood, A. M.</reg>
+                        <sic>A. M. Northwood</sic>
                      </choice>
                   </name>
                </docAuthor>
@@ -1752,13 +1759,13 @@ King's College, London</byline>
 <l>It is the life by sacrifice attain&#x00E9;d,</l>
 <l>Of God ordained ere yet the world began.</l>
 </lg>
-<byline rend="right">A.M. Northwood.</byline></div>
+<byline rend="right">A. M. Northwood.</byline></div>
 <div type="poem" xml:id="macdonald34">
     <docAuthor>
                   <name>
                      <choice>
-                        <reg></reg>
-                        <sic></sic>
+                        <reg>Gillespie, Violet</reg>
+                        <sic>Voilet, Gillespie</sic>
                      </choice>
                   </name>
                </docAuthor>
@@ -1796,8 +1803,8 @@ King's College, London</byline>
     <docAuthor>
                   <name>
                      <choice>
-                        <reg></reg>
-                        <sic></sic>
+                        <reg>Plowman, Max</reg>
+                        <sic>Max Plowman</sic>
                      </choice>
                   </name>
                </docAuthor>
@@ -1876,8 +1883,8 @@ King's College, London</byline>
     <docAuthor>
                   <name>
                      <choice>
-                        <reg></reg>
-                        <sic></sic>
+                        <reg>Huxley, Mildred</reg>
+                        <sic>Mildred Huxley</sic>
                      </choice>
                   </name>
                </docAuthor>
@@ -1911,8 +1918,8 @@ King's College, London</byline>
     <docAuthor>
                   <name>
                      <choice>
-                        <reg></reg>
-                        <sic></sic>
+                        <reg>Roberts, Cecil</reg>
+                        <sic>Cecil Roberts</sic>
                      </choice>
                   </name>
                </docAuthor>
@@ -1948,8 +1955,8 @@ King's College, London</byline>
     <docAuthor>
                   <name>
                      <choice>
-                        <reg></reg>
-                        <sic></sic>
+                        <reg>Gurdon, John</reg>
+                        <sic>John Gurdon</sic>
                      </choice>
                   </name>
                </docAuthor>
@@ -2197,6 +2204,14 @@ King's College, London</byline>
 </div>
 </div>
 <div type="poem" xml:id="macdonald39">
+<docAuthor>
+                  <name>
+                     <choice>
+                        <reg>May, Ida</reg>
+                        <sic>Ida May</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
 <pb n="73"/>
 <head rend="center">The Shadow."<lb/>
     <hi rend="smallcap">For the Mourners of the Slain.</hi></head>
@@ -2228,6 +2243,14 @@ King's College, London</byline>
 <closer>(The <hi rend= "italic">Woman at Home</hi>)</closer>
 </div>
 <div type="poem" xml:id="macdonald40">
+<docAuthor>
+                  <name>
+                     <choice>
+                        <reg></reg>
+                        <sic>The Marquess of Crewe</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
 <pb n="73"/>
 <head rend="center">A Grave in Flanders."<lb/>
     <hi rend="smallcap">By the Marquess of Crewe.</hi></head>
@@ -2258,6 +2281,14 @@ King's College, London</byline>
 <bibl>(The <hi rend= "italic"> Harrovian</hi>)</bibl>
 </div>
 <div type="poem" xml:id="macdonald41">
+<docAuthor>
+                  <name>
+                     <choice>
+                        <reg>Tynan, Katharine</reg>
+                        <sic>Katharine Tynan</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
 <pb n="75"/>
 <head rend="center">All Souls."</head>
 <lg type="stanza">
@@ -2288,6 +2319,14 @@ King's College, London</byline>
 <closer>(<hi rend= "italic">British Review</hi>, May, 1915.)</closer>
 </div>
 <div type="poem" xml:id="macdonald42">
+<docAuthor>
+                  <name>
+                     <choice>
+                        <reg>Eden, Helen Parry</reg>
+                        <sic>Helen Parry Eden</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
 <pb n="76"/>
 <head rend="center"> Recruits on the Road to Oxford."</head>
 <lg type="stanza">
@@ -2336,6 +2375,14 @@ King's College, London</byline>
 <closer>(The<hi rend= "italic">Westminster Gazzete</hi>.)</closer>
 </div>
 <div type="poem" xml:id="macdonald43">
+<docAuthor>
+                  <name>
+                     <choice>
+                        <reg></reg>
+                        <sic>H. S.</sic>
+                     </choice>
+                  </name>
+               </docAuthor>
 <pb n="78"/>
 <head rend="center"> Postlude: From America.</head>
 <lg type="stanza">
@@ -2362,7 +2409,7 @@ King's College, London</byline>
 <l>Shall not from Duty turn her face away-</l>
 <l>Shall notlose hope of Heaven for fear of Hell.</l>
 </lg>
-<byline rend="right">H.S.</byline>
+<byline rend="right">H. S.</byline>
 <closer>(The<hi rend= "italic">Spectator</hi>, June 19th, 1915.)</closer>
 </div> <!-- end poem -->
 </div> <!-- end anthology -->

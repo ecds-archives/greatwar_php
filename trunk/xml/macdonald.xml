@@ -691,10 +691,9 @@
                      </choice>
                   </name>
                </docAuthor>
-<head rend="center">For the Airmen. <lb/>
-    <hi rend="italic">(Included as a tribute to the ever-glorious memory of Fight-Lieutenant Warneford, V.C.).</hi></head>
+<head rend="center">For the Airmen. </head>
+    <head><hi rend="italic">(Included as a tribute to the ever-glorious memory of Fight-Lieutenant Warneford, V.C.).</hi></head>
 <lg type="stanza">
-<l>(Included as a tribute to the ever-glorious memory of Flight-Lieutenant Warneford, V.C.).</l>
 <l></l>
 <l>THOU who guidest the swallow and wren, </l>
 <l>Keep the paths of the flying men.</l>
@@ -1265,7 +1264,7 @@
                   </name>
                </docAuthor>
 <pb n="43"/>
-<head rend="center">Into Battle.</head>>
+<head rend="center">Into Battle.</head>
     <note rend="inline"><hi rend="italic"> (The following verses have lately reached us from a young soldier fighting in Flanders. They are signed only with his initials, but we may be permitted now  to reveal the fact that they were written by Captain Julian Grenfell, whose death from wounds we regret to record this morning. -"The Times," May 28th, 1915.)</hi></note>
 
 <lg type="stanza">
@@ -1346,7 +1345,7 @@
                   </name>
                </docAuthor>
 <pb n="45"/>
-<head rend="center">"From Generation to Generation."</head>>
+<head rend="center">"From Generation to Generation."</head>
     <head type="sub"><hi rend="smallcap">In Memoriam W.G.C.G.</hi></head>
 <lg type="stanza">
 <l>ONE gave long years with heart and brain, </l>

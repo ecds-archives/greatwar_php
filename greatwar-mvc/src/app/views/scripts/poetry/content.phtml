@@ -1,0 +1,31 @@
+<div class="content">
+<h2>Contents: <?= $this->booktoc->title ?></h2>
+   <h3><? if (isset($this->booktoc->author) && $this->booktoc->author): ?><?= $this->booktoc->author ?>
+       <? elseif (isset($this->booktoc->editor) && $this->booktoc->editor): ?><?= $this->booktoc->editor ?>
+    <? endif ?>
+</h3>
+
+
+
+<ul class="toc">
+     <? if (isset($this->booktoc->fdiv) && $this->booktoc->fdiv): ?>
+	<? foreach ($this->booktoc->fdiv as $fdivs): ?>
+	     <li><a href="<?= $this->url(array('id' => $fdivs->id)) ?>">
+<? if (isset($fdivs->title)): ?><?= $fdivs->title ?></a> <font class="type">(<?= $fdivs->type ?>)</font> 
+<? elseif (isset($fdivs->type)): ?><?= $fdivs->type ?></a>
+<?endif ?></li>
+	     <? endforeach ?>
+     <? endif ?>
+     <? foreach ($this->booktoc->div as $div): ?>
+         <?= $this->partial("poetry/_toc_div.phtml", array("div" => $div)) ?>
+     <? endforeach ?>
+    <? if (isset($this->booktoc->text->back)): ?>
+         <li><a href="<?= $this->url(array('id' => $this->doc->text->back->id)) ?>">back matter</a></li>			       
+  <? endif ?>				      
+</ul>  
+
+</div>						
+
+
+	    <pre><?// print_r($this->booktoc) ?></pre> <!-- outputs the array; view source for xml -->
+

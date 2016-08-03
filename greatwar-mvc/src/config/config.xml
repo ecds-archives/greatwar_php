@@ -1,0 +1,23 @@
+<config>
+	<development>
+		<timezone>America/New_York</timezone>
+		<session_name>greatwar-mvc-ah</session_name> <!-- PHP session name -->
+		<database>
+			<adapter>exist</adapter>
+			<params>
+				<host>wilson.library.emory.edu</host>
+				<port>8080</port>
+				<webapp>exist</webapp>
+				<username>ahickco</username>
+				<password>uioJKL89</password>
+				<dbname>greatwar</dbname>
+			</params>
+		</database>
+	</development>
+
+	<test extends="development">
+	</test>
+
+	<production extends="development">
+	</production>
+</config>

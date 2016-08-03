@@ -1,0 +1,12 @@
+<?= $this->render("tei/_head.phtml"); ?>
+
+<p class="toc">Table of Contents</p>
+
+<ul class="toc">
+  <? foreach ($this->doc->text->div as $div): ?>
+    <?= $this->partial("tei/_toc_div.phtml", array("div" => $div, "doc_name" => $this->doc_name)) ?>
+  <? endforeach ?>
+  <? if (isset($this->doc->text->back)): ?>
+    <li><a href="<?= $this->url(array('id' => $this->doc->text->back->id), 'document-section') ?>">back matter</a></li>			       
+  <? endif ?>				      
+</ul>  

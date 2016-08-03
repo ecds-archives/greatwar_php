@@ -1,0 +1,14 @@
+<div class="content">
+<h2>Poetry</h2>
+
+<? foreach ($this->list as $item): ?>
+<p>
+<a href="<?= $this->url(array('action' => 'content', 'id' => $item->id)) ?>">
+   <?= $item->title ?></a><? if (isset($item->author) && $item->author): ?>, by <?= $item->author ?>
+   <? elseif (isset($item->editor) && $item->editor): ?>, edited by <?= $item->editor ?>
+   <? endif ?>
+</p>
+
+<? endforeach ?>
+</div>
+									       <pre><?// print_r($this->list) ?></pre> 

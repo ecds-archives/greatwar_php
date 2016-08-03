@@ -1,0 +1,30 @@
+<? //from searchbox.php ?>
+
+
+<? /* FIXME: Note: the variable $base_url must be set (by config.php) before including this file */ ?>
+<div class="sidebar">
+<div class='nav'>
+<h3>Navigation</h3>
+<p>
+<a href="<?= $this->url(array("controller" => "poetry", "action" => "index")) ?>">Browse Volumes</a><br/>
+<a href="<?= $this->url(array("controller" => "poetry", "action" => "index")) ?>">Poetry</a><br/><!-- get by poet-->
+<a href="<?= $this->url(array("controller" => "poetry", "action" => "index")) ?>">Advanced Search</a>
+</p>
+</div>
+<div class='search'>
+<h3>Search</h3> 
+
+<form action='searchall.php'>
+<input type='text' name='keyword' size='15'>
+<input type='submit' value='Go'>
+<font size='-1'>
+
+<h4>Search within:</h4>
+<input type='checkbox' name='poetry' checked>Poetry<br>
+<input type='checkbox' name='postcards' checked>Postcards<br>
+<input type='checkbox' name='links' checked>Links<br>
+</font>
+</form>
+
+</div>
+</div>

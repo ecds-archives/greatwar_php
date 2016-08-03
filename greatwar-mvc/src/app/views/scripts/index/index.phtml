@@ -1,0 +1,32 @@
+<div class="index">
+<p>
+<?= $this->img("images/front.jpg", array('alt' => 'The Great War front image', 'width' => '600', 'height' => '400', 'borders' => '0')) ?>
+<p>
+<table class="indexlinks">
+<tr>
+   <td><a href="<?= $this->url(array("controller" => "index", "action" => "about"), null, true) ?>">About the Site</a></td>
+<td class="separator">&bull;</td>
+<td><a href="<?= $this->url(array("controller" => "postcards"), null, true) ?>">Postcards</a></td>
+<td class="separator">&bull;</td>
+<td><a href="<?= $this->url(array("controller" => "poetry"), null, true) ?>">Poetry</a></td>
+<td class="separator">&bull;</td>
+<td><a href="<?= $this->url(array("controller" => "links"), null, true) ?>">Links</a></td>
+</tr>
+
+</table>
+<div class="indexsearch">
+<p>
+<h3>Search</h3>
+
+<form action="searchall.php"> <!-- need to revise this -->
+<input type="text" name="keyword" size="20">
+<input type="submit" value="Go">
+<h4>Search within:</h4>
+<font size="-1">
+<input type='checkbox' name='poetry' checked>Poetry
+<input type='checkbox' name='postcards' checked>Postcards
+<input type='checkbox' name='links' checked>Links
+</font>
+</form>
+</div> <!-- indexsearch -->
+</div> <!-- index -->

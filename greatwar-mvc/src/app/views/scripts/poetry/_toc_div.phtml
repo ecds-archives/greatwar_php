@@ -1,0 +1,18 @@
+<? /* recursive template to display one section in a table of contents */ ?>
+
+
+<li>
+<? if (!preg_match("/anthology|chapter|poetry/i", $this->div->type)): ?>
+   <a href="<?= $this->url(array('action' => 'poem', 'id' => $this->div->id)) ?>"><? endif ?>
+<? if (isset($this->div->n) && $this->div->n): ?><?= $this->div->n ?>
+<? elseif (isset($this->div->head) && $this->div->head): ?><?= $this->div->head ?><? endif ?><? if (preg_match("/poem|essay/i", $this->div->type)): ?></a><? endif ?>
+<? if (isset($this->div->docAuthor) && $this->div->docAuthor): ?>, <?= $this->div->docAuthor ?><? endif ?> <font class="type">(<?= $this->div->type ?>)</font>
+
+  <? if (isset($this->div->div) && count($this->div->div)): ?>
+    <ul>
+      <? foreach ($this->div->div as $subdiv): ?>
+       <?= $this->partial("poetry/_toc_div.phtml", array("div" => $subdiv)) ?>
+      <? endforeach ?>
+    </ul>
+  <? endif ?>				      
+</li>
